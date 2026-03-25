@@ -1,0 +1,265 @@
+{
+  "source_system": "osfi_guidance_library",
+  "library_row_title": "Expert Opinions and Report - Canadian Company Demutualizations",
+  "library_row_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/expert-opinions-report-canadian-company-demutualizations",
+  "listing_date_raw": "May 31, 1999",
+  "listing_date_iso": "1999-05-31",
+  "listing_publication_type": "Guidance note",
+  "listing_category": "",
+  "listing_sector": [
+    "Life Insurance and Fraternal Companies"
+  ],
+  "crawl_timestamp": "2026-03-11T00:00:00Z",
+  "detail_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/expert-opinions-report-canadian-company-demutualizations",
+  "canonical_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/expert-opinions-report-canadian-company-demutualizations",
+  "slug": "expert-opinions-report-canadian-company-demutualizations",
+  "title": "Expert Opinions and Report - Canadian Company Demutualizations",
+  "publication_type": "Guidance note",
+  "category": "",
+  "document_date_raw": "May 31, 1999",
+  "document_date_iso": "1999-05-31",
+  "sector": [
+    "Life Insurance and Fraternal Companies"
+  ],
+  "effective_date_text": "",
+  "guideline_number": "",
+  "date_modified_raw": "1999-05-31T12:00:00Z",
+  "generate_pdf_url": "https://www.osfi-bsif.gc.ca/en/print/pdf/node/1765",
+  "pdf_node_id": 1765,
+  "direct_pdf_url": null,
+  "has_table_of_contents": true,
+  "toc_entries": [],
+  "has_related_documents": true,
+  "related_document_links_raw": [
+    {
+      "title": "Demutualization",
+      "url": "https://www.osfi-bsif.gc.ca/en/data-forms/applications-approvals/demutualization-insurance-companies"
+    },
+    {
+      "title": "Financial Statements Requirements – Canadian Mutual Company Demutualizations",
+      "url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/financial-statements-requirements-canadian-mutual-company-demutualizations"
+    }
+  ],
+  "consultation_status_text": null,
+  "consultation_status_refers_to_version": null,
+  "page_language": "en",
+  "word_count_raw_body": 841,
+  "doc_id": "osfi.expert-opinions-report-canadian-company-demutualiz.guidance",
+  "doc_family_id": "osfi.expert-opinions-report-canadian-company-demutualiz",
+  "version_id": "",
+  "version_label": "Expert Opinions and Report - Canadian Company Demutualizatio",
+  "version_sort_key": "",
+  "parent_doc_id": null,
+  "child_doc_ids": [],
+  "is_package_page": false,
+  "is_chapter_page": false,
+  "chapter_number": null,
+  "chapter_title": null,
+  "document_order_within_family": 0,
+  "supersedes_doc_id": null,
+  "superseded_by_doc_id": null,
+  "current_version_flag": true,
+  "status": "final_current",
+  "include_in_primary_corpus": false,
+  "include_in_support_corpus": true,
+  "include_in_context_corpus": false,
+  "effective_date_start": "1999-05-31",
+  "effective_date_end": null,
+  "effective_date_fye_split": false,
+  "effective_date_oct_fye": null,
+  "effective_date_dec_fye": null,
+  "is_future_effective": false,
+  "is_rescinded": false,
+  "is_draft_or_consultation": false,
+  "rescission_date": null,
+  "consultation_closing_date": null,
+  "as_of_applicability": "2026-03-23",
+  "rule_applied": "rule_5_final_current",
+  "authority_class": "official_interpretive",
+  "authority_level": 70,
+  "nova_tier": 2,
+  "prudential_weight": 0.7,
+  "is_primary_normative": false,
+  "is_supporting_interpretive": true,
+  "is_context_only": false,
+  "document_class": "guidance_note",
+  "guidance_type_normalized": "guidance_note",
+  "section_headings": [
+    {
+      "level": 2,
+      "text": "Opinions - general",
+      "id": "h2-0"
+    },
+    {
+      "level": 2,
+      "text": "Valuation opinion",
+      "id": "h2-1"
+    },
+    {
+      "level": 2,
+      "text": "Appropriate substitute opinion",
+      "id": "h2-2"
+    },
+    {
+      "level": 2,
+      "text": "Liquidity opinion",
+      "id": "h2-3"
+    },
+    {
+      "level": 2,
+      "text": "4(1)(a) report",
+      "id": "h2-4"
+    }
+  ],
+  "heading_path": [
+    "Expert Opinions and Report - Canadian Company Demutualizations"
+  ],
+  "toc_depth": 2,
+  "has_appendices": false,
+  "appendix_ids": [],
+  "has_tables": false,
+  "table_count": 0,
+  "has_footnotes": false,
+  "footnote_count": 0,
+  "inline_cross_references": [],
+  "quoted_external_references": [],
+  "raw_html_sha256": "64f0ff615ddf61f840a78b92b206e218988eb3544a9de7d6cba17de541010138",
+  "raw_pdf_sha256": null,
+  "normalized_text_sha256": null,
+  "raw_html_path": "bronze/osfi/html/final_current/expert-opinions-report-canadian-company-demutualizations.html",
+  "normalized_md_path": "silver/osfi/md/final_current/expert-opinions-report-canadian-company-demutualizations.md",
+  "canonical_json_path": "silver/osfi/json/final_current/expert-opinions-report-canadian-company-demutualizations.json",
+  "content_source": "HTML",
+  "parser_version": "osfi-parser-v2.1.0",
+  "normalizer_version": "osfi-normalizer-v1.4.0",
+  "quality_score": 1.0,
+  "quality_flags": [],
+  "download_timestamp": "2026-03-11T00:00:00Z",
+  "enriched_timestamp": "2026-03-23T09:53:51.299990Z",
+  "sections": [
+    {
+      "heading": "",
+      "heading_level": 2,
+      "full_text": "  - Demutualization\n  - Financial Statements Requirements – Canadian Mutual Company Demutualizations\nThis note provides guidance on OSFI's expectations regarding certain opinions and the report to be included in the conversion proposal pursuant to the Mutual Company (Life Insurance) Conversion Regulations (the Regulations).",
+      "content": [
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Demutualization",
+            "Financial Statements Requirements – Canadian Mutual Company Demutualizations"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "This note provides guidance on OSFI's expectations regarding certain opinions and the report to be included in the conversion proposal pursuant to the Mutual Company (Life Insurance) Conversion Regulations (the Regulations)."
+        }
+      ]
+    },
+    {
+      "heading": "Opinions - general",
+      "heading_level": 2,
+      "full_text": "Pursuant to paragraphs 5(1)(b) to (d) of the Regulations, prior to sending a notice of a special meeting of policyholders, a converting company must submit expert opinions to the Superintendent. Paragraph 7(1)(g) of the Regulations requires a company to include summaries of these expert opinions in the policyholder information document.\nOSFI expects that these expert opinions will contain language that follows the wording of the Regulations. The opinion (or any summary), may be addressed to the Board of Directors of the company but should clearly state that it is given for the benefit of all eligible policyholders as required by the Regulations. The opinion may add that it is being given with the understanding that, pursuant to section 7 of the Regulations, a copy or a summary will be provided for the benefit of eligible policyholders as part of all of the information they must consider to form a reasoned judgment about the terms of the proposal and its impact on both policyholders and the converting company.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Pursuant to paragraphs 5(1)(b) to (d) of the Regulations, prior to sending a notice of a special meeting of policyholders, a converting company must submit expert opinions to the Superintendent. Paragraph 7(1)(g) of the Regulations requires a company to include summaries of these expert opinions in the policyholder information document."
+        },
+        {
+          "type": "paragraph",
+          "text": "OSFI expects that these expert opinions will contain language that follows the wording of the Regulations. The opinion (or any summary), may be addressed to the Board of Directors of the company but should clearly state that it is given for the benefit of all eligible policyholders as required by the Regulations. The opinion may add that it is being given with the understanding that, pursuant to section 7 of the Regulations, a copy or a summary will be provided for the benefit of eligible policyholders as part of all of the information they must consider to form a reasoned judgment about the terms of the proposal and its impact on both policyholders and the converting company."
+        }
+      ]
+    },
+    {
+      "heading": "Valuation opinion",
+      "heading_level": 2,
+      "full_text": "In accordance with paragraph 4(1)(a) of the Regulations, companies must include in the conversion proposal a report setting out the value of the converting company and a description of how that value was estimated, the method used and any assumptions made. OSFI expects that this report will be in a separate document from the opinion required pursuant to 5(1)(b) of the Regulations.\nPursuant to paragraph 5(1)(b) of the Regulations, an application to the Superintendent for conversion must be accompanied by an opinion from a valuation expert that the method and any assumptions employed to estimate the value of the company are appropriate and that the value reasonably reflects prevailing market conditions as at the day it was estimated.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "In accordance with paragraph 4(1)(a) of the Regulations, companies must include in the conversion proposal a report setting out the value of the converting company and a description of how that value was estimated, the method used and any assumptions made. OSFI expects that this report will be in a separate document from the opinion required pursuant to 5(1)(b) of the Regulations."
+        },
+        {
+          "type": "paragraph",
+          "text": "Pursuant to paragraph 5(1)(b) of the Regulations, an application to the Superintendent for conversion must be accompanied by an opinion from a valuation expert that the method and any assumptions employed to estimate the value of the company are appropriate and that the value reasonably reflects prevailing market conditions as at the day it was estimated."
+        }
+      ]
+    },
+    {
+      "heading": "Appropriate substitute opinion",
+      "heading_level": 2,
+      "full_text": "Where, in respect of a conversion, other benefits are to be provided in lieu of shares, paragraph 5(1)(c) of the Regulations requires an opinion from an independent actuary, or from a valuation expert, that those benefits are appropriate substitutes for the shares as at the day the value of the company was estimated. The opinion must clearly state that it is also given for the benefit of all eligible policyholders, including those who elect to receive cash in lieu of shares, and must also clearly opine that benefits other than shares received by eligible policyholders electing to receive such other benefits in lieu of shares are appropriate substitutes.\nThe opinion may address this issue for a class of eligible policyholders rather than require detailed knowledge of the circumstances of any individual policyholders. The opinion may specify that the authors do not know the circumstances of policyholders and are not in a position to advise eligible policyholders as to the suitability of receiving demutualization benefits in a form other than shares. Furthermore, the opinion should state that such other benefits (i.e. cash, policy enhancements) will have a monetary value equal to an amount that is the product of the initial public offering price per share and the number of shares that the eligible policyholders would otherwise have received on conversion.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Where, in respect of a conversion, other benefits are to be provided in lieu of shares, paragraph 5(1)(c) of the Regulations requires an opinion from an independent actuary, or from a valuation expert, that those benefits are appropriate substitutes for the shares as at the day the value of the company was estimated. The opinion must clearly state that it is also given for the benefit of all eligible policyholders, including those who elect to receive cash in lieu of shares, and must also clearly opine that benefits other than shares received by eligible policyholders electing to receive such other benefits in lieu of shares are appropriate substitutes."
+        },
+        {
+          "type": "paragraph",
+          "text": "The opinion may address this issue for a class of eligible policyholders rather than require detailed knowledge of the circumstances of any individual policyholders. The opinion may specify that the authors do not know the circumstances of policyholders and are not in a position to advise eligible policyholders as to the suitability of receiving demutualization benefits in a form other than shares. Furthermore, the opinion should state that such other benefits (i.e. cash, policy enhancements) will have a monetary value equal to an amount that is the product of the initial public offering price per share and the number of shares that the eligible policyholders would otherwise have received on conversion."
+        }
+      ]
+    },
+    {
+      "heading": "Liquidity opinion",
+      "heading_level": 2,
+      "full_text": "Pursuant to paragraph 5(1)(d) of the Regulations, a company shall submit to the Superintendent an opinion from a financial market expert that the measures referred to in paragraph 4(1)(l) of the Regulations are likely to ensure that the eligible policyholders who receive shares will be able to sell those shares on a public market, within the two years following the effective date of the conversion, on a public market.\nThe expert opinion must comment on all of the measures the company proposes to take to provide liquidity for the shares.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Pursuant to paragraph 5(1)(d) of the Regulations, a company shall submit to the Superintendent an opinion from a financial market expert that the measures referred to in paragraph 4(1)(l) of the Regulations are likely to ensure that the eligible policyholders who receive shares will be able to sell those shares on a public market, within the two years following the effective date of the conversion, on a public market."
+        },
+        {
+          "type": "paragraph",
+          "text": "The expert opinion must comment on all of the measures the company proposes to take to provide liquidity for the shares."
+        }
+      ]
+    },
+    {
+      "heading": "4(1)(a) report",
+      "heading_level": 2,
+      "full_text": "Before authorizing the mailing to eligible policyholders, OSFI will need to review the report to be included in the conversion proposal pursuant to paragraph 4(1)(a) of the Regulations. The report must set out the value of the converting company, a description of how that value was estimated, the method used and any assumptions made.\nThe valuation work should be based on the most recently audited financial statements updated appropriately to reflect any significant activity (i.e. acquisitions, divestitures, financial results, court decisions) up to the date of the valuation. If material events occur after that date, further information to policyholders may be required.\nOSFI has determined that where a market value is called for by the Regulations it will be the initial public offering value, and that if a range of values is given the range will not exceed ±20%. Converting companies will need to carry out detailed and in-depth valuation work in support of the report to be provided in the conversion proposal. This supporting documentation will be provided to OSFI and OSFI's advisors in sufficient time to permit review, analysis, and discussion prior to giving approval for a mailing of the notice of a special meeting; this will ordinarily be a four week process.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Before authorizing the mailing to eligible policyholders, OSFI will need to review the report to be included in the conversion proposal pursuant to paragraph 4(1)(a) of the Regulations. The report must set out the value of the converting company, a description of how that value was estimated, the method used and any assumptions made."
+        },
+        {
+          "type": "paragraph",
+          "text": "The valuation work should be based on the most recently audited financial statements updated appropriately to reflect any significant activity (i.e. acquisitions, divestitures, financial results, court decisions) up to the date of the valuation. If material events occur after that date, further information to policyholders may be required."
+        },
+        {
+          "type": "paragraph",
+          "text": "OSFI has determined that where a market value is called for by the Regulations it will be the initial public offering value, and that if a range of values is given the range will not exceed ±20%. Converting companies will need to carry out detailed and in-depth valuation work in support of the report to be provided in the conversion proposal. This supporting documentation will be provided to OSFI and OSFI's advisors in sufficient time to permit review, analysis, and discussion prior to giving approval for a mailing of the notice of a special meeting; this will ordinarily be a four week process."
+        }
+      ]
+    }
+  ],
+  "title_normalized": "expert opinions and report canadian company demutualizations",
+  "publication_type_normalized": "guidance_note",
+  "category_normalized": "",
+  "sector_normalized": [
+    "life_insurance"
+  ],
+  "guideline_number_normalized": "",
+  "applies_to_banks": false,
+  "applies_to_trust_loan": false,
+  "applies_to_life_insurance": true,
+  "applies_to_pc_insurance": false,
+  "applies_to_foreign_bank": false,
+  "applies_to_foreign_insurance": false,
+  "applies_to_cooperative": false,
+  "applies_to_bank_holding": false,
+  "effective_date_sort_key": "1999-05-31",
+  "status_sort_key": 1,
+  "authority_sort_key": 70,
+  "bm25_text": "Expert Opinions and Report - Canadian Company Demutualizations Guidance note Life Insurance and Fraternal Companies Opinions - general Valuation opinion Appropriate substitute opinion Liquidity opinion 4(1)(a) report",
+  "vector_text_prefix": "[OSFI Guidance note  |  | Life Insurance and Fraternal Companies | FINAL_CURRENT | Effective 1999-05-31]",
+  "h1_title": "Expert Opinions and Report - Canadian Company Demutualizations",
+  "regulator": "OSFI",
+  "regulator_acronym": "OSFI",
+  "jurisdiction": "Canada",
+  "short_title": "",
+  "source_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/expert-opinions-report-canadian-company-demutualizations"
+}

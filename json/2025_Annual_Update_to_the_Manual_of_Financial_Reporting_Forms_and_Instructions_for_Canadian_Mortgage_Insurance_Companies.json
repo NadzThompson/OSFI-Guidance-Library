@@ -1,0 +1,280 @@
+{
+  "source_system": "osfi_guidance_library",
+  "library_row_title": "“2025 Annual Update” to the Manual of Financial Reporting Forms and Instructions for Canadian Mortgage Insurance Companies",
+  "library_row_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/2025-annual-update-manual-financial-reporting-forms-instructions-canadian-mortgage-insurance",
+  "listing_date_raw": "October 27, 2025",
+  "listing_date_iso": "2025-10-27",
+  "listing_publication_type": "Letter",
+  "listing_category": "",
+  "listing_sector": [
+    "Banks",
+    "Foreign Bank Branches",
+    "Trust and Loan Companies"
+  ],
+  "crawl_timestamp": "2026-03-11T00:00:00Z",
+  "detail_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/2025-annual-update-manual-financial-reporting-forms-instructions-canadian-mortgage-insurance",
+  "canonical_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/2025-annual-update-manual-financial-reporting-forms-instructions-canadian-mortgage-insurance",
+  "slug": "2025-annual-update-manual-financial-reporting-forms-instructions-canadian-mortgage-insurance",
+  "title": "“2025 Annual Update” to the Manual of Financial Reporting Forms and Instructions for Canadian Mortgage Insurance Companies",
+  "publication_type": "Letter",
+  "category": "",
+  "document_date_raw": "October 27, 2025",
+  "document_date_iso": "2025-10-27",
+  "sector": [
+    "Banks",
+    "Foreign Bank Branches",
+    "Trust and Loan Companies"
+  ],
+  "effective_date_text": "",
+  "guideline_number": "",
+  "date_modified_raw": "2025-10-27T12:00:00Z",
+  "generate_pdf_url": "https://www.osfi-bsif.gc.ca/en/print/pdf/node/2986",
+  "pdf_node_id": 2986,
+  "direct_pdf_url": null,
+  "has_table_of_contents": true,
+  "toc_entries": [],
+  "has_related_documents": true,
+  "related_document_links_raw": [
+    {
+      "title": "Financial reporting instructions",
+      "url": "https://www.osfi-bsif.gc.ca/en/data-forms/reporting-returns/filing-financial-returns/financial-reporting-instructions"
+    }
+  ],
+  "consultation_status_text": null,
+  "consultation_status_refers_to_version": null,
+  "page_language": "en",
+  "word_count_raw_body": 363,
+  "doc_id": "osfi.annual-update-manual-financial-reporting-forms-ins.2025.transmittal",
+  "doc_family_id": "osfi.annual-update-manual-financial-reporting-forms-ins",
+  "version_id": "2025",
+  "version_label": "“2025 Annual Update” to the Manual of Financial Reporting Fo",
+  "version_sort_key": "2025-10",
+  "parent_doc_id": null,
+  "child_doc_ids": [],
+  "is_package_page": false,
+  "is_chapter_page": false,
+  "chapter_number": null,
+  "chapter_title": null,
+  "document_order_within_family": 0,
+  "supersedes_doc_id": null,
+  "superseded_by_doc_id": null,
+  "current_version_flag": true,
+  "status": "final_current",
+  "include_in_primary_corpus": false,
+  "include_in_support_corpus": true,
+  "include_in_context_corpus": false,
+  "effective_date_start": "2025-10-27",
+  "effective_date_end": null,
+  "effective_date_fye_split": false,
+  "effective_date_oct_fye": null,
+  "effective_date_dec_fye": null,
+  "is_future_effective": false,
+  "is_rescinded": false,
+  "is_draft_or_consultation": false,
+  "rescission_date": null,
+  "consultation_closing_date": null,
+  "as_of_applicability": "2026-03-23",
+  "rule_applied": "rule_5_final_current",
+  "authority_class": "official_support",
+  "authority_level": 60,
+  "nova_tier": 2,
+  "prudential_weight": 0.7,
+  "is_primary_normative": false,
+  "is_supporting_interpretive": true,
+  "is_context_only": false,
+  "document_class": "transmittal_letter",
+  "guidance_type_normalized": "letter",
+  "section_headings": [
+    {
+      "level": 2,
+      "text": "Document properties",
+      "id": "h2-0"
+    },
+    {
+      "level": 2,
+      "text": "MI – Annual/quarterly returns and instructions",
+      "id": "h2-1"
+    },
+    {
+      "level": 2,
+      "text": "Mortgage Insurers Capital Adequacy Test (MICAT) quarterly return",
+      "id": "h2-2"
+    },
+    {
+      "level": 2,
+      "text": "Updates to assurance attestations – MICAT",
+      "id": "h2-3"
+    },
+    {
+      "level": 2,
+      "text": "Validation rules",
+      "id": "h2-4"
+    },
+    {
+      "level": 2,
+      "text": "Additional information",
+      "id": "h2-5"
+    }
+  ],
+  "heading_path": [
+    "“2025 Annual Update” to the Manual of Financial Reporting Forms and Instructions for Canadian Mortgage Insurance Companies"
+  ],
+  "toc_depth": 2,
+  "has_appendices": false,
+  "appendix_ids": [],
+  "has_tables": false,
+  "table_count": 0,
+  "has_footnotes": false,
+  "footnote_count": 0,
+  "inline_cross_references": [],
+  "quoted_external_references": [],
+  "raw_html_sha256": "778e5f45baa3a43617246b3a18610fb6c0e7f1b56f64cd4d9c5ee679c431f17a",
+  "raw_pdf_sha256": null,
+  "normalized_text_sha256": null,
+  "raw_html_path": "bronze/osfi/html/final_current/2025-annual-update-manual-financial-reporting-forms-instructions-canadian-mortgage-insurance.html",
+  "normalized_md_path": "silver/osfi/md/final_current/2025-annual-update-manual-financial-reporting-forms-instructions-canadian-mortgage-insurance.md",
+  "canonical_json_path": "silver/osfi/json/final_current/2025-annual-update-manual-financial-reporting-forms-instructions-canadian-mortgage-insurance.json",
+  "content_source": "HTML",
+  "parser_version": "osfi-parser-v2.1.0",
+  "normalizer_version": "osfi-normalizer-v1.4.0",
+  "quality_score": 0.5,
+  "quality_flags": [
+    "thin_body_text"
+  ],
+  "download_timestamp": "2026-03-11T00:00:00Z",
+  "enriched_timestamp": "2026-03-23T09:53:46.266984Z",
+  "sections": [
+    {
+      "heading": "Document properties",
+      "heading_level": 2,
+      "full_text": "  - To: Chief Executive Officers Federally Regulated Canadian Mortgage Insurance Companies\n  - From: Andrew Miller Chief Data Officer\n  - Chief Executive Officers Federally Regulated Canadian Mortgage Insurance Companies\n  - Andrew Miller Chief Data Officer\nThis letter informs you of changes made to the Canadian Council of Insurance Regulators (CCIR) regulatory forms and instructions as well as OSFI forms and instructions for 2025-26.",
+      "content": [
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "To: Chief Executive Officers Federally Regulated Canadian Mortgage Insurance Companies",
+            "From: Andrew Miller Chief Data Officer"
+          ]
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Chief Executive Officers Federally Regulated Canadian Mortgage Insurance Companies"
+          ]
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Andrew Miller Chief Data Officer"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "This letter informs you of changes made to the Canadian Council of Insurance Regulators (CCIR) regulatory forms and instructions as well as OSFI forms and instructions for 2025-26."
+        }
+      ]
+    },
+    {
+      "heading": "MI – Annual/quarterly returns and instructions",
+      "heading_level": 2,
+      "full_text": "No changes were made to the MI Core Financial Quarterly Return (MI3), MI Supervisory Quarterly Return (MI4), MI Supervisory Annual Return (MI5) and the MI Provincial Return (MIPROV) for Q4 2025 or Q1 2026.\nCurrent templates, instructions, and other related documents can be viewed on OSFI's website under Mortgage Insurance Return and Instructions .",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "No changes were made to the MI Core Financial Quarterly Return (MI3), MI Supervisory Quarterly Return (MI4), MI Supervisory Annual Return (MI5) and the MI Provincial Return (MIPROV) for Q4 2025 or Q1 2026."
+        },
+        {
+          "type": "paragraph",
+          "text": "Current templates, instructions, and other related documents can be viewed on OSFI's website under Mortgage Insurance Return and Instructions ."
+        }
+      ]
+    },
+    {
+      "heading": "Mortgage Insurers Capital Adequacy Test (MICAT) quarterly return",
+      "heading_level": 2,
+      "full_text": "Changes will be made to the MICAT (MI) return and filing instructions for Q1 2026.\nUpdated templates, instructions, and other related documents will be posted on our Financial reporting instructions website in due course.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Changes will be made to the MICAT (MI) return and filing instructions for Q1 2026."
+        },
+        {
+          "type": "paragraph",
+          "text": "Updated templates, instructions, and other related documents will be posted on our Financial reporting instructions website in due course."
+        }
+      ]
+    },
+    {
+      "heading": "Updates to assurance attestations – MICAT",
+      "heading_level": 2,
+      "full_text": "OSFI's assurance guideline became effective in November 2022 and requires assurance attestations (attestations) to be filed for all capital, leverage and liquidity regulatory returns, where applicable, as unstructured filings via the Regulatory Reporting System (RRS). The attestations include senior management, opinion of internal auditor, and opinion of external auditor.\nEffective Q4 2025, the attestation page of the MICAT return will be updated to include all three attestations. For each attestation, the attestation page and any supporting attachments (for example, signature, auditor's opinion, auditor's report, and summary of unadjusted errors) are to be submitted as one unstructured file in RRS (for example, one PDF or one zip folder).\nNew submission codes will be available in RRS to file each assurance attestation separately. To identify the correct submission code, refer to the OSFI identification codes on the attestation page. These codes correspond to the \"Return title\" on the Reporting Requirements for Federally Regulated Mortgage Insurers website.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "OSFI's assurance guideline became effective in November 2022 and requires assurance attestations (attestations) to be filed for all capital, leverage and liquidity regulatory returns, where applicable, as unstructured filings via the Regulatory Reporting System (RRS). The attestations include senior management, opinion of internal auditor, and opinion of external auditor."
+        },
+        {
+          "type": "paragraph",
+          "text": "Effective Q4 2025, the attestation page of the MICAT return will be updated to include all three attestations. For each attestation, the attestation page and any supporting attachments (for example, signature, auditor's opinion, auditor's report, and summary of unadjusted errors) are to be submitted as one unstructured file in RRS (for example, one PDF or one zip folder)."
+        },
+        {
+          "type": "paragraph",
+          "text": "New submission codes will be available in RRS to file each assurance attestation separately. To identify the correct submission code, refer to the OSFI identification codes on the attestation page. These codes correspond to the \"Return title\" on the Reporting Requirements for Federally Regulated Mortgage Insurers website."
+        }
+      ]
+    },
+    {
+      "heading": "Validation rules",
+      "heading_level": 2,
+      "full_text": "Any updates to the validation rule reports will be posted on OSFI's website once they are made available within the RRS system.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Any updates to the validation rule reports will be posted on OSFI's website once they are made available within the RRS system."
+        }
+      ]
+    },
+    {
+      "heading": "Additional information",
+      "heading_level": 2,
+      "full_text": "If you need additional information, please contact your company's Lead Supervisor at OSFI. If you have any questions about completing or filing the financial returns, please call Returns Administration at (613) 991-0609 or email at RRSsupport-SDRsoutien@osfi-bsif.gc.ca .",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "If you need additional information, please contact your company's Lead Supervisor at OSFI. If you have any questions about completing or filing the financial returns, please call Returns Administration at (613) 991-0609 or email at RRSsupport-SDRsoutien@osfi-bsif.gc.ca ."
+        }
+      ]
+    }
+  ],
+  "title_normalized": "2025 annual update to the manual of financial reporting forms and instructions for canadian mortgage insurance companies",
+  "publication_type_normalized": "letter",
+  "category_normalized": "",
+  "sector_normalized": [
+    "banks",
+    "foreign_bank_branches",
+    "trust_and_loan_companies"
+  ],
+  "guideline_number_normalized": "",
+  "applies_to_banks": true,
+  "applies_to_trust_loan": true,
+  "applies_to_life_insurance": false,
+  "applies_to_pc_insurance": false,
+  "applies_to_foreign_bank": true,
+  "applies_to_foreign_insurance": false,
+  "applies_to_cooperative": false,
+  "applies_to_bank_holding": false,
+  "effective_date_sort_key": "2025-10-27",
+  "status_sort_key": 1,
+  "authority_sort_key": 60,
+  "bm25_text": "“2025 Annual Update” to the Manual of Financial Reporting Forms and Instructions for Canadian Mortgage Insurance Companies Letter Banks Foreign Bank Branches Trust and Loan Companies Document properties MI – Annual/quarterly returns and instructions Mortgage Insurers Capital Adequacy Test (MICAT) quarterly return Updates to assurance attestations – MICAT Validation rules Additional information",
+  "vector_text_prefix": "[OSFI Letter  |  | Banks / Foreign Bank Branches / Trust and Loan Companies | FINAL_CURRENT | Effective 2025-10-27]",
+  "h1_title": "“2025 Annual Update” to the Manual of Financial Reporting Forms and Instructions for Canadian Mortgage Insurance Companies",
+  "regulator": "OSFI",
+  "regulator_acronym": "OSFI",
+  "jurisdiction": "Canada",
+  "short_title": "",
+  "source_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/2025-annual-update-manual-financial-reporting-forms-instructions-canadian-mortgage-insurance"
+}

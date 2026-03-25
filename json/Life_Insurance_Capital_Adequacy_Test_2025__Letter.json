@@ -1,0 +1,250 @@
+{
+  "source_system": "osfi_guidance_library",
+  "library_row_title": "Life Insurance Capital Adequacy Test (2025) – Letter",
+  "library_row_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/life-insurance-capital-adequacy-test-2025-letter",
+  "listing_date_raw": "November 21, 2024",
+  "listing_date_iso": "2024-11-21",
+  "listing_publication_type": "Letter",
+  "listing_category": "Category Capital Adequacy Requirements",
+  "listing_sector": [
+    "Life Insurance and Fraternal Companies"
+  ],
+  "crawl_timestamp": "2026-03-11T00:00:00Z",
+  "detail_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/life-insurance-capital-adequacy-test-2025-letter",
+  "canonical_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/life-insurance-capital-adequacy-test-2025-letter",
+  "slug": "life-insurance-capital-adequacy-test-2025-letter",
+  "title": "Life Insurance Capital Adequacy Test (2025) – Letter",
+  "publication_type": "Letter",
+  "category": "Category Capital Adequacy Requirements",
+  "document_date_raw": "November 21, 2024",
+  "document_date_iso": "2024-11-21",
+  "sector": [
+    "Life Insurance and Fraternal Companies"
+  ],
+  "effective_date_text": "",
+  "guideline_number": "",
+  "date_modified_raw": "2024-11-21T12:00:00Z",
+  "generate_pdf_url": "https://www.osfi-bsif.gc.ca/en/print/pdf/node/2469",
+  "pdf_node_id": 2469,
+  "direct_pdf_url": null,
+  "has_table_of_contents": true,
+  "toc_entries": [],
+  "has_related_documents": true,
+  "related_document_links_raw": [
+    {
+      "title": "Life Insurance Capital Adequacy Test – Consultation summary (2025)",
+      "url": "https://www.osfi-bsif.gc.ca/en/consultations/consultation-summaries/summary-comments-public-consultation-licat-guideline-2025"
+    },
+    {
+      "title": "Life Insurance Capital Adequacy Test – Backgrounder (2025)",
+      "url": "https://www.osfi-bsif.gc.ca/en/news/backgrounder-final-life-insurance-capital-adequacy-test-licat-guideline-2025"
+    },
+    {
+      "title": "Life Insurance Capital Adequacy Test – Guideline (2025)",
+      "url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/life-insurance-capital-adequacy-test-guideline-2025"
+    },
+    {
+      "title": "Life Insurance Capital Adequacy Test - Filing Instructions (2025)",
+      "url": "https://www.osfi-bsif.gc.ca/en/data-forms/reporting-returns/filing-financial-returns/financial-reporting-instructions/2025-life-insurance-capital-adequacy-test-filing-instructions-0"
+    },
+    {
+      "title": "Regulatory Capital and Internal Capital Targets (2025)",
+      "url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/regulatory-capital-internal-capital-targets-2025"
+    },
+    {
+      "title": "Parental Stand-Alone (Solo) Capital Framework for Federally Regulated Life Insur",
+      "url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/parental-stand-alone-solo-capital-framework-federally-regulated-life-insurers-2025"
+    },
+    {
+      "title": "Key Metrics Report – Life insurers – Instructions (2025)",
+      "url": "https://www.osfi-bsif.gc.ca/en/data-forms/reporting-returns/filing-financial-returns/financial-reporting-instructions/key-metrics-report-life-insurers-instructions-2025"
+    }
+  ],
+  "consultation_status_text": null,
+  "consultation_status_refers_to_version": null,
+  "page_language": "en",
+  "word_count_raw_body": 445,
+  "doc_id": "osfi.licat.2025.transmittal",
+  "doc_family_id": "osfi.licat",
+  "version_id": "2025",
+  "version_label": "Life Insurance Capital Adequacy Test (2025) – Letter",
+  "version_sort_key": "2025-11",
+  "parent_doc_id": null,
+  "child_doc_ids": [],
+  "is_package_page": false,
+  "is_chapter_page": false,
+  "chapter_number": null,
+  "chapter_title": null,
+  "document_order_within_family": 0,
+  "supersedes_doc_id": null,
+  "superseded_by_doc_id": null,
+  "current_version_flag": true,
+  "status": "final_current",
+  "include_in_primary_corpus": false,
+  "include_in_support_corpus": true,
+  "include_in_context_corpus": false,
+  "effective_date_start": "2024-11-21",
+  "effective_date_end": null,
+  "effective_date_fye_split": false,
+  "effective_date_oct_fye": null,
+  "effective_date_dec_fye": null,
+  "is_future_effective": false,
+  "is_rescinded": false,
+  "is_draft_or_consultation": false,
+  "rescission_date": null,
+  "consultation_closing_date": null,
+  "as_of_applicability": "2026-03-23",
+  "rule_applied": "rule_5_final_current",
+  "authority_class": "official_support",
+  "authority_level": 60,
+  "nova_tier": 2,
+  "prudential_weight": 0.7,
+  "is_primary_normative": false,
+  "is_supporting_interpretive": true,
+  "is_context_only": false,
+  "document_class": "transmittal_letter",
+  "guidance_type_normalized": "letter",
+  "section_headings": [],
+  "heading_path": [
+    "Life Insurance Capital Adequacy Test (2025) – Letter"
+  ],
+  "toc_depth": 0,
+  "has_appendices": false,
+  "appendix_ids": [],
+  "has_tables": false,
+  "table_count": 0,
+  "has_footnotes": false,
+  "footnote_count": 0,
+  "inline_cross_references": [
+    "Guideline A-4 Regulatory Capital and Internal Capital Targets and OSFI’s"
+  ],
+  "quoted_external_references": [],
+  "raw_html_sha256": "bfe0ce9fc12a496c9eb16242e5ebc6df09fe894a6e3ead6951cd2ea01fce1a39",
+  "raw_pdf_sha256": null,
+  "normalized_text_sha256": null,
+  "raw_html_path": "bronze/osfi/html/final_current/life-insurance-capital-adequacy-test-2025-letter.html",
+  "normalized_md_path": "silver/osfi/md/final_current/life-insurance-capital-adequacy-test-2025-letter.md",
+  "canonical_json_path": "silver/osfi/json/final_current/life-insurance-capital-adequacy-test-2025-letter.json",
+  "content_source": "HTML",
+  "parser_version": "osfi-parser-v2.1.0",
+  "normalizer_version": "osfi-normalizer-v1.4.0",
+  "quality_score": 0.5,
+  "quality_flags": [
+    "thin_body_text"
+  ],
+  "download_timestamp": "2026-03-11T00:00:00Z",
+  "enriched_timestamp": "2026-03-23T09:53:54.269874Z",
+  "sections": [
+    {
+      "heading": "",
+      "heading_level": 2,
+      "full_text": "  - Life Insurance Capital Adequacy Test – Consultation summary (2025)\n  - Life Insurance Capital Adequacy Test – Backgrounder (2025)\n  - Life Insurance Capital Adequacy Test – Guideline (2025)\n  - Life Insurance Capital Adequacy Test - Filing Instructions (2025)\n  - Regulatory Capital and Internal Capital Targets (2025)\n  - Parental Stand-Alone (Solo) Capital Framework for Federally Regulated Life Insurers (2025)\n  - Key Metrics Report – Life insurers – Instructions (2025)\nToday, the Office of the Superintendent of Financial Institutions (OSFI) is publishing the final Life Insurance Capital Adequacy Test (LICAT) 2025 guideline, along with other related documents. The final LICAT 2025 guideline will come into effect on January 1, 2025.\nKey revisions to the LICAT 2025 guideline include :\n  - For life insurers with segregated fund guarantee (SFG) business, OSFI is developing a new framework to determine capital requirements for SFG risk to replace the current method. The new framework comprises a standard approach and a simplified option, where the latter will only be available to insurers with very small total SFG portfolios (a total guaranteed value of $100 million or less). Under the standard approach, capital requirements will be calculated by applying shocks to SFG liabilities. It will replace existing internal models and factored approach.\n  - Other changes to LICAT 2025 include minor adjustments and clarifications to apply the framework accurately.\nIn addition, the Own Risk and Solvency Assessment (ORSA) Key Metrics Report form and instructions, as well as Guideline A-4 Regulatory Capital and Internal Capital Targets and OSFI’s Solo Capital Framework for Federally Regulated Life Insurers received minor consequential updates as a result of the changes made to the LICAT 2025 guideline.\nOSFI will host an information session on December 5, the OSFI Industry Day to provide more details to stakeholders and offer opportunities for dialogue and discussion.\nBelow is a list of the documents included in the publication:\n  1. final LICAT 2025 Guideline\n  2. final LICAT regulatory reporting forms: LICAT Quarterly Return LICAT Annual Return LICAT regulatory reporting instructions LICAT validation rules\n  3. Solo Capital Framework for Federally Regulated Life Insurers\n  4. Guideline A4 – Regulatory Capital and Internal Capital Targets\n  5. Key Metrics Report Structured Return and instructions\n  1. LICAT Quarterly Return\n  2. LICAT Annual Return\n  3. LICAT regulatory reporting instructions\n  4. LICAT validation rules\nWe released draft versions of the above documents for public consultation on August 22, 2024. Please refer to Consultation Summaries for comments received from the public consultation and our responses to the comments.\nShould you have any questions, please contact Regis Dahany, Managing Director, Insurance Capital and Liquidity Standards Division by email at regis.dahany@osfi-bsif.gc.ca or use the mailbox, LICAT-TSAV@osfi-bsif.gc.ca .\nSincerely,\nAmar Munipalle Executive Director, Risk Advisory Hub",
+      "content": [
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Life Insurance Capital Adequacy Test – Consultation summary (2025)",
+            "Life Insurance Capital Adequacy Test – Backgrounder (2025)",
+            "Life Insurance Capital Adequacy Test – Guideline (2025)",
+            "Life Insurance Capital Adequacy Test - Filing Instructions (2025)",
+            "Regulatory Capital and Internal Capital Targets (2025)",
+            "Parental Stand-Alone (Solo) Capital Framework for Federally Regulated Life Insurers (2025)",
+            "Key Metrics Report – Life insurers – Instructions (2025)"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Today, the Office of the Superintendent of Financial Institutions (OSFI) is publishing the final Life Insurance Capital Adequacy Test (LICAT) 2025 guideline, along with other related documents. The final LICAT 2025 guideline will come into effect on January 1, 2025."
+        },
+        {
+          "type": "paragraph",
+          "text": "Key revisions to the LICAT 2025 guideline include :"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "For life insurers with segregated fund guarantee (SFG) business, OSFI is developing a new framework to determine capital requirements for SFG risk to replace the current method. The new framework comprises a standard approach and a simplified option, where the latter will only be available to insurers with very small total SFG portfolios (a total guaranteed value of $100 million or less). Under the standard approach, capital requirements will be calculated by applying shocks to SFG liabilities. It will replace existing internal models and factored approach.",
+            "Other changes to LICAT 2025 include minor adjustments and clarifications to apply the framework accurately."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "In addition, the Own Risk and Solvency Assessment (ORSA) Key Metrics Report form and instructions, as well as Guideline A-4 Regulatory Capital and Internal Capital Targets and OSFI’s Solo Capital Framework for Federally Regulated Life Insurers received minor consequential updates as a result of the changes made to the LICAT 2025 guideline."
+        },
+        {
+          "type": "paragraph",
+          "text": "OSFI will host an information session on December 5, the OSFI Industry Day to provide more details to stakeholders and offer opportunities for dialogue and discussion."
+        },
+        {
+          "type": "paragraph",
+          "text": "Below is a list of the documents included in the publication:"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "final LICAT 2025 Guideline",
+            "final LICAT regulatory reporting forms: LICAT Quarterly Return LICAT Annual Return LICAT regulatory reporting instructions LICAT validation rules",
+            "Solo Capital Framework for Federally Regulated Life Insurers",
+            "Guideline A4 – Regulatory Capital and Internal Capital Targets",
+            "Key Metrics Report Structured Return and instructions"
+          ]
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "LICAT Quarterly Return",
+            "LICAT Annual Return",
+            "LICAT regulatory reporting instructions",
+            "LICAT validation rules"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "We released draft versions of the above documents for public consultation on August 22, 2024. Please refer to Consultation Summaries for comments received from the public consultation and our responses to the comments."
+        },
+        {
+          "type": "paragraph",
+          "text": "Should you have any questions, please contact Regis Dahany, Managing Director, Insurance Capital and Liquidity Standards Division by email at regis.dahany@osfi-bsif.gc.ca or use the mailbox, LICAT-TSAV@osfi-bsif.gc.ca ."
+        },
+        {
+          "type": "paragraph",
+          "text": "Sincerely,"
+        },
+        {
+          "type": "paragraph",
+          "text": "Amar Munipalle Executive Director, Risk Advisory Hub"
+        }
+      ]
+    }
+  ],
+  "title_normalized": "life insurance capital adequacy test 2025 letter",
+  "publication_type_normalized": "letter",
+  "category_normalized": "category_capital_adequacy_requirements",
+  "sector_normalized": [
+    "life_insurance"
+  ],
+  "guideline_number_normalized": "",
+  "applies_to_banks": false,
+  "applies_to_trust_loan": false,
+  "applies_to_life_insurance": true,
+  "applies_to_pc_insurance": false,
+  "applies_to_foreign_bank": false,
+  "applies_to_foreign_insurance": false,
+  "applies_to_cooperative": false,
+  "applies_to_bank_holding": false,
+  "effective_date_sort_key": "2024-11-21",
+  "status_sort_key": 1,
+  "authority_sort_key": 60,
+  "bm25_text": "Life Insurance Capital Adequacy Test (2025) – Letter Letter Category Capital Adequacy Requirements Life Insurance and Fraternal Companies",
+  "vector_text_prefix": "[OSFI Letter  | Category Capital Adequacy Requirements | Life Insurance and Fraternal Companies | FINAL_CURRENT | Effective 2024-11-21]",
+  "h1_title": "Life Insurance Capital Adequacy Test (2025) – Letter",
+  "regulator": "OSFI",
+  "regulator_acronym": "OSFI",
+  "jurisdiction": "Canada",
+  "short_title": "",
+  "source_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/life-insurance-capital-adequacy-test-2025-letter"
+}

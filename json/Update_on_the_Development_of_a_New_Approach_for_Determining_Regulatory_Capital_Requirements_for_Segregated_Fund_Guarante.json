@@ -1,0 +1,270 @@
+{
+  "source_system": "osfi_guidance_library",
+  "library_row_title": "Update on the Development of a New Approach for Determining Regulatory Capital Requirements for Segregated Fund Guarantee (SFG) Risk",
+  "library_row_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/update-development-new-approach-determining-regulatory-capital-requirements-segregated-fund",
+  "listing_date_raw": "November 16, 2021",
+  "listing_date_iso": "2021-11-16",
+  "listing_publication_type": "Letter",
+  "listing_category": "",
+  "listing_sector": [
+    "Life Insurance and Fraternal Companies",
+    "Property and Casualty Companies"
+  ],
+  "crawl_timestamp": "2026-03-11T00:00:00Z",
+  "detail_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/update-development-new-approach-determining-regulatory-capital-requirements-segregated-fund",
+  "canonical_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/update-development-new-approach-determining-regulatory-capital-requirements-segregated-fund",
+  "slug": "update-development-new-approach-determining-regulatory-capital-requirements-segregated-fund",
+  "title": "Update on the Development of a New Approach for Determining Regulatory Capital Requirements for Segregated Fund Guarantee (SFG) Risk",
+  "publication_type": "Letter",
+  "category": "",
+  "document_date_raw": "November 16, 2021",
+  "document_date_iso": "2021-11-16",
+  "sector": [
+    "Life Insurance and Fraternal Companies",
+    "Property and Casualty Companies"
+  ],
+  "effective_date_text": "",
+  "guideline_number": "",
+  "date_modified_raw": "2021-11-16T12:00:00Z",
+  "generate_pdf_url": "https://www.osfi-bsif.gc.ca/en/print/pdf/node/330",
+  "pdf_node_id": 330,
+  "direct_pdf_url": null,
+  "has_table_of_contents": true,
+  "toc_entries": [],
+  "has_related_documents": false,
+  "related_document_links_raw": [],
+  "consultation_status_text": null,
+  "consultation_status_refers_to_version": null,
+  "page_language": "en",
+  "word_count_raw_body": 638,
+  "doc_id": "osfi.update-development-new-approach-determining-regula.transmittal",
+  "doc_family_id": "osfi.update-development-new-approach-determining-regula",
+  "version_id": "",
+  "version_label": "Update on the Development of a New Approach for Determining ",
+  "version_sort_key": "",
+  "parent_doc_id": null,
+  "child_doc_ids": [],
+  "is_package_page": false,
+  "is_chapter_page": false,
+  "chapter_number": null,
+  "chapter_title": null,
+  "document_order_within_family": 0,
+  "supersedes_doc_id": null,
+  "superseded_by_doc_id": null,
+  "current_version_flag": true,
+  "status": "final_current",
+  "include_in_primary_corpus": false,
+  "include_in_support_corpus": true,
+  "include_in_context_corpus": false,
+  "effective_date_start": "2021-11-16",
+  "effective_date_end": null,
+  "effective_date_fye_split": false,
+  "effective_date_oct_fye": null,
+  "effective_date_dec_fye": null,
+  "is_future_effective": false,
+  "is_rescinded": false,
+  "is_draft_or_consultation": false,
+  "rescission_date": null,
+  "consultation_closing_date": null,
+  "as_of_applicability": "2026-03-23",
+  "rule_applied": "rule_5_final_current",
+  "authority_class": "official_support",
+  "authority_level": 60,
+  "nova_tier": 2,
+  "prudential_weight": 0.7,
+  "is_primary_normative": false,
+  "is_supporting_interpretive": true,
+  "is_context_only": false,
+  "document_class": "transmittal_letter",
+  "guidance_type_normalized": "letter",
+  "section_headings": [],
+  "heading_path": [
+    "Update on the Development of a New Approach for Determining Regulatory Capital Requirements for Segregated Fund Guarantee (SFG) Risk"
+  ],
+  "toc_depth": 0,
+  "has_appendices": false,
+  "appendix_ids": [],
+  "has_tables": true,
+  "table_count": 1,
+  "has_footnotes": false,
+  "footnote_count": 0,
+  "inline_cross_references": [],
+  "quoted_external_references": [],
+  "raw_html_sha256": "cdd1deaa006736241c6db61c239b9e3a271303aada519d6f04196e40273179aa",
+  "raw_pdf_sha256": null,
+  "normalized_text_sha256": null,
+  "raw_html_path": "bronze/osfi/html/final_current/update-development-new-approach-determining-regulatory-capital-requirements-segregated-fund.html",
+  "normalized_md_path": "silver/osfi/md/final_current/update-development-new-approach-determining-regulatory-capital-requirements-segregated-fund.md",
+  "canonical_json_path": "silver/osfi/json/final_current/update-development-new-approach-determining-regulatory-capital-requirements-segregated-fund.json",
+  "content_source": "HTML",
+  "parser_version": "osfi-parser-v2.1.0",
+  "normalizer_version": "osfi-normalizer-v1.4.0",
+  "quality_score": 1.0,
+  "quality_flags": [],
+  "download_timestamp": "2026-03-11T00:00:00Z",
+  "enriched_timestamp": "2026-03-23T09:54:01.231554Z",
+  "sections": [
+    {
+      "heading": "",
+      "heading_level": 2,
+      "full_text": "To: Federally Regulated Life Insurers For the purposes of this letter, “federally regulated life insurers” or “insurers” refers to all federally regulated life insurance companies, including Canadian branches of foreign life companies, fraternal benefit societies, regulated insurance holding companies and non-operating insurance companies.\nOSFI is developing a new approach to determine capital requirements for SFG risk to replace the current method, which was implemented in the early 2000s. The purpose of this letter is to communicate revisions to the timeline and key steps for the development of the new approach, initially set out in OSFI’s November 26, 2020 letter.\nIn June 2021, OSFI announced that it was deferring the implementation date of the new approach to January 1, 2025 (from January 1, 2023). The deferral will provide additional flexibility for the development of the new approach and will help insurers balance contributions to this important project and a robust implementation of IFRS 17 by January 1, 2023. In the interim period, the current method for the capital treatment of SFG risk will be retained, updated to accommodate IFRS 17.\nThe development of the new approach continues and, once finalized, it will replace Chapter 7 of the Life Insurance Capital Adequacy Test (LICAT) Guideline. Consequential amendments may be made to other areas of the test. Given the deferral of the new approach’s implementation, the public consultation on that approach, originally planned for September 2021, has been deferred to February 2023. Other steps in the development process have also been revised to reflect the January 1, 2025 implementation date and are as follows:\nFebruary 2022 | February 2023 | February 2024 | September 2024\nDistribute directly to insurers with SFG business for comment: SFG QIS including sensitivity tests, qualitative questionnaire Draft new Chapter 7 of the LICAT Guideline | Distribute directly to insurers with SFG business and select stakeholders: SFG QIS including sensitivity tests, qualitative questionnaire Public consultation on revised draft Chapter 7 of the LICAT guideline and related forms | Distribute directly to insurers with SFG business and select stakeholders: Test run, including sensitivity tests and qualitative questionnaire Potential data calls in May/June 2024 to confirm final calibration and transition measures | Publish on OSFI’s website: Final 2025 LICAT Guideline, including final new Chapter 7; and, Final regulatory capital forms, with changes resulting from the new approach incorporated\nDistribute directly to insurers with SFG business for comment:\n  - SFG QIS including sensitivity tests, qualitative questionnaire\n  - Draft new Chapter 7 of the LICAT Guideline\nSFG QIS including sensitivity tests, qualitative questionnaire\nDraft new Chapter 7 of the LICAT Guideline\nDistribute directly to insurers with SFG business and select stakeholders:\n  - SFG QIS including sensitivity tests, qualitative questionnaire\nSFG QIS including sensitivity tests, qualitative questionnaire\nPublic consultation on revised draft Chapter 7 of the LICAT guideline and related forms\nDistribute directly to insurers with SFG business and select stakeholders:\n  - Test run, including sensitivity tests and qualitative questionnaire\nTest run, including sensitivity tests and qualitative questionnaire\nPotential data calls in May/June 2024 to confirm final calibration and transition measures\nPublish on OSFI’s website:\n  - Final 2025 LICAT Guideline, including final new Chapter 7; and,\n  - Final regulatory capital forms, with changes resulting from the new approach incorporated\nFinal 2025 LICAT Guideline, including final new Chapter 7; and,\nFinal regulatory capital forms, with changes resulting from the new approach incorporated\nThe design of the new approach will not change from what was communicated in OSFI’s November 26, 2020 letter. Notably, SFG capital requirements under the new approach will be calculated by applying shocks to SFG liabilities, and will include changes in OSFI’s capital policies in respect of SFG capital.\nQuestions regarding the development of the new approach and this letter should be directed to Lisa Peterson, Managing Director, Life Insurance Capital ( lisa.peterson@osfi-bsif.gc.ca ).\nSincerely,\nBernard Dupont Senior Director Capital Division",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "To: Federally Regulated Life Insurers For the purposes of this letter, “federally regulated life insurers” or “insurers” refers to all federally regulated life insurance companies, including Canadian branches of foreign life companies, fraternal benefit societies, regulated insurance holding companies and non-operating insurance companies."
+        },
+        {
+          "type": "paragraph",
+          "text": "OSFI is developing a new approach to determine capital requirements for SFG risk to replace the current method, which was implemented in the early 2000s. The purpose of this letter is to communicate revisions to the timeline and key steps for the development of the new approach, initially set out in OSFI’s November 26, 2020 letter."
+        },
+        {
+          "type": "paragraph",
+          "text": "In June 2021, OSFI announced that it was deferring the implementation date of the new approach to January 1, 2025 (from January 1, 2023). The deferral will provide additional flexibility for the development of the new approach and will help insurers balance contributions to this important project and a robust implementation of IFRS 17 by January 1, 2023. In the interim period, the current method for the capital treatment of SFG risk will be retained, updated to accommodate IFRS 17."
+        },
+        {
+          "type": "paragraph",
+          "text": "The development of the new approach continues and, once finalized, it will replace Chapter 7 of the Life Insurance Capital Adequacy Test (LICAT) Guideline. Consequential amendments may be made to other areas of the test. Given the deferral of the new approach’s implementation, the public consultation on that approach, originally planned for September 2021, has been deferred to February 2023. Other steps in the development process have also been revised to reflect the January 1, 2025 implementation date and are as follows:"
+        },
+        {
+          "type": "table",
+          "caption": "",
+          "rows": [
+            [
+              "February 2022",
+              "February 2023",
+              "February 2024",
+              "September 2024"
+            ],
+            [
+              "Distribute directly to insurers with SFG business for comment: SFG QIS including sensitivity tests, qualitative questionnaire Draft new Chapter 7 of the LICAT Guideline",
+              "Distribute directly to insurers with SFG business and select stakeholders: SFG QIS including sensitivity tests, qualitative questionnaire Public consultation on revised draft Chapter 7 of the LICAT guideline and related forms",
+              "Distribute directly to insurers with SFG business and select stakeholders: Test run, including sensitivity tests and qualitative questionnaire Potential data calls in May/June 2024 to confirm final calibration and transition measures",
+              "Publish on OSFI’s website: Final 2025 LICAT Guideline, including final new Chapter 7; and, Final regulatory capital forms, with changes resulting from the new approach incorporated"
+            ]
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Distribute directly to insurers with SFG business for comment:"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "SFG QIS including sensitivity tests, qualitative questionnaire",
+            "Draft new Chapter 7 of the LICAT Guideline"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "SFG QIS including sensitivity tests, qualitative questionnaire"
+        },
+        {
+          "type": "paragraph",
+          "text": "Draft new Chapter 7 of the LICAT Guideline"
+        },
+        {
+          "type": "paragraph",
+          "text": "Distribute directly to insurers with SFG business and select stakeholders:"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "SFG QIS including sensitivity tests, qualitative questionnaire"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "SFG QIS including sensitivity tests, qualitative questionnaire"
+        },
+        {
+          "type": "paragraph",
+          "text": "Public consultation on revised draft Chapter 7 of the LICAT guideline and related forms"
+        },
+        {
+          "type": "paragraph",
+          "text": "Distribute directly to insurers with SFG business and select stakeholders:"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Test run, including sensitivity tests and qualitative questionnaire"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Test run, including sensitivity tests and qualitative questionnaire"
+        },
+        {
+          "type": "paragraph",
+          "text": "Potential data calls in May/June 2024 to confirm final calibration and transition measures"
+        },
+        {
+          "type": "paragraph",
+          "text": "Publish on OSFI’s website:"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Final 2025 LICAT Guideline, including final new Chapter 7; and,",
+            "Final regulatory capital forms, with changes resulting from the new approach incorporated"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Final 2025 LICAT Guideline, including final new Chapter 7; and,"
+        },
+        {
+          "type": "paragraph",
+          "text": "Final regulatory capital forms, with changes resulting from the new approach incorporated"
+        },
+        {
+          "type": "paragraph",
+          "text": "The design of the new approach will not change from what was communicated in OSFI’s November 26, 2020 letter. Notably, SFG capital requirements under the new approach will be calculated by applying shocks to SFG liabilities, and will include changes in OSFI’s capital policies in respect of SFG capital."
+        },
+        {
+          "type": "paragraph",
+          "text": "Questions regarding the development of the new approach and this letter should be directed to Lisa Peterson, Managing Director, Life Insurance Capital ( lisa.peterson@osfi-bsif.gc.ca )."
+        },
+        {
+          "type": "paragraph",
+          "text": "Sincerely,"
+        },
+        {
+          "type": "paragraph",
+          "text": "Bernard Dupont Senior Director Capital Division"
+        }
+      ]
+    }
+  ],
+  "title_normalized": "update on the development of a new approach for determining regulatory capital requirements for segregated fund guarantee sfg risk",
+  "publication_type_normalized": "letter",
+  "category_normalized": "",
+  "sector_normalized": [
+    "life_insurance",
+    "pc_insurance"
+  ],
+  "guideline_number_normalized": "",
+  "applies_to_banks": false,
+  "applies_to_trust_loan": false,
+  "applies_to_life_insurance": true,
+  "applies_to_pc_insurance": true,
+  "applies_to_foreign_bank": false,
+  "applies_to_foreign_insurance": false,
+  "applies_to_cooperative": false,
+  "applies_to_bank_holding": false,
+  "effective_date_sort_key": "2021-11-16",
+  "status_sort_key": 1,
+  "authority_sort_key": 60,
+  "bm25_text": "Update on the Development of a New Approach for Determining Regulatory Capital Requirements for Segregated Fund Guarantee (SFG) Risk Letter Life Insurance and Fraternal Companies Property and Casualty Companies",
+  "vector_text_prefix": "[OSFI Letter  |  | Life Insurance and Fraternal Companies / Property and Casualty Companies | FINAL_CURRENT | Effective 2021-11-16]",
+  "h1_title": "Update on the Development of a New Approach for Determining Regulatory Capital Requirements for Segregated Fund Guarantee (SFG) Risk",
+  "regulator": "OSFI",
+  "regulator_acronym": "OSFI",
+  "jurisdiction": "Canada",
+  "short_title": "",
+  "source_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/update-development-new-approach-determining-regulatory-capital-requirements-segregated-fund"
+}

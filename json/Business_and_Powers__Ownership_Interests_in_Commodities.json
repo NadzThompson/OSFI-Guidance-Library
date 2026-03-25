@@ -1,0 +1,399 @@
+{
+  "source_system": "osfi_guidance_library",
+  "library_row_title": "Business and Powers – Ownership Interests in Commodities",
+  "library_row_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/business-powers-ownership-interests-commodities",
+  "listing_date_raw": "January 31, 2013",
+  "listing_date_iso": "2013-01-31",
+  "listing_publication_type": "Regulatory and legislative advisory",
+  "listing_category": "Regulatory and legislative",
+  "listing_sector": [
+    "Bank Act",
+    "Cooperative Credit Associations Act",
+    "Insurance Companies Act",
+    "Trust and Loan Companies Act"
+  ],
+  "crawl_timestamp": "2026-03-11T00:00:00Z",
+  "detail_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/business-powers-ownership-interests-commodities",
+  "canonical_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/business-powers-ownership-interests-commodities",
+  "slug": "business-powers-ownership-interests-commodities",
+  "title": "Business and Powers – Ownership Interests in Commodities",
+  "publication_type": "Regulatory and legislative advisory",
+  "category": "Regulatory and legislative",
+  "document_date_raw": "January 31, 2013",
+  "document_date_iso": "2013-01-31",
+  "sector": [
+    "Bank Act",
+    "Cooperative Credit Associations Act",
+    "Insurance Companies Act",
+    "Trust and Loan Companies Act"
+  ],
+  "effective_date_text": "",
+  "guideline_number": "",
+  "date_modified_raw": "2013-01-31T12:00:00Z",
+  "generate_pdf_url": "https://www.osfi-bsif.gc.ca/en/print/pdf/node/531",
+  "pdf_node_id": 531,
+  "direct_pdf_url": null,
+  "has_table_of_contents": true,
+  "toc_entries": [],
+  "has_related_documents": false,
+  "related_document_links_raw": [],
+  "consultation_status_text": null,
+  "consultation_status_refers_to_version": null,
+  "page_language": "en",
+  "word_count_raw_body": 5061,
+  "doc_id": "osfi.business-powers-ownership-interests-commodities.advisory",
+  "doc_family_id": "osfi.business-powers-ownership-interests-commodities",
+  "version_id": "",
+  "version_label": "Business and Powers – Ownership Interests in Commodities",
+  "version_sort_key": "",
+  "parent_doc_id": null,
+  "child_doc_ids": [],
+  "is_package_page": false,
+  "is_chapter_page": false,
+  "chapter_number": null,
+  "chapter_title": null,
+  "document_order_within_family": 0,
+  "supersedes_doc_id": null,
+  "superseded_by_doc_id": null,
+  "current_version_flag": true,
+  "status": "final_current",
+  "include_in_primary_corpus": true,
+  "include_in_support_corpus": false,
+  "include_in_context_corpus": false,
+  "effective_date_start": "2013-01-31",
+  "effective_date_end": null,
+  "effective_date_fye_split": false,
+  "effective_date_oct_fye": null,
+  "effective_date_dec_fye": null,
+  "is_future_effective": false,
+  "is_rescinded": false,
+  "is_draft_or_consultation": false,
+  "rescission_date": null,
+  "consultation_closing_date": null,
+  "as_of_applicability": "2026-03-23",
+  "rule_applied": "rule_5_final_current",
+  "authority_class": "primary_normative",
+  "authority_level": 100,
+  "nova_tier": 1,
+  "prudential_weight": 1.0,
+  "is_primary_normative": true,
+  "is_supporting_interpretive": false,
+  "is_context_only": false,
+  "document_class": "advisory",
+  "guidance_type_normalized": "regulatory_and_legislative_advisory",
+  "section_headings": [
+    {
+      "level": 2,
+      "text": "Introduction",
+      "id": "h2-0"
+    },
+    {
+      "level": 2,
+      "text": "Legislative References:",
+      "id": "h2-1"
+    },
+    {
+      "level": 2,
+      "text": "Background:",
+      "id": "h2-2"
+    },
+    {
+      "level": 2,
+      "text": "Interpretation:",
+      "id": "h2-3"
+    },
+    {
+      "level": 2,
+      "text": "Minimum Prudential Standards:",
+      "id": "h2-4"
+    }
+  ],
+  "heading_path": [
+    "Business and Powers – Ownership Interests in Commodities"
+  ],
+  "toc_depth": 2,
+  "has_appendices": false,
+  "appendix_ids": [],
+  "has_tables": false,
+  "table_count": 0,
+  "has_footnotes": false,
+  "footnote_count": 0,
+  "inline_cross_references": [],
+  "quoted_external_references": [],
+  "raw_html_sha256": "d41f64132777c8457ebbbfb58fb40fc34c130650fa2ebb2d165a28181993d5eb",
+  "raw_pdf_sha256": null,
+  "normalized_text_sha256": null,
+  "raw_html_path": "bronze/osfi/html/final_current/business-powers-ownership-interests-commodities.html",
+  "normalized_md_path": "silver/osfi/md/final_current/business-powers-ownership-interests-commodities.md",
+  "canonical_json_path": "silver/osfi/json/final_current/business-powers-ownership-interests-commodities.json",
+  "content_source": "HTML",
+  "parser_version": "osfi-parser-v2.1.0",
+  "normalizer_version": "osfi-normalizer-v1.4.0",
+  "quality_score": 1.0,
+  "quality_flags": [],
+  "download_timestamp": "2026-03-11T00:00:00Z",
+  "enriched_timestamp": "2026-03-23T09:53:46.927780Z",
+  "sections": [
+    {
+      "heading": "",
+      "heading_level": 2,
+      "full_text": "Advisories describe how OSFI administers and interprets provisions of existing legislation, regulations or guidelines, or provide OSFI’s position regarding certain policy issues. Advisories are not law; readers should refer to the relevant provisions of the legislation, regulation or guideline, including any amendments that came into effect subsequent to the Advisory’s publication, when considering the relevancy of the Advisory.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Advisories describe how OSFI administers and interprets provisions of existing legislation, regulations or guidelines, or provide OSFI’s position regarding certain policy issues. Advisories are not law; readers should refer to the relevant provisions of the legislation, regulation or guideline, including any amendments that came into effect subsequent to the Advisory’s publication, when considering the relevancy of the Advisory."
+        }
+      ]
+    },
+    {
+      "heading": "Introduction",
+      "heading_level": 2,
+      "full_text": "Federally regulated financial institutions (FRFI) statutes provide that FRFIs For the purposes of this Advisory, FRFI refers collectively to banks, authorized foreign banks, associations incorporated or formed under the Cooperative Credit Associations Act and companies incorporated or formed under the Insurance Companies Act or the Trust and Loan Companies Act. shall not deal in goods, wares or merchandise or engage in any trade or other business, except as authorized under the statutes. FRFIs are authorized to engage in the business of providing financial services The business and powers of banks are mostly confined to the business of banking and such business generally as appertains to the business of banking. The business of banking includes the provision of any financial service. and such business generally as appertains thereto, as well as other specified business activities.\nIn Ruling 2004-05 – Physically Settled Commodity Trading (Ruling 2004-05), OSFI concluded that when a FRFI engages in the particular form of transaction described therein that involves the FRFI taking an ownership interest in commodities, the FRFI is providing a financial service.\nOSFI identified a need for further guidance on the circumstances in which taking an ownership interest in commodities may generally appertain to the business of providing financial services, mainly due to the following:\n  1. Some FRFIs have engaged in transactions that involve taking an ownership interest in commodities that differ from the types of transactions that were contemplated in Ruling 2004-05.\n  2. Some foreign financial institutions have substantially increased their activities in the international commodity trading market. In this regard, it should be noted that these financial institutions are generally not subject to the same restrictions on business and powers in other jurisdictions as those that apply to FRFIs pursuant to the FRFI statutes. Despite these differences in regulatory regimes, there remains a concern that FRFIs may seek to expand their activities to a similar extent.\n  3. Taking an ownership interest in commodities can expose FRFIs to risks that are different in nature (e.g., property, environmental and resulting reputational risks) from those that arise from traditional financial activities.\nSome FRFIs have engaged in transactions that involve taking an ownership interest in commodities that differ from the types of transactions that were contemplated in Ruling 2004-05.\nSome foreign financial institutions have substantially increased their activities in the international commodity trading market. In this regard, it should be noted that these financial institutions are generally not subject to the same restrictions on business and powers in other jurisdictions as those that apply to FRFIs pursuant to the FRFI statutes. Despite these differences in regulatory regimes, there remains a concern that FRFIs may seek to expand their activities to a similar extent.\nTaking an ownership interest in commodities can expose FRFIs to risks that are different in nature (e.g., property, environmental and resulting reputational risks) from those that arise from traditional financial activities.\nThe purposes of this Advisory are to provide OSFI’s views on: (i) the circumstances in which taking an ownership interest in commodities generally appertains to the business of providing financial services; and (ii) the minimum prudential standards that FRFIs that engage in activities of that nature are expected to adhere to.\nWhere a particular activity is specifically authorized by the FRFI statutes - other than an activity that falls within the business of providing financial services or such business generally as appertains thereto - that activity is outside the scope of this Advisory.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Federally regulated financial institutions (FRFI) statutes provide that FRFIs For the purposes of this Advisory, FRFI refers collectively to banks, authorized foreign banks, associations incorporated or formed under the Cooperative Credit Associations Act and companies incorporated or formed under the Insurance Companies Act or the Trust and Loan Companies Act. shall not deal in goods, wares or merchandise or engage in any trade or other business, except as authorized under the statutes. FRFIs are authorized to engage in the business of providing financial services The business and powers of banks are mostly confined to the business of banking and such business generally as appertains to the business of banking. The business of banking includes the provision of any financial service. and such business generally as appertains thereto, as well as other specified business activities."
+        },
+        {
+          "type": "paragraph",
+          "text": "In Ruling 2004-05 – Physically Settled Commodity Trading (Ruling 2004-05), OSFI concluded that when a FRFI engages in the particular form of transaction described therein that involves the FRFI taking an ownership interest in commodities, the FRFI is providing a financial service."
+        },
+        {
+          "type": "paragraph",
+          "text": "OSFI identified a need for further guidance on the circumstances in which taking an ownership interest in commodities may generally appertain to the business of providing financial services, mainly due to the following:"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "Some FRFIs have engaged in transactions that involve taking an ownership interest in commodities that differ from the types of transactions that were contemplated in Ruling 2004-05.",
+            "Some foreign financial institutions have substantially increased their activities in the international commodity trading market. In this regard, it should be noted that these financial institutions are generally not subject to the same restrictions on business and powers in other jurisdictions as those that apply to FRFIs pursuant to the FRFI statutes. Despite these differences in regulatory regimes, there remains a concern that FRFIs may seek to expand their activities to a similar extent.",
+            "Taking an ownership interest in commodities can expose FRFIs to risks that are different in nature (e.g., property, environmental and resulting reputational risks) from those that arise from traditional financial activities."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Some FRFIs have engaged in transactions that involve taking an ownership interest in commodities that differ from the types of transactions that were contemplated in Ruling 2004-05."
+        },
+        {
+          "type": "paragraph",
+          "text": "Some foreign financial institutions have substantially increased their activities in the international commodity trading market. In this regard, it should be noted that these financial institutions are generally not subject to the same restrictions on business and powers in other jurisdictions as those that apply to FRFIs pursuant to the FRFI statutes. Despite these differences in regulatory regimes, there remains a concern that FRFIs may seek to expand their activities to a similar extent."
+        },
+        {
+          "type": "paragraph",
+          "text": "Taking an ownership interest in commodities can expose FRFIs to risks that are different in nature (e.g., property, environmental and resulting reputational risks) from those that arise from traditional financial activities."
+        },
+        {
+          "type": "paragraph",
+          "text": "The purposes of this Advisory are to provide OSFI’s views on: (i) the circumstances in which taking an ownership interest in commodities generally appertains to the business of providing financial services; and (ii) the minimum prudential standards that FRFIs that engage in activities of that nature are expected to adhere to."
+        },
+        {
+          "type": "paragraph",
+          "text": "Where a particular activity is specifically authorized by the FRFI statutes - other than an activity that falls within the business of providing financial services or such business generally as appertains thereto - that activity is outside the scope of this Advisory."
+        }
+      ]
+    },
+    {
+      "heading": "Legislative References:",
+      "heading_level": 2,
+      "full_text": "Sections 409 and 410 of the Bank Act , sections 440 and 441 of the Insurance Companies Act, sections 409 and 410 of the Trust and Loan Companies Act and sections 375 and 376 of the Cooperative Credit Associations Act .",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Sections 409 and 410 of the Bank Act , sections 440 and 441 of the Insurance Companies Act, sections 409 and 410 of the Trust and Loan Companies Act and sections 375 and 376 of the Cooperative Credit Associations Act ."
+        }
+      ]
+    },
+    {
+      "heading": "Background:",
+      "heading_level": 2,
+      "full_text": "  1. Since the publication of Ruling 2004-05, OSFI has received further inquiries as to whether other types of transactions that involve FRFIs taking ownership interests in commodities satisfy the considerations set out in the Ruling. Some of the inquiries related to transactions under which the FRFI takes an ownership interest in the commodity for periods that can extend to several months. Some of these transactions are used as an alternative to an inventory financing arrangement and not to provide credit enhancement, as was the case in the Ruling. By way of example, in a “park and loan transaction”, rather than making a secured loan to a natural gas storage facility operator, a FRFI purchases a specific amount of natural gas (as agreed to with the storage facility operator) from third parties and arranges to have the gas injected into the storage facility on a given date (e.g., April 15). Shortly after entering into the purchase agreement, but prior to the date on which the gas is to be injected in the storage facility, the FRFI sells the gas to third parties for forward delivery at a specified date (e.g., October 15). During the storage period (e.g., April 15 – October 15), the FRFI has an ownership interest in the “co-mingled” gas contained in the storage facility. The FRFI does not withdraw the gas, or otherwise deal with it (e.g., by selling it to another party and subsequently replenishing it), until the specified delivery date. The storage facility operator, however, is not precluded from selling the natural gas to a third party during the storage period, but would have to replace it with an equivalent amount of gas by the date of the forward sale.\nSince the publication of Ruling 2004-05, OSFI has received further inquiries as to whether other types of transactions that involve FRFIs taking ownership interests in commodities satisfy the considerations set out in the Ruling. Some of the inquiries related to transactions under which the FRFI takes an ownership interest in the commodity for periods that can extend to several months. Some of these transactions are used as an alternative to an inventory financing arrangement and not to provide credit enhancement, as was the case in the Ruling. By way of example, in a “park and loan transaction”, rather than making a secured loan to a natural gas storage facility operator, a FRFI purchases a specific amount of natural gas (as agreed to with the storage facility operator) from third parties and arranges to have the gas injected into the storage facility on a given date (e.g., April 15). Shortly after entering into the purchase agreement, but prior to the date on which the gas is to be injected in the storage facility, the FRFI sells the gas to third parties for forward delivery at a specified date (e.g., October 15). During the storage period (e.g., April 15 – October 15), the FRFI has an ownership interest in the “co-mingled” gas contained in the storage facility. The FRFI does not withdraw the gas, or otherwise deal with it (e.g., by selling it to another party and subsequently replenishing it), until the specified delivery date. The storage facility operator, however, is not precluded from selling the natural gas to a third party during the storage period, but would have to replace it with an equivalent amount of gas by the date of the forward sale.",
+      "content": [
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "Since the publication of Ruling 2004-05, OSFI has received further inquiries as to whether other types of transactions that involve FRFIs taking ownership interests in commodities satisfy the considerations set out in the Ruling. Some of the inquiries related to transactions under which the FRFI takes an ownership interest in the commodity for periods that can extend to several months. Some of these transactions are used as an alternative to an inventory financing arrangement and not to provide credit enhancement, as was the case in the Ruling. By way of example, in a “park and loan transaction”, rather than making a secured loan to a natural gas storage facility operator, a FRFI purchases a specific amount of natural gas (as agreed to with the storage facility operator) from third parties and arranges to have the gas injected into the storage facility on a given date (e.g., April 15). Shortly after entering into the purchase agreement, but prior to the date on which the gas is to be injected in the storage facility, the FRFI sells the gas to third parties for forward delivery at a specified date (e.g., October 15). During the storage period (e.g., April 15 – October 15), the FRFI has an ownership interest in the “co-mingled” gas contained in the storage facility. The FRFI does not withdraw the gas, or otherwise deal with it (e.g., by selling it to another party and subsequently replenishing it), until the specified delivery date. The storage facility operator, however, is not precluded from selling the natural gas to a third party during the storage period, but would have to replace it with an equivalent amount of gas by the date of the forward sale."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Since the publication of Ruling 2004-05, OSFI has received further inquiries as to whether other types of transactions that involve FRFIs taking ownership interests in commodities satisfy the considerations set out in the Ruling. Some of the inquiries related to transactions under which the FRFI takes an ownership interest in the commodity for periods that can extend to several months. Some of these transactions are used as an alternative to an inventory financing arrangement and not to provide credit enhancement, as was the case in the Ruling. By way of example, in a “park and loan transaction”, rather than making a secured loan to a natural gas storage facility operator, a FRFI purchases a specific amount of natural gas (as agreed to with the storage facility operator) from third parties and arranges to have the gas injected into the storage facility on a given date (e.g., April 15). Shortly after entering into the purchase agreement, but prior to the date on which the gas is to be injected in the storage facility, the FRFI sells the gas to third parties for forward delivery at a specified date (e.g., October 15). During the storage period (e.g., April 15 – October 15), the FRFI has an ownership interest in the “co-mingled” gas contained in the storage facility. The FRFI does not withdraw the gas, or otherwise deal with it (e.g., by selling it to another party and subsequently replenishing it), until the specified delivery date. The storage facility operator, however, is not precluded from selling the natural gas to a third party during the storage period, but would have to replace it with an equivalent amount of gas by the date of the forward sale."
+        }
+      ]
+    },
+    {
+      "heading": "Interpretation:",
+      "heading_level": 2,
+      "full_text": "  1. FRFI statutes include a general prohibition on dealing in goods, wares or merchandise or engaging in any trade or other business, except as authorized under the statutes. Based on this prohibition, FRFIs may not buy and sell goods for commercial purposes. Buying and selling goods entails taking an ownership interest in the goods for a period of time and subsequently transferring this ownership interest to a third party. A FRFI is not “dealing in goods” where it takes an ownership interest in goods in the ordinary course of its business and subsequently disposes of these goods when they are no longer needed (i.e., where it buys and sells equipment necessary to carry on its business as opposed to being in the business of buying and selling such goods). The disposition in such a situation would not be for a commercial purpose.\n  2. This general prohibition does not apply in respect of activities that are authorized under the FRFI statutes. As a result, FRFIs are authorized to take ownership interests in goods (including commodities), if they do so in the context of an activity that generally appertains to the business of providing financial services. For example, when a FRFI engages in financial leasing of personal property or realizes on a security interest, taking an ownership interest in the property that is the subject of the transaction is necessarily incidental to the provision of the financial service. In contrast, taking an ownership interest in goods in the context of a transaction that does not serve a financial purpose (e.g., accumulating an inventory of commodities – either directly or through an affiliate – for the purpose of making a profit from an increase in the price of that commodity or its by-product, owning storage or processing facilities or other similar operations, or engaging in the business of extracting, processing, refining or distributing commodities or other similar operations) would clearly not appertain to the business of providing financial services.\n  3. Where a FRFI acquires an ownership interest in goods in the context of an activity that generally appertains to the business of providing financial services, the FRFI can also subsequently dispose of that interest, notwithstanding the prohibition on dealing in goods, wares and merchandise.\n  4. OSFI acknowledges that taking ownership interests in precious metals (i.e., gold, silver, platinum and palladium) should generally be considered in a different light from transactions involving other types of commodities, given the historical “special status” afforded to precious metals. Historically, the Bank Act (“Act”) provided an explicit authority for banks to deal in gold and silver coin and bullion. The reference to this and other core business powers (such as lending and accepting deposits) have since been removed from the Act because such activities are included in the concept of “business of banking”.\n  5. OSFI recognizes that the distinction between taking an ownership interest in commodities in the context of a transaction that is financial in nature versus taking an ownership interest in commodities in the context of a transaction that is commercial in nature is not always evident. This distinction is particularly challenging for transactions under which the ownership interest in the commodity is maintained for longer periods. In determining whether a transaction that involves a FRFI taking an ownership interest in commodities generally appertains to the business of providing financial services or whether such transaction is of a commercial nature, consideration must be given to the true nature and substance of the transaction.\n  6. Having regard to the above, OSFI generally considers the principles outlined below to be relevant to determining whether a transaction that involves a FRFI taking an ownership interest in commodities generally appertains to the business of providing financial services. These principles do not apply in respect of transactions referred to in paragraph 5 and to ownership interests that arise from the realization of a security interest. Purpose of transaction: The ownership interest in commodities should arise from a transaction that the FRFI has entered into as an alternative to providing a traditional financial service to the customer (e.g., inventory financing, guarantee, letter of credit or risk management service). Duration of ownership: The FRFI should only retain ownership interests in commodities for a commercially reasonable period of time, having regard to the nature of the financial service that the transaction is intended to provide. For example, in the context of a transaction that provides an alternative to a guarantee or letter of credit, the FRFI would generally own the commodity only for the period of time that actual title passes to it from the seller and then passes from it to the purchaser. In the context of a transaction that is used as an alternative to an inventory financing arrangement, the period during which the FRFI takes an ownership interest in the commodity should generally be consistent with the term of traditional inventory financing arrangements in respect of the commodity We understand that an inventory financing arrangement in respect of a commodity for which there is a seasonal cycle (e.g., natural gas) typically has a term ranging between six months to one year. . Exposure: The FRFI should not, in the normal course of its business, be exposed to fluctuations in the price of the commodity as a result of the transaction. The FRFI’s exposure in this regard should not be fundamentally different in nature and degree from such exposures that arise from the provision of comparable traditional forms of financial services. On this basis, OSFI expects FRFIs to enter into an agreement to dispose of their ownership interest in commodities promptly after agreeing to acquire that ownership interest. This aligns with the provision of traditional financial services since the FRFI’s exposure to commodity price becomes indirect, through the risk that the counterparty will default. Return: The return that is generated by a transaction that is an alternative to a traditional financial service and that involves a FRFI taking an ownership interest in commodities should not be based on fluctuations in the price of commodities but should rather have a close correlation to the return that would normally be generated by the comparable traditional financial service. For example, the fee charged by the FRFI for its participation in a transaction that is an alternative to an inventory financing arrangement should be substantially similar to the amount of interest that the FRFI would have earned had it provided a secured loan.\nFRFI statutes include a general prohibition on dealing in goods, wares or merchandise or engaging in any trade or other business, except as authorized under the statutes. Based on this prohibition, FRFIs may not buy and sell goods for commercial purposes. Buying and selling goods entails taking an ownership interest in the goods for a period of time and subsequently transferring this ownership interest to a third party. A FRFI is not “dealing in goods” where it takes an ownership interest in goods in the ordinary course of its business and subsequently disposes of these goods when they are no longer needed (i.e., where it buys and sells equipment necessary to carry on its business as opposed to being in the business of buying and selling such goods). The disposition in such a situation would not be for a commercial purpose.\nThis general prohibition does not apply in respect of activities that are authorized under the FRFI statutes. As a result, FRFIs are authorized to take ownership interests in goods (including commodities), if they do so in the context of an activity that generally appertains to the business of providing financial services. For example, when a FRFI engages in financial leasing of personal property or realizes on a security interest, taking an ownership interest in the property that is the subject of the transaction is necessarily incidental to the provision of the financial service. In contrast, taking an ownership interest in goods in the context of a transaction that does not serve a financial purpose (e.g., accumulating an inventory of commodities – either directly or through an affiliate – for the purpose of making a profit from an increase in the price of that commodity or its by-product, owning storage or processing facilities or other similar operations, or engaging in the business of extracting, processing, refining or distributing commodities or other similar operations) would clearly not appertain to the business of providing financial services.\nWhere a FRFI acquires an ownership interest in goods in the context of an activity that generally appertains to the business of providing financial services, the FRFI can also subsequently dispose of that interest, notwithstanding the prohibition on dealing in goods, wares and merchandise.\nOSFI acknowledges that taking ownership interests in precious metals (i.e., gold, silver, platinum and palladium) should generally be considered in a different light from transactions involving other types of commodities, given the historical “special status” afforded to precious metals. Historically, the Bank Act (“Act”) provided an explicit authority for banks to deal in gold and silver coin and bullion. The reference to this and other core business powers (such as lending and accepting deposits) have since been removed from the Act because such activities are included in the concept of “business of banking”.\nOSFI recognizes that the distinction between taking an ownership interest in commodities in the context of a transaction that is financial in nature versus taking an ownership interest in commodities in the context of a transaction that is commercial in nature is not always evident. This distinction is particularly challenging for transactions under which the ownership interest in the commodity is maintained for longer periods. In determining whether a transaction that involves a FRFI taking an ownership interest in commodities generally appertains to the business of providing financial services or whether such transaction is of a commercial nature, consideration must be given to the true nature and substance of the transaction.\nHaving regard to the above, OSFI generally considers the principles outlined below to be relevant to determining whether a transaction that involves a FRFI taking an ownership interest in commodities generally appertains to the business of providing financial services. These principles do not apply in respect of transactions referred to in paragraph 5 and to ownership interests that arise from the realization of a security interest.\n  1. Purpose of transaction: The ownership interest in commodities should arise from a transaction that the FRFI has entered into as an alternative to providing a traditional financial service to the customer (e.g., inventory financing, guarantee, letter of credit or risk management service).\n  2. Duration of ownership: The FRFI should only retain ownership interests in commodities for a commercially reasonable period of time, having regard to the nature of the financial service that the transaction is intended to provide. For example, in the context of a transaction that provides an alternative to a guarantee or letter of credit, the FRFI would generally own the commodity only for the period of time that actual title passes to it from the seller and then passes from it to the purchaser. In the context of a transaction that is used as an alternative to an inventory financing arrangement, the period during which the FRFI takes an ownership interest in the commodity should generally be consistent with the term of traditional inventory financing arrangements in respect of the commodity We understand that an inventory financing arrangement in respect of a commodity for which there is a seasonal cycle (e.g., natural gas) typically has a term ranging between six months to one year. .\n  3. Exposure: The FRFI should not, in the normal course of its business, be exposed to fluctuations in the price of the commodity as a result of the transaction. The FRFI’s exposure in this regard should not be fundamentally different in nature and degree from such exposures that arise from the provision of comparable traditional forms of financial services. On this basis, OSFI expects FRFIs to enter into an agreement to dispose of their ownership interest in commodities promptly after agreeing to acquire that ownership interest. This aligns with the provision of traditional financial services since the FRFI’s exposure to commodity price becomes indirect, through the risk that the counterparty will default.\n  4. Return: The return that is generated by a transaction that is an alternative to a traditional financial service and that involves a FRFI taking an ownership interest in commodities should not be based on fluctuations in the price of commodities but should rather have a close correlation to the return that would normally be generated by the comparable traditional financial service. For example, the fee charged by the FRFI for its participation in a transaction that is an alternative to an inventory financing arrangement should be substantially similar to the amount of interest that the FRFI would have earned had it provided a secured loan.\nPurpose of transaction: The ownership interest in commodities should arise from a transaction that the FRFI has entered into as an alternative to providing a traditional financial service to the customer (e.g., inventory financing, guarantee, letter of credit or risk management service).\nDuration of ownership: The FRFI should only retain ownership interests in commodities for a commercially reasonable period of time, having regard to the nature of the financial service that the transaction is intended to provide. For example, in the context of a transaction that provides an alternative to a guarantee or letter of credit, the FRFI would generally own the commodity only for the period of time that actual title passes to it from the seller and then passes from it to the purchaser. In the context of a transaction that is used as an alternative to an inventory financing arrangement, the period during which the FRFI takes an ownership interest in the commodity should generally be consistent with the term of traditional inventory financing arrangements in respect of the commodity We understand that an inventory financing arrangement in respect of a commodity for which there is a seasonal cycle (e.g., natural gas) typically has a term ranging between six months to one year. .\nExposure: The FRFI should not, in the normal course of its business, be exposed to fluctuations in the price of the commodity as a result of the transaction. The FRFI’s exposure in this regard should not be fundamentally different in nature and degree from such exposures that arise from the provision of comparable traditional forms of financial services. On this basis, OSFI expects FRFIs to enter into an agreement to dispose of their ownership interest in commodities promptly after agreeing to acquire that ownership interest. This aligns with the provision of traditional financial services since the FRFI’s exposure to commodity price becomes indirect, through the risk that the counterparty will default.\nReturn: The return that is generated by a transaction that is an alternative to a traditional financial service and that involves a FRFI taking an ownership interest in commodities should not be based on fluctuations in the price of commodities but should rather have a close correlation to the return that would normally be generated by the comparable traditional financial service. For example, the fee charged by the FRFI for its participation in a transaction that is an alternative to an inventory financing arrangement should be substantially similar to the amount of interest that the FRFI would have earned had it provided a secured loan.",
+      "content": [
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "FRFI statutes include a general prohibition on dealing in goods, wares or merchandise or engaging in any trade or other business, except as authorized under the statutes. Based on this prohibition, FRFIs may not buy and sell goods for commercial purposes. Buying and selling goods entails taking an ownership interest in the goods for a period of time and subsequently transferring this ownership interest to a third party. A FRFI is not “dealing in goods” where it takes an ownership interest in goods in the ordinary course of its business and subsequently disposes of these goods when they are no longer needed (i.e., where it buys and sells equipment necessary to carry on its business as opposed to being in the business of buying and selling such goods). The disposition in such a situation would not be for a commercial purpose.",
+            "This general prohibition does not apply in respect of activities that are authorized under the FRFI statutes. As a result, FRFIs are authorized to take ownership interests in goods (including commodities), if they do so in the context of an activity that generally appertains to the business of providing financial services. For example, when a FRFI engages in financial leasing of personal property or realizes on a security interest, taking an ownership interest in the property that is the subject of the transaction is necessarily incidental to the provision of the financial service. In contrast, taking an ownership interest in goods in the context of a transaction that does not serve a financial purpose (e.g., accumulating an inventory of commodities – either directly or through an affiliate – for the purpose of making a profit from an increase in the price of that commodity or its by-product, owning storage or processing facilities or other similar operations, or engaging in the business of extracting, processing, refining or distributing commodities or other similar operations) would clearly not appertain to the business of providing financial services.",
+            "Where a FRFI acquires an ownership interest in goods in the context of an activity that generally appertains to the business of providing financial services, the FRFI can also subsequently dispose of that interest, notwithstanding the prohibition on dealing in goods, wares and merchandise.",
+            "OSFI acknowledges that taking ownership interests in precious metals (i.e., gold, silver, platinum and palladium) should generally be considered in a different light from transactions involving other types of commodities, given the historical “special status” afforded to precious metals. Historically, the Bank Act (“Act”) provided an explicit authority for banks to deal in gold and silver coin and bullion. The reference to this and other core business powers (such as lending and accepting deposits) have since been removed from the Act because such activities are included in the concept of “business of banking”.",
+            "OSFI recognizes that the distinction between taking an ownership interest in commodities in the context of a transaction that is financial in nature versus taking an ownership interest in commodities in the context of a transaction that is commercial in nature is not always evident. This distinction is particularly challenging for transactions under which the ownership interest in the commodity is maintained for longer periods. In determining whether a transaction that involves a FRFI taking an ownership interest in commodities generally appertains to the business of providing financial services or whether such transaction is of a commercial nature, consideration must be given to the true nature and substance of the transaction.",
+            "Having regard to the above, OSFI generally considers the principles outlined below to be relevant to determining whether a transaction that involves a FRFI taking an ownership interest in commodities generally appertains to the business of providing financial services. These principles do not apply in respect of transactions referred to in paragraph 5 and to ownership interests that arise from the realization of a security interest. Purpose of transaction: The ownership interest in commodities should arise from a transaction that the FRFI has entered into as an alternative to providing a traditional financial service to the customer (e.g., inventory financing, guarantee, letter of credit or risk management service). Duration of ownership: The FRFI should only retain ownership interests in commodities for a commercially reasonable period of time, having regard to the nature of the financial service that the transaction is intended to provide. For example, in the context of a transaction that provides an alternative to a guarantee or letter of credit, the FRFI would generally own the commodity only for the period of time that actual title passes to it from the seller and then passes from it to the purchaser. In the context of a transaction that is used as an alternative to an inventory financing arrangement, the period during which the FRFI takes an ownership interest in the commodity should generally be consistent with the term of traditional inventory financing arrangements in respect of the commodity We understand that an inventory financing arrangement in respect of a commodity for which there is a seasonal cycle (e.g., natural gas) typically has a term ranging between six months to one year. . Exposure: The FRFI should not, in the normal course of its business, be exposed to fluctuations in the price of the commodity as a result of the transaction. The FRFI’s exposure in this regard should not be fundamentally different in nature and degree from such exposures that arise from the provision of comparable traditional forms of financial services. On this basis, OSFI expects FRFIs to enter into an agreement to dispose of their ownership interest in commodities promptly after agreeing to acquire that ownership interest. This aligns with the provision of traditional financial services since the FRFI’s exposure to commodity price becomes indirect, through the risk that the counterparty will default. Return: The return that is generated by a transaction that is an alternative to a traditional financial service and that involves a FRFI taking an ownership interest in commodities should not be based on fluctuations in the price of commodities but should rather have a close correlation to the return that would normally be generated by the comparable traditional financial service. For example, the fee charged by the FRFI for its participation in a transaction that is an alternative to an inventory financing arrangement should be substantially similar to the amount of interest that the FRFI would have earned had it provided a secured loan."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "FRFI statutes include a general prohibition on dealing in goods, wares or merchandise or engaging in any trade or other business, except as authorized under the statutes. Based on this prohibition, FRFIs may not buy and sell goods for commercial purposes. Buying and selling goods entails taking an ownership interest in the goods for a period of time and subsequently transferring this ownership interest to a third party. A FRFI is not “dealing in goods” where it takes an ownership interest in goods in the ordinary course of its business and subsequently disposes of these goods when they are no longer needed (i.e., where it buys and sells equipment necessary to carry on its business as opposed to being in the business of buying and selling such goods). The disposition in such a situation would not be for a commercial purpose."
+        },
+        {
+          "type": "paragraph",
+          "text": "This general prohibition does not apply in respect of activities that are authorized under the FRFI statutes. As a result, FRFIs are authorized to take ownership interests in goods (including commodities), if they do so in the context of an activity that generally appertains to the business of providing financial services. For example, when a FRFI engages in financial leasing of personal property or realizes on a security interest, taking an ownership interest in the property that is the subject of the transaction is necessarily incidental to the provision of the financial service. In contrast, taking an ownership interest in goods in the context of a transaction that does not serve a financial purpose (e.g., accumulating an inventory of commodities – either directly or through an affiliate – for the purpose of making a profit from an increase in the price of that commodity or its by-product, owning storage or processing facilities or other similar operations, or engaging in the business of extracting, processing, refining or distributing commodities or other similar operations) would clearly not appertain to the business of providing financial services."
+        },
+        {
+          "type": "paragraph",
+          "text": "Where a FRFI acquires an ownership interest in goods in the context of an activity that generally appertains to the business of providing financial services, the FRFI can also subsequently dispose of that interest, notwithstanding the prohibition on dealing in goods, wares and merchandise."
+        },
+        {
+          "type": "paragraph",
+          "text": "OSFI acknowledges that taking ownership interests in precious metals (i.e., gold, silver, platinum and palladium) should generally be considered in a different light from transactions involving other types of commodities, given the historical “special status” afforded to precious metals. Historically, the Bank Act (“Act”) provided an explicit authority for banks to deal in gold and silver coin and bullion. The reference to this and other core business powers (such as lending and accepting deposits) have since been removed from the Act because such activities are included in the concept of “business of banking”."
+        },
+        {
+          "type": "paragraph",
+          "text": "OSFI recognizes that the distinction between taking an ownership interest in commodities in the context of a transaction that is financial in nature versus taking an ownership interest in commodities in the context of a transaction that is commercial in nature is not always evident. This distinction is particularly challenging for transactions under which the ownership interest in the commodity is maintained for longer periods. In determining whether a transaction that involves a FRFI taking an ownership interest in commodities generally appertains to the business of providing financial services or whether such transaction is of a commercial nature, consideration must be given to the true nature and substance of the transaction."
+        },
+        {
+          "type": "paragraph",
+          "text": "Having regard to the above, OSFI generally considers the principles outlined below to be relevant to determining whether a transaction that involves a FRFI taking an ownership interest in commodities generally appertains to the business of providing financial services. These principles do not apply in respect of transactions referred to in paragraph 5 and to ownership interests that arise from the realization of a security interest."
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "Purpose of transaction: The ownership interest in commodities should arise from a transaction that the FRFI has entered into as an alternative to providing a traditional financial service to the customer (e.g., inventory financing, guarantee, letter of credit or risk management service).",
+            "Duration of ownership: The FRFI should only retain ownership interests in commodities for a commercially reasonable period of time, having regard to the nature of the financial service that the transaction is intended to provide. For example, in the context of a transaction that provides an alternative to a guarantee or letter of credit, the FRFI would generally own the commodity only for the period of time that actual title passes to it from the seller and then passes from it to the purchaser. In the context of a transaction that is used as an alternative to an inventory financing arrangement, the period during which the FRFI takes an ownership interest in the commodity should generally be consistent with the term of traditional inventory financing arrangements in respect of the commodity We understand that an inventory financing arrangement in respect of a commodity for which there is a seasonal cycle (e.g., natural gas) typically has a term ranging between six months to one year. .",
+            "Exposure: The FRFI should not, in the normal course of its business, be exposed to fluctuations in the price of the commodity as a result of the transaction. The FRFI’s exposure in this regard should not be fundamentally different in nature and degree from such exposures that arise from the provision of comparable traditional forms of financial services. On this basis, OSFI expects FRFIs to enter into an agreement to dispose of their ownership interest in commodities promptly after agreeing to acquire that ownership interest. This aligns with the provision of traditional financial services since the FRFI’s exposure to commodity price becomes indirect, through the risk that the counterparty will default.",
+            "Return: The return that is generated by a transaction that is an alternative to a traditional financial service and that involves a FRFI taking an ownership interest in commodities should not be based on fluctuations in the price of commodities but should rather have a close correlation to the return that would normally be generated by the comparable traditional financial service. For example, the fee charged by the FRFI for its participation in a transaction that is an alternative to an inventory financing arrangement should be substantially similar to the amount of interest that the FRFI would have earned had it provided a secured loan."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Purpose of transaction: The ownership interest in commodities should arise from a transaction that the FRFI has entered into as an alternative to providing a traditional financial service to the customer (e.g., inventory financing, guarantee, letter of credit or risk management service)."
+        },
+        {
+          "type": "paragraph",
+          "text": "Duration of ownership: The FRFI should only retain ownership interests in commodities for a commercially reasonable period of time, having regard to the nature of the financial service that the transaction is intended to provide. For example, in the context of a transaction that provides an alternative to a guarantee or letter of credit, the FRFI would generally own the commodity only for the period of time that actual title passes to it from the seller and then passes from it to the purchaser. In the context of a transaction that is used as an alternative to an inventory financing arrangement, the period during which the FRFI takes an ownership interest in the commodity should generally be consistent with the term of traditional inventory financing arrangements in respect of the commodity We understand that an inventory financing arrangement in respect of a commodity for which there is a seasonal cycle (e.g., natural gas) typically has a term ranging between six months to one year. ."
+        },
+        {
+          "type": "paragraph",
+          "text": "Exposure: The FRFI should not, in the normal course of its business, be exposed to fluctuations in the price of the commodity as a result of the transaction. The FRFI’s exposure in this regard should not be fundamentally different in nature and degree from such exposures that arise from the provision of comparable traditional forms of financial services. On this basis, OSFI expects FRFIs to enter into an agreement to dispose of their ownership interest in commodities promptly after agreeing to acquire that ownership interest. This aligns with the provision of traditional financial services since the FRFI’s exposure to commodity price becomes indirect, through the risk that the counterparty will default."
+        },
+        {
+          "type": "paragraph",
+          "text": "Return: The return that is generated by a transaction that is an alternative to a traditional financial service and that involves a FRFI taking an ownership interest in commodities should not be based on fluctuations in the price of commodities but should rather have a close correlation to the return that would normally be generated by the comparable traditional financial service. For example, the fee charged by the FRFI for its participation in a transaction that is an alternative to an inventory financing arrangement should be substantially similar to the amount of interest that the FRFI would have earned had it provided a secured loan."
+        }
+      ]
+    },
+    {
+      "heading": "Minimum Prudential Standards:",
+      "heading_level": 2,
+      "full_text": "  1. Consistent with OSFI’s expectations regarding all trading businesses, and given the risks associated with highly complex and volatile instruments, FRFIs that engage in activities that involve taking an ownership interest in commodities in the circumstances described in paragraph 7 are expected to, at a minimum FRFIs should be mindful that other statutes, regulations and regulatory guidance may also be applicable, depending on the specific type of activities. : Have the appropriate expertise to engage in such activities and appropriate policies and procedures to identify, assess and manage all risks that arise from such activities (e.g., counterparty credit risk, market risk, basis risk, property risk and environmental risk). These policies and procedures should generally include: adequate strategies to off-set any market risk exposures associated with such transactions; internal limits on trading in, and ownership of, the commodity as well as programs to monitor compliance with those limits; reasonable measures to limit or reduce any property and environmental risks that could arise from the activity (e.g., obtaining adequate insurance coverage and including indemnity clauses in agreements as appropriate); and a requirement that: (i) any transaction that involves the FRFI taking an ownership interest in commodities be promptly reported to the appropriate functional area within the FRFI; and (ii) reports provided to senior management related to commodity activities distinguish between transactions that involve the FRFI taking ownership interests in commodities from other transactions that involve commodities (e.g., cash settled commodity derivatives). Conduct a level of due diligence in respect of all counterparties to such transactions and any intermediary that participates in the transaction that is at least commensurate with that conducted in connection with the offering of the corresponding traditional financial products.\n  2. Activities that involve taking an ownership interest in certain types of commodities (e.g., oil) can give rise to increased prudential concerns due to the environmental and resulting reputational risks associated with such commodities. As a result, before engaging in any new activity that involves these types of commodities, FRFIs should provide their Relationship Manager with their assessment of the risks associated with the activity as well as their risk mitigation strategy.\n  3. Similarly, a FRFI should consult with OSFI before engaging in an activity that would involve the FRFI becoming a participant in a market in which FRFIs have not previously participated, so that any prudential or policy issues that may arise from the FRFI’s participation in this market (for example, due to the nature of the product or customer characteristics) can be addressed.\n  4. In addition, given the considerations outlined in this Advisory, where there may be uncertainty as to whether a particular transaction that involves the FRFI taking an ownership interest in commodities generally appertains to the business of providing financial services, FRFIs are encouraged to consult with OSFI before engaging in the activity.\nConsistent with OSFI’s expectations regarding all trading businesses, and given the risks associated with highly complex and volatile instruments, FRFIs that engage in activities that involve taking an ownership interest in commodities in the circumstances described in paragraph 7 are expected to, at a minimum FRFIs should be mindful that other statutes, regulations and regulatory guidance may also be applicable, depending on the specific type of activities. :\n  1. Have the appropriate expertise to engage in such activities and appropriate policies and procedures to identify, assess and manage all risks that arise from such activities (e.g., counterparty credit risk, market risk, basis risk, property risk and environmental risk). These policies and procedures should generally include: adequate strategies to off-set any market risk exposures associated with such transactions; internal limits on trading in, and ownership of, the commodity as well as programs to monitor compliance with those limits; reasonable measures to limit or reduce any property and environmental risks that could arise from the activity (e.g., obtaining adequate insurance coverage and including indemnity clauses in agreements as appropriate); and a requirement that: (i) any transaction that involves the FRFI taking an ownership interest in commodities be promptly reported to the appropriate functional area within the FRFI; and (ii) reports provided to senior management related to commodity activities distinguish between transactions that involve the FRFI taking ownership interests in commodities from other transactions that involve commodities (e.g., cash settled commodity derivatives).\n  2. Conduct a level of due diligence in respect of all counterparties to such transactions and any intermediary that participates in the transaction that is at least commensurate with that conducted in connection with the offering of the corresponding traditional financial products.\nHave the appropriate expertise to engage in such activities and appropriate policies and procedures to identify, assess and manage all risks that arise from such activities (e.g., counterparty credit risk, market risk, basis risk, property risk and environmental risk). These policies and procedures should generally include:\n  1. adequate strategies to off-set any market risk exposures associated with such transactions;\n  2. internal limits on trading in, and ownership of, the commodity as well as programs to monitor compliance with those limits;\n  3. reasonable measures to limit or reduce any property and environmental risks that could arise from the activity (e.g., obtaining adequate insurance coverage and including indemnity clauses in agreements as appropriate); and\n  4. a requirement that: (i) any transaction that involves the FRFI taking an ownership interest in commodities be promptly reported to the appropriate functional area within the FRFI; and (ii) reports provided to senior management related to commodity activities distinguish between transactions that involve the FRFI taking ownership interests in commodities from other transactions that involve commodities (e.g., cash settled commodity derivatives).\nadequate strategies to off-set any market risk exposures associated with such transactions;\ninternal limits on trading in, and ownership of, the commodity as well as programs to monitor compliance with those limits;\nreasonable measures to limit or reduce any property and environmental risks that could arise from the activity (e.g., obtaining adequate insurance coverage and including indemnity clauses in agreements as appropriate); and\na requirement that: (i) any transaction that involves the FRFI taking an ownership interest in commodities be promptly reported to the appropriate functional area within the FRFI; and (ii) reports provided to senior management related to commodity activities distinguish between transactions that involve the FRFI taking ownership interests in commodities from other transactions that involve commodities (e.g., cash settled commodity derivatives).\nConduct a level of due diligence in respect of all counterparties to such transactions and any intermediary that participates in the transaction that is at least commensurate with that conducted in connection with the offering of the corresponding traditional financial products.\nActivities that involve taking an ownership interest in certain types of commodities (e.g., oil) can give rise to increased prudential concerns due to the environmental and resulting reputational risks associated with such commodities. As a result, before engaging in any new activity that involves these types of commodities, FRFIs should provide their Relationship Manager with their assessment of the risks associated with the activity as well as their risk mitigation strategy.\nSimilarly, a FRFI should consult with OSFI before engaging in an activity that would involve the FRFI becoming a participant in a market in which FRFIs have not previously participated, so that any prudential or policy issues that may arise from the FRFI’s participation in this market (for example, due to the nature of the product or customer characteristics) can be addressed.\nIn addition, given the considerations outlined in this Advisory, where there may be uncertainty as to whether a particular transaction that involves the FRFI taking an ownership interest in commodities generally appertains to the business of providing financial services, FRFIs are encouraged to consult with OSFI before engaging in the activity.",
+      "content": [
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "Consistent with OSFI’s expectations regarding all trading businesses, and given the risks associated with highly complex and volatile instruments, FRFIs that engage in activities that involve taking an ownership interest in commodities in the circumstances described in paragraph 7 are expected to, at a minimum FRFIs should be mindful that other statutes, regulations and regulatory guidance may also be applicable, depending on the specific type of activities. : Have the appropriate expertise to engage in such activities and appropriate policies and procedures to identify, assess and manage all risks that arise from such activities (e.g., counterparty credit risk, market risk, basis risk, property risk and environmental risk). These policies and procedures should generally include: adequate strategies to off-set any market risk exposures associated with such transactions; internal limits on trading in, and ownership of, the commodity as well as programs to monitor compliance with those limits; reasonable measures to limit or reduce any property and environmental risks that could arise from the activity (e.g., obtaining adequate insurance coverage and including indemnity clauses in agreements as appropriate); and a requirement that: (i) any transaction that involves the FRFI taking an ownership interest in commodities be promptly reported to the appropriate functional area within the FRFI; and (ii) reports provided to senior management related to commodity activities distinguish between transactions that involve the FRFI taking ownership interests in commodities from other transactions that involve commodities (e.g., cash settled commodity derivatives). Conduct a level of due diligence in respect of all counterparties to such transactions and any intermediary that participates in the transaction that is at least commensurate with that conducted in connection with the offering of the corresponding traditional financial products.",
+            "Activities that involve taking an ownership interest in certain types of commodities (e.g., oil) can give rise to increased prudential concerns due to the environmental and resulting reputational risks associated with such commodities. As a result, before engaging in any new activity that involves these types of commodities, FRFIs should provide their Relationship Manager with their assessment of the risks associated with the activity as well as their risk mitigation strategy.",
+            "Similarly, a FRFI should consult with OSFI before engaging in an activity that would involve the FRFI becoming a participant in a market in which FRFIs have not previously participated, so that any prudential or policy issues that may arise from the FRFI’s participation in this market (for example, due to the nature of the product or customer characteristics) can be addressed.",
+            "In addition, given the considerations outlined in this Advisory, where there may be uncertainty as to whether a particular transaction that involves the FRFI taking an ownership interest in commodities generally appertains to the business of providing financial services, FRFIs are encouraged to consult with OSFI before engaging in the activity."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Consistent with OSFI’s expectations regarding all trading businesses, and given the risks associated with highly complex and volatile instruments, FRFIs that engage in activities that involve taking an ownership interest in commodities in the circumstances described in paragraph 7 are expected to, at a minimum FRFIs should be mindful that other statutes, regulations and regulatory guidance may also be applicable, depending on the specific type of activities. :"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "Have the appropriate expertise to engage in such activities and appropriate policies and procedures to identify, assess and manage all risks that arise from such activities (e.g., counterparty credit risk, market risk, basis risk, property risk and environmental risk). These policies and procedures should generally include: adequate strategies to off-set any market risk exposures associated with such transactions; internal limits on trading in, and ownership of, the commodity as well as programs to monitor compliance with those limits; reasonable measures to limit or reduce any property and environmental risks that could arise from the activity (e.g., obtaining adequate insurance coverage and including indemnity clauses in agreements as appropriate); and a requirement that: (i) any transaction that involves the FRFI taking an ownership interest in commodities be promptly reported to the appropriate functional area within the FRFI; and (ii) reports provided to senior management related to commodity activities distinguish between transactions that involve the FRFI taking ownership interests in commodities from other transactions that involve commodities (e.g., cash settled commodity derivatives).",
+            "Conduct a level of due diligence in respect of all counterparties to such transactions and any intermediary that participates in the transaction that is at least commensurate with that conducted in connection with the offering of the corresponding traditional financial products."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Have the appropriate expertise to engage in such activities and appropriate policies and procedures to identify, assess and manage all risks that arise from such activities (e.g., counterparty credit risk, market risk, basis risk, property risk and environmental risk). These policies and procedures should generally include:"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "adequate strategies to off-set any market risk exposures associated with such transactions;",
+            "internal limits on trading in, and ownership of, the commodity as well as programs to monitor compliance with those limits;",
+            "reasonable measures to limit or reduce any property and environmental risks that could arise from the activity (e.g., obtaining adequate insurance coverage and including indemnity clauses in agreements as appropriate); and",
+            "a requirement that: (i) any transaction that involves the FRFI taking an ownership interest in commodities be promptly reported to the appropriate functional area within the FRFI; and (ii) reports provided to senior management related to commodity activities distinguish between transactions that involve the FRFI taking ownership interests in commodities from other transactions that involve commodities (e.g., cash settled commodity derivatives)."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "adequate strategies to off-set any market risk exposures associated with such transactions;"
+        },
+        {
+          "type": "paragraph",
+          "text": "internal limits on trading in, and ownership of, the commodity as well as programs to monitor compliance with those limits;"
+        },
+        {
+          "type": "paragraph",
+          "text": "reasonable measures to limit or reduce any property and environmental risks that could arise from the activity (e.g., obtaining adequate insurance coverage and including indemnity clauses in agreements as appropriate); and"
+        },
+        {
+          "type": "paragraph",
+          "text": "a requirement that: (i) any transaction that involves the FRFI taking an ownership interest in commodities be promptly reported to the appropriate functional area within the FRFI; and (ii) reports provided to senior management related to commodity activities distinguish between transactions that involve the FRFI taking ownership interests in commodities from other transactions that involve commodities (e.g., cash settled commodity derivatives)."
+        },
+        {
+          "type": "paragraph",
+          "text": "Conduct a level of due diligence in respect of all counterparties to such transactions and any intermediary that participates in the transaction that is at least commensurate with that conducted in connection with the offering of the corresponding traditional financial products."
+        },
+        {
+          "type": "paragraph",
+          "text": "Activities that involve taking an ownership interest in certain types of commodities (e.g., oil) can give rise to increased prudential concerns due to the environmental and resulting reputational risks associated with such commodities. As a result, before engaging in any new activity that involves these types of commodities, FRFIs should provide their Relationship Manager with their assessment of the risks associated with the activity as well as their risk mitigation strategy."
+        },
+        {
+          "type": "paragraph",
+          "text": "Similarly, a FRFI should consult with OSFI before engaging in an activity that would involve the FRFI becoming a participant in a market in which FRFIs have not previously participated, so that any prudential or policy issues that may arise from the FRFI’s participation in this market (for example, due to the nature of the product or customer characteristics) can be addressed."
+        },
+        {
+          "type": "paragraph",
+          "text": "In addition, given the considerations outlined in this Advisory, where there may be uncertainty as to whether a particular transaction that involves the FRFI taking an ownership interest in commodities generally appertains to the business of providing financial services, FRFIs are encouraged to consult with OSFI before engaging in the activity."
+        }
+      ]
+    }
+  ],
+  "title_normalized": "business and powers ownership interests in commodities",
+  "publication_type_normalized": "regulatory_and_legislative_advisory",
+  "category_normalized": "regulatory_and_legislative",
+  "sector_normalized": [
+    "bank_act",
+    "cooperative_credit_associations_act",
+    "insurance_companies_act",
+    "trust_and_loan_companies_act"
+  ],
+  "guideline_number_normalized": "",
+  "applies_to_banks": true,
+  "applies_to_trust_loan": true,
+  "applies_to_life_insurance": false,
+  "applies_to_pc_insurance": false,
+  "applies_to_foreign_bank": false,
+  "applies_to_foreign_insurance": false,
+  "applies_to_cooperative": true,
+  "applies_to_bank_holding": false,
+  "effective_date_sort_key": "2013-01-31",
+  "status_sort_key": 1,
+  "authority_sort_key": 100,
+  "bm25_text": "Business and Powers – Ownership Interests in Commodities Regulatory and legislative advisory Regulatory and legislative Bank Act Cooperative Credit Associations Act Insurance Companies Act Trust and Loan Companies Act Introduction Legislative References: Background: Interpretation: Minimum Prudential Standards:",
+  "vector_text_prefix": "[OSFI Regulatory and legislative advisory  | Regulatory and legislative | Bank Act / Cooperative Credit Associations Act / Insurance Companies Act | FINAL_CURRENT | Effective 2013-01-31]",
+  "h1_title": "Business and Powers – Ownership Interests in Commodities",
+  "regulator": "OSFI",
+  "regulator_acronym": "OSFI",
+  "jurisdiction": "Canada",
+  "short_title": "",
+  "source_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/business-powers-ownership-interests-commodities"
+}

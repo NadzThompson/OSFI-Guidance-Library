@@ -1,0 +1,491 @@
+{
+  "source_system": "osfi_guidance_library",
+  "library_row_title": "Capital Adequacy Requirements Guideline (2026) – Letter",
+  "library_row_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/capital-adequacy-requirements-guideline-2026-letter",
+  "listing_date_raw": "September 11, 2025",
+  "listing_date_iso": "2025-09-11",
+  "listing_publication_type": "Letter",
+  "listing_category": "Capital Adequacy Requirements",
+  "listing_sector": [
+    "Banks",
+    "Trust and Loan Companies"
+  ],
+  "crawl_timestamp": "2026-03-11T00:00:00Z",
+  "detail_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/capital-adequacy-requirements-guideline-2026-letter",
+  "canonical_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/capital-adequacy-requirements-guideline-2026-letter",
+  "slug": "capital-adequacy-requirements-guideline-2026-letter",
+  "title": "Capital Adequacy Requirements Guideline (2026) – Letter",
+  "publication_type": "Letter",
+  "category": "Capital Adequacy Requirements",
+  "document_date_raw": "September 11, 2025",
+  "document_date_iso": "2025-09-11",
+  "sector": [
+    "Banks",
+    "Trust and Loan Companies"
+  ],
+  "effective_date_text": "",
+  "guideline_number": "",
+  "date_modified_raw": "2025-09-11T12:00:00Z",
+  "generate_pdf_url": "https://www.osfi-bsif.gc.ca/en/print/pdf/node/2839",
+  "pdf_node_id": 2839,
+  "direct_pdf_url": null,
+  "has_table_of_contents": true,
+  "toc_entries": [],
+  "has_related_documents": true,
+  "related_document_links_raw": [
+    {
+      "title": "Backgrounder: Final Capital Adequacy Requirements Guideline (2026)",
+      "url": "https://www.osfi-bsif.gc.ca/en/news/backgrounder-final-capital-adequacy-requirements-guideline-2026"
+    },
+    {
+      "title": "OSFI releases capital guidelines updates for financial resiliency",
+      "url": "https://www.osfi-bsif.gc.ca/en/news/osfi-releases-capital-guidelines-updates-financial-resiliency"
+    },
+    {
+      "title": "Capital Adequacy Requirements (CAR) – Guideline (2026)",
+      "url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/capital-adequacy-requirements-car-guideline-2026"
+    },
+    {
+      "title": "Frequently asked questions – Basel III reforms",
+      "url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/frequently-asked-questions-basel-iii-reforms"
+    },
+    {
+      "title": "Basel Capital Adequacy Reporting (BCAR) 2026",
+      "url": "https://www.osfi-bsif.gc.ca/en/data-forms/reporting-returns/filing-financial-returns/financial-reporting-instructions/2026-basel-capital-adequacy-reporting-bcar"
+    }
+  ],
+  "consultation_status_text": null,
+  "consultation_status_refers_to_version": null,
+  "page_language": "en",
+  "word_count_raw_body": 2642,
+  "doc_id": "osfi.capital-adequacy-requirements-guideline.2026.transmittal",
+  "doc_family_id": "osfi.capital-adequacy-requirements-guideline",
+  "version_id": "2026",
+  "version_label": "Capital Adequacy Requirements Guideline (2026) – Letter",
+  "version_sort_key": "2026-09",
+  "parent_doc_id": null,
+  "child_doc_ids": [],
+  "is_package_page": false,
+  "is_chapter_page": false,
+  "chapter_number": null,
+  "chapter_title": null,
+  "document_order_within_family": 0,
+  "supersedes_doc_id": null,
+  "superseded_by_doc_id": null,
+  "current_version_flag": true,
+  "status": "final_current",
+  "include_in_primary_corpus": false,
+  "include_in_support_corpus": true,
+  "include_in_context_corpus": false,
+  "effective_date_start": "2025-09-11",
+  "effective_date_end": null,
+  "effective_date_fye_split": false,
+  "effective_date_oct_fye": null,
+  "effective_date_dec_fye": null,
+  "is_future_effective": false,
+  "is_rescinded": false,
+  "is_draft_or_consultation": false,
+  "rescission_date": null,
+  "consultation_closing_date": null,
+  "as_of_applicability": "2026-03-23",
+  "rule_applied": "rule_5_final_current",
+  "authority_class": "official_support",
+  "authority_level": 60,
+  "nova_tier": 2,
+  "prudential_weight": 0.7,
+  "is_primary_normative": false,
+  "is_supporting_interpretive": true,
+  "is_context_only": false,
+  "document_class": "transmittal_letter",
+  "guidance_type_normalized": "letter",
+  "section_headings": [
+    {
+      "level": 2,
+      "text": "Summary of stakeholder comments and our responses",
+      "id": "h2-0"
+    }
+  ],
+  "heading_path": [
+    "Capital Adequacy Requirements Guideline (2026) – Letter"
+  ],
+  "toc_depth": 2,
+  "has_appendices": false,
+  "appendix_ids": [],
+  "has_tables": true,
+  "table_count": 8,
+  "has_footnotes": false,
+  "footnote_count": 0,
+  "inline_cross_references": [
+    "Guideline B-2: Large Exposure Limits"
+  ],
+  "quoted_external_references": [],
+  "raw_html_sha256": "1dd382be0ec0c5d90974b9204ce0171af49fe177de95589cd3fec553fdd54166",
+  "raw_pdf_sha256": null,
+  "normalized_text_sha256": null,
+  "raw_html_path": "bronze/osfi/html/final_current/capital-adequacy-requirements-guideline-2026-letter.html",
+  "normalized_md_path": "silver/osfi/md/final_current/capital-adequacy-requirements-guideline-2026-letter.md",
+  "canonical_json_path": "silver/osfi/json/final_current/capital-adequacy-requirements-guideline-2026-letter.json",
+  "content_source": "HTML",
+  "parser_version": "osfi-parser-v2.1.0",
+  "normalizer_version": "osfi-normalizer-v1.4.0",
+  "quality_score": 1.0,
+  "quality_flags": [],
+  "download_timestamp": "2026-03-11T00:00:00Z",
+  "enriched_timestamp": "2026-03-23T09:53:50.296096Z",
+  "sections": [
+    {
+      "heading": "",
+      "heading_level": 2,
+      "full_text": "  - Backgrounder: Final Capital Adequacy Requirements Guideline (2026)\n  - OSFI releases capital guidelines updates for financial resiliency\n  - Capital Adequacy Requirements (CAR) – Guideline (2026)\n  - Frequently asked questions – Basel III reforms\n  - Basel Capital Adequacy Reporting (BCAR) 2026\nToday, we are publishing the Capital Adequacy Requirements (CAR) 2026 guideline, with corresponding revisions to the Small and Medium-Sized Deposit-Taking Institutions (SMSB) Capital and Liquidity Requirements Guideline. These guidelines will take effect on November 1, 2025 or January 1, 2026 for institutions with a fiscal year ending October 31 or December 31, respectively.\nWe appreciate the stakeholder engagement and feedback received this spring during the consultation on revisions to the CAR Guideline and SMSB Capital and Liquidity Requirements Guideline.\nThe revised CAR Guideline reflects several revisions in response to stakeholder comments received, including updates and clarifications related to the treatment of United States Government Sponsored Entities, the identification of residential real estate exposures as income producing, and implementation considerations related to the treatment of Combined Loan Products. Revisions also include updates to the market risk capital rules to improve alignment with the credit risk capital treatment of sovereign exposures.\nPlease refer to the summary of stakeholder comments and our responses.\nShould you have any questions, please contact Mark Joshua ( mark.joshua@osfi-bsif.gc.ca ), Director, Banking Capital and Liquidity Standards Division, Risk Advisory Hub.\nSincerely,\nAmar Munipalle Executive Director, Risk Advisory Hub",
+      "content": [
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Backgrounder: Final Capital Adequacy Requirements Guideline (2026)",
+            "OSFI releases capital guidelines updates for financial resiliency",
+            "Capital Adequacy Requirements (CAR) – Guideline (2026)",
+            "Frequently asked questions – Basel III reforms",
+            "Basel Capital Adequacy Reporting (BCAR) 2026"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Today, we are publishing the Capital Adequacy Requirements (CAR) 2026 guideline, with corresponding revisions to the Small and Medium-Sized Deposit-Taking Institutions (SMSB) Capital and Liquidity Requirements Guideline. These guidelines will take effect on November 1, 2025 or January 1, 2026 for institutions with a fiscal year ending October 31 or December 31, respectively."
+        },
+        {
+          "type": "paragraph",
+          "text": "We appreciate the stakeholder engagement and feedback received this spring during the consultation on revisions to the CAR Guideline and SMSB Capital and Liquidity Requirements Guideline."
+        },
+        {
+          "type": "paragraph",
+          "text": "The revised CAR Guideline reflects several revisions in response to stakeholder comments received, including updates and clarifications related to the treatment of United States Government Sponsored Entities, the identification of residential real estate exposures as income producing, and implementation considerations related to the treatment of Combined Loan Products. Revisions also include updates to the market risk capital rules to improve alignment with the credit risk capital treatment of sovereign exposures."
+        },
+        {
+          "type": "paragraph",
+          "text": "Please refer to the summary of stakeholder comments and our responses."
+        },
+        {
+          "type": "paragraph",
+          "text": "Should you have any questions, please contact Mark Joshua ( mark.joshua@osfi-bsif.gc.ca ), Director, Banking Capital and Liquidity Standards Division, Risk Advisory Hub."
+        },
+        {
+          "type": "paragraph",
+          "text": "Sincerely,"
+        },
+        {
+          "type": "paragraph",
+          "text": "Amar Munipalle Executive Director, Risk Advisory Hub"
+        }
+      ]
+    },
+    {
+      "heading": "Summary of stakeholder comments and our responses",
+      "heading_level": 2,
+      "full_text": "Table: Chapter 1 - Overview of Risk-based Capital Requirements\nSection | Stakeholder feedback | Our response\n1.4 | Stakeholders recommended reflecting in paragraphs 24 and 26 that the capital floor will be maintained at 67.5% until further notice. | We have updated paragraphs 24 and 26 to refer to the updated capital floor transition timeline in paragraph 33.\n1.4 | Stakeholders requested a reduction of the initial capital floor upon approval to use internal ratings-based (IRB) approaches to 90%, with subsequent maximum reductions of 10% per assessment cycle, from the proposed 95% initial level and 7.5% maximum reductions. | After review, we have modified the initial capital floor for newly-approved IRB institutions to begin at 90%. We will maintain the maximum reductions of 7.5% per assessment cycle.\n1.4.1 | Stakeholders requested a reduction in the IRB coverage requirements from the current 80% of IRB-eligible exposures and risk-weighted assets (RWA). | We will consider this issue for future revisions to the CAR Guideline.\n1.7.2 | Stakeholders requested clarity on the continued reference to the Incremental Risk Charge (IRC) for trading book exposures, given that the Fundamental Review of the Trading Book (FRTB) framework has been implemented and the Default Risk Charge (DRC) has replaced IRC. | We have corrected this reference to reflect the FRTB framework for trading book exposures.\nTable: Chapter 2 - Definition of Capital\nSection | Stakeholder feedback | Our response\nFootnote 100 | Stakeholders requested confirmation on whether the removal of Footnote 100 in Chapter 2 implies that Contractual Service Margins—now including segregated fund contracts with guarantee risk, as per revised paragraph 3—are no longer added to the exposure amount for significant investments in insurance entities outside the scope of regulatory consolidation for deduction purposes. | We have re-introduced the original footnote 100 in the final guideline.\nTable: Chapter 3 - Operational Risk\nSection | Stakeholder feedback | Our response\n3.2 | Stakeholders recommended that fee income be calculated on a net basis—by offsetting related expenses—when determining its contribution to the operational risk capital requirement. Additionally, stakeholders suggested a reduction in operational risk capital requirements for investment management activities. | We did not make any changes to the final guideline in response to this comment. The intent of the Business Indicator (BI) is to proxy the exposure to operational risk by the size of the activities, so netting would mask some of that exposure. Moreover, the BIs were specifically designed away from business line specificities and are meant to capture broad-based exposure proxies.\nWe did not make any changes to the final guideline in response to this comment.\nThe intent of the Business Indicator (BI) is to proxy the exposure to operational risk by the size of the activities, so netting would mask some of that exposure.\nMoreover, the BIs were specifically designed away from business line specificities and are meant to capture broad-based exposure proxies.\nTable: Chapter 4 - Credit Risk – Standardized Approach\nSection | Stakeholder feedback | Our response\n4.1.2 | Stakeholders submitted considerations around how to make the capital treatment of U.S. government sponsored entities (GSEs) in conservatorship or receivership more consistent with the current U.S. regulatory treatment. | We have modified the final guideline to be consistent with the U.S. regulatory treatment. As such, a probability of default (PD) floor of 0.03% and a LGD floor of 0% apply for exposures to U.S. GSEs in conservatorship or receivership. In addition, for regulatory reporting purposes, U.S. GSEs will be treated as Corporate exposures. These exposures remain exempt from Guideline B-2: Large Exposure Limits.\n4.1.4 | Stakeholders requested that the current standardized risk weights for deposits with Canadian domestic systemically important banks be lowered. | We will consider this issue for future revisions to the CAR Guideline.\n4.1.8 | Stakeholders requested that the risk weight for equities be reverted to 100% from the current 250%, excluding items previously risk-weighted at 300% and 400%. | We will consider this issue for future revisions to the CAR Guideline.\n4.1.9 | Stakeholders requested that small-to-medium-sized banks (SMSBs) be exempted from the 0.2% granularity threshold for regulatory retail portfolios. | We will consider this issue for future revisions to the CAR Guideline.\n4.1.11 | Stakeholders requested that the new criterion to identify income-producing residential real estate exposures (IPRRE) be removed. Stakeholders also submitted several implementation considerations related to the new criterion. | We have removed the new criterion related to the identification of IPRRE. We have maintained the prior criterion that the loan be considered IPRRE if more than 50% of the borrower's income used in the institution's assessment of the borrower's ability to service the loan is from cash flows generated by the residential property. However, an institution’s internal indicator may continue to be used as an alternative identifier of IPRRE if they are more conservative than the 50% criterion. We have maintained the clarification that, in cases where the borrower has multiple mortgages, the income used to identify an exposure as IPRRE should be adjusted by removing income used to validate the borrower's ability to service mortgages on other properties.\n4.1.21 | Stakeholders requested the use of consistent terminology in the amended definitions of defaulted exposures to avoid ambiguity. | We have amended the relevant language in Chapter 4, paragraph 142.\n4.1.21 | Stakeholders requested an 18-month transition period to allow for operational updates to ensure that all products within a single Combined Loan Product (CLP) facility must have the same PD and LGD. | We have updated the final guideline to provide an 18-month transition period for institutions to meet the requirements that all products within a single CLP facility must have the same PD and LGD.\n4.2.3.5 | Stakeholders proposed that long-term ratings be permitted for use in assigning risk weights to unrated short-term exposures, particularly for investment grade entities. | We will consider this issue for future revisions to the CAR Guideline.\n4.3.2 | Stakeholders proposed language to explicitly allow for a broader range of credit risk mitigants beyond collateral, including those provided by third parties. | We did not incorporate the requested change as it would allow for an overly broad recognition of collateral and deviates from the definitions of eligible financial collateral in the CAR Guideline.\n4.3.3 | Stakeholders recommended that life insurance policies be recognized as eligible credit risk mitigants under the simple approach, subject to appropriate conditions. | We did not make the requested change. The request related to the cash surrender value of life insurance policies, which is not eligible financial collateral under the CAR Guideline.\n4.3.5 | For privately -insured mortgages acquired from third parties, stakeholders requested that banks be allowed to use the loan balance at the time of transfer, rather than the original loan amount—for deductible calculations. | We did not make the requested change as institutions are required to use the original loan amount to determine the value of the deductible.\nWe have modified the final guideline to be consistent with the U.S. regulatory treatment. As such, a probability of default (PD) floor of 0.03% and a LGD floor of 0% apply for exposures to U.S. GSEs in conservatorship or receivership. In addition, for regulatory reporting purposes, U.S. GSEs will be treated as Corporate exposures.\nThese exposures remain exempt from Guideline B-2: Large Exposure Limits.\nStakeholders requested that the new criterion to identify income-producing residential real estate exposures (IPRRE) be removed.\nStakeholders also submitted several implementation considerations related to the new criterion.\nWe have removed the new criterion related to the identification of IPRRE. We have maintained the prior criterion that the loan be considered IPRRE if more than 50% of the borrower's income used in the institution's assessment of the borrower's ability to service the loan is from cash flows generated by the residential property. However, an institution’s internal indicator may continue to be used as an alternative identifier of IPRRE if they are more conservative than the 50% criterion.\nWe have maintained the clarification that, in cases where the borrower has multiple mortgages, the income used to identify an exposure as IPRRE should be adjusted by removing income used to validate the borrower's ability to service mortgages on other properties.\nTable: Chapter 5 - Credit Risk – Internal Ratings-Based Approach\nSection | Stakeholder feedback | Our response\n5.4.1 | Stakeholders requested that for non-regulatory retail exposures that do not meet the criteria for a retail exposure and must be treated as Corporate Small and Medium-sized Enterprises (SMEs), institutions be permitted to assume the minimum allowable sales amount of $7.5 million and the minimum allowable maturity of 1 year for purposes of the risk function. | We have modified the language to allow institutions to assume a fixed maturity of 2.5 years for such exposures for purposes of the SME risk function. The guideline already sets the sales amount to $7.5 million for non-regulatory retail exposures.\nTable: Chapter 7 - Settlement and Counterparty Risk\nSection | Stakeholder feedback | Our response\n7.1.7.1 | Stakeholders proposed that bankruptcy-remote collateral for securities financing transactions (SFTs) be excluded from exposure calculations, consistent with the treatment of initial margin collateral in over the counter (OTC) transactions, and aligned with Chapter 7 language. | We did not make the requested change as this introduces legal, operational and economic risks. As such, we are not comfortable with recognizing the bankruptcy remote status of SFT collateral.\n7.1.7.12 | Stakeholders asked for clarity on the exclusion of illiquid posted collateral from the Margin Period of Risk (MPOR) assessment for SFTs, aligning with OTC treatment in Chapter 7, paragraph 142. | We will consider this issue for future revisions to the CAR Guideline with a view to ensuring a consistent treatment between derivatives and SFTs.\n7.1.7.12 | Stakeholders requested that collateral that is not recognized for credit risk mitigation be excluded from MPOR assessments, and that institutions be allowed to derecognize illiquid collateral to avoid applying MPOR adjustments to the entire netting set. | We confirm that collateral that is not recognized for credit risk mitigation purposes does not impact the regulatory MPOR. As such, no change is required to the guideline.\nTable: Chapter 8 - Credit Valuation Adjustment (CVA) Risk\nSection | Stakeholder feedback | Our response\n8.1 | Stakeholders asked for clarity on whether long-dated settlement transactions are excluded from the CVA capital charge, consistent with their exclusion under the accounting CVA framework and the definitions provided in Chapters 7 and 8. | We confirm that long dated settlement transactions are not subject to the CVA capital charge. No change is required in the guideline as chapter 8 clearly outlines the scope of application for the CVA capital charge.\n8.1 | Stakeholders asked that client cleared derivative transactions be exempt from the application of the FRTB CVA capital charge given that these transactions are not subject to accounting CVA requirements and therefore do not present CVA volatility risk. | We agree with the rationale provided by stakeholders and have modified the final guideline to exempt the requested trades from the CVA capital charge.\nTable: Chapter 9 - Market Risk\nSection | Stakeholder feedback | Our response\n9 | Stakeholders requested an adjustment factor to the combined Basel 3 market risk and CVA capital requirements to mitigate competitive imbalances introduced by our earlier implementation of FRTB. | We have not implemented an adjustment factor to the market risk and CVA capital requirements in the final guideline. We will continue to assess the competitive landscape in the context of FRTB implementation. We will consider this issue for future revisions to the CAR Guideline.\n9.2.6 | Stakeholders asked for reconsideration on allowing all funding valuation adjustment (FVA) hedges to be excluded from market risk capital. The current CAR Guideline diverges from Basel standards and limits hedge exclusions to those hedging the exposure component of FVA, rather than the cost of funds component. This treatment disincentivizes xVA desks from hedging funding costs, potentially increasing systemic risk. | We have not made any changes to the treatment of FVA hedges in the final guideline. We will continue to consider evidence of hedge effectiveness during periods of stress and will consider this issue for future revisions to the CAR Guideline.\n9.5.3.3 | Stakeholders asked for clarity on paragraph 220 to ensure consistency with the credit risk treatment and the Basel framework. Specifically, the current wording limits eligibility to exposures held in a local subsidiary, whereas the credit risk guidance allows for either a subsidiary or branch. This change would ensure consistent application of sovereign risk treatment across jurisdictions and better reflect the risk rationale already accepted by OSFI and international peers. | We have modified the scope of paragraph 220 to allow sovereign exposures held in foreign bank branches to be eligible for the reduced risk weight.\n9.5.3.3 | Stakeholders requested an extension of the 0% DRC risk weight to Multilateral Development Banks (MDBs), which is consistent with the MDBs’ 0% credit risk weight assigned under Chapter 4 and their inclusion in the Sovereign bucket under Chapter 9. The current 0.5% DRC risk weight for MDBs creates a misalignment with sovereign bond hedges and diverges from international practices. | We have modified the scope of paragraph 220 to allow eligible MDBs to be assigned a 0% DRC risk weight.\n9.5.3.3 | Stakeholders requested that institutions be permitted to use Export Credit Agency (ECA) country risk scores to infer conservative equivalent credit ratings for unrated sovereigns. This would promote consistency between default risk treatment under the credit risk and market risk frameworks. | We have not changed the guideline to permit the use of ECA country risk scores to infer equivalent credit ratings for unrated sovereigns. The DRC treatment of unrated sovereigns is already established as part of the Basel framework for market risk capital and reflected in Chapter 9.\n9.5.3.3 | Stakeholders asked whether there are any changes to the PD floors under the Internal Models Approach (IMA), as outlined in paragraph 385, to align with the updated treatment of sovereign exposures in paragraph 220. | We have not made any changes to the PD floors for sovereign exposures under the IMA. We will consider this issue for future revisions to the CAR Guideline.\n9.5.3.4 | Stakeholders requested revisions to the treatment of maturity mismatches under the FRTB framework to better reflect the economic relationship between derivatives and their hedges. | We have not made any changes to the treatment of equity derivatives and their hedges. We will consider this issue for future revisions to the CAR Guideline.",
+      "content": [
+        {
+          "type": "table",
+          "caption": "Chapter 1 - Overview of Risk-based Capital Requirements",
+          "rows": [
+            [
+              "Section",
+              "Stakeholder feedback",
+              "Our response"
+            ],
+            [
+              "1.4",
+              "Stakeholders recommended reflecting in paragraphs 24 and 26 that the capital floor will be maintained at 67.5% until further notice.",
+              "We have updated paragraphs 24 and 26 to refer to the updated capital floor transition timeline in paragraph 33."
+            ],
+            [
+              "1.4",
+              "Stakeholders requested a reduction of the initial capital floor upon approval to use internal ratings-based (IRB) approaches to 90%, with subsequent maximum reductions of 10% per assessment cycle, from the proposed 95% initial level and 7.5% maximum reductions.",
+              "After review, we have modified the initial capital floor for newly-approved IRB institutions to begin at 90%. We will maintain the maximum reductions of 7.5% per assessment cycle."
+            ],
+            [
+              "1.4.1",
+              "Stakeholders requested a reduction in the IRB coverage requirements from the current 80% of IRB-eligible exposures and risk-weighted assets (RWA).",
+              "We will consider this issue for future revisions to the CAR Guideline."
+            ],
+            [
+              "1.7.2",
+              "Stakeholders requested clarity on the continued reference to the Incremental Risk Charge (IRC) for trading book exposures, given that the Fundamental Review of the Trading Book (FRTB) framework has been implemented and the Default Risk Charge (DRC) has replaced IRC.",
+              "We have corrected this reference to reflect the FRTB framework for trading book exposures."
+            ]
+          ]
+        },
+        {
+          "type": "table",
+          "caption": "Chapter 2 - Definition of Capital",
+          "rows": [
+            [
+              "Section",
+              "Stakeholder feedback",
+              "Our response"
+            ],
+            [
+              "Footnote 100",
+              "Stakeholders requested confirmation on whether the removal of Footnote 100 in Chapter 2 implies that Contractual Service Margins—now including segregated fund contracts with guarantee risk, as per revised paragraph 3—are no longer added to the exposure amount for significant investments in insurance entities outside the scope of regulatory consolidation for deduction purposes.",
+              "We have re-introduced the original footnote 100 in the final guideline."
+            ]
+          ]
+        },
+        {
+          "type": "table",
+          "caption": "Chapter 3 - Operational Risk",
+          "rows": [
+            [
+              "Section",
+              "Stakeholder feedback",
+              "Our response"
+            ],
+            [
+              "3.2",
+              "Stakeholders recommended that fee income be calculated on a net basis—by offsetting related expenses—when determining its contribution to the operational risk capital requirement. Additionally, stakeholders suggested a reduction in operational risk capital requirements for investment management activities.",
+              "We did not make any changes to the final guideline in response to this comment. The intent of the Business Indicator (BI) is to proxy the exposure to operational risk by the size of the activities, so netting would mask some of that exposure. Moreover, the BIs were specifically designed away from business line specificities and are meant to capture broad-based exposure proxies."
+            ]
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "We did not make any changes to the final guideline in response to this comment."
+        },
+        {
+          "type": "paragraph",
+          "text": "The intent of the Business Indicator (BI) is to proxy the exposure to operational risk by the size of the activities, so netting would mask some of that exposure."
+        },
+        {
+          "type": "paragraph",
+          "text": "Moreover, the BIs were specifically designed away from business line specificities and are meant to capture broad-based exposure proxies."
+        },
+        {
+          "type": "table",
+          "caption": "Chapter 4 - Credit Risk – Standardized Approach",
+          "rows": [
+            [
+              "Section",
+              "Stakeholder feedback",
+              "Our response"
+            ],
+            [
+              "4.1.2",
+              "Stakeholders submitted considerations around how to make the capital treatment of U.S. government sponsored entities (GSEs) in conservatorship or receivership more consistent with the current U.S. regulatory treatment.",
+              "We have modified the final guideline to be consistent with the U.S. regulatory treatment. As such, a probability of default (PD) floor of 0.03% and a LGD floor of 0% apply for exposures to U.S. GSEs in conservatorship or receivership. In addition, for regulatory reporting purposes, U.S. GSEs will be treated as Corporate exposures. These exposures remain exempt from Guideline B-2: Large Exposure Limits."
+            ],
+            [
+              "4.1.4",
+              "Stakeholders requested that the current standardized risk weights for deposits with Canadian domestic systemically important banks be lowered.",
+              "We will consider this issue for future revisions to the CAR Guideline."
+            ],
+            [
+              "4.1.8",
+              "Stakeholders requested that the risk weight for equities be reverted to 100% from the current 250%, excluding items previously risk-weighted at 300% and 400%.",
+              "We will consider this issue for future revisions to the CAR Guideline."
+            ],
+            [
+              "4.1.9",
+              "Stakeholders requested that small-to-medium-sized banks (SMSBs) be exempted from the 0.2% granularity threshold for regulatory retail portfolios.",
+              "We will consider this issue for future revisions to the CAR Guideline."
+            ],
+            [
+              "4.1.11",
+              "Stakeholders requested that the new criterion to identify income-producing residential real estate exposures (IPRRE) be removed. Stakeholders also submitted several implementation considerations related to the new criterion.",
+              "We have removed the new criterion related to the identification of IPRRE. We have maintained the prior criterion that the loan be considered IPRRE if more than 50% of the borrower's income used in the institution's assessment of the borrower's ability to service the loan is from cash flows generated by the residential property. However, an institution’s internal indicator may continue to be used as an alternative identifier of IPRRE if they are more conservative than the 50% criterion. We have maintained the clarification that, in cases where the borrower has multiple mortgages, the income used to identify an exposure as IPRRE should be adjusted by removing income used to validate the borrower's ability to service mortgages on other properties."
+            ],
+            [
+              "4.1.21",
+              "Stakeholders requested the use of consistent terminology in the amended definitions of defaulted exposures to avoid ambiguity.",
+              "We have amended the relevant language in Chapter 4, paragraph 142."
+            ],
+            [
+              "4.1.21",
+              "Stakeholders requested an 18-month transition period to allow for operational updates to ensure that all products within a single Combined Loan Product (CLP) facility must have the same PD and LGD.",
+              "We have updated the final guideline to provide an 18-month transition period for institutions to meet the requirements that all products within a single CLP facility must have the same PD and LGD."
+            ],
+            [
+              "4.2.3.5",
+              "Stakeholders proposed that long-term ratings be permitted for use in assigning risk weights to unrated short-term exposures, particularly for investment grade entities.",
+              "We will consider this issue for future revisions to the CAR Guideline."
+            ],
+            [
+              "4.3.2",
+              "Stakeholders proposed language to explicitly allow for a broader range of credit risk mitigants beyond collateral, including those provided by third parties.",
+              "We did not incorporate the requested change as it would allow for an overly broad recognition of collateral and deviates from the definitions of eligible financial collateral in the CAR Guideline."
+            ],
+            [
+              "4.3.3",
+              "Stakeholders recommended that life insurance policies be recognized as eligible credit risk mitigants under the simple approach, subject to appropriate conditions.",
+              "We did not make the requested change. The request related to the cash surrender value of life insurance policies, which is not eligible financial collateral under the CAR Guideline."
+            ],
+            [
+              "4.3.5",
+              "For privately -insured mortgages acquired from third parties, stakeholders requested that banks be allowed to use the loan balance at the time of transfer, rather than the original loan amount—for deductible calculations.",
+              "We did not make the requested change as institutions are required to use the original loan amount to determine the value of the deductible."
+            ]
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "We have modified the final guideline to be consistent with the U.S. regulatory treatment. As such, a probability of default (PD) floor of 0.03% and a LGD floor of 0% apply for exposures to U.S. GSEs in conservatorship or receivership. In addition, for regulatory reporting purposes, U.S. GSEs will be treated as Corporate exposures."
+        },
+        {
+          "type": "paragraph",
+          "text": "These exposures remain exempt from Guideline B-2: Large Exposure Limits."
+        },
+        {
+          "type": "paragraph",
+          "text": "Stakeholders requested that the new criterion to identify income-producing residential real estate exposures (IPRRE) be removed."
+        },
+        {
+          "type": "paragraph",
+          "text": "Stakeholders also submitted several implementation considerations related to the new criterion."
+        },
+        {
+          "type": "paragraph",
+          "text": "We have removed the new criterion related to the identification of IPRRE. We have maintained the prior criterion that the loan be considered IPRRE if more than 50% of the borrower's income used in the institution's assessment of the borrower's ability to service the loan is from cash flows generated by the residential property. However, an institution’s internal indicator may continue to be used as an alternative identifier of IPRRE if they are more conservative than the 50% criterion."
+        },
+        {
+          "type": "paragraph",
+          "text": "We have maintained the clarification that, in cases where the borrower has multiple mortgages, the income used to identify an exposure as IPRRE should be adjusted by removing income used to validate the borrower's ability to service mortgages on other properties."
+        },
+        {
+          "type": "table",
+          "caption": "Chapter 5 - Credit Risk – Internal Ratings-Based Approach",
+          "rows": [
+            [
+              "Section",
+              "Stakeholder feedback",
+              "Our response"
+            ],
+            [
+              "5.4.1",
+              "Stakeholders requested that for non-regulatory retail exposures that do not meet the criteria for a retail exposure and must be treated as Corporate Small and Medium-sized Enterprises (SMEs), institutions be permitted to assume the minimum allowable sales amount of $7.5 million and the minimum allowable maturity of 1 year for purposes of the risk function.",
+              "We have modified the language to allow institutions to assume a fixed maturity of 2.5 years for such exposures for purposes of the SME risk function. The guideline already sets the sales amount to $7.5 million for non-regulatory retail exposures."
+            ]
+          ]
+        },
+        {
+          "type": "table",
+          "caption": "Chapter 7 - Settlement and Counterparty Risk",
+          "rows": [
+            [
+              "Section",
+              "Stakeholder feedback",
+              "Our response"
+            ],
+            [
+              "7.1.7.1",
+              "Stakeholders proposed that bankruptcy-remote collateral for securities financing transactions (SFTs) be excluded from exposure calculations, consistent with the treatment of initial margin collateral in over the counter (OTC) transactions, and aligned with Chapter 7 language.",
+              "We did not make the requested change as this introduces legal, operational and economic risks. As such, we are not comfortable with recognizing the bankruptcy remote status of SFT collateral."
+            ],
+            [
+              "7.1.7.12",
+              "Stakeholders asked for clarity on the exclusion of illiquid posted collateral from the Margin Period of Risk (MPOR) assessment for SFTs, aligning with OTC treatment in Chapter 7, paragraph 142.",
+              "We will consider this issue for future revisions to the CAR Guideline with a view to ensuring a consistent treatment between derivatives and SFTs."
+            ],
+            [
+              "7.1.7.12",
+              "Stakeholders requested that collateral that is not recognized for credit risk mitigation be excluded from MPOR assessments, and that institutions be allowed to derecognize illiquid collateral to avoid applying MPOR adjustments to the entire netting set.",
+              "We confirm that collateral that is not recognized for credit risk mitigation purposes does not impact the regulatory MPOR. As such, no change is required to the guideline."
+            ]
+          ]
+        },
+        {
+          "type": "table",
+          "caption": "Chapter 8 - Credit Valuation Adjustment (CVA) Risk",
+          "rows": [
+            [
+              "Section",
+              "Stakeholder feedback",
+              "Our response"
+            ],
+            [
+              "8.1",
+              "Stakeholders asked for clarity on whether long-dated settlement transactions are excluded from the CVA capital charge, consistent with their exclusion under the accounting CVA framework and the definitions provided in Chapters 7 and 8.",
+              "We confirm that long dated settlement transactions are not subject to the CVA capital charge. No change is required in the guideline as chapter 8 clearly outlines the scope of application for the CVA capital charge."
+            ],
+            [
+              "8.1",
+              "Stakeholders asked that client cleared derivative transactions be exempt from the application of the FRTB CVA capital charge given that these transactions are not subject to accounting CVA requirements and therefore do not present CVA volatility risk.",
+              "We agree with the rationale provided by stakeholders and have modified the final guideline to exempt the requested trades from the CVA capital charge."
+            ]
+          ]
+        },
+        {
+          "type": "table",
+          "caption": "Chapter 9 - Market Risk",
+          "rows": [
+            [
+              "Section",
+              "Stakeholder feedback",
+              "Our response"
+            ],
+            [
+              "9",
+              "Stakeholders requested an adjustment factor to the combined Basel 3 market risk and CVA capital requirements to mitigate competitive imbalances introduced by our earlier implementation of FRTB.",
+              "We have not implemented an adjustment factor to the market risk and CVA capital requirements in the final guideline. We will continue to assess the competitive landscape in the context of FRTB implementation. We will consider this issue for future revisions to the CAR Guideline."
+            ],
+            [
+              "9.2.6",
+              "Stakeholders asked for reconsideration on allowing all funding valuation adjustment (FVA) hedges to be excluded from market risk capital. The current CAR Guideline diverges from Basel standards and limits hedge exclusions to those hedging the exposure component of FVA, rather than the cost of funds component. This treatment disincentivizes xVA desks from hedging funding costs, potentially increasing systemic risk.",
+              "We have not made any changes to the treatment of FVA hedges in the final guideline. We will continue to consider evidence of hedge effectiveness during periods of stress and will consider this issue for future revisions to the CAR Guideline."
+            ],
+            [
+              "9.5.3.3",
+              "Stakeholders asked for clarity on paragraph 220 to ensure consistency with the credit risk treatment and the Basel framework. Specifically, the current wording limits eligibility to exposures held in a local subsidiary, whereas the credit risk guidance allows for either a subsidiary or branch. This change would ensure consistent application of sovereign risk treatment across jurisdictions and better reflect the risk rationale already accepted by OSFI and international peers.",
+              "We have modified the scope of paragraph 220 to allow sovereign exposures held in foreign bank branches to be eligible for the reduced risk weight."
+            ],
+            [
+              "9.5.3.3",
+              "Stakeholders requested an extension of the 0% DRC risk weight to Multilateral Development Banks (MDBs), which is consistent with the MDBs’ 0% credit risk weight assigned under Chapter 4 and their inclusion in the Sovereign bucket under Chapter 9. The current 0.5% DRC risk weight for MDBs creates a misalignment with sovereign bond hedges and diverges from international practices.",
+              "We have modified the scope of paragraph 220 to allow eligible MDBs to be assigned a 0% DRC risk weight."
+            ],
+            [
+              "9.5.3.3",
+              "Stakeholders requested that institutions be permitted to use Export Credit Agency (ECA) country risk scores to infer conservative equivalent credit ratings for unrated sovereigns. This would promote consistency between default risk treatment under the credit risk and market risk frameworks.",
+              "We have not changed the guideline to permit the use of ECA country risk scores to infer equivalent credit ratings for unrated sovereigns. The DRC treatment of unrated sovereigns is already established as part of the Basel framework for market risk capital and reflected in Chapter 9."
+            ],
+            [
+              "9.5.3.3",
+              "Stakeholders asked whether there are any changes to the PD floors under the Internal Models Approach (IMA), as outlined in paragraph 385, to align with the updated treatment of sovereign exposures in paragraph 220.",
+              "We have not made any changes to the PD floors for sovereign exposures under the IMA. We will consider this issue for future revisions to the CAR Guideline."
+            ],
+            [
+              "9.5.3.4",
+              "Stakeholders requested revisions to the treatment of maturity mismatches under the FRTB framework to better reflect the economic relationship between derivatives and their hedges.",
+              "We have not made any changes to the treatment of equity derivatives and their hedges. We will consider this issue for future revisions to the CAR Guideline."
+            ]
+          ]
+        }
+      ]
+    }
+  ],
+  "title_normalized": "capital adequacy requirements guideline 2026 letter",
+  "publication_type_normalized": "letter",
+  "category_normalized": "capital_adequacy_requirements",
+  "sector_normalized": [
+    "banks",
+    "trust_and_loan_companies"
+  ],
+  "guideline_number_normalized": "",
+  "applies_to_banks": true,
+  "applies_to_trust_loan": true,
+  "applies_to_life_insurance": false,
+  "applies_to_pc_insurance": false,
+  "applies_to_foreign_bank": false,
+  "applies_to_foreign_insurance": false,
+  "applies_to_cooperative": false,
+  "applies_to_bank_holding": false,
+  "effective_date_sort_key": "2025-09-11",
+  "status_sort_key": 1,
+  "authority_sort_key": 60,
+  "bm25_text": "Capital Adequacy Requirements Guideline (2026) – Letter Letter Capital Adequacy Requirements Banks Trust and Loan Companies Summary of stakeholder comments and our responses",
+  "vector_text_prefix": "[OSFI Letter  | Capital Adequacy Requirements | Banks / Trust and Loan Companies | FINAL_CURRENT | Effective 2025-09-11]",
+  "h1_title": "Capital Adequacy Requirements Guideline (2026) – Letter",
+  "regulator": "OSFI",
+  "regulator_acronym": "OSFI",
+  "jurisdiction": "Canada",
+  "short_title": "",
+  "source_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/capital-adequacy-requirements-guideline-2026-letter"
+}

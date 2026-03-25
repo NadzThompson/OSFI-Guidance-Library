@@ -1,0 +1,238 @@
+{
+  "source_system": "osfi_guidance_library",
+  "library_row_title": "Reinsurance Trust Agreements",
+  "library_row_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/reinsurance-trust-agreements",
+  "listing_date_raw": "August 9, 2010",
+  "listing_date_iso": "2010-08-09",
+  "listing_publication_type": "Letter",
+  "listing_category": "",
+  "listing_sector": [],
+  "crawl_timestamp": "2026-03-11T00:00:00Z",
+  "detail_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/reinsurance-trust-agreements",
+  "canonical_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/reinsurance-trust-agreements",
+  "slug": "reinsurance-trust-agreements",
+  "title": "Reinsurance Trust Agreements",
+  "publication_type": "Letter",
+  "category": "",
+  "document_date_raw": "August 9, 2010",
+  "document_date_iso": "2010-08-09",
+  "sector": [],
+  "effective_date_text": "",
+  "guideline_number": "",
+  "date_modified_raw": "2010-08-09T12:00:00Z",
+  "generate_pdf_url": "https://www.osfi-bsif.gc.ca/en/print/pdf/node/393",
+  "pdf_node_id": 393,
+  "direct_pdf_url": null,
+  "has_table_of_contents": true,
+  "toc_entries": [],
+  "has_related_documents": false,
+  "related_document_links_raw": [],
+  "consultation_status_text": null,
+  "consultation_status_refers_to_version": null,
+  "page_language": "en",
+  "word_count_raw_body": 552,
+  "doc_id": "osfi.reinsurance-trust-agreements.transmittal",
+  "doc_family_id": "osfi.reinsurance-trust-agreements",
+  "version_id": "",
+  "version_label": "Reinsurance Trust Agreements",
+  "version_sort_key": "",
+  "parent_doc_id": null,
+  "child_doc_ids": [],
+  "is_package_page": false,
+  "is_chapter_page": false,
+  "chapter_number": null,
+  "chapter_title": null,
+  "document_order_within_family": 0,
+  "supersedes_doc_id": null,
+  "superseded_by_doc_id": null,
+  "current_version_flag": true,
+  "status": "final_current",
+  "include_in_primary_corpus": false,
+  "include_in_support_corpus": true,
+  "include_in_context_corpus": false,
+  "effective_date_start": "2010-08-09",
+  "effective_date_end": null,
+  "effective_date_fye_split": false,
+  "effective_date_oct_fye": null,
+  "effective_date_dec_fye": null,
+  "is_future_effective": false,
+  "is_rescinded": false,
+  "is_draft_or_consultation": false,
+  "rescission_date": null,
+  "consultation_closing_date": null,
+  "as_of_applicability": "2026-03-23",
+  "rule_applied": "rule_5_final_current",
+  "authority_class": "official_support",
+  "authority_level": 60,
+  "nova_tier": 2,
+  "prudential_weight": 0.7,
+  "is_primary_normative": false,
+  "is_supporting_interpretive": true,
+  "is_context_only": false,
+  "document_class": "transmittal_letter",
+  "guidance_type_normalized": "letter",
+  "section_headings": [
+    {
+      "level": 2,
+      "text": "Background",
+      "id": "h2-0"
+    },
+    {
+      "level": 2,
+      "text": "Rationale",
+      "id": "h2-1"
+    },
+    {
+      "level": 2,
+      "text": "New Approach",
+      "id": "h2-2"
+    }
+  ],
+  "heading_path": [
+    "Reinsurance Trust Agreements"
+  ],
+  "toc_depth": 2,
+  "has_appendices": false,
+  "appendix_ids": [],
+  "has_tables": false,
+  "table_count": 0,
+  "has_footnotes": false,
+  "footnote_count": 0,
+  "inline_cross_references": [],
+  "quoted_external_references": [],
+  "raw_html_sha256": "5b424da7c3508eb8420d68313d3d9b238e4fde0dcba830630be00a64ed0d47f0",
+  "raw_pdf_sha256": null,
+  "normalized_text_sha256": null,
+  "raw_html_path": "bronze/osfi/html/final_current/reinsurance-trust-agreements.html",
+  "normalized_md_path": "silver/osfi/md/final_current/reinsurance-trust-agreements.md",
+  "canonical_json_path": "silver/osfi/json/final_current/reinsurance-trust-agreements.json",
+  "content_source": "HTML",
+  "parser_version": "osfi-parser-v2.1.0",
+  "normalizer_version": "osfi-normalizer-v1.4.0",
+  "quality_score": 1.0,
+  "quality_flags": [],
+  "download_timestamp": "2026-03-11T00:00:00Z",
+  "enriched_timestamp": "2026-03-23T09:53:59.061837Z",
+  "sections": [
+    {
+      "heading": "",
+      "heading_level": 2,
+      "full_text": "  - Guidance for Reinsurance Security Agreements\n  - Letter\nTo: Federally Regulated Property and Casualty Insurance Companies, Federally Regulated Life Insurance Companies, including Fraternal Benefit Societies\nThis letter is to inform you that the Office of the Superintendent of Financial Institutions (OSFI) will no longer develop, or be party to, standard form Reinsurance Trust Agreements (RTAs).",
+      "content": [
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Guidance for Reinsurance Security Agreements",
+            "Letter"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "To: Federally Regulated Property and Casualty Insurance Companies, Federally Regulated Life Insurance Companies, including Fraternal Benefit Societies"
+        },
+        {
+          "type": "paragraph",
+          "text": "This letter is to inform you that the Office of the Superintendent of Financial Institutions (OSFI) will no longer develop, or be party to, standard form Reinsurance Trust Agreements (RTAs)."
+        }
+      ]
+    },
+    {
+      "heading": "Background",
+      "heading_level": 2,
+      "full_text": "In the past, OSFI has developed standard form RTAs that federally regulated companies (“ceding companies”) were required to use in order to be eligible for a capital/asset credit in respect of risks that have been reinsured with an unregistered reinsurer.\nWhile OSFI is of the view that its standard form RTAs generally provide adequate protection to ceding companies, there is currently some discussion within the legal community as to whether their enforceability could be challenged and whether other arrangements would be beneficial to ceding companies, while providing a similar or greater level of protection. Although OSFI had initially considered developing a standard Reinsurance Security Agreement to replace the current RTA, OSFI has decided not to pursue that approach.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "In the past, OSFI has developed standard form RTAs that federally regulated companies (“ceding companies”) were required to use in order to be eligible for a capital/asset credit in respect of risks that have been reinsured with an unregistered reinsurer."
+        },
+        {
+          "type": "paragraph",
+          "text": "While OSFI is of the view that its standard form RTAs generally provide adequate protection to ceding companies, there is currently some discussion within the legal community as to whether their enforceability could be challenged and whether other arrangements would be beneficial to ceding companies, while providing a similar or greater level of protection. Although OSFI had initially considered developing a standard Reinsurance Security Agreement to replace the current RTA, OSFI has decided not to pursue that approach."
+        }
+      ]
+    },
+    {
+      "heading": "Rationale",
+      "heading_level": 2,
+      "full_text": "OSFI’s decision to move away from standard form agreements was supported by a number of factors. These factors include:\n  - requiring ceding companies to manage risks related to unregistered reinsurance;\n  - giving companies flexibility to create their own forms of security agreements;\n  - harmonizing with the practice for other security and collateral arrangements by deposit taking institutions;\n  - recognizing that the use of an appropriate standard form agreement is a fact-specific determination and the creation of a first-ranking perfected security interest depends on more than just the form of agreement (e.g., registration);\n  - maintaining access to Canadian courts; and\n  - minimizing the costs to, and responsibility of, OSFI associated with the review of all personal property legislation as well as securities transfer legislation in the thirteen provincial/territorial jurisdictions that would have been required if OSFI had decided to develop a standard Reinsurance Security Agreement.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "OSFI’s decision to move away from standard form agreements was supported by a number of factors. These factors include:"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "requiring ceding companies to manage risks related to unregistered reinsurance;",
+            "giving companies flexibility to create their own forms of security agreements;",
+            "harmonizing with the practice for other security and collateral arrangements by deposit taking institutions;",
+            "recognizing that the use of an appropriate standard form agreement is a fact-specific determination and the creation of a first-ranking perfected security interest depends on more than just the form of agreement (e.g., registration);",
+            "maintaining access to Canadian courts; and",
+            "minimizing the costs to, and responsibility of, OSFI associated with the review of all personal property legislation as well as securities transfer legislation in the thirteen provincial/territorial jurisdictions that would have been required if OSFI had decided to develop a standard Reinsurance Security Agreement."
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "New Approach",
+      "heading_level": 2,
+      "full_text": "Under its new approach, OSFI will require ceding companies to negotiate and enter into suitable arrangements and to take all necessary practical and operational measures to create and maintain a valid first-ranking security interest in assets of an unregistered reinsurer that are held in Canada. Ceding companies will also have to provide a legal opinion addressed to the ceding company and OSFI, and on which OSFI will be entitled to rely, asserting that such an interest has been created in their favour. Further, ceding companies will be expected to approve assets pledged or withdrawn. In that regard, OSFI has outlined minimum standards for a security agreement, for the accompanying legal opinion as well as supervisory matters (attached). These minimum standards are available on the OSFI Web site at\nhttp://www.osfi-bsif.gc.ca/Eng/fi-if/rai-eri/sp-ps/Pages/rsa.aspx\nAll newly entered agreements should follow OSFI’s new approach beginning January 1, 2011 . However, companies are encouraged to move to the new regime as soon as practically possible prior to these timelines.\nOSFI recognizes that a smooth transition to the new approach is required and that companies will need time to adjust. However, OSFI expects that companies will replace all existing agreements by January 1, 2012.\nFor additional information or if you have questions concerning security agreements please contact Philipe-A. Sarrazin, Director, Legislation and Policy Initiatives, by telephone at (613) 998-4190 or by e-mail at Philipe.Sarrazin@osfi-bsif.gc.ca.\nYours truly,\nMark E. White Assistant Superintendent Regulation Sector",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Under its new approach, OSFI will require ceding companies to negotiate and enter into suitable arrangements and to take all necessary practical and operational measures to create and maintain a valid first-ranking security interest in assets of an unregistered reinsurer that are held in Canada. Ceding companies will also have to provide a legal opinion addressed to the ceding company and OSFI, and on which OSFI will be entitled to rely, asserting that such an interest has been created in their favour. Further, ceding companies will be expected to approve assets pledged or withdrawn. In that regard, OSFI has outlined minimum standards for a security agreement, for the accompanying legal opinion as well as supervisory matters (attached). These minimum standards are available on the OSFI Web site at"
+        },
+        {
+          "type": "paragraph",
+          "text": "http://www.osfi-bsif.gc.ca/Eng/fi-if/rai-eri/sp-ps/Pages/rsa.aspx"
+        },
+        {
+          "type": "paragraph",
+          "text": "All newly entered agreements should follow OSFI’s new approach beginning January 1, 2011 . However, companies are encouraged to move to the new regime as soon as practically possible prior to these timelines."
+        },
+        {
+          "type": "paragraph",
+          "text": "OSFI recognizes that a smooth transition to the new approach is required and that companies will need time to adjust. However, OSFI expects that companies will replace all existing agreements by January 1, 2012."
+        },
+        {
+          "type": "paragraph",
+          "text": "For additional information or if you have questions concerning security agreements please contact Philipe-A. Sarrazin, Director, Legislation and Policy Initiatives, by telephone at (613) 998-4190 or by e-mail at Philipe.Sarrazin@osfi-bsif.gc.ca."
+        },
+        {
+          "type": "paragraph",
+          "text": "Yours truly,"
+        },
+        {
+          "type": "paragraph",
+          "text": "Mark E. White Assistant Superintendent Regulation Sector"
+        }
+      ]
+    }
+  ],
+  "title_normalized": "reinsurance trust agreements",
+  "publication_type_normalized": "letter",
+  "category_normalized": "",
+  "sector_normalized": [],
+  "guideline_number_normalized": "",
+  "applies_to_banks": false,
+  "applies_to_trust_loan": false,
+  "applies_to_life_insurance": false,
+  "applies_to_pc_insurance": false,
+  "applies_to_foreign_bank": false,
+  "applies_to_foreign_insurance": false,
+  "applies_to_cooperative": false,
+  "applies_to_bank_holding": false,
+  "effective_date_sort_key": "2010-08-09",
+  "status_sort_key": 1,
+  "authority_sort_key": 60,
+  "bm25_text": "Reinsurance Trust Agreements Letter Background Rationale New Approach",
+  "vector_text_prefix": "[OSFI Letter  |  |  | FINAL_CURRENT | Effective 2010-08-09]",
+  "h1_title": "Reinsurance Trust Agreements",
+  "regulator": "OSFI",
+  "regulator_acronym": "OSFI",
+  "jurisdiction": "Canada",
+  "short_title": "",
+  "source_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/reinsurance-trust-agreements"
+}

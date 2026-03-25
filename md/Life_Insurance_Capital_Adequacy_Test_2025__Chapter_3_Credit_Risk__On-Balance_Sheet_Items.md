@@ -1,0 +1,770 @@
+# Life Insurance Capital Adequacy Test (2025) – Chapter 3 Credit Risk – On-Balance Sheet Items
+
+**Type:** Guideline | **Category:** Capital Adequacy Requirements | **Date:** Issue date November 21, 2024 | **Effective:** 2024-11-21 | **Sector:** Life Insurance and Fraternal Companies | **Status:** FINAL CURRENT | **Tier:** 1
+
+---
+
+- Life Insurance Capital Adequacy Test – Backgrounder (2025)
+- Life Insurance Capital Adequacy Test – Letter (2025)
+- Life Insurance Capital Adequacy Test – Filing Instructions (2025)
+
+## Note
+
+A Regulatory Notice on Adjustments to the Life Insurance Capital Adequacy Test – Guideline (2025) was published and became effective on May 22, 2025. These adjustments are expected to be incorporated in the next version of the LICAT guideline.
+
+Credit risk is the risk of loss arising from the potential default of parties having a financial obligation to the insurer. Required capital takes account of the risk of actual default as well the risk of an insurer incurring losses due to deterioration in an obligor's creditworthiness. The financial obligations to which credit risk factors apply include loans, debt instruments, reinsurance contracts held and receivables, derivatives, amounts due from policyholders, agents and brokers and other assets.
+
+Required capital for on-balance sheet assets is calculated by applying credit risk factors to, unless otherwise noted, the balance sheet values of these assets Footnote 1 . The same factors apply to assets backing qualifying participating and adjustable products. A reduction in required capital for the potential risk-mitigating effect of dividend reductions or contractual adjustability is calculated separately for participating and adjustable products (q.v. Chapter 9). Collateral, guarantees, and credit derivatives may be used to reduce capital required for credit risk Footnote 2 . A credit risk factor of zero is applied to assets deducted from Available Capital. Investment income due and accrued is reported with, and receives the same factor as, the asset to which it relates.
+
+Additionally, the credit risk factor relating to certain types of asset risks is calculated using techniques that are different from applying the regular factors:
+
+1. Required capital for asset backed securities is described in section 3.4;
+2. Required capital for repurchase, reverse repurchase and securities lending agreements is described in section 3.5;
+3. Assets backing index-linked products do not receive credit risk factors. They are instead considered as part of the correlation calculation described in section 5.5; and
+4. Assets held in segregated funds by an insurer's policyholders are not subject to the requirements of this chapter Footnote 3 ;
+
+The calculation of required capital for off-balance sheet items is described in Chapter 4.
+
+## 3.1. Credit risk required capital for on-balance sheet assets
+
+For the purpose of calculating the credit risk charge, balance sheet assets are valued at their balance sheet carrying amounts.
+
+### 3.1.1. Use of ratings
+
+Many of the factors in this chapter depend on the rating assigned to an asset or an obligor. In order to use a factor that is based on a rating, an insurer should meet all of the conditions specified in this section. Insurers may recognize credit ratings from the following rating agencies:
+
+- DBRS;
+- Fitch Rating Services;
+- Moody's Investors Service;
+- Standard and Poor's (S&P);
+- Kroll Bond Rating Agency (KBRA);
+- Japan Credit Rating Agency (JCR); or
+- Rating and Investment Information (R&I).
+
+Refer to appendix 3-A for the correspondence between the rating categories used in this guideline and individual agency ratings. Note that LICAT rating categories do not contain modifiers.
+
+An insurer should choose the rating agencies it intends to rely on and then use their ratings consistently for each type of claim. Insurers may not selectively choose assessments provided by different rating agencies.
+
+Any rating used to determine a factor must be publicly available, i.e., the rating must be published in an accessible form and included in the rating agency's transition matrix. Ratings that are made available only to the parties to a transaction or to a limited number of parties do not satisfy this requirement.
+
+If an insurer uses multiple rating agencies and there is only one assessment for a particular claim, that assessment is used to determine the required capital for the claim. If there are two assessments from the rating agencies used by an insurer and these assessments differ, the insurer should apply the credit risk factor corresponding to the lower of the two ratings. If there are three or more assessments for a claim, the insurer should exclude one of the ratings that corresponds to the lowest credit risk factor, and then use the rating that corresponds to the lowest credit risk factor of those that remain (i.e., the insurer should use the second-highest rating from those available, allowing for multiple occurrences of the highest rating).
+
+Where an insurer holds a particular securities issue that carries one or more issue-specific assessments, the credit risk factor for the claim is based on these assessments. Where an insurer's claim is not an investment in a specifically rated security, the following principles apply:
+
+1. In circumstances where the issuer has a specific rating for an issued debt security, but the insurer's claim is not an investment in this particular security, a rating of BBB or better on the rated security may only be applied to the insurer's unrated claim if this unrated claim ranks pari passu or senior to the rated claim in all respects. If not, the credit rating of the rated claim cannot be used and the insurer's unrated claim must be treated as an unrated obligation.
+2. In circumstances where the issuer has an issuer rating, this assessment typically applies to senior unsecured claims on that issuer. Consequently, only senior unrated claims on that issuer will benefit from an investment-grade (BBB or better) issuer assessment; other unassessed claims on the issuer will be treated as unrated. If either the issuer or one of its issues has a rating of BB or lower, this equivalent rating should be used to determine the capital charge for an unrated claim on the issuer.
+3. Short-term assessments are deemed to be issue specific. They can only be used to determine the credit risk factor applied to claims arising from the rated facility. They cannot be generalized to other short-term claims, and in no event can a short-term rating be used to support a capital charge for an unrated long-term claim.
+4. Where the credit risk factor for an unrated exposure is based on the rating of an equivalent exposure to the issuer, foreign currency ratings must be used for exposures in foreign currency. Canadian currency ratings, if separate, are only to be used to determine the risk factor for claims denominated in Canadian currency.
+
+The following additional conditions apply to the use of ratings:
+
+1. External assessments for one entity within a corporate group may not be used to determine the credit risk factors for other entities within the same group.
+2. No rating may be inferred for an unrated entity based on assets that the entity possesses.
+3. In order to avoid the double counting of credit enhancement factors, insurers may not recognize credit risk mitigation under sections 3.2 and 3.3 if the credit enhancement has already been reflected in the issue-specific rating.
+4. An insurer may not recognize a rating if the rating is at least partly based on unfunded support (e.g., guarantees, credit enhancement and liquidity facilities) provided by the insurer itself or one of its affiliates.
+5. Any assessment used must take into account and reflect the entire amount of credit risk exposure an insurer has with regard to all payments owed to it. In particular, if an insurer is owed both principal and interest, the assessment must fully take into account and reflect the credit risk associated with repayment of both principal and interest.
+
+Insurers may not use unsolicited ratings in determining the risk factor for an asset, except where the asset is a sovereign exposure and a solicited rating is not available.
+
+### 3.1.2. Credit risk factors based on external ratings
+
+The credit risk factors in the table below apply to rated credit exposures that meet the criteria set out in section 3.1.1. The exposures for which these factors may be used include bonds, loans, mortgages, guarantees, and off-balance sheet exposures. However, these factors may not be used for reinsurance exposures (q.v. section 3.1.7), asset-backed securities (q.v. section 3.4), and capital instruments (including subordinated debt) issued by domestic or foreign financial institutions that qualify as regulatory capital to the issuer (q.v. section 5.2.2). The factors depend on the rating and effective maturity of the exposure.
+
+**Credit risk factors by rating and effective maturity (in years)**
+
+| Rating category Footnote 4 | 1 | 2 | 3 | 4 | 5 | 10 |
+| --- | --- | --- | --- | --- | --- | --- |
+| AAA | 0.25% | 0.25% | 0.50% | 0.50% | 1.00% | 1.25% |
+| AA | 0.25% | 0.50% | 0.75% | 1.00% | 1.25% | 1.75% |
+| A | 0.75% | 1.00% | 1.50% | 1.75% | 2.00% | 3.00% |
+| BBB | 1.50% | 2.75% | 3.25% | 3.75% | 4.00% | 4.75% |
+| BB | 3.75% | 6.00% | 7.25% | 7.75% | 8.00% | 8.00% |
+| B | 7.50% | 10.00% | 10.50% | 10.50% | 10.50% | 10.50% |
+| Lower than B | 15.50% | 18.00% | 18.00% | 18.00% | 18.00% | 18.00% |
+
+For effective maturities of 1 to 10 years, the factor is determined using linear interpolation between the nearest effective maturities in the above table. For effective maturities greater than 10 years, the factors for 10-year maturity are used. For effective maturities less than 1 year, the factors for 1-year maturity are used.
+
+For an instrument subject to a determined cash flow schedule, effective maturity Footnote 5 is defined as:
+
+Effective Maturity (M) = ∑ t t × CF t ∑ t CF t
+
+where CF t denotes the cash flows (principal, interest payments and fees) contractually payable by the borrower in period t .
+
+If an insurer is not in a position to calculate the effective maturity of the contracted payments as noted above, it may use the maximum remaining time (in years) that the borrower is permitted to take to fully discharge its contractual obligation (principal, interest, and fees) under the terms of the loan agreement as the effective maturity. Normally, this will correspond to the nominal maturity of the instrument.
+
+If a traded bond has an embedded put option for the benefit of the bondholder, an insurer may use the cash flows up to the put date to calculate effective maturity if, at the bond's current market price, the yield to the put date is greater than the yield to maturity. For any debt obligation, the presence of an obligor prepayment option or call option does not affect the calculation of effective maturity.
+
+For derivatives subject to a master netting agreement, the weighted average maturity of the transactions should be used when calculating the effective maturity. Further, the notional amount of each transaction should be used for weighting the maturity.
+
+When an insurer has multiple exposures to an entity or a connected group Footnote 6 , it should aggregate the exposures within each rating grade and asset type (e.g. A-rated mortgages, BBB-rated bonds and loans) before calculating the effective maturity for the exposures. Footnote 7 Footnote 5
+
+### 3.1.3. Short-term investments
+
+**Credit risk factors by rating category**
+
+| Rating category Footnote 4 | Factor |
+| --- | --- |
+| Demand deposits, checks, acceptances and similar obligations that are drawn on regulated deposit-taking institutions subject to the solvency requirements of the Basel Committee on Banking Supervision (BCBS) and that have an original maturity of less than three months | 0.3% |
+| S1 | 0.3% |
+| S2 | 0.6% |
+| S3 | 2.5% |
+| All other short-term ratings | 10% |
+
+### 3.1.4. Entities eligible for a 0% factor
+
+Bonds, notes and other obligations of the following entities are eligible for a 0% credit risk factor:
+
+1. The Government of Canada;
+2. Sovereigns rated AA or better and their central banks, provided that the rating applies to the currency in which an obligation is issued Footnote 8 ;
+3. Unrated sovereigns with a country risk classification of 0 or 1, as assigned by Export Credit Agencies participating in the "Arrangement on Officially Supported Export Credits" Footnote 9 , for obligations denominated in the sovereign's domestic currency;
+4. Canadian provincial and territorial governments;
+5. Agents of the Canadian Government or a Canadian provincial or territorial government whose debts are, by virtue of their enabling legislation, direct obligations of the Crown in right of such federal or provincial government;
+6. The Bank for International Settlements;
+7. The International Monetary Fund;
+8. The European Community and the European Central Bank;
+9. The following multilateral development banks: International Bank for Reconstruction and Development (IBRD); International Finance Corporation (IFC); Asian Development Bank (ADB); African Development Bank (AfDB); European Bank for Reconstruction and Development (EBRD); Inter-American Development Bank (IADB); European Investment Bank (EIB); European Investment Fund (EIF); Nordic Investment Bank (NIB); Caribbean Development Bank (CDB); Islamic Development Bank (IDB); Council of Europe Development Bank (CEDB); The International Finance Facility for Immunisation (IFFIm); Multilateral Investment Guarantee Agency.
+10. Public sector entities in jurisdictions outside Canada where: The jurisdiction's sovereign rating is AA or better, and The national bank supervisor in the jurisdiction of origin permits banks under its supervision to use a risk weight of 0% for the public sector entity under the Basel Framework
+11. Qualifying central counterparties Footnote 10 to derivatives and securities financing transactions.
+
+1. International Bank for Reconstruction and Development (IBRD);
+2. International Finance Corporation (IFC);
+3. Asian Development Bank (ADB);
+4. African Development Bank (AfDB);
+5. European Bank for Reconstruction and Development (EBRD);
+6. Inter-American Development Bank (IADB);
+7. European Investment Bank (EIB);
+8. European Investment Fund (EIF);
+9. Nordic Investment Bank (NIB);
+10. Caribbean Development Bank (CDB);
+11. Islamic Development Bank (IDB);
+12. Council of Europe Development Bank (CEDB);
+13. The International Finance Facility for Immunisation (IFFIm);
+14. Multilateral Investment Guarantee Agency.
+
+1. The jurisdiction's sovereign rating is AA or better, and
+2. The national bank supervisor in the jurisdiction of origin permits banks under its supervision to use a risk weight of 0% for the public sector entity under the Basel Framework
+
+### 3.1.5. Unrated claims
+
+For unrated commercial paper and similar short-term facilities having an original maturity of less than one year, a credit risk factor corresponding to rating category S3 should be used, unless the issuer has a rated short-term facility outstanding with an assessment that warrants a capital charge of 10%. If an issuer has such a short-term facility outstanding, a credit risk factor of 10% should be used for all unrated debt claims on the issuer, whether long term or short term, unless recognized credit risk mitigation techniques (qq.v. sections 3.2 and 3.3) are being used for such claims.
+
+If it is not possible to infer a rating for a bond or loan using the rules in section 3.1.1, the risk factor to be used is 6%. This factor also applies to derivative contracts or other capital markets transactions for which a rating cannot be inferred.
+
+### 3.1.6. Mortgages Footnote 11
+
+An insurer may use a ratings-based factor from section 3.1.2 for a mortgage if the mortgage meets the criteria for use of a rating set out in section 3.1.1. For other mortgages the following factors apply:
+
+**Factors by mortgage category**
+
+| Mortgage category | Factor |
+| --- | --- |
+| Mortgages that are guaranteed by Canada Mortgage and Housing Corporation (CMHC), or that are otherwise insured under the NHA or equivalent provincial mortgage insurance program | 0% |
+| Mortgages guaranteed by private sector mortgage insurers | See below |
+| Qualifying residential mortgage loans and qualifying home equity lines of credit | 2% |
+| Commercial mortgage loans (office, retail stores, industrial, hotel, other) | 6% |
+| Non-qualifying residential mortgage loans, and non-qualifying home equity lines of credit | 6% |
+| Mortgages secured by undeveloped land (e.g., construction financing), other than land used for agricultural purposes or the production of minerals. A property recently constructed or renovated is considered as under construction until it is completed and at least 80% leased. | 10% |
+| The portion of a mortgage that is based on an increase in value occasioned by a change in use | 10% |
+| Impaired and restructured mortgages, net of write-downs and individual allowances | 18% |
+
+Where a mortgage is comprehensively insured by a private sector mortgage insurer that has a backstop guarantee provided by the Government of Canada (for example, a guarantee made pursuant to the Protection of Residential Mortgage or Hypothecary Insurance Act ), insurers should recognize the risk-mitigating effect of the counter-guarantee by reporting the portion of the exposure that is covered by the Government of Canada backstop as if this portion were directly guaranteed by the Government of Canada. The remainder of the exposure is treated as an exposure to the mortgage guarantor in accordance with the rules set out in section 3.3.
+
+Residential mortgage loans and home equity lines of credit must meet one of the following criteria in order to qualify for a 2% factor:
+
+1. the loan or line of credit is secured by a first mortgage on an individual condominium residence or one- to four-unit residential dwelling, is made to a person(s) or guaranteed by a person(s), is not more than 90 days past due, and does not exceed a loan-to-value ratio of 80%; or
+2. the loan or line of credit is a first or junior collateral mortgage on an individual condominium residence or one- to four-unit residential dwelling, is made to a person(s) or guaranteed by a person(s), and no party other than the insurer holds a senior or intervening lien on the property to which the collateral mortgage applies. Further, the loan or line of credit is no more than 90 days past due, and all of the mortgages held by the insurer and secured by the same property do not, collectively, exceed a loan-to-value ratio of 80%;
+
+Investments in hotels, time-shares or similar shared properties do not qualify for a 2% factor.
+
+### 3.1.7. Registered reinsurance contracts held
+
+**Factors for registered reinsurance**
+
+| Reinsurance contracts held | Factor |
+| --- | --- |
+| The portion of registered reinsurance contracts held assets that is currently receivable | 0.7% |
+| The portion of registered reinsurance contracts held assets that is not currently receivable | 2.5% |
+
+Refer to section 10.1 for the definitions of registered and unregistered reinsurance. For a registered reinsurance contract held asset, the portion that is deemed to be receivable is the amount of the asset that is due to be paid to the insurer within 90 days, and is related to claims that have already been incurred. The 2.5% requirement for registered reinsurance contracts held may be reduced under specific circumstances (q.v. section 10.4.3). The amounts to which the 2.5% factor for reinsurance contracts should be applied are the reinsurance contract held assets for:
+
+1. ceded existing business, and
+2. retroceded future business assumed through reinsurance,
+
+calculated under Best Estimate Assumptions, with the currently receivable portions excluded.
+
+Reinsurance contract held assets due from a reinsurer may be offset by insurance and reinsurance liabilities due to the reinsurer. Within each homogeneous participating block of business within a geographic region (q.v. chapter 9) and each non-participating block of business within a geographic region, total reinsurance contract held assets by reinsurer are floored at zero. Footnote 5 Collateral and letters of credit posted by reinsurers under registered reinsurance arrangements may be recognized provided the conditions outlined in sections 3.2 and 3.3 are met.
+
+### 3.1.8. Other items
+
+**Factors for other items**
+
+| Other items | Factor |
+| --- | --- |
+| Cash held on the insurer's own premises | 0% |
+| Unrealized gains and accrued receivables on forwards, swaps, purchased options and similar derivative contracts where they have been included in the off-balance sheet calculation | 0% |
+| Any assets deducted from Available Capital, including investments in controlled non-life financial corporations reported using the equity method of accounting per section 1.3, goodwill, intangible assets, and deferred tax assets | 0% |
+| Receivables reported as separate items on the balance sheet outstanding less than 60 days | 5% |
+| Receivables reported as separate items on the balance sheet outstanding 60 days or more | 10% |
+| Balance sheet value of miscellaneous items (e.g., agent's debit balances and prepaid expenses) | 10% |
+| The amount of available refunds from defined benefit pension plan surplus assets included in Tier 1 | 10% |
+| Instruments or investments that are not specifically identified in sections 3.1, 5.2, 5.3 or 5.4. | 10% |
+| Assets classified as held for sale (HFS) Footnote 12 | 20% |
+| Deferred tax assets not deducted from Available Capital | 25% |
+
+#### 3.1.9.1. Lessee
+
+Where a life insurer is the lessee, the capital requirement for the associated asset held on the balance sheet is based on the underlying property leased per section 5.3.
+
+#### 3.1.9.2. Lessor
+
+A credit risk factor of 0% is applied to any lease that is a direct obligation of an entity listed in section 3.1.4 that is eligible for a 0% credit risk factor. A 0% factor may also be used for a lease that is guaranteed by such an entity if the guarantee meets the criteria for recognition under section 3.3. The 0% factor may not be used for leases where an insurer does not have direct recourse to an entity eligible for a 0% factor under the terms of the obligation, even if such an entity is the underlying lessee.
+
+For finance leases, if the lease is secured only by equipment, a 6% credit risk factor applies. If the lease is also secured by the general credit of the lessee and the lease is rated or a rating for the lease can be inferred under section 3.1.1, the credit risk factor for the lease is the same as the credit risk factor in section 3.1.2 for a bond having the same rating and effective maturity as the lease. Any rating used must be applicable to the direct obligor of the instrument held by the insurer (or the direct guarantor, if recognition is permitted under section 3.3), which may be different from the underlying lessee. If no rating can be inferred, the credit risk factor is 6%.
+
+### 3.1.10. Impaired and restructured obligations
+
+The charges for impaired and restructured obligations in this section replace the charges that would otherwise apply to a performing asset. They are to be applied instead of (not in addition to) the charge that was required for the asset before it became impaired or was restructured.
+
+A factor of 18% applies to the unsecured portion of any asset (i.e., the portion not secured by collateral or guarantees) that is impaired, has been restructured, or for which there is reasonable doubt about the timely collection of the full amount of principal or interest (including any asset that is contractually more than 90 days in arrears), and that does not carry an external rating from an agency listed in section 3.1.1. This factor is applied to the net carrying amount of the asset on the balance sheet, defined as the principal balance of the obligation net of write-downs and individual allowances. For the purpose of defining the secured portion of a past due obligation, eligible collateral and guarantees are the same as in sections 3.2 and 3.3.
+
+An asset is considered to have been restructured when the insurer, for economic or legal reasons related to the obligor's financial difficulties, grants a concession that it would not otherwise have considered. The 18% factor will continue to apply to restructured obligations until cash flows have been collected for a period of at least one year in accordance with the terms of the restructuring.
+
+### 3.1.11. Credit protection provided
+
+If an insurer has guaranteed a debt security (e.g. through the sale of a credit derivative) or synthetically replicated the cash flows from a debt security (e.g. through reinsurance), it should hold the same amount of capital as if it held the security directly. Such exposures should be reported as off-balance sheet instruments according to Chapter 4.
+
+Where an insurer provides credit protection on a securitisation tranche rated BBB or higher via a first-to-default credit derivative on a basket of assets, required capital is determined as the notional amount of the derivative times the credit risk factor corresponding to the tranche's rating, provided that this rating represents an assessment of the underlying tranche that does not take account of any credit protection provided by the insurer. If the underlying product does not have an external rating, the insurer may either 1) treat the full notional amount of the derivative as a first-loss position within a tranched structure and apply a 60% credit risk factor (q.v. section 3.4.3), or it may 2) calculate the required capital as the notional amount times the sum of the credit risk factors for each asset in the basket. In the case of a second-to-default credit derivative where the underlying product does not have an external rating and the insurer is using the second summation approach, the insurer may exclude the asset in the basket having the lowest credit risk factor.
+
+## 3.2. Collateral
+
+A collateralized transaction is one in which:
+
+1. an insurer has a credit exposure or potential credit exposure; and
+2. that credit exposure or potential credit exposure is hedged in whole or in part by collateral posted by a counterparty Footnote 13 or by a third party on behalf of the counterparty.
+
+The following criteria must be met before capital relief will be granted in respect of any form of collateral:
+
+1. The effects of collateral may not be double counted. Therefore, insurers may not recognize collateral on claims for which an issue-specific rating is used that already reflects that collateral. All criteria in section 3.1.1 around the use of ratings apply to collateral.
+2. All documentation used in collateralized transactions must be binding on all parties and legally enforceable in all relevant jurisdictions. Insurers should have conducted sufficient legal review to verify this and have a well-founded legal basis to reach this conclusion, and undertake such further review as necessary to ensure continuing enforceability.
+3. The legal mechanism by which collateral is pledged or transferred must provide the insurer the right to liquidate or take legal possession of it in a timely manner in the event of the default, insolvency or bankruptcy (or one or more otherwise-defined credit events set out in the transaction documentation) of the counterparty (and, where applicable, of the custodian holding the collateral). Furthermore, insurers should take all necessary steps to fulfil those requirements under the law applicable to the insurer's interest in the collateral for obtaining and maintaining an enforceable security interest (e.g. by registering it with a registrar) or for exercising a right to net or set off in relation to title transfer collateral.
+4. The credit quality of the counterparty and the value of the collateral must not have a material positive correlation. For example, securities issued by the counterparty or by any of its affiliates are ineligible.
+5. Insurers should have clear and robust procedures for the timely liquidation of collateral to ensure that any legal conditions required for declaring the default of the counterparty and liquidating the collateral are observed, and that collateral can be liquidated promptly.
+6. Where collateral is held by a custodian, insurers should take reasonable steps to ensure that the custodian segregates the collateral from its own assets.
+
+Collateralized transactions are classified according to whether they are capital markets transactions, or other secured lending arrangements. The category of capital markets transactions includes repo-style transactions (e.g., repos and reverse repos, securities lending and borrowing) and other capital markets driven transactions (e.g., over-the-counter (OTC) derivatives and margin lending).
+
+### 3.2.1. Eligible financial collateral
+
+The following collateral instruments may be recognized for secured lending and capital markets transactions:
+
+1. Debt securities rated by a recognized rating agency (section 3.1.1) where these securities are: rated BB or better and issued by an entity eligible for a 0% bond factor; rated BBB or better and issued by other entities (including banks, insurance companies, and securities firms); or short-term and rated S3 or better.
+2. Debt securities not rated by a recognized rating agency where: the securities are issued by a Canadian bank whose equity is listed on a recognized exchange; and the original maturity of the securities is less than one year; and the securities are classified as senior debt; and all debt issues by the issuing bank having the same seniority as the securities and that have been rated by a recognized rating agency are rated at least BBB or S3.
+3. Equities and convertible bonds that are included in a main index.
+4. Gold.
+5. Mutual funds where: a price for the units is publicly quoted daily; and the mutual fund is limited to investing in the instruments listed above Footnote 14 .
+
+1. rated BB or better and issued by an entity eligible for a 0% bond factor;
+2. rated BBB or better and issued by other entities (including banks, insurance companies, and securities firms); or
+3. short-term and rated S3 or better.
+
+1. the securities are issued by a Canadian bank whose equity is listed on a recognized exchange; and
+2. the original maturity of the securities is less than one year; and
+3. the securities are classified as senior debt; and
+4. all debt issues by the issuing bank having the same seniority as the securities and that have been rated by a recognized rating agency are rated at least BBB or S3.
+
+1. a price for the units is publicly quoted daily; and
+2. the mutual fund is limited to investing in the instruments listed above Footnote 14 .
+
+Additionally, the following collateral instruments may be recognized for capital markets transactions:
+
+1. Equities and convertible bonds that are not included in a main index but that are listed on a recognized exchange, and mutual funds that include such equities and bonds.
+
+For collateral to be recognized in a secured lending transaction, it must be pledged for at least the life of the loan. For collateral to be recognized in a capital markets transaction, it must be secured in a manner that precludes release of the collateral unless warranted by market movements, the transaction is settled, or the collateral is replaced by new collateral of equal or greater value.
+
+### 3.2.2. Secured lending
+
+Collateral received in secured lending must be re-valued on a mark-to-market basis at least every six months. The market value of collateral that is denominated in a currency different from that of the loan must be reduced by 30%. The portion of a loan that is collateralized by the market value of eligible financial collateral will receive the credit risk factor applicable to the collateral instrument, subject to a minimum of 0.375% with the exception noted below. The remainder of the loan will be assigned the risk factor appropriate to the counterparty.
+
+A credit risk factor of 0% may be used for a secured lending transaction if:
+
+1. the loan and the collateral are denominated in the same currency; and
+2. the collateral consists entirely of securities eligible for a 0% credit risk factor; and
+3. the market value of the collateral is at least 25% greater than the balance sheet value of the loan.
+
+#### 3.2.3.1. Introduction
+
+When taking collateral for a capital markets transaction, insurers should calculate an adjusted exposure amount to a counterparty for capital adequacy purposes in order to take account of the effects of that collateral. Using haircuts, insurers adjust both the amount of 1) the exposure to the counterparty and 2) the value of any collateral received in support of the counterparty's obligations. Such adjustments are made to take into account possible future fluctuations in the value of the exposure or the collateral received Footnote 15 resulting from market movements. This will produce volatility-adjusted amounts for both the exposure and the collateral. Unless either side of the transaction is in cash, the volatility-adjusted amount for the exposure will be higher than the exposure itself, and for the collateral it will be lower. Additionally, where the exposure and collateral are held in different currencies, an additional downwards adjustment must be made to the volatility-adjusted collateral amount to take account of possible future fluctuations in exchange rates.
+
+Where the volatility-adjusted exposure amount is greater than the volatility-adjusted collateral amount (including any further adjustment for foreign exchange risk), required capital is calculated as the difference between the two multiplied by the credit risk factor appropriate to the counterparty.
+
+Section 3.2.3.2 describes the size of the individual haircuts used. These haircuts depend on the type of instrument and the type of transaction. The haircut amounts are then scaled using a square root of time formula depending on the frequency of remargining. Section 3.2.3.3 sets out conditions under which insurers may use zero haircuts for certain types of repo-style transactions involving government bonds. Section 3.2.3.4 describes the treatment of master netting agreements.
+
+#### 3.2.3.2. Calculation of the capital requirement
+
+For a collateralized capital markets transaction, the exposure amount after risk mitigation is calculated as follows:
+
+E * = max ⁡ ( 0 , [ E × ( 1 + H e ) - C × ( 1 − H c − H fx ) ] )
+
+where:
+
+- E * is the exposure value after risk mitigation
+- E is the current value of the exposure
+- H e is the haircut appropriate to the exposure
+- C is the current value of the collateral received
+- H c is the haircut appropriate to the collateral
+- H fx is the haircut appropriate for currency mismatch between the collateral and the exposure
+
+The exposure amount after risk mitigation is multiplied by the credit risk factor appropriate to the counterparty to obtain the charge for the collateralized transaction.
+
+When the collateral consists of a basket of assets, the haircut to be used on the basket is the average of the haircuts applicable to the assets in the basket, where the average is weighted according to the market values of the assets in the basket.
+
+The following are the standard haircuts, expressed as percentages:
+
+**Standard haircuts for debt securities (AAA to AA & S1)**
+
+| Residual maturity | Securities eligible for a 0% credit risk factor (%) | Other issuers (%) | Securitizations (%) |
+| --- | --- | --- | --- |
+| ≤ 1 year | 0.5 | 1 | 2 |
+| > 1 year, ≤ 3 years | 2 | 3 | 8 |
+| > 3 years, ≤ 5 years | 2 | 4 | 8 |
+| > 5 years, ≤ 10 years | 4 | 6 | 16 |
+| > 10 years | 4 | 12 | 16 |
+
+**Standard haircuts for debt securities (A to BBB, S2 and S3 & unrated bank debt securities)**
+
+| Residual maturity | Securities eligible for a 0% credit risk factor (%) | Other issuers (%) | Securitizations (%) |
+| --- | --- | --- | --- |
+| ≤ 1 year | 1 | 2 | 4 |
+| > 1 year, ≤ 3 years | 3 | 4 | 12 |
+| > 3 years, ≤ 5 years | 3 | 6 | 12 |
+| > 5 years, ≤ 10 years | 6 | 12 | 24 |
+| > 10 years | 6 | 20 | 24 |
+
+**Standard haircuts for debt securities (BB)**
+
+| Residual maturity | Securities eligible for a 0% credit risk factor (%) | Other issuers (%) | Securitizations (%) |
+| --- | --- | --- | --- |
+| All | 15 | Not eligible | Not eligible |
+
+**Standard haircuts for other assets (Expressed as percentages)**
+
+| Asset | Haircut |
+| --- | --- |
+| Main index equities and convertible bonds, and gold | 20 |
+| Other equities and convertible bonds listed on a recognized exchange | 30 |
+| Mutual funds | Highest haircut applicable to any security in which the fund can invest |
+
+The standard haircut for currency risk where the exposure and collateral are denominated in different currencies is 8%.
+
+For transactions in which an insurer lends cash, the haircut applied to the exposure will be zero Footnote 16 . For transactions in which an insurer lends non-eligible instruments (e.g. non-investment grade corporate debt securities), the haircut applied to the exposure will be the same as that applied to an equity that is traded on a recognized exchange but not part of a main index.
+
+For collateralized OTC derivatives transactions, the E * component term E × (1 + H e ), representing the volatility-adjusted exposure amount before risk mitigation, will be replaced by the exposure amount for the derivatives transaction calculated using the current exposure method as described in section 4.1. This is either the positive replacement cost of the transaction plus the add-on for potential future exposure, or, for a series of contracts eligible for netting, the net replacement cost of the contracts plus A Net (q.v. section 4.2.2 for definition). The haircut for currency risk will be applied when there is a mismatch between the collateral currency and the settlement currency, but no additional adjustments beyond a single haircut for currency risk will be required if there are more than two currencies involved in collateral, settlement and exposure measurement.
+
+All of the standard haircuts listed above must be scaled by a square root of time factor according to the following formula:
+
+H = S × N + T − 1 10
+
+where:
+
+- H represents any of the haircuts used in calculating the exposure amount after risk mitigation;
+- S is the standard haircut specified above for the exposure or collateral;
+- N is the actual number of business days between remargining under the transaction; and
+- T is equal to 5 for repo-style transactions, and 10 for all other capital markets transactions.
+
+#### 3.2.3.3. Conditions for using zero haircuts
+
+For repo-style transactions that satisfy the following conditions, and for which the counterparty is a core market participant as defined below, insurers may apply haircuts of zero to both the exposure and collateral:
+
+1. Both the exposure and the collateral are cash or securities issued by the Government of Canada or a provincial or territorial government in Canada;
+2. Both the exposure and the collateral are denominated in the same currency;
+3. Either the transaction is overnight or both the exposure and the collateral are marked to market daily and are subject to daily remargining;
+4. Following a counterparty's failure to remargin, the time that is required between the last mark to market before the failure to remargin and the liquidation Footnote 17 of the collateral is considered to be no more than four business days;
+5. The transaction is settled across a settlement system proven for that type of transaction;
+6. The documentation covering the agreement is standard market documentation for repo-style transactions in the securities concerned;
+7. The transaction is governed by documentation specifying that if the counterparty fails to satisfy an obligation to deliver cash or securities or to deliver margin or otherwise defaults, then the transaction is immediately terminable; and
+8. Upon any default event, regardless of whether the counterparty is insolvent or bankrupt, the insurer has the unfettered, legally enforceable right to immediately seize and liquidate the collateral for its benefit.
+
+Core market participants include the following entities:
+
+1. Sovereigns, central banks and public sector entities;
+2. Banks and securities firms;
+3. Other financial companies (including insurance companies) rated AA- or better;
+4. Regulated mutual funds that are subject to capital or leverage requirements;
+5. Regulated pension funds; or
+6. Recognized clearing organizations.
+
+#### 3.2.3.4. Treatment of repo-style transactions covered under master netting agreements
+
+The effects of bilateral netting agreements covering repo-style transactions will be recognized on a counterparty-by-counterparty basis if the agreements are legally enforceable in each relevant jurisdiction upon the occurrence of an event of default and regardless of whether the counterparty is insolvent or bankrupt. In addition, netting agreements must:
+
+1. provide the non-defaulting party the right to terminate and close out in a timely manner all transactions under the agreement upon an event of default, including in the event of insolvency or bankruptcy of the counterparty;
+2. provide for the netting of gains and losses on transactions (including the value of any collateral) terminated and closed out under it so that a single net amount is owed by one party to the other;
+3. allow for the prompt liquidation or setoff of collateral upon the event of default; and
+4. be, together with the rights arising from the provisions required above, legally enforceable in each relevant jurisdiction upon the occurrence of an event of default and regardless of the counterparty's insolvency or bankruptcy.
+
+For repo-style transactions included within a master netting agreement, the exposure amount after risk mitigation will be calculated as follows:
+
+E * = max ⁡ ( 0 , [ ∑ E − ∑ C + ∑ ( E s × H s ) + ∑ ( E fx × H fx ) ] )
+
+where:
+
+- E * is the exposure value after risk mitigation;
+- E is the current value of the exposure;
+- C is the current value of the collateral received;
+- E s is the absolute value of the net position in each security covered under the agreement;
+- H s is the haircut appropriate to E s ;
+- E fx is the absolute value of the net position in each currency under the agreement that is different from the settlement currency; and
+- H fx is the haircut appropriate for currency mismatch.
+
+All other rules regarding the calculation of haircuts in section 3.2.3.2 equivalently apply for insurers using bilateral netting agreements for repo-style transactions.
+
+## 3.3. Guarantees and credit derivatives
+
+Where guarantees Footnote 18 or credit derivatives are direct, explicit, irrevocable and unconditional, and insurers fulfil certain minimum operational conditions relating to risk management processes, they are allowed to take account of such credit protection in calculating capital requirements. A substitution approach is used: the protected portion of a counterparty exposure is assigned the credit risk factor of the guarantor or protection provider, while the uncovered portion retains the credit risk factor of the underlying counterparty. Thus, only guarantees issued by or protection provided by entities with a lower risk factor than the counterparty will lead to reduced capital requirements. A range of guarantors and protection providers is recognized.
+
+### 3.3.1. Operational requirements common to guarantees and credit derivatives
+
+The effects of credit protection may not be double counted. Therefore, no capital recognition will be given to credit protection on claims for which an issue-specific rating is used that already reflects that protection. All criteria in section 3.1.1 around the use of ratings remain applicable to guarantees and credit derivatives.
+
+The following conditions must be satisfied in order for a guarantee (counter-guarantee) or credit derivative to be recognized in calculating required capital:
+
+1. It represents a direct claim on the protection provider and explicitly refers to a specific exposure or a pool of exposures, so that the extent of the cover is clearly defined and incontrovertible;
+2. Other than non-payment by a protection purchaser of money due in respect of the credit protection contract, it is irrevocable; there must be no clause in the contract that allows the protection provider to unilaterally cancel the credit cover or that increases the effective cost of cover as a result of deteriorating credit quality in the hedged exposure Footnote 19 ;
+3. It is unconditional; there is no clause in the protection contract outside the direct control of the insurer that could prevent the protection provider from being obliged to pay out in a timely manner in the event that the original counterparty fails to make the payment(s) due; and
+4. All documentation used for documenting guarantees and credit derivatives is binding on all parties and legally enforceable in all relevant jurisdictions. Insurers should have conducted sufficient legal review, documented in a legal opinion supporting this conclusion, to establish this and undertake such further review as necessary to ensure continuing enforceability Footnote 20 .
+
+### 3.3.2. Additional operational requirements for guarantees
+
+The following conditions must be satisfied in order for a guarantee to be recognized:
+
+1. On the qualifying default/non-payment of the counterparty, the insurer may in a timely manner pursue the guarantor for any monies outstanding under the documentation governing the transaction. The guarantor may make one lump sum payment of all monies under such documentation to the insurer, or the guarantor may assume the future payment obligations of the counterparty covered by the guarantee. The insurer should have the right to receive any such payments from the guarantor without first having to take legal action in order to pursue the counterparty for payment;
+2. The guarantee is an explicitly documented obligation assumed by the guarantor; and
+3. Except as noted in the following sentence, the guarantee covers all types of payments the underlying obligor is expected to make under the documentation governing the transaction (e.g. notional amount and margin payments). Where a guarantee covers payment of principal only, interest and other uncovered payments will be treated as an unsecured amount in accordance with section 3.3.5.
+
+### 3.3.3. Additional operational requirements for credit derivatives
+
+The following conditions must be satisfied in order for a credit derivative contract to be recognized:
+
+1. The credit events specified by the contracting parties must, at a minimum, cover: failure to pay the amounts due under terms of the underlying obligation that are in effect at the time of such failure (with a grace period that is closely in line with the grace period in the underlying obligation); bankruptcy, insolvency or inability of the obligor to pay its debts, or its failure or admission in writing of its inability generally to pay its debts as they become due, and analogous events; and restructuring of the underlying obligation involving forgiveness or postponement of principal, interest or fees that results in a credit loss event (i.e., charge-off, specific provision or other similar debit to the profit and loss account).
+2. If the credit derivative covers obligations that do not include the underlying obligation, section g) below governs whether the asset mismatch is permissible.
+3. The credit derivative shall not terminate prior to expiration of any grace period required for a default on the underlying obligation to occur as a result of a failure to pay.
+4. Credit derivatives allowing for cash settlement are recognized for capital purposes insofar as a robust valuation process is in place in order to estimate loss reliably. There must be a clearly specified period for obtaining post-credit event valuations of the underlying obligation. If the reference obligation specified in the credit derivative for purposes of cash settlement is different than the underlying obligation, section g) below governs whether the asset mismatch is permissible.
+5. If the protection purchaser's right/ability to transfer the underlying obligation to the protection provider is required for settlement, the terms of the underlying obligation must provide that any required consent to such transfer may not be unreasonably withheld.
+6. The identity of the parties responsible for determining whether a credit event has occurred must be clearly defined. This determination must not be the sole responsibility of the protection seller. The protection buyer must have the right/ability to inform the protection provider of the occurrence of a credit event.
+7. A mismatch between the underlying obligation and the reference obligation under the credit derivative (i.e., the obligation used for purposes of determining cash settlement value or the deliverable obligation) is permissible if (1) the reference obligation ranks pari passu with or is junior to the underlying obligation, and (2) the underlying obligation and reference obligation share the same obligor (i.e., the same legal entity) and legally enforceable cross-default or cross-acceleration clauses are in place.
+8. A mismatch between the underlying obligation and the obligation used for purposes of determining whether a credit event has occurred is permissible if (1) the latter obligation ranks pari passu with or is junior to the underlying obligation, and (2) the underlying obligation and reference obligation share the same obligor (i.e., the same legal entity) and legally enforceable cross-default or cross-acceleration clauses are in place.
+
+1. failure to pay the amounts due under terms of the underlying obligation that are in effect at the time of such failure (with a grace period that is closely in line with the grace period in the underlying obligation);
+2. bankruptcy, insolvency or inability of the obligor to pay its debts, or its failure or admission in writing of its inability generally to pay its debts as they become due, and analogous events; and
+3. restructuring of the underlying obligation involving forgiveness or postponement of principal, interest or fees that results in a credit loss event (i.e., charge-off, specific provision or other similar debit to the profit and loss account).
+
+Only credit default swaps and total return swaps that provide credit protection equivalent to guarantees will be eligible for recognition. Where an insurer buys credit protection through a total return swap and records the net payments received on the swap as net income, but does not record offsetting deterioration in the value of the asset that is protected (either through reductions in fair value or by increasing provisions), the credit protection will not be recognized.
+
+Other types of credit derivatives are not eligible for recognition.
+
+### 3.3.4. Eligible guarantors and protection providers
+
+Insurers may recognize credit protection given by the following entities:
+
+1. entities eligible for a 0% credit risk factor under section 3.1.4;
+2. externally rated public sector entities, banks and securities firms with a lower credit risk factor than that of the counterparty; and
+3. other entities that currently are externally rated BBB or better, and that were externally rated A or better at the time the credit protection was provided. This includes credit protection provided by affiliates of an obligor when they have a lower credit risk factor than that of the obligor.
+
+However, an insurer may not recognize a guarantee or credit protection on an exposure to a third party when the guarantee or credit protection is provided by an affiliate of the insurer. This treatment follows the principle that guarantees within a corporate group are not a substitute for capital.
+
+### 3.3.5. Capital treatment
+
+The protected portion of a counterparty exposure is assigned the capital factor of the protection provider. The uncovered portion of the exposure is assigned the factor of the underlying counterparty.
+
+Where the amount guaranteed, or against which credit protection is held, is less than the amount of the exposure, and the secured and unsecured portions are of equal seniority (i.e., the insurer and the guarantor share losses on a pro-rata basis), capital relief will be afforded on a proportional basis, so that the protected portion of the exposure will receive the treatment applicable to eligible guarantees and credit derivatives, and the remainder will be treated as unsecured. Where an insurer transfers a portion of the risk of an exposure in one or more tranches to a protection seller or sellers and retains some level of risk, and the risk transferred and the risk retained are of different seniority, insurers may obtain credit protection for the senior tranches (e.g. second-loss position) or the junior tranches (e.g. first-loss position). In this case, the rules as set out in Guideline B-5: Asset Securitization will apply.
+
+Materiality thresholds on payments below which no payment is made in the event of loss are treated as first-loss positions in a tranched structure, and receive a credit risk factor of 60% in accordance with section 3.4.3.
+
+### 3.3.6. Currency mismatches
+
+Where the credit protection is denominated in a currency different from that in which the exposure is denominated, the amount of the exposure deemed to be protected is 70% of the nominal amount of the credit protection, converted at current exchange rates.
+
+### 3.3.7. Maturity mismatches
+
+A maturity mismatch occurs when the residual maturity of the credit protection is less than that of the underlying exposure. If there is a maturity mismatch and the credit protection has an original maturity shorter than one year, the protection may not be recognized. As a result, the maturity of protection for exposures with original maturities less than one year must be matched to be recognized. Additionally, credit protection with a residual maturity of three months or less may not be recognized if there is a maturity mismatch. Credit protection will be partially recognized in other cases where there is a maturity mismatch.
+
+The maturity of the underlying exposure and the maturity of the credit protection should both be measured conservatively. The effective maturity of the underlying exposure is measured as the longest possible remaining time before the counterparty is scheduled to fulfil its obligation, taking into account any applicable grace period. For the credit protection, embedded options that may reduce the term of the protection will be taken into account so that the shortest possible effective maturity is used. Where a call is at the discretion of the protection seller, the maturity will always be at the first call date. If the call is at the discretion of the insurer buying protection but the terms of the arrangement at origination contain a positive incentive for the insurer to call the transaction before contractual maturity, the remaining time to the first call date will be deemed to be the effective maturity. For example, where there is a step-up cost in conjunction with a call feature or where the effective cost of cover increases over time even if credit quality remains the same or improves, the effective maturity will be the remaining time to the first call.
+
+When there is a maturity mismatch, the following adjustment will be applied:
+
+P a = P × t − 0.25 T − 0.25
+
+where:
+
+- P a is the value of the credit protection adjusted for maturity mismatch;
+- P is the nominal amount of the credit protection, adjusted for currency mismatch if applicable;
+- T is the lower of 5 or the residual maturity of the exposure expressed in years; and
+- t is the lower of T or the residual maturity of the credit protection arrangement expressed in years.
+
+### 3.3.8. Sovereign counter-guarantees
+
+Some claims may be covered by a guarantee that is indirectly counter-guaranteed by a sovereign. Such claims may be treated as covered by a sovereign guarantee provided that:
+
+1. the sovereign providing the counter-guarantee is eligible for a 0% credit risk factor;
+2. the sovereign counter-guarantee covers all credit risk elements of the claim;
+3. both the original guarantee and the counter-guarantee meet all the operational requirements for guarantees, except that the counter-guarantee need not be direct and explicit to the original claim; and
+4. the cover is robust, and there is no historical evidence suggesting that the coverage of the counter-guarantee is less than effectively equivalent to that of a direct sovereign guarantee.
+
+### 3.3.9. Public sector entities in competition
+
+Insurers may not recognize guarantees made by public sector entities, including provincial and territorial governments in Canada, that would disadvantage private sector competition. Insurers should look to the host (sovereign) government to confirm whether a public sector entity is in competition with the private sector.
+
+### 3.3.10. Other items related to the treatment of credit risk mitigation
+
+In the case where an insurer has multiple types of mitigation covering a single exposure (e.g., both collateral and a guarantee partially cover an exposure), the insurer will be required to subdivide the exposure into portions covered by each type of mitigation (e.g. the portion covered by collateral and the portion covered by a guarantee) and the required capital for each portion must be calculated separately. When credit protection provided by a single protection provider has differing maturities, they must be subdivided into separate protection as well.
+
+There are cases where an insurer obtains credit protection for a basket of reference names and where the first default among the reference names triggers the credit protection and the credit event also terminates the contract. In this case, the insurer may recognize credit protection for the asset within the basket having the lowest capital charge, but only if the notional amount of the asset is less than or equal to the notional amount of the credit derivative. In the case where the second default among the assets within the basket triggers the credit protection, the insurer obtaining credit protection through such a product will only be able to recognize credit protection on the asset in the basket having the lowest capital charge if first-to-default protection has also been obtained, or if one of the assets within the basket has already defaulted.
+
+## 3.4. Asset backed securities
+
+The category of asset backed securities encompasses all securitizations, including collateralized mortgage obligations and mortgage backed securities, as well as other exposures that result from stratifying or tranching an underlying credit exposure. For exposures that arise as a result of asset securitization transactions, insurers should refer to Guideline B-5: Asset Securitization to determine whether there are functions provided (e.g., credit enhancement and liquidity facilities) that require capital for credit risk.
+
+### 3.4.1. NHA mortgage-backed securities
+
+NHA mortgage-backed securities that are guaranteed by CMHC receive a factor of 0% to recognize the fact that obligations incurred by CMHC are legal obligations of the Government of Canada.
+
+### 3.4.2. Pass-through type mortgage-backed securities
+
+Mortgage-backed securities that are of pass-through type and are effectively a direct holding of the underlying mortgages receive the capital charge of the underlying mortgages provided that all of the following conditions are met:
+
+1. the underlying mortgage pool contains only mortgages that were fully performing when the mortgage-backed security was created;
+2. the securities absorb their pro rata share of any losses incurred;
+3. a special-purpose vehicle has been established for securitization and administration of the pooled mortgage loans;
+4. the underlying mortgages are assigned to an independent third party for the benefit of the investors in the securities who will then own the underlying mortgages;
+5. the arrangements for the special-purpose vehicle and trustee provide that the following obligations are observed: if a mortgage administrator or mortgage servicer is employed to carry out administration functions, the vehicle and trustee must monitor the performance of the administrator or servicer; the vehicle and/or trustee must provide detailed and regular information on structure and performance of the pooled mortgage loans; the vehicle and trustee must be legally separate from the originator of the pooled mortgage loans; the vehicle and trustee must be responsible for any damage or loss to investors created by their own or their servicer's mismanagement of the pooled mortgages; the trustee must have a first-priority security interest on the underlying mortgages on behalf of the securities holders; the agreement must provide for the trustee to take clearly specified steps in cases when a mortgagor defaults; the holder of the security must have a pro rata share in the underlying mortgages or the vehicle that issues the security must only have liabilities related to issuing the mortgage-backed security; the cash flows of the underlying mortgages must meet the cash flow requirements of the security without undue reliance on any reinvestment income; and the vehicle or trustee may invest cash flows pending distribution to investors only in short-term money market instruments (without any material reinvestment risk) or in new fully performing mortgage loans.
+
+1. if a mortgage administrator or mortgage servicer is employed to carry out administration functions, the vehicle and trustee must monitor the performance of the administrator or servicer;
+2. the vehicle and/or trustee must provide detailed and regular information on structure and performance of the pooled mortgage loans;
+3. the vehicle and trustee must be legally separate from the originator of the pooled mortgage loans;
+4. the vehicle and trustee must be responsible for any damage or loss to investors created by their own or their servicer's mismanagement of the pooled mortgages;
+5. the trustee must have a first-priority security interest on the underlying mortgages on behalf of the securities holders;
+6. the agreement must provide for the trustee to take clearly specified steps in cases when a mortgagor defaults;
+7. the holder of the security must have a pro rata share in the underlying mortgages or the vehicle that issues the security must only have liabilities related to issuing the mortgage-backed security;
+8. the cash flows of the underlying mortgages must meet the cash flow requirements of the security without undue reliance on any reinvestment income; and
+9. the vehicle or trustee may invest cash flows pending distribution to investors only in short-term money market instruments (without any material reinvestment risk) or in new fully performing mortgage loans.
+
+Pass-through mortgage-backed securities that do not meet all of the above conditions receive a factor of 12%. Stripped mortgage-backed securities, issuances having different classes of securities (senior/junior debt, residual tranches) that bear more than their pro-rata share of losses, and mortgage-backed securities that are issued in tranches are subject to the capital treatment described in Guideline B-5: Asset Securitization .
+
+Where the underlying pool of assets contains mortgages having different capital charges, the charge for the security is the average charge associated with the pool of assets. Where the underlying pool contains mortgages that have become impaired, that portion of the instrument should be treated as a past due investment in accordance with section 3.1.10.
+
+### 3.4.3. Other asset-backed securities
+
+The capital requirements for all other asset backed securities are based on their external ratings. In order for an insurer to use external ratings to determine a capital requirement, the insurer must comply with all of the operational requirements for the use of ratings in Guideline B-5: Asset Securitization .
+
+For asset-backed securities (other than resecuritizations) rated BBB or higher, the capital requirement is the same as the requirement specified in section 3.1.2 for a bond having the same rating and maturity as the asset-backed security. If an asset-backed security is rated BB, an insurer may recognize the rating only if it is a third-party investor in the security, as opposed to being an originator of the security. The credit risk factor for an asset-backed security (other than a resecuritization) rated BB in which a company is a third-party investor is 300% of the requirement for a bond rated BB having the same maturity as the security.
+
+The credit risk factors for short-term asset-backed securities (other than resecuritizations) rated S3 or higher are the same as those in section 3.1.3 for short-term obligations having the same rating.
+
+The credit risk factor for any resecuritization rated BBB or higher, or S3 or higher, is 200% of the risk factor applicable to an asset-backed security having the same rating and maturity as the resecuritization.
+
+The credit risk factor for any securitization exposure that falls within the highest risk category under Guideline B-5: Asset Securitization is 60%. This category includes securitizations carrying ratings for which a factor is not specified above, and all unrated securitizations, with the exception of unrated senior exposures that are eligible for the look-through approach under Guideline B-5.
+
+Refer to Guideline B-5: Asset Securitization for additional capital requirements that may arise from securitization exposures.
+
+## 3.5. Repurchase, reverse repurchase and securities lending agreements
+
+A securities repurchase is an agreement whereby a transferor agrees to sell securities at a specified price and repurchase the securities on a specified date and at a specified price. Since the transaction is regarded as a financing for accounting purposes, the securities remain on the balance sheet. Given that these securities are temporarily assigned to another party, the credit risk factor associated with this exposure is the higher of:
+
+1. the factor for the securities to be repurchased; or
+2. the factor for an exposure to the counterparty to the transaction, recognizing any eligible collateral (q.v. section 3.2).
+
+A reverse repurchase agreement is the opposite of a repurchase agreement, and involves the purchase and subsequent resale of a security. Reverse repos are treated as collateralised loans, reflecting the economic reality of the transaction. The risk is therefore measured as an exposure to the counterparty. If the asset temporarily acquired is a security that qualifies as eligible collateral per section 3.2, the exposure amount may be reduced accordingly.
+
+In securities lending, insurers can act as a principal to the transaction by lending their own securities, or as an agent by lending securities on behalf of their clients. When an insurer lends its own securities, required capital is the higher of:
+
+1. the required capital for the instruments lent; or
+2. the required capital for an exposure to the borrower of the securities. The exposure to the borrower may be reduced if the insurer holds eligible collateral (section 3.2). Where the insurer lends securities through an agent and receives an explicit guarantee of the return of the securities, the insurer may treat the agent as the borrower, subject to the conditions in section 3.3.
+
+When an insurer, acting as agent, lends securities on behalf of a client and guarantees that the securities lent will be returned or the insurer will reimburse the client for the current market value, the insurer should calculate the required capital as if it were the principal to the transaction. The required capital is that for an exposure to the borrower of the securities, where the exposure amount may be reduced if the insurer holds eligible collateral (q.v. section 3.2).
+
+The methodologies described above do not apply to repurchases or loans of securities backing an insurer's index-linked products, as defined in section 5.5. If an insurer enters into a repurchase or loan agreement involving such assets, the capital charge is equal to the charge for the exposure to the counterparty or borrower (taking account of qualifying collateral), plus the charge applicable under section 5.5.
+
+## Appendix 3-A Rating mappings
+
+**DBRS long-term rating mappings**
+
+| Long-term ratings | LICAT rating categories |
+| --- | --- |
+| AAA | AAA |
+| AA(high) to AA(low) | AA |
+| A(high) to A(low) | A |
+| BBB(high) to BBB(low) | BBB |
+| BB(high) to BB(low) | BB |
+| B(high) to B(low) | B |
+| CCC or lower | Lower than B |
+
+**Fitch, S&P, KBRA, JCR and R&I long-term rating mappings**
+
+| Long-term ratings | LICAT rating categories |
+| --- | --- |
+| AAA | AAA |
+| AA+ to AA− | AA |
+| A+ to A− | A |
+| BBB+ to BBB− | BBB |
+| BB+ to BB− | BB |
+| B+ to B− | B |
+| Below B− | Lower than B |
+
+**Moody's long-term rating mappings**
+
+| Long-term ratings | LICAT rating categories |
+| --- | --- |
+| Aaa | AAA |
+| Aa1 to Aa3 | AA |
+| A1 to A3 | A |
+| Baa1 to Baa3 | BBB |
+| Ba1to Ba3 | BB |
+| B1 to B3 | B |
+| Below B3 | Lower than B |
+
+**DBRS short-term rating mappings**
+
+| Short-term ratings | LICAT rating categories |
+| --- | --- |
+| R-1(high) to R-1(low) | S1 |
+| R-2(high) to R-2(low) | S2 |
+| R-3 | S3 |
+| Below R-3 | All other |
+
+**Fitch short-term rating mappings**
+
+| Short-term ratings | LICAT rating categories |
+| --- | --- |
+| F1+, F1 | S1 |
+| F2 | S2 |
+| F3 | S3 |
+| Below F3 | All other |
+
+**Moody's short-term rating mappings**
+
+| Short-term ratings | LICAT rating categories |
+| --- | --- |
+| P-1 | S1 |
+| P-2 | S2 |
+| P-3 | S3 |
+| NP | All other |
+
+**S&P short-term rating mappings**
+
+| Short-term ratings | LICAT rating categories |
+| --- | --- |
+| A-1+. A-1 | S1 |
+| A-2 | S2 |
+| A-3 | S3 |
+| Below A-3 | All other |
+
+**KBRA short-term rating mappings**
+
+| Short-term ratings | LICAT rating categories |
+| --- | --- |
+| K1+, K1 | S1 |
+| K2 | S2 |
+| K3 | S3 |
+| Below K3 | All other |
+
+**JCR short-term rating mappings**
+
+| Short-term ratings | LICAT rating categories |
+| --- | --- |
+| J-1 | S1 |
+| J-2 | S2 |
+| J-3 | S3 |
+| NJ | All other |
+
+**R&I short-term rating mappings**
+
+| Short-term ratings | LICAT rating categories |
+| --- | --- |
+| a-1 | S1 |
+| a-2 | S2 |
+| a-3 | S3 |
+| Below a-3 | All other |
+
+> *Footnotes Footnote 1 The balance sheet values to which factors are applied are the values gross of IFRS 9 Stage 1 and Stage 2 provisions. Return to footnote 1 referrer Footnote 2 The requirement for credit risk may also be reduced under certain registered reinsurance arrangements, as described in section 10.4.3. Return to footnote 2 referrer Footnote 3 Refer to section 5.4 for the treatment of assets within consolidated mutual fund entities. Return to footnote 3 referrer Footnote 4 Refer to Appendix 3-A for a table showing equivalent ratings from DBRS, Moody's, S&P, Fitch, KBRA, JCR, and R&I. Return to footnote 4 referrer Footnote 5 An approximation may be used under section 1.4.5. Return to footnote 5 referrer Footnote 6 As defined in Guideline B-2. Return to footnote 6 referrer Footnote 7 The effective maturity for the exposures to a connected group within a rating grade can equivalently be calculated as a weighted average of the effective maturities of the individual exposures. The weight to apply to each exposure's maturity is equal to the exposure's total non-discounted cash flows divided by total non-discounted cash flows for all exposures to the group. Return to footnote 7 referrer Footnote 8 Sovereign obligations rated lower than AA may not receive a factor of 0%, and are instead subject to the factor requirements in section 3.1.2. Return to footnote 8 referrer Footnote 9 The consensus country risk classification is available on the OECD's web site in the Export Credit Arrangement web page of the Trade Directorate. Return to footnote 9 referrer Footnote 10 A central counterparty (CCP) is an entity that interposes itself between counterparties to contracts traded within one or more financial markets, becoming the legal counterparty so that it is the buyer to every seller and the seller to every buyer. A qualifying central counterparty (QCCP) is an entity that is licensed to operate as a central counterparty (including a licence granted by way of confirming and exemption), and is permitted by the appropriate regulator/overseer to operate as such with respect to the products offered. This is subject to the provision that the CCP is based and prudentially supervised in a jurisdiction where the relevant regulator/overseer has established, and publicly indicated that it applies to the CCP on an on-going basis, domestic rules and regulations that are consistent with the CPSS-IOSCO Principles for Financial Market Infrastructures. In order to qualify for a 0% factor, the CCP must mitigate its own exposure to credit risk by requiring all participants in its arrangements to fully collateralize their obligations to the CCP on a daily basis. The 0% factor may not be used in respect of transactions that have been rejected by the CCP, nor in respect of equity investments, guarantee fund or default fund obligations an insurer may have to a CCP. Where the CCP is in a jurisdiction that does not have a CCP regulator applying the Principles to the CCP, OSFI may make the determination of whether the CCP meets this definition. Return to footnote 10 referrer Footnote 11 Mortgage-backed securities, collateralized mortgage obligations and other asset backed securities are not subject to this section and are covered in section 3.4. Return to footnote 11 referrer Footnote 12 An insurer may use the 20% factor, or it may alternatively use a look-through approach. If the insurer elects to use the 20% factor, the associated liabilities that are held for sale must be included in the determination of required capital. Under the alternative look-through approach, assets held for sale are reclassified on the balance sheet according to their nature. For example, real estate held for sale may be reclassified as a real estate investment or a disposal group classified as held for sale may be re-consolidated. If the alternate method is elected, any write-down made as a result of re-measuring the assets at the lower of carrying amount and fair value less costs to sell should not be reversed upon reclassification or re-consolidation; the write-down should continue to be reflected in the retained earnings used to determine Available Capital. The write-down amount should be applied to the reclassified/re-consolidated assets in a manner consistent with the basis for the write-down of the HFS assets. If the insurer applies this alternate method for a disposal group, OSFI Lead Supervisor may request a pro-forma LICAT Quarterly Return that includes the impact of the sale. The pro-forma LICAT calculation should include all items affecting the results (e.g. the projected profit or loss on sale, and the projected impact of other related transactions and agreements that may occur in parallel) irrespective of whether they have been recognized at period-end. The insurer may also be requested to provide OSFI with an impact analysis identifying the significant drivers of the LICAT differences with and without the disposal group, including the impact of sale-related subsequent agreements and transactions. Return to footnote 12 referrer Footnote 13 In this section, "counterparty" is used to denote a party to whom an insurer has an on- or off-balance sheet credit exposure or a potential credit exposure. That exposure may, for example, take the form of a loan of cash or securities (where the counterparty would traditionally be called the borrower), of securities posted as collateral, of a commitment, or of an exposure under an OTC derivatives contract. Return to footnote 13 referrer Footnote 14 However, the use of derivative instruments by a mutual fund solely to hedge investments listed as eligible financial collateral shall not prevent units in that mutual fund from being recognized as eligible financial collateral. Return to footnote 14 referrer Footnote 15 The exposure amount may vary where, for example, securities are being lent. Return to footnote 15 referrer Footnote 16 An insurer may use a haircut of zero for cash received as collateral if the cash is held in Canada in the form of a deposit at one of the insurer's banking subsidiaries. Return to footnote 16 referrer Footnote 17 This does not require an insurer to always liquidate the collateral but rather to have the capability to do so within the given time frame. Return to footnote 17 referrer Footnote 18 Letters of credit for which an insurer is the beneficiary are included within the definition of guarantees, and receive the same capital treatment. Return to footnote 18 referrer Footnote 19 The irrevocability condition does not require that the credit protection and the exposure be maturity matched. However, it does require that the maturity agreed ex ante cannot be reduced ex post by the protection provider. Return to footnote 19 referrer Footnote 20 The documented legal opinion must be available for review by OSFI, upon request. Return to footnote 20 referrer*
+
+## Footnotes
+
+The balance sheet values to which factors are applied are the values gross of IFRS 9 Stage 1 and Stage 2 provisions.
+
+Return to footnote 1 referrer
+
+The requirement for credit risk may also be reduced under certain registered reinsurance arrangements, as described in section 10.4.3.
+
+Return to footnote 2 referrer
+
+Refer to section 5.4 for the treatment of assets within consolidated mutual fund entities.
+
+Return to footnote 3 referrer
+
+Refer to Appendix 3-A for a table showing equivalent ratings from DBRS, Moody's, S&P, Fitch, KBRA, JCR, and R&I.
+
+Return to footnote 4 referrer
+
+An approximation may be used under section 1.4.5.
+
+Return to footnote 5 referrer
+
+As defined in Guideline B-2.
+
+Return to footnote 6 referrer
+
+The effective maturity for the exposures to a connected group within a rating grade can equivalently be calculated as a weighted average of the effective maturities of the individual exposures. The weight to apply to each exposure's maturity is equal to the exposure's total non-discounted cash flows divided by total non-discounted cash flows for all exposures to the group.
+
+Return to footnote 7 referrer
+
+Sovereign obligations rated lower than AA may not receive a factor of 0%, and are instead subject to the factor requirements in section 3.1.2.
+
+Return to footnote 8 referrer
+
+The consensus country risk classification is available on the OECD's web site in the Export Credit Arrangement web page of the Trade Directorate.
+
+Return to footnote 9 referrer
+
+A central counterparty (CCP) is an entity that interposes itself between counterparties to contracts traded within one or more financial markets, becoming the legal counterparty so that it is the buyer to every seller and the seller to every buyer. A qualifying central counterparty (QCCP) is an entity that is licensed to operate as a central counterparty (including a licence granted by way of confirming and exemption), and is permitted by the appropriate regulator/overseer to operate as such with respect to the products offered. This is subject to the provision that the CCP is based and prudentially supervised in a jurisdiction where the relevant regulator/overseer has established, and publicly indicated that it applies to the CCP on an on-going basis, domestic rules and regulations that are consistent with the CPSS-IOSCO Principles for Financial Market Infrastructures. In order to qualify for a 0% factor, the CCP must mitigate its own exposure to credit risk by requiring all participants in its arrangements to fully collateralize their obligations to the CCP on a daily basis. The 0% factor may not be used in respect of transactions that have been rejected by the CCP, nor in respect of equity investments, guarantee fund or default fund obligations an insurer may have to a CCP. Where the CCP is in a jurisdiction that does not have a CCP regulator applying the Principles to the CCP, OSFI may make the determination of whether the CCP meets this definition.
+
+Return to footnote 10 referrer
+
+Mortgage-backed securities, collateralized mortgage obligations and other asset backed securities are not subject to this section and are covered in section 3.4.
+
+Return to footnote 11 referrer
+
+An insurer may use the 20% factor, or it may alternatively use a look-through approach. If the insurer elects to use the 20% factor, the associated liabilities that are held for sale must be included in the determination of required capital. Under the alternative look-through approach, assets held for sale are reclassified on the balance sheet according to their nature. For example, real estate held for sale may be reclassified as a real estate investment or a disposal group classified as held for sale may be re-consolidated. If the alternate method is elected, any write-down made as a result of re-measuring the assets at the lower of carrying amount and fair value less costs to sell should not be reversed upon reclassification or re-consolidation; the write-down should continue to be reflected in the retained earnings used to determine Available Capital. The write-down amount should be applied to the reclassified/re-consolidated assets in a manner consistent with the basis for the write-down of the HFS assets. If the insurer applies this alternate method for a disposal group, OSFI Lead Supervisor may request a pro-forma LICAT Quarterly Return that includes the impact of the sale. The pro-forma LICAT calculation should include all items affecting the results (e.g. the projected profit or loss on sale, and the projected impact of other related transactions and agreements that may occur in parallel) irrespective of whether they have been recognized at period-end. The insurer may also be requested to provide OSFI with an impact analysis identifying the significant drivers of the LICAT differences with and without the disposal group, including the impact of sale-related subsequent agreements and transactions.
+
+Return to footnote 12 referrer
+
+In this section, "counterparty" is used to denote a party to whom an insurer has an on- or off-balance sheet credit exposure or a potential credit exposure. That exposure may, for example, take the form of a loan of cash or securities (where the counterparty would traditionally be called the borrower), of securities posted as collateral, of a commitment, or of an exposure under an OTC derivatives contract.
+
+Return to footnote 13 referrer
+
+However, the use of derivative instruments by a mutual fund solely to hedge investments listed as eligible financial collateral shall not prevent units in that mutual fund from being recognized as eligible financial collateral.
+
+Return to footnote 14 referrer
+
+The exposure amount may vary where, for example, securities are being lent.
+
+Return to footnote 15 referrer
+
+An insurer may use a haircut of zero for cash received as collateral if the cash is held in Canada in the form of a deposit at one of the insurer's banking subsidiaries.
+
+Return to footnote 16 referrer
+
+This does not require an insurer to always liquidate the collateral but rather to have the capability to do so within the given time frame.
+
+Return to footnote 17 referrer
+
+Letters of credit for which an insurer is the beneficiary are included within the definition of guarantees, and receive the same capital treatment.
+
+Return to footnote 18 referrer
+
+The irrevocability condition does not require that the credit protection and the exposure be maturity matched. However, it does require that the maturity agreed ex ante cannot be reduced ex post by the protection provider.
+
+Return to footnote 19 referrer
+
+The documented legal opinion must be available for review by OSFI, upon request.
+
+Return to footnote 20 referrer

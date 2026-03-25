@@ -1,0 +1,198 @@
+{
+  "source_system": "osfi_guidance_library",
+  "library_row_title": "Liquidity Adequacy Requirements Guideline (2025) - Letter",
+  "library_row_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/liquidity-adequacy-requirements-guideline-2025-letter",
+  "listing_date_raw": "November 21, 2024",
+  "listing_date_iso": "2024-11-21",
+  "listing_publication_type": "Letter",
+  "listing_category": "Capital Adequacy Requirements",
+  "listing_sector": [
+    "Banks",
+    "Trust and Loan Companies"
+  ],
+  "crawl_timestamp": "2026-03-11T00:00:00Z",
+  "detail_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/liquidity-adequacy-requirements-guideline-2025-letter",
+  "canonical_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/liquidity-adequacy-requirements-guideline-2025-letter",
+  "slug": "liquidity-adequacy-requirements-guideline-2025-letter",
+  "title": "Liquidity Adequacy Requirements Guideline (2025) - Letter",
+  "publication_type": "Letter",
+  "category": "Capital Adequacy Requirements",
+  "document_date_raw": "November 21, 2024",
+  "document_date_iso": "2024-11-21",
+  "sector": [
+    "Banks",
+    "Trust and Loan Companies"
+  ],
+  "effective_date_text": "",
+  "guideline_number": "",
+  "date_modified_raw": "2024-11-21T12:00:00Z",
+  "generate_pdf_url": null,
+  "pdf_node_id": null,
+  "direct_pdf_url": null,
+  "has_table_of_contents": true,
+  "toc_entries": [],
+  "has_related_documents": true,
+  "related_document_links_raw": [
+    {
+      "title": "Liquidity Adequacy Requirements - Consultation summary (2025)",
+      "url": "https://www.osfi-bsif.gc.ca/en/consultations/consultation-summaries/osfis-response-liquidity-adequacy-requirements-guideline-2025-consultation-feedback"
+    },
+    {
+      "title": "Liquidity Adequacy Requirements - Backgrounder (2025)",
+      "url": "https://www.osfi-bsif.gc.ca/en/news/backgrounder-liquidity-adequacy-requirements-guideline-2025"
+    },
+    {
+      "title": "Liquidity Adequacy Requirements - Guideline (2025)",
+      "url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/liquidity-adequacy-requirements-lar-guideline-2025"
+    }
+  ],
+  "consultation_status_text": null,
+  "consultation_status_refers_to_version": null,
+  "page_language": "en",
+  "word_count_raw_body": 249,
+  "doc_id": "osfi.liquidity-adequacy-requirements-guideline.2025.transmittal",
+  "doc_family_id": "osfi.liquidity-adequacy-requirements-guideline",
+  "version_id": "2025",
+  "version_label": "Liquidity Adequacy Requirements Guideline (2025) - Letter",
+  "version_sort_key": "2025-11",
+  "parent_doc_id": null,
+  "child_doc_ids": [],
+  "is_package_page": false,
+  "is_chapter_page": false,
+  "chapter_number": null,
+  "chapter_title": null,
+  "document_order_within_family": 0,
+  "supersedes_doc_id": null,
+  "superseded_by_doc_id": "osfi.liquidity-adequacy-requirements-guideline.2026.transmittal",
+  "current_version_flag": false,
+  "status": "superseded",
+  "include_in_primary_corpus": false,
+  "include_in_support_corpus": true,
+  "include_in_context_corpus": false,
+  "effective_date_start": "2024-11-21",
+  "effective_date_end": null,
+  "effective_date_fye_split": false,
+  "effective_date_oct_fye": null,
+  "effective_date_dec_fye": null,
+  "is_future_effective": false,
+  "is_rescinded": false,
+  "is_draft_or_consultation": false,
+  "rescission_date": null,
+  "consultation_closing_date": null,
+  "as_of_applicability": "2026-03-23",
+  "rule_applied": "rule_7_superseded",
+  "authority_class": "official_support",
+  "authority_level": 60,
+  "nova_tier": 2,
+  "prudential_weight": 0.7,
+  "is_primary_normative": false,
+  "is_supporting_interpretive": true,
+  "is_context_only": false,
+  "document_class": "transmittal_letter",
+  "guidance_type_normalized": "letter",
+  "section_headings": [],
+  "heading_path": [
+    "Liquidity Adequacy Requirements Guideline (2025) - Letter"
+  ],
+  "toc_depth": 0,
+  "has_appendices": false,
+  "appendix_ids": [],
+  "has_tables": false,
+  "table_count": 0,
+  "has_footnotes": false,
+  "footnote_count": 0,
+  "inline_cross_references": [],
+  "quoted_external_references": [],
+  "raw_html_sha256": "1ce2f69acf6ee287ae6d74f7986475baf130ec875848dd1d5dd1d1608ba4cec9",
+  "raw_pdf_sha256": null,
+  "normalized_text_sha256": null,
+  "raw_html_path": "bronze/osfi/html/final_current/liquidity-adequacy-requirements-guideline-2025-letter.html",
+  "normalized_md_path": "silver/osfi/md/final_current/liquidity-adequacy-requirements-guideline-2025-letter.md",
+  "canonical_json_path": "silver/osfi/json/final_current/liquidity-adequacy-requirements-guideline-2025-letter.json",
+  "content_source": "HTML",
+  "parser_version": "osfi-parser-v2.1.0",
+  "normalizer_version": "osfi-normalizer-v1.4.0",
+  "quality_score": 0.5,
+  "quality_flags": [
+    "thin_body_text"
+  ],
+  "download_timestamp": "2026-03-11T00:00:00Z",
+  "enriched_timestamp": "2026-03-23T09:53:54.637074Z",
+  "sections": [
+    {
+      "heading": "",
+      "heading_level": 2,
+      "full_text": "  - Liquidity Adequacy Requirements - Consultation summary (2025)\n  - Liquidity Adequacy Requirements - Backgrounder (2025)\n  - Liquidity Adequacy Requirements - Guideline (2025)\nToday, we are publishing the Liquidity Adequacy Requirements (LAR) 2025 guideline, with corresponding revisions to the Small and Medium-Sized Deposit-Taking Institutions (SMSB) Capital and Liquidity Requirements Guideline, which will take effect on April 1, 2025.\nThe revised LAR guideline reflects two key revisions on intraday liquidity and the treatment of Bankers' Acceptances (BAs). Intraday liquidity revisions affect chapters 1 and 7 of the LAR guideline. Revisions to the treatment of BAs affect chapters 3 and 4. We did not make any changes to chapters 2, 5, or 6.\nThis summer, we conducted a consultation on revisions to the guidelines and related regulatory reporting requirements. We appreciate the stakeholder engagement that occurred during this consultation. We have updated the LAR guideline in consideration of the feedback we received.\nTo allow for more industry engagement on the intraday liquidity regulatory return, we are postponing the release of the return until the spring of 2025, with a target implementation date of November 1, 2025. We are also reducing the number of institutions required to file the return by targeting only the direct clearers of Lynx, Canada’s large-value payment system.\nPlease refer to summary of stakeholder comments and our responses .\nShould you have any questions, please contact Adam Dolson ( adam.dolson@osfi-bsif.gc.ca ), Director, Banking Capital and Liquidity Standards Division, Risk Advisory Hub.\nSincerely,\nAmar Munipalle Executive Director, Risk Advisory Hub",
+      "content": [
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Liquidity Adequacy Requirements - Consultation summary (2025)",
+            "Liquidity Adequacy Requirements - Backgrounder (2025)",
+            "Liquidity Adequacy Requirements - Guideline (2025)"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Today, we are publishing the Liquidity Adequacy Requirements (LAR) 2025 guideline, with corresponding revisions to the Small and Medium-Sized Deposit-Taking Institutions (SMSB) Capital and Liquidity Requirements Guideline, which will take effect on April 1, 2025."
+        },
+        {
+          "type": "paragraph",
+          "text": "The revised LAR guideline reflects two key revisions on intraday liquidity and the treatment of Bankers' Acceptances (BAs). Intraday liquidity revisions affect chapters 1 and 7 of the LAR guideline. Revisions to the treatment of BAs affect chapters 3 and 4. We did not make any changes to chapters 2, 5, or 6."
+        },
+        {
+          "type": "paragraph",
+          "text": "This summer, we conducted a consultation on revisions to the guidelines and related regulatory reporting requirements. We appreciate the stakeholder engagement that occurred during this consultation. We have updated the LAR guideline in consideration of the feedback we received."
+        },
+        {
+          "type": "paragraph",
+          "text": "To allow for more industry engagement on the intraday liquidity regulatory return, we are postponing the release of the return until the spring of 2025, with a target implementation date of November 1, 2025. We are also reducing the number of institutions required to file the return by targeting only the direct clearers of Lynx, Canada’s large-value payment system."
+        },
+        {
+          "type": "paragraph",
+          "text": "Please refer to summary of stakeholder comments and our responses ."
+        },
+        {
+          "type": "paragraph",
+          "text": "Should you have any questions, please contact Adam Dolson ( adam.dolson@osfi-bsif.gc.ca ), Director, Banking Capital and Liquidity Standards Division, Risk Advisory Hub."
+        },
+        {
+          "type": "paragraph",
+          "text": "Sincerely,"
+        },
+        {
+          "type": "paragraph",
+          "text": "Amar Munipalle Executive Director, Risk Advisory Hub"
+        }
+      ]
+    }
+  ],
+  "title_normalized": "liquidity adequacy requirements guideline 2025 letter",
+  "publication_type_normalized": "letter",
+  "category_normalized": "capital_adequacy_requirements",
+  "sector_normalized": [
+    "banks",
+    "trust_and_loan_companies"
+  ],
+  "guideline_number_normalized": "",
+  "applies_to_banks": true,
+  "applies_to_trust_loan": true,
+  "applies_to_life_insurance": false,
+  "applies_to_pc_insurance": false,
+  "applies_to_foreign_bank": false,
+  "applies_to_foreign_insurance": false,
+  "applies_to_cooperative": false,
+  "applies_to_bank_holding": false,
+  "effective_date_sort_key": "2024-11-21",
+  "status_sort_key": 1,
+  "authority_sort_key": 60,
+  "bm25_text": "Liquidity Adequacy Requirements Guideline (2025) - Letter Letter Capital Adequacy Requirements Banks Trust and Loan Companies",
+  "vector_text_prefix": "[OSFI Letter  | Capital Adequacy Requirements | Banks / Trust and Loan Companies | FINAL_CURRENT | Effective 2024-11-21]",
+  "h1_title": "Liquidity Adequacy Requirements Guideline (2025) - Letter",
+  "regulator": "OSFI",
+  "regulator_acronym": "OSFI",
+  "jurisdiction": "Canada",
+  "short_title": "",
+  "source_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/liquidity-adequacy-requirements-guideline-2025-letter"
+}

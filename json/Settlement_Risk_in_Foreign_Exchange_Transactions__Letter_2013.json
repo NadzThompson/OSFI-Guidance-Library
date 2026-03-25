@@ -1,0 +1,175 @@
+{
+  "source_system": "osfi_guidance_library",
+  "library_row_title": "Settlement Risk in Foreign Exchange Transactions – Letter (2013)",
+  "library_row_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/settlement-risk-foreign-exchange-transactions-letter-2013",
+  "listing_date_raw": "June 6, 2013",
+  "listing_date_iso": "2013-06-06",
+  "listing_publication_type": "Letter",
+  "listing_category": "Sound Business and Financial Practices",
+  "listing_sector": [
+    "Banks",
+    "Trust and Loan Companies"
+  ],
+  "crawl_timestamp": "2026-03-11T00:00:00Z",
+  "detail_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/settlement-risk-foreign-exchange-transactions-letter-2013",
+  "canonical_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/settlement-risk-foreign-exchange-transactions-letter-2013",
+  "slug": "settlement-risk-foreign-exchange-transactions-letter-2013",
+  "title": "Settlement Risk in Foreign Exchange Transactions – Letter (2013)",
+  "publication_type": "Letter",
+  "category": "Sound Business and Financial Practices",
+  "document_date_raw": "June 6, 2013",
+  "document_date_iso": "2013-06-06",
+  "sector": [
+    "Banks",
+    "Trust and Loan Companies"
+  ],
+  "effective_date_text": "",
+  "guideline_number": "",
+  "date_modified_raw": "2013-06-06T12:00:00Z",
+  "generate_pdf_url": "https://www.osfi-bsif.gc.ca/en/print/pdf/node/373",
+  "pdf_node_id": 373,
+  "direct_pdf_url": "https://www.bis.org/publ/bcbs241.pdf",
+  "has_table_of_contents": true,
+  "toc_entries": [],
+  "has_related_documents": false,
+  "related_document_links_raw": [],
+  "consultation_status_text": null,
+  "consultation_status_refers_to_version": null,
+  "page_language": "en",
+  "word_count_raw_body": 225,
+  "doc_id": "osfi.settlement-risk-foreign-exchange-transactions.2013.transmittal",
+  "doc_family_id": "osfi.settlement-risk-foreign-exchange-transactions",
+  "version_id": "2013",
+  "version_label": "Settlement Risk in Foreign Exchange Transactions – Letter (2",
+  "version_sort_key": "2013-06",
+  "parent_doc_id": null,
+  "child_doc_ids": [],
+  "is_package_page": false,
+  "is_chapter_page": false,
+  "chapter_number": null,
+  "chapter_title": null,
+  "document_order_within_family": 0,
+  "supersedes_doc_id": null,
+  "superseded_by_doc_id": null,
+  "current_version_flag": true,
+  "status": "final_current",
+  "include_in_primary_corpus": false,
+  "include_in_support_corpus": true,
+  "include_in_context_corpus": false,
+  "effective_date_start": "2013-06-06",
+  "effective_date_end": null,
+  "effective_date_fye_split": false,
+  "effective_date_oct_fye": null,
+  "effective_date_dec_fye": null,
+  "is_future_effective": false,
+  "is_rescinded": false,
+  "is_draft_or_consultation": false,
+  "rescission_date": null,
+  "consultation_closing_date": null,
+  "as_of_applicability": "2026-03-23",
+  "rule_applied": "rule_5_final_current",
+  "authority_class": "official_support",
+  "authority_level": 60,
+  "nova_tier": 2,
+  "prudential_weight": 0.7,
+  "is_primary_normative": false,
+  "is_supporting_interpretive": true,
+  "is_context_only": false,
+  "document_class": "transmittal_letter",
+  "guidance_type_normalized": "letter",
+  "section_headings": [],
+  "heading_path": [
+    "Settlement Risk in Foreign Exchange Transactions – Letter (2013)"
+  ],
+  "toc_depth": 0,
+  "has_appendices": false,
+  "appendix_ids": [],
+  "has_tables": false,
+  "table_count": 0,
+  "has_footnotes": false,
+  "footnote_count": 0,
+  "inline_cross_references": [
+    "Guideline E-24 in September 2018"
+  ],
+  "quoted_external_references": [
+    "Basel Committee on Banking Supervision’s (BCBS) paper entitled Supervisory guidance for managin"
+  ],
+  "raw_html_sha256": "252106e67bcb60cade4465f4e06b15b60fde73bde1fb9321da05974c3158d834",
+  "raw_pdf_sha256": null,
+  "normalized_text_sha256": null,
+  "raw_html_path": "bronze/osfi/html/final_current/settlement-risk-foreign-exchange-transactions-letter-2013.html",
+  "normalized_md_path": "silver/osfi/md/final_current/settlement-risk-foreign-exchange-transactions-letter-2013.md",
+  "canonical_json_path": "silver/osfi/json/final_current/settlement-risk-foreign-exchange-transactions-letter-2013.json",
+  "content_source": "HTML",
+  "parser_version": "osfi-parser-v2.1.0",
+  "normalizer_version": "osfi-normalizer-v1.4.0",
+  "quality_score": 0.5,
+  "quality_flags": [
+    "thin_body_text"
+  ],
+  "download_timestamp": "2026-03-11T00:00:00Z",
+  "enriched_timestamp": "2026-03-23T09:54:00.154142Z",
+  "sections": [
+    {
+      "heading": "",
+      "heading_level": 2,
+      "full_text": "  - Settlement Risk in Foreign Exchange Transactions – Guideline (2013)\nThe June 2013 advisory on Settlement Risk in Foreign Exchange Transactions was reclassified as Guideline E-24 in September 2018. The content of the guideline is identical to that of the original advisory.\nOSFI is issuing this advisory to establish expectations with respect to the management of foreign exchange settlement risk (FXSR) by banks, bank holding companies and trust and loan companies (institutions). The basis for this advisory comes from the Basel Committee on Banking Supervision’s (BCBS) paper entitled Supervisory guidance for managing risks associated with the settlement of foreign exchange transactions (PDF) . Institutions are expected to take account of the nature, size, complexity and risk profile of their foreign exchange transactions when assessing their practices against the principles in the OSFI advisory in the course of normal compliance reviews. Institutions should develop a plan to remedy any deficiencies that come to light during their assessments. This will enable them to respond to questions that may arise when OSFI supervisors review their foreign exchange settlement risk management practices. Reviews of institutions’ practices surrounding the FXSR principles will be considered in line with the annual supervisory planning process.\nQuestions concerning the advisory should be addressed to Patrick Tobin, Capital Division, at (613) 990-1258, or by email at Patrick.Tobin@osfi-bsif.gc.ca .\nSincerely,\nMark Zelmer Assistant Superintendent Regulation Sector",
+      "content": [
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Settlement Risk in Foreign Exchange Transactions – Guideline (2013)"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "The June 2013 advisory on Settlement Risk in Foreign Exchange Transactions was reclassified as Guideline E-24 in September 2018. The content of the guideline is identical to that of the original advisory."
+        },
+        {
+          "type": "paragraph",
+          "text": "OSFI is issuing this advisory to establish expectations with respect to the management of foreign exchange settlement risk (FXSR) by banks, bank holding companies and trust and loan companies (institutions). The basis for this advisory comes from the Basel Committee on Banking Supervision’s (BCBS) paper entitled Supervisory guidance for managing risks associated with the settlement of foreign exchange transactions (PDF) . Institutions are expected to take account of the nature, size, complexity and risk profile of their foreign exchange transactions when assessing their practices against the principles in the OSFI advisory in the course of normal compliance reviews. Institutions should develop a plan to remedy any deficiencies that come to light during their assessments. This will enable them to respond to questions that may arise when OSFI supervisors review their foreign exchange settlement risk management practices. Reviews of institutions’ practices surrounding the FXSR principles will be considered in line with the annual supervisory planning process."
+        },
+        {
+          "type": "paragraph",
+          "text": "Questions concerning the advisory should be addressed to Patrick Tobin, Capital Division, at (613) 990-1258, or by email at Patrick.Tobin@osfi-bsif.gc.ca ."
+        },
+        {
+          "type": "paragraph",
+          "text": "Sincerely,"
+        },
+        {
+          "type": "paragraph",
+          "text": "Mark Zelmer Assistant Superintendent Regulation Sector"
+        }
+      ]
+    }
+  ],
+  "title_normalized": "settlement risk in foreign exchange transactions letter 2013",
+  "publication_type_normalized": "letter",
+  "category_normalized": "sound_business_and_financial_practices",
+  "sector_normalized": [
+    "banks",
+    "trust_and_loan_companies"
+  ],
+  "guideline_number_normalized": "",
+  "applies_to_banks": true,
+  "applies_to_trust_loan": true,
+  "applies_to_life_insurance": false,
+  "applies_to_pc_insurance": false,
+  "applies_to_foreign_bank": false,
+  "applies_to_foreign_insurance": false,
+  "applies_to_cooperative": false,
+  "applies_to_bank_holding": false,
+  "effective_date_sort_key": "2013-06-06",
+  "status_sort_key": 1,
+  "authority_sort_key": 60,
+  "bm25_text": "Settlement Risk in Foreign Exchange Transactions – Letter (2013) Letter Sound Business and Financial Practices Banks Trust and Loan Companies",
+  "vector_text_prefix": "[OSFI Letter  | Sound Business and Financial Practices | Banks / Trust and Loan Companies | FINAL_CURRENT | Effective 2013-06-06]",
+  "h1_title": "Settlement Risk in Foreign Exchange Transactions – Letter (2013)",
+  "regulator": "OSFI",
+  "regulator_acronym": "OSFI",
+  "jurisdiction": "Canada",
+  "short_title": "",
+  "source_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/settlement-risk-foreign-exchange-transactions-letter-2013"
+}

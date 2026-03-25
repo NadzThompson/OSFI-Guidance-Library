@@ -1,0 +1,782 @@
+{
+  "source_system": "osfi_guidance_library",
+  "library_row_title": "Parental Stand-Alone (Solo) Capital Framework for Federally Regulated Life Insurers (2025)",
+  "library_row_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/parental-stand-alone-solo-capital-framework-federally-regulated-life-insurers-2025",
+  "listing_date_raw": "Effective date January 1, 2025",
+  "listing_date_iso": "",
+  "listing_publication_type": "Guideline",
+  "listing_category": "Capital Adequacy Requirements",
+  "listing_sector": [
+    "Life Insurance and Fraternal Companies"
+  ],
+  "crawl_timestamp": "2026-03-11T00:00:00Z",
+  "detail_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/parental-stand-alone-solo-capital-framework-federally-regulated-life-insurers-2025",
+  "canonical_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/parental-stand-alone-solo-capital-framework-federally-regulated-life-insurers-2025",
+  "slug": "parental-stand-alone-solo-capital-framework-federally-regulated-life-insurers-2025",
+  "title": "Parental Stand-Alone (Solo) Capital Framework for Federally Regulated Life Insurers (2025)",
+  "publication_type": "Guideline",
+  "category": "Capital Adequacy Requirements",
+  "document_date_raw": "Effective date January 1, 2025",
+  "document_date_iso": "",
+  "sector": [
+    "Life Insurance and Fraternal Companies"
+  ],
+  "effective_date_text": "Effective date January 1, 2025",
+  "guideline_number": "",
+  "date_modified_raw": "2024-11-21T12:00:00Z",
+  "generate_pdf_url": null,
+  "pdf_node_id": null,
+  "direct_pdf_url": null,
+  "has_table_of_contents": true,
+  "toc_entries": [],
+  "has_related_documents": false,
+  "related_document_links_raw": [],
+  "consultation_status_text": null,
+  "consultation_status_refers_to_version": null,
+  "page_language": "en",
+  "word_count_raw_body": 4119,
+  "doc_id": "osfi.parental-stand-alone-solo-capital-framework-federa.2025.standalone",
+  "doc_family_id": "osfi.parental-stand-alone-solo-capital-framework-federa",
+  "version_id": "2025",
+  "version_label": "Parental Stand-Alone (Solo) Capital Framework for Federally ",
+  "version_sort_key": "2025-01",
+  "parent_doc_id": null,
+  "child_doc_ids": [],
+  "is_package_page": false,
+  "is_chapter_page": false,
+  "chapter_number": null,
+  "chapter_title": null,
+  "document_order_within_family": 0,
+  "supersedes_doc_id": null,
+  "superseded_by_doc_id": null,
+  "current_version_flag": true,
+  "status": "final_current",
+  "include_in_primary_corpus": true,
+  "include_in_support_corpus": false,
+  "include_in_context_corpus": false,
+  "effective_date_start": "2025-01-01",
+  "effective_date_end": null,
+  "effective_date_fye_split": false,
+  "effective_date_oct_fye": null,
+  "effective_date_dec_fye": null,
+  "is_future_effective": false,
+  "is_rescinded": false,
+  "is_draft_or_consultation": false,
+  "rescission_date": null,
+  "consultation_closing_date": null,
+  "as_of_applicability": "2026-03-23",
+  "rule_applied": "rule_5_final_current",
+  "authority_class": "primary_normative",
+  "authority_level": 100,
+  "nova_tier": 1,
+  "prudential_weight": 1.0,
+  "is_primary_normative": true,
+  "is_supporting_interpretive": false,
+  "is_context_only": false,
+  "document_class": "standalone_guideline",
+  "guidance_type_normalized": "guideline",
+  "section_headings": [
+    {
+      "level": 2,
+      "text": "I. Overview",
+      "id": "h2-0"
+    },
+    {
+      "level": 2,
+      "text": "II. Scope of application",
+      "id": "h2-1"
+    },
+    {
+      "level": 2,
+      "text": "III. Calculation of solo capital",
+      "id": "h2-2"
+    },
+    {
+      "level": 2,
+      "text": "IV. Minimum solo capital ratio",
+      "id": "h2-3"
+    },
+    {
+      "level": 2,
+      "text": "V. Parental stand-alone capital (numerator)",
+      "id": "h2-4"
+    },
+    {
+      "level": 3,
+      "text": "A. Non-parental surplus allowance and eligible deposits",
+      "id": "h3-5"
+    },
+    {
+      "level": 3,
+      "text": "B. Capital issued by consolidated subsidiaries to third party investors",
+      "id": "h3-6"
+    },
+    {
+      "level": 3,
+      "text": "C. Foreign regulated subsidiaries that are outside the scope of consolidation for regulatory capital purposes Footnote 5",
+      "id": "h3-7"
+    },
+    {
+      "level": 3,
+      "text": "D. Vested assets in foreign branches",
+      "id": "h3-8"
+    },
+    {
+      "level": 3,
+      "text": "E. Non-regulated subsidiaries",
+      "id": "h3-9"
+    },
+    {
+      "level": 2,
+      "text": "VI. Parental Base Solvency Buffer (BSB) (denominator)",
+      "id": "h2-10"
+    },
+    {
+      "level": 3,
+      "text": "A. Subsidiaries regulated by a foreign authority that are consolidated for regulatory purposes",
+      "id": "h3-11"
+    },
+    {
+      "level": 3,
+      "text": "B. Branches regulated by a foreign authority that are consolidated for regulatory purposes",
+      "id": "h3-12"
+    },
+    {
+      "level": 3,
+      "text": "C. Parental guarantees",
+      "id": "h3-13"
+    },
+    {
+      "level": 2,
+      "text": "Footnotes",
+      "id": "h2-14"
+    }
+  ],
+  "heading_path": [
+    "Parental Stand-Alone (Solo) Capital Framework for Federally Regulated Life Insurers (2025)"
+  ],
+  "toc_depth": 3,
+  "has_appendices": false,
+  "appendix_ids": [],
+  "has_tables": true,
+  "table_count": 1,
+  "has_footnotes": true,
+  "footnote_count": 1,
+  "inline_cross_references": [
+    "Guideline A-4 Regulatory Capital and Internal Capital Targets"
+  ],
+  "quoted_external_references": [],
+  "raw_html_sha256": "0172e4849ffd96560e988f431221f8fa0093a6b91fee188fcc9aa9cd17705bd7",
+  "raw_pdf_sha256": null,
+  "normalized_text_sha256": null,
+  "raw_html_path": "bronze/osfi/html/final_current/parental-stand-alone-solo-capital-framework-federally-regulated-life-insurers-2025.html",
+  "normalized_md_path": "silver/osfi/md/final_current/parental-stand-alone-solo-capital-framework-federally-regulated-life-insurers-2025.md",
+  "canonical_json_path": "silver/osfi/json/final_current/parental-stand-alone-solo-capital-framework-federally-regulated-life-insurers-2025.json",
+  "content_source": "HTML",
+  "parser_version": "osfi-parser-v2.1.0",
+  "normalizer_version": "osfi-normalizer-v1.4.0",
+  "quality_score": 1.0,
+  "quality_flags": [],
+  "download_timestamp": "2026-03-11T00:00:00Z",
+  "enriched_timestamp": "2026-03-23T09:53:58.414929Z",
+  "sections": [
+    {
+      "heading": "",
+      "heading_level": 2,
+      "full_text": "Subsection 515(1) of the Insurance Companies Act (ICA) requires federally regulated life insurance companies to maintain adequate capital to absorb losses. The purpose of the Parental Stand-Alone (Solo) capital framework is to ensure a non-viable life insurer Footnote 1 has sufficient loss absorbing capacity on a stand-alone, or solo, legal entity basis to support its resolution. This would, in turn, facilitate an orderly resolution of the life insurer while minimizing adverse impacts on the stability of the financial sector.\nThis guideline is not made pursuant to subsection 515(2) of the ICA. However, the standards set out in this guideline together with the requirements set out in the Life Insurance Capital Adequacy Test Guideline (LICAT) and Guideline A-4 Regulatory Capital and Internal Capital Targets , provide the framework within which the Superintendent will assess whether a life insurer maintains its minimum capacity to absorb losses pursuant to the ICA.\nFor this purpose, the Superintendent has established the risk-based Solo Capital ratio, which builds on the risk-based Total Ratio set out in the Life Insurance Capital Adequacy Test Guideline.\nThe risk-based Solo capital ratio will be the primary basis used by OSFI to assess the sufficiency of capital that is readily available to the domestic parent insurer and to assess the parent's ability to act as a source of strength for its subsidiaries and/or other affiliates.\nLife insurers are required to apply this guideline beginning on January 1, 2025.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Subsection 515(1) of the Insurance Companies Act (ICA) requires federally regulated life insurance companies to maintain adequate capital to absorb losses. The purpose of the Parental Stand-Alone (Solo) capital framework is to ensure a non-viable life insurer Footnote 1 has sufficient loss absorbing capacity on a stand-alone, or solo, legal entity basis to support its resolution. This would, in turn, facilitate an orderly resolution of the life insurer while minimizing adverse impacts on the stability of the financial sector."
+        },
+        {
+          "type": "paragraph",
+          "text": "This guideline is not made pursuant to subsection 515(2) of the ICA. However, the standards set out in this guideline together with the requirements set out in the Life Insurance Capital Adequacy Test Guideline (LICAT) and Guideline A-4 Regulatory Capital and Internal Capital Targets , provide the framework within which the Superintendent will assess whether a life insurer maintains its minimum capacity to absorb losses pursuant to the ICA."
+        },
+        {
+          "type": "paragraph",
+          "text": "For this purpose, the Superintendent has established the risk-based Solo Capital ratio, which builds on the risk-based Total Ratio set out in the Life Insurance Capital Adequacy Test Guideline."
+        },
+        {
+          "type": "paragraph",
+          "text": "The risk-based Solo capital ratio will be the primary basis used by OSFI to assess the sufficiency of capital that is readily available to the domestic parent insurer and to assess the parent's ability to act as a source of strength for its subsidiaries and/or other affiliates."
+        },
+        {
+          "type": "paragraph",
+          "text": "Life insurers are required to apply this guideline beginning on January 1, 2025."
+        }
+      ]
+    },
+    {
+      "heading": "I. Overview",
+      "heading_level": 2,
+      "full_text": "  1. The objective of this framework is to measure the sufficiency of capital that is readily available to a domestic parent operating life insurer on a standalone, or solo, legal entity basis and to assess the parent's ability to act as a source of strength for its subsidiaries and/or other affiliates. An appropriate amount of capital should be readily available to the parent insurer in times of stress. Under such circumstances, insurance groups are better positioned to recover from stress and to be resolved in a manner that protects policyholders, depositors, and senior creditors while contributing to financial stability.\nThe objective of this framework is to measure the sufficiency of capital that is readily available to a domestic parent operating life insurer on a standalone, or solo, legal entity basis and to assess the parent's ability to act as a source of strength for its subsidiaries and/or other affiliates. An appropriate amount of capital should be readily available to the parent insurer in times of stress. Under such circumstances, insurance groups are better positioned to recover from stress and to be resolved in a manner that protects policyholders, depositors, and senior creditors while contributing to financial stability.",
+      "content": [
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "The objective of this framework is to measure the sufficiency of capital that is readily available to a domestic parent operating life insurer on a standalone, or solo, legal entity basis and to assess the parent's ability to act as a source of strength for its subsidiaries and/or other affiliates. An appropriate amount of capital should be readily available to the parent insurer in times of stress. Under such circumstances, insurance groups are better positioned to recover from stress and to be resolved in a manner that protects policyholders, depositors, and senior creditors while contributing to financial stability."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "The objective of this framework is to measure the sufficiency of capital that is readily available to a domestic parent operating life insurer on a standalone, or solo, legal entity basis and to assess the parent's ability to act as a source of strength for its subsidiaries and/or other affiliates. An appropriate amount of capital should be readily available to the parent insurer in times of stress. Under such circumstances, insurance groups are better positioned to recover from stress and to be resolved in a manner that protects policyholders, depositors, and senior creditors while contributing to financial stability."
+        }
+      ]
+    },
+    {
+      "heading": "II. Scope of application",
+      "heading_level": 2,
+      "full_text": "  1. The Solo Capital guideline applies to all life insurers designated by OSFI as Internationally-Active Insurance Groups (IAIGs) . The domestic parent life insurer is the Canadian legal entity incorporated or continued under the Insurance Companies Act that is both an operating entity and the parent of the consolidated insurance group.\nThe Solo Capital guideline applies to all life insurers designated by OSFI as Internationally-Active Insurance Groups (IAIGs) . The domestic parent life insurer is the Canadian legal entity incorporated or continued under the Insurance Companies Act that is both an operating entity and the parent of the consolidated insurance group.",
+      "content": [
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "The Solo Capital guideline applies to all life insurers designated by OSFI as Internationally-Active Insurance Groups (IAIGs) . The domestic parent life insurer is the Canadian legal entity incorporated or continued under the Insurance Companies Act that is both an operating entity and the parent of the consolidated insurance group."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "The Solo Capital guideline applies to all life insurers designated by OSFI as Internationally-Active Insurance Groups (IAIGs) . The domestic parent life insurer is the Canadian legal entity incorporated or continued under the Insurance Companies Act that is both an operating entity and the parent of the consolidated insurance group."
+        }
+      ]
+    },
+    {
+      "heading": "III. Calculation of solo capital",
+      "heading_level": 2,
+      "full_text": "  1. The Solo capital ratio is calculated by dividing the sum of Solo Available Capital (AC) + Solo Surplus Allowance (SA) + Solo Eligible Deposits (ED) by the Parental Base Solvency Buffer (BSB) with this ratio expressed as a percentage: Solo capital ratio = Solo AC + Solo SA + Solo ED Parental Base Solvency Buffer\nThe Solo capital ratio is calculated by dividing the sum of Solo Available Capital (AC) + Solo Surplus Allowance (SA) + Solo Eligible Deposits (ED) by the Parental Base Solvency Buffer (BSB) with this ratio expressed as a percentage:",
+      "content": [
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "The Solo capital ratio is calculated by dividing the sum of Solo Available Capital (AC) + Solo Surplus Allowance (SA) + Solo Eligible Deposits (ED) by the Parental Base Solvency Buffer (BSB) with this ratio expressed as a percentage: Solo capital ratio = Solo AC + Solo SA + Solo ED Parental Base Solvency Buffer"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "The Solo capital ratio is calculated by dividing the sum of Solo Available Capital (AC) + Solo Surplus Allowance (SA) + Solo Eligible Deposits (ED) by the Parental Base Solvency Buffer (BSB) with this ratio expressed as a percentage:"
+        }
+      ]
+    },
+    {
+      "heading": "IV. Minimum solo capital ratio",
+      "heading_level": 2,
+      "full_text": "  1. Life insurers must maintain a minimum Solo capital ratio of 100% Footnote 2 . Life insurers are expected to meet the minimum capital requirements on a continuous basis.\nLife insurers must maintain a minimum Solo capital ratio of 100% Footnote 2 . Life insurers are expected to meet the minimum capital requirements on a continuous basis.",
+      "content": [
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "Life insurers must maintain a minimum Solo capital ratio of 100% Footnote 2 . Life insurers are expected to meet the minimum capital requirements on a continuous basis."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Life insurers must maintain a minimum Solo capital ratio of 100% Footnote 2 . Life insurers are expected to meet the minimum capital requirements on a continuous basis."
+        }
+      ]
+    },
+    {
+      "heading": "V. Parental stand-alone capital (numerator)",
+      "heading_level": 2,
+      "full_text": "  1. The numerator of the Solo capital ratio is equal to the numerator of the Total Ratio of the life insurer as calculated on a group consolidated basis under OSFI's LICAT Guideline, subject to the following adjustments:\nThe numerator of the Solo capital ratio is equal to the numerator of the Total Ratio of the life insurer as calculated on a group consolidated basis under OSFI's LICAT Guideline, subject to the following adjustments:",
+      "content": [
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "The numerator of the Solo capital ratio is equal to the numerator of the Total Ratio of the life insurer as calculated on a group consolidated basis under OSFI's LICAT Guideline, subject to the following adjustments:"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "The numerator of the Solo capital ratio is equal to the numerator of the Total Ratio of the life insurer as calculated on a group consolidated basis under OSFI's LICAT Guideline, subject to the following adjustments:"
+        }
+      ]
+    },
+    {
+      "heading": "A. Non-parental surplus allowance and eligible deposits",
+      "heading_level": 3,
+      "full_text": "  1. Surplus Allowance and Eligible Deposits arising from subsidiaries that are regulated by a foreign regulatory body Footnote 3 , and from foreign branches Footnote 4 , are excluded. However, all contractual service margins (CSM) continue to be included.\nSurplus Allowance and Eligible Deposits arising from subsidiaries that are regulated by a foreign regulatory body Footnote 3 , and from foreign branches Footnote 4 , are excluded. However, all contractual service margins (CSM) continue to be included.",
+      "content": [
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "Surplus Allowance and Eligible Deposits arising from subsidiaries that are regulated by a foreign regulatory body Footnote 3 , and from foreign branches Footnote 4 , are excluded. However, all contractual service margins (CSM) continue to be included."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Surplus Allowance and Eligible Deposits arising from subsidiaries that are regulated by a foreign regulatory body Footnote 3 , and from foreign branches Footnote 4 , are excluded. However, all contractual service margins (CSM) continue to be included."
+        }
+      ]
+    },
+    {
+      "heading": "B. Capital issued by consolidated subsidiaries to third party investors",
+      "heading_level": 3,
+      "full_text": "  1. Insurers should fully deduct any capital instruments issued by consolidated subsidiaries to third parties, including non-controlling interests that qualify as capital under the LICAT guideline. The deduction is equal to the amount of Tier 1 and Tier 2 capital instruments issued by subsidiaries and held by third-party investors (including CSM) that meet the LICAT eligibility criteria for inclusion in Available Capital.\nInsurers should fully deduct any capital instruments issued by consolidated subsidiaries to third parties, including non-controlling interests that qualify as capital under the LICAT guideline. The deduction is equal to the amount of Tier 1 and Tier 2 capital instruments issued by subsidiaries and held by third-party investors (including CSM) that meet the LICAT eligibility criteria for inclusion in Available Capital.",
+      "content": [
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "Insurers should fully deduct any capital instruments issued by consolidated subsidiaries to third parties, including non-controlling interests that qualify as capital under the LICAT guideline. The deduction is equal to the amount of Tier 1 and Tier 2 capital instruments issued by subsidiaries and held by third-party investors (including CSM) that meet the LICAT eligibility criteria for inclusion in Available Capital."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Insurers should fully deduct any capital instruments issued by consolidated subsidiaries to third parties, including non-controlling interests that qualify as capital under the LICAT guideline. The deduction is equal to the amount of Tier 1 and Tier 2 capital instruments issued by subsidiaries and held by third-party investors (including CSM) that meet the LICAT eligibility criteria for inclusion in Available Capital."
+        }
+      ]
+    },
+    {
+      "heading": "C. Foreign regulated subsidiaries that are outside the scope of consolidation for regulatory capital purposes Footnote 5",
+      "heading_level": 3,
+      "full_text": "  1. Deductions from capital of investments in foreign regulated subsidiaries that are outside the scope of consolidation and that are regulated by an authority other than OSFI, including non-life solvency regulated financial corporations, made pursuant to sections 2.1.2.7 and 2.2.3.2 of the LICAT Guideline should be reversed and subject to the treatment described in paragraph 12 of this Guideline.\nDeductions from capital of investments in foreign regulated subsidiaries that are outside the scope of consolidation and that are regulated by an authority other than OSFI, including non-life solvency regulated financial corporations, made pursuant to sections 2.1.2.7 and 2.2.3.2 of the LICAT Guideline should be reversed and subject to the treatment described in paragraph 12 of this Guideline.",
+      "content": [
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "Deductions from capital of investments in foreign regulated subsidiaries that are outside the scope of consolidation and that are regulated by an authority other than OSFI, including non-life solvency regulated financial corporations, made pursuant to sections 2.1.2.7 and 2.2.3.2 of the LICAT Guideline should be reversed and subject to the treatment described in paragraph 12 of this Guideline."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Deductions from capital of investments in foreign regulated subsidiaries that are outside the scope of consolidation and that are regulated by an authority other than OSFI, including non-life solvency regulated financial corporations, made pursuant to sections 2.1.2.7 and 2.2.3.2 of the LICAT Guideline should be reversed and subject to the treatment described in paragraph 12 of this Guideline."
+        }
+      ]
+    },
+    {
+      "heading": "D. Vested assets in foreign branches",
+      "heading_level": 3,
+      "full_text": "  1. For each foreign branch, insurers should deduct vested assets in excess of the branch's third-party liabilities. Vested assets are assets that cannot be accessed without regulatory approval (e.g. deposits in trust, capital equivalency deposits, asset maintenance requirements, etc.). Third-party liabilities of a branch are those liabilities of the branch that arise from obligations to third parties (i.e. liabilities that are not eliminated upon consolidation).\nFor each foreign branch, insurers should deduct vested assets in excess of the branch's third-party liabilities. Vested assets are assets that cannot be accessed without regulatory approval (e.g. deposits in trust, capital equivalency deposits, asset maintenance requirements, etc.). Third-party liabilities of a branch are those liabilities of the branch that arise from obligations to third parties (i.e. liabilities that are not eliminated upon consolidation).",
+      "content": [
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "For each foreign branch, insurers should deduct vested assets in excess of the branch's third-party liabilities. Vested assets are assets that cannot be accessed without regulatory approval (e.g. deposits in trust, capital equivalency deposits, asset maintenance requirements, etc.). Third-party liabilities of a branch are those liabilities of the branch that arise from obligations to third parties (i.e. liabilities that are not eliminated upon consolidation)."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "For each foreign branch, insurers should deduct vested assets in excess of the branch's third-party liabilities. Vested assets are assets that cannot be accessed without regulatory approval (e.g. deposits in trust, capital equivalency deposits, asset maintenance requirements, etc.). Third-party liabilities of a branch are those liabilities of the branch that arise from obligations to third parties (i.e. liabilities that are not eliminated upon consolidation)."
+        }
+      ]
+    },
+    {
+      "heading": "E. Non-regulated subsidiaries",
+      "heading_level": 3,
+      "full_text": "  1. Insurers should deduct any amount of capital in a non-regulated subsidiary that is required to be maintained for non-regulatory purposes (e.g. capital needed to meet a thin capitalization requirement under tax laws, or to fulfil a third party net worth covenant).\nInsurers should deduct any amount of capital in a non-regulated subsidiary that is required to be maintained for non-regulatory purposes (e.g. capital needed to meet a thin capitalization requirement under tax laws, or to fulfil a third party net worth covenant).",
+      "content": [
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "Insurers should deduct any amount of capital in a non-regulated subsidiary that is required to be maintained for non-regulatory purposes (e.g. capital needed to meet a thin capitalization requirement under tax laws, or to fulfil a third party net worth covenant)."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Insurers should deduct any amount of capital in a non-regulated subsidiary that is required to be maintained for non-regulatory purposes (e.g. capital needed to meet a thin capitalization requirement under tax laws, or to fulfil a third party net worth covenant)."
+        }
+      ]
+    },
+    {
+      "heading": "VI. Parental Base Solvency Buffer (BSB) (denominator)",
+      "heading_level": 2,
+      "full_text": "  1. The denominator of the Solo capital ratio is calculated for the combined entity that includes the parent legal entity (excluding investments in foreign-regulated subsidiaries and foreign branches), OSFI-regulated subsidiaries and provincially regulated subsidiaries. The denominator is calculated by first calculating the LICAT BSB for the combined entity, and then adding the amounts specified below.\nThe denominator of the Solo capital ratio is calculated for the combined entity that includes the parent legal entity (excluding investments in foreign-regulated subsidiaries and foreign branches), OSFI-regulated subsidiaries and provincially regulated subsidiaries. The denominator is calculated by first calculating the LICAT BSB for the combined entity, and then adding the amounts specified below.",
+      "content": [
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "The denominator of the Solo capital ratio is calculated for the combined entity that includes the parent legal entity (excluding investments in foreign-regulated subsidiaries and foreign branches), OSFI-regulated subsidiaries and provincially regulated subsidiaries. The denominator is calculated by first calculating the LICAT BSB for the combined entity, and then adding the amounts specified below."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "The denominator of the Solo capital ratio is calculated for the combined entity that includes the parent legal entity (excluding investments in foreign-regulated subsidiaries and foreign branches), OSFI-regulated subsidiaries and provincially regulated subsidiaries. The denominator is calculated by first calculating the LICAT BSB for the combined entity, and then adding the amounts specified below."
+        }
+      ]
+    },
+    {
+      "heading": "A. Subsidiaries regulated by a foreign authority that are consolidated for regulatory purposes",
+      "heading_level": 3,
+      "full_text": "  1. For each foreign-regulated subsidiary Footnote 6 , insurers should add 70% of the parent insurer's exposure to the subsidiary to the denominator. The exposure Footnote 7 is the sum of the following items: the value of the parent's investment in the subsidiary computed using the equity method of accounting as per International Financial Reporting Standards (IFRS); Subordinated debt and other capital elements issued by the subsidiary to the parent; CSM Footnote 8 associated with the foreign-regulated subsidiary; the amount that the parent insurer could be required to pay out under capital guarantees provided to the subsidiary as described under paragraph 14.\nFor each foreign-regulated subsidiary Footnote 6 , insurers should add 70% of the parent insurer's exposure to the subsidiary to the denominator. The exposure Footnote 7 is the sum of the following items:\n  1. the value of the parent's investment in the subsidiary computed using the equity method of accounting as per International Financial Reporting Standards (IFRS);\n  2. Subordinated debt and other capital elements issued by the subsidiary to the parent;\n  3. CSM Footnote 8 associated with the foreign-regulated subsidiary;\n  4. the amount that the parent insurer could be required to pay out under capital guarantees provided to the subsidiary as described under paragraph 14.\nthe value of the parent's investment in the subsidiary computed using the equity method of accounting as per International Financial Reporting Standards (IFRS);\nSubordinated debt and other capital elements issued by the subsidiary to the parent;\nCSM Footnote 8 associated with the foreign-regulated subsidiary;\nthe amount that the parent insurer could be required to pay out under capital guarantees provided to the subsidiary as described under paragraph 14.",
+      "content": [
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "For each foreign-regulated subsidiary Footnote 6 , insurers should add 70% of the parent insurer's exposure to the subsidiary to the denominator. The exposure Footnote 7 is the sum of the following items: the value of the parent's investment in the subsidiary computed using the equity method of accounting as per International Financial Reporting Standards (IFRS); Subordinated debt and other capital elements issued by the subsidiary to the parent; CSM Footnote 8 associated with the foreign-regulated subsidiary; the amount that the parent insurer could be required to pay out under capital guarantees provided to the subsidiary as described under paragraph 14."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "For each foreign-regulated subsidiary Footnote 6 , insurers should add 70% of the parent insurer's exposure to the subsidiary to the denominator. The exposure Footnote 7 is the sum of the following items:"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "the value of the parent's investment in the subsidiary computed using the equity method of accounting as per International Financial Reporting Standards (IFRS);",
+            "Subordinated debt and other capital elements issued by the subsidiary to the parent;",
+            "CSM Footnote 8 associated with the foreign-regulated subsidiary;",
+            "the amount that the parent insurer could be required to pay out under capital guarantees provided to the subsidiary as described under paragraph 14."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "the value of the parent's investment in the subsidiary computed using the equity method of accounting as per International Financial Reporting Standards (IFRS);"
+        },
+        {
+          "type": "paragraph",
+          "text": "Subordinated debt and other capital elements issued by the subsidiary to the parent;"
+        },
+        {
+          "type": "paragraph",
+          "text": "CSM Footnote 8 associated with the foreign-regulated subsidiary;"
+        },
+        {
+          "type": "paragraph",
+          "text": "the amount that the parent insurer could be required to pay out under capital guarantees provided to the subsidiary as described under paragraph 14."
+        }
+      ]
+    },
+    {
+      "heading": "B. Branches regulated by a foreign authority that are consolidated for regulatory purposes",
+      "heading_level": 3,
+      "full_text": "  1. Insurers should add 65% of the parent insurer's exposure to its foreign branches to the denominator. The exposure is calculated as the absolute value of the difference between the following items: Total Assets, net of deductions already applied to Available Capital pursuant to the LICAT Guideline, assets arising from intra-group reinsurance arrangements, and all other assets arising from intra-group transactions Footnote 9 , across all foreign branches. Total Assets refers to the aggregate assets reported on the stand-alone balance sheet of the branch; and Total Third-party liabilities across all foreign branches, excluding CSM Footnote 10 . Third-party liabilities refer to those liabilities that are not eliminated upon accounting consolidation.\nInsurers should add 65% of the parent insurer's exposure to its foreign branches to the denominator. The exposure is calculated as the absolute value of the difference between the following items:\n  1. Total Assets, net of deductions already applied to Available Capital pursuant to the LICAT Guideline, assets arising from intra-group reinsurance arrangements, and all other assets arising from intra-group transactions Footnote 9 , across all foreign branches. Total Assets refers to the aggregate assets reported on the stand-alone balance sheet of the branch; and\n  2. Total Third-party liabilities across all foreign branches, excluding CSM Footnote 10 . Third-party liabilities refer to those liabilities that are not eliminated upon accounting consolidation.\nTotal Assets, net of deductions already applied to Available Capital pursuant to the LICAT Guideline, assets arising from intra-group reinsurance arrangements, and all other assets arising from intra-group transactions Footnote 9 , across all foreign branches. Total Assets refers to the aggregate assets reported on the stand-alone balance sheet of the branch; and\nTotal Third-party liabilities across all foreign branches, excluding CSM Footnote 10 . Third-party liabilities refer to those liabilities that are not eliminated upon accounting consolidation.",
+      "content": [
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "Insurers should add 65% of the parent insurer's exposure to its foreign branches to the denominator. The exposure is calculated as the absolute value of the difference between the following items: Total Assets, net of deductions already applied to Available Capital pursuant to the LICAT Guideline, assets arising from intra-group reinsurance arrangements, and all other assets arising from intra-group transactions Footnote 9 , across all foreign branches. Total Assets refers to the aggregate assets reported on the stand-alone balance sheet of the branch; and Total Third-party liabilities across all foreign branches, excluding CSM Footnote 10 . Third-party liabilities refer to those liabilities that are not eliminated upon accounting consolidation."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Insurers should add 65% of the parent insurer's exposure to its foreign branches to the denominator. The exposure is calculated as the absolute value of the difference between the following items:"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "Total Assets, net of deductions already applied to Available Capital pursuant to the LICAT Guideline, assets arising from intra-group reinsurance arrangements, and all other assets arising from intra-group transactions Footnote 9 , across all foreign branches. Total Assets refers to the aggregate assets reported on the stand-alone balance sheet of the branch; and",
+            "Total Third-party liabilities across all foreign branches, excluding CSM Footnote 10 . Third-party liabilities refer to those liabilities that are not eliminated upon accounting consolidation."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Total Assets, net of deductions already applied to Available Capital pursuant to the LICAT Guideline, assets arising from intra-group reinsurance arrangements, and all other assets arising from intra-group transactions Footnote 9 , across all foreign branches. Total Assets refers to the aggregate assets reported on the stand-alone balance sheet of the branch; and"
+        },
+        {
+          "type": "paragraph",
+          "text": "Total Third-party liabilities across all foreign branches, excluding CSM Footnote 10 . Third-party liabilities refer to those liabilities that are not eliminated upon accounting consolidation."
+        }
+      ]
+    },
+    {
+      "heading": "C. Parental guarantees",
+      "heading_level": 3,
+      "full_text": "  1. Capital guarantees Footnote 11 can either directly guarantee issuances of capital instruments (e.g. subordinated debt, preferred shares, or common shares) by subsidiaries to third-parties, or they can be structured in the form of a capital maintenance agreement (CMA), formalizing the actions or intentions the parent will take to maintain the subsidiary's capital at or above a certain level. Capital guarantees provided by the parent insurer to its subsidiaries are treated as a direct capital investment under this guideline. The amount that should be used for the exposure in paragraph 12(d) for a CMA is equal to the minimum amount of capital that is required to be invested under the CMA assuming the subsidiary is holding zero capital and, for a capital instrument guarantee, it is equal to the maximum amount that is payable under the guarantee.\n  2. Non-capital guarantees consist of guarantees that provide any form of indemnification to third parties Footnote 12 and that are not included in the definition of capital guarantees under paragraph 14. Exposures to non-capital guarantees should be multiplied by the applicable credit risk factors in Table 1 and added to the denominator. For non-capital guarantees related to policyholder claims, the exposure amount is the present value of the unbiased, probability-weighted estimate of future cash flows under IFRS 17. For all other non-capital guarantees, the exposure amount is the outstanding exposure of the parent insurer under the guarantee. Footnote 13 The exposure amount for lines of credit and letters of credit is equal to the amount of the undrawn portion. The drawn portion of a line of credit is not subject to any requirements.\n  3. Insurers should use a long-term standalone credit rating for the subsidiary provided by a rating agency that is recognized under LICAT section 3.1.1, and that meets all the other conditions in this section for the use of ratings. The standalone rating should be adjusted to exclude any uplift due to explicit or implicit parental support from the subsidiary's parent or affiliates.\nCapital guarantees Footnote 11 can either directly guarantee issuances of capital instruments (e.g. subordinated debt, preferred shares, or common shares) by subsidiaries to third-parties, or they can be structured in the form of a capital maintenance agreement (CMA), formalizing the actions or intentions the parent will take to maintain the subsidiary's capital at or above a certain level. Capital guarantees provided by the parent insurer to its subsidiaries are treated as a direct capital investment under this guideline. The amount that should be used for the exposure in paragraph 12(d) for a CMA is equal to the minimum amount of capital that is required to be invested under the CMA assuming the subsidiary is holding zero capital and, for a capital instrument guarantee, it is equal to the maximum amount that is payable under the guarantee.\nNon-capital guarantees consist of guarantees that provide any form of indemnification to third parties Footnote 12 and that are not included in the definition of capital guarantees under paragraph 14. Exposures to non-capital guarantees should be multiplied by the applicable credit risk factors in Table 1 and added to the denominator. For non-capital guarantees related to policyholder claims, the exposure amount is the present value of the unbiased, probability-weighted estimate of future cash flows under IFRS 17. For all other non-capital guarantees, the exposure amount is the outstanding exposure of the parent insurer under the guarantee. Footnote 13 The exposure amount for lines of credit and letters of credit is equal to the amount of the undrawn portion. The drawn portion of a line of credit is not subject to any requirements.\nInsurers should use a long-term standalone credit rating for the subsidiary provided by a rating agency that is recognized under LICAT section 3.1.1, and that meets all the other conditions in this section for the use of ratings. The standalone rating should be adjusted to exclude any uplift due to explicit or implicit parental support from the subsidiary's parent or affiliates.\nTable: Table 1: Credit Risk Factors by Rating and Effective Maturity\nRating Category Table 1 footnote * | Effective Maturity in Years\n1 | 2 | 3 | 4 | 5 | 10\nAAA | 0.25% | 0.25% | 0.50% | 0.50% | 1.00% | 1.25%\nAA | 0.25% | 0.50% | 0.75% | 1.00% | 1.25% | 1.75%\nA | 0.75% | 1.00% | 1.50% | 1.75% | 2.00% | 3.00%\nBBB | 1.50% | 2.75% | 3.25% | 3.75% | 4.00% | 4.75%\nBB | 3.75% | 6.00% | 7.25% | 7.75% | 8.00% | 8.00%\nB | 7.50% | 10.00% | 10.50% | 10.50% | 10.50% | 10.50%\nLower than B | 15.50% | 18.00% | 18.00% | 18.00% | 18.00% | 18.00%\nTable 1 footnotes Table 1 footnote * Refer to Appendix 3-A in the LICAT Guideline for a table showing equivalent ratings from DBRS, Moody's, S&P, KBRA, JCR, and R&I. Return to table 1 footnote * referrer\nTable 1 footnotes Table 1 footnote * Refer to Appendix 3-A in the LICAT Guideline for a table showing equivalent ratings from DBRS, Moody's, S&P, KBRA, JCR, and R&I. Return to table 1 footnote * referrer\nTable 1 footnotes\nRefer to Appendix 3-A in the LICAT Guideline for a table showing equivalent ratings from DBRS, Moody's, S&P, KBRA, JCR, and R&I.\nReturn to table 1 footnote * referrer\n  1. Insurers should apply a 6% risk factor to the relevant non-capital guarantee exposure amount of any subsidiary for which it is not possible to infer a rating under section 3.1.1 of the LICAT guideline.\n  2. Guarantees provided to OSFI-regulated subsidiaries and provincially regulated subsidiaries are excluded from the calculation of the parental BSB.\n  3. Undrawn lines of credit whose cancellation is not subject to specific conditions or notice periods, or that are unconditionally cancellable at any time (e.g. without a required notice period) may be excluded from the computation of the parental BSB.\n  4. In the case of a non-capital guarantee where the exposure guaranteed is an obligation of a subsidiary arising from a collateralized securities lending (borrowing) agreement (or obligations arising from repo-style transactions) with a third party, life insurers can recognize the collateral provided by the subsidiary to the third party to calculate the amount covered under the guarantee. In these cases, a life insurer may calculate the exposure amount using the approach set out in section 3.2.3 of the LICAT guideline.\nInsurers should apply a 6% risk factor to the relevant non-capital guarantee exposure amount of any subsidiary for which it is not possible to infer a rating under section 3.1.1 of the LICAT guideline.\nGuarantees provided to OSFI-regulated subsidiaries and provincially regulated subsidiaries are excluded from the calculation of the parental BSB.\nUndrawn lines of credit whose cancellation is not subject to specific conditions or notice periods, or that are unconditionally cancellable at any time (e.g. without a required notice period) may be excluded from the computation of the parental BSB.\nIn the case of a non-capital guarantee where the exposure guaranteed is an obligation of a subsidiary arising from a collateralized securities lending (borrowing) agreement (or obligations arising from repo-style transactions) with a third party, life insurers can recognize the collateral provided by the subsidiary to the third party to calculate the amount covered under the guarantee. In these cases, a life insurer may calculate the exposure amount using the approach set out in section 3.2.3 of the LICAT guideline.\n[Note: Footnotes Footnote 1 For the purposes of this guideline, \"life insurers\" or \"insurers\" refer to OSFI-regulated domestic life insurers that are designated by OSFI as internationally active insurance groups (Life IAIGs). Return to footnote 1 referrer Footnote 2 The Superintendent may, on a case-by-case basis, establish a higher supervisory target based on an insurer's individual risk profile. Return to footnote 2 referrer Footnote 3 \"Regulated\" means that the regulatory body has imposed capital adequacy requirements, solvency requirements, or minimum working capital requirements to protect policyholders, general creditors, or depositors. Return to footnote 3 referrer Footnote 4 \"Foreign branches\" refers to all foreign branches, agencies, and representative offices of the parent insurer. Return to footnote 4 referrer Footnote 5 Unconsolidated OSFI regulated subsidiaries and unconsolidated provincially regulated subsidiaries continue to be subject to the capital treatments specified in the LICAT Guideline. Provincially regulated subsidiaries or domestic non-OSFI regulated subsidiaries include entities regulated in Canada by provincial supervisory authorities, Investment Industry Regulatory Organization of Canada (IIROC), the Mutual Fund Dealers Association of Canada (MFDA), and any provincial or territorial securities commissions. Return to footnote 5 referrer Footnote 6 A foreign-regulated subsidiary includes insurance companies, banks and other financial entities that are domiciled in a foreign jurisdiction and regulated by a regulatory authority that has imposed capital adequacy requirements, solvency requirements, or minimum working capital requirements to protect depositors, policyholders, and/or general creditors of the subsidiary. Return to footnote 6 referrer Footnote 7 For deductions that have already been applied to Available Capital pursuant to the LICAT Guideline, life insurers may exclude these items from the calculation of the exposure. Return to footnote 7 referrer Footnote 8 This should equal the amount of CSM that has been added for the foreign-regulated subsidiary in the numerator of the ratio. For clarity, this should be all CSM reported as liabilities less all CSM reported as assets for the subsidiary in question. Return to footnote 8 referrer Footnote 9 Intra-group assets are assets that arise due to intra-group transactions and are eliminated upon accounting consolidation. Return to footnote 9 referrer Footnote 10 This should equal the amount of CSM that has been added for the foreign-regulated branch in the numerator of the ratio. For clarity, this should be all CSM reported as liabilities less all CSM reported as assets for the branch in question. Return to footnote 10 referrer Footnote 11 Internal risk participation agreements are considered akin to capital guarantees and should be included within the scope of this paragraph. Return to footnote 11 referrer Footnote 12 This includes non-capital guarantees where the indemnified party is a foreign-regulated subsidiary. Return to footnote 12 referrer Footnote 13 For guarantees covering derivative transactions, the exposure amount is based on the fair value of the derivative according to relevant accounting standards. Return to footnote 13 referrer]",
+      "content": [
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "Capital guarantees Footnote 11 can either directly guarantee issuances of capital instruments (e.g. subordinated debt, preferred shares, or common shares) by subsidiaries to third-parties, or they can be structured in the form of a capital maintenance agreement (CMA), formalizing the actions or intentions the parent will take to maintain the subsidiary's capital at or above a certain level. Capital guarantees provided by the parent insurer to its subsidiaries are treated as a direct capital investment under this guideline. The amount that should be used for the exposure in paragraph 12(d) for a CMA is equal to the minimum amount of capital that is required to be invested under the CMA assuming the subsidiary is holding zero capital and, for a capital instrument guarantee, it is equal to the maximum amount that is payable under the guarantee.",
+            "Non-capital guarantees consist of guarantees that provide any form of indemnification to third parties Footnote 12 and that are not included in the definition of capital guarantees under paragraph 14. Exposures to non-capital guarantees should be multiplied by the applicable credit risk factors in Table 1 and added to the denominator. For non-capital guarantees related to policyholder claims, the exposure amount is the present value of the unbiased, probability-weighted estimate of future cash flows under IFRS 17. For all other non-capital guarantees, the exposure amount is the outstanding exposure of the parent insurer under the guarantee. Footnote 13 The exposure amount for lines of credit and letters of credit is equal to the amount of the undrawn portion. The drawn portion of a line of credit is not subject to any requirements.",
+            "Insurers should use a long-term standalone credit rating for the subsidiary provided by a rating agency that is recognized under LICAT section 3.1.1, and that meets all the other conditions in this section for the use of ratings. The standalone rating should be adjusted to exclude any uplift due to explicit or implicit parental support from the subsidiary's parent or affiliates."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Capital guarantees Footnote 11 can either directly guarantee issuances of capital instruments (e.g. subordinated debt, preferred shares, or common shares) by subsidiaries to third-parties, or they can be structured in the form of a capital maintenance agreement (CMA), formalizing the actions or intentions the parent will take to maintain the subsidiary's capital at or above a certain level. Capital guarantees provided by the parent insurer to its subsidiaries are treated as a direct capital investment under this guideline. The amount that should be used for the exposure in paragraph 12(d) for a CMA is equal to the minimum amount of capital that is required to be invested under the CMA assuming the subsidiary is holding zero capital and, for a capital instrument guarantee, it is equal to the maximum amount that is payable under the guarantee."
+        },
+        {
+          "type": "paragraph",
+          "text": "Non-capital guarantees consist of guarantees that provide any form of indemnification to third parties Footnote 12 and that are not included in the definition of capital guarantees under paragraph 14. Exposures to non-capital guarantees should be multiplied by the applicable credit risk factors in Table 1 and added to the denominator. For non-capital guarantees related to policyholder claims, the exposure amount is the present value of the unbiased, probability-weighted estimate of future cash flows under IFRS 17. For all other non-capital guarantees, the exposure amount is the outstanding exposure of the parent insurer under the guarantee. Footnote 13 The exposure amount for lines of credit and letters of credit is equal to the amount of the undrawn portion. The drawn portion of a line of credit is not subject to any requirements."
+        },
+        {
+          "type": "paragraph",
+          "text": "Insurers should use a long-term standalone credit rating for the subsidiary provided by a rating agency that is recognized under LICAT section 3.1.1, and that meets all the other conditions in this section for the use of ratings. The standalone rating should be adjusted to exclude any uplift due to explicit or implicit parental support from the subsidiary's parent or affiliates."
+        },
+        {
+          "type": "table",
+          "caption": "Table 1: Credit Risk Factors by Rating and Effective Maturity",
+          "rows": [
+            [
+              "Rating Category Table 1 footnote *",
+              "Effective Maturity in Years"
+            ],
+            [
+              "1",
+              "2",
+              "3",
+              "4",
+              "5",
+              "10"
+            ],
+            [
+              "AAA",
+              "0.25%",
+              "0.25%",
+              "0.50%",
+              "0.50%",
+              "1.00%",
+              "1.25%"
+            ],
+            [
+              "AA",
+              "0.25%",
+              "0.50%",
+              "0.75%",
+              "1.00%",
+              "1.25%",
+              "1.75%"
+            ],
+            [
+              "A",
+              "0.75%",
+              "1.00%",
+              "1.50%",
+              "1.75%",
+              "2.00%",
+              "3.00%"
+            ],
+            [
+              "BBB",
+              "1.50%",
+              "2.75%",
+              "3.25%",
+              "3.75%",
+              "4.00%",
+              "4.75%"
+            ],
+            [
+              "BB",
+              "3.75%",
+              "6.00%",
+              "7.25%",
+              "7.75%",
+              "8.00%",
+              "8.00%"
+            ],
+            [
+              "B",
+              "7.50%",
+              "10.00%",
+              "10.50%",
+              "10.50%",
+              "10.50%",
+              "10.50%"
+            ],
+            [
+              "Lower than B",
+              "15.50%",
+              "18.00%",
+              "18.00%",
+              "18.00%",
+              "18.00%",
+              "18.00%"
+            ],
+            [
+              "Table 1 footnotes Table 1 footnote * Refer to Appendix 3-A in the LICAT Guideline for a table showing equivalent ratings from DBRS, Moody's, S&P, KBRA, JCR, and R&I. Return to table 1 footnote * referrer"
+            ]
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Table 1 footnotes Table 1 footnote * Refer to Appendix 3-A in the LICAT Guideline for a table showing equivalent ratings from DBRS, Moody's, S&P, KBRA, JCR, and R&I. Return to table 1 footnote * referrer"
+        },
+        {
+          "type": "paragraph",
+          "text": "Table 1 footnotes"
+        },
+        {
+          "type": "paragraph",
+          "text": "Refer to Appendix 3-A in the LICAT Guideline for a table showing equivalent ratings from DBRS, Moody's, S&P, KBRA, JCR, and R&I."
+        },
+        {
+          "type": "paragraph",
+          "text": "Return to table 1 footnote * referrer"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "Insurers should apply a 6% risk factor to the relevant non-capital guarantee exposure amount of any subsidiary for which it is not possible to infer a rating under section 3.1.1 of the LICAT guideline.",
+            "Guarantees provided to OSFI-regulated subsidiaries and provincially regulated subsidiaries are excluded from the calculation of the parental BSB.",
+            "Undrawn lines of credit whose cancellation is not subject to specific conditions or notice periods, or that are unconditionally cancellable at any time (e.g. without a required notice period) may be excluded from the computation of the parental BSB.",
+            "In the case of a non-capital guarantee where the exposure guaranteed is an obligation of a subsidiary arising from a collateralized securities lending (borrowing) agreement (or obligations arising from repo-style transactions) with a third party, life insurers can recognize the collateral provided by the subsidiary to the third party to calculate the amount covered under the guarantee. In these cases, a life insurer may calculate the exposure amount using the approach set out in section 3.2.3 of the LICAT guideline."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Insurers should apply a 6% risk factor to the relevant non-capital guarantee exposure amount of any subsidiary for which it is not possible to infer a rating under section 3.1.1 of the LICAT guideline."
+        },
+        {
+          "type": "paragraph",
+          "text": "Guarantees provided to OSFI-regulated subsidiaries and provincially regulated subsidiaries are excluded from the calculation of the parental BSB."
+        },
+        {
+          "type": "paragraph",
+          "text": "Undrawn lines of credit whose cancellation is not subject to specific conditions or notice periods, or that are unconditionally cancellable at any time (e.g. without a required notice period) may be excluded from the computation of the parental BSB."
+        },
+        {
+          "type": "paragraph",
+          "text": "In the case of a non-capital guarantee where the exposure guaranteed is an obligation of a subsidiary arising from a collateralized securities lending (borrowing) agreement (or obligations arising from repo-style transactions) with a third party, life insurers can recognize the collateral provided by the subsidiary to the third party to calculate the amount covered under the guarantee. In these cases, a life insurer may calculate the exposure amount using the approach set out in section 3.2.3 of the LICAT guideline."
+        },
+        {
+          "type": "footnote",
+          "text": "Footnotes Footnote 1 For the purposes of this guideline, \"life insurers\" or \"insurers\" refer to OSFI-regulated domestic life insurers that are designated by OSFI as internationally active insurance groups (Life IAIGs). Return to footnote 1 referrer Footnote 2 The Superintendent may, on a case-by-case basis, establish a higher supervisory target based on an insurer's individual risk profile. Return to footnote 2 referrer Footnote 3 \"Regulated\" means that the regulatory body has imposed capital adequacy requirements, solvency requirements, or minimum working capital requirements to protect policyholders, general creditors, or depositors. Return to footnote 3 referrer Footnote 4 \"Foreign branches\" refers to all foreign branches, agencies, and representative offices of the parent insurer. Return to footnote 4 referrer Footnote 5 Unconsolidated OSFI regulated subsidiaries and unconsolidated provincially regulated subsidiaries continue to be subject to the capital treatments specified in the LICAT Guideline. Provincially regulated subsidiaries or domestic non-OSFI regulated subsidiaries include entities regulated in Canada by provincial supervisory authorities, Investment Industry Regulatory Organization of Canada (IIROC), the Mutual Fund Dealers Association of Canada (MFDA), and any provincial or territorial securities commissions. Return to footnote 5 referrer Footnote 6 A foreign-regulated subsidiary includes insurance companies, banks and other financial entities that are domiciled in a foreign jurisdiction and regulated by a regulatory authority that has imposed capital adequacy requirements, solvency requirements, or minimum working capital requirements to protect depositors, policyholders, and/or general creditors of the subsidiary. Return to footnote 6 referrer Footnote 7 For deductions that have already been applied to Available Capital pursuant to the LICAT Guideline, life insurers may exclude these items from the calculation of the exposure. Return to footnote 7 referrer Footnote 8 This should equal the amount of CSM that has been added for the foreign-regulated subsidiary in the numerator of the ratio. For clarity, this should be all CSM reported as liabilities less all CSM reported as assets for the subsidiary in question. Return to footnote 8 referrer Footnote 9 Intra-group assets are assets that arise due to intra-group transactions and are eliminated upon accounting consolidation. Return to footnote 9 referrer Footnote 10 This should equal the amount of CSM that has been added for the foreign-regulated branch in the numerator of the ratio. For clarity, this should be all CSM reported as liabilities less all CSM reported as assets for the branch in question. Return to footnote 10 referrer Footnote 11 Internal risk participation agreements are considered akin to capital guarantees and should be included within the scope of this paragraph. Return to footnote 11 referrer Footnote 12 This includes non-capital guarantees where the indemnified party is a foreign-regulated subsidiary. Return to footnote 12 referrer Footnote 13 For guarantees covering derivative transactions, the exposure amount is based on the fair value of the derivative according to relevant accounting standards. Return to footnote 13 referrer"
+        }
+      ]
+    },
+    {
+      "heading": "Footnotes",
+      "heading_level": 2,
+      "full_text": "For the purposes of this guideline, \"life insurers\" or \"insurers\" refer to OSFI-regulated domestic life insurers that are designated by OSFI as internationally active insurance groups (Life IAIGs).\nReturn to footnote 1 referrer\nThe Superintendent may, on a case-by-case basis, establish a higher supervisory target based on an insurer's individual risk profile.\nReturn to footnote 2 referrer\n\"Regulated\" means that the regulatory body has imposed capital adequacy requirements, solvency requirements, or minimum working capital requirements to protect policyholders, general creditors, or depositors.\nReturn to footnote 3 referrer\n\"Foreign branches\" refers to all foreign branches, agencies, and representative offices of the parent insurer.\nReturn to footnote 4 referrer\nUnconsolidated OSFI regulated subsidiaries and unconsolidated provincially regulated subsidiaries continue to be subject to the capital treatments specified in the LICAT Guideline. Provincially regulated subsidiaries or domestic non-OSFI regulated subsidiaries include entities regulated in Canada by provincial supervisory authorities, Investment Industry Regulatory Organization of Canada (IIROC), the Mutual Fund Dealers Association of Canada (MFDA), and any provincial or territorial securities commissions.\nReturn to footnote 5 referrer\nA foreign-regulated subsidiary includes insurance companies, banks and other financial entities that are domiciled in a foreign jurisdiction and regulated by a regulatory authority that has imposed capital adequacy requirements, solvency requirements, or minimum working capital requirements to protect depositors, policyholders, and/or general creditors of the subsidiary.\nReturn to footnote 6 referrer\nFor deductions that have already been applied to Available Capital pursuant to the LICAT Guideline, life insurers may exclude these items from the calculation of the exposure.\nReturn to footnote 7 referrer\nThis should equal the amount of CSM that has been added for the foreign-regulated subsidiary in the numerator of the ratio. For clarity, this should be all CSM reported as liabilities less all CSM reported as assets for the subsidiary in question.\nReturn to footnote 8 referrer\nIntra-group assets are assets that arise due to intra-group transactions and are eliminated upon accounting consolidation.\nReturn to footnote 9 referrer\nThis should equal the amount of CSM that has been added for the foreign-regulated branch in the numerator of the ratio. For clarity, this should be all CSM reported as liabilities less all CSM reported as assets for the branch in question.\nReturn to footnote 10 referrer\nInternal risk participation agreements are considered akin to capital guarantees and should be included within the scope of this paragraph.\nReturn to footnote 11 referrer\nThis includes non-capital guarantees where the indemnified party is a foreign-regulated subsidiary.\nReturn to footnote 12 referrer\nFor guarantees covering derivative transactions, the exposure amount is based on the fair value of the derivative according to relevant accounting standards.\nReturn to footnote 13 referrer",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "For the purposes of this guideline, \"life insurers\" or \"insurers\" refer to OSFI-regulated domestic life insurers that are designated by OSFI as internationally active insurance groups (Life IAIGs)."
+        },
+        {
+          "type": "paragraph",
+          "text": "Return to footnote 1 referrer"
+        },
+        {
+          "type": "paragraph",
+          "text": "The Superintendent may, on a case-by-case basis, establish a higher supervisory target based on an insurer's individual risk profile."
+        },
+        {
+          "type": "paragraph",
+          "text": "Return to footnote 2 referrer"
+        },
+        {
+          "type": "paragraph",
+          "text": "\"Regulated\" means that the regulatory body has imposed capital adequacy requirements, solvency requirements, or minimum working capital requirements to protect policyholders, general creditors, or depositors."
+        },
+        {
+          "type": "paragraph",
+          "text": "Return to footnote 3 referrer"
+        },
+        {
+          "type": "paragraph",
+          "text": "\"Foreign branches\" refers to all foreign branches, agencies, and representative offices of the parent insurer."
+        },
+        {
+          "type": "paragraph",
+          "text": "Return to footnote 4 referrer"
+        },
+        {
+          "type": "paragraph",
+          "text": "Unconsolidated OSFI regulated subsidiaries and unconsolidated provincially regulated subsidiaries continue to be subject to the capital treatments specified in the LICAT Guideline. Provincially regulated subsidiaries or domestic non-OSFI regulated subsidiaries include entities regulated in Canada by provincial supervisory authorities, Investment Industry Regulatory Organization of Canada (IIROC), the Mutual Fund Dealers Association of Canada (MFDA), and any provincial or territorial securities commissions."
+        },
+        {
+          "type": "paragraph",
+          "text": "Return to footnote 5 referrer"
+        },
+        {
+          "type": "paragraph",
+          "text": "A foreign-regulated subsidiary includes insurance companies, banks and other financial entities that are domiciled in a foreign jurisdiction and regulated by a regulatory authority that has imposed capital adequacy requirements, solvency requirements, or minimum working capital requirements to protect depositors, policyholders, and/or general creditors of the subsidiary."
+        },
+        {
+          "type": "paragraph",
+          "text": "Return to footnote 6 referrer"
+        },
+        {
+          "type": "paragraph",
+          "text": "For deductions that have already been applied to Available Capital pursuant to the LICAT Guideline, life insurers may exclude these items from the calculation of the exposure."
+        },
+        {
+          "type": "paragraph",
+          "text": "Return to footnote 7 referrer"
+        },
+        {
+          "type": "paragraph",
+          "text": "This should equal the amount of CSM that has been added for the foreign-regulated subsidiary in the numerator of the ratio. For clarity, this should be all CSM reported as liabilities less all CSM reported as assets for the subsidiary in question."
+        },
+        {
+          "type": "paragraph",
+          "text": "Return to footnote 8 referrer"
+        },
+        {
+          "type": "paragraph",
+          "text": "Intra-group assets are assets that arise due to intra-group transactions and are eliminated upon accounting consolidation."
+        },
+        {
+          "type": "paragraph",
+          "text": "Return to footnote 9 referrer"
+        },
+        {
+          "type": "paragraph",
+          "text": "This should equal the amount of CSM that has been added for the foreign-regulated branch in the numerator of the ratio. For clarity, this should be all CSM reported as liabilities less all CSM reported as assets for the branch in question."
+        },
+        {
+          "type": "paragraph",
+          "text": "Return to footnote 10 referrer"
+        },
+        {
+          "type": "paragraph",
+          "text": "Internal risk participation agreements are considered akin to capital guarantees and should be included within the scope of this paragraph."
+        },
+        {
+          "type": "paragraph",
+          "text": "Return to footnote 11 referrer"
+        },
+        {
+          "type": "paragraph",
+          "text": "This includes non-capital guarantees where the indemnified party is a foreign-regulated subsidiary."
+        },
+        {
+          "type": "paragraph",
+          "text": "Return to footnote 12 referrer"
+        },
+        {
+          "type": "paragraph",
+          "text": "For guarantees covering derivative transactions, the exposure amount is based on the fair value of the derivative according to relevant accounting standards."
+        },
+        {
+          "type": "paragraph",
+          "text": "Return to footnote 13 referrer"
+        }
+      ]
+    }
+  ],
+  "title_normalized": "parental standalone solo capital framework for federally regulated life insurers 2025",
+  "publication_type_normalized": "guideline",
+  "category_normalized": "capital_adequacy_requirements",
+  "sector_normalized": [
+    "life_insurance"
+  ],
+  "guideline_number_normalized": "",
+  "applies_to_banks": false,
+  "applies_to_trust_loan": false,
+  "applies_to_life_insurance": true,
+  "applies_to_pc_insurance": false,
+  "applies_to_foreign_bank": false,
+  "applies_to_foreign_insurance": false,
+  "applies_to_cooperative": false,
+  "applies_to_bank_holding": false,
+  "effective_date_sort_key": "2025-01-01",
+  "status_sort_key": 1,
+  "authority_sort_key": 100,
+  "bm25_text": "Parental Stand-Alone (Solo) Capital Framework for Federally Regulated Life Insurers (2025) Guideline Capital Adequacy Requirements Life Insurance and Fraternal Companies I. Overview II. Scope of application III. Calculation of solo capital IV. Minimum solo capital ratio V. Parental stand-alone capital (numerator) A. Non-parental surplus allowance and eligible deposits B. Capital issued by consolidated subsidiaries to third party investors C. Foreign regulated subsidiaries that are outside the scope of consolidation for regulatory capital purposes Footnote 5 D. Vested assets in foreign branches E. Non-regulated subsidiaries VI. Parental Base Solvency Buffer (BSB) (denominator) A. Subsidiaries regulated by a foreign authority that are consolidated for regulatory purposes B. Branches regulated by a foreign authority that are consolidated for regulatory purposes C. Parental guarantees Footnotes",
+  "vector_text_prefix": "[OSFI Guideline  | Capital Adequacy Requirements | Life Insurance and Fraternal Companies | FINAL_CURRENT | Effective 2025-01-01]",
+  "h1_title": "Parental Stand-Alone (Solo) Capital Framework for Federally Regulated Life Insurers (2025)",
+  "regulator": "OSFI",
+  "regulator_acronym": "OSFI",
+  "jurisdiction": "Canada",
+  "short_title": "",
+  "source_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/parental-stand-alone-solo-capital-framework-federally-regulated-life-insurers-2025"
+}

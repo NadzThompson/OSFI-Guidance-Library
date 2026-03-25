@@ -1,0 +1,563 @@
+{
+  "source_system": "osfi_guidance_library",
+  "library_row_title": "Background Checks on Directors and Senior Management of FREs – Guideline (2008)",
+  "library_row_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/background-checks-directors-senior-management-fres-guideline-2008",
+  "listing_date_raw": "February 29, 2008",
+  "listing_date_iso": "2008-02-29",
+  "listing_publication_type": "Guideline",
+  "listing_category": "Sound Business and Financial Practices",
+  "listing_sector": [
+    "Banks",
+    "Foreign Bank Branches",
+    "Life Insurance and Fraternal Companies",
+    "Property and Casualty Companies",
+    "Trust and Loan Companies"
+  ],
+  "crawl_timestamp": "2026-03-11T00:00:00Z",
+  "detail_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/background-checks-directors-senior-management-fres-guideline-2008",
+  "canonical_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/background-checks-directors-senior-management-fres-guideline-2008",
+  "slug": "background-checks-directors-senior-management-fres-guideline-2008",
+  "title": "Background Checks on Directors and Senior Management of FREs – Guideline (2008)",
+  "publication_type": "Guideline",
+  "category": "Sound Business and Financial Practices",
+  "document_date_raw": "February 29, 2008",
+  "document_date_iso": "2008-02-29",
+  "sector": [
+    "Banks",
+    "Foreign Bank Branches",
+    "Life Insurance and Fraternal Companies",
+    "Property and Casualty Companies",
+    "Trust and Loan Companies"
+  ],
+  "effective_date_text": "",
+  "guideline_number": "",
+  "date_modified_raw": "2008-02-29T12:00:00Z",
+  "generate_pdf_url": "https://www.osfi-bsif.gc.ca/en/print/pdf/node/606",
+  "pdf_node_id": 606,
+  "direct_pdf_url": null,
+  "has_table_of_contents": true,
+  "toc_entries": [],
+  "has_related_documents": false,
+  "related_document_links_raw": [],
+  "consultation_status_text": null,
+  "consultation_status_refers_to_version": null,
+  "page_language": "en",
+  "word_count_raw_body": 3063,
+  "doc_id": "osfi.background-checks-directors-senior-management-fres.2008.package",
+  "doc_family_id": "osfi.background-checks-directors-senior-management-fres",
+  "version_id": "2008",
+  "version_label": "Background Checks on Directors and Senior Management of FREs",
+  "version_sort_key": "2008-02",
+  "parent_doc_id": null,
+  "child_doc_ids": [],
+  "is_package_page": true,
+  "is_chapter_page": false,
+  "chapter_number": null,
+  "chapter_title": null,
+  "document_order_within_family": 0,
+  "supersedes_doc_id": null,
+  "superseded_by_doc_id": null,
+  "current_version_flag": true,
+  "status": "final_current",
+  "include_in_primary_corpus": true,
+  "include_in_support_corpus": false,
+  "include_in_context_corpus": false,
+  "effective_date_start": "2008-02-29",
+  "effective_date_end": null,
+  "effective_date_fye_split": false,
+  "effective_date_oct_fye": null,
+  "effective_date_dec_fye": null,
+  "is_future_effective": false,
+  "is_rescinded": false,
+  "is_draft_or_consultation": false,
+  "rescission_date": null,
+  "consultation_closing_date": null,
+  "as_of_applicability": "2026-03-23",
+  "rule_applied": "rule_5_final_current",
+  "authority_class": "primary_normative",
+  "authority_level": 100,
+  "nova_tier": 1,
+  "prudential_weight": 1.0,
+  "is_primary_normative": true,
+  "is_supporting_interpretive": false,
+  "is_context_only": false,
+  "document_class": "package_guideline",
+  "guidance_type_normalized": "guideline",
+  "section_headings": [
+    {
+      "level": 2,
+      "text": "I. Statement of Regulatory Principles",
+      "id": "h2-0"
+    },
+    {
+      "level": 2,
+      "text": "II. Application of Guideline",
+      "id": "h2-1"
+    },
+    {
+      "level": 3,
+      "text": "1. Federally Regulated Entity (FRE)",
+      "id": "h3-2"
+    },
+    {
+      "level": 3,
+      "text": "2. Responsible Person",
+      "id": "h3-3"
+    },
+    {
+      "level": 2,
+      "text": "IV. Assessment Policy",
+      "id": "h2-4"
+    },
+    {
+      "level": 3,
+      "text": "a) Identification of the Responsible Persons subject to Assessments",
+      "id": "h3-5"
+    },
+    {
+      "level": 3,
+      "text": "b) Timing of the Assessments",
+      "id": "h3-6"
+    },
+    {
+      "level": 3,
+      "text": "c) Key Practices",
+      "id": "h3-7"
+    },
+    {
+      "level": 2,
+      "text": "V. Assessment Procedures",
+      "id": "h2-8"
+    },
+    {
+      "level": 3,
+      "text": "a) Persons or Groups that will Conduct Assessments",
+      "id": "h3-9"
+    },
+    {
+      "level": 3,
+      "text": "b) Information that will be Obtained",
+      "id": "h3-10"
+    },
+    {
+      "level": 3,
+      "text": "c) Decision-making Process",
+      "id": "h3-11"
+    },
+    {
+      "level": 2,
+      "text": "VI. Role of Senior Management",
+      "id": "h2-12"
+    },
+    {
+      "level": 2,
+      "text": "VII. Providing Information to OSFI",
+      "id": "h2-13"
+    }
+  ],
+  "heading_path": [
+    "Background Checks on Directors and Senior Management of FREs – Guideline (2008)"
+  ],
+  "toc_depth": 3,
+  "has_appendices": false,
+  "appendix_ids": [],
+  "has_tables": false,
+  "table_count": 0,
+  "has_footnotes": false,
+  "footnote_count": 0,
+  "inline_cross_references": [
+    "Guideline B-10 - Outsourcing of Business Activities"
+  ],
+  "quoted_external_references": [],
+  "raw_html_sha256": "59843f5e8ab34121d2fd64329037bfbbab0ae7cbd573ee021b45888f8269c946",
+  "raw_pdf_sha256": null,
+  "normalized_text_sha256": null,
+  "raw_html_path": "bronze/osfi/html/final_current/background-checks-directors-senior-management-fres-guideline-2008.html",
+  "normalized_md_path": "silver/osfi/md/final_current/background-checks-directors-senior-management-fres-guideline-2008.md",
+  "canonical_json_path": "silver/osfi/json/final_current/background-checks-directors-senior-management-fres-guideline-2008.json",
+  "content_source": "HTML",
+  "parser_version": "osfi-parser-v2.1.0",
+  "normalizer_version": "osfi-normalizer-v1.4.0",
+  "quality_score": 1.0,
+  "quality_flags": [],
+  "download_timestamp": "2026-03-11T00:00:00Z",
+  "enriched_timestamp": "2026-03-23T09:53:46.857487Z",
+  "sections": [
+    {
+      "heading": "",
+      "heading_level": 2,
+      "full_text": "  - Background Checks on Directors and Senior Management of FREs - Guideline impact analysis statement (2008)\n  - Background Checks on Directors and Senior Management of FREs - Letter (2008)",
+      "content": [
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Background Checks on Directors and Senior Management of FREs - Guideline impact analysis statement (2008)",
+            "Background Checks on Directors and Senior Management of FREs - Letter (2008)"
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "I. Statement of Regulatory Principles",
+      "heading_level": 2,
+      "full_text": "This Guideline builds upon the following:\nRegulatory System : The federal prudential regulatory system is based on a tripartite division of responsibilities involving:\n  - The Federally Regulated Entity's (FRE) management and oversight processes;\n  - The use of independent external reviewers (i.e. the external auditor, and in the case of insurance companies, the appointed actuary); and\n  - Monitoring and supervision by OSFI.\nThe primary responsibility for ensuring FREs are soundly managed and directed rests with the board of directors and senior management of the FRE. Accordingly, the suitability and integrity of senior management and members of boards of directors pose an important concern for the FRE and OSFI, as the safety, soundness and reputation of an FRE can be negatively affected by the actions of these individuals.\nSupervisory Approach : While OSFI assesses competence and experience of proposed directors and senior officers and verifies criminal records at incorporation <p>The assessment criteria examined by OSFI upon authorization are found at sections 27, 526 and 675 of the <cite>Bank Act</cite>(BA), sections 27 and 712 of the <cite>Insurance Companies Act</cite> (ICA), section 26 of the <cite>Trust and Loan Companies Act</cite>(TLCA), and section 27 of the <cite>Cooperative Credit Associations Act</cite>(CCAA).</p> , OSFI relies on the FRE's own internal processes for assessing the ongoing suitability and integrity of these individuals post authorization. Where warranted, OSFI applies a risk-based approach to assessing the FRE's processes.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "This Guideline builds upon the following:"
+        },
+        {
+          "type": "paragraph",
+          "text": "Regulatory System : The federal prudential regulatory system is based on a tripartite division of responsibilities involving:"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "The Federally Regulated Entity's (FRE) management and oversight processes;",
+            "The use of independent external reviewers (i.e. the external auditor, and in the case of insurance companies, the appointed actuary); and",
+            "Monitoring and supervision by OSFI."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "The primary responsibility for ensuring FREs are soundly managed and directed rests with the board of directors and senior management of the FRE. Accordingly, the suitability and integrity of senior management and members of boards of directors pose an important concern for the FRE and OSFI, as the safety, soundness and reputation of an FRE can be negatively affected by the actions of these individuals."
+        },
+        {
+          "type": "paragraph",
+          "text": "Supervisory Approach : While OSFI assesses competence and experience of proposed directors and senior officers and verifies criminal records at incorporation <p>The assessment criteria examined by OSFI upon authorization are found at sections 27, 526 and 675 of the <cite>Bank Act</cite>(BA), sections 27 and 712 of the <cite>Insurance Companies Act</cite> (ICA), section 26 of the <cite>Trust and Loan Companies Act</cite>(TLCA), and section 27 of the <cite>Cooperative Credit Associations Act</cite>(CCAA).</p> , OSFI relies on the FRE's own internal processes for assessing the ongoing suitability and integrity of these individuals post authorization. Where warranted, OSFI applies a risk-based approach to assessing the FRE's processes."
+        }
+      ]
+    },
+    {
+      "heading": "II. Application of Guideline",
+      "heading_level": 2,
+      "full_text": "This Guideline outlines a number of principles to assist FREs in establishing policies and procedures regarding the conduct of assessments of their Responsible Persons and indicates areas that OSFI may focus on during supervisory reviews.\nThe Guideline recognizes that aspects of these assessments that address the suitability of a person, such as expertise, require assessment only upon initial appointment whereas regular assessments would focus on particulars that can change over time – for example, legal proceedings against an individual or changes in professional qualifications.\nWhile FREs already have various policies and procedures in place to regularly assess the suitability and integrity of Responsible Persons to satisfy their own internal requirements (e.g., hiring policies or code of conduct) or to satisfy other statutory For example, FRE statutes disqualify some candidates for the position of director of the FRE as per the Bank Act , sections 160 and 750, Insurance Companies Act , sections 168 and 797, Trust and Loan Companies Act section 165, Cooperative Credit Associations Act section 170. or regulatory requirements (e.g., public listing requirements), this guideline clarifies expectations with regard to fundamental aspects of such policies and procedures across institutions to minimize safety and soundness concerns, including prudential and reputation risk.\nThis Guideline should be considered prudent practices or standards that can be considered by all FREs in developing their own practices and procedures.\nIndividual FREs can adopt different approaches that suit their circumstances with respect to conducting assessments of their Responsible Persons having regard to their nature of business, size, complexity, geographic location(s), risk profile, structure and ownership. The supervisory process takes this into consideration in the evaluation of individual FREs.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "This Guideline outlines a number of principles to assist FREs in establishing policies and procedures regarding the conduct of assessments of their Responsible Persons and indicates areas that OSFI may focus on during supervisory reviews."
+        },
+        {
+          "type": "paragraph",
+          "text": "The Guideline recognizes that aspects of these assessments that address the suitability of a person, such as expertise, require assessment only upon initial appointment whereas regular assessments would focus on particulars that can change over time – for example, legal proceedings against an individual or changes in professional qualifications."
+        },
+        {
+          "type": "paragraph",
+          "text": "While FREs already have various policies and procedures in place to regularly assess the suitability and integrity of Responsible Persons to satisfy their own internal requirements (e.g., hiring policies or code of conduct) or to satisfy other statutory For example, FRE statutes disqualify some candidates for the position of director of the FRE as per the Bank Act , sections 160 and 750, Insurance Companies Act , sections 168 and 797, Trust and Loan Companies Act section 165, Cooperative Credit Associations Act section 170. or regulatory requirements (e.g., public listing requirements), this guideline clarifies expectations with regard to fundamental aspects of such policies and procedures across institutions to minimize safety and soundness concerns, including prudential and reputation risk."
+        },
+        {
+          "type": "paragraph",
+          "text": "This Guideline should be considered prudent practices or standards that can be considered by all FREs in developing their own practices and procedures."
+        },
+        {
+          "type": "paragraph",
+          "text": "Individual FREs can adopt different approaches that suit their circumstances with respect to conducting assessments of their Responsible Persons having regard to their nature of business, size, complexity, geographic location(s), risk profile, structure and ownership. The supervisory process takes this into consideration in the evaluation of individual FREs."
+        }
+      ]
+    },
+    {
+      "heading": "1. Federally Regulated Entity (FRE)",
+      "heading_level": 3,
+      "full_text": "For the purposes of this Guideline, an FRE is defined as:\n  1. a bank to which the Bank Act applies;\n  2. a body corporate to which the Trust and Loan Companies Act applies;\n  3. an association to which the Cooperative Credit Associations Act applies or a central cooperative credit society for which an order has been made under subsection 473(1) of that Act;\n  4. an insurance company or a fraternal benefit society incorporated, formed or continued under the Insurance Companies Act , the order of which is not restricted to the servicing of existing policies;\n  5. a bank holding company incorporated or formed under Part XV of the Bank Act ;\n  6. an insurance holding company incorporated or formed under Part XVII of the Insurance Companies Act ;\n  7. the Canadian branch of a foreign bank in respect of which an order under subsection 524(1) of the Bank Act has been made;\n  8. the Canadian branch of a foreign company in respect of which an order under Section 574 of the Insurance Companies Act has been made, which order is not restricted to the servicing of existing policies.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "For the purposes of this Guideline, an FRE is defined as:"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "a bank to which the Bank Act applies;",
+            "a body corporate to which the Trust and Loan Companies Act applies;",
+            "an association to which the Cooperative Credit Associations Act applies or a central cooperative credit society for which an order has been made under subsection 473(1) of that Act;",
+            "an insurance company or a fraternal benefit society incorporated, formed or continued under the Insurance Companies Act , the order of which is not restricted to the servicing of existing policies;",
+            "a bank holding company incorporated or formed under Part XV of the Bank Act ;",
+            "an insurance holding company incorporated or formed under Part XVII of the Insurance Companies Act ;",
+            "the Canadian branch of a foreign bank in respect of which an order under subsection 524(1) of the Bank Act has been made;",
+            "the Canadian branch of a foreign company in respect of which an order under Section 574 of the Insurance Companies Act has been made, which order is not restricted to the servicing of existing policies."
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "2. Responsible Person",
+      "heading_level": 3,
+      "full_text": "For the purposes of this Guideline, a Responsible Person is defined as:\n  1. a director;\n  2. senior management, i.e., any person who the FRE determines plays a significant role in the management of the FRE. This could include the chief executive officer, chief financial officer and any other officer who has a functional reporting line directly to the board of directors or chief executive officer; and\n  3. Branch management in the case of foreign entities operating in Canada on a branch basis. <p>Refer to <a href=\"/node/617\">Guideline E-4 <cite>Foreign Entities Operating in Canada on a Branch Basis</cite></a>.</p>",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "For the purposes of this Guideline, a Responsible Person is defined as:"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "a director;",
+            "senior management, i.e., any person who the FRE determines plays a significant role in the management of the FRE. This could include the chief executive officer, chief financial officer and any other officer who has a functional reporting line directly to the board of directors or chief executive officer; and",
+            "Branch management in the case of foreign entities operating in Canada on a branch basis. <p>Refer to <a href=\"/node/617\">Guideline E-4 <cite>Foreign Entities Operating in Canada on a Branch Basis</cite></a>.</p>"
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "IV. Assessment Policy",
+      "heading_level": 2,
+      "full_text": "OSFI expects every FRE to have a written policy regarding the performance of assessments of the suitability and integrity of its Responsible Persons (Assessment Policy).\nFREs belonging to the same corporate group may have one umbrella Assessment Policy for the entire group.\nOSFI expects that the senior management of banks, insurance companies, bank holding companies, insurance holding companies, trust and loan companies, co-operative credit associations and retail associations will approve these entities' Assessment Policy (and any material amendments thereto). Branch management should approve or be aware of the Assessment Policy (and any material amendments thereto) in the case of branches.\nOSFI expects that this Assessment Policy will consider the following matters in a way that prudently minimises the risks that persons who are not suitable or do not possess the required integrity do not hold Responsible Person positions:",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "OSFI expects every FRE to have a written policy regarding the performance of assessments of the suitability and integrity of its Responsible Persons (Assessment Policy)."
+        },
+        {
+          "type": "paragraph",
+          "text": "FREs belonging to the same corporate group may have one umbrella Assessment Policy for the entire group."
+        },
+        {
+          "type": "paragraph",
+          "text": "OSFI expects that the senior management of banks, insurance companies, bank holding companies, insurance holding companies, trust and loan companies, co-operative credit associations and retail associations will approve these entities' Assessment Policy (and any material amendments thereto). Branch management should approve or be aware of the Assessment Policy (and any material amendments thereto) in the case of branches."
+        },
+        {
+          "type": "paragraph",
+          "text": "OSFI expects that this Assessment Policy will consider the following matters in a way that prudently minimises the risks that persons who are not suitable or do not possess the required integrity do not hold Responsible Person positions:"
+        }
+      ]
+    },
+    {
+      "heading": "a) Identification of the Responsible Persons subject to Assessments",
+      "heading_level": 3,
+      "full_text": "All FREs are expected to identify as Responsible Persons individuals who play a significant role in the management of the FRE. OSFI expects that senior management will approve the list of Responsible Persons subject to the assessments.\nWhere employment contracts are in place that preclude the FRE from assessing Responsible Persons appointed to their positions prior to the coming into force of this Guideline, such Responsible Persons can be exempted from assessments until a notice of change of contract can be provided, their employment contract is renewed or their responsibilities change.\nOnly one assessment is necessary in respect of Responsible Persons identified as being a Responsible Person in more than one FRE of the same corporate group. Senior management may choose not to apply the provisions of this Guideline to individuals in an FRE subsidiary of a larger FRE in a corporate group where the management of the FRE subsidiary is directed by Responsible Persons of the larger FRE in the control chain.\nPlease refer to OSFI's Corporate Governance Guideline for OSFI's expectations of FRE Boards of Directors in regards to operational, business, risk and crisis management policies.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "All FREs are expected to identify as Responsible Persons individuals who play a significant role in the management of the FRE. OSFI expects that senior management will approve the list of Responsible Persons subject to the assessments."
+        },
+        {
+          "type": "paragraph",
+          "text": "Where employment contracts are in place that preclude the FRE from assessing Responsible Persons appointed to their positions prior to the coming into force of this Guideline, such Responsible Persons can be exempted from assessments until a notice of change of contract can be provided, their employment contract is renewed or their responsibilities change."
+        },
+        {
+          "type": "paragraph",
+          "text": "Only one assessment is necessary in respect of Responsible Persons identified as being a Responsible Person in more than one FRE of the same corporate group. Senior management may choose not to apply the provisions of this Guideline to individuals in an FRE subsidiary of a larger FRE in a corporate group where the management of the FRE subsidiary is directed by Responsible Persons of the larger FRE in the control chain."
+        },
+        {
+          "type": "paragraph",
+          "text": "Please refer to OSFI's Corporate Governance Guideline for OSFI's expectations of FRE Boards of Directors in regards to operational, business, risk and crisis management policies."
+        }
+      ]
+    },
+    {
+      "heading": "b) Timing of the Assessments",
+      "heading_level": 3,
+      "full_text": "OSFI expects the Assessment Policy would require an assessment to be conducted before a person is appointed to a Responsible Person position unless it would be imprudent to delay the appointment. In such cases, the assessment would occur as soon as practicable and in any event within a number of days specified in the Assessment Policy. The initial assessment would address all aspects of the assessment including aspects that are not subject to change as well as those that can change over time.\nAfter the initial appointment, updated assessments of each Responsible Person would be conducted at intervals specified in the Assessment Policy, which should be no longer than five years. Updated assessments can focus only on aspects that can change over time. FREs can rely on attestations from Responsible Persons to conduct update assessments. However, FREs areexpected to independently verify Responsible Persons' criminal records at least every seven years. Assessments should be undertaken between intervals if the FRE acquires knowledge of material adverse information about a Responsible Person.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "OSFI expects the Assessment Policy would require an assessment to be conducted before a person is appointed to a Responsible Person position unless it would be imprudent to delay the appointment. In such cases, the assessment would occur as soon as practicable and in any event within a number of days specified in the Assessment Policy. The initial assessment would address all aspects of the assessment including aspects that are not subject to change as well as those that can change over time."
+        },
+        {
+          "type": "paragraph",
+          "text": "After the initial appointment, updated assessments of each Responsible Person would be conducted at intervals specified in the Assessment Policy, which should be no longer than five years. Updated assessments can focus only on aspects that can change over time. FREs can rely on attestations from Responsible Persons to conduct update assessments. However, FREs areexpected to independently verify Responsible Persons' criminal records at least every seven years. Assessments should be undertaken between intervals if the FRE acquires knowledge of material adverse information about a Responsible Person."
+        }
+      ]
+    },
+    {
+      "heading": "c) Key Practices",
+      "heading_level": 3,
+      "full_text": "OSFI expects that the Assessment Policy will indicate the key practices that will be followed by the FRE in implementing the principles of this Guideline, including the key practices relating to the FRE's decision-making process (discussed in greater detail in Part V c) below). For example, the Assessment Policy could set out when and how the Assessment Policy will be disclosed to Responsible Persons and candidates for Responsible Person positions. OSFI also expects the Assessment Policy to set out practices that will be followed if the FRE concludes a Responsible Person is not suitable or does not possess the required integrity, such as when and how the decision will be escalated through the organization, how and when the Responsible Person will be notified of adverse information as well as the steps that will be taken to remove a Responsible Person. FREs should ensure their practices comply with all applicable legal requirements, including privacy and employment laws.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "OSFI expects that the Assessment Policy will indicate the key practices that will be followed by the FRE in implementing the principles of this Guideline, including the key practices relating to the FRE's decision-making process (discussed in greater detail in Part V c) below). For example, the Assessment Policy could set out when and how the Assessment Policy will be disclosed to Responsible Persons and candidates for Responsible Person positions. OSFI also expects the Assessment Policy to set out practices that will be followed if the FRE concludes a Responsible Person is not suitable or does not possess the required integrity, such as when and how the decision will be escalated through the organization, how and when the Responsible Person will be notified of adverse information as well as the steps that will be taken to remove a Responsible Person. FREs should ensure their practices comply with all applicable legal requirements, including privacy and employment laws."
+        }
+      ]
+    },
+    {
+      "heading": "V. Assessment Procedures",
+      "heading_level": 2,
+      "full_text": "FREs are expected to have written internal procedures outlining how the Assessment Policy will be implemented.\nWhere assessment procedures similar to those described in this Guideline are already in place within an FRE to satisfy its internal policies (e.g., hiring or code of conduct) or to satisfy other regulatory requirements (e.g., public listing requirements), FREs can refer to the procedures used to meet the other requirements. Each FRE will implement its own procedures taking into account its nature, size, complexity and risk profile. FREs that belong to the same corporate group may appoint one FRE member of the group to implement the Assessment Procedures in respect of every FRE in the group.\nThe Assessment Procedures would consider the following matters:",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "FREs are expected to have written internal procedures outlining how the Assessment Policy will be implemented."
+        },
+        {
+          "type": "paragraph",
+          "text": "Where assessment procedures similar to those described in this Guideline are already in place within an FRE to satisfy its internal policies (e.g., hiring or code of conduct) or to satisfy other regulatory requirements (e.g., public listing requirements), FREs can refer to the procedures used to meet the other requirements. Each FRE will implement its own procedures taking into account its nature, size, complexity and risk profile. FREs that belong to the same corporate group may appoint one FRE member of the group to implement the Assessment Procedures in respect of every FRE in the group."
+        },
+        {
+          "type": "paragraph",
+          "text": "The Assessment Procedures would consider the following matters:"
+        }
+      ]
+    },
+    {
+      "heading": "a) Persons or Groups that will Conduct Assessments",
+      "heading_level": 3,
+      "full_text": "FREs can assign the responsibility for conducting assessments of each Responsible Person to any person or group within the organization. OSFI expects the Assessment Policy to be implemented by appropriately qualified individuals and that procedures exist to allow such individuals to escalate concerns about findings in respect of a Responsible Person or the conduct of assessments.\nSome branches may not have sufficient staff complement to implement this Guideline entirely within the branch. Accordingly, it may be inappropriate to apply the specific provisions of this Guideline directly to certain branches. Implementation of the Guideline in certain branches may require the branch to enter into arrangements with the home office (for example, conducting assessments of the chief agent or principal officer).\nFREs can assign responsibility for various facets of the assessments to different groups in the FRE. FREs can outsource some of the functions related to conducting assessments, but OSFI expects that an appropriate person within the FRE will make the ultimate determination about whether a Responsible Person possesses the required suitability and integrity. Any outsourcing should comply with OSFI Guideline B-10 - Outsourcing of Business Activities, Functions and Processes and all privacy laws, as applicable.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "FREs can assign the responsibility for conducting assessments of each Responsible Person to any person or group within the organization. OSFI expects the Assessment Policy to be implemented by appropriately qualified individuals and that procedures exist to allow such individuals to escalate concerns about findings in respect of a Responsible Person or the conduct of assessments."
+        },
+        {
+          "type": "paragraph",
+          "text": "Some branches may not have sufficient staff complement to implement this Guideline entirely within the branch. Accordingly, it may be inappropriate to apply the specific provisions of this Guideline directly to certain branches. Implementation of the Guideline in certain branches may require the branch to enter into arrangements with the home office (for example, conducting assessments of the chief agent or principal officer)."
+        },
+        {
+          "type": "paragraph",
+          "text": "FREs can assign responsibility for various facets of the assessments to different groups in the FRE. FREs can outsource some of the functions related to conducting assessments, but OSFI expects that an appropriate person within the FRE will make the ultimate determination about whether a Responsible Person possesses the required suitability and integrity. Any outsourcing should comply with OSFI Guideline B-10 - Outsourcing of Business Activities, Functions and Processes and all privacy laws, as applicable."
+        }
+      ]
+    },
+    {
+      "heading": "b) Information that will be Obtained",
+      "heading_level": 3,
+      "full_text": "In their Assessment Procedures, FREs can identify the information they will obtain to assess the suitability and integrity of their Responsible Persons, upon initial appointment of the Responsible Persons to their positions and during subsequent update assessments.\nFREs that have procedures in place to comply with other regulatory requirements relative to suitability and integrity (e.g., requirements related to listing or securities regulations such as Ontario Securities Commission Rule 41-501 and/or National Instrument 44-101, National Policy 58-201, National Instrument 51-102 and National Instrument 52-110), can reference the procedures in place to meet these other requirements. FREs that have procedures in place to meet these requirements will be viewed as meeting the requirements of this section of the Guideline.\nWhen a Responsible Person is first appointed to his or her position, FREs would obtain sufficient information to allow them to conclude that the Responsible Person possesses the suitability and integrity to perform properly the duties of the Responsible Person position. Such information could include:\n  - Criminal records;\n  - Records of securities-related sanctions or disciplinary actions by a professional regulatory body;\n  - Evidence that the Responsible Person possesses the required education, skills, professional qualifications and experience;\n  - Attestation that the Responsible Person has not been held liable in a civil proceeding in connection with financial or business misconduct, fraud or mismanagement of an entity; and\n  - Attestation that the Responsible Person has no conflicts of interests that could create a material risk that he or she will be unable to discharge the duties of the Responsible Person with integrity and in the best interests of the FRE.\nWhen conducting assessments at initial appointment, FREs are expected to verify information using searches of databases and information made available by third parties when such independent sources are available. Each FRE should determine in which jurisdictions and how far back verifications should be conducted, based on the Responsible Person's history and circumstances. While attestations from Responsible Persons about certain aspects of the assessments, such as civil proceedings, are sufficient to meet the expectations of the Guideline, OSFI encourages FREs to conduct their own independent verifications, if they have grounds to believe that an attestation is insufficient or inaccurate.\nSubsequent to the initial appointment, the frequency at which verifications are updated would reflect the specific circumstances of each FRE and of each Responsible Person. Updates of assessments can focus only on particulars that can change over time, such as:\n  - Criminal convictions, regulatory or civil proceedings against the Responsible Person;\n  - Changes in status in professional organizations; and\n  - New or changes in conflicts of interest.\nIn update assessments, FREs can rely on an attestation of the facts from Responsible Persons for all aspects of the assessment. In addition, FREs are expected to independently verify a Responsible Person's criminal record at intervals specified in the Assessment Policy.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "In their Assessment Procedures, FREs can identify the information they will obtain to assess the suitability and integrity of their Responsible Persons, upon initial appointment of the Responsible Persons to their positions and during subsequent update assessments."
+        },
+        {
+          "type": "paragraph",
+          "text": "FREs that have procedures in place to comply with other regulatory requirements relative to suitability and integrity (e.g., requirements related to listing or securities regulations such as Ontario Securities Commission Rule 41-501 and/or National Instrument 44-101, National Policy 58-201, National Instrument 51-102 and National Instrument 52-110), can reference the procedures in place to meet these other requirements. FREs that have procedures in place to meet these requirements will be viewed as meeting the requirements of this section of the Guideline."
+        },
+        {
+          "type": "paragraph",
+          "text": "When a Responsible Person is first appointed to his or her position, FREs would obtain sufficient information to allow them to conclude that the Responsible Person possesses the suitability and integrity to perform properly the duties of the Responsible Person position. Such information could include:"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Criminal records;",
+            "Records of securities-related sanctions or disciplinary actions by a professional regulatory body;",
+            "Evidence that the Responsible Person possesses the required education, skills, professional qualifications and experience;",
+            "Attestation that the Responsible Person has not been held liable in a civil proceeding in connection with financial or business misconduct, fraud or mismanagement of an entity; and",
+            "Attestation that the Responsible Person has no conflicts of interests that could create a material risk that he or she will be unable to discharge the duties of the Responsible Person with integrity and in the best interests of the FRE."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "When conducting assessments at initial appointment, FREs are expected to verify information using searches of databases and information made available by third parties when such independent sources are available. Each FRE should determine in which jurisdictions and how far back verifications should be conducted, based on the Responsible Person's history and circumstances. While attestations from Responsible Persons about certain aspects of the assessments, such as civil proceedings, are sufficient to meet the expectations of the Guideline, OSFI encourages FREs to conduct their own independent verifications, if they have grounds to believe that an attestation is insufficient or inaccurate."
+        },
+        {
+          "type": "paragraph",
+          "text": "Subsequent to the initial appointment, the frequency at which verifications are updated would reflect the specific circumstances of each FRE and of each Responsible Person. Updates of assessments can focus only on particulars that can change over time, such as:"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Criminal convictions, regulatory or civil proceedings against the Responsible Person;",
+            "Changes in status in professional organizations; and",
+            "New or changes in conflicts of interest."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "In update assessments, FREs can rely on an attestation of the facts from Responsible Persons for all aspects of the assessment. In addition, FREs are expected to independently verify a Responsible Person's criminal record at intervals specified in the Assessment Policy."
+        }
+      ]
+    },
+    {
+      "heading": "c) Decision-making Process",
+      "heading_level": 3,
+      "full_text": "FREs should document the decision-making process they will follow when an adverse finding is made with respect to a Responsible Person. For example, each FRE can set its own threshold about the type of adverse information it would consider material and the type of information it would gather to follow-up on the adverse information, including mitigating factors or circumstances. The decision-making process can be tailored to the unique circumstances of each individual FRE.\nAn adverse finding would not necessarily render a person unsuitable to hold a Responsible Person position. Each finding should be considered in relation to all surrounding circumstances (e.g. seriousness of the incident or time elapsed since incident). OSFI expects FREs to use judgement and to weigh the findings on each factor, including the materiality of the adverse information and the relevance of the factor to the Responsible Person's duties.\nA Responsible Person may be found unsuitable for a particular Responsible Person position because of a lack of qualifications for that position or because of a conflict of interest related to the duties of that position. In that case, the Responsible Person may still be suitable for another Responsible Person position. The FRE may also redefine the duties associated with a Responsible Person position. Each FRE must determine whether a negative finding about a Responsible Person permanently disqualifies that person (for example, absent legislative or other requirements to the contrary, whether a Responsible Person who has been suspended by a professional association can remain in the position after serving the suspension). However, where a Responsible Person is found to lack integrity because of negative findings related to the Responsible Person's character or honesty (for example, conviction for offences relating to money laundering or fraud), that Responsible Person will normally not be suitable for any Responsible Person position.\nOSFI expects that persons who do not possess the required suitability and integrity for a particular Responsible Person position will not be appointed to that position. OSFI and FREs may disagree about whether a Responsible Person is suitable or possesses the required integrity. OSFI will work with the FRE to address areas of concern. However, if OSFI determines that an FRE has taken insufficient action to resolve a situation OSFI deems to be of material risk, it has legislative authority to take remedial action The Superintendent may remove directors, certain senior officers, principal officers and chief agents (BA sections 617.2, 647.1 and 964, ICA sections 678.2, 678.4 and 1007, TLCA section 509.2 and CCAA section 441.2). These powers apply independently of an FRE's powers and duties, regardless of whether the FRE is of the opinion that the Responsible Person meets the criteria of suitability and integrity. .",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "FREs should document the decision-making process they will follow when an adverse finding is made with respect to a Responsible Person. For example, each FRE can set its own threshold about the type of adverse information it would consider material and the type of information it would gather to follow-up on the adverse information, including mitigating factors or circumstances. The decision-making process can be tailored to the unique circumstances of each individual FRE."
+        },
+        {
+          "type": "paragraph",
+          "text": "An adverse finding would not necessarily render a person unsuitable to hold a Responsible Person position. Each finding should be considered in relation to all surrounding circumstances (e.g. seriousness of the incident or time elapsed since incident). OSFI expects FREs to use judgement and to weigh the findings on each factor, including the materiality of the adverse information and the relevance of the factor to the Responsible Person's duties."
+        },
+        {
+          "type": "paragraph",
+          "text": "A Responsible Person may be found unsuitable for a particular Responsible Person position because of a lack of qualifications for that position or because of a conflict of interest related to the duties of that position. In that case, the Responsible Person may still be suitable for another Responsible Person position. The FRE may also redefine the duties associated with a Responsible Person position. Each FRE must determine whether a negative finding about a Responsible Person permanently disqualifies that person (for example, absent legislative or other requirements to the contrary, whether a Responsible Person who has been suspended by a professional association can remain in the position after serving the suspension). However, where a Responsible Person is found to lack integrity because of negative findings related to the Responsible Person's character or honesty (for example, conviction for offences relating to money laundering or fraud), that Responsible Person will normally not be suitable for any Responsible Person position."
+        },
+        {
+          "type": "paragraph",
+          "text": "OSFI expects that persons who do not possess the required suitability and integrity for a particular Responsible Person position will not be appointed to that position. OSFI and FREs may disagree about whether a Responsible Person is suitable or possesses the required integrity. OSFI will work with the FRE to address areas of concern. However, if OSFI determines that an FRE has taken insufficient action to resolve a situation OSFI deems to be of material risk, it has legislative authority to take remedial action The Superintendent may remove directors, certain senior officers, principal officers and chief agents (BA sections 617.2, 647.1 and 964, ICA sections 678.2, 678.4 and 1007, TLCA section 509.2 and CCAA section 441.2). These powers apply independently of an FRE's powers and duties, regardless of whether the FRE is of the opinion that the Responsible Person meets the criteria of suitability and integrity. ."
+        }
+      ]
+    },
+    {
+      "heading": "VI. Role of Senior Management",
+      "heading_level": 2,
+      "full_text": "It is expected that senior management will:\n  - approve the Assessment Policy and significant amendments thereto;\n  - where it is inappropriate for another person in the FRE to make the determination, determine whether a Responsible Person is suitable or possesses sufficient integrity and, if not, ensure such persons do not hold Responsible Person positions. If the Responsible Person is not removed, ensure adequate measures are taken to manage the risk arising from misconduct or mismanagement, such as redefining the responsibilities of the position or removing a conflict that applies to the duties of that position; and\n  - elevate concerns to the Board regarding the suitability and integrity of a Responsible Person or regarding the manner in which the Assessment Policy is implemented.\nConsistent with OSFI's Corporate Governance Guideline , OSFI recognizes that branches do not have Boards of directors and accordingly it would be inappropriate to apply the requirements of this Guideline directly to branch operations. OSFI looks to branch management to oversee the operations of the branch, including matters of corporate governance. As noted in Part V a) of this Guideline, implementation of this Guideline may require branches to enter into arrangements with the home office.\nIn respect of the obligations in this guideline, FREs belonging to the same corporate group may appoint senior management of one FRE in the group to discharge the obligations of the senior management of all FREs in the group.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "It is expected that senior management will:"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "approve the Assessment Policy and significant amendments thereto;",
+            "where it is inappropriate for another person in the FRE to make the determination, determine whether a Responsible Person is suitable or possesses sufficient integrity and, if not, ensure such persons do not hold Responsible Person positions. If the Responsible Person is not removed, ensure adequate measures are taken to manage the risk arising from misconduct or mismanagement, such as redefining the responsibilities of the position or removing a conflict that applies to the duties of that position; and",
+            "elevate concerns to the Board regarding the suitability and integrity of a Responsible Person or regarding the manner in which the Assessment Policy is implemented."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Consistent with OSFI's Corporate Governance Guideline , OSFI recognizes that branches do not have Boards of directors and accordingly it would be inappropriate to apply the requirements of this Guideline directly to branch operations. OSFI looks to branch management to oversee the operations of the branch, including matters of corporate governance. As noted in Part V a) of this Guideline, implementation of this Guideline may require branches to enter into arrangements with the home office."
+        },
+        {
+          "type": "paragraph",
+          "text": "In respect of the obligations in this guideline, FREs belonging to the same corporate group may appoint senior management of one FRE in the group to discharge the obligations of the senior management of all FREs in the group."
+        }
+      ]
+    },
+    {
+      "heading": "VII. Providing Information to OSFI",
+      "heading_level": 2,
+      "full_text": "FREs are not required to provide their Assessment Policy or Assessment Procedures to OSFI on a regular basis. However, OSFI expects that the Assessment Policies, Assessment Procedures and information about assessments conducted in respect of each Responsible Person will be retained by the FRE for a reasonable length of time specified in the Assessment Policy and that such information will be readily available for examination by OSFI upon request. As part of its regular supervisory practices, OSFI may periodically, where warranted, verify the assessments conducted by the FRE in accordance with its risk-based supervisory approach.\nOSFI looks not only for evidence that FREs have appropriate policies and processes in place but also for indicators that these policies and processes are understood, are being followed and that, as a result, they are effective.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "FREs are not required to provide their Assessment Policy or Assessment Procedures to OSFI on a regular basis. However, OSFI expects that the Assessment Policies, Assessment Procedures and information about assessments conducted in respect of each Responsible Person will be retained by the FRE for a reasonable length of time specified in the Assessment Policy and that such information will be readily available for examination by OSFI upon request. As part of its regular supervisory practices, OSFI may periodically, where warranted, verify the assessments conducted by the FRE in accordance with its risk-based supervisory approach."
+        },
+        {
+          "type": "paragraph",
+          "text": "OSFI looks not only for evidence that FREs have appropriate policies and processes in place but also for indicators that these policies and processes are understood, are being followed and that, as a result, they are effective."
+        }
+      ]
+    }
+  ],
+  "title_normalized": "background checks on directors and senior management of fres guideline 2008",
+  "publication_type_normalized": "guideline",
+  "category_normalized": "sound_business_and_financial_practices",
+  "sector_normalized": [
+    "banks",
+    "foreign_bank_branches",
+    "life_insurance",
+    "pc_insurance",
+    "trust_and_loan_companies"
+  ],
+  "guideline_number_normalized": "",
+  "applies_to_banks": true,
+  "applies_to_trust_loan": true,
+  "applies_to_life_insurance": true,
+  "applies_to_pc_insurance": true,
+  "applies_to_foreign_bank": true,
+  "applies_to_foreign_insurance": false,
+  "applies_to_cooperative": false,
+  "applies_to_bank_holding": false,
+  "effective_date_sort_key": "2008-02-29",
+  "status_sort_key": 1,
+  "authority_sort_key": 100,
+  "bm25_text": "Background Checks on Directors and Senior Management of FREs – Guideline (2008) Guideline Sound Business and Financial Practices Banks Foreign Bank Branches Life Insurance and Fraternal Companies Property and Casualty Companies Trust and Loan Companies I. Statement of Regulatory Principles II. Application of Guideline 1. Federally Regulated Entity (FRE) 2. Responsible Person IV. Assessment Policy a) Identification of the Responsible Persons subject to Assessments b) Timing of the Assessments c) Key Practices V. Assessment Procedures a) Persons or Groups that will Conduct Assessments b) Information that will be Obtained c) Decision-making Process VI. Role of Senior Management VII. Providing Information to OSFI",
+  "vector_text_prefix": "[OSFI Guideline  | Sound Business and Financial Practices | Banks / Foreign Bank Branches / Life Insurance and Fraternal Companies | FINAL_CURRENT | Effective 2008-02-29]",
+  "h1_title": "Background Checks on Directors and Senior Management of FREs – Guideline (2008)",
+  "regulator": "OSFI",
+  "regulator_acronym": "OSFI",
+  "jurisdiction": "Canada",
+  "short_title": "",
+  "source_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/background-checks-directors-senior-management-fres-guideline-2008"
+}

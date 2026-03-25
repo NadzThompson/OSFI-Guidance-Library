@@ -1,0 +1,541 @@
+{
+  "source_system": "osfi_guidance_library",
+  "library_row_title": "Substantial Investments - Appendix A.3",
+  "library_row_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/substantial-investments-appendix-a3",
+  "listing_date_raw": "June 30, 2015",
+  "listing_date_iso": "2015-06-30",
+  "listing_publication_type": "Regulatory and legislative advisory",
+  "listing_category": "Regulatory and legislative",
+  "listing_sector": [
+    "Bank Act",
+    "Cooperative Credit Associations Act",
+    "Insurance Companies Act",
+    "Trust and Loan Companies Act"
+  ],
+  "crawl_timestamp": "2026-03-11T00:00:00Z",
+  "detail_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/substantial-investments-appendix-a3",
+  "canonical_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/substantial-investments-appendix-a3",
+  "slug": "substantial-investments-appendix-a3",
+  "title": "Substantial Investments - Appendix A.3",
+  "publication_type": "Regulatory and legislative advisory",
+  "category": "Regulatory and legislative",
+  "document_date_raw": "June 30, 2015",
+  "document_date_iso": "2015-06-30",
+  "sector": [
+    "Bank Act",
+    "Cooperative Credit Associations Act",
+    "Insurance Companies Act",
+    "Trust and Loan Companies Act"
+  ],
+  "effective_date_text": "",
+  "guideline_number": "",
+  "date_modified_raw": "2015-06-30T12:00:00Z",
+  "generate_pdf_url": "https://www.osfi-bsif.gc.ca/en/print/pdf/node/516",
+  "pdf_node_id": 516,
+  "direct_pdf_url": null,
+  "has_table_of_contents": true,
+  "toc_entries": [],
+  "has_related_documents": false,
+  "related_document_links_raw": [],
+  "consultation_status_text": null,
+  "consultation_status_refers_to_version": null,
+  "page_language": "en",
+  "word_count_raw_body": 3065,
+  "doc_id": "osfi.substantial-investments-appendix-a3.advisory",
+  "doc_family_id": "osfi.substantial-investments-appendix-a3",
+  "version_id": "",
+  "version_label": "Substantial Investments - Appendix A.3",
+  "version_sort_key": "",
+  "parent_doc_id": null,
+  "child_doc_ids": [],
+  "is_package_page": false,
+  "is_chapter_page": false,
+  "chapter_number": null,
+  "chapter_title": null,
+  "document_order_within_family": 0,
+  "supersedes_doc_id": null,
+  "superseded_by_doc_id": null,
+  "current_version_flag": true,
+  "status": "final_current",
+  "include_in_primary_corpus": true,
+  "include_in_support_corpus": false,
+  "include_in_context_corpus": false,
+  "effective_date_start": "2015-06-30",
+  "effective_date_end": null,
+  "effective_date_fye_split": false,
+  "effective_date_oct_fye": null,
+  "effective_date_dec_fye": null,
+  "is_future_effective": false,
+  "is_rescinded": false,
+  "is_draft_or_consultation": false,
+  "rescission_date": null,
+  "consultation_closing_date": null,
+  "as_of_applicability": "2026-03-23",
+  "rule_applied": "rule_5_final_current",
+  "authority_class": "primary_normative",
+  "authority_level": 100,
+  "nova_tier": 1,
+  "prudential_weight": 1.0,
+  "is_primary_normative": true,
+  "is_supporting_interpretive": false,
+  "is_context_only": false,
+  "document_class": "advisory",
+  "guidance_type_normalized": "regulatory_and_legislative_advisory",
+  "section_headings": [
+    {
+      "level": 2,
+      "text": "Appendix A.3 – Property and Casualty Companies and Marine Companies Permitted Entities",
+      "id": "h2-0"
+    },
+    {
+      "level": 2,
+      "text": "Footnotes",
+      "id": "h2-1"
+    }
+  ],
+  "heading_path": [
+    "Substantial Investments - Appendix A.3"
+  ],
+  "toc_depth": 2,
+  "has_appendices": true,
+  "appendix_ids": [
+    "Appendix A"
+  ],
+  "has_tables": true,
+  "table_count": 1,
+  "has_footnotes": false,
+  "footnote_count": 0,
+  "inline_cross_references": [],
+  "quoted_external_references": [],
+  "raw_html_sha256": "653b29ec92839d2b9ca17bc6117694803f6ac5008056b5e4aa5600cb29d250c8",
+  "raw_pdf_sha256": null,
+  "normalized_text_sha256": null,
+  "raw_html_path": "bronze/osfi/html/final_current/substantial-investments-appendix-a3.html",
+  "normalized_md_path": "silver/osfi/md/final_current/substantial-investments-appendix-a3.md",
+  "canonical_json_path": "silver/osfi/json/final_current/substantial-investments-appendix-a3.json",
+  "content_source": "HTML",
+  "parser_version": "osfi-parser-v2.1.0",
+  "normalizer_version": "osfi-normalizer-v1.4.0",
+  "quality_score": 1.0,
+  "quality_flags": [],
+  "download_timestamp": "2026-03-11T00:00:00Z",
+  "enriched_timestamp": "2026-03-23T09:54:00.478767Z",
+  "sections": [
+    {
+      "heading": "Appendix A.3 – Property and Casualty Companies and Marine Companies Permitted Entities",
+      "heading_level": 2,
+      "full_text": "This document has been prepared for convenience of reference only and has no official sanction. For all purposes of interpreting and applying the law, users should consult the ICA and relevant regulations.\nNotes :\n  1. In this Appendix, Company refers to a property and casualty company or a marine company, as the case may be; ERIRs stands for Exemption from Restrictions on Investments Regulations; MIRs stands for Minority Investment Regulations.\n  2. Other abbreviations in this Appendix have the meaning ascribed to them on pages 1 and 2 of the Advisory.\n  3. Unless otherwise stated, references in this Appendix to (a) regulations are to regulations made under the ICA and (b) provisions are to provisions of the ICA.\n  4. Classes of entities 2 to 5 below comprise OEs only (i.e., 495(4)).\n  5. A single OE can fall within more than one OE class listed below, depending on its business activities.\n  6. The control and approval requirements and business restrictions listed below refer to the ones imposed by the ICA’s investment regime.\n  - Company refers to a property and casualty company or a marine company, as the case may be;\n  - ERIRs stands for Exemption from Restrictions on Investments Regulations;\n  - MIRs stands for Minority Investment Regulations.\nClasses of Entities | Control Requirement? | Approval Requirement? | Business Restrictions?\n1. REs This class comprises entities listed in 495(1). | a. FRE [495(1)(a) to (f)] | Control in fact, except if in compliance with MIRs. [495(6)(a)] | No, except that Minister’s approval is required under ownership provisions of the applicable Statute. | No.\nb. Provincially regulated financial institution [495(1)(g), (h) and (i)] | Same as 1(a) above. | Superintendent’s approval in all cases except where Minister’s approval is required. [495(8) and (9)(c)] Minister’s approval is required where the Company acquires control of the entity from a person who is not a member of the Company’s group, as defined in subsection 490(2) of the ICA and section 3 of the Entity Member of Group Regulations. [495(7)(a)] | No.\nc. Foreign regulated financial institution Footnote 1 [495(1)(j)] | Control in fact, except if in compliance with MIRs; [495(6)(a)] or where the foreign law does not permit control (Company, however, must add investment in calculating minority investment cap under MIRs). [495(10)] | Superintendent’s approval in all cases except where Minister’s approval is required. [495(8) and (9)(c)] Minister’s approval is required where the Company: acquires control of the entity from an FRE that is not a member of the Company’s group, as defined in subsection 490(2) of the ICA and section 3 of the Entity Member of Group Regulations ; [495(7)(b)] or has equity of at least two billion dollars and acquires control of an entity with consolidated assets that exceed 10% of the Company’s consolidated assets, as shown in its last annual statement, either alone or when combined with all other acquisitions by the Company of control of foreign regulated financial institutions within the preceding 12 months. [495(7)(b.1)] | No.\n2. Financial Agents and Investment Funds | Includes OEs that engage in the following activities: acting as a financial agent (including insurance broker); providing investment counselling services; providing portfolio management services; networking financial services; or acting as a trustee for a mutual fund entity or a closed-end fund. [495(2)(a)] Also includes a: mutual fund distribution entity; mutual fund entity; and closed-end fund; each as defined in 490(1). [495(4)(e)] | No. | No. | A financial agent is subject to the same restrictions as a Company in the areas of leasing, residential mortgage lending and substantial investments activities. [495(5). With respect to substantial investment activities, see also section 1 of the ERIRs where the Company does not control the entity] In addition, a financial agent cannot engage in deposit-taking or in financial intermediary activities that expose the financial agent to material market or credit risk. [495(5)] A financial agent is also subject to the same restrictions as a Company in the areas of: fiduciary activities, except when acting as a trustee for a mutual fund entity or a closed-end fund; [495(5)(a) and (5.1)] dealing in securities, except where the entity is an entity listed in 495(4)(e). [495(5)(b)]\n3. Investment holding entities This class comprises OEs whose business includes acquiring or holding shares of, or ownership interests in, entities that a Company is permitted to hold or acquire. [495(4)(b)] | Entity that acquires or holds shares of, or ownership interests in, entities that a Company is permitted to acquire or hold under: 440 – less than substantial investments (portfolio investments); 495– PEs; 493(2) investments via an RE subsidiary; 498– temporary investments (only if the Company controls the investment holding entity); 499– loan workouts; 500– realization of security interests. | Control in fact, except: if in compliance with MIRs; [495(6)(c)(i) and (ii)] in the case of a foreign investment holding entity, where the foreign law does not permit control (Company, however, must add investment in calculating minority investment cap under MIRs); [495(10)] or where the investment holding entity does not control or hold any share of, or ownership interest in, an RE (class 1 entity), or an entity that is not a PE. [495(6)(c)(iii)] | Superintendent’s approval only if the Company is acquiring a non-controlling interest. [495(8) and (9)(a)] | An investment holding entity is subject to the same restrictions as a Company in the areas of fiduciary, leasing, residential mortgage lending, securities dealing and substantial investments activities (with the exception of temporary investment activities where the Company does not control the investment holding entity). [495(5). With respect to substantial investment activities, see also section 1 of the ERIRs where the Company does not control the investment holding entity] In addition, such an entity cannot engage in deposit-taking or in financial intermediary activities that expose the entity to material market or credit risk. [495(5)]\n4. Non-financial services entities | a. Entity that engages in information processing activities (i.e., activities referred to in 441(1)(c) and (d)). [495(4)(a)] | No. | Minister’s approval, except where the activities are: 441(1)(c) and are carried on in Canada; or 441(1)(d) and are carried on outside Canada. [495(7)(d)] | A non-financial services entity is subject to the same restrictions as a Company in the areas of fiduciary, leasing, residential mortgage lending, securities dealing and substantial investments activities. [495(5). With respect to substantial investment activities, see also section 1 of the ERIRs where the Company does not control the entity] In addition, such an entity cannot engage in deposit-taking or financial intermediary activities that expose the entity to material market or credit risk. [495(5)]\nb. Entity that engages in information technology activities (i.e., activities referred to in 441(1)(d.1)). [495(4)(a)] | No. | Minister’s approval, except where the conditions set out in section 5 of the Information Technology Activities (Property and Casualty Companies and Marine Companies) Regulations are met (see class 5 below). [495(7)(d.1)]\nc. Entity that engages in other non-financial service activities (i.e., other activities referred to in 441(1)): managing, holding or dealing with real property; acting as real estate agent; promoting merchandise or services to card holders; selling lottery or urban transit tickets; or acting as custodian of property. [495(2)(a) and 971(2)(a)] | No. | No. | See above.\nd. Entity that provides services to certain entities, so long as it provides those services to the Company or members of the Company’s group, as defined in subsection 490(2) of the ICA and section 3 of the Entity Member of Group Regulations Footnote 2 [495(4)(c)] | No. | No.\ne. Entity that engages in activities relating to promotion, sale delivery or distribution of financial services or products provided by certain entities. [495(4)(d)] | No. | Minister’s approval. [495(7)(c)]\n5. Prescribed entities A Company may acquire control of, or acquire or increase a substantial investment in, an entity that engages in prescribed activities. [495(4)(f)] | Prescribed activities are set out in subsection 3(1) of the Information Technology Activities (Property and Casualty Companies and Marine Companies) Regulations (collectively, the “IT Activities”). Prescribed activities are also set out in section 3of the Ancillary Activities Regulations (collectively, the “Ancillary Activities”). | Neither the ICA nor the Information Technology Activities Regulations impose control requirements with respect to the IT Activities. Neither the ICA nor the Ancillary Activities Regulations impose control requirements with respect to the Ancillary Activities. | Where an entity limits its activities to IT Activities, no approval of the Minister is required under 495(7)(e). Footnote 3 [section 5 of the Information Technology Activities (Life Companies) Regulations ] The Minister’s approval is required with respect to the Ancillary Activities. [495(7)(e)] | In the case of an entity that engages in the IT Activities, the entity: is subject to the same restrictions as a Company in the areas of fiduciary, leasing, residential mortgage lending, dealing in goods, securities dealing and substantial investments activities; and cannot engage in deposit-taking or in financial intermediary activities that expose the entity to material market or credit risk. [subsection 3(3) and section 4 of the Information Technology Activities (Property and Casualty Companies and Marine Companies) Regulations ] In the case of the Ancillary Activities, no business restrictions except where specified in the Minister’s approval.\n1. REs\nThis class comprises entities listed in 495(1).\nSuperintendent’s approval in all cases except where Minister’s approval is required. [495(8) and (9)(c)]\nMinister’s approval is required where the Company acquires control of the entity from a person who is not a member of the Company’s group, as defined in subsection 490(2) of the ICA and section 3 of the Entity Member of Group Regulations. [495(7)(a)]\nControl in fact, except\n  - if in compliance with MIRs; [495(6)(a)] or\n  - where the foreign law does not permit control (Company, however, must add investment in calculating minority investment cap under MIRs). [495(10)]\nSuperintendent’s approval in all cases except where Minister’s approval is required. [495(8) and (9)(c)]\nMinister’s approval is required where the Company:\n  - acquires control of the entity from an FRE that is not a member of the Company’s group, as defined in subsection 490(2) of the ICA and section 3 of the Entity Member of Group Regulations ; [495(7)(b)] or\n  - has equity of at least two billion dollars and acquires control of an entity with consolidated assets that exceed 10% of the Company’s consolidated assets, as shown in its last annual statement, either alone or when combined with all other acquisitions by the Company of control of foreign regulated financial institutions within the preceding 12 months. [495(7)(b.1)]\nIncludes OEs that engage in the following activities:\n  - acting as a financial agent (including insurance broker);\n  - providing investment counselling services;\n  - providing portfolio management services;\n  - networking financial services; or\n  - acting as a trustee for a mutual fund entity or a closed-end fund. [495(2)(a)]\nAlso includes a:\n  - mutual fund distribution entity;\n  - mutual fund entity; and\n  - closed-end fund;\neach as defined in 490(1). [495(4)(e)]\nA financial agent is subject to the same restrictions as a Company in the areas of leasing, residential mortgage lending and substantial investments activities. [495(5). With respect to substantial investment activities, see also section 1 of the ERIRs where the Company does not control the entity]\nIn addition, a financial agent cannot engage in deposit-taking or in financial intermediary activities that expose the financial agent to material market or credit risk. [495(5)]\nA financial agent is also subject to the same restrictions as a Company in the areas of:\n  - fiduciary activities, except when acting as a trustee for a mutual fund entity or a closed-end fund; [495(5)(a) and (5.1)]\n  - dealing in securities, except where the entity is an entity listed in 495(4)(e). [495(5)(b)]\n3. Investment holding entities\nThis class comprises OEs whose business includes acquiring or holding shares of, or ownership interests in, entities that a Company is permitted to hold or acquire. [495(4)(b)]\nEntity that acquires or holds shares of, or ownership interests in, entities that a Company is permitted to acquire or hold under:\n  - 440 – less than substantial investments (portfolio investments);\n  - 495– PEs;\n  - 493(2) investments via an RE subsidiary;\n  - 498– temporary investments (only if the Company controls the investment holding entity);\n  - 499– loan workouts;\n  - 500– realization of security interests.\nControl in fact, except:\n  - if in compliance with MIRs; [495(6)(c)(i) and (ii)]\n  - in the case of a foreign investment holding entity, where the foreign law does not permit control (Company, however, must add investment in calculating minority investment cap under MIRs); [495(10)] or\n  - where the investment holding entity does not control or hold any share of, or ownership interest in, an RE (class 1 entity), or an entity that is not a PE. [495(6)(c)(iii)]\n  - an RE (class 1 entity), or\n  - an entity that is not a PE. [495(6)(c)(iii)]\nAn investment holding entity is subject to the same restrictions as a Company in the areas of fiduciary, leasing, residential mortgage lending, securities dealing and substantial investments activities (with the exception of temporary investment activities where the Company does not control the investment holding entity). [495(5). With respect to substantial investment activities, see also section 1 of the ERIRs where the Company does not control the investment holding entity]\nIn addition, such an entity cannot engage in deposit-taking or in financial intermediary activities that expose the entity to material market or credit risk. [495(5)]\n  - 441(1)(c) and are carried on in Canada; or\n  - 441(1)(d) and are carried on outside Canada.\nA non-financial services entity is subject to the same restrictions as a Company in the areas of fiduciary, leasing, residential mortgage lending, securities dealing and substantial investments activities. [495(5). With respect to substantial investment activities, see also section 1 of the ERIRs where the Company does not control the entity]\nIn addition, such an entity cannot engage in deposit-taking or financial intermediary activities that expose the entity to material market or credit risk. [495(5)]\nc. Entity that engages in other non-financial service activities (i.e., other activities referred to in 441(1)):\n  - managing, holding or dealing with real property;\n  - acting as real estate agent;\n  - promoting merchandise or services to card holders;\n  - selling lottery or urban transit tickets; or\n  - acting as custodian of property.\n[495(2)(a) and 971(2)(a)]\n5. Prescribed entities\nA Company may acquire control of, or acquire or increase a substantial investment in, an entity that engages in prescribed activities. [495(4)(f)]\nPrescribed activities are set out in subsection 3(1) of the Information Technology Activities (Property and Casualty Companies and Marine Companies) Regulations (collectively, the “IT Activities”).\nPrescribed activities are also set out in section 3of the Ancillary Activities Regulations (collectively, the “Ancillary Activities”).\nNeither the ICA nor the Information Technology Activities Regulations impose control requirements with respect to the IT Activities.\nNeither the ICA nor the Ancillary Activities Regulations impose control requirements with respect to the Ancillary Activities.\nWhere an entity limits its activities to IT Activities, no approval of the Minister is required under 495(7)(e). Footnote 3 [section 5 of the Information Technology Activities (Life Companies) Regulations ]\nThe Minister’s approval is required with respect to the Ancillary Activities. [495(7)(e)]\nIn the case of an entity that engages in the IT Activities, the entity:\n  - is subject to the same restrictions as a Company in the areas of fiduciary, leasing, residential mortgage lending, dealing in goods, securities dealing and substantial investments activities; and\n  - cannot engage in deposit-taking or in financial intermediary activities that expose the entity to material market or credit risk.\n[subsection 3(3) and section 4 of the Information Technology Activities (Property and Casualty Companies and Marine Companies) Regulations ]\nIn the case of the Ancillary Activities, no business restrictions except where specified in the Minister’s approval.\nFootnotes Footnote 1 OSFI is of the view that this class refers to foreign regulated entities that are subject to regulatory regimes that are substantially similar to the ones applicable to equivalent Canadian entities listed in classes 1(a) or (b) above. For example, in order to be a class 1(c) entity, a foreign entity that primarily engages outside Canada in a business that, if carried on in Canada, would be the business of providing fiduciary services would have to be regulated in a substantially similar manner as a trust company referred to in paragraph 495(1)(e) or (g). Return to footnote 1 Footnote 2 OSFI is of the view that if an OE engages in services referred to in paragraph 495(4)(c) and in another paragraph within 495(4), then the OE should be categorized under that other paragraph. For example, where a Company seeks to acquire control of an OE that will provide information technology services exclusively to members of the Company’s group, that entity should be categorized as a 495(4)(a) entity rather than a 495(4)(c) entity. In such a case, the acquisition would require the Minister’s approval under 495(7)(d.1), assuming the entity’s services are not contemplated by the Information Technology Activities (Property and Casualty Companies and Marine Companies) Regulations . Return to footnote 2 Footnote 3 This is effectively an exception to the general approval requirement referred to in class 4(b) above. Return to footnote 3",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "This document has been prepared for convenience of reference only and has no official sanction. For all purposes of interpreting and applying the law, users should consult the ICA and relevant regulations."
+        },
+        {
+          "type": "paragraph",
+          "text": "Notes :"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "In this Appendix, Company refers to a property and casualty company or a marine company, as the case may be; ERIRs stands for Exemption from Restrictions on Investments Regulations; MIRs stands for Minority Investment Regulations.",
+            "Other abbreviations in this Appendix have the meaning ascribed to them on pages 1 and 2 of the Advisory.",
+            "Unless otherwise stated, references in this Appendix to (a) regulations are to regulations made under the ICA and (b) provisions are to provisions of the ICA.",
+            "Classes of entities 2 to 5 below comprise OEs only (i.e., 495(4)).",
+            "A single OE can fall within more than one OE class listed below, depending on its business activities.",
+            "The control and approval requirements and business restrictions listed below refer to the ones imposed by the ICA’s investment regime."
+          ]
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Company refers to a property and casualty company or a marine company, as the case may be;",
+            "ERIRs stands for Exemption from Restrictions on Investments Regulations;",
+            "MIRs stands for Minority Investment Regulations."
+          ]
+        },
+        {
+          "type": "table",
+          "caption": "",
+          "rows": [
+            [
+              "Classes of Entities",
+              "Control Requirement?",
+              "Approval Requirement?",
+              "Business Restrictions?"
+            ],
+            [
+              "1. REs This class comprises entities listed in 495(1).",
+              "a. FRE [495(1)(a) to (f)]",
+              "Control in fact, except if in compliance with MIRs. [495(6)(a)]",
+              "No, except that Minister’s approval is required under ownership provisions of the applicable Statute.",
+              "No."
+            ],
+            [
+              "b. Provincially regulated financial institution [495(1)(g), (h) and (i)]",
+              "Same as 1(a) above.",
+              "Superintendent’s approval in all cases except where Minister’s approval is required. [495(8) and (9)(c)] Minister’s approval is required where the Company acquires control of the entity from a person who is not a member of the Company’s group, as defined in subsection 490(2) of the ICA and section 3 of the Entity Member of Group Regulations. [495(7)(a)]",
+              "No."
+            ],
+            [
+              "c. Foreign regulated financial institution Footnote 1 [495(1)(j)]",
+              "Control in fact, except if in compliance with MIRs; [495(6)(a)] or where the foreign law does not permit control (Company, however, must add investment in calculating minority investment cap under MIRs). [495(10)]",
+              "Superintendent’s approval in all cases except where Minister’s approval is required. [495(8) and (9)(c)] Minister’s approval is required where the Company: acquires control of the entity from an FRE that is not a member of the Company’s group, as defined in subsection 490(2) of the ICA and section 3 of the Entity Member of Group Regulations ; [495(7)(b)] or has equity of at least two billion dollars and acquires control of an entity with consolidated assets that exceed 10% of the Company’s consolidated assets, as shown in its last annual statement, either alone or when combined with all other acquisitions by the Company of control of foreign regulated financial institutions within the preceding 12 months. [495(7)(b.1)]",
+              "No."
+            ],
+            [
+              "2. Financial Agents and Investment Funds",
+              "Includes OEs that engage in the following activities: acting as a financial agent (including insurance broker); providing investment counselling services; providing portfolio management services; networking financial services; or acting as a trustee for a mutual fund entity or a closed-end fund. [495(2)(a)] Also includes a: mutual fund distribution entity; mutual fund entity; and closed-end fund; each as defined in 490(1). [495(4)(e)]",
+              "No.",
+              "No.",
+              "A financial agent is subject to the same restrictions as a Company in the areas of leasing, residential mortgage lending and substantial investments activities. [495(5). With respect to substantial investment activities, see also section 1 of the ERIRs where the Company does not control the entity] In addition, a financial agent cannot engage in deposit-taking or in financial intermediary activities that expose the financial agent to material market or credit risk. [495(5)] A financial agent is also subject to the same restrictions as a Company in the areas of: fiduciary activities, except when acting as a trustee for a mutual fund entity or a closed-end fund; [495(5)(a) and (5.1)] dealing in securities, except where the entity is an entity listed in 495(4)(e). [495(5)(b)]"
+            ],
+            [
+              "3. Investment holding entities This class comprises OEs whose business includes acquiring or holding shares of, or ownership interests in, entities that a Company is permitted to hold or acquire. [495(4)(b)]",
+              "Entity that acquires or holds shares of, or ownership interests in, entities that a Company is permitted to acquire or hold under: 440 – less than substantial investments (portfolio investments); 495– PEs; 493(2) investments via an RE subsidiary; 498– temporary investments (only if the Company controls the investment holding entity); 499– loan workouts; 500– realization of security interests.",
+              "Control in fact, except: if in compliance with MIRs; [495(6)(c)(i) and (ii)] in the case of a foreign investment holding entity, where the foreign law does not permit control (Company, however, must add investment in calculating minority investment cap under MIRs); [495(10)] or where the investment holding entity does not control or hold any share of, or ownership interest in, an RE (class 1 entity), or an entity that is not a PE. [495(6)(c)(iii)]",
+              "Superintendent’s approval only if the Company is acquiring a non-controlling interest. [495(8) and (9)(a)]",
+              "An investment holding entity is subject to the same restrictions as a Company in the areas of fiduciary, leasing, residential mortgage lending, securities dealing and substantial investments activities (with the exception of temporary investment activities where the Company does not control the investment holding entity). [495(5). With respect to substantial investment activities, see also section 1 of the ERIRs where the Company does not control the investment holding entity] In addition, such an entity cannot engage in deposit-taking or in financial intermediary activities that expose the entity to material market or credit risk. [495(5)]"
+            ],
+            [
+              "4. Non-financial services entities",
+              "a. Entity that engages in information processing activities (i.e., activities referred to in 441(1)(c) and (d)). [495(4)(a)]",
+              "No.",
+              "Minister’s approval, except where the activities are: 441(1)(c) and are carried on in Canada; or 441(1)(d) and are carried on outside Canada. [495(7)(d)]",
+              "A non-financial services entity is subject to the same restrictions as a Company in the areas of fiduciary, leasing, residential mortgage lending, securities dealing and substantial investments activities. [495(5). With respect to substantial investment activities, see also section 1 of the ERIRs where the Company does not control the entity] In addition, such an entity cannot engage in deposit-taking or financial intermediary activities that expose the entity to material market or credit risk. [495(5)]"
+            ],
+            [
+              "b. Entity that engages in information technology activities (i.e., activities referred to in 441(1)(d.1)). [495(4)(a)]",
+              "No.",
+              "Minister’s approval, except where the conditions set out in section 5 of the Information Technology Activities (Property and Casualty Companies and Marine Companies) Regulations are met (see class 5 below). [495(7)(d.1)]"
+            ],
+            [
+              "c. Entity that engages in other non-financial service activities (i.e., other activities referred to in 441(1)): managing, holding or dealing with real property; acting as real estate agent; promoting merchandise or services to card holders; selling lottery or urban transit tickets; or acting as custodian of property. [495(2)(a) and 971(2)(a)]",
+              "No.",
+              "No.",
+              "See above."
+            ],
+            [
+              "d. Entity that provides services to certain entities, so long as it provides those services to the Company or members of the Company’s group, as defined in subsection 490(2) of the ICA and section 3 of the Entity Member of Group Regulations Footnote 2 [495(4)(c)]",
+              "No.",
+              "No."
+            ],
+            [
+              "e. Entity that engages in activities relating to promotion, sale delivery or distribution of financial services or products provided by certain entities. [495(4)(d)]",
+              "No.",
+              "Minister’s approval. [495(7)(c)]"
+            ],
+            [
+              "5. Prescribed entities A Company may acquire control of, or acquire or increase a substantial investment in, an entity that engages in prescribed activities. [495(4)(f)]",
+              "Prescribed activities are set out in subsection 3(1) of the Information Technology Activities (Property and Casualty Companies and Marine Companies) Regulations (collectively, the “IT Activities”). Prescribed activities are also set out in section 3of the Ancillary Activities Regulations (collectively, the “Ancillary Activities”).",
+              "Neither the ICA nor the Information Technology Activities Regulations impose control requirements with respect to the IT Activities. Neither the ICA nor the Ancillary Activities Regulations impose control requirements with respect to the Ancillary Activities.",
+              "Where an entity limits its activities to IT Activities, no approval of the Minister is required under 495(7)(e). Footnote 3 [section 5 of the Information Technology Activities (Life Companies) Regulations ] The Minister’s approval is required with respect to the Ancillary Activities. [495(7)(e)]",
+              "In the case of an entity that engages in the IT Activities, the entity: is subject to the same restrictions as a Company in the areas of fiduciary, leasing, residential mortgage lending, dealing in goods, securities dealing and substantial investments activities; and cannot engage in deposit-taking or in financial intermediary activities that expose the entity to material market or credit risk. [subsection 3(3) and section 4 of the Information Technology Activities (Property and Casualty Companies and Marine Companies) Regulations ] In the case of the Ancillary Activities, no business restrictions except where specified in the Minister’s approval."
+            ]
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "1. REs"
+        },
+        {
+          "type": "paragraph",
+          "text": "This class comprises entities listed in 495(1)."
+        },
+        {
+          "type": "paragraph",
+          "text": "Superintendent’s approval in all cases except where Minister’s approval is required. [495(8) and (9)(c)]"
+        },
+        {
+          "type": "paragraph",
+          "text": "Minister’s approval is required where the Company acquires control of the entity from a person who is not a member of the Company’s group, as defined in subsection 490(2) of the ICA and section 3 of the Entity Member of Group Regulations. [495(7)(a)]"
+        },
+        {
+          "type": "paragraph",
+          "text": "Control in fact, except"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "if in compliance with MIRs; [495(6)(a)] or",
+            "where the foreign law does not permit control (Company, however, must add investment in calculating minority investment cap under MIRs). [495(10)]"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Superintendent’s approval in all cases except where Minister’s approval is required. [495(8) and (9)(c)]"
+        },
+        {
+          "type": "paragraph",
+          "text": "Minister’s approval is required where the Company:"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "acquires control of the entity from an FRE that is not a member of the Company’s group, as defined in subsection 490(2) of the ICA and section 3 of the Entity Member of Group Regulations ; [495(7)(b)] or",
+            "has equity of at least two billion dollars and acquires control of an entity with consolidated assets that exceed 10% of the Company’s consolidated assets, as shown in its last annual statement, either alone or when combined with all other acquisitions by the Company of control of foreign regulated financial institutions within the preceding 12 months. [495(7)(b.1)]"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Includes OEs that engage in the following activities:"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "acting as a financial agent (including insurance broker);",
+            "providing investment counselling services;",
+            "providing portfolio management services;",
+            "networking financial services; or",
+            "acting as a trustee for a mutual fund entity or a closed-end fund. [495(2)(a)]"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Also includes a:"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "mutual fund distribution entity;",
+            "mutual fund entity; and",
+            "closed-end fund;"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "each as defined in 490(1). [495(4)(e)]"
+        },
+        {
+          "type": "paragraph",
+          "text": "A financial agent is subject to the same restrictions as a Company in the areas of leasing, residential mortgage lending and substantial investments activities. [495(5). With respect to substantial investment activities, see also section 1 of the ERIRs where the Company does not control the entity]"
+        },
+        {
+          "type": "paragraph",
+          "text": "In addition, a financial agent cannot engage in deposit-taking or in financial intermediary activities that expose the financial agent to material market or credit risk. [495(5)]"
+        },
+        {
+          "type": "paragraph",
+          "text": "A financial agent is also subject to the same restrictions as a Company in the areas of:"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "fiduciary activities, except when acting as a trustee for a mutual fund entity or a closed-end fund; [495(5)(a) and (5.1)]",
+            "dealing in securities, except where the entity is an entity listed in 495(4)(e). [495(5)(b)]"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "3. Investment holding entities"
+        },
+        {
+          "type": "paragraph",
+          "text": "This class comprises OEs whose business includes acquiring or holding shares of, or ownership interests in, entities that a Company is permitted to hold or acquire. [495(4)(b)]"
+        },
+        {
+          "type": "paragraph",
+          "text": "Entity that acquires or holds shares of, or ownership interests in, entities that a Company is permitted to acquire or hold under:"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "440 – less than substantial investments (portfolio investments);",
+            "495– PEs;",
+            "493(2) investments via an RE subsidiary;",
+            "498– temporary investments (only if the Company controls the investment holding entity);",
+            "499– loan workouts;",
+            "500– realization of security interests."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Control in fact, except:"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "if in compliance with MIRs; [495(6)(c)(i) and (ii)]",
+            "in the case of a foreign investment holding entity, where the foreign law does not permit control (Company, however, must add investment in calculating minority investment cap under MIRs); [495(10)] or",
+            "where the investment holding entity does not control or hold any share of, or ownership interest in, an RE (class 1 entity), or an entity that is not a PE. [495(6)(c)(iii)]"
+          ]
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "an RE (class 1 entity), or",
+            "an entity that is not a PE. [495(6)(c)(iii)]"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "An investment holding entity is subject to the same restrictions as a Company in the areas of fiduciary, leasing, residential mortgage lending, securities dealing and substantial investments activities (with the exception of temporary investment activities where the Company does not control the investment holding entity). [495(5). With respect to substantial investment activities, see also section 1 of the ERIRs where the Company does not control the investment holding entity]"
+        },
+        {
+          "type": "paragraph",
+          "text": "In addition, such an entity cannot engage in deposit-taking or in financial intermediary activities that expose the entity to material market or credit risk. [495(5)]"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "441(1)(c) and are carried on in Canada; or",
+            "441(1)(d) and are carried on outside Canada."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "A non-financial services entity is subject to the same restrictions as a Company in the areas of fiduciary, leasing, residential mortgage lending, securities dealing and substantial investments activities. [495(5). With respect to substantial investment activities, see also section 1 of the ERIRs where the Company does not control the entity]"
+        },
+        {
+          "type": "paragraph",
+          "text": "In addition, such an entity cannot engage in deposit-taking or financial intermediary activities that expose the entity to material market or credit risk. [495(5)]"
+        },
+        {
+          "type": "paragraph",
+          "text": "c. Entity that engages in other non-financial service activities (i.e., other activities referred to in 441(1)):"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "managing, holding or dealing with real property;",
+            "acting as real estate agent;",
+            "promoting merchandise or services to card holders;",
+            "selling lottery or urban transit tickets; or",
+            "acting as custodian of property."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "[495(2)(a) and 971(2)(a)]"
+        },
+        {
+          "type": "paragraph",
+          "text": "5. Prescribed entities"
+        },
+        {
+          "type": "paragraph",
+          "text": "A Company may acquire control of, or acquire or increase a substantial investment in, an entity that engages in prescribed activities. [495(4)(f)]"
+        },
+        {
+          "type": "paragraph",
+          "text": "Prescribed activities are set out in subsection 3(1) of the Information Technology Activities (Property and Casualty Companies and Marine Companies) Regulations (collectively, the “IT Activities”)."
+        },
+        {
+          "type": "paragraph",
+          "text": "Prescribed activities are also set out in section 3of the Ancillary Activities Regulations (collectively, the “Ancillary Activities”)."
+        },
+        {
+          "type": "paragraph",
+          "text": "Neither the ICA nor the Information Technology Activities Regulations impose control requirements with respect to the IT Activities."
+        },
+        {
+          "type": "paragraph",
+          "text": "Neither the ICA nor the Ancillary Activities Regulations impose control requirements with respect to the Ancillary Activities."
+        },
+        {
+          "type": "paragraph",
+          "text": "Where an entity limits its activities to IT Activities, no approval of the Minister is required under 495(7)(e). Footnote 3 [section 5 of the Information Technology Activities (Life Companies) Regulations ]"
+        },
+        {
+          "type": "paragraph",
+          "text": "The Minister’s approval is required with respect to the Ancillary Activities. [495(7)(e)]"
+        },
+        {
+          "type": "paragraph",
+          "text": "In the case of an entity that engages in the IT Activities, the entity:"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "is subject to the same restrictions as a Company in the areas of fiduciary, leasing, residential mortgage lending, dealing in goods, securities dealing and substantial investments activities; and",
+            "cannot engage in deposit-taking or in financial intermediary activities that expose the entity to material market or credit risk."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "[subsection 3(3) and section 4 of the Information Technology Activities (Property and Casualty Companies and Marine Companies) Regulations ]"
+        },
+        {
+          "type": "paragraph",
+          "text": "In the case of the Ancillary Activities, no business restrictions except where specified in the Minister’s approval."
+        },
+        {
+          "type": "paragraph",
+          "text": "Footnotes Footnote 1 OSFI is of the view that this class refers to foreign regulated entities that are subject to regulatory regimes that are substantially similar to the ones applicable to equivalent Canadian entities listed in classes 1(a) or (b) above. For example, in order to be a class 1(c) entity, a foreign entity that primarily engages outside Canada in a business that, if carried on in Canada, would be the business of providing fiduciary services would have to be regulated in a substantially similar manner as a trust company referred to in paragraph 495(1)(e) or (g). Return to footnote 1 Footnote 2 OSFI is of the view that if an OE engages in services referred to in paragraph 495(4)(c) and in another paragraph within 495(4), then the OE should be categorized under that other paragraph. For example, where a Company seeks to acquire control of an OE that will provide information technology services exclusively to members of the Company’s group, that entity should be categorized as a 495(4)(a) entity rather than a 495(4)(c) entity. In such a case, the acquisition would require the Minister’s approval under 495(7)(d.1), assuming the entity’s services are not contemplated by the Information Technology Activities (Property and Casualty Companies and Marine Companies) Regulations . Return to footnote 2 Footnote 3 This is effectively an exception to the general approval requirement referred to in class 4(b) above. Return to footnote 3"
+        }
+      ]
+    },
+    {
+      "heading": "Footnotes",
+      "heading_level": 2,
+      "full_text": "OSFI is of the view that this class refers to foreign regulated entities that are subject to regulatory regimes that are substantially similar to the ones applicable to equivalent Canadian entities listed in classes 1(a) or (b) above. For example, in order to be a class 1(c) entity, a foreign entity that primarily engages outside Canada in a business that, if carried on in Canada, would be the business of providing fiduciary services would have to be regulated in a substantially similar manner as a trust company referred to in paragraph 495(1)(e) or (g).\nReturn to footnote 1\nOSFI is of the view that if an OE engages in services referred to in paragraph 495(4)(c) and in another paragraph within 495(4), then the OE should be categorized under that other paragraph. For example, where a Company seeks to acquire control of an OE that will provide information technology services exclusively to members of the Company’s group, that entity should be categorized as a 495(4)(a) entity rather than a 495(4)(c) entity. In such a case, the acquisition would require the Minister’s approval under 495(7)(d.1), assuming the entity’s services are not contemplated by the Information Technology Activities (Property and Casualty Companies and Marine Companies) Regulations .\nReturn to footnote 2\nThis is effectively an exception to the general approval requirement referred to in class 4(b) above.\nReturn to footnote 3",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "OSFI is of the view that this class refers to foreign regulated entities that are subject to regulatory regimes that are substantially similar to the ones applicable to equivalent Canadian entities listed in classes 1(a) or (b) above. For example, in order to be a class 1(c) entity, a foreign entity that primarily engages outside Canada in a business that, if carried on in Canada, would be the business of providing fiduciary services would have to be regulated in a substantially similar manner as a trust company referred to in paragraph 495(1)(e) or (g)."
+        },
+        {
+          "type": "paragraph",
+          "text": "Return to footnote 1"
+        },
+        {
+          "type": "paragraph",
+          "text": "OSFI is of the view that if an OE engages in services referred to in paragraph 495(4)(c) and in another paragraph within 495(4), then the OE should be categorized under that other paragraph. For example, where a Company seeks to acquire control of an OE that will provide information technology services exclusively to members of the Company’s group, that entity should be categorized as a 495(4)(a) entity rather than a 495(4)(c) entity. In such a case, the acquisition would require the Minister’s approval under 495(7)(d.1), assuming the entity’s services are not contemplated by the Information Technology Activities (Property and Casualty Companies and Marine Companies) Regulations ."
+        },
+        {
+          "type": "paragraph",
+          "text": "Return to footnote 2"
+        },
+        {
+          "type": "paragraph",
+          "text": "This is effectively an exception to the general approval requirement referred to in class 4(b) above."
+        },
+        {
+          "type": "paragraph",
+          "text": "Return to footnote 3"
+        }
+      ]
+    }
+  ],
+  "title_normalized": "substantial investments appendix a3",
+  "publication_type_normalized": "regulatory_and_legislative_advisory",
+  "category_normalized": "regulatory_and_legislative",
+  "sector_normalized": [
+    "bank_act",
+    "cooperative_credit_associations_act",
+    "insurance_companies_act",
+    "trust_and_loan_companies_act"
+  ],
+  "guideline_number_normalized": "",
+  "applies_to_banks": true,
+  "applies_to_trust_loan": true,
+  "applies_to_life_insurance": false,
+  "applies_to_pc_insurance": false,
+  "applies_to_foreign_bank": false,
+  "applies_to_foreign_insurance": false,
+  "applies_to_cooperative": true,
+  "applies_to_bank_holding": false,
+  "effective_date_sort_key": "2015-06-30",
+  "status_sort_key": 1,
+  "authority_sort_key": 100,
+  "bm25_text": "Substantial Investments - Appendix A.3 Regulatory and legislative advisory Regulatory and legislative Bank Act Cooperative Credit Associations Act Insurance Companies Act Trust and Loan Companies Act Appendix A.3 – Property and Casualty Companies and Marine Companies Permitted Entities Footnotes",
+  "vector_text_prefix": "[OSFI Regulatory and legislative advisory  | Regulatory and legislative | Bank Act / Cooperative Credit Associations Act / Insurance Companies Act | FINAL_CURRENT | Effective 2015-06-30]",
+  "h1_title": "Substantial Investments - Appendix A.3",
+  "regulator": "OSFI",
+  "regulator_acronym": "OSFI",
+  "jurisdiction": "Canada",
+  "short_title": "",
+  "source_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/substantial-investments-appendix-a3"
+}

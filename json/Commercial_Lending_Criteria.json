@@ -1,0 +1,593 @@
+{
+  "source_system": "osfi_guidance_library",
+  "library_row_title": "Commercial Lending Criteria",
+  "library_row_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/commercial-lending-criteria",
+  "listing_date_raw": "June 30, 1992",
+  "listing_date_iso": "1992-06-30",
+  "listing_publication_type": "Guideline",
+  "listing_category": "Prudential Limits and Restrictions",
+  "listing_sector": [
+    "Life Insurance and Fraternal Companies",
+    "Trust and Loan Companies"
+  ],
+  "crawl_timestamp": "2026-03-11T00:00:00Z",
+  "detail_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/commercial-lending-criteria",
+  "canonical_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/commercial-lending-criteria",
+  "slug": "commercial-lending-criteria",
+  "title": "Commercial Lending Criteria",
+  "publication_type": "Guideline",
+  "category": "Prudential Limits and Restrictions",
+  "document_date_raw": "June 30, 1992",
+  "document_date_iso": "1992-06-30",
+  "sector": [
+    "Life Insurance and Fraternal Companies",
+    "Trust and Loan Companies"
+  ],
+  "effective_date_text": "",
+  "guideline_number": "",
+  "date_modified_raw": "1992-06-30T12:00:00Z",
+  "generate_pdf_url": "https://www.osfi-bsif.gc.ca/en/print/pdf/node/609",
+  "pdf_node_id": 609,
+  "direct_pdf_url": null,
+  "has_table_of_contents": true,
+  "toc_entries": [],
+  "has_related_documents": false,
+  "related_document_links_raw": [],
+  "consultation_status_text": null,
+  "consultation_status_refers_to_version": null,
+  "page_language": "en",
+  "word_count_raw_body": 2101,
+  "doc_id": "osfi.commercial-lending-criteria.standalone",
+  "doc_family_id": "osfi.commercial-lending-criteria",
+  "version_id": "",
+  "version_label": "Commercial Lending Criteria",
+  "version_sort_key": "",
+  "parent_doc_id": null,
+  "child_doc_ids": [],
+  "is_package_page": false,
+  "is_chapter_page": false,
+  "chapter_number": null,
+  "chapter_title": null,
+  "document_order_within_family": 0,
+  "supersedes_doc_id": null,
+  "superseded_by_doc_id": null,
+  "current_version_flag": true,
+  "status": "final_current",
+  "include_in_primary_corpus": true,
+  "include_in_support_corpus": false,
+  "include_in_context_corpus": false,
+  "effective_date_start": "1992-06-30",
+  "effective_date_end": null,
+  "effective_date_fye_split": false,
+  "effective_date_oct_fye": null,
+  "effective_date_dec_fye": null,
+  "is_future_effective": false,
+  "is_rescinded": false,
+  "is_draft_or_consultation": false,
+  "rescission_date": null,
+  "consultation_closing_date": null,
+  "as_of_applicability": "2026-03-23",
+  "rule_applied": "rule_5_final_current",
+  "authority_class": "primary_normative",
+  "authority_level": 100,
+  "nova_tier": 1,
+  "prudential_weight": 1.0,
+  "is_primary_normative": true,
+  "is_supporting_interpretive": false,
+  "is_context_only": false,
+  "document_class": "standalone_guideline",
+  "guidance_type_normalized": "guideline",
+  "section_headings": [
+    {
+      "level": 2,
+      "text": "Commercial Lending",
+      "id": "h2-0"
+    },
+    {
+      "level": 2,
+      "text": "Approval Process",
+      "id": "h2-1"
+    },
+    {
+      "level": 2,
+      "text": "Role of OSFI",
+      "id": "h2-2"
+    },
+    {
+      "level": 2,
+      "text": "Criteria",
+      "id": "h2-3"
+    },
+    {
+      "level": 3,
+      "text": "Current Position",
+      "id": "h3-4"
+    },
+    {
+      "level": 3,
+      "text": "Past Experience",
+      "id": "h3-5"
+    },
+    {
+      "level": 3,
+      "text": "Earnings Experience",
+      "id": "h3-6"
+    },
+    {
+      "level": 3,
+      "text": "Expertise",
+      "id": "h3-7"
+    },
+    {
+      "level": 3,
+      "text": "Business Plan",
+      "id": "h3-8"
+    },
+    {
+      "level": 3,
+      "text": "Risk Management",
+      "id": "h3-9"
+    },
+    {
+      "level": 3,
+      "text": "Credit Granting, Documentation and Collection",
+      "id": "h3-10"
+    },
+    {
+      "level": 3,
+      "text": "Credit Monitoring",
+      "id": "h3-11"
+    }
+  ],
+  "heading_path": [
+    "Commercial Lending Criteria"
+  ],
+  "toc_depth": 3,
+  "has_appendices": false,
+  "appendix_ids": [],
+  "has_tables": false,
+  "table_count": 0,
+  "has_footnotes": false,
+  "footnote_count": 0,
+  "inline_cross_references": [],
+  "quoted_external_references": [],
+  "raw_html_sha256": "5df498b40db5766ccebca41b9a9036d091ad6708c9c8fbb4941579bb6b1d1fb9",
+  "raw_pdf_sha256": null,
+  "normalized_text_sha256": null,
+  "raw_html_path": "bronze/osfi/html/final_current/commercial-lending-criteria.html",
+  "normalized_md_path": "silver/osfi/md/final_current/commercial-lending-criteria.md",
+  "canonical_json_path": "silver/osfi/json/final_current/commercial-lending-criteria.json",
+  "content_source": "HTML",
+  "parser_version": "osfi-parser-v2.1.0",
+  "normalizer_version": "osfi-normalizer-v1.4.0",
+  "quality_score": 1.0,
+  "quality_flags": [],
+  "download_timestamp": "2026-03-11T00:00:00Z",
+  "enriched_timestamp": "2026-03-23T09:53:50.786406Z",
+  "sections": [
+    {
+      "heading": "",
+      "heading_level": 2,
+      "full_text": "This guideline outlines the approach the Office of the Superintendent of Financial Institutions uses in permitting trust and loan companies, Canadian incorporated life insurance companies and cooperative credit associations with capital of over $25 million to hold commercial loans in excess of 5 per cent of the total assets of the company or association (\"company\").",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "This guideline outlines the approach the Office of the Superintendent of Financial Institutions uses in permitting trust and loan companies, Canadian incorporated life insurance companies and cooperative credit associations with capital of over $25 million to hold commercial loans in excess of 5 per cent of the total assets of the company or association (\"company\")."
+        }
+      ]
+    },
+    {
+      "heading": "Commercial Lending",
+      "heading_level": 2,
+      "full_text": "The Trust and Loan Companies Act, the Insurance Companies Act and the Cooperative Credit Associations Act (referred to hereinafter collectively as \"the Acts\" or individually as \"the Act\") provide full commercial lending powers to federally registered trust and loan companies, Canadian incorporated life insurance companies and cooperative credit associations respectively, subject to certain conditions. These conditions include a capital base of at least $25 million and supervisory approval by the Superintendent of Financial Institutions. Companies that do not meet these conditions are limited to commercial lending activities not exceeding 5 per cent of total assets as defined by regulations. The regulations define \"total assets\" to incorporate the assets of a company's prescribed subsidiaries.\nSupervisory approval by the Office of the Superintendent of Financial Institutions to engage in commercial lending will be granted only when certain established and defined criteria are met. The purpose of applying these criteria is to ensure that companies have the appropriate mechanisms in place to make, control and monitor a commercial loan portfolio subject to the prudent person approach.\nThe Acts define commercial lending for purposes of these expanded powers. The term \"commercial loan\" is defined to include not only loans in the conventional sense but also certain loan substitutes and investments in debt and equity securities of corporations and unincorporated entities. The definition does, however, exclude several classes of loans and investments that are not to be considered commercial loans. These include:\n  - small loans - less than $250,000 to natural persons (these are essentially consumer loans and will not be subject to portfolio limits under the Acts);\n  - mortgage loans that are insured or meet certain requirements regarding loan-to-value ratios;\n  - certain deposits by a company with another financial institution;\n  - loans and investments in debt obligations directly or indirectly backed by the guarantee of a government or prescribed international agency;\n  - loans and investments in debt obligations either directly or indirectly backed by the guarantee of another financial institution or secured by deposits with any financial institution, including the company;\n  - investments in debt or equity securities that are widely distributed within the meaning of the regulations; and\n  - investments in participating shares.\nsmall loans - less than $250,000 to natural persons (these are essentially consumer loans and will not be subject to portfolio limits under the Acts);\nmortgage loans that are insured or meet certain requirements regarding loan-to-value ratios;\ncertain deposits by a company with another financial institution;\nloans and investments in debt obligations directly or indirectly backed by the guarantee of a government or prescribed international agency;\nloans and investments in debt obligations either directly or indirectly backed by the guarantee of another financial institution or secured by deposits with any financial institution, including the company;\ninvestments in debt or equity securities that are widely distributed within the meaning of the regulations; and\ninvestments in participating shares.\nIn defining a commercial loan, the Acts define \"loan\" with a modified meaning that incorporates close substitutes for loans, such as acceptances and other guarantees, financial leases, conditional sales contracts, repurchase agreements, and other similar arrangements.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "The Trust and Loan Companies Act, the Insurance Companies Act and the Cooperative Credit Associations Act (referred to hereinafter collectively as \"the Acts\" or individually as \"the Act\") provide full commercial lending powers to federally registered trust and loan companies, Canadian incorporated life insurance companies and cooperative credit associations respectively, subject to certain conditions. These conditions include a capital base of at least $25 million and supervisory approval by the Superintendent of Financial Institutions. Companies that do not meet these conditions are limited to commercial lending activities not exceeding 5 per cent of total assets as defined by regulations. The regulations define \"total assets\" to incorporate the assets of a company's prescribed subsidiaries."
+        },
+        {
+          "type": "paragraph",
+          "text": "Supervisory approval by the Office of the Superintendent of Financial Institutions to engage in commercial lending will be granted only when certain established and defined criteria are met. The purpose of applying these criteria is to ensure that companies have the appropriate mechanisms in place to make, control and monitor a commercial loan portfolio subject to the prudent person approach."
+        },
+        {
+          "type": "paragraph",
+          "text": "The Acts define commercial lending for purposes of these expanded powers. The term \"commercial loan\" is defined to include not only loans in the conventional sense but also certain loan substitutes and investments in debt and equity securities of corporations and unincorporated entities. The definition does, however, exclude several classes of loans and investments that are not to be considered commercial loans. These include:"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "small loans - less than $250,000 to natural persons (these are essentially consumer loans and will not be subject to portfolio limits under the Acts);",
+            "mortgage loans that are insured or meet certain requirements regarding loan-to-value ratios;",
+            "certain deposits by a company with another financial institution;",
+            "loans and investments in debt obligations directly or indirectly backed by the guarantee of a government or prescribed international agency;",
+            "loans and investments in debt obligations either directly or indirectly backed by the guarantee of another financial institution or secured by deposits with any financial institution, including the company;",
+            "investments in debt or equity securities that are widely distributed within the meaning of the regulations; and",
+            "investments in participating shares."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "small loans - less than $250,000 to natural persons (these are essentially consumer loans and will not be subject to portfolio limits under the Acts);"
+        },
+        {
+          "type": "paragraph",
+          "text": "mortgage loans that are insured or meet certain requirements regarding loan-to-value ratios;"
+        },
+        {
+          "type": "paragraph",
+          "text": "certain deposits by a company with another financial institution;"
+        },
+        {
+          "type": "paragraph",
+          "text": "loans and investments in debt obligations directly or indirectly backed by the guarantee of a government or prescribed international agency;"
+        },
+        {
+          "type": "paragraph",
+          "text": "loans and investments in debt obligations either directly or indirectly backed by the guarantee of another financial institution or secured by deposits with any financial institution, including the company;"
+        },
+        {
+          "type": "paragraph",
+          "text": "investments in debt or equity securities that are widely distributed within the meaning of the regulations; and"
+        },
+        {
+          "type": "paragraph",
+          "text": "investments in participating shares."
+        },
+        {
+          "type": "paragraph",
+          "text": "In defining a commercial loan, the Acts define \"loan\" with a modified meaning that incorporates close substitutes for loans, such as acceptances and other guarantees, financial leases, conditional sales contracts, repurchase agreements, and other similar arrangements."
+        }
+      ]
+    },
+    {
+      "heading": "Approval Process",
+      "heading_level": 2,
+      "full_text": "The Office expects companies to follow sound risk management practices in the context of commercial lending activities. Approval for expanding commercial lending beyond the limit of 5 per cent of total assets depends on the company demonstrating compliance not only with the criteria established with respect to commercial lending but with all provisions of the Act, regulations (including capital adequacy tests), and Office guidelines and rulings.\nThe approval process will encompass the following elements:\n  1. All companies now in excess of the 5 per cent limit or wishing to exceed the 5 per cent limit are required to submit a request for approval. Requests will be considered on an institution by institution basis.\n  2. For those companies in excess of the 5 per cent limit, transitional arrangements will be available to allow companies to continue to operate pending processing of applications.\n  3. Approvals will take two forms; general approval without predetermined limits and approval with predetermined limits.\n  4. To obtain approval for commercial lending without a predetermined limit, companies will need to have a strong capital position, a consistently sound record of credit management based on a significant volume of commercial lending business and, through a description of their commercial lending business plan, their credit risk management programs, their credit granting and monitoring processes, and matters related to the other criteria outlined below, exhibit a strong capacity to manage the risks associated with commercial lending.\n  5. Companies seeking to obtain approval beyond the 5 per cent limit which do not meet all of the conditions described in 4 but which exhibit an adequate capacity to manage the risks associated with commercial lending using the criteria outlined below will be permitted to increase commercial lending activities gradually. When previously authorized limits are approached these companies may apply for further increases in authorized limits or may seek approval to conduct commercial lending without predetermined limit if they meet all of the conditions described in 4.\n  6. Information contained in applications will be confirmed by reference to the Office's assessment of the company's condition and past performance obtained through its supervisory activities including monitoring, analysis and examination processes.\n  7. Under normal circumstances previously authorized expanded commercial lending powers will not be withdrawn. The Office will use its supervisory processes to ensure that companies follow sound risk management practices as they relate to commercial lending.\nAll companies now in excess of the 5 per cent limit or wishing to exceed the 5 per cent limit are required to submit a request for approval. Requests will be considered on an institution by institution basis.\nFor those companies in excess of the 5 per cent limit, transitional arrangements will be available to allow companies to continue to operate pending processing of applications.\nApprovals will take two forms; general approval without predetermined limits and approval with predetermined limits.\nTo obtain approval for commercial lending without a predetermined limit, companies will need to have a strong capital position, a consistently sound record of credit management based on a significant volume of commercial lending business and, through a description of their commercial lending business plan, their credit risk management programs, their credit granting and monitoring processes, and matters related to the other criteria outlined below, exhibit a strong capacity to manage the risks associated with commercial lending.\nCompanies seeking to obtain approval beyond the 5 per cent limit which do not meet all of the conditions described in 4 but which exhibit an adequate capacity to manage the risks associated with commercial lending using the criteria outlined below will be permitted to increase commercial lending activities gradually. When previously authorized limits are approached these companies may apply for further increases in authorized limits or may seek approval to conduct commercial lending without predetermined limit if they meet all of the conditions described in 4.\nInformation contained in applications will be confirmed by reference to the Office's assessment of the company's condition and past performance obtained through its supervisory activities including monitoring, analysis and examination processes.\nUnder normal circumstances previously authorized expanded commercial lending powers will not be withdrawn. The Office will use its supervisory processes to ensure that companies follow sound risk management practices as they relate to commercial lending.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "The Office expects companies to follow sound risk management practices in the context of commercial lending activities. Approval for expanding commercial lending beyond the limit of 5 per cent of total assets depends on the company demonstrating compliance not only with the criteria established with respect to commercial lending but with all provisions of the Act, regulations (including capital adequacy tests), and Office guidelines and rulings."
+        },
+        {
+          "type": "paragraph",
+          "text": "The approval process will encompass the following elements:"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "All companies now in excess of the 5 per cent limit or wishing to exceed the 5 per cent limit are required to submit a request for approval. Requests will be considered on an institution by institution basis.",
+            "For those companies in excess of the 5 per cent limit, transitional arrangements will be available to allow companies to continue to operate pending processing of applications.",
+            "Approvals will take two forms; general approval without predetermined limits and approval with predetermined limits.",
+            "To obtain approval for commercial lending without a predetermined limit, companies will need to have a strong capital position, a consistently sound record of credit management based on a significant volume of commercial lending business and, through a description of their commercial lending business plan, their credit risk management programs, their credit granting and monitoring processes, and matters related to the other criteria outlined below, exhibit a strong capacity to manage the risks associated with commercial lending.",
+            "Companies seeking to obtain approval beyond the 5 per cent limit which do not meet all of the conditions described in 4 but which exhibit an adequate capacity to manage the risks associated with commercial lending using the criteria outlined below will be permitted to increase commercial lending activities gradually. When previously authorized limits are approached these companies may apply for further increases in authorized limits or may seek approval to conduct commercial lending without predetermined limit if they meet all of the conditions described in 4.",
+            "Information contained in applications will be confirmed by reference to the Office's assessment of the company's condition and past performance obtained through its supervisory activities including monitoring, analysis and examination processes.",
+            "Under normal circumstances previously authorized expanded commercial lending powers will not be withdrawn. The Office will use its supervisory processes to ensure that companies follow sound risk management practices as they relate to commercial lending."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "All companies now in excess of the 5 per cent limit or wishing to exceed the 5 per cent limit are required to submit a request for approval. Requests will be considered on an institution by institution basis."
+        },
+        {
+          "type": "paragraph",
+          "text": "For those companies in excess of the 5 per cent limit, transitional arrangements will be available to allow companies to continue to operate pending processing of applications."
+        },
+        {
+          "type": "paragraph",
+          "text": "Approvals will take two forms; general approval without predetermined limits and approval with predetermined limits."
+        },
+        {
+          "type": "paragraph",
+          "text": "To obtain approval for commercial lending without a predetermined limit, companies will need to have a strong capital position, a consistently sound record of credit management based on a significant volume of commercial lending business and, through a description of their commercial lending business plan, their credit risk management programs, their credit granting and monitoring processes, and matters related to the other criteria outlined below, exhibit a strong capacity to manage the risks associated with commercial lending."
+        },
+        {
+          "type": "paragraph",
+          "text": "Companies seeking to obtain approval beyond the 5 per cent limit which do not meet all of the conditions described in 4 but which exhibit an adequate capacity to manage the risks associated with commercial lending using the criteria outlined below will be permitted to increase commercial lending activities gradually. When previously authorized limits are approached these companies may apply for further increases in authorized limits or may seek approval to conduct commercial lending without predetermined limit if they meet all of the conditions described in 4."
+        },
+        {
+          "type": "paragraph",
+          "text": "Information contained in applications will be confirmed by reference to the Office's assessment of the company's condition and past performance obtained through its supervisory activities including monitoring, analysis and examination processes."
+        },
+        {
+          "type": "paragraph",
+          "text": "Under normal circumstances previously authorized expanded commercial lending powers will not be withdrawn. The Office will use its supervisory processes to ensure that companies follow sound risk management practices as they relate to commercial lending."
+        }
+      ]
+    },
+    {
+      "heading": "Role of OSFI",
+      "heading_level": 2,
+      "full_text": "As regulator, OSFI will:\n  - consider requests from institutions with respect to increasing the approved limits on commercial lending or removing such limits;\n  - establish, maintain and communicate the criteria used to consider such requests;\n  - upon review, provide written approvals where established criteria are met; and\n  - review, through the examination and monitoring process, the commercial lending activities to ensure compliance with established criteria.\nconsider requests from institutions with respect to increasing the approved limits on commercial lending or removing such limits;\nestablish, maintain and communicate the criteria used to consider such requests;\nupon review, provide written approvals where established criteria are met; and\nreview, through the examination and monitoring process, the commercial lending activities to ensure compliance with established criteria.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "As regulator, OSFI will:"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "consider requests from institutions with respect to increasing the approved limits on commercial lending or removing such limits;",
+            "establish, maintain and communicate the criteria used to consider such requests;",
+            "upon review, provide written approvals where established criteria are met; and",
+            "review, through the examination and monitoring process, the commercial lending activities to ensure compliance with established criteria."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "consider requests from institutions with respect to increasing the approved limits on commercial lending or removing such limits;"
+        },
+        {
+          "type": "paragraph",
+          "text": "establish, maintain and communicate the criteria used to consider such requests;"
+        },
+        {
+          "type": "paragraph",
+          "text": "upon review, provide written approvals where established criteria are met; and"
+        },
+        {
+          "type": "paragraph",
+          "text": "review, through the examination and monitoring process, the commercial lending activities to ensure compliance with established criteria."
+        }
+      ]
+    },
+    {
+      "heading": "Criteria",
+      "heading_level": 2,
+      "full_text": "Each application for approval of expanded commercial lending authorities will be reviewed in light of the criteria outlined below. These criteria are consistent with those to be applied in approving similar requests from other types of regulated financial institutions.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Each application for approval of expanded commercial lending authorities will be reviewed in light of the criteria outlined below. These criteria are consistent with those to be applied in approving similar requests from other types of regulated financial institutions."
+        }
+      ]
+    },
+    {
+      "heading": "Current Position",
+      "heading_level": 3,
+      "full_text": "A review of the company's current position with respect to:\n  - the existing authorized level of commercial lending activities;\n  - capital adequacy position; and\n  - compliance with the Act, regulations, guidelines and rulings.\nthe existing authorized level of commercial lending activities;\ncapital adequacy position; and\ncompliance with the Act, regulations, guidelines and rulings.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "A review of the company's current position with respect to:"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "the existing authorized level of commercial lending activities;",
+            "capital adequacy position; and",
+            "compliance with the Act, regulations, guidelines and rulings."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "the existing authorized level of commercial lending activities;"
+        },
+        {
+          "type": "paragraph",
+          "text": "capital adequacy position; and"
+        },
+        {
+          "type": "paragraph",
+          "text": "compliance with the Act, regulations, guidelines and rulings."
+        }
+      ]
+    },
+    {
+      "heading": "Past Experience",
+      "heading_level": 3,
+      "full_text": "An analysis of past experience in credit management including:\n  - volume of commercial lending activity undertaken in the past five years;\n  - statistics on non-performing loans, provisions, write-offs, renegotiated reduced rate loans, arrears; and\n  - other asset quality indicators for both commercial and other loans.\nvolume of commercial lending activity undertaken in the past five years;\nstatistics on non-performing loans, provisions, write-offs, renegotiated reduced rate loans, arrears; and\nother asset quality indicators for both commercial and other loans.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "An analysis of past experience in credit management including:"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "volume of commercial lending activity undertaken in the past five years;",
+            "statistics on non-performing loans, provisions, write-offs, renegotiated reduced rate loans, arrears; and",
+            "other asset quality indicators for both commercial and other loans."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "volume of commercial lending activity undertaken in the past five years;"
+        },
+        {
+          "type": "paragraph",
+          "text": "statistics on non-performing loans, provisions, write-offs, renegotiated reduced rate loans, arrears; and"
+        },
+        {
+          "type": "paragraph",
+          "text": "other asset quality indicators for both commercial and other loans."
+        }
+      ]
+    },
+    {
+      "heading": "Earnings Experience",
+      "heading_level": 3,
+      "full_text": "An analysis of annual earnings experience segmented by significant type of business activity (for example the categories used in regulatory reports filed with the Office) for the previous five year period.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "An analysis of annual earnings experience segmented by significant type of business activity (for example the categories used in regulatory reports filed with the Office) for the previous five year period."
+        }
+      ]
+    },
+    {
+      "heading": "Expertise",
+      "heading_level": 3,
+      "full_text": "Background information and biographies of key senior commercial loan officers including information on past experience and areas of specialization in commercial lending.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Background information and biographies of key senior commercial loan officers including information on past experience and areas of specialization in commercial lending."
+        }
+      ]
+    },
+    {
+      "heading": "Business Plan",
+      "heading_level": 3,
+      "full_text": "A comprehensive business plan indicating the strategic direction of commercial lending activities, markets and market share targets, forecasts and budgets.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "A comprehensive business plan indicating the strategic direction of commercial lending activities, markets and market share targets, forecasts and budgets."
+        }
+      ]
+    },
+    {
+      "heading": "Risk Management",
+      "heading_level": 3,
+      "full_text": "A description of the credit risk identification and management program. This program should include the following essential elements:\n  - credit risk philosophy governing the extent to which the company is willing to assume credit risk;\n  - role of the board of directors and management;\n  - general areas of credit in which an institution is prepared to extend credit, types of credit facilities, borrowers and geographic areas;\n  - levels of delegation of credit approval, and provisions or write-off authorities;\n  - portfolio concentration limits for the following: a single counterparty; a group of associated counterparties; an industrial sector; a geographic region; individual foreign country or class of countries; one type of credit facility; a class of security; (limits should be provided for both the financial institution making the application and, where appropriate, on a consolidated basis for the institution and its subsidiaries).\n  - portfolio diversification policies.\ncredit risk philosophy governing the extent to which the company is willing to assume credit risk;\nrole of the board of directors and management;\ngeneral areas of credit in which an institution is prepared to extend credit, types of credit facilities, borrowers and geographic areas;\nlevels of delegation of credit approval, and provisions or write-off authorities;\nportfolio concentration limits for the following:\n  - a single counterparty;\n  - a group of associated counterparties;\n  - an industrial sector;\n  - a geographic region;\n  - individual foreign country or class of countries;\n  - one type of credit facility;\n  - a class of security;\n(limits should be provided for both the financial institution making the application and, where appropriate, on a consolidated basis for the institution and its subsidiaries).\nportfolio diversification policies.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "A description of the credit risk identification and management program. This program should include the following essential elements:"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "credit risk philosophy governing the extent to which the company is willing to assume credit risk;",
+            "role of the board of directors and management;",
+            "general areas of credit in which an institution is prepared to extend credit, types of credit facilities, borrowers and geographic areas;",
+            "levels of delegation of credit approval, and provisions or write-off authorities;",
+            "portfolio concentration limits for the following: a single counterparty; a group of associated counterparties; an industrial sector; a geographic region; individual foreign country or class of countries; one type of credit facility; a class of security; (limits should be provided for both the financial institution making the application and, where appropriate, on a consolidated basis for the institution and its subsidiaries).",
+            "portfolio diversification policies."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "credit risk philosophy governing the extent to which the company is willing to assume credit risk;"
+        },
+        {
+          "type": "paragraph",
+          "text": "role of the board of directors and management;"
+        },
+        {
+          "type": "paragraph",
+          "text": "general areas of credit in which an institution is prepared to extend credit, types of credit facilities, borrowers and geographic areas;"
+        },
+        {
+          "type": "paragraph",
+          "text": "levels of delegation of credit approval, and provisions or write-off authorities;"
+        },
+        {
+          "type": "paragraph",
+          "text": "portfolio concentration limits for the following:"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "a single counterparty;",
+            "a group of associated counterparties;",
+            "an industrial sector;",
+            "a geographic region;",
+            "individual foreign country or class of countries;",
+            "one type of credit facility;",
+            "a class of security;"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "(limits should be provided for both the financial institution making the application and, where appropriate, on a consolidated basis for the institution and its subsidiaries)."
+        },
+        {
+          "type": "paragraph",
+          "text": "portfolio diversification policies."
+        }
+      ]
+    },
+    {
+      "heading": "Credit Granting, Documentation and Collection",
+      "heading_level": 3,
+      "full_text": "A description of the credit process including:\n  - evaluating credit proposals;\n  - credit documentation standards;\n  - credit collection processes.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "A description of the credit process including:"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "evaluating credit proposals;",
+            "credit documentation standards;",
+            "credit collection processes."
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "Credit Monitoring",
+      "heading_level": 3,
+      "full_text": "A description of the credit monitoring and control practices including:\n  - portfolio characteristics analysis to track single and associated groups of counterparties, types of credit facilities, industries and geographic regions;\n  - credit rating systems which define risk rating criteria and rates the institution's risks accordingly including the classification of credits as satisfactory, below standard or unsatisfactory;\n  - credit review process outlining the regular monitoring of borrowers and applicable procedures for re-evaluation and re-rating of credits;\n  - internal credit inspection and audit processes and procedures to ensure that credit processes are in compliance with the institution's policies.\nportfolio characteristics analysis to track single and associated groups of counterparties, types of credit facilities, industries and geographic regions;\ncredit rating systems which define risk rating criteria and rates the institution's risks accordingly including the classification of credits as satisfactory, below standard or unsatisfactory;\ncredit review process outlining the regular monitoring of borrowers and applicable procedures for re-evaluation and re-rating of credits;\ninternal credit inspection and audit processes and procedures to ensure that credit processes are in compliance with the institution's policies.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "A description of the credit monitoring and control practices including:"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "portfolio characteristics analysis to track single and associated groups of counterparties, types of credit facilities, industries and geographic regions;",
+            "credit rating systems which define risk rating criteria and rates the institution's risks accordingly including the classification of credits as satisfactory, below standard or unsatisfactory;",
+            "credit review process outlining the regular monitoring of borrowers and applicable procedures for re-evaluation and re-rating of credits;",
+            "internal credit inspection and audit processes and procedures to ensure that credit processes are in compliance with the institution's policies."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "portfolio characteristics analysis to track single and associated groups of counterparties, types of credit facilities, industries and geographic regions;"
+        },
+        {
+          "type": "paragraph",
+          "text": "credit rating systems which define risk rating criteria and rates the institution's risks accordingly including the classification of credits as satisfactory, below standard or unsatisfactory;"
+        },
+        {
+          "type": "paragraph",
+          "text": "credit review process outlining the regular monitoring of borrowers and applicable procedures for re-evaluation and re-rating of credits;"
+        },
+        {
+          "type": "paragraph",
+          "text": "internal credit inspection and audit processes and procedures to ensure that credit processes are in compliance with the institution's policies."
+        }
+      ]
+    }
+  ],
+  "title_normalized": "commercial lending criteria",
+  "publication_type_normalized": "guideline",
+  "category_normalized": "prudential_limits_and_restrictions",
+  "sector_normalized": [
+    "life_insurance",
+    "trust_and_loan_companies"
+  ],
+  "guideline_number_normalized": "",
+  "applies_to_banks": false,
+  "applies_to_trust_loan": true,
+  "applies_to_life_insurance": true,
+  "applies_to_pc_insurance": false,
+  "applies_to_foreign_bank": false,
+  "applies_to_foreign_insurance": false,
+  "applies_to_cooperative": false,
+  "applies_to_bank_holding": false,
+  "effective_date_sort_key": "1992-06-30",
+  "status_sort_key": 1,
+  "authority_sort_key": 100,
+  "bm25_text": "Commercial Lending Criteria Guideline Prudential Limits and Restrictions Life Insurance and Fraternal Companies Trust and Loan Companies Commercial Lending Approval Process Role of OSFI Criteria Current Position Past Experience Earnings Experience Expertise Business Plan Risk Management Credit Granting, Documentation and Collection Credit Monitoring",
+  "vector_text_prefix": "[OSFI Guideline  | Prudential Limits and Restrictions | Life Insurance and Fraternal Companies / Trust and Loan Companies | FINAL_CURRENT | Effective 1992-06-30]",
+  "h1_title": "Commercial Lending Criteria",
+  "regulator": "OSFI",
+  "regulator_acronym": "OSFI",
+  "jurisdiction": "Canada",
+  "short_title": "",
+  "source_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/commercial-lending-criteria"
+}

@@ -1,0 +1,344 @@
+{
+  "source_system": "osfi_guidance_library",
+  "library_row_title": "OSFI Summarizes Responses to its Climate Risk Discussion Paper",
+  "library_row_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/osfi-summarizes-responses-its-climate-risk-discussion-paper",
+  "listing_date_raw": "October 12, 2021",
+  "listing_date_iso": "2021-10-12",
+  "listing_publication_type": "Letter",
+  "listing_category": "",
+  "listing_sector": [
+    "Banks",
+    "Foreign Bank Branches",
+    "Life Insurance and Fraternal Companies",
+    "Property and Casualty Companies",
+    "Trust and Loan Companies"
+  ],
+  "crawl_timestamp": "2026-03-11T00:00:00Z",
+  "detail_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/osfi-summarizes-responses-its-climate-risk-discussion-paper",
+  "canonical_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/osfi-summarizes-responses-its-climate-risk-discussion-paper",
+  "slug": "osfi-summarizes-responses-its-climate-risk-discussion-paper",
+  "title": "OSFI Summarizes Responses to its Climate Risk Discussion Paper",
+  "publication_type": "Letter",
+  "category": "",
+  "document_date_raw": "October 12, 2021",
+  "document_date_iso": "2021-10-12",
+  "sector": [
+    "Banks",
+    "Foreign Bank Branches",
+    "Life Insurance and Fraternal Companies",
+    "Property and Casualty Companies",
+    "Trust and Loan Companies"
+  ],
+  "effective_date_text": "",
+  "guideline_number": "",
+  "date_modified_raw": "2021-10-12T12:00:00Z",
+  "generate_pdf_url": "https://www.osfi-bsif.gc.ca/en/print/pdf/node/484",
+  "pdf_node_id": 484,
+  "direct_pdf_url": "https://www.osfi-bsif.gc.ca/sites/default/files/documents/clmt-rsk_en.pdf",
+  "has_table_of_contents": true,
+  "toc_entries": [],
+  "has_related_documents": true,
+  "related_document_links_raw": [
+    {
+      "title": "Navigating Uncertainty in Climate Change (PDF, 2.41 MB)",
+      "url": "https://www.osfi-bsif.gc.ca/sites/default/files/documents/clmt-rsk_en.pdf"
+    }
+  ],
+  "consultation_status_text": null,
+  "consultation_status_refers_to_version": null,
+  "page_language": "en",
+  "word_count_raw_body": 980,
+  "doc_id": "osfi.b15.transmittal",
+  "doc_family_id": "osfi.b15",
+  "version_id": "",
+  "version_label": "OSFI Summarizes Responses to its Climate Risk Discussion Pap",
+  "version_sort_key": "",
+  "parent_doc_id": null,
+  "child_doc_ids": [],
+  "is_package_page": false,
+  "is_chapter_page": false,
+  "chapter_number": null,
+  "chapter_title": null,
+  "document_order_within_family": 0,
+  "supersedes_doc_id": null,
+  "superseded_by_doc_id": null,
+  "current_version_flag": true,
+  "status": "final_current",
+  "include_in_primary_corpus": false,
+  "include_in_support_corpus": true,
+  "include_in_context_corpus": false,
+  "effective_date_start": "2021-10-12",
+  "effective_date_end": null,
+  "effective_date_fye_split": false,
+  "effective_date_oct_fye": null,
+  "effective_date_dec_fye": null,
+  "is_future_effective": false,
+  "is_rescinded": false,
+  "is_draft_or_consultation": false,
+  "rescission_date": null,
+  "consultation_closing_date": null,
+  "as_of_applicability": "2026-03-23",
+  "rule_applied": "rule_5_final_current",
+  "authority_class": "official_support",
+  "authority_level": 60,
+  "nova_tier": 2,
+  "prudential_weight": 0.7,
+  "is_primary_normative": false,
+  "is_supporting_interpretive": true,
+  "is_context_only": false,
+  "document_class": "transmittal_letter",
+  "guidance_type_normalized": "letter",
+  "section_headings": [
+    {
+      "level": 2,
+      "text": "Summary of Feedback to the Discussion Paper",
+      "id": "h2-0"
+    },
+    {
+      "level": 2,
+      "text": "Next Steps",
+      "id": "h2-1"
+    },
+    {
+      "level": 3,
+      "text": "Climate-related risks",
+      "id": "h3-2"
+    },
+    {
+      "level": 3,
+      "text": "Ways FRFIs can prepare for, and build resilience to, climate-related risks",
+      "id": "h3-3"
+    },
+    {
+      "level": 3,
+      "text": "Ways FRPPs can prepare for, and build resilience to, climate-related risks",
+      "id": "h3-4"
+    },
+    {
+      "level": 3,
+      "text": "Climate-related financial disclosure",
+      "id": "h3-5"
+    },
+    {
+      "level": 3,
+      "text": "OSFI’s role in climate change",
+      "id": "h3-6"
+    }
+  ],
+  "heading_path": [
+    "OSFI Summarizes Responses to its Climate Risk Discussion Paper"
+  ],
+  "toc_depth": 3,
+  "has_appendices": false,
+  "appendix_ids": [],
+  "has_tables": false,
+  "table_count": 0,
+  "has_footnotes": false,
+  "footnote_count": 0,
+  "inline_cross_references": [],
+  "quoted_external_references": [],
+  "raw_html_sha256": "483f7bdac03ed5416e139a1817dd424e13f72c0a5163d277f1db82b8ab0b7c70",
+  "raw_pdf_sha256": null,
+  "normalized_text_sha256": null,
+  "raw_html_path": "bronze/osfi/html/final_current/osfi-summarizes-responses-its-climate-risk-discussion-paper.html",
+  "normalized_md_path": "silver/osfi/md/final_current/osfi-summarizes-responses-its-climate-risk-discussion-paper.md",
+  "canonical_json_path": "silver/osfi/json/final_current/osfi-summarizes-responses-its-climate-risk-discussion-paper.json",
+  "content_source": "HTML",
+  "parser_version": "osfi-parser-v2.1.0",
+  "normalizer_version": "osfi-normalizer-v1.4.0",
+  "quality_score": 1.0,
+  "quality_flags": [],
+  "download_timestamp": "2026-03-11T00:00:00Z",
+  "enriched_timestamp": "2026-03-23T09:53:57.300983Z",
+  "sections": [
+    {
+      "heading": "",
+      "heading_level": 2,
+      "full_text": "  - Navigating Uncertainty in Climate Change (PDF, 2.41 MB)\nTo: Federally regulated financial institutions and federally regulated pension plans\nOn January 11, 2021, OSFI released a discussion paper entitled Navigating Uncertainty in Climate Change (PDF) . In this Discussion Paper, OSFI sought feedback on risks arising from climate change that can affect the safety and soundness of federally regulated financial institutions (FRFIs) and federally regulated pension plans (FRPPs).\nOSFI received feedback on its Discussion Paper from over 70 respondents, including FRFIs, FRPPs, industry and professional associations, interested organizations and individuals. OSFI thanks those who submitted comments.",
+      "content": [
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Navigating Uncertainty in Climate Change (PDF, 2.41 MB)"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "To: Federally regulated financial institutions and federally regulated pension plans"
+        },
+        {
+          "type": "paragraph",
+          "text": "On January 11, 2021, OSFI released a discussion paper entitled Navigating Uncertainty in Climate Change (PDF) . In this Discussion Paper, OSFI sought feedback on risks arising from climate change that can affect the safety and soundness of federally regulated financial institutions (FRFIs) and federally regulated pension plans (FRPPs)."
+        },
+        {
+          "type": "paragraph",
+          "text": "OSFI received feedback on its Discussion Paper from over 70 respondents, including FRFIs, FRPPs, industry and professional associations, interested organizations and individuals. OSFI thanks those who submitted comments."
+        }
+      ]
+    },
+    {
+      "heading": "Summary of Feedback to the Discussion Paper",
+      "heading_level": 2,
+      "full_text": "Respondents to the Discussion Paper generally support OSFI’s focus on climate-related risks. Many FRFI and FRPP respondents indicated they are in the early stages of assessing and quantifying these risks. There was general agreement that any new OSFI climate-related guidance be principles-based and aligned with global standards where they exist, while considering the Canadian context.\nOSFI received a range of suggestions on climate-related scenario analysis, disclosure, taxonomy, and measurement metrics, among other things. The attached Annex provides a brief summary of responses to the consultation.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Respondents to the Discussion Paper generally support OSFI’s focus on climate-related risks. Many FRFI and FRPP respondents indicated they are in the early stages of assessing and quantifying these risks. There was general agreement that any new OSFI climate-related guidance be principles-based and aligned with global standards where they exist, while considering the Canadian context."
+        },
+        {
+          "type": "paragraph",
+          "text": "OSFI received a range of suggestions on climate-related scenario analysis, disclosure, taxonomy, and measurement metrics, among other things. The attached Annex provides a brief summary of responses to the consultation."
+        }
+      ]
+    },
+    {
+      "heading": "Next Steps",
+      "heading_level": 2,
+      "full_text": "For FRFIs, OSFI agrees guidance on climate-related risks should be principles-based and consider the Canadian context as well as international developments. Furthermore, any such guidance would be best informed by results from the Bank of Canada-OSFI joint pilot project on climate risk scenarios, for which stakeholders can expect further communication later this year. Taking these factors into account, OSFI expects to communicate next steps on its climate-related policy work early next year.\nOSFI will also continue to monitor, through its supervision of FRFIs, other Environmental, Social and Governance (ESG) factors for potential linkages to FRFI safety and soundness.\nFor FRPPs, OSFI will continue collaborating with the Canadian Association of Pension Supervisory Authorities to develop guidance on integrating ESG factors in pension investment decisions where they are relevant to the financial performance of an investment pursuant to the plan administrator’s fiduciary duty to act prudently. OSFI will assess the need for additional guidance thereafter.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "For FRFIs, OSFI agrees guidance on climate-related risks should be principles-based and consider the Canadian context as well as international developments. Furthermore, any such guidance would be best informed by results from the Bank of Canada-OSFI joint pilot project on climate risk scenarios, for which stakeholders can expect further communication later this year. Taking these factors into account, OSFI expects to communicate next steps on its climate-related policy work early next year."
+        },
+        {
+          "type": "paragraph",
+          "text": "OSFI will also continue to monitor, through its supervision of FRFIs, other Environmental, Social and Governance (ESG) factors for potential linkages to FRFI safety and soundness."
+        },
+        {
+          "type": "paragraph",
+          "text": "For FRPPs, OSFI will continue collaborating with the Canadian Association of Pension Supervisory Authorities to develop guidance on integrating ESG factors in pension investment decisions where they are relevant to the financial performance of an investment pursuant to the plan administrator’s fiduciary duty to act prudently. OSFI will assess the need for additional guidance thereafter."
+        }
+      ]
+    },
+    {
+      "heading": "Climate-related risks",
+      "heading_level": 3,
+      "full_text": "Respondents agreed that climate-related risks are drivers of financial and non-financial risks FRFIs and FRPPs manage. They indicated that:\n  - Physical and transition risks are categories of climate-related risks that can affect the safety and soundness of FRFIs and FRPPs. However, views differed on whether liability risk is a separate category of climate-related risks or a subset of transition risk;\n  - OSFI’s characterization of physical climate-related risks should include the risk to public health (morbidity and mortality impacts) due to extreme weather events, poor air quality and increased risk of vector-borne diseases due to changing temperatures, precipitation and humidity; and\n  - Standardizing taxonomy, measurement methodologies and metrics across industry can help FRFIs and FRPPs improve their definition, identification, measurement of climate-related risk, and management of these risks. Many respondents believe OSFI has an important role to play in facilitating such standards.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Respondents agreed that climate-related risks are drivers of financial and non-financial risks FRFIs and FRPPs manage. They indicated that:"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Physical and transition risks are categories of climate-related risks that can affect the safety and soundness of FRFIs and FRPPs. However, views differed on whether liability risk is a separate category of climate-related risks or a subset of transition risk;",
+            "OSFI’s characterization of physical climate-related risks should include the risk to public health (morbidity and mortality impacts) due to extreme weather events, poor air quality and increased risk of vector-borne diseases due to changing temperatures, precipitation and humidity; and",
+            "Standardizing taxonomy, measurement methodologies and metrics across industry can help FRFIs and FRPPs improve their definition, identification, measurement of climate-related risk, and management of these risks. Many respondents believe OSFI has an important role to play in facilitating such standards."
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "Ways FRFIs can prepare for, and build resilience to, climate-related risks",
+      "heading_level": 3,
+      "full_text": "Respondents suggested FRFIs could manage climate-related risks through existing governance and risk management frameworks and new tools such as climate-related scenario analyses. However, many FRFIs indicated they are in the early stages of assessing and quantifying climate-related risks. They indicated that:\n  - FRFIs are at varying levels of maturity in developing risk appetite and strategy for climate-related risks, with many in the early stages of development;\n  - Existing governance and risk management frameworks and practices could address climate-related risks and evolve as required. Internal alignment of accountability across the three lines of defence is key to embedding climate-related risk management in FRFI operations;\n  - The availability of decision-useful data, analytical tools and skills are key challenges for FRFIs; and\n  - Use of climate-related scenario analysis and stress testing are still at early stages for many FRFIs. However, some FRFIs have developed risk management tools and approaches that are aligned with the circumstances of their business activities to manage their new and existing climate-related exposures.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Respondents suggested FRFIs could manage climate-related risks through existing governance and risk management frameworks and new tools such as climate-related scenario analyses. However, many FRFIs indicated they are in the early stages of assessing and quantifying climate-related risks. They indicated that:"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "FRFIs are at varying levels of maturity in developing risk appetite and strategy for climate-related risks, with many in the early stages of development;",
+            "Existing governance and risk management frameworks and practices could address climate-related risks and evolve as required. Internal alignment of accountability across the three lines of defence is key to embedding climate-related risk management in FRFI operations;",
+            "The availability of decision-useful data, analytical tools and skills are key challenges for FRFIs; and",
+            "Use of climate-related scenario analysis and stress testing are still at early stages for many FRFIs. However, some FRFIs have developed risk management tools and approaches that are aligned with the circumstances of their business activities to manage their new and existing climate-related exposures."
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "Ways FRPPs can prepare for, and build resilience to, climate-related risks",
+      "heading_level": 3,
+      "full_text": "Respondents indicated that it would be appropriate for FRPP administrators to consider climate-related risks and other ESG factors in investment decisions where they are relevant to the financial performance of an investment pursuant to their fiduciary duty to act prudently. They indicated that:\n  - It would be useful for FRPP administrators to use scenario analysis to assess a plan’s exposure to climate-related risks but it can also be challenging as building in-house scenarios is complex and may not be feasible for all FRPPs; and\n  - Plan administrators could review the approaches used to evaluate ESG factors (including climate change) when selecting investment managers. Key selection criteria can include assessing the investment manager’s approach to portfolio construction, governance and risk management practices, and stewardship activities.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Respondents indicated that it would be appropriate for FRPP administrators to consider climate-related risks and other ESG factors in investment decisions where they are relevant to the financial performance of an investment pursuant to their fiduciary duty to act prudently. They indicated that:"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "It would be useful for FRPP administrators to use scenario analysis to assess a plan’s exposure to climate-related risks but it can also be challenging as building in-house scenarios is complex and may not be feasible for all FRPPs; and",
+            "Plan administrators could review the approaches used to evaluate ESG factors (including climate change) when selecting investment managers. Key selection criteria can include assessing the investment manager’s approach to portfolio construction, governance and risk management practices, and stewardship activities."
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "Climate-related financial disclosure",
+      "heading_level": 3,
+      "full_text": "Respondents cited stakeholder interest as a key driver of voluntary climate-related financial disclosures. They indicated that:\n  - Stakeholders such as investors, shareholders, rating agencies and regulators drive voluntary disclosures. The influence of others in the industry to voluntarily disclose and the direction of public policy are also drivers; and\n  - While there are different forms of climate-related financial disclosure, most who disclose follow the Task Force on Climate-related Financial Disclosures (TCFD) recommendations.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Respondents cited stakeholder interest as a key driver of voluntary climate-related financial disclosures. They indicated that:"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Stakeholders such as investors, shareholders, rating agencies and regulators drive voluntary disclosures. The influence of others in the industry to voluntarily disclose and the direction of public policy are also drivers; and",
+            "While there are different forms of climate-related financial disclosure, most who disclose follow the Task Force on Climate-related Financial Disclosures (TCFD) recommendations."
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "OSFI’s role in climate change",
+      "heading_level": 3,
+      "full_text": "Many respondents recommended that any new OSFI guidance be principles-based and aligned with global standards where they exist, while considering the Canadian context, though some recommended a more prescriptive approach. Generally, respondents indicated that OSFI could:\n  - Use supervision and market discipline, rather than minimum regulatory capital requirements, to promote FRFI preparedness and resilience to climate-related risks. Some respondents suggested, however, that a regulatory capital approach could incentivize companies to actively manage climate-related risk and address the challenges associated with developing and implementing reliable and consistent solutions to measuring these risks;\n  - Harmonize guidance expectations and reporting requirements for FRPPs with provincial regulators and international standards setters while considering the plan administrator's fiduciary duty and the broader ESG lens; and\n  - Consider standardizing, mandating or collaborating with other regulators, standard setters and stakeholders on climate-related scenario analysis, disclosure, risk measurement methodologies and metrics, and taxonomy.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Many respondents recommended that any new OSFI guidance be principles-based and aligned with global standards where they exist, while considering the Canadian context, though some recommended a more prescriptive approach. Generally, respondents indicated that OSFI could:"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Use supervision and market discipline, rather than minimum regulatory capital requirements, to promote FRFI preparedness and resilience to climate-related risks. Some respondents suggested, however, that a regulatory capital approach could incentivize companies to actively manage climate-related risk and address the challenges associated with developing and implementing reliable and consistent solutions to measuring these risks;",
+            "Harmonize guidance expectations and reporting requirements for FRPPs with provincial regulators and international standards setters while considering the plan administrator's fiduciary duty and the broader ESG lens; and",
+            "Consider standardizing, mandating or collaborating with other regulators, standard setters and stakeholders on climate-related scenario analysis, disclosure, risk measurement methodologies and metrics, and taxonomy."
+          ]
+        }
+      ]
+    }
+  ],
+  "title_normalized": "osfi summarizes responses to its climate risk discussion paper",
+  "publication_type_normalized": "letter",
+  "category_normalized": "",
+  "sector_normalized": [
+    "banks",
+    "foreign_bank_branches",
+    "life_insurance",
+    "pc_insurance",
+    "trust_and_loan_companies"
+  ],
+  "guideline_number_normalized": "",
+  "applies_to_banks": true,
+  "applies_to_trust_loan": true,
+  "applies_to_life_insurance": true,
+  "applies_to_pc_insurance": true,
+  "applies_to_foreign_bank": true,
+  "applies_to_foreign_insurance": false,
+  "applies_to_cooperative": false,
+  "applies_to_bank_holding": false,
+  "effective_date_sort_key": "2021-10-12",
+  "status_sort_key": 1,
+  "authority_sort_key": 60,
+  "bm25_text": "OSFI Summarizes Responses to its Climate Risk Discussion Paper Letter Banks Foreign Bank Branches Life Insurance and Fraternal Companies Property and Casualty Companies Trust and Loan Companies Summary of Feedback to the Discussion Paper Next Steps Climate-related risks Ways FRFIs can prepare for, and build resilience to, climate-related risks Ways FRPPs can prepare for, and build resilience to, climate-related risks Climate-related financial disclosure OSFI’s role in climate change",
+  "vector_text_prefix": "[OSFI Letter  |  | Banks / Foreign Bank Branches / Life Insurance and Fraternal Companies | FINAL_CURRENT | Effective 2021-10-12]",
+  "h1_title": "OSFI Summarizes Responses to its Climate Risk Discussion Paper",
+  "regulator": "OSFI",
+  "regulator_acronym": "OSFI",
+  "jurisdiction": "Canada",
+  "short_title": "",
+  "source_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/osfi-summarizes-responses-its-climate-risk-discussion-paper"
+}

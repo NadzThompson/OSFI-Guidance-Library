@@ -1,0 +1,306 @@
+{
+  "source_system": "osfi_guidance_library",
+  "library_row_title": "Asset Securitization - Letter (2018)",
+  "library_row_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/asset-securitization-letter-2018",
+  "listing_date_raw": "November 26, 2018",
+  "listing_date_iso": "2018-11-26",
+  "listing_publication_type": "Letter",
+  "listing_category": "",
+  "listing_sector": [],
+  "crawl_timestamp": "2026-03-11T00:00:00Z",
+  "detail_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/asset-securitization-letter-2018",
+  "canonical_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/asset-securitization-letter-2018",
+  "slug": "asset-securitization-letter-2018",
+  "title": "Asset Securitization - Letter (2018)",
+  "publication_type": "Letter",
+  "category": "",
+  "document_date_raw": "November 26, 2018",
+  "document_date_iso": "2018-11-26",
+  "sector": [],
+  "effective_date_text": "",
+  "guideline_number": "",
+  "date_modified_raw": "2018-11-26T12:00:00Z",
+  "generate_pdf_url": "https://www.osfi-bsif.gc.ca/en/print/pdf/node/346",
+  "pdf_node_id": 346,
+  "direct_pdf_url": null,
+  "has_table_of_contents": true,
+  "toc_entries": [],
+  "has_related_documents": false,
+  "related_document_links_raw": [],
+  "consultation_status_text": null,
+  "consultation_status_refers_to_version": null,
+  "page_language": "en",
+  "word_count_raw_body": 1041,
+  "doc_id": "osfi.asset-securitization.2018.transmittal",
+  "doc_family_id": "osfi.asset-securitization",
+  "version_id": "2018",
+  "version_label": "Asset Securitization - Letter (2018)",
+  "version_sort_key": "2018-11",
+  "parent_doc_id": null,
+  "child_doc_ids": [],
+  "is_package_page": false,
+  "is_chapter_page": false,
+  "chapter_number": null,
+  "chapter_title": null,
+  "document_order_within_family": 0,
+  "supersedes_doc_id": null,
+  "superseded_by_doc_id": null,
+  "current_version_flag": true,
+  "status": "final_current",
+  "include_in_primary_corpus": false,
+  "include_in_support_corpus": true,
+  "include_in_context_corpus": false,
+  "effective_date_start": "2018-11-26",
+  "effective_date_end": null,
+  "effective_date_fye_split": false,
+  "effective_date_oct_fye": null,
+  "effective_date_dec_fye": null,
+  "is_future_effective": false,
+  "is_rescinded": false,
+  "is_draft_or_consultation": false,
+  "rescission_date": null,
+  "consultation_closing_date": null,
+  "as_of_applicability": "2026-03-23",
+  "rule_applied": "rule_5_final_current",
+  "authority_class": "official_support",
+  "authority_level": 60,
+  "nova_tier": 2,
+  "prudential_weight": 0.7,
+  "is_primary_normative": false,
+  "is_supporting_interpretive": true,
+  "is_context_only": false,
+  "document_class": "transmittal_letter",
+  "guidance_type_normalized": "letter",
+  "section_headings": [
+    {
+      "level": 2,
+      "text": "Appendix: Summary of Public Consultation Comments Received and OSFI Responses",
+      "id": "h2-0"
+    }
+  ],
+  "heading_path": [
+    "Asset Securitization - Letter (2018)"
+  ],
+  "toc_depth": 2,
+  "has_appendices": true,
+  "appendix_ids": [],
+  "has_tables": true,
+  "table_count": 1,
+  "has_footnotes": false,
+  "footnote_count": 0,
+  "inline_cross_references": [
+    "Guideline B-5: Asset Securitization (the Guideline)"
+  ],
+  "quoted_external_references": [],
+  "raw_html_sha256": "9b124c7ac105b7d5dd09a3a4f888cee0b2d8e877313b7118e616a4ca762feb79",
+  "raw_pdf_sha256": null,
+  "normalized_text_sha256": null,
+  "raw_html_path": "bronze/osfi/html/final_current/asset-securitization-letter-2018.html",
+  "normalized_md_path": "silver/osfi/md/final_current/asset-securitization-letter-2018.md",
+  "canonical_json_path": "silver/osfi/json/final_current/asset-securitization-letter-2018.json",
+  "content_source": "HTML",
+  "parser_version": "osfi-parser-v2.1.0",
+  "normalizer_version": "osfi-normalizer-v1.4.0",
+  "quality_score": 1.0,
+  "quality_flags": [],
+  "download_timestamp": "2026-03-11T00:00:00Z",
+  "enriched_timestamp": "2026-03-23T09:53:46.698511Z",
+  "sections": [
+    {
+      "heading": "",
+      "heading_level": 2,
+      "full_text": "  - Asset Securitization – Guideline (2018)\n  - Asset Securitization - Guideline impact analysis statement (2018)\nTo: Federally Regulated Insurers Refers to all federally regulated insurers, including Canadian branches of foreign life and property and casualty companies, fraternal benefit societies, regulated insurance holding companies and non-operating insurance companies, and mortgage insurers.\nAfter completing a public consultation process, OSFI is releasing an updated final version of Guideline B-5: Asset Securitization (the Guideline). Key amendments reflect events that have affected securitizations since the Guideline was first published in November 2004, including the financial crisis and changes to the Basel Framework. The Guideline also incorporates relevant content from the Advisory Securitization – Expected Practices . OSFI plans to repeal the Advisory when the Guideline becomes effective on January 1, 2019.\nThe attached Appendix summarizes consultation comments received, along with OSFI responses. We thank those who provided comments.\nShould you have any questions, please contact Lisa Peterson, Acting Managing Director, Capital Division, by email at lisa.peterson@osfi-bsif.gc.ca .\nSincerely,\nCarolyn Rogers Assistant Superintendent Regulation Sector",
+      "content": [
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Asset Securitization – Guideline (2018)",
+            "Asset Securitization - Guideline impact analysis statement (2018)"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "To: Federally Regulated Insurers Refers to all federally regulated insurers, including Canadian branches of foreign life and property and casualty companies, fraternal benefit societies, regulated insurance holding companies and non-operating insurance companies, and mortgage insurers."
+        },
+        {
+          "type": "paragraph",
+          "text": "After completing a public consultation process, OSFI is releasing an updated final version of Guideline B-5: Asset Securitization (the Guideline). Key amendments reflect events that have affected securitizations since the Guideline was first published in November 2004, including the financial crisis and changes to the Basel Framework. The Guideline also incorporates relevant content from the Advisory Securitization – Expected Practices . OSFI plans to repeal the Advisory when the Guideline becomes effective on January 1, 2019."
+        },
+        {
+          "type": "paragraph",
+          "text": "The attached Appendix summarizes consultation comments received, along with OSFI responses. We thank those who provided comments."
+        },
+        {
+          "type": "paragraph",
+          "text": "Should you have any questions, please contact Lisa Peterson, Acting Managing Director, Capital Division, by email at lisa.peterson@osfi-bsif.gc.ca ."
+        },
+        {
+          "type": "paragraph",
+          "text": "Sincerely,"
+        },
+        {
+          "type": "paragraph",
+          "text": "Carolyn Rogers Assistant Superintendent Regulation Sector"
+        }
+      ]
+    },
+    {
+      "heading": "Appendix: Summary of Public Consultation Comments Received and OSFI Responses",
+      "heading_level": 2,
+      "full_text": "Comment | OSFI Response\nSection 3.2 Requirements for exclusion of traditionally securitized exposures\nWe believe that the 30% risk transfer test should only apply at the outset. | We agree that the test should be assessed at the outset of a transaction (i.e. “following issuance”, as is stated in the guideline) and while repayment, maturities, and defaults can shift the risk transfer percentage over time, they do not undermine the initial transfer of risk in most traditional transactions.\nSection 4: Measurement of exposures and required capital\nThe exposure amount is the sum of on‐balance sheet and off‐balance sheet exposure. We are unclear as to why OSFI would want to include off‐balance sheet exposure (e.g. 3rd party funds) in the capital requirement for the insurer. | No capital is required for 3rd party funds. The off-balance sheet exposures referred to are credit risk exposures to which the insurer is exposed, such as liquidity or credit facility, where the insurer guarantees or agrees to purchase securitization exposures. These types of off-balance sheet exposures present the same risks to the insurer as on-balance sheet exposures.\nSection 4.1: Use of ratings | \nRating agency ratings sensitivity may be a part of a rating agency’s proprietary product and may not be publicly available. | This requirement refers to deal‐specific ratings sensitivity, which would normally be available in a published ratings report.\nWe appreciate that OSFI added Kroll to the list of approved rating agencies, but question why “Morningstar” (which is an NRSRO, like Kroll) was not also added. | Recognizing a rating agency is a process that involves analytical work at OSFI to ensure consistency with the other recognized rating agencies. The rating agency may contact OSFI to request the work be performed.\nSection 4.2: Highest-risk securitization exposures\nPlease provide clarification on “and” or “or” (the logic) between the criteria listed in 4.2 #5). “Retained exposures that have been securitized synthetically, for which the risk remains unmitigated due to a maturity mismatch, [IS THIS “AND”?] that are rated BB or below, or that are unrated...” | The word ‘and’ is not implied. To avoid confusion and duplication, we have removed references to ratings in item 5, as those are addressed in item 3 of the same list.\nSection 4.5: Treatment of credit risk mitigation for securitization exposures\nIf an insurer were to securitize assets of multiple currencies under the proposed guideline, how will foreign exchange differences between the underlying assets and the risk transfer currency (i.e. tranche currency) be treated? | There is no separate requirement specific to currency mismatches for securitizations exposures. Rating agencies should include an assessment of currency risk in their analysis.\nComment\nOSFI Response\nSection 3.2 Requirements for exclusion of traditionally securitized exposures\nWe believe that the 30% risk transfer test should only apply at the outset.\nWe agree that the test should be assessed at the outset of a transaction (i.e. “following issuance”, as is stated in the guideline) and while repayment, maturities, and defaults can shift the risk transfer percentage over time, they do not undermine the initial transfer of risk in most traditional transactions.\nSection 4: Measurement of exposures and required capital\nThe exposure amount is the sum of on‐balance sheet and off‐balance sheet exposure. We are unclear as to why OSFI would want to include off‐balance sheet exposure (e.g. 3rd party funds) in the capital requirement for the insurer.\nNo capital is required for 3rd party funds. The off-balance sheet exposures referred to are credit risk exposures to which the insurer is exposed, such as liquidity or credit facility, where the insurer guarantees or agrees to purchase securitization exposures. These types of off-balance sheet exposures present the same risks to the insurer as on-balance sheet exposures.\nSection 4.1: Use of ratings\nRating agency ratings sensitivity may be a part of a rating agency’s proprietary product and may not be publicly available.\nThis requirement refers to deal‐specific ratings sensitivity, which would normally be available in a published ratings report.\nWe appreciate that OSFI added Kroll to the list of approved rating agencies, but question why “Morningstar” (which is an NRSRO, like Kroll) was not also added.\nRecognizing a rating agency is a process that involves analytical work at OSFI to ensure consistency with the other recognized rating agencies. The rating agency may contact OSFI to request the work be performed.\nSection 4.2: Highest-risk securitization exposures\nPlease provide clarification on “and” or “or” (the logic) between the criteria listed in 4.2 #5). “Retained exposures that have been securitized synthetically, for which the risk remains unmitigated due to a maturity mismatch, [IS THIS “AND”?] that are rated BB or below, or that are unrated...”\nThe word ‘and’ is not implied. To avoid confusion and duplication, we have removed references to ratings in item 5, as those are addressed in item 3 of the same list.\nSection 4.5: Treatment of credit risk mitigation for securitization exposures\nIf an insurer were to securitize assets of multiple currencies under the proposed guideline, how will foreign exchange differences between the underlying assets and the risk transfer currency (i.e. tranche currency) be treated?\nThere is no separate requirement specific to currency mismatches for securitizations exposures. Rating agencies should include an assessment of currency risk in their analysis.",
+      "content": [
+        {
+          "type": "table",
+          "caption": "",
+          "rows": [
+            [
+              "Comment",
+              "OSFI Response"
+            ],
+            [
+              "Section 3.2 Requirements for exclusion of traditionally securitized exposures"
+            ],
+            [
+              "We believe that the 30% risk transfer test should only apply at the outset.",
+              "We agree that the test should be assessed at the outset of a transaction (i.e. “following issuance”, as is stated in the guideline) and while repayment, maturities, and defaults can shift the risk transfer percentage over time, they do not undermine the initial transfer of risk in most traditional transactions."
+            ],
+            [
+              "Section 4: Measurement of exposures and required capital"
+            ],
+            [
+              "The exposure amount is the sum of on‐balance sheet and off‐balance sheet exposure. We are unclear as to why OSFI would want to include off‐balance sheet exposure (e.g. 3rd party funds) in the capital requirement for the insurer.",
+              "No capital is required for 3rd party funds. The off-balance sheet exposures referred to are credit risk exposures to which the insurer is exposed, such as liquidity or credit facility, where the insurer guarantees or agrees to purchase securitization exposures. These types of off-balance sheet exposures present the same risks to the insurer as on-balance sheet exposures."
+            ],
+            [
+              "Section 4.1: Use of ratings",
+              ""
+            ],
+            [
+              "Rating agency ratings sensitivity may be a part of a rating agency’s proprietary product and may not be publicly available.",
+              "This requirement refers to deal‐specific ratings sensitivity, which would normally be available in a published ratings report."
+            ],
+            [
+              "We appreciate that OSFI added Kroll to the list of approved rating agencies, but question why “Morningstar” (which is an NRSRO, like Kroll) was not also added.",
+              "Recognizing a rating agency is a process that involves analytical work at OSFI to ensure consistency with the other recognized rating agencies. The rating agency may contact OSFI to request the work be performed."
+            ],
+            [
+              "Section 4.2: Highest-risk securitization exposures"
+            ],
+            [
+              "Please provide clarification on “and” or “or” (the logic) between the criteria listed in 4.2 #5). “Retained exposures that have been securitized synthetically, for which the risk remains unmitigated due to a maturity mismatch, [IS THIS “AND”?] that are rated BB or below, or that are unrated...”",
+              "The word ‘and’ is not implied. To avoid confusion and duplication, we have removed references to ratings in item 5, as those are addressed in item 3 of the same list."
+            ],
+            [
+              "Section 4.5: Treatment of credit risk mitigation for securitization exposures"
+            ],
+            [
+              "If an insurer were to securitize assets of multiple currencies under the proposed guideline, how will foreign exchange differences between the underlying assets and the risk transfer currency (i.e. tranche currency) be treated?",
+              "There is no separate requirement specific to currency mismatches for securitizations exposures. Rating agencies should include an assessment of currency risk in their analysis."
+            ]
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Comment"
+        },
+        {
+          "type": "paragraph",
+          "text": "OSFI Response"
+        },
+        {
+          "type": "paragraph",
+          "text": "Section 3.2 Requirements for exclusion of traditionally securitized exposures"
+        },
+        {
+          "type": "paragraph",
+          "text": "We believe that the 30% risk transfer test should only apply at the outset."
+        },
+        {
+          "type": "paragraph",
+          "text": "We agree that the test should be assessed at the outset of a transaction (i.e. “following issuance”, as is stated in the guideline) and while repayment, maturities, and defaults can shift the risk transfer percentage over time, they do not undermine the initial transfer of risk in most traditional transactions."
+        },
+        {
+          "type": "paragraph",
+          "text": "Section 4: Measurement of exposures and required capital"
+        },
+        {
+          "type": "paragraph",
+          "text": "The exposure amount is the sum of on‐balance sheet and off‐balance sheet exposure. We are unclear as to why OSFI would want to include off‐balance sheet exposure (e.g. 3rd party funds) in the capital requirement for the insurer."
+        },
+        {
+          "type": "paragraph",
+          "text": "No capital is required for 3rd party funds. The off-balance sheet exposures referred to are credit risk exposures to which the insurer is exposed, such as liquidity or credit facility, where the insurer guarantees or agrees to purchase securitization exposures. These types of off-balance sheet exposures present the same risks to the insurer as on-balance sheet exposures."
+        },
+        {
+          "type": "paragraph",
+          "text": "Section 4.1: Use of ratings"
+        },
+        {
+          "type": "paragraph",
+          "text": "Rating agency ratings sensitivity may be a part of a rating agency’s proprietary product and may not be publicly available."
+        },
+        {
+          "type": "paragraph",
+          "text": "This requirement refers to deal‐specific ratings sensitivity, which would normally be available in a published ratings report."
+        },
+        {
+          "type": "paragraph",
+          "text": "We appreciate that OSFI added Kroll to the list of approved rating agencies, but question why “Morningstar” (which is an NRSRO, like Kroll) was not also added."
+        },
+        {
+          "type": "paragraph",
+          "text": "Recognizing a rating agency is a process that involves analytical work at OSFI to ensure consistency with the other recognized rating agencies. The rating agency may contact OSFI to request the work be performed."
+        },
+        {
+          "type": "paragraph",
+          "text": "Section 4.2: Highest-risk securitization exposures"
+        },
+        {
+          "type": "paragraph",
+          "text": "Please provide clarification on “and” or “or” (the logic) between the criteria listed in 4.2 #5). “Retained exposures that have been securitized synthetically, for which the risk remains unmitigated due to a maturity mismatch, [IS THIS “AND”?] that are rated BB or below, or that are unrated...”"
+        },
+        {
+          "type": "paragraph",
+          "text": "The word ‘and’ is not implied. To avoid confusion and duplication, we have removed references to ratings in item 5, as those are addressed in item 3 of the same list."
+        },
+        {
+          "type": "paragraph",
+          "text": "Section 4.5: Treatment of credit risk mitigation for securitization exposures"
+        },
+        {
+          "type": "paragraph",
+          "text": "If an insurer were to securitize assets of multiple currencies under the proposed guideline, how will foreign exchange differences between the underlying assets and the risk transfer currency (i.e. tranche currency) be treated?"
+        },
+        {
+          "type": "paragraph",
+          "text": "There is no separate requirement specific to currency mismatches for securitizations exposures. Rating agencies should include an assessment of currency risk in their analysis."
+        }
+      ]
+    }
+  ],
+  "title_normalized": "asset securitization letter 2018",
+  "publication_type_normalized": "letter",
+  "category_normalized": "",
+  "sector_normalized": [],
+  "guideline_number_normalized": "",
+  "applies_to_banks": false,
+  "applies_to_trust_loan": false,
+  "applies_to_life_insurance": false,
+  "applies_to_pc_insurance": false,
+  "applies_to_foreign_bank": false,
+  "applies_to_foreign_insurance": false,
+  "applies_to_cooperative": false,
+  "applies_to_bank_holding": false,
+  "effective_date_sort_key": "2018-11-26",
+  "status_sort_key": 1,
+  "authority_sort_key": 60,
+  "bm25_text": "Asset Securitization - Letter (2018) Letter Appendix: Summary of Public Consultation Comments Received and OSFI Responses",
+  "vector_text_prefix": "[OSFI Letter  |  |  | FINAL_CURRENT | Effective 2018-11-26]",
+  "h1_title": "Asset Securitization - Letter (2018)",
+  "regulator": "OSFI",
+  "regulator_acronym": "OSFI",
+  "jurisdiction": "Canada",
+  "short_title": "",
+  "source_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/asset-securitization-letter-2018"
+}

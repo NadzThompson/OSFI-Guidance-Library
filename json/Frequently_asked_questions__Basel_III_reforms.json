@@ -1,0 +1,326 @@
+{
+  "source_system": "osfi_guidance_library",
+  "library_row_title": "Frequently asked questions – Basel III reforms",
+  "library_row_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/frequently-asked-questions-basel-iii-reforms",
+  "listing_date_raw": "2023-10-20",
+  "listing_date_iso": "2023-10-20",
+  "listing_publication_type": "Frequently asked questions",
+  "listing_category": "",
+  "listing_sector": [],
+  "crawl_timestamp": "2026-03-11T00:00:00Z",
+  "detail_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/frequently-asked-questions-basel-iii-reforms",
+  "canonical_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/frequently-asked-questions-basel-iii-reforms",
+  "slug": "frequently-asked-questions-basel-iii-reforms",
+  "title": "Frequently asked questions – Basel III reforms",
+  "publication_type": "Frequently asked questions",
+  "category": "",
+  "document_date_raw": "2023-10-20",
+  "document_date_iso": "2023-10-20",
+  "sector": [],
+  "effective_date_text": "",
+  "guideline_number": "",
+  "date_modified_raw": "2023-10-20",
+  "generate_pdf_url": "https://www.osfi-bsif.gc.ca/en/print/pdf/node/589",
+  "pdf_node_id": 589,
+  "direct_pdf_url": null,
+  "has_table_of_contents": true,
+  "toc_entries": [],
+  "has_related_documents": false,
+  "related_document_links_raw": [],
+  "consultation_status_text": null,
+  "consultation_status_refers_to_version": null,
+  "page_language": "en",
+  "word_count_raw_body": 1203,
+  "doc_id": "osfi.frequently-asked-questions-basel-iii-reforms.interpretive",
+  "doc_family_id": "osfi.frequently-asked-questions-basel-iii-reforms",
+  "version_id": "",
+  "version_label": "Frequently asked questions – Basel III reforms",
+  "version_sort_key": "",
+  "parent_doc_id": null,
+  "child_doc_ids": [],
+  "is_package_page": false,
+  "is_chapter_page": false,
+  "chapter_number": null,
+  "chapter_title": null,
+  "document_order_within_family": 0,
+  "supersedes_doc_id": null,
+  "superseded_by_doc_id": null,
+  "current_version_flag": true,
+  "status": "final_current",
+  "include_in_primary_corpus": false,
+  "include_in_support_corpus": true,
+  "include_in_context_corpus": false,
+  "effective_date_start": "2023-10-20",
+  "effective_date_end": null,
+  "effective_date_fye_split": false,
+  "effective_date_oct_fye": null,
+  "effective_date_dec_fye": null,
+  "is_future_effective": false,
+  "is_rescinded": false,
+  "is_draft_or_consultation": false,
+  "rescission_date": null,
+  "consultation_closing_date": null,
+  "as_of_applicability": "2026-03-23",
+  "rule_applied": "rule_5_final_current",
+  "authority_class": "official_interpretive",
+  "authority_level": 70,
+  "nova_tier": 2,
+  "prudential_weight": 0.7,
+  "is_primary_normative": false,
+  "is_supporting_interpretive": true,
+  "is_context_only": false,
+  "document_class": "interpretive_faq",
+  "guidance_type_normalized": "frequently_asked_questions",
+  "section_headings": [
+    {
+      "level": 3,
+      "text": "Chapter 1 – Overview of Risk-Based Capital Targets",
+      "id": "h3-0"
+    },
+    {
+      "level": 3,
+      "text": "Chapter 3 – Operational Risk",
+      "id": "h3-1"
+    },
+    {
+      "level": 3,
+      "text": "Chapter 4 – Credit Risk – Standardized Approach",
+      "id": "h3-2"
+    },
+    {
+      "level": 3,
+      "text": "Chapter 9 – Market Risk",
+      "id": "h3-3"
+    },
+    {
+      "level": 2,
+      "text": "Leverage Requirements (LR) Guideline",
+      "id": "h2-4"
+    }
+  ],
+  "heading_path": [
+    "Frequently asked questions – Basel III reforms"
+  ],
+  "toc_depth": 3,
+  "has_appendices": false,
+  "appendix_ids": [],
+  "has_tables": false,
+  "table_count": 0,
+  "has_footnotes": false,
+  "footnote_count": 0,
+  "inline_cross_references": [],
+  "quoted_external_references": [],
+  "raw_html_sha256": "0aa8a659e3f98becf9a670fbfb3dc74936b7fce72379049db064582279fedee1",
+  "raw_pdf_sha256": null,
+  "normalized_text_sha256": null,
+  "raw_html_path": "bronze/osfi/html/final_current/frequently-asked-questions-basel-iii-reforms.html",
+  "normalized_md_path": "silver/osfi/md/final_current/frequently-asked-questions-basel-iii-reforms.md",
+  "canonical_json_path": "silver/osfi/json/final_current/frequently-asked-questions-basel-iii-reforms.json",
+  "content_source": "HTML",
+  "parser_version": "osfi-parser-v2.1.0",
+  "normalizer_version": "osfi-normalizer-v1.4.0",
+  "quality_score": 1.0,
+  "quality_flags": [],
+  "download_timestamp": "2026-03-11T00:00:00Z",
+  "enriched_timestamp": "2026-03-23T09:53:51.986034Z",
+  "sections": [
+    {
+      "heading": "Chapter 1 – Overview of Risk-Based Capital Targets",
+      "heading_level": 3,
+      "full_text": "1. What are Small and Medium Sized Deposit-Taking Institutions' (SMSBs) capital buffers intended to guard against? What are the implications of using these buffers and how does OSFI monitor their use?\nBuffers are built-up during normal times to provide an institution with additional flexibility in times of stress. Capital buffers can be used to absorb unexpected losses while continuing to provide financial services. As part of on-going supervisory activities, OSFI has frequent discussions with SMSBs and monitors their capital and liquidity positions as well as their exposures. SMSBs that plan to use Pillar II buffers by operating below their internal capital targets should have prior discussions with their Lead Supervisor, including a credible plan that demonstrates how and when it intends to restore its buffers. OSFI's review of planned buffer usage will consider the specific circumstances of each institution, including whether a SMSB's expected use of the capacity is prudent, and capital conservation actions have been incorporated as appropriate.\n2. What sorts of risks or factors should an SMSB consider when establishing its internal capital targets?\nA SMSB's internal target is the sum of the minimum requirements, Pillar I and Pillar II buffers. OSFI expects SMSBs to set their internal targets at levels that are adequate to support the nature and level of their risks. This includes consideration of material risks unique to an SMSB's operations, risks that are not sufficiently captured in Pillar I capital requirements and a SMSB's stress testing results. For example, a SMSB should consider its exposure to various aspects of credit risk (including concentrations), market risk, operational risk, and interest rate risk in the banking book, amongst others.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "1. What are Small and Medium Sized Deposit-Taking Institutions' (SMSBs) capital buffers intended to guard against? What are the implications of using these buffers and how does OSFI monitor their use?"
+        },
+        {
+          "type": "paragraph",
+          "text": "Buffers are built-up during normal times to provide an institution with additional flexibility in times of stress. Capital buffers can be used to absorb unexpected losses while continuing to provide financial services. As part of on-going supervisory activities, OSFI has frequent discussions with SMSBs and monitors their capital and liquidity positions as well as their exposures. SMSBs that plan to use Pillar II buffers by operating below their internal capital targets should have prior discussions with their Lead Supervisor, including a credible plan that demonstrates how and when it intends to restore its buffers. OSFI's review of planned buffer usage will consider the specific circumstances of each institution, including whether a SMSB's expected use of the capacity is prudent, and capital conservation actions have been incorporated as appropriate."
+        },
+        {
+          "type": "paragraph",
+          "text": "2. What sorts of risks or factors should an SMSB consider when establishing its internal capital targets?"
+        },
+        {
+          "type": "paragraph",
+          "text": "A SMSB's internal target is the sum of the minimum requirements, Pillar I and Pillar II buffers. OSFI expects SMSBs to set their internal targets at levels that are adequate to support the nature and level of their risks. This includes consideration of material risks unique to an SMSB's operations, risks that are not sufficiently captured in Pillar I capital requirements and a SMSB's stress testing results. For example, a SMSB should consider its exposure to various aspects of credit risk (including concentrations), market risk, operational risk, and interest rate risk in the banking book, amongst others."
+        }
+      ]
+    },
+    {
+      "heading": "Chapter 3 – Operational Risk",
+      "heading_level": 3,
+      "full_text": "1. What is OSFI’s process for considering exclusion requests related to the Loss Component, under section 3.4.5 of the CAR Guideline?\nIn practice, we expect that the exclusion of internal loss events will be very rare, only occurring in rare circumstances. First, any request for loss exclusion is subject to a materiality threshold such that the loss event should be greater than 5% of the institution's average annual losses over the past 10 years. If OSFI concludes that the above condition has been satisfied, unless the loss is related to a divested activity, it must be included in the financial institution’s loss data for at least three years.\nIf OSFI concludes that the above conditions have been satisfied, it will then consider whether the loss can be excluded because it is no longer relevant to the institution’s risk profile. In assessing the relevance of operational loss events to the institution’s risk profile, OSFI will consider whether the cause of the loss event could occur in other areas of the institution’s operations. This could be due to the institution continuing to engage in the same, or a similar, business activities. However, even if the institution is no longer involved in a similar activity, OSFI will consider whether the loss event was due to the lack of effective operational risk management policies, practices or controls within the institution in assessing relevance to its operational risk profile.\n[Image: A decision tree is presented below to visualize this process] (https://www.osfi-bsif.gc.ca/sites/default/files/2023-11/basel-faq-img1.jpg)\n[Image: Text description to follow below] (https://www.osfi-bsif.gc.ca/sites/default/files/2023-11/basel-faq-img1.jpg)\nA decision tree is presented below to visualize this process\n[Image: Text description to follow below] (https://www.osfi-bsif.gc.ca/sites/default/files/2023-11/basel-faq-img1.jpg)\n  - If yes, go to step 2\n  - If no, reject the loss event exclusion request – End of process\n  - If yes, go to step 3\n  - If no, the institution must wait three years to apply for a loss event exclusion – End of process\n  - If yes, reject the loss event exclusion request – End of process\n  - If no, accept the loss event exclusion request – End of process",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "1. What is OSFI’s process for considering exclusion requests related to the Loss Component, under section 3.4.5 of the CAR Guideline?"
+        },
+        {
+          "type": "paragraph",
+          "text": "In practice, we expect that the exclusion of internal loss events will be very rare, only occurring in rare circumstances. First, any request for loss exclusion is subject to a materiality threshold such that the loss event should be greater than 5% of the institution's average annual losses over the past 10 years. If OSFI concludes that the above condition has been satisfied, unless the loss is related to a divested activity, it must be included in the financial institution’s loss data for at least three years."
+        },
+        {
+          "type": "paragraph",
+          "text": "If OSFI concludes that the above conditions have been satisfied, it will then consider whether the loss can be excluded because it is no longer relevant to the institution’s risk profile. In assessing the relevance of operational loss events to the institution’s risk profile, OSFI will consider whether the cause of the loss event could occur in other areas of the institution’s operations. This could be due to the institution continuing to engage in the same, or a similar, business activities. However, even if the institution is no longer involved in a similar activity, OSFI will consider whether the loss event was due to the lack of effective operational risk management policies, practices or controls within the institution in assessing relevance to its operational risk profile."
+        },
+        {
+          "type": "image",
+          "src": "https://www.osfi-bsif.gc.ca/sites/default/files/2023-11/basel-faq-img1.jpg",
+          "alt": "Text description to follow below",
+          "caption": "A decision tree is presented below to visualize this process"
+        },
+        {
+          "type": "image",
+          "src": "https://www.osfi-bsif.gc.ca/sites/default/files/2023-11/basel-faq-img1.jpg",
+          "alt": "Text description to follow below",
+          "caption": "Text description to follow below"
+        },
+        {
+          "type": "paragraph",
+          "text": "A decision tree is presented below to visualize this process"
+        },
+        {
+          "type": "image",
+          "src": "https://www.osfi-bsif.gc.ca/sites/default/files/2023-11/basel-faq-img1.jpg",
+          "alt": "Text description to follow below",
+          "caption": "Text description to follow below"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "If yes, go to step 2",
+            "If no, reject the loss event exclusion request – End of process"
+          ]
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "If yes, go to step 3",
+            "If no, the institution must wait three years to apply for a loss event exclusion – End of process"
+          ]
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "If yes, reject the loss event exclusion request – End of process",
+            "If no, accept the loss event exclusion request – End of process"
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "Chapter 4 – Credit Risk – Standardized Approach",
+      "heading_level": 3,
+      "full_text": "1. What can be considered equity for the purposes of Loan-to-Value (LTV) calculations of a land acquisition, development and construction (ADC) exposure?\nFor the purposes of assessing the LTV of an ADC exposure, institutions may count the following as equity:\n  - Land lift included in the “appraised as completed” value of the property, consistent with expectations set out in paragraph 92 of CAR Chapter 4 and in OSFI's Guideline B-20: Residential Mortgage Insurance Underwriting Practices and Procedures B-20.\n  - Deposits from future purchasers and/or cash equity from the builder injected into the construction project prior to senior loan disbursement and that insulate the lender from loss should the borrower default\n  - Senior lenders may also treat debt subordinated to the senior exposure, that would insulate the lender from loss in the amount of the subordinated tranche in the case of borrower default, as equity for purposes of an LTV calculation of an ADC project.\nNote that land lift should not be reflected in LTV calculations for land acquisition loans.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "1. What can be considered equity for the purposes of Loan-to-Value (LTV) calculations of a land acquisition, development and construction (ADC) exposure?"
+        },
+        {
+          "type": "paragraph",
+          "text": "For the purposes of assessing the LTV of an ADC exposure, institutions may count the following as equity:"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Land lift included in the “appraised as completed” value of the property, consistent with expectations set out in paragraph 92 of CAR Chapter 4 and in OSFI's Guideline B-20: Residential Mortgage Insurance Underwriting Practices and Procedures B-20.",
+            "Deposits from future purchasers and/or cash equity from the builder injected into the construction project prior to senior loan disbursement and that insulate the lender from loss should the borrower default",
+            "Senior lenders may also treat debt subordinated to the senior exposure, that would insulate the lender from loss in the amount of the subordinated tranche in the case of borrower default, as equity for purposes of an LTV calculation of an ADC project."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Note that land lift should not be reflected in LTV calculations for land acquisition loans."
+        }
+      ]
+    },
+    {
+      "heading": "Chapter 9 – Market Risk",
+      "heading_level": 3,
+      "full_text": "1. For paragraph 114 of CAR Chapter 9, regarding an institution’s choice to include instruments without optionality in the curvature risk calculation, please clarify the requirement to apply this approach consistently through time.\nThe choice to include instruments without optionality in the calculation of curvature risk rests with each institution; however, once this choice is made, there should be a consistent approach applied at each desk level over time. Should changes be necessary as a result of major methodology or infrastructure enhancements, OSFI should be notified.\n2. Do Profit and Loss Attribution (PLA) and back-testing requirements apply to General Interest Rate Risk (GIRR), Internal Risk Transfer (IRT) desk or other notional desks of institutions that have their entire portfolios and desks under the standardized approach?\n3. What are the consequences of the ineffectiveness of an internal risk transfer of general interest rate risk from the banking book to the trading book?\nThe results of such ineffectiveness are similar to what is stated in paragraph 80 for the internal risk transfer of credit and equity risk from the banking book to the trading book. Specifically, the third-party external hedge must be fully included in the market risk capital requirements and the trading book leg of the internal risk transfer must be fully excluded from the market risk capital requirements.\n4. Are exposures to Canadian provincial and territorial governments, including agents of the federal, provincial or territorial government, obligations of the parent government and, therefore, considered exposures of the Government of Canada for the purposes of the Default Risk Charge (DRC) calculation?\nYes, consistent with Chapter 4 of the CAR Guideline, exposures to Canadian provincial and territorial governments, including agents of the federal, provincial or territorial government, are obligations of the parent government and considered exposures of the Government of Canada. This treatment also holds for the DRC calculations under section 9.5.3.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "1. For paragraph 114 of CAR Chapter 9, regarding an institution’s choice to include instruments without optionality in the curvature risk calculation, please clarify the requirement to apply this approach consistently through time."
+        },
+        {
+          "type": "paragraph",
+          "text": "The choice to include instruments without optionality in the calculation of curvature risk rests with each institution; however, once this choice is made, there should be a consistent approach applied at each desk level over time. Should changes be necessary as a result of major methodology or infrastructure enhancements, OSFI should be notified."
+        },
+        {
+          "type": "paragraph",
+          "text": "2. Do Profit and Loss Attribution (PLA) and back-testing requirements apply to General Interest Rate Risk (GIRR), Internal Risk Transfer (IRT) desk or other notional desks of institutions that have their entire portfolios and desks under the standardized approach?"
+        },
+        {
+          "type": "paragraph",
+          "text": "3. What are the consequences of the ineffectiveness of an internal risk transfer of general interest rate risk from the banking book to the trading book?"
+        },
+        {
+          "type": "paragraph",
+          "text": "The results of such ineffectiveness are similar to what is stated in paragraph 80 for the internal risk transfer of credit and equity risk from the banking book to the trading book. Specifically, the third-party external hedge must be fully included in the market risk capital requirements and the trading book leg of the internal risk transfer must be fully excluded from the market risk capital requirements."
+        },
+        {
+          "type": "paragraph",
+          "text": "4. Are exposures to Canadian provincial and territorial governments, including agents of the federal, provincial or territorial government, obligations of the parent government and, therefore, considered exposures of the Government of Canada for the purposes of the Default Risk Charge (DRC) calculation?"
+        },
+        {
+          "type": "paragraph",
+          "text": "Yes, consistent with Chapter 4 of the CAR Guideline, exposures to Canadian provincial and territorial governments, including agents of the federal, provincial or territorial government, are obligations of the parent government and considered exposures of the Government of Canada. This treatment also holds for the DRC calculations under section 9.5.3."
+        }
+      ]
+    },
+    {
+      "heading": "Leverage Requirements (LR) Guideline",
+      "heading_level": 2,
+      "full_text": "1. Paragraph 13 of the Leverage Requirements Guideline states that the leverage ratio buffer will be set at 50% of a D-SIB’s higher-loss absorbency risk-weighted requirements. How does the new leverage ratio buffer interact with the Total Loss Absorbing Capacity (TLAC) leverage ratio?\nThe leverage ratio buffer is added to the 6.75% minimum TLAC leverage ratio applicable to D-SIBs. Given the calibration of the leverage ratio buffer, this results in a supervisory target TLAC leverage ratio of 7.25%.\n2. Are institutions' authorized leverage ratios still in force, or only the 3% regulatory minimum?\nInstitutions are required to maintain leverage ratios above their authorized leverage ratios at all times.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "1. Paragraph 13 of the Leverage Requirements Guideline states that the leverage ratio buffer will be set at 50% of a D-SIB’s higher-loss absorbency risk-weighted requirements. How does the new leverage ratio buffer interact with the Total Loss Absorbing Capacity (TLAC) leverage ratio?"
+        },
+        {
+          "type": "paragraph",
+          "text": "The leverage ratio buffer is added to the 6.75% minimum TLAC leverage ratio applicable to D-SIBs. Given the calibration of the leverage ratio buffer, this results in a supervisory target TLAC leverage ratio of 7.25%."
+        },
+        {
+          "type": "paragraph",
+          "text": "2. Are institutions' authorized leverage ratios still in force, or only the 3% regulatory minimum?"
+        },
+        {
+          "type": "paragraph",
+          "text": "Institutions are required to maintain leverage ratios above their authorized leverage ratios at all times."
+        }
+      ]
+    }
+  ],
+  "title_normalized": "frequently asked questions basel iii reforms",
+  "publication_type_normalized": "frequently_asked_questions",
+  "category_normalized": "",
+  "sector_normalized": [],
+  "guideline_number_normalized": "",
+  "applies_to_banks": false,
+  "applies_to_trust_loan": false,
+  "applies_to_life_insurance": false,
+  "applies_to_pc_insurance": false,
+  "applies_to_foreign_bank": false,
+  "applies_to_foreign_insurance": false,
+  "applies_to_cooperative": false,
+  "applies_to_bank_holding": false,
+  "effective_date_sort_key": "2023-10-20",
+  "status_sort_key": 1,
+  "authority_sort_key": 70,
+  "bm25_text": "Frequently asked questions – Basel III reforms Frequently asked questions Chapter 1 – Overview of Risk-Based Capital Targets Chapter 3 – Operational Risk Chapter 4 – Credit Risk – Standardized Approach Chapter 9 – Market Risk Leverage Requirements (LR) Guideline",
+  "vector_text_prefix": "[OSFI Frequently asked questions  |  |  | FINAL_CURRENT | Effective 2023-10-20]",
+  "h1_title": "Frequently asked questions – Basel III reforms",
+  "regulator": "OSFI",
+  "regulator_acronym": "OSFI",
+  "jurisdiction": "Canada",
+  "short_title": "",
+  "source_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/frequently-asked-questions-basel-iii-reforms"
+}

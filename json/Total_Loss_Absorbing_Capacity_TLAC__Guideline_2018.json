@@ -1,0 +1,619 @@
+{
+  "source_system": "osfi_guidance_library",
+  "library_row_title": "Total Loss Absorbing Capacity (TLAC) – Guideline (2018)",
+  "library_row_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/total-loss-absorbing-capacity-tlac-guideline-2018",
+  "listing_date_raw": "Effective Date September 23, 2018",
+  "listing_date_iso": "",
+  "listing_publication_type": "Guideline",
+  "listing_category": "Capital Adequacy Requirements",
+  "listing_sector": [
+    "Banks",
+    "Trust and Loan Companies"
+  ],
+  "crawl_timestamp": "2026-03-11T00:00:00Z",
+  "detail_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/total-loss-absorbing-capacity-tlac-guideline-2018",
+  "canonical_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/total-loss-absorbing-capacity-tlac-guideline-2018",
+  "slug": "total-loss-absorbing-capacity-tlac-guideline-2018",
+  "title": "Total Loss Absorbing Capacity (TLAC) – Guideline (2018)",
+  "publication_type": "Guideline",
+  "category": "Capital Adequacy Requirements",
+  "document_date_raw": "Effective Date September 23, 2018",
+  "document_date_iso": "",
+  "sector": [
+    "Banks",
+    "Trust and Loan Companies"
+  ],
+  "effective_date_text": "Effective Date September 23, 2018",
+  "guideline_number": "TLAC",
+  "date_modified_raw": "2018-04-30T12:00:00Z",
+  "generate_pdf_url": "https://www.osfi-bsif.gc.ca/en/print/pdf/node/637",
+  "pdf_node_id": 637,
+  "direct_pdf_url": null,
+  "has_table_of_contents": true,
+  "toc_entries": [],
+  "has_related_documents": true,
+  "related_document_links_raw": [
+    {
+      "title": "Total Loss Absorbing Capacity (TLAC) Disclosure Requirements Guideline and Capit",
+      "url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/total-loss-absorbing-capacity-tlac-disclosure-requirements-guideline-capital-disclosure-requirements"
+    },
+    {
+      "title": "Bank of Montreal - Order Providing for Minimum Total Loss Absorbing Capacity (TL",
+      "url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/total-loss-absorbing-capacity-tlac-guideline-2018/bank-montreal-order-providing-minimum-total-loss-absorbing-capacity-tlac"
+    },
+    {
+      "title": "Canadian Imperial Bank of Commerce - Order Providing for Minimum Total Loss Abso",
+      "url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/total-loss-absorbing-capacity-tlac-guideline-2018/canadian-imperial-bank-commerce-order-providing-minimum-total-loss-absorbing-capacity-tlac"
+    },
+    {
+      "title": "National Bank of Canada - Order Providing for Minimum Total Loss Absorbing Capac",
+      "url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/total-loss-absorbing-capacity-tlac-guideline-2018/national-bank-canada-order-providing-minimum-total-loss-absorbing-capacity-tlac"
+    },
+    {
+      "title": "Royal Bank of Canada - Order Providing for Minimum Total Loss Absorbing Capacity",
+      "url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/total-loss-absorbing-capacity-tlac-guideline-2018/royal-bank-canada-order-providing-minimum-total-loss-absorbing-capacity-tlac"
+    },
+    {
+      "title": "The Bank of Nova Scotia - Order Providing for Minimum Total Loss Absorbing Capac",
+      "url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/total-loss-absorbing-capacity-tlac-guideline-2018/bank-nova-scotia-order-providing-minimum-total-loss-absorbing-capacity-tlac"
+    },
+    {
+      "title": "The Toronto-Dominion Bank - Order Providing for Minimum Total Loss Absorbing Cap",
+      "url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/total-loss-absorbing-capacity-tlac-guideline-2018/toronto-dominion-bank-order-providing-minimum-total-loss-absorbing-capacity-tlac"
+    }
+  ],
+  "consultation_status_text": null,
+  "consultation_status_refers_to_version": null,
+  "page_language": "en",
+  "word_count_raw_body": 2667,
+  "doc_id": "osfi.tlac.2018.package",
+  "doc_family_id": "osfi.tlac",
+  "version_id": "2018",
+  "version_label": "TLAC (2018)",
+  "version_sort_key": "2018-09",
+  "parent_doc_id": null,
+  "child_doc_ids": [],
+  "is_package_page": true,
+  "is_chapter_page": false,
+  "chapter_number": null,
+  "chapter_title": null,
+  "document_order_within_family": 0,
+  "supersedes_doc_id": null,
+  "superseded_by_doc_id": null,
+  "current_version_flag": true,
+  "status": "final_current",
+  "include_in_primary_corpus": true,
+  "include_in_support_corpus": false,
+  "include_in_context_corpus": false,
+  "effective_date_start": "2018-09-23",
+  "effective_date_end": null,
+  "effective_date_fye_split": false,
+  "effective_date_oct_fye": null,
+  "effective_date_dec_fye": null,
+  "is_future_effective": false,
+  "is_rescinded": false,
+  "is_draft_or_consultation": false,
+  "rescission_date": null,
+  "consultation_closing_date": null,
+  "as_of_applicability": "2026-03-23",
+  "rule_applied": "rule_5_final_current",
+  "authority_class": "primary_normative",
+  "authority_level": 100,
+  "nova_tier": 1,
+  "prudential_weight": 1.0,
+  "is_primary_normative": true,
+  "is_supporting_interpretive": false,
+  "is_context_only": false,
+  "document_class": "package_guideline",
+  "guidance_type_normalized": "guideline",
+  "section_headings": [
+    {
+      "level": 2,
+      "text": "Overview",
+      "id": "h2-0"
+    },
+    {
+      "level": 2,
+      "text": "Scope of application",
+      "id": "h2-1"
+    },
+    {
+      "level": 3,
+      "text": "A. Risk-based TLAC Ratio",
+      "id": "h3-2"
+    },
+    {
+      "level": 3,
+      "text": "B. TLAC Leverage Ratio",
+      "id": "h3-3"
+    },
+    {
+      "level": 2,
+      "text": "Minimum TLAC Requirements",
+      "id": "h2-4"
+    },
+    {
+      "level": 2,
+      "text": "TLAC Measure",
+      "id": "h2-5"
+    },
+    {
+      "level": 2,
+      "text": "Eligibility of Regulatory Capital Elements as TLAC",
+      "id": "h2-6"
+    },
+    {
+      "level": 2,
+      "text": "Eligibility Criteria for Other TLAC Instruments to Qualify as TLAC",
+      "id": "h2-7"
+    },
+    {
+      "level": 2,
+      "text": "Risk-Weighted Assets Measure",
+      "id": "h2-8"
+    },
+    {
+      "level": 2,
+      "text": "Exposure Measure",
+      "id": "h2-9"
+    },
+    {
+      "level": 2,
+      "text": "Footnotes",
+      "id": "h2-10"
+    }
+  ],
+  "heading_path": [
+    "Total Loss Absorbing Capacity (TLAC) – Guideline (2018)"
+  ],
+  "toc_depth": 3,
+  "has_appendices": false,
+  "appendix_ids": [],
+  "has_tables": false,
+  "table_count": 0,
+  "has_footnotes": true,
+  "footnote_count": 1,
+  "inline_cross_references": [],
+  "quoted_external_references": [
+    "Basel Committee on Banking Supervision",
+    "FSB TLAC Term Sheet)",
+    "FSB TLAC Term Sheet",
+    "FSB) Principles on Loss-absorbing and Recapitalisation Capacity of G-SIBs in Resolu",
+    "Basel Committee on Banking Supervision (BCBS) Basel III framework entitled Basel III: A global"
+  ],
+  "raw_html_sha256": "8913859b108f6a7956d86d7c0a5eba7b4f9101376a1ddaa97fc7fef62085b7f3",
+  "raw_pdf_sha256": null,
+  "normalized_text_sha256": null,
+  "raw_html_path": "bronze/osfi/html/final_current/total-loss-absorbing-capacity-tlac-guideline-2018.html",
+  "normalized_md_path": "silver/osfi/md/final_current/total-loss-absorbing-capacity-tlac-guideline-2018.md",
+  "canonical_json_path": "silver/osfi/json/final_current/total-loss-absorbing-capacity-tlac-guideline-2018.json",
+  "content_source": "HTML",
+  "parser_version": "osfi-parser-v2.1.0",
+  "normalizer_version": "osfi-normalizer-v1.4.0",
+  "quality_score": 1.0,
+  "quality_flags": [],
+  "download_timestamp": "2026-03-11T00:00:00Z",
+  "enriched_timestamp": "2026-03-23T09:54:01.014553Z",
+  "sections": [
+    {
+      "heading": "",
+      "heading_level": 2,
+      "full_text": "  - Total Loss Absorbing Capacity (TLAC) Guideline - Guideline impact analysis statement (2018)\n  - Total Loss Absorbing Capacity (TLAC) Guideline - Letter (2018)\n  - Total Loss Absorbing Capacity (TLAC) Disclosure Requirements Guideline and Capital Disclosure Requirements Guideline\n  - Bank of Montreal - Order Providing for Minimum Total Loss Absorbing Capacity (TLAC)\n  - Canadian Imperial Bank of Commerce - Order Providing for Minimum Total Loss Absorbing Capacity (TLAC)\n  - National Bank of Canada - Order Providing for Minimum Total Loss Absorbing Capacity (TLAC)\n  - Royal Bank of Canada - Order Providing for Minimum Total Loss Absorbing Capacity (TLAC)\n  - The Bank of Nova Scotia - Order Providing for Minimum Total Loss Absorbing Capacity (TLAC)\n  - The Toronto-Dominion Bank - Order Providing for Minimum Total Loss Absorbing Capacity (TLAC)\nSubsection 485(1.1) of the Bank Act (BA) requires domestic systemically important banks (D-SIBs) to maintain a minimum capacity to absorb losses. The purpose of the Total Loss Absorbing Capacity (TLAC) requirement is to provide a non-viable D-SIB with sufficient loss absorbing capacity to support its recapitalization. This would, in turn, facilitate an orderly resolution of the D-SIB while minimizing adverse impacts on the stability of the financial sector, ensuring the continuity of critical functions, and minimizing taxpayers’ exposure to loss.\nThis guideline is not being made pursuant to subsections 485(2) of the BA. However, the standards set out in this guideline together with the requirements set out in the Capital Adequacy Requirements (CAR) guideline and the Leverage Requirements guideline provide the framework within which the Superintendent will assess whether a D-SIB maintains its minimum capacity to absorb losses pursuant to the BA.\nFor this purpose, the Superintendent will establish two minimum standards:\n  1. the risk-based TLAC ratio, which builds on the risk-based capital ratios described in the CAR guideline; and\n  2. the TLAC leverage ratio, which builds on the leverage ratio described in OSFI’s Leverage Requirements guideline.\nthe risk-based TLAC ratio, which builds on the risk-based capital ratios described in the CAR guideline; and\nthe TLAC leverage ratio, which builds on the leverage ratio described in OSFI’s Leverage Requirements guideline.\nThe risk-based TLAC ratio, which will be the primary basis used by OSFI to assess a D-SIB’s TLAC, focuses on the risks faced by that institution. The TLAC Leverage Ratio will provide an overall measure of a D-SIB’s TLAC.\nCanada, as a member of the Financial Stability Board and the Basel Committee on Banking Supervision, participated in the development of the Principles on Loss-Absorbing and Recapitalisation Capacity of G-SIBs in Resolution: Total Loss-Absorbing Capacity (TLAC) Term Sheet (the FSB TLAC Term Sheet) . This guidance, which is applicable to D-SIBs, is consistent with the FSB TLAC Term Sheet.",
+      "content": [
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Total Loss Absorbing Capacity (TLAC) Guideline - Guideline impact analysis statement (2018)",
+            "Total Loss Absorbing Capacity (TLAC) Guideline - Letter (2018)"
+          ]
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Total Loss Absorbing Capacity (TLAC) Disclosure Requirements Guideline and Capital Disclosure Requirements Guideline",
+            "Bank of Montreal - Order Providing for Minimum Total Loss Absorbing Capacity (TLAC)",
+            "Canadian Imperial Bank of Commerce - Order Providing for Minimum Total Loss Absorbing Capacity (TLAC)",
+            "National Bank of Canada - Order Providing for Minimum Total Loss Absorbing Capacity (TLAC)",
+            "Royal Bank of Canada - Order Providing for Minimum Total Loss Absorbing Capacity (TLAC)",
+            "The Bank of Nova Scotia - Order Providing for Minimum Total Loss Absorbing Capacity (TLAC)",
+            "The Toronto-Dominion Bank - Order Providing for Minimum Total Loss Absorbing Capacity (TLAC)"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Subsection 485(1.1) of the Bank Act (BA) requires domestic systemically important banks (D-SIBs) to maintain a minimum capacity to absorb losses. The purpose of the Total Loss Absorbing Capacity (TLAC) requirement is to provide a non-viable D-SIB with sufficient loss absorbing capacity to support its recapitalization. This would, in turn, facilitate an orderly resolution of the D-SIB while minimizing adverse impacts on the stability of the financial sector, ensuring the continuity of critical functions, and minimizing taxpayers’ exposure to loss."
+        },
+        {
+          "type": "paragraph",
+          "text": "This guideline is not being made pursuant to subsections 485(2) of the BA. However, the standards set out in this guideline together with the requirements set out in the Capital Adequacy Requirements (CAR) guideline and the Leverage Requirements guideline provide the framework within which the Superintendent will assess whether a D-SIB maintains its minimum capacity to absorb losses pursuant to the BA."
+        },
+        {
+          "type": "paragraph",
+          "text": "For this purpose, the Superintendent will establish two minimum standards:"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "the risk-based TLAC ratio, which builds on the risk-based capital ratios described in the CAR guideline; and",
+            "the TLAC leverage ratio, which builds on the leverage ratio described in OSFI’s Leverage Requirements guideline."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "the risk-based TLAC ratio, which builds on the risk-based capital ratios described in the CAR guideline; and"
+        },
+        {
+          "type": "paragraph",
+          "text": "the TLAC leverage ratio, which builds on the leverage ratio described in OSFI’s Leverage Requirements guideline."
+        },
+        {
+          "type": "paragraph",
+          "text": "The risk-based TLAC ratio, which will be the primary basis used by OSFI to assess a D-SIB’s TLAC, focuses on the risks faced by that institution. The TLAC Leverage Ratio will provide an overall measure of a D-SIB’s TLAC."
+        },
+        {
+          "type": "paragraph",
+          "text": "Canada, as a member of the Financial Stability Board and the Basel Committee on Banking Supervision, participated in the development of the Principles on Loss-Absorbing and Recapitalisation Capacity of G-SIBs in Resolution: Total Loss-Absorbing Capacity (TLAC) Term Sheet (the FSB TLAC Term Sheet) . This guidance, which is applicable to D-SIBs, is consistent with the FSB TLAC Term Sheet."
+        }
+      ]
+    },
+    {
+      "heading": "Overview",
+      "heading_level": 2,
+      "full_text": "1. Outlined below are the expected Total Loss Absorbing Capacity (TLAC) requirements that will be applicable to banks designated by the Superintendent as domestic systemically important banks (D-SIBs) pursuant to the press release dated March 16, 2013 and formalized by an order made pursuant to subsection 484.1(1) of the BA.\n2. Parts of this guideline are drawn from the Financial Stability Board (FSB) Principles on Loss-absorbing and Recapitalisation Capacity of G-SIBs in Resolution: Total Loss-absorbing Capacity (TLAC) Term Sheet (the FSB TLAC Term Sheet), the Basel Committee on Banking Supervision (BCBS) Basel III framework entitled Basel III: A global regulatory framework for more resilient banks and banking systems – December 2010 (rev June 2011) , and the Basel III leverage ratio framework entitled Basel III leverage ratio framework and disclosure requirements . This guideline also cross-references other OSFI guidance, including the Capital Adequacy Requirements (CAR) guideline and the Leverage Requirements guideline where appropriate.\n3. This guideline establishes two minimum standards:\n  1. the risk-based TLAC ratio, which builds on the risk-based capital ratios described in the CAR guideline; and\n  2. the TLAC leverage ratio, which builds on the leverage ratio described in OSFI’s Leverage Requirements guideline.\nthe risk-based TLAC ratio, which builds on the risk-based capital ratios described in the CAR guideline; and\nthe TLAC leverage ratio, which builds on the leverage ratio described in OSFI’s Leverage Requirements guideline.\nThe risk-based TLAC ratio, which will be the primary basis used by OSFI to assess a D-SIB’s TLAC, focuses on the risks faced by that institution. The TLAC Leverage Ratio will provide an overall measure of a D-SIB’s TLAC.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "1. Outlined below are the expected Total Loss Absorbing Capacity (TLAC) requirements that will be applicable to banks designated by the Superintendent as domestic systemically important banks (D-SIBs) pursuant to the press release dated March 16, 2013 and formalized by an order made pursuant to subsection 484.1(1) of the BA."
+        },
+        {
+          "type": "paragraph",
+          "text": "2. Parts of this guideline are drawn from the Financial Stability Board (FSB) Principles on Loss-absorbing and Recapitalisation Capacity of G-SIBs in Resolution: Total Loss-absorbing Capacity (TLAC) Term Sheet (the FSB TLAC Term Sheet), the Basel Committee on Banking Supervision (BCBS) Basel III framework entitled Basel III: A global regulatory framework for more resilient banks and banking systems – December 2010 (rev June 2011) , and the Basel III leverage ratio framework entitled Basel III leverage ratio framework and disclosure requirements . This guideline also cross-references other OSFI guidance, including the Capital Adequacy Requirements (CAR) guideline and the Leverage Requirements guideline where appropriate."
+        },
+        {
+          "type": "paragraph",
+          "text": "3. This guideline establishes two minimum standards:"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "the risk-based TLAC ratio, which builds on the risk-based capital ratios described in the CAR guideline; and",
+            "the TLAC leverage ratio, which builds on the leverage ratio described in OSFI’s Leverage Requirements guideline."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "the risk-based TLAC ratio, which builds on the risk-based capital ratios described in the CAR guideline; and"
+        },
+        {
+          "type": "paragraph",
+          "text": "the TLAC leverage ratio, which builds on the leverage ratio described in OSFI’s Leverage Requirements guideline."
+        },
+        {
+          "type": "paragraph",
+          "text": "The risk-based TLAC ratio, which will be the primary basis used by OSFI to assess a D-SIB’s TLAC, focuses on the risks faced by that institution. The TLAC Leverage Ratio will provide an overall measure of a D-SIB’s TLAC."
+        }
+      ]
+    },
+    {
+      "heading": "Scope of application",
+      "heading_level": 2,
+      "full_text": "4. These TLAC requirements will apply, on a consolidated basis, to all banks designated by the Superintendent as D-SIBs. The consolidated entity includes all subsidiaries except insurance subsidiaries. This is consistent with the scope of regulatory consolidation used under the risk-based capital framework as set out in Section 1.1 of OSFI’s CAR guideline and the leverage framework set out in OSFI’s Leverage Requirements guideline.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "4. These TLAC requirements will apply, on a consolidated basis, to all banks designated by the Superintendent as D-SIBs. The consolidated entity includes all subsidiaries except insurance subsidiaries. This is consistent with the scope of regulatory consolidation used under the risk-based capital framework as set out in Section 1.1 of OSFI’s CAR guideline and the leverage framework set out in OSFI’s Leverage Requirements guideline."
+        }
+      ]
+    },
+    {
+      "heading": "A. Risk-based TLAC Ratio",
+      "heading_level": 3,
+      "full_text": "5. The risk-based TLAC ratio is defined as the TLAC Measure (the numerator) divided by Risk-Weighted Assets (the denominator), with this ratio expressed as a percentage:\n[Image: Math formula 1 – Image description in the preceeding paragraph] (https://www.osfi-bsif.gc.ca/sites/default/files/2023-07/tlac_img1.png)",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "5. The risk-based TLAC ratio is defined as the TLAC Measure (the numerator) divided by Risk-Weighted Assets (the denominator), with this ratio expressed as a percentage:"
+        },
+        {
+          "type": "image",
+          "src": "https://www.osfi-bsif.gc.ca/sites/default/files/2023-07/tlac_img1.png",
+          "alt": "Math formula 1 – Image description in the preceeding paragraph",
+          "caption": "Math formula 1 – Image description in the preceeding paragraph"
+        }
+      ]
+    },
+    {
+      "heading": "B. TLAC Leverage Ratio",
+      "heading_level": 3,
+      "full_text": "6. The TLAC leverage ratio is defined as the TLAC Measure (the numerator) divided by the Exposure Measure (the denominator), with this ratio also expressed as a percentage:\n[Image: Math formula 2 – Image description in the preceeding paragraph] (https://www.osfi-bsif.gc.ca/sites/default/files/2023-07/tlac_img2.png)",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "6. The TLAC leverage ratio is defined as the TLAC Measure (the numerator) divided by the Exposure Measure (the denominator), with this ratio also expressed as a percentage:"
+        },
+        {
+          "type": "image",
+          "src": "https://www.osfi-bsif.gc.ca/sites/default/files/2023-07/tlac_img2.png",
+          "alt": "Math formula 2 – Image description in the preceeding paragraph",
+          "caption": "Math formula 2 – Image description in the preceeding paragraph"
+        }
+      ]
+    },
+    {
+      "heading": "Minimum TLAC Requirements",
+      "heading_level": 2,
+      "full_text": "7. Beginning in fiscal Q1-2022 (i.e., November 1, 2021), D-SIBs will be required to maintain a minimum risk-based TLAC ratio and a minimum TLAC leverage ratio as set out in orders made under subsection 485(1.2) of the BA. The Superintendent may subsequently vary the minimum TLAC requirements for individual D-SIBs or groups of D-SIBs. D-SIBs will also be expected to hold buffers above the minimum TLAC ratios.\n8. Where a D-SIB falls below the minimum TLAC requirements, the Superintendent may take any measures that he or she considers appropriate, including measures described in subsection 485(3.1) of the BA.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "7. Beginning in fiscal Q1-2022 (i.e., November 1, 2021), D-SIBs will be required to maintain a minimum risk-based TLAC ratio and a minimum TLAC leverage ratio as set out in orders made under subsection 485(1.2) of the BA. The Superintendent may subsequently vary the minimum TLAC requirements for individual D-SIBs or groups of D-SIBs. D-SIBs will also be expected to hold buffers above the minimum TLAC ratios."
+        },
+        {
+          "type": "paragraph",
+          "text": "8. Where a D-SIB falls below the minimum TLAC requirements, the Superintendent may take any measures that he or she considers appropriate, including measures described in subsection 485(3.1) of the BA."
+        }
+      ]
+    },
+    {
+      "heading": "TLAC Measure",
+      "heading_level": 2,
+      "full_text": "9. The TLAC Measure used in both ratios consists of the sum of the D-SIB’s TLAC, subject to certain adjustments. The following are eligible to be recognized as TLAC:\n  1. Tier 1 capital, consisting of: Common Equity Tier 1 capital; Additional Tier 1 capital;\n  2. Tier 2 capital; and\n  3. Prescribed shares and liabilities (“Other TLAC Instruments”) that are subject to conversion – in whole or in part – into common shares pursuant to subsection 39.2(2.3) of the Canada Deposit Insurance Corporation Act and meet all of the eligibility criteria set out in this guideline.\nTier 1 capital, consisting of:\n  1. Common Equity Tier 1 capital;\n  2. Additional Tier 1 capital;\nCommon Equity Tier 1 capital;\nAdditional Tier 1 capital;\nTier 2 capital; and\nPrescribed shares and liabilities (“Other TLAC Instruments”) that are subject to conversion – in whole or in part – into common shares pursuant to subsection 39.2(2.3) of the Canada Deposit Insurance Corporation Act and meet all of the eligibility criteria set out in this guideline.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "9. The TLAC Measure used in both ratios consists of the sum of the D-SIB’s TLAC, subject to certain adjustments. The following are eligible to be recognized as TLAC:"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "Tier 1 capital, consisting of: Common Equity Tier 1 capital; Additional Tier 1 capital;",
+            "Tier 2 capital; and",
+            "Prescribed shares and liabilities (“Other TLAC Instruments”) that are subject to conversion – in whole or in part – into common shares pursuant to subsection 39.2(2.3) of the Canada Deposit Insurance Corporation Act and meet all of the eligibility criteria set out in this guideline."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Tier 1 capital, consisting of:"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "Common Equity Tier 1 capital;",
+            "Additional Tier 1 capital;"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Common Equity Tier 1 capital;"
+        },
+        {
+          "type": "paragraph",
+          "text": "Additional Tier 1 capital;"
+        },
+        {
+          "type": "paragraph",
+          "text": "Tier 2 capital; and"
+        },
+        {
+          "type": "paragraph",
+          "text": "Prescribed shares and liabilities (“Other TLAC Instruments”) that are subject to conversion – in whole or in part – into common shares pursuant to subsection 39.2(2.3) of the Canada Deposit Insurance Corporation Act and meet all of the eligibility criteria set out in this guideline."
+        }
+      ]
+    },
+    {
+      "heading": "Eligibility of Regulatory Capital Elements as TLAC",
+      "heading_level": 2,
+      "full_text": "10. The criteria for the capital elements comprising Tier 1 and Tier 2 capital, as well as the various limits, restrictions and regulatory adjustments to which they are subject, are described in chapter 2 of the CAR guideline.\n11. Additional positive and negative adjustments to Tier 1 and Tier 2 capital are made in calculating the TLAC ratios, as set out below:\n  1. Regulatory capital instruments, other than CET1, issued out of subsidiaries to third parties will only be recognized as TLAC until December 31, 2021. After that date, such interests will only be eligible towards the D-SIB’s capital ratios in accordance with OSFI’s CAR guideline.\n  2. Regulatory capital instruments issued indirectly by a wholly- and directly-owned funding entity or via a special purpose vehicle (SPV) will only be recognized as TLAC where they were issued on or before December 31, 2021. Thereafter, such instruments will only be eligible towards the D-SIB’s capital ratios in accordance with the CAR guideline.\n  3. Tier 2 capital instruments that are subject to amortization under OSFI’s CAR guideline may be fully included as TLAC where their residual maturity is greater than 365 days.\nRegulatory capital instruments, other than CET1, issued out of subsidiaries to third parties will only be recognized as TLAC until December 31, 2021. After that date, such interests will only be eligible towards the D-SIB’s capital ratios in accordance with OSFI’s CAR guideline.\nRegulatory capital instruments issued indirectly by a wholly- and directly-owned funding entity or via a special purpose vehicle (SPV) will only be recognized as TLAC where they were issued on or before December 31, 2021. Thereafter, such instruments will only be eligible towards the D-SIB’s capital ratios in accordance with the CAR guideline.\nTier 2 capital instruments that are subject to amortization under OSFI’s CAR guideline may be fully included as TLAC where their residual maturity is greater than 365 days.\n12. Tier 1 and Tier 2 capital eligible for TLAC must be measured on an all-in basis as described in chapter 1 of the CAR guideline.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "10. The criteria for the capital elements comprising Tier 1 and Tier 2 capital, as well as the various limits, restrictions and regulatory adjustments to which they are subject, are described in chapter 2 of the CAR guideline."
+        },
+        {
+          "type": "paragraph",
+          "text": "11. Additional positive and negative adjustments to Tier 1 and Tier 2 capital are made in calculating the TLAC ratios, as set out below:"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "Regulatory capital instruments, other than CET1, issued out of subsidiaries to third parties will only be recognized as TLAC until December 31, 2021. After that date, such interests will only be eligible towards the D-SIB’s capital ratios in accordance with OSFI’s CAR guideline.",
+            "Regulatory capital instruments issued indirectly by a wholly- and directly-owned funding entity or via a special purpose vehicle (SPV) will only be recognized as TLAC where they were issued on or before December 31, 2021. Thereafter, such instruments will only be eligible towards the D-SIB’s capital ratios in accordance with the CAR guideline.",
+            "Tier 2 capital instruments that are subject to amortization under OSFI’s CAR guideline may be fully included as TLAC where their residual maturity is greater than 365 days."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Regulatory capital instruments, other than CET1, issued out of subsidiaries to third parties will only be recognized as TLAC until December 31, 2021. After that date, such interests will only be eligible towards the D-SIB’s capital ratios in accordance with OSFI’s CAR guideline."
+        },
+        {
+          "type": "paragraph",
+          "text": "Regulatory capital instruments issued indirectly by a wholly- and directly-owned funding entity or via a special purpose vehicle (SPV) will only be recognized as TLAC where they were issued on or before December 31, 2021. Thereafter, such instruments will only be eligible towards the D-SIB’s capital ratios in accordance with the CAR guideline."
+        },
+        {
+          "type": "paragraph",
+          "text": "Tier 2 capital instruments that are subject to amortization under OSFI’s CAR guideline may be fully included as TLAC where their residual maturity is greater than 365 days."
+        },
+        {
+          "type": "paragraph",
+          "text": "12. Tier 1 and Tier 2 capital eligible for TLAC must be measured on an all-in basis as described in chapter 1 of the CAR guideline."
+        }
+      ]
+    },
+    {
+      "heading": "Eligibility Criteria for Other TLAC Instruments to Qualify as TLAC",
+      "heading_level": 2,
+      "full_text": "13. The criteria for Other TLAC Instruments to qualify as TLAC, as well as the various limits, restrictions and regulatory adjustments to which they are subject, are described below:\n  1. The instrument is subject to a permanent conversion – in whole or in part – into common shares pursuant to subsection 39.2(2.3) of the Canada Deposit Insurance Corporation Act . Footnote 1\n  2. The instrument is directly issued by the Canadian parent bank. Indirect issuances by subsidiaries or through special purpose vehicles (SPVs) will not be eligible as TLAC.\n  3. The instrument satisfies all of the requirements set out in the Bank Recapitalization (Bail-in) Issuance Regulations .\n  4. The instrument, when issued, must be paid for in cash or, with the prior approval of the Superintendent, in property.\n  5. Neither the institution nor a related party over which the institution exercises control or significant influence can have purchased the instrument as principal except for purposes of re-sale (and where purchased for re-sale such instrument has been re-sold), nor can the institution directly or indirectly have provided financing to any person for the express purpose of investing in the instrument.\n  6. The instrument is neither fully secured at the time of issuance nor covered by a guarantee of the issuer or related party or other arrangement that legally or economically enhances the seniority of the claim vis-à-vis the institution’s depositors and/or other general creditors.\n  7. The instrument is not subject to set-off or netting rights.\n  8. Except as provided below, the instrument must not provide the holder with rights to accelerate repayment of principal or interest payments outside of bankruptcy, insolvency, wind-up or liquidation. Events of default relating to the non-payment of scheduled principal and/or interest payments will be permitted where they are subject to a cure period of no less than 30 business days and clearly disclose to investors that: acceleration is only permitted where an order has not been made pursuant to subsection 39.13(1) of the Canada Deposit Insurance Corporation Act in respect of the institution; and that notwithstanding any acceleration, the instrument continues to be subject to bail-in prior to its repayment.\n  9. The instrument is perpetual or has a residual maturity in excess of 365 days. Footnote 2\n  10. The instrument can be called or purchased for cancellation at the initiative of the issuer only and, where the redemption or purchase would lead to a breach of the D-SIB’s minimum TLAC requirements, with the prior approval of the Superintendent.\n  11. The instrument does not have credit-sensitive dividend or coupon features that are reset periodically based in whole or in part on the institution’s credit standing.\n  12. Where an amendment or variance of the instrument’s terms and conditions would affect its recognition as TLAC, such amendment or variance will only be permitted with the prior approval of the Superintendent.\nThe instrument is subject to a permanent conversion – in whole or in part – into common shares pursuant to subsection 39.2(2.3) of the Canada Deposit Insurance Corporation Act . Footnote 1\nThe instrument is directly issued by the Canadian parent bank. Indirect issuances by subsidiaries or through special purpose vehicles (SPVs) will not be eligible as TLAC.\nThe instrument satisfies all of the requirements set out in the Bank Recapitalization (Bail-in) Issuance Regulations .\nThe instrument, when issued, must be paid for in cash or, with the prior approval of the Superintendent, in property.\nNeither the institution nor a related party over which the institution exercises control or significant influence can have purchased the instrument as principal except for purposes of re-sale (and where purchased for re-sale such instrument has been re-sold), nor can the institution directly or indirectly have provided financing to any person for the express purpose of investing in the instrument.\nThe instrument is neither fully secured at the time of issuance nor covered by a guarantee of the issuer or related party or other arrangement that legally or economically enhances the seniority of the claim vis-à-vis the institution’s depositors and/or other general creditors.\nThe instrument is not subject to set-off or netting rights.\nExcept as provided below, the instrument must not provide the holder with rights to accelerate repayment of principal or interest payments outside of bankruptcy, insolvency, wind-up or liquidation. Events of default relating to the non-payment of scheduled principal and/or interest payments will be permitted where they are subject to a cure period of no less than 30 business days and clearly disclose to investors that:\n  1. acceleration is only permitted where an order has not been made pursuant to subsection 39.13(1) of the Canada Deposit Insurance Corporation Act in respect of the institution; and that\n  2. notwithstanding any acceleration, the instrument continues to be subject to bail-in prior to its repayment.\nacceleration is only permitted where an order has not been made pursuant to subsection 39.13(1) of the Canada Deposit Insurance Corporation Act in respect of the institution; and that\nnotwithstanding any acceleration, the instrument continues to be subject to bail-in prior to its repayment.\nThe instrument is perpetual or has a residual maturity in excess of 365 days. Footnote 2\nThe instrument can be called or purchased for cancellation at the initiative of the issuer only and, where the redemption or purchase would lead to a breach of the D-SIB’s minimum TLAC requirements, with the prior approval of the Superintendent.\nThe instrument does not have credit-sensitive dividend or coupon features that are reset periodically based in whole or in part on the institution’s credit standing.\nWhere an amendment or variance of the instrument’s terms and conditions would affect its recognition as TLAC, such amendment or variance will only be permitted with the prior approval of the Superintendent.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "13. The criteria for Other TLAC Instruments to qualify as TLAC, as well as the various limits, restrictions and regulatory adjustments to which they are subject, are described below:"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "The instrument is subject to a permanent conversion – in whole or in part – into common shares pursuant to subsection 39.2(2.3) of the Canada Deposit Insurance Corporation Act . Footnote 1",
+            "The instrument is directly issued by the Canadian parent bank. Indirect issuances by subsidiaries or through special purpose vehicles (SPVs) will not be eligible as TLAC.",
+            "The instrument satisfies all of the requirements set out in the Bank Recapitalization (Bail-in) Issuance Regulations .",
+            "The instrument, when issued, must be paid for in cash or, with the prior approval of the Superintendent, in property.",
+            "Neither the institution nor a related party over which the institution exercises control or significant influence can have purchased the instrument as principal except for purposes of re-sale (and where purchased for re-sale such instrument has been re-sold), nor can the institution directly or indirectly have provided financing to any person for the express purpose of investing in the instrument.",
+            "The instrument is neither fully secured at the time of issuance nor covered by a guarantee of the issuer or related party or other arrangement that legally or economically enhances the seniority of the claim vis-à-vis the institution’s depositors and/or other general creditors.",
+            "The instrument is not subject to set-off or netting rights.",
+            "Except as provided below, the instrument must not provide the holder with rights to accelerate repayment of principal or interest payments outside of bankruptcy, insolvency, wind-up or liquidation. Events of default relating to the non-payment of scheduled principal and/or interest payments will be permitted where they are subject to a cure period of no less than 30 business days and clearly disclose to investors that: acceleration is only permitted where an order has not been made pursuant to subsection 39.13(1) of the Canada Deposit Insurance Corporation Act in respect of the institution; and that notwithstanding any acceleration, the instrument continues to be subject to bail-in prior to its repayment.",
+            "The instrument is perpetual or has a residual maturity in excess of 365 days. Footnote 2",
+            "The instrument can be called or purchased for cancellation at the initiative of the issuer only and, where the redemption or purchase would lead to a breach of the D-SIB’s minimum TLAC requirements, with the prior approval of the Superintendent.",
+            "The instrument does not have credit-sensitive dividend or coupon features that are reset periodically based in whole or in part on the institution’s credit standing.",
+            "Where an amendment or variance of the instrument’s terms and conditions would affect its recognition as TLAC, such amendment or variance will only be permitted with the prior approval of the Superintendent."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "The instrument is subject to a permanent conversion – in whole or in part – into common shares pursuant to subsection 39.2(2.3) of the Canada Deposit Insurance Corporation Act . Footnote 1"
+        },
+        {
+          "type": "paragraph",
+          "text": "The instrument is directly issued by the Canadian parent bank. Indirect issuances by subsidiaries or through special purpose vehicles (SPVs) will not be eligible as TLAC."
+        },
+        {
+          "type": "paragraph",
+          "text": "The instrument satisfies all of the requirements set out in the Bank Recapitalization (Bail-in) Issuance Regulations ."
+        },
+        {
+          "type": "paragraph",
+          "text": "The instrument, when issued, must be paid for in cash or, with the prior approval of the Superintendent, in property."
+        },
+        {
+          "type": "paragraph",
+          "text": "Neither the institution nor a related party over which the institution exercises control or significant influence can have purchased the instrument as principal except for purposes of re-sale (and where purchased for re-sale such instrument has been re-sold), nor can the institution directly or indirectly have provided financing to any person for the express purpose of investing in the instrument."
+        },
+        {
+          "type": "paragraph",
+          "text": "The instrument is neither fully secured at the time of issuance nor covered by a guarantee of the issuer or related party or other arrangement that legally or economically enhances the seniority of the claim vis-à-vis the institution’s depositors and/or other general creditors."
+        },
+        {
+          "type": "paragraph",
+          "text": "The instrument is not subject to set-off or netting rights."
+        },
+        {
+          "type": "paragraph",
+          "text": "Except as provided below, the instrument must not provide the holder with rights to accelerate repayment of principal or interest payments outside of bankruptcy, insolvency, wind-up or liquidation. Events of default relating to the non-payment of scheduled principal and/or interest payments will be permitted where they are subject to a cure period of no less than 30 business days and clearly disclose to investors that:"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "acceleration is only permitted where an order has not been made pursuant to subsection 39.13(1) of the Canada Deposit Insurance Corporation Act in respect of the institution; and that",
+            "notwithstanding any acceleration, the instrument continues to be subject to bail-in prior to its repayment."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "acceleration is only permitted where an order has not been made pursuant to subsection 39.13(1) of the Canada Deposit Insurance Corporation Act in respect of the institution; and that"
+        },
+        {
+          "type": "paragraph",
+          "text": "notwithstanding any acceleration, the instrument continues to be subject to bail-in prior to its repayment."
+        },
+        {
+          "type": "paragraph",
+          "text": "The instrument is perpetual or has a residual maturity in excess of 365 days. Footnote 2"
+        },
+        {
+          "type": "paragraph",
+          "text": "The instrument can be called or purchased for cancellation at the initiative of the issuer only and, where the redemption or purchase would lead to a breach of the D-SIB’s minimum TLAC requirements, with the prior approval of the Superintendent."
+        },
+        {
+          "type": "paragraph",
+          "text": "The instrument does not have credit-sensitive dividend or coupon features that are reset periodically based in whole or in part on the institution’s credit standing."
+        },
+        {
+          "type": "paragraph",
+          "text": "Where an amendment or variance of the instrument’s terms and conditions would affect its recognition as TLAC, such amendment or variance will only be permitted with the prior approval of the Superintendent."
+        }
+      ]
+    },
+    {
+      "heading": "Risk-Weighted Assets Measure",
+      "heading_level": 2,
+      "full_text": "14. The denominator for the risk-based TLAC ratio uses total risk-weighted assets as calculated by the D-SIB under OSFI’s CAR guideline.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "14. The denominator for the risk-based TLAC ratio uses total risk-weighted assets as calculated by the D-SIB under OSFI’s CAR guideline."
+        }
+      ]
+    },
+    {
+      "heading": "Exposure Measure",
+      "heading_level": 2,
+      "full_text": "15. The denominator for the TLAC leverage ratio uses leverage ratio exposures as calculated under OSFI’s Leverage Requirements guideline.\n[Note: Footnotes Footnote 1 Where the instrument is governed by foreign laws, the D-SIB should provide an external legal opinion addressed to OSFI confirming Canadian statutory bail-in powers will apply. Such legal opinion may contain standard assumptions and qualifications provided its overall substance is acceptable to OSFI. Return to footnote 1 referrer Footnote 2 Where the instrument has a step-up or other incentive to redeem, the instrument is deemed to mature on the date on which the incentive to redeem becomes effective. For such instruments, the residual maturity would be measured with reference to the effective date of the incentive to redeem rather than the contractual maturity date. Return to footnote 2 referrer]",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "15. The denominator for the TLAC leverage ratio uses leverage ratio exposures as calculated under OSFI’s Leverage Requirements guideline."
+        },
+        {
+          "type": "footnote",
+          "text": "Footnotes Footnote 1 Where the instrument is governed by foreign laws, the D-SIB should provide an external legal opinion addressed to OSFI confirming Canadian statutory bail-in powers will apply. Such legal opinion may contain standard assumptions and qualifications provided its overall substance is acceptable to OSFI. Return to footnote 1 referrer Footnote 2 Where the instrument has a step-up or other incentive to redeem, the instrument is deemed to mature on the date on which the incentive to redeem becomes effective. For such instruments, the residual maturity would be measured with reference to the effective date of the incentive to redeem rather than the contractual maturity date. Return to footnote 2 referrer"
+        }
+      ]
+    },
+    {
+      "heading": "Footnotes",
+      "heading_level": 2,
+      "full_text": "Where the instrument is governed by foreign laws, the D-SIB should provide an external legal opinion addressed to OSFI confirming Canadian statutory bail-in powers will apply. Such legal opinion may contain standard assumptions and qualifications provided its overall substance is acceptable to OSFI.\nReturn to footnote 1 referrer\nWhere the instrument has a step-up or other incentive to redeem, the instrument is deemed to mature on the date on which the incentive to redeem becomes effective. For such instruments, the residual maturity would be measured with reference to the effective date of the incentive to redeem rather than the contractual maturity date.\nReturn to footnote 2 referrer",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Where the instrument is governed by foreign laws, the D-SIB should provide an external legal opinion addressed to OSFI confirming Canadian statutory bail-in powers will apply. Such legal opinion may contain standard assumptions and qualifications provided its overall substance is acceptable to OSFI."
+        },
+        {
+          "type": "paragraph",
+          "text": "Return to footnote 1 referrer"
+        },
+        {
+          "type": "paragraph",
+          "text": "Where the instrument has a step-up or other incentive to redeem, the instrument is deemed to mature on the date on which the incentive to redeem becomes effective. For such instruments, the residual maturity would be measured with reference to the effective date of the incentive to redeem rather than the contractual maturity date."
+        },
+        {
+          "type": "paragraph",
+          "text": "Return to footnote 2 referrer"
+        }
+      ]
+    }
+  ],
+  "title_normalized": "total loss absorbing capacity tlac guideline 2018",
+  "publication_type_normalized": "guideline",
+  "category_normalized": "capital_adequacy_requirements",
+  "sector_normalized": [
+    "banks",
+    "trust_and_loan_companies"
+  ],
+  "guideline_number_normalized": "TLAC",
+  "applies_to_banks": true,
+  "applies_to_trust_loan": true,
+  "applies_to_life_insurance": false,
+  "applies_to_pc_insurance": false,
+  "applies_to_foreign_bank": false,
+  "applies_to_foreign_insurance": false,
+  "applies_to_cooperative": false,
+  "applies_to_bank_holding": false,
+  "effective_date_sort_key": "2018-09-23",
+  "status_sort_key": 1,
+  "authority_sort_key": 100,
+  "bm25_text": "Total Loss Absorbing Capacity (TLAC) – Guideline (2018) TLAC Guideline Capital Adequacy Requirements Banks Trust and Loan Companies Overview Scope of application A. Risk-based TLAC Ratio B. TLAC Leverage Ratio Minimum TLAC Requirements TLAC Measure Eligibility of Regulatory Capital Elements as TLAC Eligibility Criteria for Other TLAC Instruments to Qualify as TLAC Risk-Weighted Assets Measure Exposure Measure Footnotes",
+  "vector_text_prefix": "[OSFI Guideline TLAC | Capital Adequacy Requirements | Banks / Trust and Loan Companies | FINAL_CURRENT | Effective 2018-09-23]",
+  "h1_title": "Total Loss Absorbing Capacity (TLAC) – Guideline (2018)",
+  "regulator": "OSFI",
+  "regulator_acronym": "OSFI",
+  "jurisdiction": "Canada",
+  "short_title": "TLAC",
+  "source_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/total-loss-absorbing-capacity-tlac-guideline-2018"
+}

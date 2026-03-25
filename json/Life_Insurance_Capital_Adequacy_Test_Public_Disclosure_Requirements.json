@@ -1,0 +1,519 @@
+{
+  "source_system": "osfi_guidance_library",
+  "library_row_title": "Life Insurance Capital Adequacy Test Public Disclosure Requirements",
+  "library_row_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/life-insurance-capital-adequacy-test-public-disclosure-requirements",
+  "listing_date_raw": "Effective Date December 31, 2018",
+  "listing_date_iso": "",
+  "listing_publication_type": "Guideline",
+  "listing_category": "Accounting and Disclosure",
+  "listing_sector": [
+    "Life Insurance and Fraternal Companies"
+  ],
+  "crawl_timestamp": "2026-03-11T00:00:00Z",
+  "detail_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/life-insurance-capital-adequacy-test-public-disclosure-requirements",
+  "canonical_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/life-insurance-capital-adequacy-test-public-disclosure-requirements",
+  "slug": "life-insurance-capital-adequacy-test-public-disclosure-requirements",
+  "title": "Life Insurance Capital Adequacy Test Public Disclosure Requirements",
+  "publication_type": "Guideline",
+  "category": "Accounting and Disclosure",
+  "document_date_raw": "Effective Date December 31, 2018",
+  "document_date_iso": "",
+  "sector": [
+    "Life Insurance and Fraternal Companies"
+  ],
+  "effective_date_text": "Effective Date December 31, 2018",
+  "guideline_number": "",
+  "date_modified_raw": "2018-03-31T12:00:00Z",
+  "generate_pdf_url": "https://www.osfi-bsif.gc.ca/en/print/pdf/node/625",
+  "pdf_node_id": 625,
+  "direct_pdf_url": "https://www.osfi-bsif.gc.ca/sites/default/files/import-media/guidance/guideline/2023/en/LIRF.pdf",
+  "has_table_of_contents": true,
+  "toc_entries": [],
+  "has_related_documents": false,
+  "related_document_links_raw": [],
+  "consultation_status_text": null,
+  "consultation_status_refers_to_version": null,
+  "page_language": "en",
+  "word_count_raw_body": 1465,
+  "doc_id": "osfi.licat.standalone",
+  "doc_family_id": "osfi.licat",
+  "version_id": "",
+  "version_label": "Life Insurance Capital Adequacy Test Public Disclosure Requi",
+  "version_sort_key": "",
+  "parent_doc_id": null,
+  "child_doc_ids": [],
+  "is_package_page": false,
+  "is_chapter_page": false,
+  "chapter_number": null,
+  "chapter_title": null,
+  "document_order_within_family": 0,
+  "supersedes_doc_id": null,
+  "superseded_by_doc_id": null,
+  "current_version_flag": true,
+  "status": "final_current",
+  "include_in_primary_corpus": true,
+  "include_in_support_corpus": false,
+  "include_in_context_corpus": false,
+  "effective_date_start": "2018-12-31",
+  "effective_date_end": null,
+  "effective_date_fye_split": false,
+  "effective_date_oct_fye": null,
+  "effective_date_dec_fye": null,
+  "is_future_effective": false,
+  "is_rescinded": false,
+  "is_draft_or_consultation": false,
+  "rescission_date": null,
+  "consultation_closing_date": null,
+  "as_of_applicability": "2026-03-23",
+  "rule_applied": "rule_5_final_current",
+  "authority_class": "primary_normative",
+  "authority_level": 100,
+  "nova_tier": 1,
+  "prudential_weight": 1.0,
+  "is_primary_normative": true,
+  "is_supporting_interpretive": false,
+  "is_context_only": false,
+  "document_class": "standalone_guideline",
+  "guidance_type_normalized": "guideline",
+  "section_headings": [
+    {
+      "level": 2,
+      "text": "Background",
+      "id": "h2-0"
+    },
+    {
+      "level": 2,
+      "text": "I. Guiding principles",
+      "id": "h2-1"
+    },
+    {
+      "level": 3,
+      "text": "1. Scope of application",
+      "id": "h3-2"
+    },
+    {
+      "level": 3,
+      "text": "2. Implementation date and frequency of reporting",
+      "id": "h3-3"
+    },
+    {
+      "level": 3,
+      "text": "3. Qualitative narrative to accompany the public disclosure requirements",
+      "id": "h3-4"
+    },
+    {
+      "level": 3,
+      "text": "4. Location of disclosures",
+      "id": "h3-5"
+    },
+    {
+      "level": 3,
+      "text": "5. Compliance with LICAT public disclosure requirements",
+      "id": "h3-6"
+    },
+    {
+      "level": 2,
+      "text": "Annex A – LICAT public disclosure requirements",
+      "id": "h2-7"
+    },
+    {
+      "level": 2,
+      "text": "Annex B – LIMAT public disclosure requirements",
+      "id": "h2-8"
+    },
+    {
+      "level": 2,
+      "text": "Footnotes",
+      "id": "h2-9"
+    }
+  ],
+  "heading_path": [
+    "Life Insurance Capital Adequacy Test Public Disclosure Requirements"
+  ],
+  "toc_depth": 3,
+  "has_appendices": false,
+  "appendix_ids": [],
+  "has_tables": true,
+  "table_count": 2,
+  "has_footnotes": false,
+  "footnote_count": 0,
+  "inline_cross_references": [],
+  "quoted_external_references": [],
+  "raw_html_sha256": "7983f1a507e4184659b6794c28f6262c48fa6a922c0ee7717d82fd4fdc361e39",
+  "raw_pdf_sha256": null,
+  "normalized_text_sha256": null,
+  "raw_html_path": "bronze/osfi/html/final_current/life-insurance-capital-adequacy-test-public-disclosure-requirements.html",
+  "normalized_md_path": "silver/osfi/md/final_current/life-insurance-capital-adequacy-test-public-disclosure-requirements.md",
+  "canonical_json_path": "silver/osfi/json/final_current/life-insurance-capital-adequacy-test-public-disclosure-requirements.json",
+  "content_source": "HTML",
+  "parser_version": "osfi-parser-v2.1.0",
+  "normalizer_version": "osfi-normalizer-v1.4.0",
+  "quality_score": 1.0,
+  "quality_flags": [],
+  "download_timestamp": "2026-03-11T00:00:00Z",
+  "enriched_timestamp": "2026-03-23T09:53:54.532366Z",
+  "sections": [
+    {
+      "heading": "Background",
+      "heading_level": 2,
+      "full_text": "The Life Insurance Capital Adequacy Test (LICAT) guideline replaced the Minimum Continuing Capital and Surplus Requirements (MCCSR) guideline effective January 1, 2018. The LICAT guideline establishes the standards used by OSFI to assess whether a life insurer Footnote 1 maintains adequate capital or an adequate margin to support risks specific to the life insurance business. The LICAT guideline does not address public solvency risk disclosures by life insurers.\nRequiring relevant public disclosures is consistent with OSFI’s mandate of protecting policyholders. When appropriate information is disclosed to stakeholders, it provides them with an opportunity to assess key risk information.\nOSFI’s desire to improve the transparency of life insurer activities was outlined and broadly communicated in OSFI’s Life Insurance Regulatory Framework issued in 2012. To achieve this objective, the Framework stated that OSFI will promote enhancements to the regulatory framework for life insurers through information disclosures to support the revised regulatory capital requirement.\nThe LICAT Public Disclosure Requirements guideline is comprised of the following sections:\n  1. Guiding principles\n  2. Scope and implementation\nThe Annexes to this guideline contain minimum quantitative disclosure templates intended to supplement qualitative disclosures.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "The Life Insurance Capital Adequacy Test (LICAT) guideline replaced the Minimum Continuing Capital and Surplus Requirements (MCCSR) guideline effective January 1, 2018. The LICAT guideline establishes the standards used by OSFI to assess whether a life insurer Footnote 1 maintains adequate capital or an adequate margin to support risks specific to the life insurance business. The LICAT guideline does not address public solvency risk disclosures by life insurers."
+        },
+        {
+          "type": "paragraph",
+          "text": "Requiring relevant public disclosures is consistent with OSFI’s mandate of protecting policyholders. When appropriate information is disclosed to stakeholders, it provides them with an opportunity to assess key risk information."
+        },
+        {
+          "type": "paragraph",
+          "text": "OSFI’s desire to improve the transparency of life insurer activities was outlined and broadly communicated in OSFI’s Life Insurance Regulatory Framework issued in 2012. To achieve this objective, the Framework stated that OSFI will promote enhancements to the regulatory framework for life insurers through information disclosures to support the revised regulatory capital requirement."
+        },
+        {
+          "type": "paragraph",
+          "text": "The LICAT Public Disclosure Requirements guideline is comprised of the following sections:"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "Guiding principles",
+            "Scope and implementation"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "The Annexes to this guideline contain minimum quantitative disclosure templates intended to supplement qualitative disclosures."
+        }
+      ]
+    },
+    {
+      "heading": "I. Guiding principles",
+      "heading_level": 2,
+      "full_text": "OSFI’s expectations outlined in this guideline are based on the following five guiding principles aimed to provide a foundation for achieving transparent, high-quality disclosures that will enable users to better understand and compare a life insurer’s business and risks. The qualitative and quantitative information will provide stakeholders with a broader picture of the life insurer’s capital and risk position and promote market discipline. Life insurers are expected to produce LICAT public disclosures that reflect the following disclosure principles:\nPrinciple 1 – Disclosures should be clear – Life insurers should communicate in a form that is understandable to key stakeholders and through an accessible medium.\nPrinciple 2 – Disclosures should be meaningful to users – Life insurers should highlight significant current and emerging risks and how they are managed, including information that is likely to be of business value to markets. Disclosures that do not add value to the users’ understanding or do not communicate useful information should be avoided.\nPrinciple 3 – Disclosures should be consistent over time – Life insurers should provide a consistent level of information over time to enable key stakeholders to identify trends in an insurance company’s risk profile across all significant aspects of its business.\nPrinciple 4 – Disclosures should be comparable across life insurers – The format and level of detail disclosed should enable stakeholders to perform meaningful comparisons with respect to solvency and adequacy of capital or margin for life insurers in Canada.\nPrinciple 5 – Disclosures should be accompanied by qualitative narrative – Life insurers are expected to supplement the quantitative information reflected in annexes A (LICAT) and B (Life Insurance Margin Requirement and Adequacy of Assets – (LIMAT)) with a narrative commentary explaining, at a minimum, any significant changes between reporting periods and any other issues that management considers to be of interest to stakeholders. The qualitative form of disclosure is at the insurer’s discretion.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "OSFI’s expectations outlined in this guideline are based on the following five guiding principles aimed to provide a foundation for achieving transparent, high-quality disclosures that will enable users to better understand and compare a life insurer’s business and risks. The qualitative and quantitative information will provide stakeholders with a broader picture of the life insurer’s capital and risk position and promote market discipline. Life insurers are expected to produce LICAT public disclosures that reflect the following disclosure principles:"
+        },
+        {
+          "type": "paragraph",
+          "text": "Principle 1 – Disclosures should be clear – Life insurers should communicate in a form that is understandable to key stakeholders and through an accessible medium."
+        },
+        {
+          "type": "paragraph",
+          "text": "Principle 2 – Disclosures should be meaningful to users – Life insurers should highlight significant current and emerging risks and how they are managed, including information that is likely to be of business value to markets. Disclosures that do not add value to the users’ understanding or do not communicate useful information should be avoided."
+        },
+        {
+          "type": "paragraph",
+          "text": "Principle 3 – Disclosures should be consistent over time – Life insurers should provide a consistent level of information over time to enable key stakeholders to identify trends in an insurance company’s risk profile across all significant aspects of its business."
+        },
+        {
+          "type": "paragraph",
+          "text": "Principle 4 – Disclosures should be comparable across life insurers – The format and level of detail disclosed should enable stakeholders to perform meaningful comparisons with respect to solvency and adequacy of capital or margin for life insurers in Canada."
+        },
+        {
+          "type": "paragraph",
+          "text": "Principle 5 – Disclosures should be accompanied by qualitative narrative – Life insurers are expected to supplement the quantitative information reflected in annexes A (LICAT) and B (Life Insurance Margin Requirement and Adequacy of Assets – (LIMAT)) with a narrative commentary explaining, at a minimum, any significant changes between reporting periods and any other issues that management considers to be of interest to stakeholders. The qualitative form of disclosure is at the insurer’s discretion."
+        }
+      ]
+    },
+    {
+      "heading": "1. Scope of application",
+      "heading_level": 3,
+      "full_text": "The LICAT Public Disclosure Requirements guideline applies to all active Footnote 2 federally regulated life insurers. OSFI expects LICAT public disclosures to be tailored to the nature, size and complexity of the insurer and to include, at a minimum: i) all key quantitative data points outlined in the LICAT/LIMAT Public Disclosure Requirement templates (Annexes A and B); and ii) a narrative description of material LICAT/LIMAT movements from period to period.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "The LICAT Public Disclosure Requirements guideline applies to all active Footnote 2 federally regulated life insurers. OSFI expects LICAT public disclosures to be tailored to the nature, size and complexity of the insurer and to include, at a minimum: i) all key quantitative data points outlined in the LICAT/LIMAT Public Disclosure Requirement templates (Annexes A and B); and ii) a narrative description of material LICAT/LIMAT movements from period to period."
+        }
+      ]
+    },
+    {
+      "heading": "2. Implementation date and frequency of reporting",
+      "heading_level": 3,
+      "full_text": "Life insurers are expected to provide LICAT public disclosures at least annually and should be aligned with the publication of the life insurer’s annual report.\nFor the first LICAT public disclosure reporting period (i.e., December 31, 2018), OSFI expects life insurers to apply the guidance prospectively. Comparative period disclosures should be provided in subsequent reporting periods.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Life insurers are expected to provide LICAT public disclosures at least annually and should be aligned with the publication of the life insurer’s annual report."
+        },
+        {
+          "type": "paragraph",
+          "text": "For the first LICAT public disclosure reporting period (i.e., December 31, 2018), OSFI expects life insurers to apply the guidance prospectively. Comparative period disclosures should be provided in subsequent reporting periods."
+        }
+      ]
+    },
+    {
+      "heading": "3. Qualitative narrative to accompany the public disclosure requirements",
+      "heading_level": 3,
+      "full_text": "Life insurers are expected to supplement the quantitative information with a qualitative narrative that explains the significant movement between periods for each of the LICAT/LIMAT components as shown in Annexes A and B. Disclosure of quantitative and qualitative information should provide stakeholders with a better understanding of an insurer’s capital and risk position and promote market discipline.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Life insurers are expected to supplement the quantitative information with a qualitative narrative that explains the significant movement between periods for each of the LICAT/LIMAT components as shown in Annexes A and B. Disclosure of quantitative and qualitative information should provide stakeholders with a better understanding of an insurer’s capital and risk position and promote market discipline."
+        }
+      ]
+    },
+    {
+      "heading": "4. Location of disclosures",
+      "heading_level": 3,
+      "full_text": "LICAT public disclosures should be publically available on the life insurer’s website and the insurer should have an archive of LICAT public disclosures relating to prior reporting periods.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "LICAT public disclosures should be publically available on the life insurer’s website and the insurer should have an archive of LICAT public disclosures relating to prior reporting periods."
+        }
+      ]
+    },
+    {
+      "heading": "5. Compliance with LICAT public disclosure requirements",
+      "heading_level": 3,
+      "full_text": "OSFI expects life insurers to comply with the LICAT public disclosure requirements stated within this guideline. The LICAT information disclosed should be subject to the same level of internal review and control process as the information provided for financial reporting. This should include a process whereby an internal audit function (or a review function with similar level of authority) reviews compliance with LICAT public disclosure expectations on initial application and, subsequently, on a periodic basis. OSFI will address issues of non-compliance on a case-by-case basis through bilateral discussions with the insurance company.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "OSFI expects life insurers to comply with the LICAT public disclosure requirements stated within this guideline. The LICAT information disclosed should be subject to the same level of internal review and control process as the information provided for financial reporting. This should include a process whereby an internal audit function (or a review function with similar level of authority) reviews compliance with LICAT public disclosure expectations on initial application and, subsequently, on a periodic basis. OSFI will address issues of non-compliance on a case-by-case basis through bilateral discussions with the insurance company."
+        }
+      ]
+    },
+    {
+      "heading": "Annex A – LICAT public disclosure requirements",
+      "heading_level": 2,
+      "full_text": "Qualitative analysis of solvency ratio (period over period)\n  - The Total Ratio period change is primarily attributed to….\n  - The Core Ratio period change is primarily attributed to….\nTable: LICAT ratios public disclosure summary template (thousands of dollars, except percentages)\nCompanies are required, at minimum, to maintain a Core Ratio of 55% Footnote 3 and a Total Ratio of 90%. OSFI has established supervisory target levels of 70% for Core and 100% for Total capital. Definition of terms can be found in Guideline A: LICAT - Life Insurance Capital Adequacy Test\nblank | blank | Current period | Prior period | Change - %\nAvailable capital (AC1+B) | (AC) | XX | XX | XX\nTier 1 Capital | (AC1) | blank | blank | blank\nTier 2 Capital | B | blank | blank | blank\nSurplus allowance and eligible deposits | (SA+ED) | XX | XX | XX\nBase solvency buffer | (BSB) | XX | XX | XX\nTotal Ratio ([AC + SA + ED] / BSB) x 100 | blank | XX | XX | XX\nCore Ratio ([AC1 + 70% SA + 70% ED] / BSB) x 100 | blank | XX | XX | XX\nCompanies are required, at minimum, to maintain a Core Ratio of 55% Footnote 3 and a Total Ratio of 90%. OSFI has established supervisory target levels of 70% for Core and 100% for Total capital.\nDefinition of terms can be found in Guideline A: LICAT - Life Insurance Capital Adequacy Test",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Qualitative analysis of solvency ratio (period over period)"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "The Total Ratio period change is primarily attributed to….",
+            "The Core Ratio period change is primarily attributed to…."
+          ]
+        },
+        {
+          "type": "table",
+          "caption": "LICAT ratios public disclosure summary template (thousands of dollars, except percentages)",
+          "rows": [
+            [
+              "Companies are required, at minimum, to maintain a Core Ratio of 55% Footnote 3 and a Total Ratio of 90%. OSFI has established supervisory target levels of 70% for Core and 100% for Total capital. Definition of terms can be found in Guideline A: LICAT - Life Insurance Capital Adequacy Test"
+            ],
+            [
+              "blank",
+              "blank",
+              "Current period",
+              "Prior period",
+              "Change - %"
+            ],
+            [
+              "Available capital (AC1+B)",
+              "(AC)",
+              "XX",
+              "XX",
+              "XX"
+            ],
+            [
+              "Tier 1 Capital",
+              "(AC1)",
+              "blank",
+              "blank",
+              "blank"
+            ],
+            [
+              "Tier 2 Capital",
+              "B",
+              "blank",
+              "blank",
+              "blank"
+            ],
+            [
+              "Surplus allowance and eligible deposits",
+              "(SA+ED)",
+              "XX",
+              "XX",
+              "XX"
+            ],
+            [
+              "Base solvency buffer",
+              "(BSB)",
+              "XX",
+              "XX",
+              "XX"
+            ],
+            [
+              "Total Ratio ([AC + SA + ED] / BSB) x 100",
+              "blank",
+              "XX",
+              "XX",
+              "XX"
+            ],
+            [
+              "Core Ratio ([AC1 + 70% SA + 70% ED] / BSB) x 100",
+              "blank",
+              "XX",
+              "XX",
+              "XX"
+            ]
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Companies are required, at minimum, to maintain a Core Ratio of 55% Footnote 3 and a Total Ratio of 90%. OSFI has established supervisory target levels of 70% for Core and 100% for Total capital."
+        },
+        {
+          "type": "paragraph",
+          "text": "Definition of terms can be found in Guideline A: LICAT - Life Insurance Capital Adequacy Test"
+        }
+      ]
+    },
+    {
+      "heading": "Annex B – LIMAT public disclosure requirements",
+      "heading_level": 2,
+      "full_text": "Qualitative analysis of solvency ratio (period over period)\n  - The LIMAT Total Ratio period change is primarily attributed to…\nTable: LIMAT Ratios Public Disclosure Summary Template (thousands of dollars, except percentages)\nBranches are required, at minimum, to maintain a Total Ratio of 90%. OSFI has established supervisory target level of 100% for Total margin. Definition of terms can be found in Guideline A: LICAT - Life Insurance Capital Adequacy Test\nblank | blank | Current Period | Prior Period | Change - %\nAvailable margin (A-B) | C | XX | XX | XX\nAssets Available | A | blank | blank | blank\nAssets Required | B | blank | blank | blank\nSurplus allowance and eligible deposits | D | XX | XX | XX\nRequired margin | E | XX | XX | XX\nLIMAT total ratio ([C + D] / E) x 100 | blank | XX | XX | XX\nBranches are required, at minimum, to maintain a Total Ratio of 90%. OSFI has established supervisory target level of 100% for Total margin.\nDefinition of terms can be found in Guideline A: LICAT - Life Insurance Capital Adequacy Test\nFootnotes Footnote 1 For purposes of the LICAT guideline, \"life insurers\" or \"insurers\" refer to all federally regulated life insurers, including Canadian branches of foreign life companies, fraternal benefit societies, regulated insurance holding companies and non-operating life insurance companies Return to footnote 1 Footnote 2 Active FRFI Life Insurers describes life insurers issuing new life and health policies /contracts in Canada. Return to footnote 2 Footnote 3 During 2023 and 2024, regulated insurance holding companies and non-operating insurance companies are required to maintain a minimum Core Ratio of 50%. Starting in 2025, the minimum Core Ratio for regulated insurance holding companies and non-operating insurance companies will be 55%. Return to footnote 3",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Qualitative analysis of solvency ratio (period over period)"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "The LIMAT Total Ratio period change is primarily attributed to…"
+          ]
+        },
+        {
+          "type": "table",
+          "caption": "LIMAT Ratios Public Disclosure Summary Template (thousands of dollars, except percentages)",
+          "rows": [
+            [
+              "Branches are required, at minimum, to maintain a Total Ratio of 90%. OSFI has established supervisory target level of 100% for Total margin. Definition of terms can be found in Guideline A: LICAT - Life Insurance Capital Adequacy Test"
+            ],
+            [
+              "blank",
+              "blank",
+              "Current Period",
+              "Prior Period",
+              "Change - %"
+            ],
+            [
+              "Available margin (A-B)",
+              "C",
+              "XX",
+              "XX",
+              "XX"
+            ],
+            [
+              "Assets Available",
+              "A",
+              "blank",
+              "blank",
+              "blank"
+            ],
+            [
+              "Assets Required",
+              "B",
+              "blank",
+              "blank",
+              "blank"
+            ],
+            [
+              "Surplus allowance and eligible deposits",
+              "D",
+              "XX",
+              "XX",
+              "XX"
+            ],
+            [
+              "Required margin",
+              "E",
+              "XX",
+              "XX",
+              "XX"
+            ],
+            [
+              "LIMAT total ratio ([C + D] / E) x 100",
+              "blank",
+              "XX",
+              "XX",
+              "XX"
+            ]
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Branches are required, at minimum, to maintain a Total Ratio of 90%. OSFI has established supervisory target level of 100% for Total margin."
+        },
+        {
+          "type": "paragraph",
+          "text": "Definition of terms can be found in Guideline A: LICAT - Life Insurance Capital Adequacy Test"
+        },
+        {
+          "type": "paragraph",
+          "text": "Footnotes Footnote 1 For purposes of the LICAT guideline, \"life insurers\" or \"insurers\" refer to all federally regulated life insurers, including Canadian branches of foreign life companies, fraternal benefit societies, regulated insurance holding companies and non-operating life insurance companies Return to footnote 1 Footnote 2 Active FRFI Life Insurers describes life insurers issuing new life and health policies /contracts in Canada. Return to footnote 2 Footnote 3 During 2023 and 2024, regulated insurance holding companies and non-operating insurance companies are required to maintain a minimum Core Ratio of 50%. Starting in 2025, the minimum Core Ratio for regulated insurance holding companies and non-operating insurance companies will be 55%. Return to footnote 3"
+        }
+      ]
+    },
+    {
+      "heading": "Footnotes",
+      "heading_level": 2,
+      "full_text": "For purposes of the LICAT guideline, \"life insurers\" or \"insurers\" refer to all federally regulated life insurers, including Canadian branches of foreign life companies, fraternal benefit societies, regulated insurance holding companies and non-operating life insurance companies\nReturn to footnote 1\nActive FRFI Life Insurers describes life insurers issuing new life and health policies /contracts in Canada.\nReturn to footnote 2\nDuring 2023 and 2024, regulated insurance holding companies and non-operating insurance companies are required to maintain a minimum Core Ratio of 50%. Starting in 2025, the minimum Core Ratio for regulated insurance holding companies and non-operating insurance companies will be 55%.\nReturn to footnote 3",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "For purposes of the LICAT guideline, \"life insurers\" or \"insurers\" refer to all federally regulated life insurers, including Canadian branches of foreign life companies, fraternal benefit societies, regulated insurance holding companies and non-operating life insurance companies"
+        },
+        {
+          "type": "paragraph",
+          "text": "Return to footnote 1"
+        },
+        {
+          "type": "paragraph",
+          "text": "Active FRFI Life Insurers describes life insurers issuing new life and health policies /contracts in Canada."
+        },
+        {
+          "type": "paragraph",
+          "text": "Return to footnote 2"
+        },
+        {
+          "type": "paragraph",
+          "text": "During 2023 and 2024, regulated insurance holding companies and non-operating insurance companies are required to maintain a minimum Core Ratio of 50%. Starting in 2025, the minimum Core Ratio for regulated insurance holding companies and non-operating insurance companies will be 55%."
+        },
+        {
+          "type": "paragraph",
+          "text": "Return to footnote 3"
+        }
+      ]
+    }
+  ],
+  "title_normalized": "life insurance capital adequacy test public disclosure requirements",
+  "publication_type_normalized": "guideline",
+  "category_normalized": "accounting_and_disclosure",
+  "sector_normalized": [
+    "life_insurance"
+  ],
+  "guideline_number_normalized": "",
+  "applies_to_banks": false,
+  "applies_to_trust_loan": false,
+  "applies_to_life_insurance": true,
+  "applies_to_pc_insurance": false,
+  "applies_to_foreign_bank": false,
+  "applies_to_foreign_insurance": false,
+  "applies_to_cooperative": false,
+  "applies_to_bank_holding": false,
+  "effective_date_sort_key": "2018-12-31",
+  "status_sort_key": 1,
+  "authority_sort_key": 100,
+  "bm25_text": "Life Insurance Capital Adequacy Test Public Disclosure Requirements Guideline Accounting and Disclosure Life Insurance and Fraternal Companies Background I. Guiding principles 1. Scope of application 2. Implementation date and frequency of reporting 3. Qualitative narrative to accompany the public disclosure requirements 4. Location of disclosures 5. Compliance with LICAT public disclosure requirements Annex A – LICAT public disclosure requirements Annex B – LIMAT public disclosure requirements Footnotes",
+  "vector_text_prefix": "[OSFI Guideline  | Accounting and Disclosure | Life Insurance and Fraternal Companies | FINAL_CURRENT | Effective 2018-12-31]",
+  "h1_title": "Life Insurance Capital Adequacy Test Public Disclosure Requirements",
+  "regulator": "OSFI",
+  "regulator_acronym": "OSFI",
+  "jurisdiction": "Canada",
+  "short_title": "",
+  "source_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/life-insurance-capital-adequacy-test-public-disclosure-requirements"
+}

@@ -1,0 +1,737 @@
+{
+  "source_system": "osfi_guidance_library",
+  "library_row_title": "Parental Stand-Alone (Solo) TLAC Framework for Domestic Systemically Important Banks (D-SIBs)",
+  "library_row_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/parental-stand-alone-solo-tlac-framework-domestic-systemically-important-banks-sibs",
+  "listing_date_raw": "Effective date November 1, 2023",
+  "listing_date_iso": "",
+  "listing_publication_type": "Guideline",
+  "listing_category": "Capital Adequacy Requirements",
+  "listing_sector": [
+    "Banks"
+  ],
+  "crawl_timestamp": "2026-03-11T00:00:00Z",
+  "detail_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/parental-stand-alone-solo-tlac-framework-domestic-systemically-important-banks-sibs",
+  "canonical_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/parental-stand-alone-solo-tlac-framework-domestic-systemically-important-banks-sibs",
+  "slug": "parental-stand-alone-solo-tlac-framework-domestic-systemically-important-banks-sibs",
+  "title": "Parental Stand-Alone (Solo) TLAC Framework for Domestic Systemically Important Banks (D-SIBs)",
+  "publication_type": "Guideline",
+  "category": "Capital Adequacy Requirements",
+  "document_date_raw": "Effective date November 1, 2023",
+  "document_date_iso": "",
+  "sector": [
+    "Banks"
+  ],
+  "effective_date_text": "Effective date November 1, 2023",
+  "guideline_number": "TLAC",
+  "date_modified_raw": "2023-09-30T12:00:00Z",
+  "generate_pdf_url": "https://www.osfi-bsif.gc.ca/en/print/pdf/node/1750",
+  "pdf_node_id": 1750,
+  "direct_pdf_url": null,
+  "has_table_of_contents": true,
+  "toc_entries": [],
+  "has_related_documents": true,
+  "related_document_links_raw": [
+    {
+      "title": "Parental Solo Capital Framework for Federally Regulated Life Insurers",
+      "url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/parental-stand-alone-solo-capital-framework-federally-regulated-life-insurers-2025"
+    }
+  ],
+  "consultation_status_text": null,
+  "consultation_status_refers_to_version": null,
+  "page_language": "en",
+  "word_count_raw_body": 4307,
+  "doc_id": "osfi.tlac.standalone",
+  "doc_family_id": "osfi.tlac",
+  "version_id": "",
+  "version_label": "Parental Stand-Alone (Solo) TLAC Framework for Domestic Syst",
+  "version_sort_key": "",
+  "parent_doc_id": null,
+  "child_doc_ids": [],
+  "is_package_page": false,
+  "is_chapter_page": false,
+  "chapter_number": null,
+  "chapter_title": null,
+  "document_order_within_family": 0,
+  "supersedes_doc_id": null,
+  "superseded_by_doc_id": null,
+  "current_version_flag": true,
+  "status": "final_current",
+  "include_in_primary_corpus": true,
+  "include_in_support_corpus": false,
+  "include_in_context_corpus": false,
+  "effective_date_start": "2023-11-01",
+  "effective_date_end": null,
+  "effective_date_fye_split": false,
+  "effective_date_oct_fye": null,
+  "effective_date_dec_fye": null,
+  "is_future_effective": false,
+  "is_rescinded": false,
+  "is_draft_or_consultation": false,
+  "rescission_date": null,
+  "consultation_closing_date": null,
+  "as_of_applicability": "2026-03-23",
+  "rule_applied": "rule_5_final_current",
+  "authority_class": "primary_normative",
+  "authority_level": 100,
+  "nova_tier": 1,
+  "prudential_weight": 1.0,
+  "is_primary_normative": true,
+  "is_supporting_interpretive": false,
+  "is_context_only": false,
+  "document_class": "standalone_guideline",
+  "guidance_type_normalized": "guideline",
+  "section_headings": [
+    {
+      "level": 2,
+      "text": "I. Overview",
+      "id": "h2-0"
+    },
+    {
+      "level": 2,
+      "text": "II. Scope of application",
+      "id": "h2-1"
+    },
+    {
+      "level": 2,
+      "text": "III. Calculation of Solo TLAC",
+      "id": "h2-2"
+    },
+    {
+      "level": 2,
+      "text": "IV. Minimum Solo TLAC ratio",
+      "id": "h2-3"
+    },
+    {
+      "level": 2,
+      "text": "V. Solo TLAC available (numerator)",
+      "id": "h2-4"
+    },
+    {
+      "level": 3,
+      "text": "A. Common shares Footnote 2 issued by consolidated subsidiaries to third party investors (i.e. minority interest/non-controlling interests)",
+      "id": "h3-5"
+    },
+    {
+      "level": 3,
+      "text": "B. Foreign regulated Footnote 3 subsidiaries that are outside the scope of consolidation for regulatory capital purposes Footnote 4",
+      "id": "h3-6"
+    },
+    {
+      "level": 3,
+      "text": "C. Vested assets in foreign branches Footnote 5",
+      "id": "h3-7"
+    },
+    {
+      "level": 3,
+      "text": "D. Non-regulated subsidiaries",
+      "id": "h3-8"
+    },
+    {
+      "level": 2,
+      "text": "VI. Parental Risk-Weighted Assets (RWAs) (denominator)",
+      "id": "h2-9"
+    },
+    {
+      "level": 3,
+      "text": "A. Subsidiaries and branches regulated by a foreign authority that are consolidated for regulatory purposes",
+      "id": "h3-10"
+    },
+    {
+      "level": 3,
+      "text": "B. Foreign regulated subsidiaries that are outside the scope of consolidation for regulatory purposes",
+      "id": "h3-11"
+    },
+    {
+      "level": 3,
+      "text": "C. Parental guarantees",
+      "id": "h3-12"
+    },
+    {
+      "level": 2,
+      "text": "Table footnotes",
+      "id": "h2-13"
+    },
+    {
+      "level": 2,
+      "text": "Footnotes",
+      "id": "h2-14"
+    }
+  ],
+  "heading_path": [
+    "Parental Stand-Alone (Solo) TLAC Framework for Domestic Systemically Important Banks (D-SIBs)"
+  ],
+  "toc_depth": 3,
+  "has_appendices": false,
+  "appendix_ids": [],
+  "has_tables": true,
+  "table_count": 1,
+  "has_footnotes": false,
+  "footnote_count": 0,
+  "inline_cross_references": [],
+  "quoted_external_references": [],
+  "raw_html_sha256": "bcf17ffecc33aa628baa8d1ec7f0d6049d78dfa376b95e8ca7e8d782b766f8bd",
+  "raw_pdf_sha256": null,
+  "normalized_text_sha256": null,
+  "raw_html_path": "bronze/osfi/html/final_current/parental-stand-alone-solo-tlac-framework-domestic-systemically-important-banks-sibs.html",
+  "normalized_md_path": "silver/osfi/md/final_current/parental-stand-alone-solo-tlac-framework-domestic-systemically-important-banks-sibs.md",
+  "canonical_json_path": "silver/osfi/json/final_current/parental-stand-alone-solo-tlac-framework-domestic-systemically-important-banks-sibs.json",
+  "content_source": "HTML",
+  "parser_version": "osfi-parser-v2.1.0",
+  "normalizer_version": "osfi-normalizer-v1.4.0",
+  "quality_score": 1.0,
+  "quality_flags": [],
+  "download_timestamp": "2026-03-11T00:00:00Z",
+  "enriched_timestamp": "2026-03-23T09:53:58.446980Z",
+  "sections": [
+    {
+      "heading": "",
+      "heading_level": 2,
+      "full_text": "  - OSFI finalizes its Solo Capital guideline and Solo Total Loss Absorbing Capacity (TLAC) guideline - Letter\n  - Solo Total Loss Absorbing Capacity (Solo TLAC) Return\n  - Parental Solo Capital Framework for Federally Regulated Life Insurers\nSubsection 485(1.1) of the Bank Act requires domestic systemically important banks (D-SIBs) to maintain a minimum capacity to absorb losses. The purpose of the Parental Stand-Alone (Solo) Total Loss Absorbing Capacity (TLAC) framework is to ensure a non-viable D-SIB has sufficient loss absorbing capacity on a stand-alone, or solo, legal entity basis to support its resolution. This would, in turn, facilitate an orderly resolution of the D-SIB while minimizing adverse impacts on the stability of the financial sector, ensuring the continuity of critical functions, and minimizing taxpayers' exposure to loss.\nThis guideline is not made pursuant to subsection 485(2) of the Bank Act . However, the standards set out in this guideline together with the requirements set out in the Total Loss Absorbing Capacity (TLAC) Guideline , the Capital Adequacy Requirements (CAR) Guideline and the Leverage Requirements Guideline provide the framework within which the Superintendent will assess whether a D-SIB maintains its minimum capacity to absorb losses pursuant to the Bank Act .\nFor this purpose, the Superintendent has established the risk-based Solo TLAC ratio, which builds on the risk-based TLAC ratio set out in the TLAC Guideline and the risk-based capital ratios described in the CAR Guideline.\nThe risk-based Solo TLAC ratio will be the primary basis used by OSFI to assess the sufficiency of TLAC that is readily available to the domestic parent D-SIB and to assess the parent's ability to act as a source of strength for its subsidiaries and/or other affiliates.\nD-SIBs are required to apply this guideline beginning on November 1, 2023.",
+      "content": [
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "OSFI finalizes its Solo Capital guideline and Solo Total Loss Absorbing Capacity (TLAC) guideline - Letter",
+            "Solo Total Loss Absorbing Capacity (Solo TLAC) Return"
+          ]
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Parental Solo Capital Framework for Federally Regulated Life Insurers"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Subsection 485(1.1) of the Bank Act requires domestic systemically important banks (D-SIBs) to maintain a minimum capacity to absorb losses. The purpose of the Parental Stand-Alone (Solo) Total Loss Absorbing Capacity (TLAC) framework is to ensure a non-viable D-SIB has sufficient loss absorbing capacity on a stand-alone, or solo, legal entity basis to support its resolution. This would, in turn, facilitate an orderly resolution of the D-SIB while minimizing adverse impacts on the stability of the financial sector, ensuring the continuity of critical functions, and minimizing taxpayers' exposure to loss."
+        },
+        {
+          "type": "paragraph",
+          "text": "This guideline is not made pursuant to subsection 485(2) of the Bank Act . However, the standards set out in this guideline together with the requirements set out in the Total Loss Absorbing Capacity (TLAC) Guideline , the Capital Adequacy Requirements (CAR) Guideline and the Leverage Requirements Guideline provide the framework within which the Superintendent will assess whether a D-SIB maintains its minimum capacity to absorb losses pursuant to the Bank Act ."
+        },
+        {
+          "type": "paragraph",
+          "text": "For this purpose, the Superintendent has established the risk-based Solo TLAC ratio, which builds on the risk-based TLAC ratio set out in the TLAC Guideline and the risk-based capital ratios described in the CAR Guideline."
+        },
+        {
+          "type": "paragraph",
+          "text": "The risk-based Solo TLAC ratio will be the primary basis used by OSFI to assess the sufficiency of TLAC that is readily available to the domestic parent D-SIB and to assess the parent's ability to act as a source of strength for its subsidiaries and/or other affiliates."
+        },
+        {
+          "type": "paragraph",
+          "text": "D-SIBs are required to apply this guideline beginning on November 1, 2023."
+        }
+      ]
+    },
+    {
+      "heading": "I. Overview",
+      "heading_level": 2,
+      "full_text": "  1. The objective of this framework is to measure the sufficiency of loss absorbing capacity that is readily available to a domestic parent bank on a standalone, or solo, legal entity basis and to assess the parent's ability to act as a source of strength for its subsidiaries and/or other affiliates. An appropriate amount of loss absorbing capacity should be readily available to the parent bank in times of stress. Under such circumstances, banking groups are better positioned to recover from stress and to be resolved in a manner that protects depositors, policyholders, and senior creditors while contributing to financial stability.\nThe objective of this framework is to measure the sufficiency of loss absorbing capacity that is readily available to a domestic parent bank on a standalone, or solo, legal entity basis and to assess the parent's ability to act as a source of strength for its subsidiaries and/or other affiliates. An appropriate amount of loss absorbing capacity should be readily available to the parent bank in times of stress. Under such circumstances, banking groups are better positioned to recover from stress and to be resolved in a manner that protects depositors, policyholders, and senior creditors while contributing to financial stability.",
+      "content": [
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "The objective of this framework is to measure the sufficiency of loss absorbing capacity that is readily available to a domestic parent bank on a standalone, or solo, legal entity basis and to assess the parent's ability to act as a source of strength for its subsidiaries and/or other affiliates. An appropriate amount of loss absorbing capacity should be readily available to the parent bank in times of stress. Under such circumstances, banking groups are better positioned to recover from stress and to be resolved in a manner that protects depositors, policyholders, and senior creditors while contributing to financial stability."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "The objective of this framework is to measure the sufficiency of loss absorbing capacity that is readily available to a domestic parent bank on a standalone, or solo, legal entity basis and to assess the parent's ability to act as a source of strength for its subsidiaries and/or other affiliates. An appropriate amount of loss absorbing capacity should be readily available to the parent bank in times of stress. Under such circumstances, banking groups are better positioned to recover from stress and to be resolved in a manner that protects depositors, policyholders, and senior creditors while contributing to financial stability."
+        }
+      ]
+    },
+    {
+      "heading": "II. Scope of application",
+      "heading_level": 2,
+      "full_text": "  1. The Solo TLAC guideline applies to all banks designated by the Superintendent as domestically systemically important banks (D-SIBs) pursuant to subsection 484.1(1) of the Bank Act . The domestic parent bank is the Canadian legal entity incorporated or continued under the Bank Act that is both an operating entity and the ultimate parent of the consolidated banking group.\nThe Solo TLAC guideline applies to all banks designated by the Superintendent as domestically systemically important banks (D-SIBs) pursuant to subsection 484.1(1) of the Bank Act . The domestic parent bank is the Canadian legal entity incorporated or continued under the Bank Act that is both an operating entity and the ultimate parent of the consolidated banking group.",
+      "content": [
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "The Solo TLAC guideline applies to all banks designated by the Superintendent as domestically systemically important banks (D-SIBs) pursuant to subsection 484.1(1) of the Bank Act . The domestic parent bank is the Canadian legal entity incorporated or continued under the Bank Act that is both an operating entity and the ultimate parent of the consolidated banking group."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "The Solo TLAC guideline applies to all banks designated by the Superintendent as domestically systemically important banks (D-SIBs) pursuant to subsection 484.1(1) of the Bank Act . The domestic parent bank is the Canadian legal entity incorporated or continued under the Bank Act that is both an operating entity and the ultimate parent of the consolidated banking group."
+        }
+      ]
+    },
+    {
+      "heading": "III. Calculation of Solo TLAC",
+      "heading_level": 2,
+      "full_text": "  1. The Solo TLAC ratio is calculated by dividing Solo TLAC Available by the Parental Risk-Weighted Assets (RWA) with this ratio expressed as a percentage: Solo TLAC ratio = Solo TLAC Available Parental Risk-Weighted Assets\nThe Solo TLAC ratio is calculated by dividing Solo TLAC Available by the Parental Risk-Weighted Assets (RWA) with this ratio expressed as a percentage:",
+      "content": [
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "The Solo TLAC ratio is calculated by dividing Solo TLAC Available by the Parental Risk-Weighted Assets (RWA) with this ratio expressed as a percentage: Solo TLAC ratio = Solo TLAC Available Parental Risk-Weighted Assets"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "The Solo TLAC ratio is calculated by dividing Solo TLAC Available by the Parental Risk-Weighted Assets (RWA) with this ratio expressed as a percentage:"
+        }
+      ]
+    },
+    {
+      "heading": "IV. Minimum Solo TLAC ratio",
+      "heading_level": 2,
+      "full_text": "  1. D-SIBs must maintain a minimum Solo TLAC ratio of 21.5% Footnote 1 . D-SIBs are expected to meet the minimum TLAC requirements on a continuous basis.\nD-SIBs must maintain a minimum Solo TLAC ratio of 21.5% Footnote 1 . D-SIBs are expected to meet the minimum TLAC requirements on a continuous basis.",
+      "content": [
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "D-SIBs must maintain a minimum Solo TLAC ratio of 21.5% Footnote 1 . D-SIBs are expected to meet the minimum TLAC requirements on a continuous basis."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "D-SIBs must maintain a minimum Solo TLAC ratio of 21.5% Footnote 1 . D-SIBs are expected to meet the minimum TLAC requirements on a continuous basis."
+        }
+      ]
+    },
+    {
+      "heading": "V. Solo TLAC available (numerator)",
+      "heading_level": 2,
+      "full_text": "  1. The numerator of the Solo TLAC ratio is the TLAC Measure of the institution as calculated by the D-SIB on a group consolidated basis under OSFI's TLAC Guideline, subject to the following adjustments.\nThe numerator of the Solo TLAC ratio is the TLAC Measure of the institution as calculated by the D-SIB on a group consolidated basis under OSFI's TLAC Guideline, subject to the following adjustments.",
+      "content": [
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "The numerator of the Solo TLAC ratio is the TLAC Measure of the institution as calculated by the D-SIB on a group consolidated basis under OSFI's TLAC Guideline, subject to the following adjustments."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "The numerator of the Solo TLAC ratio is the TLAC Measure of the institution as calculated by the D-SIB on a group consolidated basis under OSFI's TLAC Guideline, subject to the following adjustments."
+        }
+      ]
+    },
+    {
+      "heading": "A. Common shares Footnote 2 issued by consolidated subsidiaries to third party investors (i.e. minority interest/non-controlling interests)",
+      "heading_level": 3,
+      "full_text": "  1. D-SIBs should fully deduct any common shares issued by consolidated subsidiaries to third parties that qualify as capital pursuant to section 2.1.1.3 of the CAR Guideline.\nD-SIBs should fully deduct any common shares issued by consolidated subsidiaries to third parties that qualify as capital pursuant to section 2.1.1.3 of the CAR Guideline.",
+      "content": [
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "D-SIBs should fully deduct any common shares issued by consolidated subsidiaries to third parties that qualify as capital pursuant to section 2.1.1.3 of the CAR Guideline."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "D-SIBs should fully deduct any common shares issued by consolidated subsidiaries to third parties that qualify as capital pursuant to section 2.1.1.3 of the CAR Guideline."
+        }
+      ]
+    },
+    {
+      "heading": "B. Foreign regulated Footnote 3 subsidiaries that are outside the scope of consolidation for regulatory capital purposes Footnote 4",
+      "heading_level": 3,
+      "full_text": "  1. Deductions from capital of investments in foreign regulated subsidiaries that are outside the scope of consolidation and thatare regulated by an authority other than OSFI, including insurance subsidiaries, made pursuant to section 2.3 of the CAR Guideline should be reversed and subject to the treatment described in paragraph 12 of this Guideline.\nDeductions from capital of investments in foreign regulated subsidiaries that are outside the scope of consolidation and thatare regulated by an authority other than OSFI, including insurance subsidiaries, made pursuant to section 2.3 of the CAR Guideline should be reversed and subject to the treatment described in paragraph 12 of this Guideline.",
+      "content": [
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "Deductions from capital of investments in foreign regulated subsidiaries that are outside the scope of consolidation and thatare regulated by an authority other than OSFI, including insurance subsidiaries, made pursuant to section 2.3 of the CAR Guideline should be reversed and subject to the treatment described in paragraph 12 of this Guideline."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Deductions from capital of investments in foreign regulated subsidiaries that are outside the scope of consolidation and thatare regulated by an authority other than OSFI, including insurance subsidiaries, made pursuant to section 2.3 of the CAR Guideline should be reversed and subject to the treatment described in paragraph 12 of this Guideline."
+        }
+      ]
+    },
+    {
+      "heading": "C. Vested assets in foreign branches Footnote 5",
+      "heading_level": 3,
+      "full_text": "  1. For each foreign branch, D-SIBs should deduct vested assets in excess of the branch's third-party liabilities. Vested assets are assets that cannot be accessed without regulatory approval (e.g. deposits in trust, capital equivalency deposits, asset maintenance requirements, etc.). Third-party liabilities of a branch are those liabilities of the branch that arise from obligations to third parties (i.e., liabilities that are not eliminated upon consolidation).\nFor each foreign branch, D-SIBs should deduct vested assets in excess of the branch's third-party liabilities. Vested assets are assets that cannot be accessed without regulatory approval (e.g. deposits in trust, capital equivalency deposits, asset maintenance requirements, etc.). Third-party liabilities of a branch are those liabilities of the branch that arise from obligations to third parties (i.e., liabilities that are not eliminated upon consolidation).",
+      "content": [
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "For each foreign branch, D-SIBs should deduct vested assets in excess of the branch's third-party liabilities. Vested assets are assets that cannot be accessed without regulatory approval (e.g. deposits in trust, capital equivalency deposits, asset maintenance requirements, etc.). Third-party liabilities of a branch are those liabilities of the branch that arise from obligations to third parties (i.e., liabilities that are not eliminated upon consolidation)."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "For each foreign branch, D-SIBs should deduct vested assets in excess of the branch's third-party liabilities. Vested assets are assets that cannot be accessed without regulatory approval (e.g. deposits in trust, capital equivalency deposits, asset maintenance requirements, etc.). Third-party liabilities of a branch are those liabilities of the branch that arise from obligations to third parties (i.e., liabilities that are not eliminated upon consolidation)."
+        }
+      ]
+    },
+    {
+      "heading": "D. Non-regulated subsidiaries",
+      "heading_level": 3,
+      "full_text": "  1. Institutions should deduct any amount of capital, TLAC, or equivalent in an non-regulated subsidiary that is required to be maintained for non-regulatory purposes (e.g. capital needed to meet a thin capitalization requirement under tax laws or to fulfil a third party net worth covenant).\nInstitutions should deduct any amount of capital, TLAC, or equivalent in an non-regulated subsidiary that is required to be maintained for non-regulatory purposes (e.g. capital needed to meet a thin capitalization requirement under tax laws or to fulfil a third party net worth covenant).",
+      "content": [
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "Institutions should deduct any amount of capital, TLAC, or equivalent in an non-regulated subsidiary that is required to be maintained for non-regulatory purposes (e.g. capital needed to meet a thin capitalization requirement under tax laws or to fulfil a third party net worth covenant)."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Institutions should deduct any amount of capital, TLAC, or equivalent in an non-regulated subsidiary that is required to be maintained for non-regulatory purposes (e.g. capital needed to meet a thin capitalization requirement under tax laws or to fulfil a third party net worth covenant)."
+        }
+      ]
+    },
+    {
+      "heading": "VI. Parental Risk-Weighted Assets (RWAs) (denominator)",
+      "heading_level": 2,
+      "full_text": "  1. The denominator of the Solo TLAC ratio uses total RWAs of the consolidated group as calculated by the D-SIB under OSFI's CAR Guideline, subject to the following adjustments:\nThe denominator of the Solo TLAC ratio uses total RWAs of the consolidated group as calculated by the D-SIB under OSFI's CAR Guideline, subject to the following adjustments:",
+      "content": [
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "The denominator of the Solo TLAC ratio uses total RWAs of the consolidated group as calculated by the D-SIB under OSFI's CAR Guideline, subject to the following adjustments:"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "The denominator of the Solo TLAC ratio uses total RWAs of the consolidated group as calculated by the D-SIB under OSFI's CAR Guideline, subject to the following adjustments:"
+        }
+      ]
+    },
+    {
+      "heading": "A. Subsidiaries and branches regulated by a foreign authority that are consolidated for regulatory purposes",
+      "heading_level": 3,
+      "full_text": "  1. For each foreign-regulated subsidiary Footnote 6 and foreign branch, D-SIBs should first deduct the RWAs attributable to the subsidiary or branch from the group consolidated RWAs as calculated under the CAR Guideline. RWAs attributable to foreign-regulated subsidiaries and foreign branches are calculated by applying the CAR Guideline on a stand-alone basis to each subsidiary or branch and excluding any capital requirements associated with exposures that are eliminated upon the subsidiary's and branch's consolidation for accounting purposes. For clarity, the same measurement basis Footnote 7 (e.g. the Standardized approach or the Internal Ratings Based approach), as well as the factors or inputs (e.g., probabilities of default (PD), loss-given default (LGD), exposure-at-default (EAD)) used to calculate consolidated capital requirements under the CAR Guideline should also be used to calculate the RWAs associated with any foreign-regulated subsidiaries and branches for Solo TLAC purposes.\n  2. Institutions must then calculate revised RWAs for each foreign-regulated subsidiary by multiplying the parent D-SIB's exposure to the subsidiary by 325%. The exposure Footnote 8 is the sum of the following items: The value of the parent's investment in the subsidiary computed using the equity method of accounting as per International Financial Reporting Standards (IFRS); Subordinated debt and other capital elements issued by the subsidiary to the parent; Senior debt or claims recognized as internal TLAC, internal Minimum Requirements for Own Funds and Eligible Liabilities (MREL) or equivalent issued by the subsidiary to the parent; and The amount that the parent D-SIB could be required to pay out under capital guarantees provided to the subsidiary as described under paragraph 16.\n  3. Institutions must calculate revised RWAs for foreign branches by multiplying the D-SIB's exposure to its branches by 300%. The exposure is calculated as the difference between the following items: a. Total Assets, net of deductions already applied to the TLAC Measure pursuant to the CAR Guideline or the TLAC Guideline and all other assets arising from intra-group transactions Footnote 9 , across all foreign branches. Total Assets refers to the aggregate assets reported on the stand-alone balance sheet of the branch; and Total Third-party liabilities across all foreign branches. Third-party liabilities refer to those liabilities that are not eliminated upon accounting consolidation.\n  4. Where the calculation under paragraph 13 results in a negative value, institutions should adjust the value of the exposure by adding amounts remitted to the Canadian branch net of amounts transferred by the Canadian branch to its foreign branches, across all of the D-SIB's foreign branches. The resulting adjustment must not exceed the absolute value of the amount determined under paragraph 13. Institutions should apply the 300% risk-weight to the absolute value of the exposure resulting from the above adjustments.\nFor each foreign-regulated subsidiary Footnote 6 and foreign branch, D-SIBs should first deduct the RWAs attributable to the subsidiary or branch from the group consolidated RWAs as calculated under the CAR Guideline. RWAs attributable to foreign-regulated subsidiaries and foreign branches are calculated by applying the CAR Guideline on a stand-alone basis to each subsidiary or branch and excluding any capital requirements associated with exposures that are eliminated upon the subsidiary's and branch's consolidation for accounting purposes. For clarity, the same measurement basis Footnote 7 (e.g. the Standardized approach or the Internal Ratings Based approach), as well as the factors or inputs (e.g., probabilities of default (PD), loss-given default (LGD), exposure-at-default (EAD)) used to calculate consolidated capital requirements under the CAR Guideline should also be used to calculate the RWAs associated with any foreign-regulated subsidiaries and branches for Solo TLAC purposes.\nInstitutions must then calculate revised RWAs for each foreign-regulated subsidiary by multiplying the parent D-SIB's exposure to the subsidiary by 325%. The exposure Footnote 8 is the sum of the following items:\n  1. The value of the parent's investment in the subsidiary computed using the equity method of accounting as per International Financial Reporting Standards (IFRS);\n  2. Subordinated debt and other capital elements issued by the subsidiary to the parent;\n  3. Senior debt or claims recognized as internal TLAC, internal Minimum Requirements for Own Funds and Eligible Liabilities (MREL) or equivalent issued by the subsidiary to the parent; and\n  4. The amount that the parent D-SIB could be required to pay out under capital guarantees provided to the subsidiary as described under paragraph 16.\nThe value of the parent's investment in the subsidiary computed using the equity method of accounting as per International Financial Reporting Standards (IFRS);\nSubordinated debt and other capital elements issued by the subsidiary to the parent;\nSenior debt or claims recognized as internal TLAC, internal Minimum Requirements for Own Funds and Eligible Liabilities (MREL) or equivalent issued by the subsidiary to the parent; and\nThe amount that the parent D-SIB could be required to pay out under capital guarantees provided to the subsidiary as described under paragraph 16.\nInstitutions must calculate revised RWAs for foreign branches by multiplying the D-SIB's exposure to its branches by 300%. The exposure is calculated as the difference between the following items:\n  1. a. Total Assets, net of deductions already applied to the TLAC Measure pursuant to the CAR Guideline or the TLAC Guideline and all other assets arising from intra-group transactions Footnote 9 , across all foreign branches. Total Assets refers to the aggregate assets reported on the stand-alone balance sheet of the branch; and\n  2. Total Third-party liabilities across all foreign branches. Third-party liabilities refer to those liabilities that are not eliminated upon accounting consolidation.\na. Total Assets, net of deductions already applied to the TLAC Measure pursuant to the CAR Guideline or the TLAC Guideline and all other assets arising from intra-group transactions Footnote 9 , across all foreign branches. Total Assets refers to the aggregate assets reported on the stand-alone balance sheet of the branch; and\nTotal Third-party liabilities across all foreign branches. Third-party liabilities refer to those liabilities that are not eliminated upon accounting consolidation.\nWhere the calculation under paragraph 13 results in a negative value, institutions should adjust the value of the exposure by adding amounts remitted to the Canadian branch net of amounts transferred by the Canadian branch to its foreign branches, across all of the D-SIB's foreign branches. The resulting adjustment must not exceed the absolute value of the amount determined under paragraph 13.\nInstitutions should apply the 300% risk-weight to the absolute value of the exposure resulting from the above adjustments.",
+      "content": [
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "For each foreign-regulated subsidiary Footnote 6 and foreign branch, D-SIBs should first deduct the RWAs attributable to the subsidiary or branch from the group consolidated RWAs as calculated under the CAR Guideline. RWAs attributable to foreign-regulated subsidiaries and foreign branches are calculated by applying the CAR Guideline on a stand-alone basis to each subsidiary or branch and excluding any capital requirements associated with exposures that are eliminated upon the subsidiary's and branch's consolidation for accounting purposes. For clarity, the same measurement basis Footnote 7 (e.g. the Standardized approach or the Internal Ratings Based approach), as well as the factors or inputs (e.g., probabilities of default (PD), loss-given default (LGD), exposure-at-default (EAD)) used to calculate consolidated capital requirements under the CAR Guideline should also be used to calculate the RWAs associated with any foreign-regulated subsidiaries and branches for Solo TLAC purposes.",
+            "Institutions must then calculate revised RWAs for each foreign-regulated subsidiary by multiplying the parent D-SIB's exposure to the subsidiary by 325%. The exposure Footnote 8 is the sum of the following items: The value of the parent's investment in the subsidiary computed using the equity method of accounting as per International Financial Reporting Standards (IFRS); Subordinated debt and other capital elements issued by the subsidiary to the parent; Senior debt or claims recognized as internal TLAC, internal Minimum Requirements for Own Funds and Eligible Liabilities (MREL) or equivalent issued by the subsidiary to the parent; and The amount that the parent D-SIB could be required to pay out under capital guarantees provided to the subsidiary as described under paragraph 16.",
+            "Institutions must calculate revised RWAs for foreign branches by multiplying the D-SIB's exposure to its branches by 300%. The exposure is calculated as the difference between the following items: a. Total Assets, net of deductions already applied to the TLAC Measure pursuant to the CAR Guideline or the TLAC Guideline and all other assets arising from intra-group transactions Footnote 9 , across all foreign branches. Total Assets refers to the aggregate assets reported on the stand-alone balance sheet of the branch; and Total Third-party liabilities across all foreign branches. Third-party liabilities refer to those liabilities that are not eliminated upon accounting consolidation.",
+            "Where the calculation under paragraph 13 results in a negative value, institutions should adjust the value of the exposure by adding amounts remitted to the Canadian branch net of amounts transferred by the Canadian branch to its foreign branches, across all of the D-SIB's foreign branches. The resulting adjustment must not exceed the absolute value of the amount determined under paragraph 13. Institutions should apply the 300% risk-weight to the absolute value of the exposure resulting from the above adjustments."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "For each foreign-regulated subsidiary Footnote 6 and foreign branch, D-SIBs should first deduct the RWAs attributable to the subsidiary or branch from the group consolidated RWAs as calculated under the CAR Guideline. RWAs attributable to foreign-regulated subsidiaries and foreign branches are calculated by applying the CAR Guideline on a stand-alone basis to each subsidiary or branch and excluding any capital requirements associated with exposures that are eliminated upon the subsidiary's and branch's consolidation for accounting purposes. For clarity, the same measurement basis Footnote 7 (e.g. the Standardized approach or the Internal Ratings Based approach), as well as the factors or inputs (e.g., probabilities of default (PD), loss-given default (LGD), exposure-at-default (EAD)) used to calculate consolidated capital requirements under the CAR Guideline should also be used to calculate the RWAs associated with any foreign-regulated subsidiaries and branches for Solo TLAC purposes."
+        },
+        {
+          "type": "paragraph",
+          "text": "Institutions must then calculate revised RWAs for each foreign-regulated subsidiary by multiplying the parent D-SIB's exposure to the subsidiary by 325%. The exposure Footnote 8 is the sum of the following items:"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "The value of the parent's investment in the subsidiary computed using the equity method of accounting as per International Financial Reporting Standards (IFRS);",
+            "Subordinated debt and other capital elements issued by the subsidiary to the parent;",
+            "Senior debt or claims recognized as internal TLAC, internal Minimum Requirements for Own Funds and Eligible Liabilities (MREL) or equivalent issued by the subsidiary to the parent; and",
+            "The amount that the parent D-SIB could be required to pay out under capital guarantees provided to the subsidiary as described under paragraph 16."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "The value of the parent's investment in the subsidiary computed using the equity method of accounting as per International Financial Reporting Standards (IFRS);"
+        },
+        {
+          "type": "paragraph",
+          "text": "Subordinated debt and other capital elements issued by the subsidiary to the parent;"
+        },
+        {
+          "type": "paragraph",
+          "text": "Senior debt or claims recognized as internal TLAC, internal Minimum Requirements for Own Funds and Eligible Liabilities (MREL) or equivalent issued by the subsidiary to the parent; and"
+        },
+        {
+          "type": "paragraph",
+          "text": "The amount that the parent D-SIB could be required to pay out under capital guarantees provided to the subsidiary as described under paragraph 16."
+        },
+        {
+          "type": "paragraph",
+          "text": "Institutions must calculate revised RWAs for foreign branches by multiplying the D-SIB's exposure to its branches by 300%. The exposure is calculated as the difference between the following items:"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "a. Total Assets, net of deductions already applied to the TLAC Measure pursuant to the CAR Guideline or the TLAC Guideline and all other assets arising from intra-group transactions Footnote 9 , across all foreign branches. Total Assets refers to the aggregate assets reported on the stand-alone balance sheet of the branch; and",
+            "Total Third-party liabilities across all foreign branches. Third-party liabilities refer to those liabilities that are not eliminated upon accounting consolidation."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "a. Total Assets, net of deductions already applied to the TLAC Measure pursuant to the CAR Guideline or the TLAC Guideline and all other assets arising from intra-group transactions Footnote 9 , across all foreign branches. Total Assets refers to the aggregate assets reported on the stand-alone balance sheet of the branch; and"
+        },
+        {
+          "type": "paragraph",
+          "text": "Total Third-party liabilities across all foreign branches. Third-party liabilities refer to those liabilities that are not eliminated upon accounting consolidation."
+        },
+        {
+          "type": "paragraph",
+          "text": "Where the calculation under paragraph 13 results in a negative value, institutions should adjust the value of the exposure by adding amounts remitted to the Canadian branch net of amounts transferred by the Canadian branch to its foreign branches, across all of the D-SIB's foreign branches. The resulting adjustment must not exceed the absolute value of the amount determined under paragraph 13."
+        },
+        {
+          "type": "paragraph",
+          "text": "Institutions should apply the 300% risk-weight to the absolute value of the exposure resulting from the above adjustments."
+        }
+      ]
+    },
+    {
+      "heading": "B. Foreign regulated subsidiaries that are outside the scope of consolidation for regulatory purposes",
+      "heading_level": 3,
+      "full_text": "  1. RWAs arising from investments in foreign regulated subsidiaries, including insurance subsidiaries, that are de-consolidated for regulatory capital purposes, which are risk weighted pursuant to section 2.3 of the CAR Guideline and included in group consolidated RWAs under the CAR Guideline should be reversed and are subject to the treatment described under paragraph 12 of this Guideline.\nRWAs arising from investments in foreign regulated subsidiaries, including insurance subsidiaries, that are de-consolidated for regulatory capital purposes, which are risk weighted pursuant to section 2.3 of the CAR Guideline and included in group consolidated RWAs under the CAR Guideline should be reversed and are subject to the treatment described under paragraph 12 of this Guideline.",
+      "content": [
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "RWAs arising from investments in foreign regulated subsidiaries, including insurance subsidiaries, that are de-consolidated for regulatory capital purposes, which are risk weighted pursuant to section 2.3 of the CAR Guideline and included in group consolidated RWAs under the CAR Guideline should be reversed and are subject to the treatment described under paragraph 12 of this Guideline."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "RWAs arising from investments in foreign regulated subsidiaries, including insurance subsidiaries, that are de-consolidated for regulatory capital purposes, which are risk weighted pursuant to section 2.3 of the CAR Guideline and included in group consolidated RWAs under the CAR Guideline should be reversed and are subject to the treatment described under paragraph 12 of this Guideline."
+        }
+      ]
+    },
+    {
+      "heading": "C. Parental guarantees",
+      "heading_level": 3,
+      "full_text": "  1. Capital guarantees Footnote 10 can either directly guarantee issuances of capital instruments (e.g., subordinated debt, preferred shares, or common shares) by subsidiaries to third-parties, or they can be structured in the form of a capital maintenance agreement (CMA), formalizing the actions or intentions the parent will take to maintain the subsidiary's capital at or above a certain level. Capital guarantees provided by the parent D-SIB to its subsidiaries are treated as a direct capital investment under this guideline. The amount that should be used for the exposure in paragraph 12(d) for CMA is equal to the minimum amount of capital that is required to be invested under the CMA assuming the subsidiary is holding zero capital and, for a capital instrument guarantee, it is equal to the maximum amount that is payable under the guarantee.\n  2. Non-capital guarantees consist of guarantees that provide any form of indemnification to third parties Footnote 11 and that are not included in the definition of capital guarantees under paragraph 16. Exposures to non-capital guarantees should be converted into credit exposure equivalent amounts using a credit conversion factor (CCF) of 100%. The exposure is defined as the outstanding exposure of the parent bank under the guarantee Footnote 12 . In the case of lines of credit and letters of credit, the undrawn amount of the exposure would be multiplied by 100%. The drawn portion of a line of credit is not subject to any requirements.\n  3. The credit exposure equivalent amounts calculated under paragraph 17 should be risk weighted using the long-term credit rating of the subsidiaryaccording to Table 1. The long-term credit ratings used in the determination of the applicable risk weight must be the stand-alone external credit rating of the subsidiary, excluding any uplift due to parental support. These ratings will be otherwise subject to the same requirements as specified in section 4.2 of the CAR Guideline.\nCapital guarantees Footnote 10 can either directly guarantee issuances of capital instruments (e.g., subordinated debt, preferred shares, or common shares) by subsidiaries to third-parties, or they can be structured in the form of a capital maintenance agreement (CMA), formalizing the actions or intentions the parent will take to maintain the subsidiary's capital at or above a certain level. Capital guarantees provided by the parent D-SIB to its subsidiaries are treated as a direct capital investment under this guideline. The amount that should be used for the exposure in paragraph 12(d) for CMA is equal to the minimum amount of capital that is required to be invested under the CMA assuming the subsidiary is holding zero capital and, for a capital instrument guarantee, it is equal to the maximum amount that is payable under the guarantee.\nNon-capital guarantees consist of guarantees that provide any form of indemnification to third parties Footnote 11 and that are not included in the definition of capital guarantees under paragraph 16. Exposures to non-capital guarantees should be converted into credit exposure equivalent amounts using a credit conversion factor (CCF) of 100%. The exposure is defined as the outstanding exposure of the parent bank under the guarantee Footnote 12 . In the case of lines of credit and letters of credit, the undrawn amount of the exposure would be multiplied by 100%. The drawn portion of a line of credit is not subject to any requirements.\nThe credit exposure equivalent amounts calculated under paragraph 17 should be risk weighted using the long-term credit rating of the subsidiaryaccording to Table 1. The long-term credit ratings used in the determination of the applicable risk weight must be the stand-alone external credit rating of the subsidiary, excluding any uplift due to parental support. These ratings will be otherwise subject to the same requirements as specified in section 4.2 of the CAR Guideline.\nTable: Table 1: Risk weights for bank exposures\nExternal rating of counterparty Table footnote * | AAA to AA- | A+ to A- | BBB+ to BBB- | BB+ to B- | Below B-\n\"Base\" risk weight | 20% | 30% | 50% | 100% | 150%\nTable footnotes Table footnote * This table refers to the methodology used by Standard and Poor's. Refer to section 4.2.3 of the CAR guideline to determine the applicable risk weight using the rating methodology of other recognized ECAIS. Return to footnote *\nTable footnotes Table footnote * This table refers to the methodology used by Standard and Poor's. Refer to section 4.2.3 of the CAR guideline to determine the applicable risk weight using the rating methodology of other recognized ECAIS. Return to footnote *",
+      "content": [
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "Capital guarantees Footnote 10 can either directly guarantee issuances of capital instruments (e.g., subordinated debt, preferred shares, or common shares) by subsidiaries to third-parties, or they can be structured in the form of a capital maintenance agreement (CMA), formalizing the actions or intentions the parent will take to maintain the subsidiary's capital at or above a certain level. Capital guarantees provided by the parent D-SIB to its subsidiaries are treated as a direct capital investment under this guideline. The amount that should be used for the exposure in paragraph 12(d) for CMA is equal to the minimum amount of capital that is required to be invested under the CMA assuming the subsidiary is holding zero capital and, for a capital instrument guarantee, it is equal to the maximum amount that is payable under the guarantee.",
+            "Non-capital guarantees consist of guarantees that provide any form of indemnification to third parties Footnote 11 and that are not included in the definition of capital guarantees under paragraph 16. Exposures to non-capital guarantees should be converted into credit exposure equivalent amounts using a credit conversion factor (CCF) of 100%. The exposure is defined as the outstanding exposure of the parent bank under the guarantee Footnote 12 . In the case of lines of credit and letters of credit, the undrawn amount of the exposure would be multiplied by 100%. The drawn portion of a line of credit is not subject to any requirements.",
+            "The credit exposure equivalent amounts calculated under paragraph 17 should be risk weighted using the long-term credit rating of the subsidiaryaccording to Table 1. The long-term credit ratings used in the determination of the applicable risk weight must be the stand-alone external credit rating of the subsidiary, excluding any uplift due to parental support. These ratings will be otherwise subject to the same requirements as specified in section 4.2 of the CAR Guideline."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Capital guarantees Footnote 10 can either directly guarantee issuances of capital instruments (e.g., subordinated debt, preferred shares, or common shares) by subsidiaries to third-parties, or they can be structured in the form of a capital maintenance agreement (CMA), formalizing the actions or intentions the parent will take to maintain the subsidiary's capital at or above a certain level. Capital guarantees provided by the parent D-SIB to its subsidiaries are treated as a direct capital investment under this guideline. The amount that should be used for the exposure in paragraph 12(d) for CMA is equal to the minimum amount of capital that is required to be invested under the CMA assuming the subsidiary is holding zero capital and, for a capital instrument guarantee, it is equal to the maximum amount that is payable under the guarantee."
+        },
+        {
+          "type": "paragraph",
+          "text": "Non-capital guarantees consist of guarantees that provide any form of indemnification to third parties Footnote 11 and that are not included in the definition of capital guarantees under paragraph 16. Exposures to non-capital guarantees should be converted into credit exposure equivalent amounts using a credit conversion factor (CCF) of 100%. The exposure is defined as the outstanding exposure of the parent bank under the guarantee Footnote 12 . In the case of lines of credit and letters of credit, the undrawn amount of the exposure would be multiplied by 100%. The drawn portion of a line of credit is not subject to any requirements."
+        },
+        {
+          "type": "paragraph",
+          "text": "The credit exposure equivalent amounts calculated under paragraph 17 should be risk weighted using the long-term credit rating of the subsidiaryaccording to Table 1. The long-term credit ratings used in the determination of the applicable risk weight must be the stand-alone external credit rating of the subsidiary, excluding any uplift due to parental support. These ratings will be otherwise subject to the same requirements as specified in section 4.2 of the CAR Guideline."
+        },
+        {
+          "type": "table",
+          "caption": "Table 1: Risk weights for bank exposures",
+          "rows": [
+            [
+              "External rating of counterparty Table footnote *",
+              "AAA to AA-",
+              "A+ to A-",
+              "BBB+ to BBB-",
+              "BB+ to B-",
+              "Below B-"
+            ],
+            [
+              "\"Base\" risk weight",
+              "20%",
+              "30%",
+              "50%",
+              "100%",
+              "150%"
+            ],
+            [
+              "Table footnotes Table footnote * This table refers to the methodology used by Standard and Poor's. Refer to section 4.2.3 of the CAR guideline to determine the applicable risk weight using the rating methodology of other recognized ECAIS. Return to footnote *"
+            ]
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Table footnotes Table footnote * This table refers to the methodology used by Standard and Poor's. Refer to section 4.2.3 of the CAR guideline to determine the applicable risk weight using the rating methodology of other recognized ECAIS. Return to footnote *"
+        }
+      ]
+    },
+    {
+      "heading": "Table footnotes",
+      "heading_level": 2,
+      "full_text": "This table refers to the methodology used by Standard and Poor's. Refer to section 4.2.3 of the CAR guideline to determine the applicable risk weight using the rating methodology of other recognized ECAIS.\nReturn to footnote *\n  1. Institutions must apply a 100% risk weight to the credit exposure equivalent of a non-capital guarantee for any subsidiary for which it is not possible to infer a rating under section 4.1.4 of the CAR Guideline.\n  2. Guarantees provided to OSFI-regulated subsidiaries and provincially regulated subsidiaries are excluded from the calculation of parental RWAs.\n  3. Undrawn lines of credit whose cancellation is not subject to specific conditions or notice periods or that are unconditionally cancellable at any time (e.g. without a required notice period) may be excluded from the computation of parental RWAs.\n  4. In the case of a non-capital guarantee where the exposure guaranteed is an obligation of a subsidiary arising from a collateralized securities lending (borrowing) agreement (or obligations arising from repo-style transactions) with a third party, institutions can recognize the collateral provided by the subsidiary to the third party to calculate the amount covered under the guarantee. In these cases, an institution can use the Comprehensive Approach defined in Chapter 4 of the CAR Guideline to determine its exposure amount.\nInstitutions must apply a 100% risk weight to the credit exposure equivalent of a non-capital guarantee for any subsidiary for which it is not possible to infer a rating under section 4.1.4 of the CAR Guideline.\nGuarantees provided to OSFI-regulated subsidiaries and provincially regulated subsidiaries are excluded from the calculation of parental RWAs.\nUndrawn lines of credit whose cancellation is not subject to specific conditions or notice periods or that are unconditionally cancellable at any time (e.g. without a required notice period) may be excluded from the computation of parental RWAs.\nIn the case of a non-capital guarantee where the exposure guaranteed is an obligation of a subsidiary arising from a collateralized securities lending (borrowing) agreement (or obligations arising from repo-style transactions) with a third party, institutions can recognize the collateral provided by the subsidiary to the third party to calculate the amount covered under the guarantee. In these cases, an institution can use the Comprehensive Approach defined in Chapter 4 of the CAR Guideline to determine its exposure amount.\nFootnotes Footnote 1 The Superintendent may, on a case-by-case basis, establish a higher supervisory target based on a D-SIB's individual risk profile. Return to footnote 1 Footnote 2 Additional Tier 1 and Tier 2 capital instruments issued out of subsidiaries to third parties are already deducted in determining the TLAC Measure for the consolidated TLAC ratios. Return to footnote 2 Footnote 3 \"Regulated\" means that the regulatory body has imposed capital adequacy requirements, TLAC requirements or equivalent solvency requirements, or minimum working capital requirements to protect depositors, policyholders, or general creditors. Return to footnote 3 Footnote 4 OSFI-regulated subsidiaries and provincially regulated subsidiaries that are outside the scope of regulatory consolidation continue to be subject to the capital treatments for those investments specified in the CAR Guideline. Provincially regulated subsidiaries or domestic non-OSFI regulated subsidiaries include entities regulated in Canada by provincial supervisory authorities, Investment Industry Regulatory Organization of Canada (IIROC), the Mutual Fund Dealers Association of Canada (MFDA), and any provincial or territorial securities commissions. Return to footnote 4 Footnote 5 Foreign Branches of the parent refer to are all foreign branches, agencies, and representative offices of the D-SIB. Return to footnote 5 Footnote 6 A foreign-regulated subsidiary includes banks, insurance companies and other financial entities that are domiciled in a foreign jurisdiction and regulated by a regulatory authority that has imposed capital adequacy requirements, TLAC, solvency requirements, or minimum working capital requirements to protect depositors, policyholders, and/or general creditors of the subsidiary. Return to footnote 6 Footnote 7 D-SIBs should consult with OSFI regarding questions with respects to the allocation of the Capital Floor. Return to footnote 7 Footnote 8 For deductions that have already been applied to the TLAC Measure pursuant to the CAR Guideline or the TLAC Guideline D-SIBs may exclude these items from the calculation of the exposure. Return to footnote 8 Footnote 9 Intra-group assets are assets that arise due to intra-group transactions and are eliminated upon accounting consolidation. Return to footnote 9 Footnote 10 Internal risk participation agreements are considered akin to capital guarantees and should be included within the scope of this paragraph. Return to footnote 10 Footnote 11 This includes non-capital guarantees where the indemnified party is a foreign-regulated subsidiary. Return to footnote 11 Footnote 12 For guarantees covering derivative transactions, the exposure amount is based on the fair value of the derivative according to relevant accounting standards. Return to footnote 12",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "This table refers to the methodology used by Standard and Poor's. Refer to section 4.2.3 of the CAR guideline to determine the applicable risk weight using the rating methodology of other recognized ECAIS."
+        },
+        {
+          "type": "paragraph",
+          "text": "Return to footnote *"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "Institutions must apply a 100% risk weight to the credit exposure equivalent of a non-capital guarantee for any subsidiary for which it is not possible to infer a rating under section 4.1.4 of the CAR Guideline.",
+            "Guarantees provided to OSFI-regulated subsidiaries and provincially regulated subsidiaries are excluded from the calculation of parental RWAs.",
+            "Undrawn lines of credit whose cancellation is not subject to specific conditions or notice periods or that are unconditionally cancellable at any time (e.g. without a required notice period) may be excluded from the computation of parental RWAs.",
+            "In the case of a non-capital guarantee where the exposure guaranteed is an obligation of a subsidiary arising from a collateralized securities lending (borrowing) agreement (or obligations arising from repo-style transactions) with a third party, institutions can recognize the collateral provided by the subsidiary to the third party to calculate the amount covered under the guarantee. In these cases, an institution can use the Comprehensive Approach defined in Chapter 4 of the CAR Guideline to determine its exposure amount."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Institutions must apply a 100% risk weight to the credit exposure equivalent of a non-capital guarantee for any subsidiary for which it is not possible to infer a rating under section 4.1.4 of the CAR Guideline."
+        },
+        {
+          "type": "paragraph",
+          "text": "Guarantees provided to OSFI-regulated subsidiaries and provincially regulated subsidiaries are excluded from the calculation of parental RWAs."
+        },
+        {
+          "type": "paragraph",
+          "text": "Undrawn lines of credit whose cancellation is not subject to specific conditions or notice periods or that are unconditionally cancellable at any time (e.g. without a required notice period) may be excluded from the computation of parental RWAs."
+        },
+        {
+          "type": "paragraph",
+          "text": "In the case of a non-capital guarantee where the exposure guaranteed is an obligation of a subsidiary arising from a collateralized securities lending (borrowing) agreement (or obligations arising from repo-style transactions) with a third party, institutions can recognize the collateral provided by the subsidiary to the third party to calculate the amount covered under the guarantee. In these cases, an institution can use the Comprehensive Approach defined in Chapter 4 of the CAR Guideline to determine its exposure amount."
+        },
+        {
+          "type": "paragraph",
+          "text": "Footnotes Footnote 1 The Superintendent may, on a case-by-case basis, establish a higher supervisory target based on a D-SIB's individual risk profile. Return to footnote 1 Footnote 2 Additional Tier 1 and Tier 2 capital instruments issued out of subsidiaries to third parties are already deducted in determining the TLAC Measure for the consolidated TLAC ratios. Return to footnote 2 Footnote 3 \"Regulated\" means that the regulatory body has imposed capital adequacy requirements, TLAC requirements or equivalent solvency requirements, or minimum working capital requirements to protect depositors, policyholders, or general creditors. Return to footnote 3 Footnote 4 OSFI-regulated subsidiaries and provincially regulated subsidiaries that are outside the scope of regulatory consolidation continue to be subject to the capital treatments for those investments specified in the CAR Guideline. Provincially regulated subsidiaries or domestic non-OSFI regulated subsidiaries include entities regulated in Canada by provincial supervisory authorities, Investment Industry Regulatory Organization of Canada (IIROC), the Mutual Fund Dealers Association of Canada (MFDA), and any provincial or territorial securities commissions. Return to footnote 4 Footnote 5 Foreign Branches of the parent refer to are all foreign branches, agencies, and representative offices of the D-SIB. Return to footnote 5 Footnote 6 A foreign-regulated subsidiary includes banks, insurance companies and other financial entities that are domiciled in a foreign jurisdiction and regulated by a regulatory authority that has imposed capital adequacy requirements, TLAC, solvency requirements, or minimum working capital requirements to protect depositors, policyholders, and/or general creditors of the subsidiary. Return to footnote 6 Footnote 7 D-SIBs should consult with OSFI regarding questions with respects to the allocation of the Capital Floor. Return to footnote 7 Footnote 8 For deductions that have already been applied to the TLAC Measure pursuant to the CAR Guideline or the TLAC Guideline D-SIBs may exclude these items from the calculation of the exposure. Return to footnote 8 Footnote 9 Intra-group assets are assets that arise due to intra-group transactions and are eliminated upon accounting consolidation. Return to footnote 9 Footnote 10 Internal risk participation agreements are considered akin to capital guarantees and should be included within the scope of this paragraph. Return to footnote 10 Footnote 11 This includes non-capital guarantees where the indemnified party is a foreign-regulated subsidiary. Return to footnote 11 Footnote 12 For guarantees covering derivative transactions, the exposure amount is based on the fair value of the derivative according to relevant accounting standards. Return to footnote 12"
+        }
+      ]
+    },
+    {
+      "heading": "Footnotes",
+      "heading_level": 2,
+      "full_text": "The Superintendent may, on a case-by-case basis, establish a higher supervisory target based on a D-SIB's individual risk profile.\nReturn to footnote 1\nAdditional Tier 1 and Tier 2 capital instruments issued out of subsidiaries to third parties are already deducted in determining the TLAC Measure for the consolidated TLAC ratios.\nReturn to footnote 2\n\"Regulated\" means that the regulatory body has imposed capital adequacy requirements, TLAC requirements or equivalent solvency requirements, or minimum working capital requirements to protect depositors, policyholders, or general creditors.\nReturn to footnote 3\nOSFI-regulated subsidiaries and provincially regulated subsidiaries that are outside the scope of regulatory consolidation continue to be subject to the capital treatments for those investments specified in the CAR Guideline. Provincially regulated subsidiaries or domestic non-OSFI regulated subsidiaries include entities regulated in Canada by provincial supervisory authorities, Investment Industry Regulatory Organization of Canada (IIROC), the Mutual Fund Dealers Association of Canada (MFDA), and any provincial or territorial securities commissions.\nReturn to footnote 4\nForeign Branches of the parent refer to are all foreign branches, agencies, and representative offices of the D-SIB.\nReturn to footnote 5\nA foreign-regulated subsidiary includes banks, insurance companies and other financial entities that are domiciled in a foreign jurisdiction and regulated by a regulatory authority that has imposed capital adequacy requirements, TLAC, solvency requirements, or minimum working capital requirements to protect depositors, policyholders, and/or general creditors of the subsidiary.\nReturn to footnote 6\nD-SIBs should consult with OSFI regarding questions with respects to the allocation of the Capital Floor.\nReturn to footnote 7\nFor deductions that have already been applied to the TLAC Measure pursuant to the CAR Guideline or the TLAC Guideline D-SIBs may exclude these items from the calculation of the exposure.\nReturn to footnote 8\nIntra-group assets are assets that arise due to intra-group transactions and are eliminated upon accounting consolidation.\nReturn to footnote 9\nInternal risk participation agreements are considered akin to capital guarantees and should be included within the scope of this paragraph.\nReturn to footnote 10\nThis includes non-capital guarantees where the indemnified party is a foreign-regulated subsidiary.\nReturn to footnote 11\nFor guarantees covering derivative transactions, the exposure amount is based on the fair value of the derivative according to relevant accounting standards.\nReturn to footnote 12",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "The Superintendent may, on a case-by-case basis, establish a higher supervisory target based on a D-SIB's individual risk profile."
+        },
+        {
+          "type": "paragraph",
+          "text": "Return to footnote 1"
+        },
+        {
+          "type": "paragraph",
+          "text": "Additional Tier 1 and Tier 2 capital instruments issued out of subsidiaries to third parties are already deducted in determining the TLAC Measure for the consolidated TLAC ratios."
+        },
+        {
+          "type": "paragraph",
+          "text": "Return to footnote 2"
+        },
+        {
+          "type": "paragraph",
+          "text": "\"Regulated\" means that the regulatory body has imposed capital adequacy requirements, TLAC requirements or equivalent solvency requirements, or minimum working capital requirements to protect depositors, policyholders, or general creditors."
+        },
+        {
+          "type": "paragraph",
+          "text": "Return to footnote 3"
+        },
+        {
+          "type": "paragraph",
+          "text": "OSFI-regulated subsidiaries and provincially regulated subsidiaries that are outside the scope of regulatory consolidation continue to be subject to the capital treatments for those investments specified in the CAR Guideline. Provincially regulated subsidiaries or domestic non-OSFI regulated subsidiaries include entities regulated in Canada by provincial supervisory authorities, Investment Industry Regulatory Organization of Canada (IIROC), the Mutual Fund Dealers Association of Canada (MFDA), and any provincial or territorial securities commissions."
+        },
+        {
+          "type": "paragraph",
+          "text": "Return to footnote 4"
+        },
+        {
+          "type": "paragraph",
+          "text": "Foreign Branches of the parent refer to are all foreign branches, agencies, and representative offices of the D-SIB."
+        },
+        {
+          "type": "paragraph",
+          "text": "Return to footnote 5"
+        },
+        {
+          "type": "paragraph",
+          "text": "A foreign-regulated subsidiary includes banks, insurance companies and other financial entities that are domiciled in a foreign jurisdiction and regulated by a regulatory authority that has imposed capital adequacy requirements, TLAC, solvency requirements, or minimum working capital requirements to protect depositors, policyholders, and/or general creditors of the subsidiary."
+        },
+        {
+          "type": "paragraph",
+          "text": "Return to footnote 6"
+        },
+        {
+          "type": "paragraph",
+          "text": "D-SIBs should consult with OSFI regarding questions with respects to the allocation of the Capital Floor."
+        },
+        {
+          "type": "paragraph",
+          "text": "Return to footnote 7"
+        },
+        {
+          "type": "paragraph",
+          "text": "For deductions that have already been applied to the TLAC Measure pursuant to the CAR Guideline or the TLAC Guideline D-SIBs may exclude these items from the calculation of the exposure."
+        },
+        {
+          "type": "paragraph",
+          "text": "Return to footnote 8"
+        },
+        {
+          "type": "paragraph",
+          "text": "Intra-group assets are assets that arise due to intra-group transactions and are eliminated upon accounting consolidation."
+        },
+        {
+          "type": "paragraph",
+          "text": "Return to footnote 9"
+        },
+        {
+          "type": "paragraph",
+          "text": "Internal risk participation agreements are considered akin to capital guarantees and should be included within the scope of this paragraph."
+        },
+        {
+          "type": "paragraph",
+          "text": "Return to footnote 10"
+        },
+        {
+          "type": "paragraph",
+          "text": "This includes non-capital guarantees where the indemnified party is a foreign-regulated subsidiary."
+        },
+        {
+          "type": "paragraph",
+          "text": "Return to footnote 11"
+        },
+        {
+          "type": "paragraph",
+          "text": "For guarantees covering derivative transactions, the exposure amount is based on the fair value of the derivative according to relevant accounting standards."
+        },
+        {
+          "type": "paragraph",
+          "text": "Return to footnote 12"
+        }
+      ]
+    }
+  ],
+  "title_normalized": "parental standalone solo tlac framework for domestic systemically important banks dsibs",
+  "publication_type_normalized": "guideline",
+  "category_normalized": "capital_adequacy_requirements",
+  "sector_normalized": [
+    "banks"
+  ],
+  "guideline_number_normalized": "TLAC",
+  "applies_to_banks": true,
+  "applies_to_trust_loan": false,
+  "applies_to_life_insurance": false,
+  "applies_to_pc_insurance": false,
+  "applies_to_foreign_bank": false,
+  "applies_to_foreign_insurance": false,
+  "applies_to_cooperative": false,
+  "applies_to_bank_holding": false,
+  "effective_date_sort_key": "2023-11-01",
+  "status_sort_key": 1,
+  "authority_sort_key": 100,
+  "bm25_text": "Parental Stand-Alone (Solo) TLAC Framework for Domestic Systemically Important Banks (D-SIBs) TLAC Guideline Capital Adequacy Requirements Banks I. Overview II. Scope of application III. Calculation of Solo TLAC IV. Minimum Solo TLAC ratio V. Solo TLAC available (numerator) A. Common shares Footnote 2 issued by consolidated subsidiaries to third party investors (i.e. minority interest/non-controlling interests) B. Foreign regulated Footnote 3 subsidiaries that are outside the scope of consolidation for regulatory capital purposes Footnote 4 C. Vested assets in foreign branches Footnote 5 D. Non-regulated subsidiaries VI. Parental Risk-Weighted Assets (RWAs) (denominator) A. Subsidiaries and branches regulated by a foreign authority that are consolidated for regulatory purposes B. Foreign regulated subsidiaries that are outside the scope of consolidation for regulatory purposes C. Parental guarantees Table footnotes Footnotes",
+  "vector_text_prefix": "[OSFI Guideline TLAC | Capital Adequacy Requirements | Banks | FINAL_CURRENT | Effective 2023-11-01]",
+  "h1_title": "Parental Stand-Alone (Solo) TLAC Framework for Domestic Systemically Important Banks (D-SIBs)",
+  "regulator": "OSFI",
+  "regulator_acronym": "OSFI",
+  "jurisdiction": "Canada",
+  "short_title": "TLAC",
+  "source_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/parental-stand-alone-solo-tlac-framework-domestic-systemically-important-banks-sibs"
+}

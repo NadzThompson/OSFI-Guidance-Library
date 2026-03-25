@@ -1,0 +1,373 @@
+{
+  "source_system": "osfi_guidance_library",
+  "library_row_title": "Accounting for Structured Settlements",
+  "library_row_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/accounting-structured-settlements",
+  "listing_date_raw": "Original date April 1998",
+  "listing_date_iso": "",
+  "listing_publication_type": "Guideline",
+  "listing_category": "Accounting and Disclosure",
+  "listing_sector": [
+    "Property and Casualty Companies"
+  ],
+  "crawl_timestamp": "2026-03-11T00:00:00Z",
+  "detail_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/accounting-structured-settlements",
+  "canonical_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/accounting-structured-settlements",
+  "slug": "accounting-structured-settlements",
+  "title": "Accounting for Structured Settlements",
+  "publication_type": "Guideline",
+  "category": "Accounting and Disclosure",
+  "document_date_raw": "Original date April 1998",
+  "document_date_iso": "",
+  "sector": [
+    "Property and Casualty Companies"
+  ],
+  "effective_date_text": "",
+  "guideline_number": "",
+  "date_modified_raw": "2022-04-30T12:00:00Z",
+  "generate_pdf_url": "https://www.osfi-bsif.gc.ca/en/print/pdf/node/597",
+  "pdf_node_id": 597,
+  "direct_pdf_url": null,
+  "has_table_of_contents": true,
+  "toc_entries": [],
+  "has_related_documents": false,
+  "related_document_links_raw": [],
+  "consultation_status_text": null,
+  "consultation_status_refers_to_version": null,
+  "page_language": "en",
+  "word_count_raw_body": 1324,
+  "doc_id": "osfi.accounting-structured-settlements.standalone",
+  "doc_family_id": "osfi.accounting-structured-settlements",
+  "version_id": "",
+  "version_label": "Accounting for Structured Settlements",
+  "version_sort_key": "",
+  "parent_doc_id": null,
+  "child_doc_ids": [],
+  "is_package_page": false,
+  "is_chapter_page": false,
+  "chapter_number": null,
+  "chapter_title": null,
+  "document_order_within_family": 0,
+  "supersedes_doc_id": null,
+  "superseded_by_doc_id": null,
+  "current_version_flag": true,
+  "status": "final_current",
+  "include_in_primary_corpus": true,
+  "include_in_support_corpus": false,
+  "include_in_context_corpus": false,
+  "effective_date_start": "1998-04-01",
+  "effective_date_end": null,
+  "effective_date_fye_split": false,
+  "effective_date_oct_fye": null,
+  "effective_date_dec_fye": null,
+  "is_future_effective": false,
+  "is_rescinded": false,
+  "is_draft_or_consultation": false,
+  "rescission_date": null,
+  "consultation_closing_date": null,
+  "as_of_applicability": "2026-03-23",
+  "rule_applied": "rule_5_final_current",
+  "authority_class": "primary_normative",
+  "authority_level": 100,
+  "nova_tier": 1,
+  "prudential_weight": 1.0,
+  "is_primary_normative": true,
+  "is_supporting_interpretive": false,
+  "is_context_only": false,
+  "document_class": "standalone_guideline",
+  "guidance_type_normalized": "guideline",
+  "section_headings": [
+    {
+      "level": 2,
+      "text": "Introduction",
+      "id": "h2-0"
+    },
+    {
+      "level": 2,
+      "text": "Definition of a structured settlement",
+      "id": "h2-1"
+    },
+    {
+      "level": 3,
+      "text": "Type 1",
+      "id": "h3-2"
+    },
+    {
+      "level": 3,
+      "text": "Type 2",
+      "id": "h3-3"
+    },
+    {
+      "level": 3,
+      "text": "Type 1: Derecognition of insurance liability and annuity",
+      "id": "h3-4"
+    },
+    {
+      "level": 3,
+      "text": "Type 2: Continued recognition of insurance liability and annuity",
+      "id": "h3-5"
+    },
+    {
+      "level": 3,
+      "text": "Type 1: Financial guarantees and contingent assets",
+      "id": "h3-6"
+    },
+    {
+      "level": 3,
+      "text": "Type 2: Annuities recognized on statement of financial position as assets",
+      "id": "h3-7"
+    }
+  ],
+  "heading_path": [
+    "Accounting for Structured Settlements"
+  ],
+  "toc_depth": 3,
+  "has_appendices": false,
+  "appendix_ids": [],
+  "has_tables": false,
+  "table_count": 0,
+  "has_footnotes": false,
+  "footnote_count": 0,
+  "inline_cross_references": [],
+  "quoted_external_references": [],
+  "raw_html_sha256": "ea9248a9fd95e5520510e853649fd9b62e35c6011a6108479bc9adb7db6cc1b0",
+  "raw_pdf_sha256": null,
+  "normalized_text_sha256": null,
+  "raw_html_path": "bronze/osfi/html/final_current/accounting-structured-settlements.html",
+  "normalized_md_path": "silver/osfi/md/final_current/accounting-structured-settlements.md",
+  "canonical_json_path": "silver/osfi/json/final_current/accounting-structured-settlements.json",
+  "content_source": "HTML",
+  "parser_version": "osfi-parser-v2.1.0",
+  "normalizer_version": "osfi-normalizer-v1.4.0",
+  "quality_score": 1.0,
+  "quality_flags": [],
+  "download_timestamp": "2026-03-11T00:00:00Z",
+  "enriched_timestamp": "2026-03-23T09:53:46.432554Z",
+  "sections": [
+    {
+      "heading": "",
+      "heading_level": 2,
+      "full_text": "  - Completing OSFI Guideline Consequential Changes as a Result of IFRS 17",
+      "content": [
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Completing OSFI Guideline Consequential Changes as a Result of IFRS 17"
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "Introduction",
+      "heading_level": 2,
+      "full_text": "This guideline addresses the accounting and reporting by a property and casualty insurance enterprise (P&C insurer) of an annuity when purchased for a structured settlement contract and of the associated insurance liability. The main issues relate to whether the P&C insurer (a) continues to recognize an insurance liability to a claimant and (b) recognizes an asset as a result of purchasing the annuity. The guideline also provides guidance with respect to the application of IFRS ® Standards derecognition provisions.\nThe Canadian Council of Insurance Regulators (CCIR) currently provides direction for the reporting of structured settlements in Section III of its Annual Return Instructions. This guideline provides guidance to P&C insurers in applying that direction within the context of these accounting rules.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "This guideline addresses the accounting and reporting by a property and casualty insurance enterprise (P&C insurer) of an annuity when purchased for a structured settlement contract and of the associated insurance liability. The main issues relate to whether the P&C insurer (a) continues to recognize an insurance liability to a claimant and (b) recognizes an asset as a result of purchasing the annuity. The guideline also provides guidance with respect to the application of IFRS ® Standards derecognition provisions."
+        },
+        {
+          "type": "paragraph",
+          "text": "The Canadian Council of Insurance Regulators (CCIR) currently provides direction for the reporting of structured settlements in Section III of its Annual Return Instructions. This guideline provides guidance to P&C insurers in applying that direction within the context of these accounting rules."
+        }
+      ]
+    },
+    {
+      "heading": "Definition of a structured settlement",
+      "heading_level": 2,
+      "full_text": "The term \"structured settlement\" as used by a P&C insurer refers to a contractual arrangement whereby a third party makes periodic payments to a claimant of the P&C insurer. The periodic payments are normally funded through purchase by the P&C insurer of an annuity from a life insurance enterprise and are usually arranged so that the payments are tax free in the hands of the claimant. Structured settlements have been used to pay claimants pursuant to both tort actions and no-fault claims.\nThere are essentially two types of structured settlements. They are defined as follows:",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "The term \"structured settlement\" as used by a P&C insurer refers to a contractual arrangement whereby a third party makes periodic payments to a claimant of the P&C insurer. The periodic payments are normally funded through purchase by the P&C insurer of an annuity from a life insurance enterprise and are usually arranged so that the payments are tax free in the hands of the claimant. Structured settlements have been used to pay claimants pursuant to both tort actions and no-fault claims."
+        },
+        {
+          "type": "paragraph",
+          "text": "There are essentially two types of structured settlements. They are defined as follows:"
+        }
+      ]
+    },
+    {
+      "heading": "Type 1",
+      "heading_level": 3,
+      "full_text": "Type 1 structured settlements have the following characteristics:\n  1. An annuity is purchased by a P&C insurer who is named as the owner. There is an irrevocable direction from the P&C insurer to the annuity underwriter to make all payments directly to the claimant.\n  2. Since the annuity is non-commutable, non-assignable and non-transferable, the P&C insurer is not entitled to any annuity payments and there are no rights under the contractual arrangement that would provide any current or future benefit to the P&C insurer.\n  3. The P&C insurer is released by the claimant to evidence settlement of the claim amount.\n  4. The P&C insurer remains liable to make payments to the claimant in the event and to the extent the annuity underwriter fails to make payments under the terms and conditions of the annuity and the irrevocable direction given.\nAn annuity is purchased by a P&C insurer who is named as the owner. There is an irrevocable direction from the P&C insurer to the annuity underwriter to make all payments directly to the claimant.\nSince the annuity is non-commutable, non-assignable and non-transferable, the P&C insurer is not entitled to any annuity payments and there are no rights under the contractual arrangement that would provide any current or future benefit to the P&C insurer.\nThe P&C insurer is released by the claimant to evidence settlement of the claim amount.\nThe P&C insurer remains liable to make payments to the claimant in the event and to the extent the annuity underwriter fails to make payments under the terms and conditions of the annuity and the irrevocable direction given.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Type 1 structured settlements have the following characteristics:"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "An annuity is purchased by a P&C insurer who is named as the owner. There is an irrevocable direction from the P&C insurer to the annuity underwriter to make all payments directly to the claimant.",
+            "Since the annuity is non-commutable, non-assignable and non-transferable, the P&C insurer is not entitled to any annuity payments and there are no rights under the contractual arrangement that would provide any current or future benefit to the P&C insurer.",
+            "The P&C insurer is released by the claimant to evidence settlement of the claim amount.",
+            "The P&C insurer remains liable to make payments to the claimant in the event and to the extent the annuity underwriter fails to make payments under the terms and conditions of the annuity and the irrevocable direction given."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "An annuity is purchased by a P&C insurer who is named as the owner. There is an irrevocable direction from the P&C insurer to the annuity underwriter to make all payments directly to the claimant."
+        },
+        {
+          "type": "paragraph",
+          "text": "Since the annuity is non-commutable, non-assignable and non-transferable, the P&C insurer is not entitled to any annuity payments and there are no rights under the contractual arrangement that would provide any current or future benefit to the P&C insurer."
+        },
+        {
+          "type": "paragraph",
+          "text": "The P&C insurer is released by the claimant to evidence settlement of the claim amount."
+        },
+        {
+          "type": "paragraph",
+          "text": "The P&C insurer remains liable to make payments to the claimant in the event and to the extent the annuity underwriter fails to make payments under the terms and conditions of the annuity and the irrevocable direction given."
+        }
+      ]
+    },
+    {
+      "heading": "Type 2",
+      "heading_level": 3,
+      "full_text": "Type 2 structured settlements differ from Type 1 in that:\n  1. The annuity is commutable or assignable or transferable, that is, there is some form of reversionary interest or continuing right to a benefit for the P&C insurer.\n  2. A legal release is not necessarily obtained from the claimant.\nThe annuity is commutable or assignable or transferable, that is, there is some form of reversionary interest or continuing right to a benefit for the P&C insurer.\nA legal release is not necessarily obtained from the claimant.\nThe commutation rights of the P&C insurer have the potential for terminating the claimant's right to future payments in advance of the annuity being exhausted.\nThe extent of the rights held by the P&C insurer sometimes indicates the P&C insurer has contracted with the annuity underwriter to provide only administrative services with respect to the periodic payments.\nType 2 structured settlements have typically been arranged to pay no-fault benefits, such as weekly disability payments. Descriptions used in the market place include \"pure no-fault annuities\" and \"reinsurance annuities.\" However, the terminology \"reinsurance\" does not always appropriately convey the nature of the contractual arrangement.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Type 2 structured settlements differ from Type 1 in that:"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "The annuity is commutable or assignable or transferable, that is, there is some form of reversionary interest or continuing right to a benefit for the P&C insurer.",
+            "A legal release is not necessarily obtained from the claimant."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "The annuity is commutable or assignable or transferable, that is, there is some form of reversionary interest or continuing right to a benefit for the P&C insurer."
+        },
+        {
+          "type": "paragraph",
+          "text": "A legal release is not necessarily obtained from the claimant."
+        },
+        {
+          "type": "paragraph",
+          "text": "The commutation rights of the P&C insurer have the potential for terminating the claimant's right to future payments in advance of the annuity being exhausted."
+        },
+        {
+          "type": "paragraph",
+          "text": "The extent of the rights held by the P&C insurer sometimes indicates the P&C insurer has contracted with the annuity underwriter to provide only administrative services with respect to the periodic payments."
+        },
+        {
+          "type": "paragraph",
+          "text": "Type 2 structured settlements have typically been arranged to pay no-fault benefits, such as weekly disability payments. Descriptions used in the market place include \"pure no-fault annuities\" and \"reinsurance annuities.\" However, the terminology \"reinsurance\" does not always appropriately convey the nature of the contractual arrangement."
+        }
+      ]
+    },
+    {
+      "heading": "Type 1: Derecognition of insurance liability and annuity",
+      "heading_level": 3,
+      "full_text": "Under a Type 1 structured settlement arrangement, a P&C insurer should not continue to recognize an insurance liability to the claimant once the P&C insurer purchases a non-commutable, non-assignable and non-transferable annuity to settle the liability and obtains a release from its direct (primary) obligation to the claimant. The irrevocable direction of the annuity cash flows to the claimant and the legal release extinguish the liability.\nAccordingly, the P&C insurer should not recognize the annuity as a financial asset. The P&C insurer who is the named annuitant has no rights to any of the benefits from the annuity since these rights including the cash flows have been irrevocably transferred or assigned to the claimant. The release and irrevocable direction counters and negates any argument based on the legal ownership of the annuity.\nThe P&C insurer, however, assumes a financial guarantee obligation of the annuity underwriter in the event of any default or other failure of the annuity underwriter to make contracted payments to the claimant. It is therefore secondarily liable to the claimant for the annuity payments.\nAny gain or loss should be recorded in income as an adjustment of incurred claims expense.\nThe P&C insurer also should not recognize a financial asset at time of purchase where the terms of the annuity make it commutable in the event the liability to the claimant becomes fully settled or otherwise discharged, e.g., the claimant dies and the annuity residual reverts to the P&C insurer. In these circumstances, a gain could subsequently arise to the extent there is residual value after the liability is fully settled. However, at the time of purchasing the annuity, no value should be ascribed to the contingent gain in its note disclosure since the annuity presumably would have been appropriately underwritten and priced.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Under a Type 1 structured settlement arrangement, a P&C insurer should not continue to recognize an insurance liability to the claimant once the P&C insurer purchases a non-commutable, non-assignable and non-transferable annuity to settle the liability and obtains a release from its direct (primary) obligation to the claimant. The irrevocable direction of the annuity cash flows to the claimant and the legal release extinguish the liability."
+        },
+        {
+          "type": "paragraph",
+          "text": "Accordingly, the P&C insurer should not recognize the annuity as a financial asset. The P&C insurer who is the named annuitant has no rights to any of the benefits from the annuity since these rights including the cash flows have been irrevocably transferred or assigned to the claimant. The release and irrevocable direction counters and negates any argument based on the legal ownership of the annuity."
+        },
+        {
+          "type": "paragraph",
+          "text": "The P&C insurer, however, assumes a financial guarantee obligation of the annuity underwriter in the event of any default or other failure of the annuity underwriter to make contracted payments to the claimant. It is therefore secondarily liable to the claimant for the annuity payments."
+        },
+        {
+          "type": "paragraph",
+          "text": "Any gain or loss should be recorded in income as an adjustment of incurred claims expense."
+        },
+        {
+          "type": "paragraph",
+          "text": "The P&C insurer also should not recognize a financial asset at time of purchase where the terms of the annuity make it commutable in the event the liability to the claimant becomes fully settled or otherwise discharged, e.g., the claimant dies and the annuity residual reverts to the P&C insurer. In these circumstances, a gain could subsequently arise to the extent there is residual value after the liability is fully settled. However, at the time of purchasing the annuity, no value should be ascribed to the contingent gain in its note disclosure since the annuity presumably would have been appropriately underwritten and priced."
+        }
+      ]
+    },
+    {
+      "heading": "Type 2: Continued recognition of insurance liability and annuity",
+      "heading_level": 3,
+      "full_text": "Under a Type 2 structured settlement arrangement, the insurance liability balance should continue to be recognized on the statement of financial position. The insurance liability of the P&C insurer to the claimant has not been extinguished legally or in substance since the annuity is commutable or assignable or transferable. Furthermore, a legal release from being the primary obligor is not necessarily obtained from the claimant. There is no irrevocable direction, as exists in Type 1, given by the P&C insurer to the annuity underwriter to make all payments directly to the claimant.\nCorrespondingly, the P&C insurer should separately recognize the annuity as an asset on its statement of financial position. The annuity asset may take the form of a financial asset (IFRS 9) or a reinsurance asset (IFRS 17) depending on the structure of the arrangement.\nThe annuity asset and insurance liability should not be offset.\nFor the Minimum Capital Test and Branch Adequacy of Assets Test, the treatment accorded to the annuity asset is similar to that of a reinsurance contract held. Annuities purchased from licensed Canadian life insurers will be considered as assets available for test purposes. However, in the case of foreign P&C insurers, these assets will need to be vested to be considered as assets available for test purposes.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Under a Type 2 structured settlement arrangement, the insurance liability balance should continue to be recognized on the statement of financial position. The insurance liability of the P&C insurer to the claimant has not been extinguished legally or in substance since the annuity is commutable or assignable or transferable. Furthermore, a legal release from being the primary obligor is not necessarily obtained from the claimant. There is no irrevocable direction, as exists in Type 1, given by the P&C insurer to the annuity underwriter to make all payments directly to the claimant."
+        },
+        {
+          "type": "paragraph",
+          "text": "Correspondingly, the P&C insurer should separately recognize the annuity as an asset on its statement of financial position. The annuity asset may take the form of a financial asset (IFRS 9) or a reinsurance asset (IFRS 17) depending on the structure of the arrangement."
+        },
+        {
+          "type": "paragraph",
+          "text": "The annuity asset and insurance liability should not be offset."
+        },
+        {
+          "type": "paragraph",
+          "text": "For the Minimum Capital Test and Branch Adequacy of Assets Test, the treatment accorded to the annuity asset is similar to that of a reinsurance contract held. Annuities purchased from licensed Canadian life insurers will be considered as assets available for test purposes. However, in the case of foreign P&C insurers, these assets will need to be vested to be considered as assets available for test purposes."
+        }
+      ]
+    },
+    {
+      "heading": "Type 1: Financial guarantees and contingent assets",
+      "heading_level": 3,
+      "full_text": "Under a Type 1 structured settlement, the claimant's recourse to the P&C insurer represents a guarantee of the annuity underwriter's obligation to make payments to the claimant pursuant to the terms and conditions of the structured settlement. Guaranteeing the obligation of another party exposes the P&C insurer to credit risk.\nIn addition, a contingent asset may exist in the case of a Type 1 structured settlement that is commutable.\nAs a result, the P&C insurer will need to assess the IFRS standards accounting and disclosure requirements that may be applicable for such items.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Under a Type 1 structured settlement, the claimant's recourse to the P&C insurer represents a guarantee of the annuity underwriter's obligation to make payments to the claimant pursuant to the terms and conditions of the structured settlement. Guaranteeing the obligation of another party exposes the P&C insurer to credit risk."
+        },
+        {
+          "type": "paragraph",
+          "text": "In addition, a contingent asset may exist in the case of a Type 1 structured settlement that is commutable."
+        },
+        {
+          "type": "paragraph",
+          "text": "As a result, the P&C insurer will need to assess the IFRS standards accounting and disclosure requirements that may be applicable for such items."
+        }
+      ]
+    },
+    {
+      "heading": "Type 2: Annuities recognized on statement of financial position as assets",
+      "heading_level": 3,
+      "full_text": "In the case of Type 2 structured settlements, there should be disclosure in the notes relating to the terms and conditions, credit risk and fair value of the annuities that are recognized as assets on the statement of financial position.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "In the case of Type 2 structured settlements, there should be disclosure in the notes relating to the terms and conditions, credit risk and fair value of the annuities that are recognized as assets on the statement of financial position."
+        }
+      ]
+    }
+  ],
+  "title_normalized": "accounting for structured settlements",
+  "publication_type_normalized": "guideline",
+  "category_normalized": "accounting_and_disclosure",
+  "sector_normalized": [
+    "pc_insurance"
+  ],
+  "guideline_number_normalized": "",
+  "applies_to_banks": false,
+  "applies_to_trust_loan": false,
+  "applies_to_life_insurance": false,
+  "applies_to_pc_insurance": true,
+  "applies_to_foreign_bank": false,
+  "applies_to_foreign_insurance": false,
+  "applies_to_cooperative": false,
+  "applies_to_bank_holding": false,
+  "effective_date_sort_key": "1998-04-01",
+  "status_sort_key": 1,
+  "authority_sort_key": 100,
+  "bm25_text": "Accounting for Structured Settlements Guideline Accounting and Disclosure Property and Casualty Companies Introduction Definition of a structured settlement Type 1 Type 2 Type 1: Derecognition of insurance liability and annuity Type 2: Continued recognition of insurance liability and annuity Type 1: Financial guarantees and contingent assets Type 2: Annuities recognized on statement of financial position as assets",
+  "vector_text_prefix": "[OSFI Guideline  | Accounting and Disclosure | Property and Casualty Companies | FINAL_CURRENT | Effective 1998-04-01]",
+  "h1_title": "Accounting for Structured Settlements",
+  "regulator": "OSFI",
+  "regulator_acronym": "OSFI",
+  "jurisdiction": "Canada",
+  "short_title": "",
+  "source_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/accounting-structured-settlements"
+}

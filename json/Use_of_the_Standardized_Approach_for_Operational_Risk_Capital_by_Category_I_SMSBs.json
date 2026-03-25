@@ -1,0 +1,459 @@
+{
+  "source_system": "osfi_guidance_library",
+  "library_row_title": "Use of the Standardized Approach for Operational Risk Capital by Category I SMSBs",
+  "library_row_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/use-standardized-approach-operational-risk-capital-category-smsbs",
+  "listing_date_raw": "December 20, 2021",
+  "listing_date_iso": "2021-12-20",
+  "listing_publication_type": "Letter",
+  "listing_category": "",
+  "listing_sector": [
+    "Banks",
+    "Trust and Loan Companies"
+  ],
+  "crawl_timestamp": "2026-03-11T00:00:00Z",
+  "detail_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/use-standardized-approach-operational-risk-capital-category-smsbs",
+  "canonical_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/use-standardized-approach-operational-risk-capital-category-smsbs",
+  "slug": "use-standardized-approach-operational-risk-capital-category-smsbs",
+  "title": "Use of the Standardized Approach for Operational Risk Capital by Category I SMSBs",
+  "publication_type": "Letter",
+  "category": "",
+  "document_date_raw": "December 20, 2021",
+  "document_date_iso": "2021-12-20",
+  "sector": [
+    "Banks",
+    "Trust and Loan Companies"
+  ],
+  "effective_date_text": "",
+  "guideline_number": "",
+  "date_modified_raw": "2021-12-20T12:00:00Z",
+  "generate_pdf_url": "https://www.osfi-bsif.gc.ca/en/print/pdf/node/331",
+  "pdf_node_id": 331,
+  "direct_pdf_url": null,
+  "has_table_of_contents": true,
+  "toc_entries": [],
+  "has_related_documents": false,
+  "related_document_links_raw": [],
+  "consultation_status_text": null,
+  "consultation_status_refers_to_version": null,
+  "page_language": "en",
+  "word_count_raw_body": 2263,
+  "doc_id": "osfi.use-standardized-approach-operational-risk-capital.transmittal",
+  "doc_family_id": "osfi.use-standardized-approach-operational-risk-capital",
+  "version_id": "",
+  "version_label": "Use of the Standardized Approach for Operational Risk Capita",
+  "version_sort_key": "",
+  "parent_doc_id": null,
+  "child_doc_ids": [],
+  "is_package_page": false,
+  "is_chapter_page": false,
+  "chapter_number": null,
+  "chapter_title": null,
+  "document_order_within_family": 0,
+  "supersedes_doc_id": null,
+  "superseded_by_doc_id": null,
+  "current_version_flag": true,
+  "status": "final_current",
+  "include_in_primary_corpus": false,
+  "include_in_support_corpus": true,
+  "include_in_context_corpus": false,
+  "effective_date_start": "2021-12-20",
+  "effective_date_end": null,
+  "effective_date_fye_split": false,
+  "effective_date_oct_fye": null,
+  "effective_date_dec_fye": null,
+  "is_future_effective": false,
+  "is_rescinded": false,
+  "is_draft_or_consultation": false,
+  "rescission_date": null,
+  "consultation_closing_date": null,
+  "as_of_applicability": "2026-03-23",
+  "rule_applied": "rule_5_final_current",
+  "authority_class": "official_support",
+  "authority_level": 60,
+  "nova_tier": 2,
+  "prudential_weight": 0.7,
+  "is_primary_normative": false,
+  "is_supporting_interpretive": true,
+  "is_context_only": false,
+  "document_class": "transmittal_letter",
+  "guidance_type_normalized": "letter",
+  "section_headings": [
+    {
+      "level": 2,
+      "text": "I. Timeframe",
+      "id": "h2-0"
+    },
+    {
+      "level": 2,
+      "text": "II. Where to Submit Applications",
+      "id": "h2-1"
+    },
+    {
+      "level": 2,
+      "text": "III. Content of Application",
+      "id": "h2-2"
+    },
+    {
+      "level": 2,
+      "text": "IV. Application Assessment Process",
+      "id": "h2-3"
+    },
+    {
+      "level": 2,
+      "text": "Appendix I – Flowchart of Application Process",
+      "id": "h2-4"
+    }
+  ],
+  "heading_path": [
+    "Use of the Standardized Approach for Operational Risk Capital by Category I SMSBs"
+  ],
+  "toc_depth": 2,
+  "has_appendices": true,
+  "appendix_ids": [
+    "Appendix I"
+  ],
+  "has_tables": false,
+  "table_count": 0,
+  "has_footnotes": false,
+  "footnote_count": 0,
+  "inline_cross_references": [],
+  "quoted_external_references": [],
+  "raw_html_sha256": "bcf4339780adde4711459828c75bd25bcde13cf498411bb6b0ef7154451f41d3",
+  "raw_pdf_sha256": null,
+  "normalized_text_sha256": null,
+  "raw_html_path": "bronze/osfi/html/final_current/use-standardized-approach-operational-risk-capital-category-smsbs.html",
+  "normalized_md_path": "silver/osfi/md/final_current/use-standardized-approach-operational-risk-capital-category-smsbs.md",
+  "canonical_json_path": "silver/osfi/json/final_current/use-standardized-approach-operational-risk-capital-category-smsbs.json",
+  "content_source": "HTML",
+  "parser_version": "osfi-parser-v2.1.0",
+  "normalizer_version": "osfi-normalizer-v1.4.0",
+  "quality_score": 1.0,
+  "quality_flags": [],
+  "download_timestamp": "2026-03-11T00:00:00Z",
+  "enriched_timestamp": "2026-03-23T09:54:01.305251Z",
+  "sections": [
+    {
+      "heading": "",
+      "heading_level": 2,
+      "full_text": "To: Category I Small and Medium-Sized Deposit-Taking Institutions Categorization criteria for SMSBs is detailed in Section III of OSFI’s draft SMSB Capital and Liquidity Requirements guideline.\nOSFI’s revised Capital Adequacy Requirements (“CAR”) Guideline will come into effect fiscal Q2-2023. February 1, 2023 for institutions with an October 31 st year end and April 1, 2023 for institutions with a December 31 st year end. Under Chapter 3 - Operational Risk - of the revised CAR Guideline, Category I Small and Medium-Sized Deposit-Taking Institutions (“SMSBs”) with Annual Adjusted Gross Income greater than $1.5 billion must use the Standardized Approach (“SA”) when determining their operational risk capital charge. Category I SMSBs with Annual Adjusted Gross Income of less than $1.5 billion will, by default, use the Simplified Standardized Approach (“SSA”) but may apply to OSFI for the use of the SA if they have a minimum of five years of high-quality internal operational risk loss data.\nTo support the implementation of the SA, OSFI has developed data maintenance expectations and a related assessment tool for operational risk capital data used in the SA. The draft Operational Risk Capital Data Management Expectations and a related Assessment Tool issued for public consultation in June 2021 can be found at this <a href=\"/node/459\">link</a>. Operational risk data includes both internal operational risk loss data and the components of the Business Indicator that are used to calculate operational risk capital.\nThis letter sets out the general application and assessment process that Category I SMSBs with less than $1.5 billion of Annual Adjusted Gross Income need to follow in seeking approval from OSFI to use the SA. If approved, these institutions will have their Internal Loss Multiplier (“ILM”) floored at one until OSFI can confirm that the institution has 10 years of high-quality internal operational risk loss data. For a Category I SMSB with less than $1.5 billion of Annual Adjusted Gross Income and 10 years of internal loss data, OSFI may require the ILM to be adjusted (floored at one or greater than one) based on its assessment of the quality of the institution’s internal operational risk loss data.\nYours Truly,\nElspeth Bowler Managing Director, Operational Risk Division",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "To: Category I Small and Medium-Sized Deposit-Taking Institutions Categorization criteria for SMSBs is detailed in Section III of OSFI’s draft SMSB Capital and Liquidity Requirements guideline."
+        },
+        {
+          "type": "paragraph",
+          "text": "OSFI’s revised Capital Adequacy Requirements (“CAR”) Guideline will come into effect fiscal Q2-2023. February 1, 2023 for institutions with an October 31 st year end and April 1, 2023 for institutions with a December 31 st year end. Under Chapter 3 - Operational Risk - of the revised CAR Guideline, Category I Small and Medium-Sized Deposit-Taking Institutions (“SMSBs”) with Annual Adjusted Gross Income greater than $1.5 billion must use the Standardized Approach (“SA”) when determining their operational risk capital charge. Category I SMSBs with Annual Adjusted Gross Income of less than $1.5 billion will, by default, use the Simplified Standardized Approach (“SSA”) but may apply to OSFI for the use of the SA if they have a minimum of five years of high-quality internal operational risk loss data."
+        },
+        {
+          "type": "paragraph",
+          "text": "To support the implementation of the SA, OSFI has developed data maintenance expectations and a related assessment tool for operational risk capital data used in the SA. The draft Operational Risk Capital Data Management Expectations and a related Assessment Tool issued for public consultation in June 2021 can be found at this <a href=\"/node/459\">link</a>. Operational risk data includes both internal operational risk loss data and the components of the Business Indicator that are used to calculate operational risk capital."
+        },
+        {
+          "type": "paragraph",
+          "text": "This letter sets out the general application and assessment process that Category I SMSBs with less than $1.5 billion of Annual Adjusted Gross Income need to follow in seeking approval from OSFI to use the SA. If approved, these institutions will have their Internal Loss Multiplier (“ILM”) floored at one until OSFI can confirm that the institution has 10 years of high-quality internal operational risk loss data. For a Category I SMSB with less than $1.5 billion of Annual Adjusted Gross Income and 10 years of internal loss data, OSFI may require the ILM to be adjusted (floored at one or greater than one) based on its assessment of the quality of the institution’s internal operational risk loss data."
+        },
+        {
+          "type": "paragraph",
+          "text": "Yours Truly,"
+        },
+        {
+          "type": "paragraph",
+          "text": "Elspeth Bowler Managing Director, Operational Risk Division"
+        }
+      ]
+    },
+    {
+      "heading": "I. Timeframe",
+      "heading_level": 2,
+      "full_text": "Starting from June 1, 2022, Category I SMSBs with five or more years of high-quality internal operational risk loss data may submit applications to OSFI for approval to use the SA. Applications will be reviewed in the order in which they are received.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Starting from June 1, 2022, Category I SMSBs with five or more years of high-quality internal operational risk loss data may submit applications to OSFI for approval to use the SA. Applications will be reviewed in the order in which they are received."
+        }
+      ]
+    },
+    {
+      "heading": "II. Where to Submit Applications",
+      "heading_level": 2,
+      "full_text": "Applications should be submitted to datamaintenance-tenuedesdonnees@osfi-bsif.gc.ca .",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Applications should be submitted to datamaintenance-tenuedesdonnees@osfi-bsif.gc.ca ."
+        }
+      ]
+    },
+    {
+      "heading": "III. Content of Application",
+      "heading_level": 2,
+      "full_text": "All applications must include the following information:\n  1. Completed self-assessment against OSFI’s Assessment Tool – Operational Risk Capital Data The draft Operational Risk Capital Data Management Expectations and a related Assessment Tool issued for public consultation in June 2021 can be found at this <a href=\"/node/459\">link</a>. OSFI expects to release the final version of these documents in early 2022, which should be used for the application. ;\n  2. Completed form L3 providing details of internal loss data for each of the years available up to a maximum of 10 years (only at the consolidated level; line of business can be excluded);\n  3. Completed 2023 BCAR schedule for operational risk capital for the most recent quarter using the SSA The draft BCAR issued for public consultation in May 2021 can be found at this <a href=\"/node/1087\">link</a>. OSFI expects to release the final version of BCAR in early 2022, which should be used for the application. ; and\n  4. Completed 2023 BCAR schedule for operational risk capital for the most recent quarter using the SA The draft BCAR issued for public consultation in May 2021 can be found at this <a href=\"/node/1087\">link</a> OSFI expects to release the final version of BCAR in early 2022, which should be used for the application. .\nCompleted self-assessment against OSFI’s Assessment Tool – Operational Risk Capital Data The draft Operational Risk Capital Data Management Expectations and a related Assessment Tool issued for public consultation in June 2021 can be found at this <a href=\"/node/459\">link</a>. OSFI expects to release the final version of these documents in early 2022, which should be used for the application. ;\nCompleted form L3 providing details of internal loss data for each of the years available up to a maximum of 10 years (only at the consolidated level; line of business can be excluded);\nCompleted 2023 BCAR schedule for operational risk capital for the most recent quarter using the SSA The draft BCAR issued for public consultation in May 2021 can be found at this <a href=\"/node/1087\">link</a>. OSFI expects to release the final version of BCAR in early 2022, which should be used for the application. ; and\nCompleted 2023 BCAR schedule for operational risk capital for the most recent quarter using the SA The draft BCAR issued for public consultation in May 2021 can be found at this <a href=\"/node/1087\">link</a> OSFI expects to release the final version of BCAR in early 2022, which should be used for the application. .",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "All applications must include the following information:"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "Completed self-assessment against OSFI’s Assessment Tool – Operational Risk Capital Data The draft Operational Risk Capital Data Management Expectations and a related Assessment Tool issued for public consultation in June 2021 can be found at this <a href=\"/node/459\">link</a>. OSFI expects to release the final version of these documents in early 2022, which should be used for the application. ;",
+            "Completed form L3 providing details of internal loss data for each of the years available up to a maximum of 10 years (only at the consolidated level; line of business can be excluded);",
+            "Completed 2023 BCAR schedule for operational risk capital for the most recent quarter using the SSA The draft BCAR issued for public consultation in May 2021 can be found at this <a href=\"/node/1087\">link</a>. OSFI expects to release the final version of BCAR in early 2022, which should be used for the application. ; and",
+            "Completed 2023 BCAR schedule for operational risk capital for the most recent quarter using the SA The draft BCAR issued for public consultation in May 2021 can be found at this <a href=\"/node/1087\">link</a> OSFI expects to release the final version of BCAR in early 2022, which should be used for the application. ."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Completed self-assessment against OSFI’s Assessment Tool – Operational Risk Capital Data The draft Operational Risk Capital Data Management Expectations and a related Assessment Tool issued for public consultation in June 2021 can be found at this <a href=\"/node/459\">link</a>. OSFI expects to release the final version of these documents in early 2022, which should be used for the application. ;"
+        },
+        {
+          "type": "paragraph",
+          "text": "Completed form L3 providing details of internal loss data for each of the years available up to a maximum of 10 years (only at the consolidated level; line of business can be excluded);"
+        },
+        {
+          "type": "paragraph",
+          "text": "Completed 2023 BCAR schedule for operational risk capital for the most recent quarter using the SSA The draft BCAR issued for public consultation in May 2021 can be found at this <a href=\"/node/1087\">link</a>. OSFI expects to release the final version of BCAR in early 2022, which should be used for the application. ; and"
+        },
+        {
+          "type": "paragraph",
+          "text": "Completed 2023 BCAR schedule for operational risk capital for the most recent quarter using the SA The draft BCAR issued for public consultation in May 2021 can be found at this <a href=\"/node/1087\">link</a> OSFI expects to release the final version of BCAR in early 2022, which should be used for the application. ."
+        }
+      ]
+    },
+    {
+      "heading": "IV. Application Assessment Process",
+      "heading_level": 2,
+      "full_text": "Once the complete application package has been received, the application process begins (see Appendix I for a flowchart of the process). The key steps will be:\n  1. Within one month after an application is received, OSFI will indicate when the institution submitting the application can expect a decision from OSFI. The timing of a decision will be impacted by the number of applications received and other OSFI priorities as well as the quality and completeness of the initial information submitted by the applicant.\n  2. Once analysis of the application materials begins, institutions can expect OSFI to reach out by e-mail with questions. It is likely that one or more meetings (conference calls, in-person or virtual) will be scheduled to discuss and clarify the material submitted.\n  3. Upon completion of its analysis, OSFI will communicate its decision in writing to the institution. Decisions will be based primarily on: the quality and completeness of the application material; whether the self-assessment and responses to subsequent follow-up questions demonstrate that the institution has robust processes in place to manage its operational risk capital data; and whether operational risk capital data provided has integrity and meets the minimum standards detailed in CAR Chapter 3.\n  4. For Category I SMSBs with less than 10 years of internal operational risk loss data (minimum five years of internal loss data), OSFI will decide whether the institution is: approved to use the SA with the ILM being floored at one; or not approved to use the SA (i.e., institution must use the SSA). All institutions approved to use the SA will be required to have an in-depth review of the quality of their data management processes related to operational risk capital data prior to removal of the ILM floor. At OSFI’s discretion, the review will be conducted by OSFI or by an external consultant. This decision will be communicated to the institution prior to the approval decision on the institution’s use of the SA. Note that all consultant-led reviews will be at the expense of the institution with the consultant subject to OSFI’s approval.\n  5. For Category I SMSBs with 10 years of internal operational risk loss data, OSFI will decide whether: an OSFI- or consultant-led review will be conducted; or the institution is not approved to use the SA (i.e., institution must use the SSA). Upon completion of a review, OSFI will decide if the institution is: approved to use the SA with no adjustments to the ILM; approved to use the SA with an adjustment to the ILM; or not approved to use the SA (i.e., institution must use the SSA).\n  6. If it is your intention to apply in 2022 to use the SA approach, please reach out to your OSFI lead supervisor outlining the target timing for submission of your application package.\n  7. Please submit any questions to: datamaintenance-tenuedesdonnees@osfi-bsif.gc.ca .\nWithin one month after an application is received, OSFI will indicate when the institution submitting the application can expect a decision from OSFI. The timing of a decision will be impacted by the number of applications received and other OSFI priorities as well as the quality and completeness of the initial information submitted by the applicant.\nOnce analysis of the application materials begins, institutions can expect OSFI to reach out by e-mail with questions. It is likely that one or more meetings (conference calls, in-person or virtual) will be scheduled to discuss and clarify the material submitted.\nUpon completion of its analysis, OSFI will communicate its decision in writing to the institution. Decisions will be based primarily on:\n  1. the quality and completeness of the application material;\n  2. whether the self-assessment and responses to subsequent follow-up questions demonstrate that the institution has robust processes in place to manage its operational risk capital data; and\n  3. whether operational risk capital data provided has integrity and meets the minimum standards detailed in CAR Chapter 3.\nFor Category I SMSBs with less than 10 years of internal operational risk loss data (minimum five years of internal loss data), OSFI will decide whether the institution is:\n  1. approved to use the SA with the ILM being floored at one; or\n  2. not approved to use the SA (i.e., institution must use the SSA).\nAll institutions approved to use the SA will be required to have an in-depth review of the quality of their data management processes related to operational risk capital data prior to removal of the ILM floor. At OSFI’s discretion, the review will be conducted by OSFI or by an external consultant. This decision will be communicated to the institution prior to the approval decision on the institution’s use of the SA. Note that all consultant-led reviews will be at the expense of the institution with the consultant subject to OSFI’s approval.\nFor Category I SMSBs with 10 years of internal operational risk loss data, OSFI will decide whether:\n  1. an OSFI- or consultant-led review will be conducted; or\n  2. the institution is not approved to use the SA (i.e., institution must use the SSA).\nUpon completion of a review, OSFI will decide if the institution is:\n  1. approved to use the SA with no adjustments to the ILM;\n  2. approved to use the SA with an adjustment to the ILM; or\n  3. not approved to use the SA (i.e., institution must use the SSA).\nIf it is your intention to apply in 2022 to use the SA approach, please reach out to your OSFI lead supervisor outlining the target timing for submission of your application package.\nPlease submit any questions to: datamaintenance-tenuedesdonnees@osfi-bsif.gc.ca .",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Once the complete application package has been received, the application process begins (see Appendix I for a flowchart of the process). The key steps will be:"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "Within one month after an application is received, OSFI will indicate when the institution submitting the application can expect a decision from OSFI. The timing of a decision will be impacted by the number of applications received and other OSFI priorities as well as the quality and completeness of the initial information submitted by the applicant.",
+            "Once analysis of the application materials begins, institutions can expect OSFI to reach out by e-mail with questions. It is likely that one or more meetings (conference calls, in-person or virtual) will be scheduled to discuss and clarify the material submitted.",
+            "Upon completion of its analysis, OSFI will communicate its decision in writing to the institution. Decisions will be based primarily on: the quality and completeness of the application material; whether the self-assessment and responses to subsequent follow-up questions demonstrate that the institution has robust processes in place to manage its operational risk capital data; and whether operational risk capital data provided has integrity and meets the minimum standards detailed in CAR Chapter 3.",
+            "For Category I SMSBs with less than 10 years of internal operational risk loss data (minimum five years of internal loss data), OSFI will decide whether the institution is: approved to use the SA with the ILM being floored at one; or not approved to use the SA (i.e., institution must use the SSA). All institutions approved to use the SA will be required to have an in-depth review of the quality of their data management processes related to operational risk capital data prior to removal of the ILM floor. At OSFI’s discretion, the review will be conducted by OSFI or by an external consultant. This decision will be communicated to the institution prior to the approval decision on the institution’s use of the SA. Note that all consultant-led reviews will be at the expense of the institution with the consultant subject to OSFI’s approval.",
+            "For Category I SMSBs with 10 years of internal operational risk loss data, OSFI will decide whether: an OSFI- or consultant-led review will be conducted; or the institution is not approved to use the SA (i.e., institution must use the SSA). Upon completion of a review, OSFI will decide if the institution is: approved to use the SA with no adjustments to the ILM; approved to use the SA with an adjustment to the ILM; or not approved to use the SA (i.e., institution must use the SSA).",
+            "If it is your intention to apply in 2022 to use the SA approach, please reach out to your OSFI lead supervisor outlining the target timing for submission of your application package.",
+            "Please submit any questions to: datamaintenance-tenuedesdonnees@osfi-bsif.gc.ca ."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Within one month after an application is received, OSFI will indicate when the institution submitting the application can expect a decision from OSFI. The timing of a decision will be impacted by the number of applications received and other OSFI priorities as well as the quality and completeness of the initial information submitted by the applicant."
+        },
+        {
+          "type": "paragraph",
+          "text": "Once analysis of the application materials begins, institutions can expect OSFI to reach out by e-mail with questions. It is likely that one or more meetings (conference calls, in-person or virtual) will be scheduled to discuss and clarify the material submitted."
+        },
+        {
+          "type": "paragraph",
+          "text": "Upon completion of its analysis, OSFI will communicate its decision in writing to the institution. Decisions will be based primarily on:"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "the quality and completeness of the application material;",
+            "whether the self-assessment and responses to subsequent follow-up questions demonstrate that the institution has robust processes in place to manage its operational risk capital data; and",
+            "whether operational risk capital data provided has integrity and meets the minimum standards detailed in CAR Chapter 3."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "For Category I SMSBs with less than 10 years of internal operational risk loss data (minimum five years of internal loss data), OSFI will decide whether the institution is:"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "approved to use the SA with the ILM being floored at one; or",
+            "not approved to use the SA (i.e., institution must use the SSA)."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "All institutions approved to use the SA will be required to have an in-depth review of the quality of their data management processes related to operational risk capital data prior to removal of the ILM floor. At OSFI’s discretion, the review will be conducted by OSFI or by an external consultant. This decision will be communicated to the institution prior to the approval decision on the institution’s use of the SA. Note that all consultant-led reviews will be at the expense of the institution with the consultant subject to OSFI’s approval."
+        },
+        {
+          "type": "paragraph",
+          "text": "For Category I SMSBs with 10 years of internal operational risk loss data, OSFI will decide whether:"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "an OSFI- or consultant-led review will be conducted; or",
+            "the institution is not approved to use the SA (i.e., institution must use the SSA)."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Upon completion of a review, OSFI will decide if the institution is:"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "approved to use the SA with no adjustments to the ILM;",
+            "approved to use the SA with an adjustment to the ILM; or",
+            "not approved to use the SA (i.e., institution must use the SSA)."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "If it is your intention to apply in 2022 to use the SA approach, please reach out to your OSFI lead supervisor outlining the target timing for submission of your application package."
+        },
+        {
+          "type": "paragraph",
+          "text": "Please submit any questions to: datamaintenance-tenuedesdonnees@osfi-bsif.gc.ca ."
+        }
+      ]
+    },
+    {
+      "heading": "Appendix I – Flowchart of Application Process",
+      "heading_level": 2,
+      "full_text": "[Image: Flowchart of application assessment process. Text description follows.] (https://www.osfi-bsif.gc.ca/sites/default/files/2023-08/smsb-dti-let_img1.png)\n[Image: Flowchart of application assessment process. Text description follows.] (https://www.osfi-bsif.gc.ca/sites/default/files/2023-08/smsb-dti-let_img1.png)\n  - Application Submitted ≥ 5 years < 10 years loss data 10 + years loss data\n  - ≥ 5 years < 10 years loss data Time to Decision Communicated OSFI Analysis and Decision ILM Floored at 1; Review to occur prior to reaching 10 years loss data Review Approved to use the SA; ILM Adjusted Approved to use the SA; no adjustment to ILM Not approved to use the SA Not Approved to use the SA\n  - 10 + years loss data Time to Decision Communicated OSFI Analysis and Decision Decision to Conduct Review Review Approved to use the SA; ILM Adjusted Approved to use the SA; no adjustment to ILM Not approved to use the SA Not approved to use the SA\n  - ≥ 5 years < 10 years loss data\n  - 10 + years loss data\n  - Time to Decision Communicated OSFI Analysis and Decision ILM Floored at 1; Review to occur prior to reaching 10 years loss data Review Approved to use the SA; ILM Adjusted Approved to use the SA; no adjustment to ILM Not approved to use the SA Not Approved to use the SA\n  - OSFI Analysis and Decision ILM Floored at 1; Review to occur prior to reaching 10 years loss data Review Approved to use the SA; ILM Adjusted Approved to use the SA; no adjustment to ILM Not approved to use the SA Not Approved to use the SA\n  - ILM Floored at 1; Review to occur prior to reaching 10 years loss data Review Approved to use the SA; ILM Adjusted Approved to use the SA; no adjustment to ILM Not approved to use the SA\n  - Not Approved to use the SA\n  - Review Approved to use the SA; ILM Adjusted Approved to use the SA; no adjustment to ILM Not approved to use the SA\n  - Approved to use the SA; ILM Adjusted\n  - Approved to use the SA; no adjustment to ILM\n  - Not approved to use the SA\n  - Time to Decision Communicated OSFI Analysis and Decision Decision to Conduct Review Review Approved to use the SA; ILM Adjusted Approved to use the SA; no adjustment to ILM Not approved to use the SA Not approved to use the SA\n  - OSFI Analysis and Decision Decision to Conduct Review Review Approved to use the SA; ILM Adjusted Approved to use the SA; no adjustment to ILM Not approved to use the SA Not approved to use the SA\n  - Decision to Conduct Review Review Approved to use the SA; ILM Adjusted Approved to use the SA; no adjustment to ILM Not approved to use the SA\n  - Not approved to use the SA\n  - Review Approved to use the SA; ILM Adjusted Approved to use the SA; no adjustment to ILM Not approved to use the SA\n  - Approved to use the SA; ILM Adjusted\n  - Approved to use the SA; no adjustment to ILM\n  - Not approved to use the SA",
+      "content": [
+        {
+          "type": "image",
+          "src": "https://www.osfi-bsif.gc.ca/sites/default/files/2023-08/smsb-dti-let_img1.png",
+          "alt": "Flowchart of application assessment process. Text description follows.",
+          "caption": "Flowchart of application assessment process. Text description follows."
+        },
+        {
+          "type": "image",
+          "src": "https://www.osfi-bsif.gc.ca/sites/default/files/2023-08/smsb-dti-let_img1.png",
+          "alt": "Flowchart of application assessment process. Text description follows.",
+          "caption": "Flowchart of application assessment process. Text description follows."
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Application Submitted ≥ 5 years < 10 years loss data 10 + years loss data",
+            "≥ 5 years < 10 years loss data Time to Decision Communicated OSFI Analysis and Decision ILM Floored at 1; Review to occur prior to reaching 10 years loss data Review Approved to use the SA; ILM Adjusted Approved to use the SA; no adjustment to ILM Not approved to use the SA Not Approved to use the SA",
+            "10 + years loss data Time to Decision Communicated OSFI Analysis and Decision Decision to Conduct Review Review Approved to use the SA; ILM Adjusted Approved to use the SA; no adjustment to ILM Not approved to use the SA Not approved to use the SA"
+          ]
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "≥ 5 years < 10 years loss data",
+            "10 + years loss data"
+          ]
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Time to Decision Communicated OSFI Analysis and Decision ILM Floored at 1; Review to occur prior to reaching 10 years loss data Review Approved to use the SA; ILM Adjusted Approved to use the SA; no adjustment to ILM Not approved to use the SA Not Approved to use the SA"
+          ]
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "OSFI Analysis and Decision ILM Floored at 1; Review to occur prior to reaching 10 years loss data Review Approved to use the SA; ILM Adjusted Approved to use the SA; no adjustment to ILM Not approved to use the SA Not Approved to use the SA"
+          ]
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "ILM Floored at 1; Review to occur prior to reaching 10 years loss data Review Approved to use the SA; ILM Adjusted Approved to use the SA; no adjustment to ILM Not approved to use the SA",
+            "Not Approved to use the SA"
+          ]
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Review Approved to use the SA; ILM Adjusted Approved to use the SA; no adjustment to ILM Not approved to use the SA"
+          ]
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Approved to use the SA; ILM Adjusted",
+            "Approved to use the SA; no adjustment to ILM",
+            "Not approved to use the SA"
+          ]
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Time to Decision Communicated OSFI Analysis and Decision Decision to Conduct Review Review Approved to use the SA; ILM Adjusted Approved to use the SA; no adjustment to ILM Not approved to use the SA Not approved to use the SA"
+          ]
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "OSFI Analysis and Decision Decision to Conduct Review Review Approved to use the SA; ILM Adjusted Approved to use the SA; no adjustment to ILM Not approved to use the SA Not approved to use the SA"
+          ]
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Decision to Conduct Review Review Approved to use the SA; ILM Adjusted Approved to use the SA; no adjustment to ILM Not approved to use the SA",
+            "Not approved to use the SA"
+          ]
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Review Approved to use the SA; ILM Adjusted Approved to use the SA; no adjustment to ILM Not approved to use the SA"
+          ]
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Approved to use the SA; ILM Adjusted",
+            "Approved to use the SA; no adjustment to ILM",
+            "Not approved to use the SA"
+          ]
+        }
+      ]
+    }
+  ],
+  "title_normalized": "use of the standardized approach for operational risk capital by category i smsbs",
+  "publication_type_normalized": "letter",
+  "category_normalized": "",
+  "sector_normalized": [
+    "banks",
+    "trust_and_loan_companies"
+  ],
+  "guideline_number_normalized": "",
+  "applies_to_banks": true,
+  "applies_to_trust_loan": true,
+  "applies_to_life_insurance": false,
+  "applies_to_pc_insurance": false,
+  "applies_to_foreign_bank": false,
+  "applies_to_foreign_insurance": false,
+  "applies_to_cooperative": false,
+  "applies_to_bank_holding": false,
+  "effective_date_sort_key": "2021-12-20",
+  "status_sort_key": 1,
+  "authority_sort_key": 60,
+  "bm25_text": "Use of the Standardized Approach for Operational Risk Capital by Category I SMSBs Letter Banks Trust and Loan Companies I. Timeframe II. Where to Submit Applications III. Content of Application IV. Application Assessment Process Appendix I – Flowchart of Application Process",
+  "vector_text_prefix": "[OSFI Letter  |  | Banks / Trust and Loan Companies | FINAL_CURRENT | Effective 2021-12-20]",
+  "h1_title": "Use of the Standardized Approach for Operational Risk Capital by Category I SMSBs",
+  "regulator": "OSFI",
+  "regulator_acronym": "OSFI",
+  "jurisdiction": "Canada",
+  "short_title": "",
+  "source_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/use-standardized-approach-operational-risk-capital-category-smsbs"
+}

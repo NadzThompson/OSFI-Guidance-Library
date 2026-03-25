@@ -1,0 +1,283 @@
+{
+  "source_system": "osfi_guidance_library",
+  "library_row_title": "Substantial Investments - Appendix B.1",
+  "library_row_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/substantial-investments-appendix-b1",
+  "listing_date_raw": "June 30, 2015",
+  "listing_date_iso": "2015-06-30",
+  "listing_publication_type": "Regulatory and legislative advisory",
+  "listing_category": "Regulatory and legislative",
+  "listing_sector": [
+    "Bank Act",
+    "Cooperative Credit Associations Act",
+    "Insurance Companies Act",
+    "Trust and Loan Companies Act"
+  ],
+  "crawl_timestamp": "2026-03-11T00:00:00Z",
+  "detail_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/substantial-investments-appendix-b1",
+  "canonical_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/substantial-investments-appendix-b1",
+  "slug": "substantial-investments-appendix-b1",
+  "title": "Substantial Investments - Appendix B.1",
+  "publication_type": "Regulatory and legislative advisory",
+  "category": "Regulatory and legislative",
+  "document_date_raw": "June 30, 2015",
+  "document_date_iso": "2015-06-30",
+  "sector": [
+    "Bank Act",
+    "Cooperative Credit Associations Act",
+    "Insurance Companies Act",
+    "Trust and Loan Companies Act"
+  ],
+  "effective_date_text": "",
+  "guideline_number": "",
+  "date_modified_raw": "2015-06-30T12:00:00Z",
+  "generate_pdf_url": "https://www.osfi-bsif.gc.ca/en/print/pdf/node/520",
+  "pdf_node_id": 520,
+  "direct_pdf_url": null,
+  "has_table_of_contents": true,
+  "toc_entries": [],
+  "has_related_documents": false,
+  "related_document_links_raw": [],
+  "consultation_status_text": null,
+  "consultation_status_refers_to_version": null,
+  "page_language": "en",
+  "word_count_raw_body": 1894,
+  "doc_id": "osfi.substantial-investments-appendix-b1.advisory",
+  "doc_family_id": "osfi.substantial-investments-appendix-b1",
+  "version_id": "",
+  "version_label": "Substantial Investments - Appendix B.1",
+  "version_sort_key": "",
+  "parent_doc_id": null,
+  "child_doc_ids": [],
+  "is_package_page": false,
+  "is_chapter_page": false,
+  "chapter_number": null,
+  "chapter_title": null,
+  "document_order_within_family": 0,
+  "supersedes_doc_id": null,
+  "superseded_by_doc_id": null,
+  "current_version_flag": true,
+  "status": "final_current",
+  "include_in_primary_corpus": true,
+  "include_in_support_corpus": false,
+  "include_in_context_corpus": false,
+  "effective_date_start": "2015-06-30",
+  "effective_date_end": null,
+  "effective_date_fye_split": false,
+  "effective_date_oct_fye": null,
+  "effective_date_dec_fye": null,
+  "is_future_effective": false,
+  "is_rescinded": false,
+  "is_draft_or_consultation": false,
+  "rescission_date": null,
+  "consultation_closing_date": null,
+  "as_of_applicability": "2026-03-23",
+  "rule_applied": "rule_5_final_current",
+  "authority_class": "primary_normative",
+  "authority_level": 100,
+  "nova_tier": 1,
+  "prudential_weight": 1.0,
+  "is_primary_normative": true,
+  "is_supporting_interpretive": false,
+  "is_context_only": false,
+  "document_class": "advisory",
+  "guidance_type_normalized": "regulatory_and_legislative_advisory",
+  "section_headings": [
+    {
+      "level": 2,
+      "text": "Appendix B.1 – Banks and BHCs Investments for a Limited Period of Time",
+      "id": "h2-0"
+    }
+  ],
+  "heading_path": [
+    "Substantial Investments - Appendix B.1"
+  ],
+  "toc_depth": 2,
+  "has_appendices": true,
+  "appendix_ids": [
+    "Appendix B"
+  ],
+  "has_tables": true,
+  "table_count": 1,
+  "has_footnotes": false,
+  "footnote_count": 0,
+  "inline_cross_references": [],
+  "quoted_external_references": [],
+  "raw_html_sha256": "24f04197c0fce74b6af486668d825da41201e6ca92e52c2fa54e8ca4df6136e5",
+  "raw_pdf_sha256": null,
+  "normalized_text_sha256": null,
+  "raw_html_path": "bronze/osfi/html/final_current/substantial-investments-appendix-b1.html",
+  "normalized_md_path": "silver/osfi/md/final_current/substantial-investments-appendix-b1.md",
+  "canonical_json_path": "silver/osfi/json/final_current/substantial-investments-appendix-b1.json",
+  "content_source": "HTML",
+  "parser_version": "osfi-parser-v2.1.0",
+  "normalizer_version": "osfi-normalizer-v1.4.0",
+  "quality_score": 1.0,
+  "quality_flags": [],
+  "download_timestamp": "2026-03-11T00:00:00Z",
+  "enriched_timestamp": "2026-03-23T09:54:00.601511Z",
+  "sections": [
+    {
+      "heading": "Appendix B.1 – Banks and BHCs Investments for a Limited Period of Time",
+      "heading_level": 2,
+      "full_text": "This document has been prepared for convenience of reference only and has no official sanction. For all purposes of interpreting and applying the law, users should consult the BA.\nNotes :\nIn this Appendix,\n  - abbreviations and capitalized terms have the meaning ascribed to them on pages 1 and 2 of the Advisory; and\n  - references to provisions are to those of the BA.\nTemporary investment [466(3)(a) and 471; 928(3)(a) and 933] | A bank or BHC may acquire control of, or acquire or increase a substantial investment in, any entity as a temporary investment [471(1) and 933(1)]. Holding period: Where the entity is not a PE only because the bank or BHC did not obtain the Minister's approval under subsection 468(5) or 930(5), the bank or BHC may hold control of, or a substantial investment in, the entity for (a) 90 days , or (b) over 90 days where the bank or BHC requests, within 90 days of acquiring control of, or acquiring or increasing a substantial investment in, the entity, the Minister's approval to extend the holding period [471(4) and 933(3)]. At the bank or BHC's request, the Minister may (a) allow the bank or BHC to reclassify the investment under the PE category [466(6), (7) and 468(5); 928(5), (6) and 930(5)] or (b) extend the holding period, including for an indeterminate period [471(4) and 933(3)]. Where the entity is not a PE only because the bank or BHC did not obtain the Superintendent's approval under subsection 468(6) or 930(6), the bank or BHC may hold control of, or a substantial investment in, the entity for 2 years or such other period specified by the Superintendent [471(1) and 933(1)]. At the bank or BHC's request, the Superintendent may (a) allow the bank or BHC to reclassify the investment under the PE category [466(6), (7) and 468(6); 928(5), (6) and 930(6)] or (b) extend the holding period for one or more finite periods [471(3) and 933(3)] or for an indeterminate period [471(5) and 933(4)]. In all other cases, the bank or BHC may hold control of, or a substantial investment in, the entity for 2 years or such other period specified by the Superintendent [471(1) and 933(1)]. At the bank or BHC's request, the Superintendent may extend the holding period for one or more finite periods [471(3) and 933(2)].\nLoan workout [466(3)(b) and 472; 928(3)(b) and 934] | Where an entity is in default with respect to a loan that: a bank or its subsidiary has made to the entity, the bank or the subsidiary may acquire all or any of the shares of, or ownership interests in, (i) the entity, (ii) any affiliates of the entity, or (iii) an entity that is primarily engaged in holding shares of, ownership interests in, or assets acquired from, the entity to which the loan was made or any affiliates of the entity to which the loan was made; or a BHC's subsidiary has made to the entity, the BHC may, through its subsidiary, acquire a substantial investment in (i) the entity, (ii) any affiliates of the entity, or (iii) an entity that is primarily engaged in the holding of shares of, ownership interests in, or assets acquired from, the entity to which the loan was made or any affiliates of the entity to which the loans was made. [472(1) and 934(1)] Despite (a) and (b) above, where a foreign government, or an entity controlled by a foreign government, is in default with respect to a loan from, or debt obligations held by, a bank or a subsidiary of a BHC, the BHC, via its subsidiary, or the bank may acquire all or any of the shares of, or ownership interests in, the entity or any other entity designated by the foreign government, if the acquisition is part of a debt restructuring program [472(5) and 934(4)]. The bank or BHC may hold those shares or ownership interests for a period specified by the Superintendent, including for an indeterminate period [472(6) and 934(5)]. Holding period: With respect to (a) and (b) above: the bank or BHC may hold control of, or a substantial investment in, the entity for 5 years [472(2) and 934(2)] or longer where the Superintendent grants an extension [472(4) and 934(3)]; and where the entity is not a PE only because the bank or BHC did not obtain the Superintendent's or the Minister's approval under section 468 or 930, the bank or BHC may hold control of, or a substantial investment in, the entity for an indeterminate period where the bank or BHC, within the holding period described above, (a) reclassifies the investment under the PE category, with the Superintendent's or the Minister's approval [466(6), (7) and 468; 928(5), (6) and 930] or (b) obtains the Minister's approval [472(7) and 934(6)].\nRealization of a security interest [466(3)(c) and 473; 928(3)(c) and 935] | A bank or BHC may, through the realization of a security interest held by the bank or a subsidiary of the bank or BHC, acquire control of, or acquire or increase a substantial investment in, any entity [473(1) and 935(1)]. Holding period: The bank or BHC may hold control of, or a substantial investment in, the entity for 5 years [473(2) and 935(2)] or longer where the Superintendent grants an extension [473(4) and 935(3)]. Where the entity is not a PE only because the bank or BHC did not obtain the Superintendent's or the Minister's approval under section 468 or 930, the bank or BHC may hold control of, or a substantial investment in, the entity for an indeterminate period where the bank or BHC, within the holding period described above, (a) reclassifies the investment under the PE category, with the Superintendent's or the Minister's approval [466(6), (7) and 468; 928(5), (6) and 930] or (b) obtains the Minister's approval [473(5) and 935(4)].\nTemporary investment\n[466(3)(a) and 471; 928(3)(a) and 933]\nA bank or BHC may acquire control of, or acquire or increase a substantial investment in, any entity as a temporary investment [471(1) and 933(1)].\nHolding period:\n  - Where the entity is not a PE only because the bank or BHC did not obtain the Minister's approval under subsection 468(5) or 930(5), the bank or BHC may hold control of, or a substantial investment in, the entity for (a) 90 days , or (b) over 90 days where the bank or BHC requests, within 90 days of acquiring control of, or acquiring or increasing a substantial investment in, the entity, the Minister's approval to extend the holding period [471(4) and 933(3)]. At the bank or BHC's request, the Minister may (a) allow the bank or BHC to reclassify the investment under the PE category [466(6), (7) and 468(5); 928(5), (6) and 930(5)] or (b) extend the holding period, including for an indeterminate period [471(4) and 933(3)].\n  - Where the entity is not a PE only because the bank or BHC did not obtain the Superintendent's approval under subsection 468(6) or 930(6), the bank or BHC may hold control of, or a substantial investment in, the entity for 2 years or such other period specified by the Superintendent [471(1) and 933(1)]. At the bank or BHC's request, the Superintendent may (a) allow the bank or BHC to reclassify the investment under the PE category [466(6), (7) and 468(6); 928(5), (6) and 930(6)] or (b) extend the holding period for one or more finite periods [471(3) and 933(3)] or for an indeterminate period [471(5) and 933(4)].\n  - In all other cases, the bank or BHC may hold control of, or a substantial investment in, the entity for 2 years or such other period specified by the Superintendent [471(1) and 933(1)]. At the bank or BHC's request, the Superintendent may extend the holding period for one or more finite periods [471(3) and 933(2)].\nLoan workout\n[466(3)(b) and 472; 928(3)(b) and 934]\nWhere an entity is in default with respect to a loan that:\n  1. a bank or its subsidiary has made to the entity, the bank or the subsidiary may acquire all or any of the shares of, or ownership interests in, (i) the entity, (ii) any affiliates of the entity, or (iii) an entity that is primarily engaged in holding shares of, ownership interests in, or assets acquired from, the entity to which the loan was made or any affiliates of the entity to which the loan was made; or\n  2. a BHC's subsidiary has made to the entity, the BHC may, through its subsidiary, acquire a substantial investment in (i) the entity, (ii) any affiliates of the entity, or (iii) an entity that is primarily engaged in the holding of shares of, ownership interests in, or assets acquired from, the entity to which the loan was made or any affiliates of the entity to which the loans was made. [472(1) and 934(1)]\nDespite (a) and (b) above, where a foreign government, or an entity controlled by a foreign government, is in default with respect to a loan from, or debt obligations held by, a bank or a subsidiary of a BHC, the BHC, via its subsidiary, or the bank may acquire all or any of the shares of, or ownership interests in, the entity or any other entity designated by the foreign government, if the acquisition is part of a debt restructuring program [472(5) and 934(4)]. The bank or BHC may hold those shares or ownership interests for a period specified by the Superintendent, including for an indeterminate period [472(6) and 934(5)].\nHolding period:\nWith respect to (a) and (b) above:\n  - the bank or BHC may hold control of, or a substantial investment in, the entity for 5 years [472(2) and 934(2)] or longer where the Superintendent grants an extension [472(4) and 934(3)]; and\n  - where the entity is not a PE only because the bank or BHC did not obtain the Superintendent's or the Minister's approval under section 468 or 930, the bank or BHC may hold control of, or a substantial investment in, the entity for an indeterminate period where the bank or BHC, within the holding period described above, (a) reclassifies the investment under the PE category, with the Superintendent's or the Minister's approval [466(6), (7) and 468; 928(5), (6) and 930] or (b) obtains the Minister's approval [472(7) and 934(6)].\nRealization of a security interest\n[466(3)(c) and 473; 928(3)(c) and 935]\nA bank or BHC may, through the realization of a security interest held by the bank or a subsidiary of the bank or BHC, acquire control of, or acquire or increase a substantial investment in, any entity [473(1) and 935(1)].\nHolding period:\n  - The bank or BHC may hold control of, or a substantial investment in, the entity for 5 years [473(2) and 935(2)] or longer where the Superintendent grants an extension [473(4) and 935(3)].\n  - Where the entity is not a PE only because the bank or BHC did not obtain the Superintendent's or the Minister's approval under section 468 or 930, the bank or BHC may hold control of, or a substantial investment in, the entity for an indeterminate period where the bank or BHC, within the holding period described above, (a) reclassifies the investment under the PE category, with the Superintendent's or the Minister's approval [466(6), (7) and 468; 928(5), (6) and 930] or (b) obtains the Minister's approval [473(5) and 935(4)].",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "This document has been prepared for convenience of reference only and has no official sanction. For all purposes of interpreting and applying the law, users should consult the BA."
+        },
+        {
+          "type": "paragraph",
+          "text": "Notes :"
+        },
+        {
+          "type": "paragraph",
+          "text": "In this Appendix,"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "abbreviations and capitalized terms have the meaning ascribed to them on pages 1 and 2 of the Advisory; and",
+            "references to provisions are to those of the BA."
+          ]
+        },
+        {
+          "type": "table",
+          "caption": "",
+          "rows": [
+            [
+              "Temporary investment [466(3)(a) and 471; 928(3)(a) and 933]",
+              "A bank or BHC may acquire control of, or acquire or increase a substantial investment in, any entity as a temporary investment [471(1) and 933(1)]. Holding period: Where the entity is not a PE only because the bank or BHC did not obtain the Minister's approval under subsection 468(5) or 930(5), the bank or BHC may hold control of, or a substantial investment in, the entity for (a) 90 days , or (b) over 90 days where the bank or BHC requests, within 90 days of acquiring control of, or acquiring or increasing a substantial investment in, the entity, the Minister's approval to extend the holding period [471(4) and 933(3)]. At the bank or BHC's request, the Minister may (a) allow the bank or BHC to reclassify the investment under the PE category [466(6), (7) and 468(5); 928(5), (6) and 930(5)] or (b) extend the holding period, including for an indeterminate period [471(4) and 933(3)]. Where the entity is not a PE only because the bank or BHC did not obtain the Superintendent's approval under subsection 468(6) or 930(6), the bank or BHC may hold control of, or a substantial investment in, the entity for 2 years or such other period specified by the Superintendent [471(1) and 933(1)]. At the bank or BHC's request, the Superintendent may (a) allow the bank or BHC to reclassify the investment under the PE category [466(6), (7) and 468(6); 928(5), (6) and 930(6)] or (b) extend the holding period for one or more finite periods [471(3) and 933(3)] or for an indeterminate period [471(5) and 933(4)]. In all other cases, the bank or BHC may hold control of, or a substantial investment in, the entity for 2 years or such other period specified by the Superintendent [471(1) and 933(1)]. At the bank or BHC's request, the Superintendent may extend the holding period for one or more finite periods [471(3) and 933(2)]."
+            ],
+            [
+              "Loan workout [466(3)(b) and 472; 928(3)(b) and 934]",
+              "Where an entity is in default with respect to a loan that: a bank or its subsidiary has made to the entity, the bank or the subsidiary may acquire all or any of the shares of, or ownership interests in, (i) the entity, (ii) any affiliates of the entity, or (iii) an entity that is primarily engaged in holding shares of, ownership interests in, or assets acquired from, the entity to which the loan was made or any affiliates of the entity to which the loan was made; or a BHC's subsidiary has made to the entity, the BHC may, through its subsidiary, acquire a substantial investment in (i) the entity, (ii) any affiliates of the entity, or (iii) an entity that is primarily engaged in the holding of shares of, ownership interests in, or assets acquired from, the entity to which the loan was made or any affiliates of the entity to which the loans was made. [472(1) and 934(1)] Despite (a) and (b) above, where a foreign government, or an entity controlled by a foreign government, is in default with respect to a loan from, or debt obligations held by, a bank or a subsidiary of a BHC, the BHC, via its subsidiary, or the bank may acquire all or any of the shares of, or ownership interests in, the entity or any other entity designated by the foreign government, if the acquisition is part of a debt restructuring program [472(5) and 934(4)]. The bank or BHC may hold those shares or ownership interests for a period specified by the Superintendent, including for an indeterminate period [472(6) and 934(5)]. Holding period: With respect to (a) and (b) above: the bank or BHC may hold control of, or a substantial investment in, the entity for 5 years [472(2) and 934(2)] or longer where the Superintendent grants an extension [472(4) and 934(3)]; and where the entity is not a PE only because the bank or BHC did not obtain the Superintendent's or the Minister's approval under section 468 or 930, the bank or BHC may hold control of, or a substantial investment in, the entity for an indeterminate period where the bank or BHC, within the holding period described above, (a) reclassifies the investment under the PE category, with the Superintendent's or the Minister's approval [466(6), (7) and 468; 928(5), (6) and 930] or (b) obtains the Minister's approval [472(7) and 934(6)]."
+            ],
+            [
+              "Realization of a security interest [466(3)(c) and 473; 928(3)(c) and 935]",
+              "A bank or BHC may, through the realization of a security interest held by the bank or a subsidiary of the bank or BHC, acquire control of, or acquire or increase a substantial investment in, any entity [473(1) and 935(1)]. Holding period: The bank or BHC may hold control of, or a substantial investment in, the entity for 5 years [473(2) and 935(2)] or longer where the Superintendent grants an extension [473(4) and 935(3)]. Where the entity is not a PE only because the bank or BHC did not obtain the Superintendent's or the Minister's approval under section 468 or 930, the bank or BHC may hold control of, or a substantial investment in, the entity for an indeterminate period where the bank or BHC, within the holding period described above, (a) reclassifies the investment under the PE category, with the Superintendent's or the Minister's approval [466(6), (7) and 468; 928(5), (6) and 930] or (b) obtains the Minister's approval [473(5) and 935(4)]."
+            ]
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Temporary investment"
+        },
+        {
+          "type": "paragraph",
+          "text": "[466(3)(a) and 471; 928(3)(a) and 933]"
+        },
+        {
+          "type": "paragraph",
+          "text": "A bank or BHC may acquire control of, or acquire or increase a substantial investment in, any entity as a temporary investment [471(1) and 933(1)]."
+        },
+        {
+          "type": "paragraph",
+          "text": "Holding period:"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Where the entity is not a PE only because the bank or BHC did not obtain the Minister's approval under subsection 468(5) or 930(5), the bank or BHC may hold control of, or a substantial investment in, the entity for (a) 90 days , or (b) over 90 days where the bank or BHC requests, within 90 days of acquiring control of, or acquiring or increasing a substantial investment in, the entity, the Minister's approval to extend the holding period [471(4) and 933(3)]. At the bank or BHC's request, the Minister may (a) allow the bank or BHC to reclassify the investment under the PE category [466(6), (7) and 468(5); 928(5), (6) and 930(5)] or (b) extend the holding period, including for an indeterminate period [471(4) and 933(3)].",
+            "Where the entity is not a PE only because the bank or BHC did not obtain the Superintendent's approval under subsection 468(6) or 930(6), the bank or BHC may hold control of, or a substantial investment in, the entity for 2 years or such other period specified by the Superintendent [471(1) and 933(1)]. At the bank or BHC's request, the Superintendent may (a) allow the bank or BHC to reclassify the investment under the PE category [466(6), (7) and 468(6); 928(5), (6) and 930(6)] or (b) extend the holding period for one or more finite periods [471(3) and 933(3)] or for an indeterminate period [471(5) and 933(4)].",
+            "In all other cases, the bank or BHC may hold control of, or a substantial investment in, the entity for 2 years or such other period specified by the Superintendent [471(1) and 933(1)]. At the bank or BHC's request, the Superintendent may extend the holding period for one or more finite periods [471(3) and 933(2)]."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Loan workout"
+        },
+        {
+          "type": "paragraph",
+          "text": "[466(3)(b) and 472; 928(3)(b) and 934]"
+        },
+        {
+          "type": "paragraph",
+          "text": "Where an entity is in default with respect to a loan that:"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "a bank or its subsidiary has made to the entity, the bank or the subsidiary may acquire all or any of the shares of, or ownership interests in, (i) the entity, (ii) any affiliates of the entity, or (iii) an entity that is primarily engaged in holding shares of, ownership interests in, or assets acquired from, the entity to which the loan was made or any affiliates of the entity to which the loan was made; or",
+            "a BHC's subsidiary has made to the entity, the BHC may, through its subsidiary, acquire a substantial investment in (i) the entity, (ii) any affiliates of the entity, or (iii) an entity that is primarily engaged in the holding of shares of, ownership interests in, or assets acquired from, the entity to which the loan was made or any affiliates of the entity to which the loans was made. [472(1) and 934(1)]"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Despite (a) and (b) above, where a foreign government, or an entity controlled by a foreign government, is in default with respect to a loan from, or debt obligations held by, a bank or a subsidiary of a BHC, the BHC, via its subsidiary, or the bank may acquire all or any of the shares of, or ownership interests in, the entity or any other entity designated by the foreign government, if the acquisition is part of a debt restructuring program [472(5) and 934(4)]. The bank or BHC may hold those shares or ownership interests for a period specified by the Superintendent, including for an indeterminate period [472(6) and 934(5)]."
+        },
+        {
+          "type": "paragraph",
+          "text": "Holding period:"
+        },
+        {
+          "type": "paragraph",
+          "text": "With respect to (a) and (b) above:"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "the bank or BHC may hold control of, or a substantial investment in, the entity for 5 years [472(2) and 934(2)] or longer where the Superintendent grants an extension [472(4) and 934(3)]; and",
+            "where the entity is not a PE only because the bank or BHC did not obtain the Superintendent's or the Minister's approval under section 468 or 930, the bank or BHC may hold control of, or a substantial investment in, the entity for an indeterminate period where the bank or BHC, within the holding period described above, (a) reclassifies the investment under the PE category, with the Superintendent's or the Minister's approval [466(6), (7) and 468; 928(5), (6) and 930] or (b) obtains the Minister's approval [472(7) and 934(6)]."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Realization of a security interest"
+        },
+        {
+          "type": "paragraph",
+          "text": "[466(3)(c) and 473; 928(3)(c) and 935]"
+        },
+        {
+          "type": "paragraph",
+          "text": "A bank or BHC may, through the realization of a security interest held by the bank or a subsidiary of the bank or BHC, acquire control of, or acquire or increase a substantial investment in, any entity [473(1) and 935(1)]."
+        },
+        {
+          "type": "paragraph",
+          "text": "Holding period:"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "The bank or BHC may hold control of, or a substantial investment in, the entity for 5 years [473(2) and 935(2)] or longer where the Superintendent grants an extension [473(4) and 935(3)].",
+            "Where the entity is not a PE only because the bank or BHC did not obtain the Superintendent's or the Minister's approval under section 468 or 930, the bank or BHC may hold control of, or a substantial investment in, the entity for an indeterminate period where the bank or BHC, within the holding period described above, (a) reclassifies the investment under the PE category, with the Superintendent's or the Minister's approval [466(6), (7) and 468; 928(5), (6) and 930] or (b) obtains the Minister's approval [473(5) and 935(4)]."
+          ]
+        }
+      ]
+    }
+  ],
+  "title_normalized": "substantial investments appendix b1",
+  "publication_type_normalized": "regulatory_and_legislative_advisory",
+  "category_normalized": "regulatory_and_legislative",
+  "sector_normalized": [
+    "bank_act",
+    "cooperative_credit_associations_act",
+    "insurance_companies_act",
+    "trust_and_loan_companies_act"
+  ],
+  "guideline_number_normalized": "",
+  "applies_to_banks": true,
+  "applies_to_trust_loan": true,
+  "applies_to_life_insurance": false,
+  "applies_to_pc_insurance": false,
+  "applies_to_foreign_bank": false,
+  "applies_to_foreign_insurance": false,
+  "applies_to_cooperative": true,
+  "applies_to_bank_holding": false,
+  "effective_date_sort_key": "2015-06-30",
+  "status_sort_key": 1,
+  "authority_sort_key": 100,
+  "bm25_text": "Substantial Investments - Appendix B.1 Regulatory and legislative advisory Regulatory and legislative Bank Act Cooperative Credit Associations Act Insurance Companies Act Trust and Loan Companies Act Appendix B.1 – Banks and BHCs Investments for a Limited Period of Time",
+  "vector_text_prefix": "[OSFI Regulatory and legislative advisory  | Regulatory and legislative | Bank Act / Cooperative Credit Associations Act / Insurance Companies Act | FINAL_CURRENT | Effective 2015-06-30]",
+  "h1_title": "Substantial Investments - Appendix B.1",
+  "regulator": "OSFI",
+  "regulator_acronym": "OSFI",
+  "jurisdiction": "Canada",
+  "short_title": "",
+  "source_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/substantial-investments-appendix-b1"
+}

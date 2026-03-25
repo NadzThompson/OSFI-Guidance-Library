@@ -1,0 +1,34 @@
+# Liquidity Adequacy Requirements (LAR) - Guideline (2025)
+
+**Type:** Guideline | **No:** LAR | **Category:** Capital Adequacy Requirements | **Date:** Effective Date April 1, 2025 | **Effective:** Effective Date April 1, 2025 | **Sector:** Banks, Trust and Loan Companies | **Status:** SUPERSEDED | **Tier:** 1
+
+---
+
+- Liquidity Adequacy Requirements - Backgrounder (2025)
+- Liquidity Adequacy Requirements - Letter (2025)
+- Small and Medium-Sized Deposit-Taking Institutions Capital and Liquidity Requirements – Guideline
+- Capital Adequacy Requirements – Guideline
+- Leverage Requirements - Guideline
+- Pillar 3 Disclosure Requirements
+
+Subsections 485(1) and 949(1) of the Bank Act (BA) and subsection 473(1) of the Trust and Loan Companies Act (TLCA) require banks, bank holding companies and trust and loan companies, respectively, to maintain adequate and appropriate forms of liquidity.
+
+The LAR Guideline is not made pursuant to subsection 485(2) or 949(2) of the BA or subsection 473(2) of the TLCA. However, the liquidity metrics set out in this guideline provide the framework within which the Superintendent assesses whether a bank, a bank holding company or a trust and loan company maintains adequate liquidity pursuant to the Acts. For this purpose, the Superintendent has established two minimum standards: the Liquidity Coverage Ratio (LCR) and the Net Stable Funding Ratio (NSFR). These standards – in conjunction with additional liquidity metrics where OSFI reserves the right to apply supervisory requirements as needed, including the net cumulative cash flow (NCCF), the operating cash flow statement (OCFS), the liquidity monitoring tools and the intraday liquidity monitoring tools – when assessed as a package, provide an overall perspective of the liquidity adequacy of an institution. The LAR Guideline should be read together with the Basel Committee on Banking Supervision's (BCBS) Principles for Sound Liquidity Risk Management and Supervision and OSFI's Guideline B-6: Liquidity Principles .
+
+OSFI will conduct detailed supervisory assessments of both the quantitative and qualitative aspects of an institution's liquidity risk, as presented in the LAR Guideline and Guideline B-6, respectively. Notwithstanding that a bank, a bank holding company or a trust and loan company may meet the aforementioned standards, the Superintendent may by order direct a bank or bank holding company to take actions to improve its liquidity under subsection 485(3) or 949(3), respectively, of the BA or a trust and loan company to take actions to improve its liquidity under subsection 473(3) of the TLCA.
+
+OSFI, as a member of the BCBS, participated in the development of the international liquidity framework, including Basel III: The Liquidity Coverage Ratio and liquidity risk monitoring tools (January 2013), Basel III: the Net Stable Funding Ratio (October 2014) and Monitoring tools for intraday liquidity management (April 2013). This domestic guidance is based on the Basel III framework – now integrated in the December 2019 " Basel Consolidated Framework " – supplemented to include additional OSFI-designed measures to assess the liquidity adequacy of an institution.
+
+Where relevant, the Basel Consolidated Framework paragraph numbers are provided in square brackets at the end of each paragraph referencing material from the Basel Consolidated framework. Some chapters include boxed-in text (called OSFI Notes) that set out how certain requirements are to be implemented by Canadian banks, bank holding companies and trust and loan companies, collectively referred to as “institutions”.
+
+## Liquidity Adequacy Requirements
+
+The LAR Guideline is set out in seven chapters, each of which has been issued as a separate document that should be read together.
+
+- Chapter 1 - Overview
+- Chapter 2 - Liquidity Coverage Ratio
+- Chapter 3 - Net Stable Funding Ratio
+- Chapter 4 - Net Cumulative Cash Flow
+- Chapter 5 - Operating Cash Flow Statement
+- Chapter 6 - Liquidity Monitoring Tools
+- Chapter 7 - Intraday Liquidity Monitoring Tools

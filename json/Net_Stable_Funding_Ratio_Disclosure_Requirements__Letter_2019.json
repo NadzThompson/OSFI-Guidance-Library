@@ -1,0 +1,269 @@
+{
+  "source_system": "osfi_guidance_library",
+  "library_row_title": "Net Stable Funding Ratio Disclosure Requirements – Letter (2019)",
+  "library_row_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/net-stable-funding-ratio-disclosure-requirements-letter-2019",
+  "listing_date_raw": "April 11, 2019",
+  "listing_date_iso": "2019-04-11",
+  "listing_publication_type": "Letter",
+  "listing_category": "Accounting and Disclosure",
+  "listing_sector": [
+    "Banks"
+  ],
+  "crawl_timestamp": "2026-03-11T00:00:00Z",
+  "detail_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/net-stable-funding-ratio-disclosure-requirements-letter-2019",
+  "canonical_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/net-stable-funding-ratio-disclosure-requirements-letter-2019",
+  "slug": "net-stable-funding-ratio-disclosure-requirements-letter-2019",
+  "title": "Net Stable Funding Ratio Disclosure Requirements – Letter (2019)",
+  "publication_type": "Letter",
+  "category": "Accounting and Disclosure",
+  "document_date_raw": "April 11, 2019",
+  "document_date_iso": "2019-04-11",
+  "sector": [
+    "Banks"
+  ],
+  "effective_date_text": "",
+  "guideline_number": "",
+  "date_modified_raw": "2019-04-11T12:00:00Z",
+  "generate_pdf_url": "https://www.osfi-bsif.gc.ca/en/print/pdf/node/442",
+  "pdf_node_id": 442,
+  "direct_pdf_url": null,
+  "has_table_of_contents": true,
+  "toc_entries": [],
+  "has_related_documents": false,
+  "related_document_links_raw": [],
+  "consultation_status_text": null,
+  "consultation_status_refers_to_version": null,
+  "page_language": "en",
+  "word_count_raw_body": 898,
+  "doc_id": "osfi.net-stable-funding-ratio-disclosure-requirements.2019.transmittal",
+  "doc_family_id": "osfi.net-stable-funding-ratio-disclosure-requirements",
+  "version_id": "2019",
+  "version_label": "Net Stable Funding Ratio Disclosure Requirements – Letter (2",
+  "version_sort_key": "2019-04",
+  "parent_doc_id": null,
+  "child_doc_ids": [],
+  "is_package_page": false,
+  "is_chapter_page": false,
+  "chapter_number": null,
+  "chapter_title": null,
+  "document_order_within_family": 0,
+  "supersedes_doc_id": null,
+  "superseded_by_doc_id": null,
+  "current_version_flag": true,
+  "status": "final_current",
+  "include_in_primary_corpus": false,
+  "include_in_support_corpus": true,
+  "include_in_context_corpus": false,
+  "effective_date_start": "2019-04-11",
+  "effective_date_end": null,
+  "effective_date_fye_split": false,
+  "effective_date_oct_fye": null,
+  "effective_date_dec_fye": null,
+  "is_future_effective": false,
+  "is_rescinded": false,
+  "is_draft_or_consultation": false,
+  "rescission_date": null,
+  "consultation_closing_date": null,
+  "as_of_applicability": "2026-03-23",
+  "rule_applied": "rule_5_final_current",
+  "authority_class": "official_support",
+  "authority_level": 60,
+  "nova_tier": 2,
+  "prudential_weight": 0.7,
+  "is_primary_normative": false,
+  "is_supporting_interpretive": true,
+  "is_context_only": false,
+  "document_class": "transmittal_letter",
+  "guidance_type_normalized": "letter",
+  "section_headings": [
+    {
+      "level": 2,
+      "text": "ANNEX - Summary of Material Comments and OSFI Responses",
+      "id": "h2-0"
+    }
+  ],
+  "heading_path": [
+    "Net Stable Funding Ratio Disclosure Requirements – Letter (2019)"
+  ],
+  "toc_depth": 2,
+  "has_appendices": false,
+  "appendix_ids": [],
+  "has_tables": true,
+  "table_count": 1,
+  "has_footnotes": false,
+  "footnote_count": 0,
+  "inline_cross_references": [],
+  "quoted_external_references": [],
+  "raw_html_sha256": "d16dabd0ff70496b876e9a1769babecffe89279eca5cbfbff3a0684b07496677",
+  "raw_pdf_sha256": null,
+  "normalized_text_sha256": null,
+  "raw_html_path": "bronze/osfi/html/final_current/net-stable-funding-ratio-disclosure-requirements-letter-2019.html",
+  "normalized_md_path": "silver/osfi/md/final_current/net-stable-funding-ratio-disclosure-requirements-letter-2019.md",
+  "canonical_json_path": "silver/osfi/json/final_current/net-stable-funding-ratio-disclosure-requirements-letter-2019.json",
+  "content_source": "HTML",
+  "parser_version": "osfi-parser-v2.1.0",
+  "normalizer_version": "osfi-normalizer-v1.4.0",
+  "quality_score": 1.0,
+  "quality_flags": [],
+  "download_timestamp": "2026-03-11T00:00:00Z",
+  "enriched_timestamp": "2026-03-23T09:53:57.267044Z",
+  "sections": [
+    {
+      "heading": "",
+      "heading_level": 2,
+      "full_text": "  - Net Stable Funding Ratio Disclosure Requirements – Guideline (2019)\n  - Net Stable Funding Ratio Disclosure Requirements – Guideline impact analysis statement (2019)\nFollowing a public consultation in February 2019, the Office of the Superintendent of Financial Institutions (OSFI) is issuing the final version of the Net Stable Funding Ratio Disclosure Requirements Guideline. This guideline sets out the NSFR disclosure requirements for Domestic Systemically Important Banks OSFI has designated six institutions as D-SIBs: Bank of Montreal, Bank of Nova Scotia, Canadian Imperial Bank of Commerce, National Bank of Canada, Royal Bank of Canada, and Toronto-Dominion Bank of Canada. (D-SIBs).\nThe disclosures for funding risk will complement OSFI’s NSFR requirement and encourage transparency, comparability and market discipline related to this key liquidity measure.\nOSFI would like to thank all those who provided comments. The Annex summarizes the material comments received and OSFI’s responses.\nThe guideline takes effect with the quarterly reporting period ending January 31, 2021. Questions on the NSFR Disclosure Requirements Guideline may be addressed to Ken Leung, Accounting Policy Division, at kenneth.leung@osfi-bsif.gc.ca .\nCarolyn Rogers Assistant Superintendent Regulation Sector",
+      "content": [
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Net Stable Funding Ratio Disclosure Requirements – Guideline (2019)",
+            "Net Stable Funding Ratio Disclosure Requirements – Guideline impact analysis statement (2019)"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Following a public consultation in February 2019, the Office of the Superintendent of Financial Institutions (OSFI) is issuing the final version of the Net Stable Funding Ratio Disclosure Requirements Guideline. This guideline sets out the NSFR disclosure requirements for Domestic Systemically Important Banks OSFI has designated six institutions as D-SIBs: Bank of Montreal, Bank of Nova Scotia, Canadian Imperial Bank of Commerce, National Bank of Canada, Royal Bank of Canada, and Toronto-Dominion Bank of Canada. (D-SIBs)."
+        },
+        {
+          "type": "paragraph",
+          "text": "The disclosures for funding risk will complement OSFI’s NSFR requirement and encourage transparency, comparability and market discipline related to this key liquidity measure."
+        },
+        {
+          "type": "paragraph",
+          "text": "OSFI would like to thank all those who provided comments. The Annex summarizes the material comments received and OSFI’s responses."
+        },
+        {
+          "type": "paragraph",
+          "text": "The guideline takes effect with the quarterly reporting period ending January 31, 2021. Questions on the NSFR Disclosure Requirements Guideline may be addressed to Ken Leung, Accounting Policy Division, at kenneth.leung@osfi-bsif.gc.ca ."
+        },
+        {
+          "type": "paragraph",
+          "text": "Carolyn Rogers Assistant Superintendent Regulation Sector"
+        }
+      ]
+    },
+    {
+      "heading": "ANNEX - Summary of Material Comments and OSFI Responses",
+      "heading_level": 2,
+      "full_text": "Comments from Respondents | OSFI Response\nImplementation Date\nSome respondents recommended the guideline remain flexible on the implementation date to align the Canadian disclosure of NSFR results with certain peer jurisdictions, including the U.S. and Europe. | In developing the NSFR disclosure guideline, OSFI considered several options for the implementation date. <a href=\"/node/556\">Net Stable Funding Ratio Disclosure Requirements – Guideline impact analysis statement (2019)</a> As NSFR requirements for Canada begin January 2020, OSFI believes a January 2021 implementation date for disclosure requirements strikes an appropriate balance between the timing of disclosure for Canadian banks and OSFI’s objective of promoting transparency and market discipline. As D-SIBs will be disclosing ahead of certain jurisdictions, the NSFR disclosure guideline provides D-SIBs with an additional year to implement their NSFR reporting frameworks.\nHarmonization of Regulatory and Disclosure Reporting Requirements\nSome respondents requested alignment between the NSFR regulatory reporting and disclosure templates. Presently some discrepancies exist, such as: The Pillar 3 template has a “No Maturity” column, and The Pillar 3 template requires a total HQLA figure. | OSFI’s Pillar 3 Guideline contains principles to provide a firm foundation for achieving high-quality disclosures. The aim is to enable users to better understand and compare an institution’s business and risks. One of these principles states that disclosures should be comprehensive. OSFI believes inclusion of the “No Maturity” column and total HQLA figures provide a comprehensive disclosure of a D-SIB’s funding profile/risk. OSFI will ensure alignment of the regulatory reporting and disclosure templates.\nDisclosure Requirements\nSome respondents suggested the disclosure template be updated to include only those items that: Are relevant to the NSFR calculation (for example, removal of items greyed out in the template), Are material in the Canadian context, and Align with existing financial statement breakdowns. | OSFI’s objective is to promote transparency through disclosures that are comprehensive, consistent and comparable. The disclosure template is unchanged, as: Items greyed out still contribute to the comprehensive disclosure of the funding profile of an institution. Immaterial items may become material in future periods, and are needed for consistency period-over-period. The disclosure template should provide a meaningful breakdown as it relates to the institution’s funding profile/risk in the context of the NSFR requirement.\nSome respondents recommended the guideline remain flexible on the implementation date to align the Canadian disclosure of NSFR results with certain peer jurisdictions, including the U.S. and Europe.\nIn developing the NSFR disclosure guideline, OSFI considered several options for the implementation date. <a href=\"/node/556\">Net Stable Funding Ratio Disclosure Requirements – Guideline impact analysis statement (2019)</a> As NSFR requirements for Canada begin January 2020, OSFI believes a January 2021 implementation date for disclosure requirements strikes an appropriate balance between the timing of disclosure for Canadian banks and OSFI’s objective of promoting transparency and market discipline.\nAs D-SIBs will be disclosing ahead of certain jurisdictions, the NSFR disclosure guideline provides D-SIBs with an additional year to implement their NSFR reporting frameworks.\nSome respondents requested alignment between the NSFR regulatory reporting and disclosure templates. Presently some discrepancies exist, such as:\n  - The Pillar 3 template has a “No Maturity” column, and\n  - The Pillar 3 template requires a total HQLA figure.\nOSFI’s Pillar 3 Guideline contains principles to provide a firm foundation for achieving high-quality disclosures. The aim is to enable users to better understand and compare an institution’s business and risks. One of these principles states that disclosures should be comprehensive. OSFI believes inclusion of the “No Maturity” column and total HQLA figures provide a comprehensive disclosure of a D-SIB’s funding profile/risk.\nOSFI will ensure alignment of the regulatory reporting and disclosure templates.\nSome respondents suggested the disclosure template be updated to include only those items that:\n  - Are relevant to the NSFR calculation (for example, removal of items greyed out in the template),\n  - Are material in the Canadian context, and\n  - Align with existing financial statement breakdowns.\nOSFI’s objective is to promote transparency through disclosures that are comprehensive, consistent and comparable. The disclosure template is unchanged, as:\n  - Items greyed out still contribute to the comprehensive disclosure of the funding profile of an institution.\n  - Immaterial items may become material in future periods, and are needed for consistency period-over-period.\n  - The disclosure template should provide a meaningful breakdown as it relates to the institution’s funding profile/risk in the context of the NSFR requirement.",
+      "content": [
+        {
+          "type": "table",
+          "caption": "",
+          "rows": [
+            [
+              "Comments from Respondents",
+              "OSFI Response"
+            ],
+            [
+              "Implementation Date"
+            ],
+            [
+              "Some respondents recommended the guideline remain flexible on the implementation date to align the Canadian disclosure of NSFR results with certain peer jurisdictions, including the U.S. and Europe.",
+              "In developing the NSFR disclosure guideline, OSFI considered several options for the implementation date. <a href=\"/node/556\">Net Stable Funding Ratio Disclosure Requirements – Guideline impact analysis statement (2019)</a> As NSFR requirements for Canada begin January 2020, OSFI believes a January 2021 implementation date for disclosure requirements strikes an appropriate balance between the timing of disclosure for Canadian banks and OSFI’s objective of promoting transparency and market discipline. As D-SIBs will be disclosing ahead of certain jurisdictions, the NSFR disclosure guideline provides D-SIBs with an additional year to implement their NSFR reporting frameworks."
+            ],
+            [
+              "Harmonization of Regulatory and Disclosure Reporting Requirements"
+            ],
+            [
+              "Some respondents requested alignment between the NSFR regulatory reporting and disclosure templates. Presently some discrepancies exist, such as: The Pillar 3 template has a “No Maturity” column, and The Pillar 3 template requires a total HQLA figure.",
+              "OSFI’s Pillar 3 Guideline contains principles to provide a firm foundation for achieving high-quality disclosures. The aim is to enable users to better understand and compare an institution’s business and risks. One of these principles states that disclosures should be comprehensive. OSFI believes inclusion of the “No Maturity” column and total HQLA figures provide a comprehensive disclosure of a D-SIB’s funding profile/risk. OSFI will ensure alignment of the regulatory reporting and disclosure templates."
+            ],
+            [
+              "Disclosure Requirements"
+            ],
+            [
+              "Some respondents suggested the disclosure template be updated to include only those items that: Are relevant to the NSFR calculation (for example, removal of items greyed out in the template), Are material in the Canadian context, and Align with existing financial statement breakdowns.",
+              "OSFI’s objective is to promote transparency through disclosures that are comprehensive, consistent and comparable. The disclosure template is unchanged, as: Items greyed out still contribute to the comprehensive disclosure of the funding profile of an institution. Immaterial items may become material in future periods, and are needed for consistency period-over-period. The disclosure template should provide a meaningful breakdown as it relates to the institution’s funding profile/risk in the context of the NSFR requirement."
+            ]
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Some respondents recommended the guideline remain flexible on the implementation date to align the Canadian disclosure of NSFR results with certain peer jurisdictions, including the U.S. and Europe."
+        },
+        {
+          "type": "paragraph",
+          "text": "In developing the NSFR disclosure guideline, OSFI considered several options for the implementation date. <a href=\"/node/556\">Net Stable Funding Ratio Disclosure Requirements – Guideline impact analysis statement (2019)</a> As NSFR requirements for Canada begin January 2020, OSFI believes a January 2021 implementation date for disclosure requirements strikes an appropriate balance between the timing of disclosure for Canadian banks and OSFI’s objective of promoting transparency and market discipline."
+        },
+        {
+          "type": "paragraph",
+          "text": "As D-SIBs will be disclosing ahead of certain jurisdictions, the NSFR disclosure guideline provides D-SIBs with an additional year to implement their NSFR reporting frameworks."
+        },
+        {
+          "type": "paragraph",
+          "text": "Some respondents requested alignment between the NSFR regulatory reporting and disclosure templates. Presently some discrepancies exist, such as:"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "The Pillar 3 template has a “No Maturity” column, and",
+            "The Pillar 3 template requires a total HQLA figure."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "OSFI’s Pillar 3 Guideline contains principles to provide a firm foundation for achieving high-quality disclosures. The aim is to enable users to better understand and compare an institution’s business and risks. One of these principles states that disclosures should be comprehensive. OSFI believes inclusion of the “No Maturity” column and total HQLA figures provide a comprehensive disclosure of a D-SIB’s funding profile/risk."
+        },
+        {
+          "type": "paragraph",
+          "text": "OSFI will ensure alignment of the regulatory reporting and disclosure templates."
+        },
+        {
+          "type": "paragraph",
+          "text": "Some respondents suggested the disclosure template be updated to include only those items that:"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Are relevant to the NSFR calculation (for example, removal of items greyed out in the template),",
+            "Are material in the Canadian context, and",
+            "Align with existing financial statement breakdowns."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "OSFI’s objective is to promote transparency through disclosures that are comprehensive, consistent and comparable. The disclosure template is unchanged, as:"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Items greyed out still contribute to the comprehensive disclosure of the funding profile of an institution.",
+            "Immaterial items may become material in future periods, and are needed for consistency period-over-period.",
+            "The disclosure template should provide a meaningful breakdown as it relates to the institution’s funding profile/risk in the context of the NSFR requirement."
+          ]
+        }
+      ]
+    }
+  ],
+  "title_normalized": "net stable funding ratio disclosure requirements letter 2019",
+  "publication_type_normalized": "letter",
+  "category_normalized": "accounting_and_disclosure",
+  "sector_normalized": [
+    "banks"
+  ],
+  "guideline_number_normalized": "",
+  "applies_to_banks": true,
+  "applies_to_trust_loan": false,
+  "applies_to_life_insurance": false,
+  "applies_to_pc_insurance": false,
+  "applies_to_foreign_bank": false,
+  "applies_to_foreign_insurance": false,
+  "applies_to_cooperative": false,
+  "applies_to_bank_holding": false,
+  "effective_date_sort_key": "2019-04-11",
+  "status_sort_key": 1,
+  "authority_sort_key": 60,
+  "bm25_text": "Net Stable Funding Ratio Disclosure Requirements – Letter (2019) Letter Accounting and Disclosure Banks ANNEX - Summary of Material Comments and OSFI Responses",
+  "vector_text_prefix": "[OSFI Letter  | Accounting and Disclosure | Banks | FINAL_CURRENT | Effective 2019-04-11]",
+  "h1_title": "Net Stable Funding Ratio Disclosure Requirements – Letter (2019)",
+  "regulator": "OSFI",
+  "regulator_acronym": "OSFI",
+  "jurisdiction": "Canada",
+  "short_title": "",
+  "source_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/net-stable-funding-ratio-disclosure-requirements-letter-2019"
+}

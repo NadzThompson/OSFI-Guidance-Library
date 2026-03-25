@@ -1,0 +1,198 @@
+{
+  "source_system": "osfi_guidance_library",
+  "library_row_title": "Liquidity Adequacy Requirements Guideline (2026) - Letter",
+  "library_row_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/liquidity-adequacy-requirements-guideline-2026-letter",
+  "listing_date_raw": "January 29, 2026",
+  "listing_date_iso": "2026-01-29",
+  "listing_publication_type": "Letter",
+  "listing_category": "Capital Adequacy Requirements",
+  "listing_sector": [
+    "Banks",
+    "Trust and Loan Companies"
+  ],
+  "crawl_timestamp": "2026-03-11T00:00:00Z",
+  "detail_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/liquidity-adequacy-requirements-guideline-2026-letter",
+  "canonical_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/liquidity-adequacy-requirements-guideline-2026-letter",
+  "slug": "liquidity-adequacy-requirements-guideline-2026-letter",
+  "title": "Liquidity Adequacy Requirements Guideline (2026) - Letter",
+  "publication_type": "Letter",
+  "category": "Capital Adequacy Requirements",
+  "document_date_raw": "January 29, 2026",
+  "document_date_iso": "2026-01-29",
+  "sector": [
+    "Banks",
+    "Trust and Loan Companies"
+  ],
+  "effective_date_text": "",
+  "guideline_number": "",
+  "date_modified_raw": "2026-01-29T12:00:00Z",
+  "generate_pdf_url": null,
+  "pdf_node_id": null,
+  "direct_pdf_url": null,
+  "has_table_of_contents": true,
+  "toc_entries": [],
+  "has_related_documents": true,
+  "related_document_links_raw": [
+    {
+      "title": "Liquidity Adequacy Requirements - Backgrounder (2026)",
+      "url": "https://www.osfi-bsif.gc.ca/en/news/backgrounder-final-liquidity-adequacy-requirements-guideline-2026"
+    },
+    {
+      "title": "Liquidity Adequacy Requirements - Guideline (2026)",
+      "url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/liquidity-adequacy-requirements-lar-guideline-2026"
+    },
+    {
+      "title": "Summary of stakeholder comments and our responses for the Liquidity Adequacy Req",
+      "url": "https://www.osfi-bsif.gc.ca/en/consultations/consultation-summaries/summary-stakeholder-comments-our-responses-liquidity-adequacy-requirements-guideline-2026"
+    }
+  ],
+  "consultation_status_text": null,
+  "consultation_status_refers_to_version": null,
+  "page_language": "en",
+  "word_count_raw_body": 241,
+  "doc_id": "osfi.liquidity-adequacy-requirements-guideline.2026.transmittal",
+  "doc_family_id": "osfi.liquidity-adequacy-requirements-guideline",
+  "version_id": "2026",
+  "version_label": "Liquidity Adequacy Requirements Guideline (2026) - Letter",
+  "version_sort_key": "2026-01",
+  "parent_doc_id": null,
+  "child_doc_ids": [],
+  "is_package_page": false,
+  "is_chapter_page": false,
+  "chapter_number": null,
+  "chapter_title": null,
+  "document_order_within_family": 0,
+  "supersedes_doc_id": "osfi.liquidity-adequacy-requirements-guideline.2025.transmittal",
+  "superseded_by_doc_id": null,
+  "current_version_flag": true,
+  "status": "final_current",
+  "include_in_primary_corpus": false,
+  "include_in_support_corpus": true,
+  "include_in_context_corpus": false,
+  "effective_date_start": "2026-01-29",
+  "effective_date_end": null,
+  "effective_date_fye_split": false,
+  "effective_date_oct_fye": null,
+  "effective_date_dec_fye": null,
+  "is_future_effective": false,
+  "is_rescinded": false,
+  "is_draft_or_consultation": false,
+  "rescission_date": null,
+  "consultation_closing_date": null,
+  "as_of_applicability": "2026-03-23",
+  "rule_applied": "rule_5_final_current",
+  "authority_class": "official_support",
+  "authority_level": 60,
+  "nova_tier": 2,
+  "prudential_weight": 0.7,
+  "is_primary_normative": false,
+  "is_supporting_interpretive": true,
+  "is_context_only": false,
+  "document_class": "transmittal_letter",
+  "guidance_type_normalized": "letter",
+  "section_headings": [],
+  "heading_path": [
+    "Liquidity Adequacy Requirements Guideline (2026) - Letter"
+  ],
+  "toc_depth": 0,
+  "has_appendices": false,
+  "appendix_ids": [],
+  "has_tables": false,
+  "table_count": 0,
+  "has_footnotes": false,
+  "footnote_count": 0,
+  "inline_cross_references": [],
+  "quoted_external_references": [],
+  "raw_html_sha256": "8431a508a7a78908341199bd5426f7d9d5216c74f22d2d44bbd8caca250bc52c",
+  "raw_pdf_sha256": null,
+  "normalized_text_sha256": null,
+  "raw_html_path": "bronze/osfi/html/final_current/liquidity-adequacy-requirements-guideline-2026-letter.html",
+  "normalized_md_path": "silver/osfi/md/final_current/liquidity-adequacy-requirements-guideline-2026-letter.md",
+  "canonical_json_path": "silver/osfi/json/final_current/liquidity-adequacy-requirements-guideline-2026-letter.json",
+  "content_source": "HTML",
+  "parser_version": "osfi-parser-v2.1.0",
+  "normalizer_version": "osfi-normalizer-v1.4.0",
+  "quality_score": 0.5,
+  "quality_flags": [
+    "thin_body_text"
+  ],
+  "download_timestamp": "2026-03-11T00:00:00Z",
+  "enriched_timestamp": "2026-03-23T09:53:54.653049Z",
+  "sections": [
+    {
+      "heading": "",
+      "heading_level": 2,
+      "full_text": "  - Liquidity Adequacy Requirements - Backgrounder (2026)\n  - Liquidity Adequacy Requirements - Guideline (2026)\n  - Summary of stakeholder comments and our responses for the Liquidity Adequacy Requirements Guideline (2026)\nToday, we are publishing the Liquidity Adequacy Requirements (LAR) 2026 Guideline. This guideline will take effect on May 1, 2026.\nWe appreciate the stakeholder engagement and feedback received during the consultation period.\nWe reflected several revisions in the final guideline in response to stakeholder feedback, including:\n  - greater clarity on which funding products may be treated as retail vs. wholesale, particularly in relation to structured notes and partnership deposits (that is, retail client deposits sourced through non-bank financial intermediaries (NBFIs))\n  - further segmentation of partnership deposits, recognizing attributes such as whether deposits are insured, in a transactional account and part of an established relationship (between retail client and NBFI)\n  - consolidation of retail structured notes into one deposit category, aligning liquidity treatment with term deposits directly managed by an unaffiliated third party\n  - clarification on maturity treatment of structured notes with autocallable features\n  - clarification on contingent funding obligations for structured notes\n  - simplification of retail rate sensitive deposit definition\nPlease refer to the summary of stakeholder comments and our responses , including specific changes to Chapter 2. We also made corresponding changes to Chapters 3 and 4. Where further analysis is warranted, we indicated topics under review for potential future revisions to the guideline.\nQuestions can be sent to BCLSD-DNFPLB@osfi-bsif.gc.ca .",
+      "content": [
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Liquidity Adequacy Requirements - Backgrounder (2026)",
+            "Liquidity Adequacy Requirements - Guideline (2026)",
+            "Summary of stakeholder comments and our responses for the Liquidity Adequacy Requirements Guideline (2026)"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Today, we are publishing the Liquidity Adequacy Requirements (LAR) 2026 Guideline. This guideline will take effect on May 1, 2026."
+        },
+        {
+          "type": "paragraph",
+          "text": "We appreciate the stakeholder engagement and feedback received during the consultation period."
+        },
+        {
+          "type": "paragraph",
+          "text": "We reflected several revisions in the final guideline in response to stakeholder feedback, including:"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "greater clarity on which funding products may be treated as retail vs. wholesale, particularly in relation to structured notes and partnership deposits (that is, retail client deposits sourced through non-bank financial intermediaries (NBFIs))",
+            "further segmentation of partnership deposits, recognizing attributes such as whether deposits are insured, in a transactional account and part of an established relationship (between retail client and NBFI)",
+            "consolidation of retail structured notes into one deposit category, aligning liquidity treatment with term deposits directly managed by an unaffiliated third party",
+            "clarification on maturity treatment of structured notes with autocallable features",
+            "clarification on contingent funding obligations for structured notes",
+            "simplification of retail rate sensitive deposit definition"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Please refer to the summary of stakeholder comments and our responses , including specific changes to Chapter 2. We also made corresponding changes to Chapters 3 and 4. Where further analysis is warranted, we indicated topics under review for potential future revisions to the guideline."
+        },
+        {
+          "type": "paragraph",
+          "text": "Questions can be sent to BCLSD-DNFPLB@osfi-bsif.gc.ca ."
+        }
+      ]
+    }
+  ],
+  "title_normalized": "liquidity adequacy requirements guideline 2026 letter",
+  "publication_type_normalized": "letter",
+  "category_normalized": "capital_adequacy_requirements",
+  "sector_normalized": [
+    "banks",
+    "trust_and_loan_companies"
+  ],
+  "guideline_number_normalized": "",
+  "applies_to_banks": true,
+  "applies_to_trust_loan": true,
+  "applies_to_life_insurance": false,
+  "applies_to_pc_insurance": false,
+  "applies_to_foreign_bank": false,
+  "applies_to_foreign_insurance": false,
+  "applies_to_cooperative": false,
+  "applies_to_bank_holding": false,
+  "effective_date_sort_key": "2026-01-29",
+  "status_sort_key": 1,
+  "authority_sort_key": 60,
+  "bm25_text": "Liquidity Adequacy Requirements Guideline (2026) - Letter Letter Capital Adequacy Requirements Banks Trust and Loan Companies",
+  "vector_text_prefix": "[OSFI Letter  | Capital Adequacy Requirements | Banks / Trust and Loan Companies | FINAL_CURRENT | Effective 2026-01-29]",
+  "h1_title": "Liquidity Adequacy Requirements Guideline (2026) - Letter",
+  "regulator": "OSFI",
+  "regulator_acronym": "OSFI",
+  "jurisdiction": "Canada",
+  "short_title": "",
+  "source_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/liquidity-adequacy-requirements-guideline-2026-letter"
+}

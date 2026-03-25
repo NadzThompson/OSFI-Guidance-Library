@@ -1,0 +1,506 @@
+{
+  "source_system": "osfi_guidance_library",
+  "library_row_title": "Substantial Investments - Appendix A.4",
+  "library_row_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/substantial-investments-appendix-a4",
+  "listing_date_raw": "June 30, 2015",
+  "listing_date_iso": "2015-06-30",
+  "listing_publication_type": "Regulatory and legislative advisory",
+  "listing_category": "Regulatory and legislative",
+  "listing_sector": [
+    "Bank Act",
+    "Cooperative Credit Associations Act",
+    "Insurance Companies Act",
+    "Trust and Loan Companies Act"
+  ],
+  "crawl_timestamp": "2026-03-11T00:00:00Z",
+  "detail_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/substantial-investments-appendix-a4",
+  "canonical_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/substantial-investments-appendix-a4",
+  "slug": "substantial-investments-appendix-a4",
+  "title": "Substantial Investments - Appendix A.4",
+  "publication_type": "Regulatory and legislative advisory",
+  "category": "Regulatory and legislative",
+  "document_date_raw": "June 30, 2015",
+  "document_date_iso": "2015-06-30",
+  "sector": [
+    "Bank Act",
+    "Cooperative Credit Associations Act",
+    "Insurance Companies Act",
+    "Trust and Loan Companies Act"
+  ],
+  "effective_date_text": "",
+  "guideline_number": "",
+  "date_modified_raw": "2015-06-30T12:00:00Z",
+  "generate_pdf_url": "https://www.osfi-bsif.gc.ca/en/print/pdf/node/517",
+  "pdf_node_id": 517,
+  "direct_pdf_url": null,
+  "has_table_of_contents": true,
+  "toc_entries": [],
+  "has_related_documents": false,
+  "related_document_links_raw": [],
+  "consultation_status_text": null,
+  "consultation_status_refers_to_version": null,
+  "page_language": "en",
+  "word_count_raw_body": 2255,
+  "doc_id": "osfi.substantial-investments-appendix-a4.advisory",
+  "doc_family_id": "osfi.substantial-investments-appendix-a4",
+  "version_id": "",
+  "version_label": "Substantial Investments - Appendix A.4",
+  "version_sort_key": "",
+  "parent_doc_id": null,
+  "child_doc_ids": [],
+  "is_package_page": false,
+  "is_chapter_page": false,
+  "chapter_number": null,
+  "chapter_title": null,
+  "document_order_within_family": 0,
+  "supersedes_doc_id": null,
+  "superseded_by_doc_id": null,
+  "current_version_flag": true,
+  "status": "final_current",
+  "include_in_primary_corpus": true,
+  "include_in_support_corpus": false,
+  "include_in_context_corpus": false,
+  "effective_date_start": "2015-06-30",
+  "effective_date_end": null,
+  "effective_date_fye_split": false,
+  "effective_date_oct_fye": null,
+  "effective_date_dec_fye": null,
+  "is_future_effective": false,
+  "is_rescinded": false,
+  "is_draft_or_consultation": false,
+  "rescission_date": null,
+  "consultation_closing_date": null,
+  "as_of_applicability": "2026-03-23",
+  "rule_applied": "rule_5_final_current",
+  "authority_class": "primary_normative",
+  "authority_level": 100,
+  "nova_tier": 1,
+  "prudential_weight": 1.0,
+  "is_primary_normative": true,
+  "is_supporting_interpretive": false,
+  "is_context_only": false,
+  "document_class": "advisory",
+  "guidance_type_normalized": "regulatory_and_legislative_advisory",
+  "section_headings": [
+    {
+      "level": 2,
+      "text": "Appendix A.4 – Fraternal Benefit Societies Permitted Entities",
+      "id": "h2-0"
+    },
+    {
+      "level": 2,
+      "text": "Footnotes",
+      "id": "h2-1"
+    }
+  ],
+  "heading_path": [
+    "Substantial Investments - Appendix A.4"
+  ],
+  "toc_depth": 2,
+  "has_appendices": true,
+  "appendix_ids": [
+    "Appendix A"
+  ],
+  "has_tables": true,
+  "table_count": 1,
+  "has_footnotes": false,
+  "footnote_count": 0,
+  "inline_cross_references": [],
+  "quoted_external_references": [],
+  "raw_html_sha256": "8648c8d9f577549159ef0bddcbc07673c05de8d11d13fca850e4d8734d3bd447",
+  "raw_pdf_sha256": null,
+  "normalized_text_sha256": null,
+  "raw_html_path": "bronze/osfi/html/final_current/substantial-investments-appendix-a4.html",
+  "normalized_md_path": "silver/osfi/md/final_current/substantial-investments-appendix-a4.md",
+  "canonical_json_path": "silver/osfi/json/final_current/substantial-investments-appendix-a4.json",
+  "content_source": "HTML",
+  "parser_version": "osfi-parser-v2.1.0",
+  "normalizer_version": "osfi-normalizer-v1.4.0",
+  "quality_score": 1.0,
+  "quality_flags": [],
+  "download_timestamp": "2026-03-11T00:00:00Z",
+  "enriched_timestamp": "2026-03-23T09:54:00.519734Z",
+  "sections": [
+    {
+      "heading": "Appendix A.4 – Fraternal Benefit Societies Permitted Entities",
+      "heading_level": 2,
+      "full_text": "This document has been prepared for convenience of reference only and has no official sanction. For all purposes of interpreting and applying the law, users should consult the ICA and relevant regulations.\nNotes :\n  1. In this Appendix, ERIRs stands for Exemption from Restrictions on Investments Regulations ; and Society refers to a fraternal benefit society.\n  2. Other abbreviations in this Appendix have the meaning ascribed to them on pages 1 and 2 of the Advisory.\n  3. Unless otherwise stated, references in this Appendix to (a) regulations are to regulations made under the ICA and (b) provisions are to provisions of the ICA.\n  4. Classes of entities 2 to 5 below comprise OEs only (i.e., 554(2) entities only).\n  5. A single OE can fall within more than one OE class listed below, depending on its business activities.\n  6. The control and approval requirements and business restrictions listed below refer to the ones imposed by the ICA’s investment regime.\n  - ERIRs stands for Exemption from Restrictions on Investments Regulations ; and\n  - Society refers to a fraternal benefit society.\nClasses of Entities | Control Requirement? | Approval Requirement? | Business Restrictions?\n1. REs This class comprises entities listed in 554(1). | a. Federally regulated insurance company or society [554(1)(a)] | Control in fact. [554(4)(a)] | Minister’s approval. [554(5)] In the case of a federally regulated insurance company, the Minister’s approval is also required under the ICA’s ownership provisions. | No.\nb. Provincially regulated insurance company [554(1)(b)] | Same as above.\nc. Foreign regulated insurance company Footnote 1 [554(1)(c)] | Control in fact, except where the foreign law does not permit control. [554(4)(a) and (6)]\n2. Financial Agents and Investment Funds | Includes OEs that engage in the following activities: acting as a financial agent (including insurance broker); providing investment counselling services; providing portfolio management services; networking financial services; or acting as a trustee for a mutual fund entity or a closed-end fund. [554(2)(a)] Also includes a: mutual fund distribution entity; mutual fund entity; and closed-end fund; each as defined in 490(1). [554(2)(e)] | No. | Minister’s approval. [554(5)] | A financial agent is subject to the same restrictions as: property and casualty companies in the areas of leasing and residential mortgage lending; [554(3)(a)] Societies in the area of substantial investments activities. [554(3)(d). With respect to substantial investment activities, see also section 1 of the ERIRs where the Society does not control the entity] In addition, a financial agent cannot engage in deposit-taking or in financial intermediary activities that expose the financial agent to material market or credit risk. [554(3)] A financial agent is also subject to the same restrictions as property and casualty companies in the areas of: fiduciary activities, except when acting as a trustee for a mutual fund entity or a closed-end fund; [554(3)(a) and (3.1)] dealing in securities, except where the entity is an entity listed in 554(2)(e). [554(3)(c)]\n3. Investment holding entities This class comprises OEs whose business includes acquiring or holding shares of, or ownership interests in, entities that a Society is permitted to hold or acquire. [554(2)(b)] | Entity that acquires or holds shares of, or ownership interests in, entities that a Society is permitted to acquire or hold under: 542 – less than substantial investments (portfolio investments); 554 – PEs; 552(2) – investments via an RE subsidiary; 557 – temporary investments (only if the Society controls the investment holding entity); 558 – loan workouts; 559 – realization of security interests. | Control in fact, except: where the investment holding entity does not control or hold any share of, or ownership interest in, an RE (class 1 entity), or an entity that is not a PE; or [554(4)(b)(ii)] in the case of a foreign investment holding entity, where the foreign law does not permit control. [554(6)] | Minister’s approval. [554(5)] | An investment holding entity is subject to the same restrictions as: property and casualty companies in the areas of fiduciary, leasing and residential mortgage lending; [554(3)(a)] Societies in the areas of securities dealing and substantial investments activities. [554(3)(c) and (d). With respect to substantial investment activities, see also section 1 of the ERIRs where the Society does not control the entity] In addition, such an entity cannot engage in deposit-taking or financial intermediary activities that expose the entity to material market or credit risk. [554(3)]\n4. Non-financial services entities | a. Entity that engages in information processing activities (i.e., activities referred to in 441(1)(c) and(d)) [554(2)(a)] | No. | Minister’s approval. [554(5)] | A non-financial services entity is subject to the same restrictions as: property and casualty companies in the areas of fiduciary, leasing and residential mortgage lending; [554(3)(a)] Societies in the areas of securities dealing and substantial investments activities. [554(3)(c) and (d). With respect to substantial investment activities, see also section 1 of the ERIRs where the Society does not control the entity] In addition, such an entity cannot engage in deposit-taking or financial intermediary activities that expose the entity to material market or credit risk. [554(3)]\nb. Entity that engages in information technology activities (i.e., activities referred to in 441(1)(d.1)) [554(2)(a)]\nc. Entity that engages in the following activities that a property and casualty company is permitted to engage under 441: managing, holding or dealing with real property; acting as real estate agent; promoting merchandise or services to card holders; selling lottery or urban transit tickets; or acting as custodian of property. [554(2)(a)] | No. | Minister’s approval. [554(5)] | See above.\nd. Entity that provides services to certain entities, so long as it provides those services to the Society or members of the Society’s group, as defined in 540(2). [554(2)(c)]\ne. Entity that engages in activities relating to promotion, sale delivery or distribution of financial services or products provided by certain entities. [554(2)(d)]\n5. Prescribed entities A Society may acquire control of, or acquire or increase a substantial investment in, an entity that engages in prescribed activities. [554(2)(f)] | Prescribed activities are set out in subsection 2(1) of the Information Technology Activities (Canadian Societies) Regulations (collectively, the “IT Activities”). Prescribed activities are also set out in section 4 of the Ancillary Activities Regulations (the “Ancillary Activities”). | Neither the ICA nor the Information Technology Activities (Canadian Societies) Regulations impose control requirements with respect to the IT Activities. Neither the ICA nor the Ancillary Activities Regulations impose control requirements with respect to the Ancillary Activities. | Minister’s approval is required with respect to both the IT Activities and the Ancillary Activities. [554(5)] | In the case of an entity that engages in the IT Activities, the entity: is subject to the same restrictions as property and casualty companies in the areas of fiduciary, leasing and residential mortgage lending; is subject to the same restrictions as Societies in the areas of dealing in goods, securities dealing and substantial investments activities; cannot engage in deposit-taking or financial intermediary activities that expose the entity to material market or credit risk. [subsection 2(3) and section 3 of the Information Technology Activities (Canadian Societies) Regulations] In the case of the Ancillary Activities, no business restrictions except where specified in the Minister’s approval.\n1. REs\nThis class comprises entities listed in 554(1).\nMinister’s approval. [554(5)]\nIn the case of a federally regulated insurance company, the Minister’s approval is also required under the ICA’s ownership provisions.\nControl in fact, except where the foreign law does not permit control. [554(4)(a) and (6)]\nIncludes OEs that engage in the following activities:\n  - acting as a financial agent (including insurance broker);\n  - providing investment counselling services;\n  - providing portfolio management services;\n  - networking financial services; or\n  - acting as a trustee for a mutual fund entity or a closed-end fund.\n[554(2)(a)]\nAlso includes a:\n  - mutual fund distribution entity;\n  - mutual fund entity; and\n  - closed-end fund;\neach as defined in 490(1). [554(2)(e)]\nA financial agent is subject to the same restrictions as:\n  - property and casualty companies in the areas of leasing and residential mortgage lending; [554(3)(a)]\n  - Societies in the area of substantial investments activities. [554(3)(d). With respect to substantial investment activities, see also section 1 of the ERIRs where the Society does not control the entity]\nIn addition, a financial agent cannot engage in deposit-taking or in financial intermediary activities that expose the financial agent to material market or credit risk. [554(3)]\nA financial agent is also subject to the same restrictions as property and casualty companies in the areas of:\n  - fiduciary activities, except when acting as a trustee for a mutual fund entity or a closed-end fund; [554(3)(a) and (3.1)]\n  - dealing in securities, except where the entity is an entity listed in 554(2)(e). [554(3)(c)]\n3. Investment holding entities\nThis class comprises OEs whose business includes acquiring or holding shares of, or ownership interests in, entities that a Society is permitted to hold or acquire. [554(2)(b)]\nEntity that acquires or holds shares of, or ownership interests in, entities that a Society is permitted to acquire or hold under:\n  - 542 – less than substantial investments (portfolio investments);\n  - 554 – PEs;\n  - 552(2) – investments via an RE subsidiary;\n  - 557 – temporary investments (only if the Society controls the investment holding entity);\n  - 558 – loan workouts;\n  - 559 – realization of security interests.\nControl in fact, except:\n  - where the investment holding entity does not control or hold any share of, or ownership interest in, an RE (class 1 entity), or an entity that is not a PE; or [554(4)(b)(ii)]\n  - in the case of a foreign investment holding entity, where the foreign law does not permit control. [554(6)]\n  - an RE (class 1 entity), or\n  - an entity that is not a PE; or [554(4)(b)(ii)]\nAn investment holding entity is subject to the same restrictions as:\n  - property and casualty companies in the areas of fiduciary, leasing and residential mortgage lending; [554(3)(a)]\n  - Societies in the areas of securities dealing and substantial investments activities. [554(3)(c) and (d). With respect to substantial investment activities, see also section 1 of the ERIRs where the Society does not control the entity]\nIn addition, such an entity cannot engage in deposit-taking or financial intermediary activities that expose the entity to material market or credit risk. [554(3)]\nA non-financial services entity is subject to the same restrictions as:\n  - property and casualty companies in the areas of fiduciary, leasing and residential mortgage lending; [554(3)(a)]\n  - Societies in the areas of securities dealing and substantial investments activities. [554(3)(c) and (d). With respect to substantial investment activities, see also section 1 of the ERIRs where the Society does not control the entity]\nIn addition, such an entity cannot engage in deposit-taking or financial intermediary activities that expose the entity to material market or credit risk. [554(3)]\nc. Entity that engages in the following activities that a property and casualty company is permitted to engage under 441:\n  - managing, holding or dealing with real property;\n  - acting as real estate agent;\n  - promoting merchandise or services to card holders;\n  - selling lottery or urban transit tickets; or\n  - acting as custodian of property.\n[554(2)(a)]\n5. Prescribed entities\nA Society may acquire control of, or acquire or increase a substantial investment in, an entity that engages in prescribed activities. [554(2)(f)]\nPrescribed activities are set out in subsection 2(1) of the Information Technology Activities (Canadian Societies) Regulations (collectively, the “IT Activities”).\nPrescribed activities are also set out in section 4 of the Ancillary Activities Regulations (the “Ancillary Activities”).\nNeither the ICA nor the Information Technology Activities (Canadian Societies) Regulations impose control requirements with respect to the IT Activities.\nNeither the ICA nor the Ancillary Activities Regulations impose control requirements with respect to the Ancillary Activities.\nMinister’s approval is required with respect to both the IT Activities and the Ancillary Activities. [554(5)]\nIn the case of an entity that engages in the IT Activities, the entity:\n  - is subject to the same restrictions as property and casualty companies in the areas of fiduciary, leasing and residential mortgage lending;\n  - is subject to the same restrictions as Societies in the areas of dealing in goods, securities dealing and substantial investments activities;\n  - cannot engage in deposit-taking or financial intermediary activities that expose the entity to material market or credit risk.\n[subsection 2(3) and section 3 of the Information Technology Activities (Canadian Societies) Regulations]\nIn the case of the Ancillary Activities, no business restrictions except where specified in the Minister’s approval.\nFootnotes Footnote 1 OSFI is of the view that this class refers to foreign regulated entities that are subject to regulatory regimes that are substantially similar to the ones applicable to equivalent Canadian entities listed in classes 1(a) or (b) above. For example, in order to be a class 1(c) entity, a foreign entity that primarily engages outside Canada in a business that, if carried on in Canada, would be the business of insurance, would have to be regulated in a substantially similar manner as an entity referred to in 554(1)(a) or (b). Return to footnote 1",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "This document has been prepared for convenience of reference only and has no official sanction. For all purposes of interpreting and applying the law, users should consult the ICA and relevant regulations."
+        },
+        {
+          "type": "paragraph",
+          "text": "Notes :"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "In this Appendix, ERIRs stands for Exemption from Restrictions on Investments Regulations ; and Society refers to a fraternal benefit society.",
+            "Other abbreviations in this Appendix have the meaning ascribed to them on pages 1 and 2 of the Advisory.",
+            "Unless otherwise stated, references in this Appendix to (a) regulations are to regulations made under the ICA and (b) provisions are to provisions of the ICA.",
+            "Classes of entities 2 to 5 below comprise OEs only (i.e., 554(2) entities only).",
+            "A single OE can fall within more than one OE class listed below, depending on its business activities.",
+            "The control and approval requirements and business restrictions listed below refer to the ones imposed by the ICA’s investment regime."
+          ]
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "ERIRs stands for Exemption from Restrictions on Investments Regulations ; and",
+            "Society refers to a fraternal benefit society."
+          ]
+        },
+        {
+          "type": "table",
+          "caption": "",
+          "rows": [
+            [
+              "Classes of Entities",
+              "Control Requirement?",
+              "Approval Requirement?",
+              "Business Restrictions?"
+            ],
+            [
+              "1. REs This class comprises entities listed in 554(1).",
+              "a. Federally regulated insurance company or society [554(1)(a)]",
+              "Control in fact. [554(4)(a)]",
+              "Minister’s approval. [554(5)] In the case of a federally regulated insurance company, the Minister’s approval is also required under the ICA’s ownership provisions.",
+              "No."
+            ],
+            [
+              "b. Provincially regulated insurance company [554(1)(b)]",
+              "Same as above."
+            ],
+            [
+              "c. Foreign regulated insurance company Footnote 1 [554(1)(c)]",
+              "Control in fact, except where the foreign law does not permit control. [554(4)(a) and (6)]"
+            ],
+            [
+              "2. Financial Agents and Investment Funds",
+              "Includes OEs that engage in the following activities: acting as a financial agent (including insurance broker); providing investment counselling services; providing portfolio management services; networking financial services; or acting as a trustee for a mutual fund entity or a closed-end fund. [554(2)(a)] Also includes a: mutual fund distribution entity; mutual fund entity; and closed-end fund; each as defined in 490(1). [554(2)(e)]",
+              "No.",
+              "Minister’s approval. [554(5)]",
+              "A financial agent is subject to the same restrictions as: property and casualty companies in the areas of leasing and residential mortgage lending; [554(3)(a)] Societies in the area of substantial investments activities. [554(3)(d). With respect to substantial investment activities, see also section 1 of the ERIRs where the Society does not control the entity] In addition, a financial agent cannot engage in deposit-taking or in financial intermediary activities that expose the financial agent to material market or credit risk. [554(3)] A financial agent is also subject to the same restrictions as property and casualty companies in the areas of: fiduciary activities, except when acting as a trustee for a mutual fund entity or a closed-end fund; [554(3)(a) and (3.1)] dealing in securities, except where the entity is an entity listed in 554(2)(e). [554(3)(c)]"
+            ],
+            [
+              "3. Investment holding entities This class comprises OEs whose business includes acquiring or holding shares of, or ownership interests in, entities that a Society is permitted to hold or acquire. [554(2)(b)]",
+              "Entity that acquires or holds shares of, or ownership interests in, entities that a Society is permitted to acquire or hold under: 542 – less than substantial investments (portfolio investments); 554 – PEs; 552(2) – investments via an RE subsidiary; 557 – temporary investments (only if the Society controls the investment holding entity); 558 – loan workouts; 559 – realization of security interests.",
+              "Control in fact, except: where the investment holding entity does not control or hold any share of, or ownership interest in, an RE (class 1 entity), or an entity that is not a PE; or [554(4)(b)(ii)] in the case of a foreign investment holding entity, where the foreign law does not permit control. [554(6)]",
+              "Minister’s approval. [554(5)]",
+              "An investment holding entity is subject to the same restrictions as: property and casualty companies in the areas of fiduciary, leasing and residential mortgage lending; [554(3)(a)] Societies in the areas of securities dealing and substantial investments activities. [554(3)(c) and (d). With respect to substantial investment activities, see also section 1 of the ERIRs where the Society does not control the entity] In addition, such an entity cannot engage in deposit-taking or financial intermediary activities that expose the entity to material market or credit risk. [554(3)]"
+            ],
+            [
+              "4. Non-financial services entities",
+              "a. Entity that engages in information processing activities (i.e., activities referred to in 441(1)(c) and(d)) [554(2)(a)]",
+              "No.",
+              "Minister’s approval. [554(5)]",
+              "A non-financial services entity is subject to the same restrictions as: property and casualty companies in the areas of fiduciary, leasing and residential mortgage lending; [554(3)(a)] Societies in the areas of securities dealing and substantial investments activities. [554(3)(c) and (d). With respect to substantial investment activities, see also section 1 of the ERIRs where the Society does not control the entity] In addition, such an entity cannot engage in deposit-taking or financial intermediary activities that expose the entity to material market or credit risk. [554(3)]"
+            ],
+            [
+              "b. Entity that engages in information technology activities (i.e., activities referred to in 441(1)(d.1)) [554(2)(a)]"
+            ],
+            [
+              "c. Entity that engages in the following activities that a property and casualty company is permitted to engage under 441: managing, holding or dealing with real property; acting as real estate agent; promoting merchandise or services to card holders; selling lottery or urban transit tickets; or acting as custodian of property. [554(2)(a)]",
+              "No.",
+              "Minister’s approval. [554(5)]",
+              "See above."
+            ],
+            [
+              "d. Entity that provides services to certain entities, so long as it provides those services to the Society or members of the Society’s group, as defined in 540(2). [554(2)(c)]"
+            ],
+            [
+              "e. Entity that engages in activities relating to promotion, sale delivery or distribution of financial services or products provided by certain entities. [554(2)(d)]"
+            ],
+            [
+              "5. Prescribed entities A Society may acquire control of, or acquire or increase a substantial investment in, an entity that engages in prescribed activities. [554(2)(f)]",
+              "Prescribed activities are set out in subsection 2(1) of the Information Technology Activities (Canadian Societies) Regulations (collectively, the “IT Activities”). Prescribed activities are also set out in section 4 of the Ancillary Activities Regulations (the “Ancillary Activities”).",
+              "Neither the ICA nor the Information Technology Activities (Canadian Societies) Regulations impose control requirements with respect to the IT Activities. Neither the ICA nor the Ancillary Activities Regulations impose control requirements with respect to the Ancillary Activities.",
+              "Minister’s approval is required with respect to both the IT Activities and the Ancillary Activities. [554(5)]",
+              "In the case of an entity that engages in the IT Activities, the entity: is subject to the same restrictions as property and casualty companies in the areas of fiduciary, leasing and residential mortgage lending; is subject to the same restrictions as Societies in the areas of dealing in goods, securities dealing and substantial investments activities; cannot engage in deposit-taking or financial intermediary activities that expose the entity to material market or credit risk. [subsection 2(3) and section 3 of the Information Technology Activities (Canadian Societies) Regulations] In the case of the Ancillary Activities, no business restrictions except where specified in the Minister’s approval."
+            ]
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "1. REs"
+        },
+        {
+          "type": "paragraph",
+          "text": "This class comprises entities listed in 554(1)."
+        },
+        {
+          "type": "paragraph",
+          "text": "Minister’s approval. [554(5)]"
+        },
+        {
+          "type": "paragraph",
+          "text": "In the case of a federally regulated insurance company, the Minister’s approval is also required under the ICA’s ownership provisions."
+        },
+        {
+          "type": "paragraph",
+          "text": "Control in fact, except where the foreign law does not permit control. [554(4)(a) and (6)]"
+        },
+        {
+          "type": "paragraph",
+          "text": "Includes OEs that engage in the following activities:"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "acting as a financial agent (including insurance broker);",
+            "providing investment counselling services;",
+            "providing portfolio management services;",
+            "networking financial services; or",
+            "acting as a trustee for a mutual fund entity or a closed-end fund."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "[554(2)(a)]"
+        },
+        {
+          "type": "paragraph",
+          "text": "Also includes a:"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "mutual fund distribution entity;",
+            "mutual fund entity; and",
+            "closed-end fund;"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "each as defined in 490(1). [554(2)(e)]"
+        },
+        {
+          "type": "paragraph",
+          "text": "A financial agent is subject to the same restrictions as:"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "property and casualty companies in the areas of leasing and residential mortgage lending; [554(3)(a)]",
+            "Societies in the area of substantial investments activities. [554(3)(d). With respect to substantial investment activities, see also section 1 of the ERIRs where the Society does not control the entity]"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "In addition, a financial agent cannot engage in deposit-taking or in financial intermediary activities that expose the financial agent to material market or credit risk. [554(3)]"
+        },
+        {
+          "type": "paragraph",
+          "text": "A financial agent is also subject to the same restrictions as property and casualty companies in the areas of:"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "fiduciary activities, except when acting as a trustee for a mutual fund entity or a closed-end fund; [554(3)(a) and (3.1)]",
+            "dealing in securities, except where the entity is an entity listed in 554(2)(e). [554(3)(c)]"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "3. Investment holding entities"
+        },
+        {
+          "type": "paragraph",
+          "text": "This class comprises OEs whose business includes acquiring or holding shares of, or ownership interests in, entities that a Society is permitted to hold or acquire. [554(2)(b)]"
+        },
+        {
+          "type": "paragraph",
+          "text": "Entity that acquires or holds shares of, or ownership interests in, entities that a Society is permitted to acquire or hold under:"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "542 – less than substantial investments (portfolio investments);",
+            "554 – PEs;",
+            "552(2) – investments via an RE subsidiary;",
+            "557 – temporary investments (only if the Society controls the investment holding entity);",
+            "558 – loan workouts;",
+            "559 – realization of security interests."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Control in fact, except:"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "where the investment holding entity does not control or hold any share of, or ownership interest in, an RE (class 1 entity), or an entity that is not a PE; or [554(4)(b)(ii)]",
+            "in the case of a foreign investment holding entity, where the foreign law does not permit control. [554(6)]"
+          ]
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "an RE (class 1 entity), or",
+            "an entity that is not a PE; or [554(4)(b)(ii)]"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "An investment holding entity is subject to the same restrictions as:"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "property and casualty companies in the areas of fiduciary, leasing and residential mortgage lending; [554(3)(a)]",
+            "Societies in the areas of securities dealing and substantial investments activities. [554(3)(c) and (d). With respect to substantial investment activities, see also section 1 of the ERIRs where the Society does not control the entity]"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "In addition, such an entity cannot engage in deposit-taking or financial intermediary activities that expose the entity to material market or credit risk. [554(3)]"
+        },
+        {
+          "type": "paragraph",
+          "text": "A non-financial services entity is subject to the same restrictions as:"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "property and casualty companies in the areas of fiduciary, leasing and residential mortgage lending; [554(3)(a)]",
+            "Societies in the areas of securities dealing and substantial investments activities. [554(3)(c) and (d). With respect to substantial investment activities, see also section 1 of the ERIRs where the Society does not control the entity]"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "In addition, such an entity cannot engage in deposit-taking or financial intermediary activities that expose the entity to material market or credit risk. [554(3)]"
+        },
+        {
+          "type": "paragraph",
+          "text": "c. Entity that engages in the following activities that a property and casualty company is permitted to engage under 441:"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "managing, holding or dealing with real property;",
+            "acting as real estate agent;",
+            "promoting merchandise or services to card holders;",
+            "selling lottery or urban transit tickets; or",
+            "acting as custodian of property."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "[554(2)(a)]"
+        },
+        {
+          "type": "paragraph",
+          "text": "5. Prescribed entities"
+        },
+        {
+          "type": "paragraph",
+          "text": "A Society may acquire control of, or acquire or increase a substantial investment in, an entity that engages in prescribed activities. [554(2)(f)]"
+        },
+        {
+          "type": "paragraph",
+          "text": "Prescribed activities are set out in subsection 2(1) of the Information Technology Activities (Canadian Societies) Regulations (collectively, the “IT Activities”)."
+        },
+        {
+          "type": "paragraph",
+          "text": "Prescribed activities are also set out in section 4 of the Ancillary Activities Regulations (the “Ancillary Activities”)."
+        },
+        {
+          "type": "paragraph",
+          "text": "Neither the ICA nor the Information Technology Activities (Canadian Societies) Regulations impose control requirements with respect to the IT Activities."
+        },
+        {
+          "type": "paragraph",
+          "text": "Neither the ICA nor the Ancillary Activities Regulations impose control requirements with respect to the Ancillary Activities."
+        },
+        {
+          "type": "paragraph",
+          "text": "Minister’s approval is required with respect to both the IT Activities and the Ancillary Activities. [554(5)]"
+        },
+        {
+          "type": "paragraph",
+          "text": "In the case of an entity that engages in the IT Activities, the entity:"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "is subject to the same restrictions as property and casualty companies in the areas of fiduciary, leasing and residential mortgage lending;",
+            "is subject to the same restrictions as Societies in the areas of dealing in goods, securities dealing and substantial investments activities;",
+            "cannot engage in deposit-taking or financial intermediary activities that expose the entity to material market or credit risk."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "[subsection 2(3) and section 3 of the Information Technology Activities (Canadian Societies) Regulations]"
+        },
+        {
+          "type": "paragraph",
+          "text": "In the case of the Ancillary Activities, no business restrictions except where specified in the Minister’s approval."
+        },
+        {
+          "type": "paragraph",
+          "text": "Footnotes Footnote 1 OSFI is of the view that this class refers to foreign regulated entities that are subject to regulatory regimes that are substantially similar to the ones applicable to equivalent Canadian entities listed in classes 1(a) or (b) above. For example, in order to be a class 1(c) entity, a foreign entity that primarily engages outside Canada in a business that, if carried on in Canada, would be the business of insurance, would have to be regulated in a substantially similar manner as an entity referred to in 554(1)(a) or (b). Return to footnote 1"
+        }
+      ]
+    },
+    {
+      "heading": "Footnotes",
+      "heading_level": 2,
+      "full_text": "OSFI is of the view that this class refers to foreign regulated entities that are subject to regulatory regimes that are substantially similar to the ones applicable to equivalent Canadian entities listed in classes 1(a) or (b) above. For example, in order to be a class 1(c) entity, a foreign entity that primarily engages outside Canada in a business that, if carried on in Canada, would be the business of insurance, would have to be regulated in a substantially similar manner as an entity referred to in 554(1)(a) or (b).\nReturn to footnote 1",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "OSFI is of the view that this class refers to foreign regulated entities that are subject to regulatory regimes that are substantially similar to the ones applicable to equivalent Canadian entities listed in classes 1(a) or (b) above. For example, in order to be a class 1(c) entity, a foreign entity that primarily engages outside Canada in a business that, if carried on in Canada, would be the business of insurance, would have to be regulated in a substantially similar manner as an entity referred to in 554(1)(a) or (b)."
+        },
+        {
+          "type": "paragraph",
+          "text": "Return to footnote 1"
+        }
+      ]
+    }
+  ],
+  "title_normalized": "substantial investments appendix a4",
+  "publication_type_normalized": "regulatory_and_legislative_advisory",
+  "category_normalized": "regulatory_and_legislative",
+  "sector_normalized": [
+    "bank_act",
+    "cooperative_credit_associations_act",
+    "insurance_companies_act",
+    "trust_and_loan_companies_act"
+  ],
+  "guideline_number_normalized": "",
+  "applies_to_banks": true,
+  "applies_to_trust_loan": true,
+  "applies_to_life_insurance": false,
+  "applies_to_pc_insurance": false,
+  "applies_to_foreign_bank": false,
+  "applies_to_foreign_insurance": false,
+  "applies_to_cooperative": true,
+  "applies_to_bank_holding": false,
+  "effective_date_sort_key": "2015-06-30",
+  "status_sort_key": 1,
+  "authority_sort_key": 100,
+  "bm25_text": "Substantial Investments - Appendix A.4 Regulatory and legislative advisory Regulatory and legislative Bank Act Cooperative Credit Associations Act Insurance Companies Act Trust and Loan Companies Act Appendix A.4 – Fraternal Benefit Societies Permitted Entities Footnotes",
+  "vector_text_prefix": "[OSFI Regulatory and legislative advisory  | Regulatory and legislative | Bank Act / Cooperative Credit Associations Act / Insurance Companies Act | FINAL_CURRENT | Effective 2015-06-30]",
+  "h1_title": "Substantial Investments - Appendix A.4",
+  "regulator": "OSFI",
+  "regulator_acronym": "OSFI",
+  "jurisdiction": "Canada",
+  "short_title": "",
+  "source_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/substantial-investments-appendix-a4"
+}

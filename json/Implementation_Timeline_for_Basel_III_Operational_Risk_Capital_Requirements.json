@@ -1,0 +1,178 @@
+{
+  "source_system": "osfi_guidance_library",
+  "library_row_title": "Implementation Timeline for Basel III Operational Risk Capital Requirements",
+  "library_row_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/implementation-timeline-basel-iii-operational-risk-capital-requirements",
+  "listing_date_raw": "January 20, 2020",
+  "listing_date_iso": "2020-01-20",
+  "listing_publication_type": "Letter",
+  "listing_category": "",
+  "listing_sector": [
+    "Banks",
+    "Trust and Loan Companies"
+  ],
+  "crawl_timestamp": "2026-03-11T00:00:00Z",
+  "detail_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/implementation-timeline-basel-iii-operational-risk-capital-requirements",
+  "canonical_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/implementation-timeline-basel-iii-operational-risk-capital-requirements",
+  "slug": "implementation-timeline-basel-iii-operational-risk-capital-requirements",
+  "title": "Implementation Timeline for Basel III Operational Risk Capital Requirements",
+  "publication_type": "Letter",
+  "category": "",
+  "document_date_raw": "January 20, 2020",
+  "document_date_iso": "2020-01-20",
+  "sector": [
+    "Banks",
+    "Trust and Loan Companies"
+  ],
+  "effective_date_text": "",
+  "guideline_number": "",
+  "date_modified_raw": "2020-01-20T12:00:00Z",
+  "generate_pdf_url": "https://www.osfi-bsif.gc.ca/en/print/pdf/node/483",
+  "pdf_node_id": 483,
+  "direct_pdf_url": null,
+  "has_table_of_contents": true,
+  "toc_entries": [],
+  "has_related_documents": false,
+  "related_document_links_raw": [],
+  "consultation_status_text": null,
+  "consultation_status_refers_to_version": null,
+  "page_language": "en",
+  "word_count_raw_body": 389,
+  "doc_id": "osfi.implementation-timeline-basel-iii-operational-risk.transmittal",
+  "doc_family_id": "osfi.implementation-timeline-basel-iii-operational-risk",
+  "version_id": "",
+  "version_label": "Implementation Timeline for Basel III Operational Risk Capit",
+  "version_sort_key": "",
+  "parent_doc_id": null,
+  "child_doc_ids": [],
+  "is_package_page": false,
+  "is_chapter_page": false,
+  "chapter_number": null,
+  "chapter_title": null,
+  "document_order_within_family": 0,
+  "supersedes_doc_id": null,
+  "superseded_by_doc_id": null,
+  "current_version_flag": true,
+  "status": "final_current",
+  "include_in_primary_corpus": false,
+  "include_in_support_corpus": true,
+  "include_in_context_corpus": false,
+  "effective_date_start": "2020-01-20",
+  "effective_date_end": null,
+  "effective_date_fye_split": false,
+  "effective_date_oct_fye": null,
+  "effective_date_dec_fye": null,
+  "is_future_effective": false,
+  "is_rescinded": false,
+  "is_draft_or_consultation": false,
+  "rescission_date": null,
+  "consultation_closing_date": null,
+  "as_of_applicability": "2026-03-23",
+  "rule_applied": "rule_5_final_current",
+  "authority_class": "official_support",
+  "authority_level": 60,
+  "nova_tier": 2,
+  "prudential_weight": 0.7,
+  "is_primary_normative": false,
+  "is_supporting_interpretive": true,
+  "is_context_only": false,
+  "document_class": "transmittal_letter",
+  "guidance_type_normalized": "letter",
+  "section_headings": [],
+  "heading_path": [
+    "Implementation Timeline for Basel III Operational Risk Capital Requirements"
+  ],
+  "toc_depth": 0,
+  "has_appendices": false,
+  "appendix_ids": [],
+  "has_tables": false,
+  "table_count": 0,
+  "has_footnotes": false,
+  "footnote_count": 0,
+  "inline_cross_references": [],
+  "quoted_external_references": [
+    "Basel Committee on Banking Supervision (BCBS) in December 2017 <a href=\"https://www"
+  ],
+  "raw_html_sha256": "911c52e3084439d21694bd4fca8aa9acfd9b34f4b2bd2d21bc1034853e5b7efd",
+  "raw_pdf_sha256": null,
+  "normalized_text_sha256": null,
+  "raw_html_path": "bronze/osfi/html/final_current/implementation-timeline-basel-iii-operational-risk-capital-requirements.html",
+  "normalized_md_path": "silver/osfi/md/final_current/implementation-timeline-basel-iii-operational-risk-capital-requirements.md",
+  "canonical_json_path": "silver/osfi/json/final_current/implementation-timeline-basel-iii-operational-risk-capital-requirements.json",
+  "content_source": "HTML",
+  "parser_version": "osfi-parser-v2.1.0",
+  "normalizer_version": "osfi-normalizer-v1.4.0",
+  "quality_score": 0.5,
+  "quality_flags": [
+    "thin_body_text"
+  ],
+  "download_timestamp": "2026-03-11T00:00:00Z",
+  "enriched_timestamp": "2026-03-23T09:53:52.304104Z",
+  "sections": [
+    {
+      "heading": "",
+      "heading_level": 2,
+      "full_text": "To: Banks, Bank Holding Companies, Federally Regulated Trust and Loan Companies\nOSFI is revising its capital requirements for operational risk applicable to deposit-taking institutions (DTIs) to reflect the final Basel III reforms published by the Basel Committee on Banking Supervision (BCBS) in December 2017 <a href=\"https://www.bis.org/bcbs/publ/d424.htm\">Basel III: Finalising the Post-Crisis Reforms</a>, December 2017. . In the July 2018 discussion paper related to the domestic implementation of the final Basel III reforms Implementation of the Final Basel III Reforms in Canada, July 2018 , OSFI proposed implementing the new operational risk capital requirements effective Q1 2021. After further consideration, OSFI has decided that the domestic implementation of the revised Basel III operational risk capital requirements will move from Q1 2021 to Q1 2022 to coincide with the implementation of the final Basel III credit risk and leverage ratio requirements.\nThis re-alignment provides several benefits including additional time to clarify reporting instructions with the objective of ensuring a consistent interpretation of the revised requirements. It also aligns with the expected implementation date of the revised capital and liquidity requirements for small and medium-sized institutions (SMSBs).\nDTIs that previously used the Advanced Measurement Approach (AMA) for operational risk capital purposes should continue to use the Standardized approach AMA models will not be used for operational risk capital reporting under the Basel III framework, therefore these institutions will need to use the Standardized approach on a transitional basis. Please refer to OSFI’s letter on the Use of the Advanced Measurement Approach for Operational Risk Capital posted in July 2019 for more detail. until Q1 2022. Other institutions should also continue to use the approach they are currently using (either Standardized or Basic Indicator) until Q1 2022.\nFurther consultation related to the 2022 domestic implementation of the final Basel III reforms, through OSFI’s Capital Adequacy Requirements (CAR) for operational risk and credit risk, and the Leverage Requirements Guideline, will take place in late spring 2020. This consultation, in addition to OSFI’s recently issued consultative document on SMSB capital and liquidity requirements, will provide more detail on the expected operational risk capital requirements that will apply to DTIs starting in 2022.\nQuestions concerning the transition to OSFI’s revised operational risk capital requirements should be addressed to Neil Colligan in OSFI’s Capital Division by e-mail at neil.colligan@osfi-bsif.gc.ca .\nYours truly,\nBen Gully Assistant Superintendent, Regulation Sector",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "To: Banks, Bank Holding Companies, Federally Regulated Trust and Loan Companies"
+        },
+        {
+          "type": "paragraph",
+          "text": "OSFI is revising its capital requirements for operational risk applicable to deposit-taking institutions (DTIs) to reflect the final Basel III reforms published by the Basel Committee on Banking Supervision (BCBS) in December 2017 <a href=\"https://www.bis.org/bcbs/publ/d424.htm\">Basel III: Finalising the Post-Crisis Reforms</a>, December 2017. . In the July 2018 discussion paper related to the domestic implementation of the final Basel III reforms Implementation of the Final Basel III Reforms in Canada, July 2018 , OSFI proposed implementing the new operational risk capital requirements effective Q1 2021. After further consideration, OSFI has decided that the domestic implementation of the revised Basel III operational risk capital requirements will move from Q1 2021 to Q1 2022 to coincide with the implementation of the final Basel III credit risk and leverage ratio requirements."
+        },
+        {
+          "type": "paragraph",
+          "text": "This re-alignment provides several benefits including additional time to clarify reporting instructions with the objective of ensuring a consistent interpretation of the revised requirements. It also aligns with the expected implementation date of the revised capital and liquidity requirements for small and medium-sized institutions (SMSBs)."
+        },
+        {
+          "type": "paragraph",
+          "text": "DTIs that previously used the Advanced Measurement Approach (AMA) for operational risk capital purposes should continue to use the Standardized approach AMA models will not be used for operational risk capital reporting under the Basel III framework, therefore these institutions will need to use the Standardized approach on a transitional basis. Please refer to OSFI’s letter on the Use of the Advanced Measurement Approach for Operational Risk Capital posted in July 2019 for more detail. until Q1 2022. Other institutions should also continue to use the approach they are currently using (either Standardized or Basic Indicator) until Q1 2022."
+        },
+        {
+          "type": "paragraph",
+          "text": "Further consultation related to the 2022 domestic implementation of the final Basel III reforms, through OSFI’s Capital Adequacy Requirements (CAR) for operational risk and credit risk, and the Leverage Requirements Guideline, will take place in late spring 2020. This consultation, in addition to OSFI’s recently issued consultative document on SMSB capital and liquidity requirements, will provide more detail on the expected operational risk capital requirements that will apply to DTIs starting in 2022."
+        },
+        {
+          "type": "paragraph",
+          "text": "Questions concerning the transition to OSFI’s revised operational risk capital requirements should be addressed to Neil Colligan in OSFI’s Capital Division by e-mail at neil.colligan@osfi-bsif.gc.ca ."
+        },
+        {
+          "type": "paragraph",
+          "text": "Yours truly,"
+        },
+        {
+          "type": "paragraph",
+          "text": "Ben Gully Assistant Superintendent, Regulation Sector"
+        }
+      ]
+    }
+  ],
+  "title_normalized": "implementation timeline for basel iii operational risk capital requirements",
+  "publication_type_normalized": "letter",
+  "category_normalized": "",
+  "sector_normalized": [
+    "banks",
+    "trust_and_loan_companies"
+  ],
+  "guideline_number_normalized": "",
+  "applies_to_banks": true,
+  "applies_to_trust_loan": true,
+  "applies_to_life_insurance": false,
+  "applies_to_pc_insurance": false,
+  "applies_to_foreign_bank": false,
+  "applies_to_foreign_insurance": false,
+  "applies_to_cooperative": false,
+  "applies_to_bank_holding": false,
+  "effective_date_sort_key": "2020-01-20",
+  "status_sort_key": 1,
+  "authority_sort_key": 60,
+  "bm25_text": "Implementation Timeline for Basel III Operational Risk Capital Requirements Letter Banks Trust and Loan Companies",
+  "vector_text_prefix": "[OSFI Letter  |  | Banks / Trust and Loan Companies | FINAL_CURRENT | Effective 2020-01-20]",
+  "h1_title": "Implementation Timeline for Basel III Operational Risk Capital Requirements",
+  "regulator": "OSFI",
+  "regulator_acronym": "OSFI",
+  "jurisdiction": "Canada",
+  "short_title": "",
+  "source_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/implementation-timeline-basel-iii-operational-risk-capital-requirements"
+}

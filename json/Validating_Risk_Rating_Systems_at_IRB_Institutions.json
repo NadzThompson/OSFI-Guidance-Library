@@ -1,0 +1,747 @@
+{
+  "source_system": "osfi_guidance_library",
+  "library_row_title": "Validating Risk Rating Systems at IRB Institutions",
+  "library_row_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/validating-risk-rating-systems-irb-institutions",
+  "listing_date_raw": "January 31, 2006",
+  "listing_date_iso": "2006-01-31",
+  "listing_publication_type": "Implementation note",
+  "listing_category": "Capital Adequacy Requirements",
+  "listing_sector": [
+    "Banks",
+    "Trust and Loan Companies",
+    "Bank Holding Companies"
+  ],
+  "crawl_timestamp": "2026-03-11T00:00:00Z",
+  "detail_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/validating-risk-rating-systems-irb-institutions",
+  "canonical_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/validating-risk-rating-systems-irb-institutions",
+  "slug": "validating-risk-rating-systems-irb-institutions",
+  "title": "Validating Risk Rating Systems at IRB Institutions",
+  "publication_type": "Implementation note",
+  "category": "Capital Adequacy Requirements",
+  "document_date_raw": "January 31, 2006",
+  "document_date_iso": "2006-01-31",
+  "sector": [
+    "Banks",
+    "Trust and Loan Companies",
+    "Bank Holding Companies"
+  ],
+  "effective_date_text": "",
+  "guideline_number": "",
+  "date_modified_raw": "2006-01-31T12:00:00Z",
+  "generate_pdf_url": "https://www.osfi-bsif.gc.ca/en/print/pdf/node/464",
+  "pdf_node_id": 464,
+  "direct_pdf_url": null,
+  "has_table_of_contents": true,
+  "toc_entries": [],
+  "has_related_documents": false,
+  "related_document_links_raw": [],
+  "consultation_status_text": null,
+  "consultation_status_refers_to_version": null,
+  "page_language": "en",
+  "word_count_raw_body": 4538,
+  "doc_id": "osfi.validating-risk-rating-systems-irb-institutions.implementation",
+  "doc_family_id": "osfi.validating-risk-rating-systems-irb-institutions",
+  "version_id": "",
+  "version_label": "Validating Risk Rating Systems at IRB Institutions",
+  "version_sort_key": "",
+  "parent_doc_id": null,
+  "child_doc_ids": [],
+  "is_package_page": false,
+  "is_chapter_page": false,
+  "chapter_number": null,
+  "chapter_title": null,
+  "document_order_within_family": 0,
+  "supersedes_doc_id": null,
+  "superseded_by_doc_id": null,
+  "current_version_flag": true,
+  "status": "final_current",
+  "include_in_primary_corpus": true,
+  "include_in_support_corpus": false,
+  "include_in_context_corpus": false,
+  "effective_date_start": "2006-01-31",
+  "effective_date_end": null,
+  "effective_date_fye_split": false,
+  "effective_date_oct_fye": null,
+  "effective_date_dec_fye": null,
+  "is_future_effective": false,
+  "is_rescinded": false,
+  "is_draft_or_consultation": false,
+  "rescission_date": null,
+  "consultation_closing_date": null,
+  "as_of_applicability": "2026-03-23",
+  "rule_applied": "rule_5_final_current",
+  "authority_class": "primary_normative",
+  "authority_level": 90,
+  "nova_tier": 1,
+  "prudential_weight": 1.0,
+  "is_primary_normative": true,
+  "is_supporting_interpretive": false,
+  "is_context_only": false,
+  "document_class": "implementation_note",
+  "guidance_type_normalized": "implementation_note",
+  "section_headings": [
+    {
+      "level": 2,
+      "text": "I. Introduction",
+      "id": "h2-0"
+    },
+    {
+      "level": 2,
+      "text": "II. Background",
+      "id": "h2-1"
+    },
+    {
+      "level": 2,
+      "text": "III. Principles",
+      "id": "h2-2"
+    },
+    {
+      "level": 3,
+      "text": "1. Purpose",
+      "id": "h3-3"
+    },
+    {
+      "level": 3,
+      "text": "2. Responsibility",
+      "id": "h3-4"
+    },
+    {
+      "level": 3,
+      "text": "3. Integrity",
+      "id": "h3-5"
+    },
+    {
+      "level": 3,
+      "text": "4. Documentation",
+      "id": "h3-6"
+    },
+    {
+      "level": 3,
+      "text": "5. Timing",
+      "id": "h3-7"
+    },
+    {
+      "level": 3,
+      "text": "6. Scope",
+      "id": "h3-8"
+    },
+    {
+      "level": 3,
+      "text": "7. Response",
+      "id": "h3-9"
+    },
+    {
+      "level": 3,
+      "text": "8. Perspective",
+      "id": "h3-10"
+    },
+    {
+      "level": 2,
+      "text": "IV. Conclusion",
+      "id": "h2-11"
+    },
+    {
+      "level": 2,
+      "text": "Appendix I: Use of Scoring Models for which Institutions have Incomplete Information",
+      "id": "h2-12"
+    },
+    {
+      "level": 2,
+      "text": "Appendix II: History of Major Changes",
+      "id": "h2-13"
+    },
+    {
+      "level": 2,
+      "text": "Appendix III: Procedures Generally Required in a Validation",
+      "id": "h2-14"
+    },
+    {
+      "level": 2,
+      "text": "Appendix IV: External Data and Retail Validation",
+      "id": "h2-15"
+    },
+    {
+      "level": 2,
+      "text": "Footnotes",
+      "id": "h2-16"
+    }
+  ],
+  "heading_path": [
+    "Validating Risk Rating Systems at IRB Institutions"
+  ],
+  "toc_depth": 3,
+  "has_appendices": true,
+  "appendix_ids": [
+    "Appendix I",
+    "Appendix II",
+    "Appendix III",
+    "Appendix IV"
+  ],
+  "has_tables": false,
+  "table_count": 0,
+  "has_footnotes": false,
+  "footnote_count": 0,
+  "inline_cross_references": [
+    "Guideline A-1"
+  ],
+  "quoted_external_references": [],
+  "raw_html_sha256": "358f44f43fe8c5fd9f342c0d808962fb4e1791e6b3a3d1d939c1baf2f3005a94",
+  "raw_pdf_sha256": null,
+  "normalized_text_sha256": null,
+  "raw_html_path": "bronze/osfi/html/final_current/validating-risk-rating-systems-irb-institutions.html",
+  "normalized_md_path": "silver/osfi/md/final_current/validating-risk-rating-systems-irb-institutions.md",
+  "canonical_json_path": "silver/osfi/json/final_current/validating-risk-rating-systems-irb-institutions.json",
+  "content_source": "HTML",
+  "parser_version": "osfi-parser-v2.1.0",
+  "normalizer_version": "osfi-normalizer-v1.4.0",
+  "quality_score": 1.0,
+  "quality_flags": [],
+  "download_timestamp": "2026-03-11T00:00:00Z",
+  "enriched_timestamp": "2026-03-23T09:54:01.350305Z",
+  "sections": [
+    {
+      "heading": "I. Introduction",
+      "heading_level": 2,
+      "full_text": "The term “rating system” comprises all of the methods, processes, controls, data collection and IT systems that support the assessment of credit risk, the assignment of risk ratings, and the quantification of default and loss estimates.\nThis Implementation Note elaborates on Section 5.8.8 of Chapter 5 of OSFI’s Capital Adequacy Requirements (CAR) Guideline A-1. An institution’s Footnote 1 degree of adherence to these principles, both initially and on an ongoing basis, will be a key consideration in OSFI’s decision whether to approve the use of the internal ratings-based (IRB) methodology to establish minimum regulatory capital under CAR. The principles apply to all rating systems under the IRB method.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "The term “rating system” comprises all of the methods, processes, controls, data collection and IT systems that support the assessment of credit risk, the assignment of risk ratings, and the quantification of default and loss estimates."
+        },
+        {
+          "type": "paragraph",
+          "text": "This Implementation Note elaborates on Section 5.8.8 of Chapter 5 of OSFI’s Capital Adequacy Requirements (CAR) Guideline A-1. An institution’s Footnote 1 degree of adherence to these principles, both initially and on an ongoing basis, will be a key consideration in OSFI’s decision whether to approve the use of the internal ratings-based (IRB) methodology to establish minimum regulatory capital under CAR. The principles apply to all rating systems under the IRB method."
+        }
+      ]
+    },
+    {
+      "heading": "II. Background",
+      "heading_level": 2,
+      "full_text": "Institutions use various rating methodologies and credit risk modelling approaches to differentiate credit quality, and to quantify default likelihood and loss severity. However, a rating system that has not been validated is not suitable for IRB standards. Under CAR, ratings will drive minimum capital requirements for credit risk for institutions that are qualified to use the IRB method. Institutions will need to demonstrate the validity of rating systems as one of the minimum standards they must meet in order to obtain OSFI’s approval to use the IRB method. Institutions’ adherence to the broad principles outlined in this implementation note will be an important consideration in OSFI’s initial approval of institutions for IRB and ongoing use of the IRB approach.\nInstitutions may look to CAR for specific standards applicable to IRB. However, these standards are subject to interpretation, and institution implementation is subject to OSFI approval. This Implementation Note sets out the principles that OSFI expects institutions to apply to validation, including discussion and general examples. They are provided with the understanding that the application of these principles will be tempered with good judgment. This does not negate the principles, but may limit their application to avoid undue costs or perverse results. Institutions may encounter situations in which the suggested procedures have negligible impact or do not help validation. In such cases, the institutions may consider other procedures. Documentation is essential for process review, validation, other aspects of good governance, and future risk quantification, but only to levels of detail that could plausibly be useful. Lists of what \"might\" be done are not exhaustive and are not meant to discourage institutions from proposing better approaches to validation.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Institutions use various rating methodologies and credit risk modelling approaches to differentiate credit quality, and to quantify default likelihood and loss severity. However, a rating system that has not been validated is not suitable for IRB standards. Under CAR, ratings will drive minimum capital requirements for credit risk for institutions that are qualified to use the IRB method. Institutions will need to demonstrate the validity of rating systems as one of the minimum standards they must meet in order to obtain OSFI’s approval to use the IRB method. Institutions’ adherence to the broad principles outlined in this implementation note will be an important consideration in OSFI’s initial approval of institutions for IRB and ongoing use of the IRB approach."
+        },
+        {
+          "type": "paragraph",
+          "text": "Institutions may look to CAR for specific standards applicable to IRB. However, these standards are subject to interpretation, and institution implementation is subject to OSFI approval. This Implementation Note sets out the principles that OSFI expects institutions to apply to validation, including discussion and general examples. They are provided with the understanding that the application of these principles will be tempered with good judgment. This does not negate the principles, but may limit their application to avoid undue costs or perverse results. Institutions may encounter situations in which the suggested procedures have negligible impact or do not help validation. In such cases, the institutions may consider other procedures. Documentation is essential for process review, validation, other aspects of good governance, and future risk quantification, but only to levels of detail that could plausibly be useful. Lists of what \"might\" be done are not exhaustive and are not meant to discourage institutions from proposing better approaches to validation."
+        }
+      ]
+    },
+    {
+      "heading": "III. Principles",
+      "heading_level": 2,
+      "full_text": "Institutions will use different methods to validate their rating systems according to their history and current portfolio. To do this, all institutions need to establish an effective validation framework that observes principles of purpose, responsibility, independence, documentation, continuity, scope, response, and perspective. OSFI’s supervisory processes to approve and monitor the ongoing use of the IRB method for the calculation of regulatory capital under CAR will include a review of adherence to the principles outlined below.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Institutions will use different methods to validate their rating systems according to their history and current portfolio. To do this, all institutions need to establish an effective validation framework that observes principles of purpose, responsibility, independence, documentation, continuity, scope, response, and perspective. OSFI’s supervisory processes to approve and monitor the ongoing use of the IRB method for the calculation of regulatory capital under CAR will include a review of adherence to the principles outlined below."
+        }
+      ]
+    },
+    {
+      "heading": "1. Purpose",
+      "heading_level": 3,
+      "full_text": "Validation confirms that rating systems:\n  - Identify factors to help discriminate risk;\n  - Appropriately quantify measures of risk;\n  - Produce measures of risk that have a response to macroeconomic conditions consistent with an institution’s intentions, and that meet the standards of CAR for the calculation of IRB capital.\nInstitutions should have robust systems Footnote 2 to validate the consistency and accuracy of rating systems, including rating assignment processes and the quantification of all relevant risk parameters. Validation should confirm that assigned risk ratings and risk measures Footnote 3 react to changes in the credit environment in a manner consistent with a ratings philosophy formally adopted by the institution Footnote 4 . Consequently, an institution’s expectation of the performance of its rating systems should be consistent with its ratings philosophy.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Validation confirms that rating systems:"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Identify factors to help discriminate risk;",
+            "Appropriately quantify measures of risk;",
+            "Produce measures of risk that have a response to macroeconomic conditions consistent with an institution’s intentions, and that meet the standards of CAR for the calculation of IRB capital."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Institutions should have robust systems Footnote 2 to validate the consistency and accuracy of rating systems, including rating assignment processes and the quantification of all relevant risk parameters. Validation should confirm that assigned risk ratings and risk measures Footnote 3 react to changes in the credit environment in a manner consistent with a ratings philosophy formally adopted by the institution Footnote 4 . Consequently, an institution’s expectation of the performance of its rating systems should be consistent with its ratings philosophy."
+        }
+      ]
+    },
+    {
+      "heading": "2. Responsibility",
+      "heading_level": 3,
+      "full_text": "Institutions validate the performance of their rating systems.\nInstitutions should designate specific groups to be responsible for the design and performance of the validation process, including the outputs. As rating systems are integral to the management of credit risk, economic capital and other vital matters, CAR specifically requires that an institution’s Board of Directors (or a designated committee thereof) and Senior Management understand the operation of the rating system and have a detailed comprehension of its associated management reports. This understanding should include the validation process. Under CAR, Senior Management is also required to ensure that the rating system continues to operate properly. This would include verification that validations are timely and effective, and that the rating system is suitably adjusted to the findings of validation studies. (See Appendix I on the use of scoring models for which institutions have incomplete information.)",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Institutions validate the performance of their rating systems."
+        },
+        {
+          "type": "paragraph",
+          "text": "Institutions should designate specific groups to be responsible for the design and performance of the validation process, including the outputs. As rating systems are integral to the management of credit risk, economic capital and other vital matters, CAR specifically requires that an institution’s Board of Directors (or a designated committee thereof) and Senior Management understand the operation of the rating system and have a detailed comprehension of its associated management reports. This understanding should include the validation process. Under CAR, Senior Management is also required to ensure that the rating system continues to operate properly. This would include verification that validations are timely and effective, and that the rating system is suitably adjusted to the findings of validation studies. (See Appendix I on the use of scoring models for which institutions have incomplete information.)"
+        }
+      ]
+    },
+    {
+      "heading": "3. Integrity",
+      "heading_level": 3,
+      "full_text": "The validation process should be independent of the design, operation and consequences of the rating system.\nThe goal of the validation process is to deliver an effective challenge to the design and operation of the rating system. IRB institutions should therefore demonstrate that the validation process for ratings systems is independent from the personnel and management functions responsible for originating exposures. Those who validate should have the knowledge, resources, accountability and independence to effectively challenge risk rating design, operation and risk quantification.\nOverall responsibility for independent review of an institution’s validation processes lies with Internal Audit, which provides a link to the Board of Directors. While internal auditors may be able to review processes and controls related to validation, they may lack the technical expertise to review highly quantitative elements of validation. In such cases, the review of validation processes and outcomes should be conducted by other groups within the institution’s organization that are independent of those groups responsible for designing, operating and validating institution rating systems.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "The validation process should be independent of the design, operation and consequences of the rating system."
+        },
+        {
+          "type": "paragraph",
+          "text": "The goal of the validation process is to deliver an effective challenge to the design and operation of the rating system. IRB institutions should therefore demonstrate that the validation process for ratings systems is independent from the personnel and management functions responsible for originating exposures. Those who validate should have the knowledge, resources, accountability and independence to effectively challenge risk rating design, operation and risk quantification."
+        },
+        {
+          "type": "paragraph",
+          "text": "Overall responsibility for independent review of an institution’s validation processes lies with Internal Audit, which provides a link to the Board of Directors. While internal auditors may be able to review processes and controls related to validation, they may lack the technical expertise to review highly quantitative elements of validation. In such cases, the review of validation processes and outcomes should be conducted by other groups within the institution’s organization that are independent of those groups responsible for designing, operating and validating institution rating systems."
+        }
+      ]
+    },
+    {
+      "heading": "4. Documentation",
+      "heading_level": 3,
+      "full_text": "Institutions should document their validation of rating systems to ensure that parties reviewing the material can understand the objectives of the rating systems, the scope and methodology of validation, and the conclusions drawn from validation activities.\nIn order to approve the use of parameters drawn from a rating system to drive regulatory capital under the IRB method, OSFI and the institution need clear and comprehensive documentation in order to understand the design of the rating system and the validation of the system. Part of the documentation will be a record of major changes to the risk rating system, as illustrated in Appendix II.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Institutions should document their validation of rating systems to ensure that parties reviewing the material can understand the objectives of the rating systems, the scope and methodology of validation, and the conclusions drawn from validation activities."
+        },
+        {
+          "type": "paragraph",
+          "text": "In order to approve the use of parameters drawn from a rating system to drive regulatory capital under the IRB method, OSFI and the institution need clear and comprehensive documentation in order to understand the design of the rating system and the validation of the system. Part of the documentation will be a record of major changes to the risk rating system, as illustrated in Appendix II."
+        }
+      ]
+    },
+    {
+      "heading": "5. Timing",
+      "heading_level": 3,
+      "full_text": "Institutions should establish regular processes to validate their rating systems, but validation should also respond to special events or circumstances.\nAs noted above in Principle 3: Integrity, a process is required to show that rating systems and the risk parameters they generate remain valid, and policy should establish a schedule for formal reviews of validation, which should be performed at least once a year. More frequent reviews may be required depending on emerging results, availability of data, changes to validation procedures, and plausible impact on the institution. Institution policy should establish a minimum frequency for the comparison of experience to expectations.\nA material change in products, or their distribution, should prompt special analysis to ensure that performance remains adequate. A major change in the rating system itself should also prompt special analysis to ensure that performance remains adequate.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Institutions should establish regular processes to validate their rating systems, but validation should also respond to special events or circumstances."
+        },
+        {
+          "type": "paragraph",
+          "text": "As noted above in Principle 3: Integrity, a process is required to show that rating systems and the risk parameters they generate remain valid, and policy should establish a schedule for formal reviews of validation, which should be performed at least once a year. More frequent reviews may be required depending on emerging results, availability of data, changes to validation procedures, and plausible impact on the institution. Institution policy should establish a minimum frequency for the comparison of experience to expectations."
+        },
+        {
+          "type": "paragraph",
+          "text": "A material change in products, or their distribution, should prompt special analysis to ensure that performance remains adequate. A major change in the rating system itself should also prompt special analysis to ensure that performance remains adequate."
+        }
+      ]
+    },
+    {
+      "heading": "6. Scope",
+      "heading_level": 3,
+      "full_text": "Institutions should consider all data and issues that may be material and relevant to the validation of their rating systems.\nInstitutions may be unable to provide conclusive proof that their rating systems are valid by applying statistical tests, owing to data scarcity and the shortcomings of the tests themselves. Nonetheless, institutions should use whatever statistical tools can assess the likelihood of emerging results, supposing various hypotheses, to inform assessments of the performance of systems and the accuracy of estimates. They should also examine related data from internal and external sources to establish a context for assumptions, calculations and results.\nGenerally institutions will arrive at a decision to revise their rating systems after reviewing them from many angles and seeing too many results that are unlikely under the assumed model. Institutions may also decide to revise their rating systems after concluding that this would improve their ability to discriminate risk. No combination of tests will prove conclusively that a rating system is valid, but institutions may construct a mosaic of evidence that provides reasonable confidence to the institution’s Senior Management and regulators.\nInstitutions should examine a variety of issues, including:\n  - the relevance, completeness, consistency and adequacy of inputs;\n  - the assumptions embedded in the rating systems;\n  - the ability of the rating system to predict future outcomes for the business to which it is applied over a range of conditions;\n  - the consistency between the theoretical models and implemented applications; and\n  - the appropriate and intended use of the rating system.\nTo address these issues, institutions will generally need to perform many procedures. A discussion of some possible validation procedures is included in Appendix III. Institutions should consider the application of these procedures to their own portfolios. In some cases, institutions will need to use other techniques. More elaboration on retail validation is included in Appendix IV.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Institutions should consider all data and issues that may be material and relevant to the validation of their rating systems."
+        },
+        {
+          "type": "paragraph",
+          "text": "Institutions may be unable to provide conclusive proof that their rating systems are valid by applying statistical tests, owing to data scarcity and the shortcomings of the tests themselves. Nonetheless, institutions should use whatever statistical tools can assess the likelihood of emerging results, supposing various hypotheses, to inform assessments of the performance of systems and the accuracy of estimates. They should also examine related data from internal and external sources to establish a context for assumptions, calculations and results."
+        },
+        {
+          "type": "paragraph",
+          "text": "Generally institutions will arrive at a decision to revise their rating systems after reviewing them from many angles and seeing too many results that are unlikely under the assumed model. Institutions may also decide to revise their rating systems after concluding that this would improve their ability to discriminate risk. No combination of tests will prove conclusively that a rating system is valid, but institutions may construct a mosaic of evidence that provides reasonable confidence to the institution’s Senior Management and regulators."
+        },
+        {
+          "type": "paragraph",
+          "text": "Institutions should examine a variety of issues, including:"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "the relevance, completeness, consistency and adequacy of inputs;",
+            "the assumptions embedded in the rating systems;",
+            "the ability of the rating system to predict future outcomes for the business to which it is applied over a range of conditions;",
+            "the consistency between the theoretical models and implemented applications; and",
+            "the appropriate and intended use of the rating system."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "To address these issues, institutions will generally need to perform many procedures. A discussion of some possible validation procedures is included in Appendix III. Institutions should consider the application of these procedures to their own portfolios. In some cases, institutions will need to use other techniques. More elaboration on retail validation is included in Appendix IV."
+        }
+      ]
+    },
+    {
+      "heading": "7. Response",
+      "heading_level": 3,
+      "full_text": "Institutions should adjust their ratings systems to take account of reasonable conclusions drawn from validation activities. In particular, they should identify and respond to deviations of experience from expectations that call into question the validity of their rating systems.\nInstitutions should develop and follow a formal policy to compare realized rates with estimated PDs (LGDs, EADs or other measures) for each obligor grade. They should demonstrate that the realized default rates are within the expected range for the relevant grade, taking into consideration current conditions and the sensitivity to current conditions consistent with the embedded rating philosophy. Comparisons should also be performed for aggregations of grades. Institutions should prepare, in advance, criteria to identify outcomes that may be inconsistent with the rating model or the estimates used in risk management. Appropriate adjustments should be made when these results occur. Institutions should compare experience against expectations according to an established schedule. Outputs from a validation, including recommendations from the validation function of the institution, should play an important role in the use and development of the rating system.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Institutions should adjust their ratings systems to take account of reasonable conclusions drawn from validation activities. In particular, they should identify and respond to deviations of experience from expectations that call into question the validity of their rating systems."
+        },
+        {
+          "type": "paragraph",
+          "text": "Institutions should develop and follow a formal policy to compare realized rates with estimated PDs (LGDs, EADs or other measures) for each obligor grade. They should demonstrate that the realized default rates are within the expected range for the relevant grade, taking into consideration current conditions and the sensitivity to current conditions consistent with the embedded rating philosophy. Comparisons should also be performed for aggregations of grades. Institutions should prepare, in advance, criteria to identify outcomes that may be inconsistent with the rating model or the estimates used in risk management. Appropriate adjustments should be made when these results occur. Institutions should compare experience against expectations according to an established schedule. Outputs from a validation, including recommendations from the validation function of the institution, should play an important role in the use and development of the rating system."
+        }
+      ]
+    },
+    {
+      "heading": "8. Perspective",
+      "heading_level": 3,
+      "full_text": "Institutions should validate the overall performance, as well as the details, of their rating systems.\nAs noted above in Principle 6: Scope, validation assessments are required for all material and relevant rating system elements. However, estimates of details are never exact, and cumulative errors across a number of components may seriously flaw aggregate results. Consequently, institutions should validate at different levels of granularity, as well as validating the overall performance of each rating system, to confirm that aggregate results are reasonable.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Institutions should validate the overall performance, as well as the details, of their rating systems."
+        },
+        {
+          "type": "paragraph",
+          "text": "As noted above in Principle 6: Scope, validation assessments are required for all material and relevant rating system elements. However, estimates of details are never exact, and cumulative errors across a number of components may seriously flaw aggregate results. Consequently, institutions should validate at different levels of granularity, as well as validating the overall performance of each rating system, to confirm that aggregate results are reasonable."
+        }
+      ]
+    },
+    {
+      "heading": "IV. Conclusion",
+      "heading_level": 2,
+      "full_text": "The validation of a rating system requires a continuing commitment of resources. The use of these resources will be most effective if the process is carefully planned, with due attention to ratings philosophy, governance and data integrity along with more technical issues of statistical inference. Once the validation is completed and documented, the outputs of the rating system will obtain credibility and applicability and acceptance in the institution’s risk management systems.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "The validation of a rating system requires a continuing commitment of resources. The use of these resources will be most effective if the process is carefully planned, with due attention to ratings philosophy, governance and data integrity along with more technical issues of statistical inference. Once the validation is completed and documented, the outputs of the rating system will obtain credibility and applicability and acceptance in the institution’s risk management systems."
+        }
+      ]
+    },
+    {
+      "heading": "Appendix I: Use of Scoring Models for which Institutions have Incomplete Information",
+      "heading_level": 2,
+      "full_text": "Institutions are required to segment risks into homogeneous pools for the calculation of PD. For this segmentation, some institutions would like to use credit scores Footnote 5 developed by external vendors to distinguish high risks from low risks. The developer may use data from other institutions . To protect the confidence of contributing institutions and their customers, developers may not share the full development dataset. Users of the scores may look at summary statistics or extracts from the development file, but the cost of doing this is material. Whether or not the institution can see full details of the dataset, the developer may consider the logic underlying a score as valuable intellectual property, and will not share the details with institutions.\nParagraphs 418 - 420 of CAR require documentation of design, rating criteria, and inputs to a system. Compliance with these requirements may be difficult when data collection is in the hands of a third party and details of the model generating scores are considered proprietary information. However, institutions may not ignore these requirements. Paragraph 421 states that the fact that a model uses proprietary technology from a third party vendor does not exempt an institution from standards for rating systems or documentation.\nThe use of a credit score for retail segmentation is similar to the use of expert judgement in corporate underwriting, mapping to external rating systems, and using external benchmarks.\nThese are expressly permitted or required by CAR, even though it is unlikely that institutions will be able to document all the processes behind an expert's judgment, the decisions of an external rating system, or the development of an external benchmark. Similarly, institutions may use credit scores to segment retail risks into homogeneous pools to develop IRB parameters, even without seeing all the development data, and without knowing the precise details of the scoring formula.\nA model may use an input if it works reliably under all anticipated conditions. Although comforting, knowing the details of how an input was produced is neither sufficient nor absolutely necessary. For example, an input to structural models of credit risk is stock price, determined by thousands of individual investor decisions that may never be known, much less understood.\nThe use of credit scores to segment retail risks into homogeneous pools for the estimation of IRB PD depends on the empirical observation that the scores and PD are highly correlated. Scores are developed to predict the risk of default. Given the similarity of the definitions, one would not expect them to be independent. However, institutions should confirm the high degree of correlation.\nInstitutions are unlikely to want to use credits scores in the management of their retail accounts without having confidence in the integrity of the scores’ development and their continuing accuracy in predicting the odds of an account going bad. It is in the interest of developers to provide assurance to institutions.\nIn summary, institutions may use credit scores to segment risks for IRB estimation without having complete information about the underlying data or model. However, the institution should obtain information and perform analysis to ensure that the scores are relevant to the risks and are properly used. Normally this would include:\n  1. From the developer: An exposition of the general methodology for developing scores, e.g., a specific type of neural network, logistic or probit. An understanding of the data available for modeling. A statement of the purpose of the model, its intended output, and the conditions under which it is expected to work. Historical performance of scoring models that the developer has built using this methodology. A statistical profile of the development population. An explanation of the developer's process to monitor and change the model when necessary. Contractual undertakings to report the performance of the model and the statistical characteristics of the population against which its performance is measured. Contractual undertakings to report any changes to the model.\n  2. To assure the validity of the behaviour score as a relevant basis for segmentation, the institution should: Review industry and academic literature to understand the strengths and weaknesses of the methodology used to develop the score. Review the statistical profile of the development population. Regularly recalibrate the score to the institution’s own customers, and confirm that the score accurately predicts the odds of going \"bad\" (or whatever event the score is designed to predict). Periodically calculate the correlation of the score to the probability of default as defined in CAR. Track the relation of the score to CAR definition of PD, through time. Test the power of the score to discriminate the risk of default.\n  1. An exposition of the general methodology for developing scores, e.g., a specific type of neural network, logistic or probit.\n  2. An understanding of the data available for modeling.\n  3. A statement of the purpose of the model, its intended output, and the conditions under which it is expected to work.\n  4. Historical performance of scoring models that the developer has built using this methodology.\n  5. A statistical profile of the development population.\n  6. An explanation of the developer's process to monitor and change the model when necessary.\n  7. Contractual undertakings to report the performance of the model and the statistical characteristics of the population against which its performance is measured.\n  8. Contractual undertakings to report any changes to the model.\n  1. Review industry and academic literature to understand the strengths and weaknesses of the methodology used to develop the score.\n  2. Review the statistical profile of the development population.\n  3. Regularly recalibrate the score to the institution’s own customers, and confirm that the score accurately predicts the odds of going \"bad\" (or whatever event the score is designed to predict).\n  4. Periodically calculate the correlation of the score to the probability of default as defined in CAR.\n  5. Track the relation of the score to CAR definition of PD, through time.\n  6. Test the power of the score to discriminate the risk of default.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Institutions are required to segment risks into homogeneous pools for the calculation of PD. For this segmentation, some institutions would like to use credit scores Footnote 5 developed by external vendors to distinguish high risks from low risks. The developer may use data from other institutions . To protect the confidence of contributing institutions and their customers, developers may not share the full development dataset. Users of the scores may look at summary statistics or extracts from the development file, but the cost of doing this is material. Whether or not the institution can see full details of the dataset, the developer may consider the logic underlying a score as valuable intellectual property, and will not share the details with institutions."
+        },
+        {
+          "type": "paragraph",
+          "text": "Paragraphs 418 - 420 of CAR require documentation of design, rating criteria, and inputs to a system. Compliance with these requirements may be difficult when data collection is in the hands of a third party and details of the model generating scores are considered proprietary information. However, institutions may not ignore these requirements. Paragraph 421 states that the fact that a model uses proprietary technology from a third party vendor does not exempt an institution from standards for rating systems or documentation."
+        },
+        {
+          "type": "paragraph",
+          "text": "The use of a credit score for retail segmentation is similar to the use of expert judgement in corporate underwriting, mapping to external rating systems, and using external benchmarks."
+        },
+        {
+          "type": "paragraph",
+          "text": "These are expressly permitted or required by CAR, even though it is unlikely that institutions will be able to document all the processes behind an expert's judgment, the decisions of an external rating system, or the development of an external benchmark. Similarly, institutions may use credit scores to segment retail risks into homogeneous pools to develop IRB parameters, even without seeing all the development data, and without knowing the precise details of the scoring formula."
+        },
+        {
+          "type": "paragraph",
+          "text": "A model may use an input if it works reliably under all anticipated conditions. Although comforting, knowing the details of how an input was produced is neither sufficient nor absolutely necessary. For example, an input to structural models of credit risk is stock price, determined by thousands of individual investor decisions that may never be known, much less understood."
+        },
+        {
+          "type": "paragraph",
+          "text": "The use of credit scores to segment retail risks into homogeneous pools for the estimation of IRB PD depends on the empirical observation that the scores and PD are highly correlated. Scores are developed to predict the risk of default. Given the similarity of the definitions, one would not expect them to be independent. However, institutions should confirm the high degree of correlation."
+        },
+        {
+          "type": "paragraph",
+          "text": "Institutions are unlikely to want to use credits scores in the management of their retail accounts without having confidence in the integrity of the scores’ development and their continuing accuracy in predicting the odds of an account going bad. It is in the interest of developers to provide assurance to institutions."
+        },
+        {
+          "type": "paragraph",
+          "text": "In summary, institutions may use credit scores to segment risks for IRB estimation without having complete information about the underlying data or model. However, the institution should obtain information and perform analysis to ensure that the scores are relevant to the risks and are properly used. Normally this would include:"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "From the developer: An exposition of the general methodology for developing scores, e.g., a specific type of neural network, logistic or probit. An understanding of the data available for modeling. A statement of the purpose of the model, its intended output, and the conditions under which it is expected to work. Historical performance of scoring models that the developer has built using this methodology. A statistical profile of the development population. An explanation of the developer's process to monitor and change the model when necessary. Contractual undertakings to report the performance of the model and the statistical characteristics of the population against which its performance is measured. Contractual undertakings to report any changes to the model.",
+            "To assure the validity of the behaviour score as a relevant basis for segmentation, the institution should: Review industry and academic literature to understand the strengths and weaknesses of the methodology used to develop the score. Review the statistical profile of the development population. Regularly recalibrate the score to the institution’s own customers, and confirm that the score accurately predicts the odds of going \"bad\" (or whatever event the score is designed to predict). Periodically calculate the correlation of the score to the probability of default as defined in CAR. Track the relation of the score to CAR definition of PD, through time. Test the power of the score to discriminate the risk of default."
+          ]
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "An exposition of the general methodology for developing scores, e.g., a specific type of neural network, logistic or probit.",
+            "An understanding of the data available for modeling.",
+            "A statement of the purpose of the model, its intended output, and the conditions under which it is expected to work.",
+            "Historical performance of scoring models that the developer has built using this methodology.",
+            "A statistical profile of the development population.",
+            "An explanation of the developer's process to monitor and change the model when necessary.",
+            "Contractual undertakings to report the performance of the model and the statistical characteristics of the population against which its performance is measured.",
+            "Contractual undertakings to report any changes to the model."
+          ]
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "Review industry and academic literature to understand the strengths and weaknesses of the methodology used to develop the score.",
+            "Review the statistical profile of the development population.",
+            "Regularly recalibrate the score to the institution’s own customers, and confirm that the score accurately predicts the odds of going \"bad\" (or whatever event the score is designed to predict).",
+            "Periodically calculate the correlation of the score to the probability of default as defined in CAR.",
+            "Track the relation of the score to CAR definition of PD, through time.",
+            "Test the power of the score to discriminate the risk of default."
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "Appendix II: History of Major Changes",
+      "heading_level": 2,
+      "full_text": "An institution should document a history of major changes in the risk rating process, and such documentation should support identification of changes made to the risk rating process subsequent to the last supervisory review (CAR, paragraph 418). Further, under Principle 5: Timing of this Implementation Note, and under the principles included in OSFI’s Implementation Note, Risk Quantification at IRB Institutions , institutions should track events and conditions that are likely to affect risk characteristics of their portfolios.\nInstitutions are expected to use this history as a tool to perform the following:\n  - identify the need to change rating systems for adjusting estimates;\n  - decide whether data remain relevant for estimating future outcomes for various exposures;\n  - adjust parameters as the characteristics of the exposures to which they are applied change; and\n  - interpret comparisons of observed outcomes against predictions.\nInstitutions should use their best judgment in deciding what changes, events and conditions should be tracked; however, the following data could be useful for tracking purposes:\n  - Date of change\n  - Portfolio affected\n  - Size of portfolio affected\n  - Expected effect on PD, LGD, EAD\n  - Type of change or event\n  - Institution induced Distribution method\n  - Adjudication New rating criteria New cut off score New behaviour score\n  - Management of accounts Reporting Covenant policy Collateral requirements\n  - Environmental New competing products or method of distribution Changes in employment, housing prices, etc.\n  - Distribution method\n  - New rating criteria\n  - New cut off score\n  - New behaviour score\n  - Reporting\n  - Covenant policy\n  - Collateral requirements\n  - New competing products or method of distribution\n  - Changes in employment, housing prices, etc.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "An institution should document a history of major changes in the risk rating process, and such documentation should support identification of changes made to the risk rating process subsequent to the last supervisory review (CAR, paragraph 418). Further, under Principle 5: Timing of this Implementation Note, and under the principles included in OSFI’s Implementation Note, Risk Quantification at IRB Institutions , institutions should track events and conditions that are likely to affect risk characteristics of their portfolios."
+        },
+        {
+          "type": "paragraph",
+          "text": "Institutions are expected to use this history as a tool to perform the following:"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "identify the need to change rating systems for adjusting estimates;",
+            "decide whether data remain relevant for estimating future outcomes for various exposures;",
+            "adjust parameters as the characteristics of the exposures to which they are applied change; and",
+            "interpret comparisons of observed outcomes against predictions."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Institutions should use their best judgment in deciding what changes, events and conditions should be tracked; however, the following data could be useful for tracking purposes:"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Date of change",
+            "Portfolio affected",
+            "Size of portfolio affected",
+            "Expected effect on PD, LGD, EAD",
+            "Type of change or event",
+            "Institution induced Distribution method",
+            "Adjudication New rating criteria New cut off score New behaviour score",
+            "Management of accounts Reporting Covenant policy Collateral requirements",
+            "Environmental New competing products or method of distribution Changes in employment, housing prices, etc."
+          ]
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Distribution method"
+          ]
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "New rating criteria",
+            "New cut off score",
+            "New behaviour score"
+          ]
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Reporting",
+            "Covenant policy",
+            "Collateral requirements"
+          ]
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "New competing products or method of distribution",
+            "Changes in employment, housing prices, etc."
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "Appendix III: Procedures Generally Required in a Validation",
+      "heading_level": 2,
+      "full_text": "This Appendix includes a list of potential validation procedures. Institutions should consider the application (and relevance) of this list to their own portfolios and may need to add or amend procedures according to their internal validation requirements. Some of the under-noted activities may also be performed in the independent review of rating performance as described in Paragraph 443 of CAR. This list is provisional and may not be adequate for all institutions. It is the institution’s responsibility to validate, and this may require other procedures.\nVerification that the rating assignment and risk quantification processes can be replicated following documented procedures and policies.\nThis should include a review of the implied ‘rating philosophy’.\nSee OSFI’s Implementation Note, Data Maintenance at IRB Institutions .\nThe validation should assess the discriminative power of the rating system and the reasonableness of the estimates of PDs and LGDs using prevailing tests. Institutions should also assess whether their ratings philosophies have been successfully and consistently implemented. For this, an analysis of regularly updated rating transition matrices may be of assistance.\nA validation should analyse the sensitivity of model outputs to model assumptions and to model inputs.\nA validation should identify possible events or future changes in economic conditions and assess the effect of these scenarios on rating assignment and risk quantification.\nA validation should regularly compare model outputs against subsequent real world events and the rating system’s actual, realised performance.\nPlease see OSFI’s Implementation Note, The Use of Ratings and Estimates of Default and Loss at IRB Institutions .\nThe relevance of external data used and its consistency with internal data should be investigated and fully documented. Often, this will require a comparison of the definitions of default and loss. Institutions should attempt to reconcile internal and relevant external estimates of risk parameters covering comparable risks. In some circumstances, a formal benchmarking to external public rating systems will help confirm internal ratings and PDs. If internal data is limited, institutions should consider using estimates that incorporate some external results.\nInstitutions should develop and implement a policy regarding how overrides and other exceptional business are fed back into the ongoing validation framework. All exceptions to the standard model or processing should be identified, documented and reported to those responsible for the design and performance of validations.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "This Appendix includes a list of potential validation procedures. Institutions should consider the application (and relevance) of this list to their own portfolios and may need to add or amend procedures according to their internal validation requirements. Some of the under-noted activities may also be performed in the independent review of rating performance as described in Paragraph 443 of CAR. This list is provisional and may not be adequate for all institutions. It is the institution’s responsibility to validate, and this may require other procedures."
+        },
+        {
+          "type": "paragraph",
+          "text": "Verification that the rating assignment and risk quantification processes can be replicated following documented procedures and policies."
+        },
+        {
+          "type": "paragraph",
+          "text": "This should include a review of the implied ‘rating philosophy’."
+        },
+        {
+          "type": "paragraph",
+          "text": "See OSFI’s Implementation Note, Data Maintenance at IRB Institutions ."
+        },
+        {
+          "type": "paragraph",
+          "text": "The validation should assess the discriminative power of the rating system and the reasonableness of the estimates of PDs and LGDs using prevailing tests. Institutions should also assess whether their ratings philosophies have been successfully and consistently implemented. For this, an analysis of regularly updated rating transition matrices may be of assistance."
+        },
+        {
+          "type": "paragraph",
+          "text": "A validation should analyse the sensitivity of model outputs to model assumptions and to model inputs."
+        },
+        {
+          "type": "paragraph",
+          "text": "A validation should identify possible events or future changes in economic conditions and assess the effect of these scenarios on rating assignment and risk quantification."
+        },
+        {
+          "type": "paragraph",
+          "text": "A validation should regularly compare model outputs against subsequent real world events and the rating system’s actual, realised performance."
+        },
+        {
+          "type": "paragraph",
+          "text": "Please see OSFI’s Implementation Note, The Use of Ratings and Estimates of Default and Loss at IRB Institutions ."
+        },
+        {
+          "type": "paragraph",
+          "text": "The relevance of external data used and its consistency with internal data should be investigated and fully documented. Often, this will require a comparison of the definitions of default and loss. Institutions should attempt to reconcile internal and relevant external estimates of risk parameters covering comparable risks. In some circumstances, a formal benchmarking to external public rating systems will help confirm internal ratings and PDs. If internal data is limited, institutions should consider using estimates that incorporate some external results."
+        },
+        {
+          "type": "paragraph",
+          "text": "Institutions should develop and implement a policy regarding how overrides and other exceptional business are fed back into the ongoing validation framework. All exceptions to the standard model or processing should be identified, documented and reported to those responsible for the design and performance of validations."
+        }
+      ]
+    },
+    {
+      "heading": "Appendix IV: External Data and Retail Validation",
+      "heading_level": 2,
+      "full_text": "CAR calls on institutions’ validation procedures to incorporate all relevant, material and available data, information and methods. These principles of validation call on institutions to use data from internal and external sources. Appendix III: Procedures Generally Required in a Validation, calls on institutions to review external data.\nInstitutions recognize the need to refer to external data in the quantification and validation of ratings and estimates for corporate portfolios, because, on their own, corporate portfolios generally have too few exposures and losses for credible estimates of PD, LGD and EAD. The need to look at external data is not as obvious for the validation of retail portfolios, which usually generate ample data.\nAlthough the sampling error in their internal data will be small, retail institutions may need to look outside their institution (for example, consider macroeconomic data) in their validation of IRB estimates. A review of events and results outside the institution may be useful for:\n  1. Establishing the position of the dataset used to estimate parameters in the economic cycle. The retail market and the management of retail accounts evolve rapidly. It is therefore difficult for an institution to distinguish the fluctuation of loss events that arise from changing market conditions or account management from the effects of the economic cycle. A review of the experience of other providers of retail credit may inform the institution’s assessment of the relative impact of management and economic factors and the calibration of estimates to achieve a long-term average. Although the external data may not be directly comparable to the product in question, the changes from year to year may inform the institution about macroeconomic events that do not depend on product. Securitisations may provide information about credit card experience. Performance metrics from The Bank of Canada, Statistics Canada, and the Canadian Bankers Association also provide useful information about retail credit performance. Although this data will include the exposures of other institutions with different marketing strategies, the observed fluctuations in aggregate results will likely reflect very general drivers.\n  2. Interpreting discrepancies between an institution’s long-term averages and results observed in particular years Observed losses that come close to expected losses calculated from IRB estimates do not confirm the accuracy of the IRB estimates as long-term averages if all other credit institutions report lighter losses than usual. The results from peers may suggest that the current conditions are favourable, and that long-term losses should be well above current results. Similarly, losses that exceed what is predicted by IRB estimates do not show that the IRB estimates are inadequate if all credit institutions report unusually heavy losses.\n  3. Anticipating the effects of changes in the marketplace Changes in the marketplace will affect the amount and quality of business acquired by individual institutions. Institutions may see signs of these changes from a review of internal evidence, but they will have better knowledge of these changes from a survey of industry practices, tabulations of market share, and other external data. Changes in the marketplace may suggest adjustments to estimates based on aging data.\nEstablishing the position of the dataset used to estimate parameters in the economic cycle.\nThe retail market and the management of retail accounts evolve rapidly. It is therefore difficult for an institution to distinguish the fluctuation of loss events that arise from changing market conditions or account management from the effects of the economic cycle. A review of the experience of other providers of retail credit may inform the institution’s assessment of the relative impact of management and economic factors and the calibration of estimates to achieve a long-term average. Although the external data may not be directly comparable to the product in question, the changes from year to year may inform the institution about macroeconomic events that do not depend on product. Securitisations may provide information about credit card experience. Performance metrics from The Bank of Canada, Statistics Canada, and the Canadian Bankers Association also provide useful information about retail credit performance. Although this data will include the exposures of other institutions with different marketing strategies, the observed fluctuations in aggregate results will likely reflect very general drivers.\nInterpreting discrepancies between an institution’s long-term averages and results observed in particular years\nObserved losses that come close to expected losses calculated from IRB estimates do not confirm the accuracy of the IRB estimates as long-term averages if all other credit institutions report lighter losses than usual. The results from peers may suggest that the current conditions are favourable, and that long-term losses should be well above current results. Similarly, losses that exceed what is predicted by IRB estimates do not show that the IRB estimates are inadequate if all credit institutions report unusually heavy losses.\nAnticipating the effects of changes in the marketplace\nChanges in the marketplace will affect the amount and quality of business acquired by individual institutions. Institutions may see signs of these changes from a review of internal evidence, but they will have better knowledge of these changes from a survey of industry practices, tabulations of market share, and other external data. Changes in the marketplace may suggest adjustments to estimates based on aging data.\nFootnotes Footnote 1 Banks and bank holding companies to which the Bank Act applies and federally regulated trust or loan companies to which the Trust and Loan Companies Act applies are collectively referred to as “institutions”. Return to footnote 1 referrer Footnote 2 ‘System’ is defined as the combination of people, processes and technology. Return to footnote 2 referrer Footnote 3 Risk measures refer to probability of default (“PD”), loss given default (“LGD”) and exposure at default (“EAD”). Return to footnote 3 referrer Footnote 4 For example, a PD conditional on macroeconomic conditions should rise as business conditions deteriorate, while an unconditional PD should remain reasonably stable. Return to footnote 4 referrer Footnote 5 Credit scores are often called behaviour or acquisition scores depending on the time of their use and the information available to develop them. Return to footnote 5 referrer",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "CAR calls on institutions’ validation procedures to incorporate all relevant, material and available data, information and methods. These principles of validation call on institutions to use data from internal and external sources. Appendix III: Procedures Generally Required in a Validation, calls on institutions to review external data."
+        },
+        {
+          "type": "paragraph",
+          "text": "Institutions recognize the need to refer to external data in the quantification and validation of ratings and estimates for corporate portfolios, because, on their own, corporate portfolios generally have too few exposures and losses for credible estimates of PD, LGD and EAD. The need to look at external data is not as obvious for the validation of retail portfolios, which usually generate ample data."
+        },
+        {
+          "type": "paragraph",
+          "text": "Although the sampling error in their internal data will be small, retail institutions may need to look outside their institution (for example, consider macroeconomic data) in their validation of IRB estimates. A review of events and results outside the institution may be useful for:"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "Establishing the position of the dataset used to estimate parameters in the economic cycle. The retail market and the management of retail accounts evolve rapidly. It is therefore difficult for an institution to distinguish the fluctuation of loss events that arise from changing market conditions or account management from the effects of the economic cycle. A review of the experience of other providers of retail credit may inform the institution’s assessment of the relative impact of management and economic factors and the calibration of estimates to achieve a long-term average. Although the external data may not be directly comparable to the product in question, the changes from year to year may inform the institution about macroeconomic events that do not depend on product. Securitisations may provide information about credit card experience. Performance metrics from The Bank of Canada, Statistics Canada, and the Canadian Bankers Association also provide useful information about retail credit performance. Although this data will include the exposures of other institutions with different marketing strategies, the observed fluctuations in aggregate results will likely reflect very general drivers.",
+            "Interpreting discrepancies between an institution’s long-term averages and results observed in particular years Observed losses that come close to expected losses calculated from IRB estimates do not confirm the accuracy of the IRB estimates as long-term averages if all other credit institutions report lighter losses than usual. The results from peers may suggest that the current conditions are favourable, and that long-term losses should be well above current results. Similarly, losses that exceed what is predicted by IRB estimates do not show that the IRB estimates are inadequate if all credit institutions report unusually heavy losses.",
+            "Anticipating the effects of changes in the marketplace Changes in the marketplace will affect the amount and quality of business acquired by individual institutions. Institutions may see signs of these changes from a review of internal evidence, but they will have better knowledge of these changes from a survey of industry practices, tabulations of market share, and other external data. Changes in the marketplace may suggest adjustments to estimates based on aging data."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Establishing the position of the dataset used to estimate parameters in the economic cycle."
+        },
+        {
+          "type": "paragraph",
+          "text": "The retail market and the management of retail accounts evolve rapidly. It is therefore difficult for an institution to distinguish the fluctuation of loss events that arise from changing market conditions or account management from the effects of the economic cycle. A review of the experience of other providers of retail credit may inform the institution’s assessment of the relative impact of management and economic factors and the calibration of estimates to achieve a long-term average. Although the external data may not be directly comparable to the product in question, the changes from year to year may inform the institution about macroeconomic events that do not depend on product. Securitisations may provide information about credit card experience. Performance metrics from The Bank of Canada, Statistics Canada, and the Canadian Bankers Association also provide useful information about retail credit performance. Although this data will include the exposures of other institutions with different marketing strategies, the observed fluctuations in aggregate results will likely reflect very general drivers."
+        },
+        {
+          "type": "paragraph",
+          "text": "Interpreting discrepancies between an institution’s long-term averages and results observed in particular years"
+        },
+        {
+          "type": "paragraph",
+          "text": "Observed losses that come close to expected losses calculated from IRB estimates do not confirm the accuracy of the IRB estimates as long-term averages if all other credit institutions report lighter losses than usual. The results from peers may suggest that the current conditions are favourable, and that long-term losses should be well above current results. Similarly, losses that exceed what is predicted by IRB estimates do not show that the IRB estimates are inadequate if all credit institutions report unusually heavy losses."
+        },
+        {
+          "type": "paragraph",
+          "text": "Anticipating the effects of changes in the marketplace"
+        },
+        {
+          "type": "paragraph",
+          "text": "Changes in the marketplace will affect the amount and quality of business acquired by individual institutions. Institutions may see signs of these changes from a review of internal evidence, but they will have better knowledge of these changes from a survey of industry practices, tabulations of market share, and other external data. Changes in the marketplace may suggest adjustments to estimates based on aging data."
+        },
+        {
+          "type": "paragraph",
+          "text": "Footnotes Footnote 1 Banks and bank holding companies to which the Bank Act applies and federally regulated trust or loan companies to which the Trust and Loan Companies Act applies are collectively referred to as “institutions”. Return to footnote 1 referrer Footnote 2 ‘System’ is defined as the combination of people, processes and technology. Return to footnote 2 referrer Footnote 3 Risk measures refer to probability of default (“PD”), loss given default (“LGD”) and exposure at default (“EAD”). Return to footnote 3 referrer Footnote 4 For example, a PD conditional on macroeconomic conditions should rise as business conditions deteriorate, while an unconditional PD should remain reasonably stable. Return to footnote 4 referrer Footnote 5 Credit scores are often called behaviour or acquisition scores depending on the time of their use and the information available to develop them. Return to footnote 5 referrer"
+        }
+      ]
+    },
+    {
+      "heading": "Footnotes",
+      "heading_level": 2,
+      "full_text": "Banks and bank holding companies to which the Bank Act applies and federally regulated trust or loan companies to which the Trust and Loan Companies Act applies are collectively referred to as “institutions”.\nReturn to footnote 1 referrer\n‘System’ is defined as the combination of people, processes and technology.\nReturn to footnote 2 referrer\nRisk measures refer to probability of default (“PD”), loss given default (“LGD”) and exposure at default (“EAD”).\nReturn to footnote 3 referrer\nFor example, a PD conditional on macroeconomic conditions should rise as business conditions deteriorate, while an unconditional PD should remain reasonably stable.\nReturn to footnote 4 referrer\nCredit scores are often called behaviour or acquisition scores depending on the time of their use and the information available to develop them.\nReturn to footnote 5 referrer",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Banks and bank holding companies to which the Bank Act applies and federally regulated trust or loan companies to which the Trust and Loan Companies Act applies are collectively referred to as “institutions”."
+        },
+        {
+          "type": "paragraph",
+          "text": "Return to footnote 1 referrer"
+        },
+        {
+          "type": "paragraph",
+          "text": "‘System’ is defined as the combination of people, processes and technology."
+        },
+        {
+          "type": "paragraph",
+          "text": "Return to footnote 2 referrer"
+        },
+        {
+          "type": "paragraph",
+          "text": "Risk measures refer to probability of default (“PD”), loss given default (“LGD”) and exposure at default (“EAD”)."
+        },
+        {
+          "type": "paragraph",
+          "text": "Return to footnote 3 referrer"
+        },
+        {
+          "type": "paragraph",
+          "text": "For example, a PD conditional on macroeconomic conditions should rise as business conditions deteriorate, while an unconditional PD should remain reasonably stable."
+        },
+        {
+          "type": "paragraph",
+          "text": "Return to footnote 4 referrer"
+        },
+        {
+          "type": "paragraph",
+          "text": "Credit scores are often called behaviour or acquisition scores depending on the time of their use and the information available to develop them."
+        },
+        {
+          "type": "paragraph",
+          "text": "Return to footnote 5 referrer"
+        }
+      ]
+    }
+  ],
+  "title_normalized": "validating risk rating systems at irb institutions",
+  "publication_type_normalized": "implementation_note",
+  "category_normalized": "capital_adequacy_requirements",
+  "sector_normalized": [
+    "banks",
+    "trust_and_loan_companies",
+    "bank_holding_companies"
+  ],
+  "guideline_number_normalized": "",
+  "applies_to_banks": true,
+  "applies_to_trust_loan": true,
+  "applies_to_life_insurance": false,
+  "applies_to_pc_insurance": false,
+  "applies_to_foreign_bank": false,
+  "applies_to_foreign_insurance": false,
+  "applies_to_cooperative": false,
+  "applies_to_bank_holding": true,
+  "effective_date_sort_key": "2006-01-31",
+  "status_sort_key": 1,
+  "authority_sort_key": 90,
+  "bm25_text": "Validating Risk Rating Systems at IRB Institutions Implementation note Capital Adequacy Requirements Banks Trust and Loan Companies Bank Holding Companies I. Introduction II. Background III. Principles 1. Purpose 2. Responsibility 3. Integrity 4. Documentation 5. Timing 6. Scope 7. Response 8. Perspective IV. Conclusion Appendix I: Use of Scoring Models for which Institutions have Incomplete Information Appendix II: History of Major Changes Appendix III: Procedures Generally Required in a Validation Appendix IV: External Data and Retail Validation Footnotes",
+  "vector_text_prefix": "[OSFI Implementation note  | Capital Adequacy Requirements | Banks / Trust and Loan Companies / Bank Holding Companies | FINAL_CURRENT | Effective 2006-01-31]",
+  "h1_title": "Validating Risk Rating Systems at IRB Institutions",
+  "regulator": "OSFI",
+  "regulator_acronym": "OSFI",
+  "jurisdiction": "Canada",
+  "short_title": "",
+  "source_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/validating-risk-rating-systems-irb-institutions"
+}

@@ -1,0 +1,230 @@
+{
+  "source_system": "osfi_guidance_library",
+  "library_row_title": "Technology and cyber risk management self-assessment tool",
+  "library_row_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/technology-cyber-risk-management/technology-cyber-risk-management-self-assessment-tool",
+  "listing_date_raw": "November 3, 2025",
+  "listing_date_iso": "2025-11-03",
+  "listing_publication_type": "Assessment tool",
+  "listing_category": "Sound Business and Financial Practices",
+  "listing_sector": [
+    "Banks",
+    "Foreign Bank Branches",
+    "Foreign Insurance Branches",
+    "Life Insurance and Fraternal Companies",
+    "Property and Casualty Companies",
+    "Trust and Loan Companies"
+  ],
+  "crawl_timestamp": "2026-03-11T00:00:00Z",
+  "detail_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/technology-cyber-risk-management/technology-cyber-risk-management-self-assessment-tool",
+  "canonical_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/technology-cyber-risk-management/technology-cyber-risk-management-self-assessment-tool",
+  "slug": "technology-cyber-risk-management-self-assessment-tool",
+  "title": "Technology and cyber risk management self-assessment tool",
+  "publication_type": "Assessment tool",
+  "category": "Sound Business and Financial Practices",
+  "document_date_raw": "November 3, 2025",
+  "document_date_iso": "2025-11-03",
+  "sector": [
+    "Banks",
+    "Foreign Bank Branches",
+    "Foreign Insurance Branches",
+    "Life Insurance and Fraternal Companies",
+    "Property and Casualty Companies",
+    "Trust and Loan Companies"
+  ],
+  "effective_date_text": "",
+  "guideline_number": "",
+  "date_modified_raw": "2025-11-03T12:00:00Z",
+  "generate_pdf_url": null,
+  "pdf_node_id": null,
+  "direct_pdf_url": null,
+  "has_table_of_contents": true,
+  "toc_entries": [],
+  "has_related_documents": true,
+  "related_document_links_raw": [
+    {
+      "title": "OSFI Technology and cyber risk management self-assessment tool (XLSX, 103 KB)",
+      "url": "https://www.osfi-bsif.gc.ca/sites/default/files/documents/2025-cybertech-selfassessment-autoevaluation-techcyberrisque-en.xlsx"
+    },
+    {
+      "title": "Technology and Cyber Risk Management",
+      "url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/technology-cyber-risk-management"
+    }
+  ],
+  "consultation_status_text": null,
+  "consultation_status_refers_to_version": null,
+  "page_language": "en",
+  "word_count_raw_body": 246,
+  "doc_id": "osfi.technology-cyber-risk-management-self-assessment-t.assessment",
+  "doc_family_id": "osfi.technology-cyber-risk-management-self-assessment-t",
+  "version_id": "",
+  "version_label": "Technology and cyber risk management self-assessment tool",
+  "version_sort_key": "",
+  "parent_doc_id": null,
+  "child_doc_ids": [],
+  "is_package_page": false,
+  "is_chapter_page": false,
+  "chapter_number": null,
+  "chapter_title": null,
+  "document_order_within_family": 0,
+  "supersedes_doc_id": null,
+  "superseded_by_doc_id": null,
+  "current_version_flag": true,
+  "status": "final_current",
+  "include_in_primary_corpus": false,
+  "include_in_support_corpus": true,
+  "include_in_context_corpus": false,
+  "effective_date_start": "2025-11-03",
+  "effective_date_end": null,
+  "effective_date_fye_split": false,
+  "effective_date_oct_fye": null,
+  "effective_date_dec_fye": null,
+  "is_future_effective": false,
+  "is_rescinded": false,
+  "is_draft_or_consultation": false,
+  "rescission_date": null,
+  "consultation_closing_date": null,
+  "as_of_applicability": "2026-03-23",
+  "rule_applied": "rule_5_final_current",
+  "authority_class": "official_interpretive",
+  "authority_level": 70,
+  "nova_tier": 2,
+  "prudential_weight": 0.7,
+  "is_primary_normative": false,
+  "is_supporting_interpretive": true,
+  "is_context_only": false,
+  "document_class": "assessment_tool",
+  "guidance_type_normalized": "assessment_tool",
+  "section_headings": [
+    {
+      "level": 2,
+      "text": "Introduction",
+      "id": "h2-0"
+    },
+    {
+      "level": 2,
+      "text": "Maturity rating scale",
+      "id": "h2-1"
+    }
+  ],
+  "heading_path": [
+    "Technology and cyber risk management self-assessment tool"
+  ],
+  "toc_depth": 2,
+  "has_appendices": false,
+  "appendix_ids": [],
+  "has_tables": false,
+  "table_count": 0,
+  "has_footnotes": false,
+  "footnote_count": 0,
+  "inline_cross_references": [
+    "Guideline B-13 - Technology and Cyber Risk Management"
+  ],
+  "quoted_external_references": [],
+  "raw_html_sha256": "608c9a0ed600f82fa7650b986e3443172354c3c1519fc3a934626a3735cb887d",
+  "raw_pdf_sha256": null,
+  "normalized_text_sha256": null,
+  "raw_html_path": "bronze/osfi/html/final_current/technology-cyber-risk-management-self-assessment-tool.html",
+  "normalized_md_path": "silver/osfi/md/final_current/technology-cyber-risk-management-self-assessment-tool.md",
+  "canonical_json_path": "silver/osfi/json/final_current/technology-cyber-risk-management-self-assessment-tool.json",
+  "content_source": "HTML",
+  "parser_version": "osfi-parser-v2.1.0",
+  "normalizer_version": "osfi-normalizer-v1.4.0",
+  "quality_score": 0.5,
+  "quality_flags": [
+    "thin_body_text"
+  ],
+  "download_timestamp": "2026-03-11T00:00:00Z",
+  "enriched_timestamp": "2026-03-23T09:54:00.797076Z",
+  "sections": [
+    {
+      "heading": "",
+      "heading_level": 2,
+      "full_text": "  - OSFI Technology and cyber risk management self-assessment tool (XLSX, 103 KB)\n  - Technology and Cyber Risk Management",
+      "content": [
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "OSFI Technology and cyber risk management self-assessment tool (XLSX, 103 KB)",
+            "Technology and Cyber Risk Management"
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "Introduction",
+      "heading_level": 2,
+      "full_text": "Cyber threats and evolving technologies increase risks to resilience and stability of Canada’s federally regulated financial institutions (institutions). We have updated our existing voluntary cyber security self-assessment tool to help institutions prepare and respond to current and emerging technology and cyber threats and risks. The enhanced technology and cyber risk management self-assessment tool (XLSX, 103KB) is now aligned with our Guideline B-13 - Technology and Cyber Risk Management , which remains the primary guideline for technology and cyber risk management. We have provided references to other OSFI guidelines for additional considerations, where relevant.\nThis voluntary, self-serve tool aims to help:\n  - assess the maturity of each process or control\n  - gauge preparedness for addressing technology and cyber risks\n  - identify control gaps and opportunities for risk remediation\n  - strengthen risk management practices across the organization\nInstitutions may leverage this self-assessment or similar frameworks to evaluate their current level of technology and cyber preparedness, and to support the development and maintenance of robust, effective practices.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Cyber threats and evolving technologies increase risks to resilience and stability of Canada’s federally regulated financial institutions (institutions). We have updated our existing voluntary cyber security self-assessment tool to help institutions prepare and respond to current and emerging technology and cyber threats and risks. The enhanced technology and cyber risk management self-assessment tool (XLSX, 103KB) is now aligned with our Guideline B-13 - Technology and Cyber Risk Management , which remains the primary guideline for technology and cyber risk management. We have provided references to other OSFI guidelines for additional considerations, where relevant."
+        },
+        {
+          "type": "paragraph",
+          "text": "This voluntary, self-serve tool aims to help:"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "assess the maturity of each process or control",
+            "gauge preparedness for addressing technology and cyber risks",
+            "identify control gaps and opportunities for risk remediation",
+            "strengthen risk management practices across the organization"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Institutions may leverage this self-assessment or similar frameworks to evaluate their current level of technology and cyber preparedness, and to support the development and maintenance of robust, effective practices."
+        }
+      ]
+    },
+    {
+      "heading": "Maturity rating scale",
+      "heading_level": 2,
+      "full_text": "We have established a rating scale from 0 to 5 to assess the maturity of each process or control. A rating of 0 indicates that the process or control is currently non-existent.\nThese ratings indicate the maturity of each process or control, highlighting those performing effectively and identifying gaps for improvements. Additionally, maturity levels can provide valuable insights to support future risk management planning.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "We have established a rating scale from 0 to 5 to assess the maturity of each process or control. A rating of 0 indicates that the process or control is currently non-existent."
+        },
+        {
+          "type": "paragraph",
+          "text": "These ratings indicate the maturity of each process or control, highlighting those performing effectively and identifying gaps for improvements. Additionally, maturity levels can provide valuable insights to support future risk management planning."
+        }
+      ]
+    }
+  ],
+  "title_normalized": "technology and cyber risk management selfassessment tool",
+  "publication_type_normalized": "assessment_tool",
+  "category_normalized": "sound_business_and_financial_practices",
+  "sector_normalized": [
+    "banks",
+    "foreign_bank_branches",
+    "foreign_insurance_branches",
+    "life_insurance",
+    "pc_insurance",
+    "trust_and_loan_companies"
+  ],
+  "guideline_number_normalized": "",
+  "applies_to_banks": true,
+  "applies_to_trust_loan": true,
+  "applies_to_life_insurance": true,
+  "applies_to_pc_insurance": true,
+  "applies_to_foreign_bank": true,
+  "applies_to_foreign_insurance": true,
+  "applies_to_cooperative": false,
+  "applies_to_bank_holding": false,
+  "effective_date_sort_key": "2025-11-03",
+  "status_sort_key": 1,
+  "authority_sort_key": 70,
+  "bm25_text": "Technology and cyber risk management self-assessment tool Assessment tool Sound Business and Financial Practices Banks Foreign Bank Branches Foreign Insurance Branches Life Insurance and Fraternal Companies Property and Casualty Companies Trust and Loan Companies Introduction Maturity rating scale",
+  "vector_text_prefix": "[OSFI Assessment tool  | Sound Business and Financial Practices | Banks / Foreign Bank Branches / Foreign Insurance Branches | FINAL_CURRENT | Effective 2025-11-03]",
+  "h1_title": "Technology and cyber risk management self-assessment tool",
+  "regulator": "OSFI",
+  "regulator_acronym": "OSFI",
+  "jurisdiction": "Canada",
+  "short_title": "",
+  "source_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/technology-cyber-risk-management/technology-cyber-risk-management-self-assessment-tool"
+}

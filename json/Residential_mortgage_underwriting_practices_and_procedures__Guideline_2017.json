@@ -1,0 +1,1285 @@
+{
+  "source_system": "osfi_guidance_library",
+  "library_row_title": "Residential mortgage underwriting practices and procedures – Guideline (2017)",
+  "library_row_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/residential-mortgage-underwriting-practices-procedures-guideline-2017",
+  "listing_date_raw": "October 31, 2017",
+  "listing_date_iso": "2017-10-31",
+  "listing_publication_type": "Guideline",
+  "listing_category": "Sound Business and Financial Practices",
+  "listing_sector": [
+    "Banks",
+    "Foreign Bank Branches",
+    "Life Insurance and Fraternal Companies",
+    "Property and Casualty Companies",
+    "Trust and Loan Companies"
+  ],
+  "crawl_timestamp": "2026-03-11T00:00:00Z",
+  "detail_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/residential-mortgage-underwriting-practices-procedures-guideline-2017",
+  "canonical_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/residential-mortgage-underwriting-practices-procedures-guideline-2017",
+  "slug": "residential-mortgage-underwriting-practices-procedures-guideline-2017",
+  "title": "Residential mortgage underwriting practices and procedures – Guideline (2017)",
+  "publication_type": "Guideline",
+  "category": "Sound Business and Financial Practices",
+  "document_date_raw": "October 31, 2017",
+  "document_date_iso": "2017-10-31",
+  "sector": [
+    "Banks",
+    "Foreign Bank Branches",
+    "Life Insurance and Fraternal Companies",
+    "Property and Casualty Companies",
+    "Trust and Loan Companies"
+  ],
+  "effective_date_text": "",
+  "guideline_number": "",
+  "date_modified_raw": "2017-10-31T12:00:00Z",
+  "generate_pdf_url": "https://www.osfi-bsif.gc.ca/en/print/pdf/node/574",
+  "pdf_node_id": 574,
+  "direct_pdf_url": null,
+  "has_table_of_contents": true,
+  "toc_entries": [],
+  "has_related_documents": true,
+  "related_document_links_raw": [
+    {
+      "title": "Clarification on the Treatment of Innovative Real Estate Secured Lending Product",
+      "url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/clarification-treatment-innovative-real-estate-secured-lending-products-under-guideline-b-20"
+    },
+    {
+      "title": "Infosheet - Residential Mortgage Underwriting Practices and Procedures Guideline",
+      "url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/infosheet-residential-mortgage-underwriting-practices-procedures-guideline-b-20"
+    },
+    {
+      "title": "Implementation note on mortgage insurance",
+      "url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/mortgage-insurance"
+    }
+  ],
+  "consultation_status_text": null,
+  "consultation_status_refers_to_version": null,
+  "page_language": "en",
+  "word_count_raw_body": 7152,
+  "doc_id": "osfi.b20.2017.package",
+  "doc_family_id": "osfi.b20",
+  "version_id": "2017",
+  "version_label": "Residential mortgage underwriting practices and procedures –",
+  "version_sort_key": "2017-10",
+  "parent_doc_id": null,
+  "child_doc_ids": [],
+  "is_package_page": true,
+  "is_chapter_page": false,
+  "chapter_number": null,
+  "chapter_title": null,
+  "document_order_within_family": 0,
+  "supersedes_doc_id": null,
+  "superseded_by_doc_id": null,
+  "current_version_flag": true,
+  "status": "final_current",
+  "include_in_primary_corpus": true,
+  "include_in_support_corpus": false,
+  "include_in_context_corpus": false,
+  "effective_date_start": "2017-10-31",
+  "effective_date_end": null,
+  "effective_date_fye_split": false,
+  "effective_date_oct_fye": null,
+  "effective_date_dec_fye": null,
+  "is_future_effective": false,
+  "is_rescinded": false,
+  "is_draft_or_consultation": false,
+  "rescission_date": null,
+  "consultation_closing_date": null,
+  "as_of_applicability": "2026-03-23",
+  "rule_applied": "rule_5_final_current",
+  "authority_class": "primary_normative",
+  "authority_level": 100,
+  "nova_tier": 1,
+  "prudential_weight": 1.0,
+  "is_primary_normative": true,
+  "is_supporting_interpretive": false,
+  "is_context_only": false,
+  "document_class": "package_guideline",
+  "guidance_type_normalized": "guideline",
+  "section_headings": [
+    {
+      "level": 2,
+      "text": "I. Purpose and scope of the guideline",
+      "id": "h2-0"
+    },
+    {
+      "level": 2,
+      "text": "II. Principles",
+      "id": "h2-1"
+    },
+    {
+      "level": 3,
+      "text": "Residential Mortgage Underwriting Policy (RMUP)",
+      "id": "h3-2"
+    },
+    {
+      "level": 3,
+      "text": "Role of senior management",
+      "id": "h3-3"
+    },
+    {
+      "level": 3,
+      "text": "Internal controls, monitoring and reporting",
+      "id": "h3-4"
+    },
+    {
+      "level": 3,
+      "text": "Background and credit history of borrower",
+      "id": "h3-5"
+    },
+    {
+      "level": 3,
+      "text": "Loan documentation",
+      "id": "h3-6"
+    },
+    {
+      "level": 3,
+      "text": "Purpose of mortgage loan",
+      "id": "h3-7"
+    },
+    {
+      "level": 3,
+      "text": "Anti-money laundering/anti-terrorist financing",
+      "id": "h3-8"
+    },
+    {
+      "level": 3,
+      "text": "Misrepresentation",
+      "id": "h3-9"
+    },
+    {
+      "level": 3,
+      "text": "Income verification",
+      "id": "h3-10"
+    },
+    {
+      "level": 3,
+      "text": "Guarantors and co-signors of mortgages",
+      "id": "h3-11"
+    },
+    {
+      "level": 3,
+      "text": "Debt service coverage",
+      "id": "h3-12"
+    },
+    {
+      "level": 3,
+      "text": "Amortization",
+      "id": "h3-13"
+    },
+    {
+      "level": 3,
+      "text": "Additional assessment criteria",
+      "id": "h3-14"
+    },
+    {
+      "level": 3,
+      "text": "General",
+      "id": "h3-15"
+    },
+    {
+      "level": 3,
+      "text": "Property appraisals",
+      "id": "h3-16"
+    },
+    {
+      "level": 4,
+      "text": "General",
+      "id": "h4-17"
+    },
+    {
+      "level": 4,
+      "text": "LTV Ratio Frameworks",
+      "id": "h4-18"
+    },
+    {
+      "level": 4,
+      "text": "Down payment",
+      "id": "h4-19"
+    },
+    {
+      "level": 4,
+      "text": "Property value used for the LTV ratio",
+      "id": "h4-20"
+    },
+    {
+      "level": 4,
+      "text": "LTV Ratio and Loan Type",
+      "id": "h4-21"
+    },
+    {
+      "level": 5,
+      "text": "(i) Non-Conventional (“High Ratio”) Mortgage Loans",
+      "id": "h5-22"
+    },
+    {
+      "level": 5,
+      "text": "(ii) Conventional (“Low Ratio”) Mortgage Loans",
+      "id": "h5-23"
+    },
+    {
+      "level": 5,
+      "text": "(iii) Non-Conforming Mortgage Loans",
+      "id": "h5-24"
+    },
+    {
+      "level": 5,
+      "text": "(iv) Home Equity Lines of Credit (HELOCs)",
+      "id": "h5-25"
+    },
+    {
+      "level": 3,
+      "text": "Mortgage insurance",
+      "id": "h3-26"
+    },
+    {
+      "level": 3,
+      "text": "Purchase of mortgage assets originated by a third party",
+      "id": "h3-27"
+    },
+    {
+      "level": 3,
+      "text": "Model validation and stress testing",
+      "id": "h3-28"
+    },
+    {
+      "level": 4,
+      "text": "Heightened prudence",
+      "id": "h4-29"
+    },
+    {
+      "level": 4,
+      "text": "Adequacy of regulatory capital",
+      "id": "h4-30"
+    },
+    {
+      "level": 3,
+      "text": "Disclosure requirements",
+      "id": "h3-31"
+    },
+    {
+      "level": 4,
+      "text": "Information for supervisory purposes",
+      "id": "h4-32"
+    },
+    {
+      "level": 4,
+      "text": "Non-compliance with the guideline",
+      "id": "h4-33"
+    },
+    {
+      "level": 2,
+      "text": "IV. Other guidance",
+      "id": "h2-34"
+    },
+    {
+      "level": 2,
+      "text": "Footnotes",
+      "id": "h2-35"
+    }
+  ],
+  "heading_path": [
+    "Residential mortgage underwriting practices and procedures – Guideline (2017)"
+  ],
+  "toc_depth": 5,
+  "has_appendices": false,
+  "appendix_ids": [],
+  "has_tables": false,
+  "table_count": 0,
+  "has_footnotes": true,
+  "footnote_count": 1,
+  "inline_cross_references": [
+    "Guideline E-19 Internal Capital Adequacy Assessment Process"
+  ],
+  "quoted_external_references": [],
+  "raw_html_sha256": "9e6ea6f528205054c42954dcdef6b4b9bafcf28735ed0c5d0933e620d3444b60",
+  "raw_pdf_sha256": null,
+  "normalized_text_sha256": null,
+  "raw_html_path": "bronze/osfi/html/final_current/residential-mortgage-underwriting-practices-procedures-guideline-2017.html",
+  "normalized_md_path": "silver/osfi/md/final_current/residential-mortgage-underwriting-practices-procedures-guideline-2017.md",
+  "canonical_json_path": "silver/osfi/json/final_current/residential-mortgage-underwriting-practices-procedures-guideline-2017.json",
+  "content_source": "HTML",
+  "parser_version": "osfi-parser-v2.1.0",
+  "normalizer_version": "osfi-normalizer-v1.4.0",
+  "quality_score": 1.0,
+  "quality_flags": [],
+  "download_timestamp": "2026-03-11T00:00:00Z",
+  "enriched_timestamp": "2026-03-23T09:53:59.253673Z",
+  "sections": [
+    {
+      "heading": "",
+      "heading_level": 2,
+      "full_text": "  - Clarification on the Treatment of Innovative Real Estate Secured Lending Products under Guideline B-20\n  - Infosheet - Residential Mortgage Underwriting Practices and Procedures Guideline (B-20)\n  - Implementation note on mortgage insurance",
+      "content": [
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Clarification on the Treatment of Innovative Real Estate Secured Lending Products under Guideline B-20",
+            "Infosheet - Residential Mortgage Underwriting Practices and Procedures Guideline (B-20)",
+            "Implementation note on mortgage insurance"
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "I. Purpose and scope of the guideline",
+      "heading_level": 2,
+      "full_text": "This Guideline sets out OSFI’s expectations for prudent residential mortgage underwriting, and is applicable to all federally-regulated financial institutions Footnote 1 (FRFIs) that are engaged in residential mortgage underwriting and/or the acquisition of residential mortgage loan assets in Canada. It complements relevant provisions of the Bank Act , Trust and Loan Companies Act , the Insurance Companies Act and the Cooperative Credit Associations Act , as well as the Government of Canada’s mortgage insurance guarantee framework, which establishes the rules for government-backed insured mortgages. Footnote 2\nFor the purpose of this Guideline, a “residential mortgage” includes any loan to an individual Footnote 3 that is secured by residential property (i.e., one to four unit dwellings). Home equity lines of credit (HELOCs), equity loans and other such products that use residential property as security are also covered by this Guideline.\nThis Guideline articulates five fundamental principles for sound residential mortgage underwriting. The first principle relates to FRFI governance and the development of overarching business objectives, strategy and oversight mechanisms in respect of residential mortgage underwriting and/or the acquisition of residential mortgage loan assets.\nThe next three principles focus on the residential mortgage credit decision and the underwriting process, specifically the assessment of:\n  - The borrower’s identity, background and demonstrated willingness to service their debt obligations on a timely basis (Principle 2);\n  - The borrower’s capacity to service their debt obligations on a timely basis (Principle 3); and,\n  - The underlying property value/collateral and management process (Principle 4).\nThese three principles should be evaluated by lenders using a holistic, risk-based approach – unless otherwise specified in this guidance. The borrower’s demonstrated willingness and capacity to service their debt obligations on a timely basis should be the primary basis of a lender’s credit decision. Undue reliance on collateral can pose challenges, as the process to obtain title to the underlying property security can be difficult for the borrower and costly to the lender.\nThe fifth principle addresses the need for mortgage underwriting and purchasing to be supported by effective credit and counterparty risk management, including, where appropriate, mortgage insurance. The final section of the Guideline summarizes disclosure and supervisory requirements.\nOSFI expects FRFIs to verify that their residential mortgage operations are well supported by prudent underwriting practices, and have sound risk management and internal controls that are commensurate with these operations.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "This Guideline sets out OSFI’s expectations for prudent residential mortgage underwriting, and is applicable to all federally-regulated financial institutions Footnote 1 (FRFIs) that are engaged in residential mortgage underwriting and/or the acquisition of residential mortgage loan assets in Canada. It complements relevant provisions of the Bank Act , Trust and Loan Companies Act , the Insurance Companies Act and the Cooperative Credit Associations Act , as well as the Government of Canada’s mortgage insurance guarantee framework, which establishes the rules for government-backed insured mortgages. Footnote 2"
+        },
+        {
+          "type": "paragraph",
+          "text": "For the purpose of this Guideline, a “residential mortgage” includes any loan to an individual Footnote 3 that is secured by residential property (i.e., one to four unit dwellings). Home equity lines of credit (HELOCs), equity loans and other such products that use residential property as security are also covered by this Guideline."
+        },
+        {
+          "type": "paragraph",
+          "text": "This Guideline articulates five fundamental principles for sound residential mortgage underwriting. The first principle relates to FRFI governance and the development of overarching business objectives, strategy and oversight mechanisms in respect of residential mortgage underwriting and/or the acquisition of residential mortgage loan assets."
+        },
+        {
+          "type": "paragraph",
+          "text": "The next three principles focus on the residential mortgage credit decision and the underwriting process, specifically the assessment of:"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "The borrower’s identity, background and demonstrated willingness to service their debt obligations on a timely basis (Principle 2);",
+            "The borrower’s capacity to service their debt obligations on a timely basis (Principle 3); and,",
+            "The underlying property value/collateral and management process (Principle 4)."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "These three principles should be evaluated by lenders using a holistic, risk-based approach – unless otherwise specified in this guidance. The borrower’s demonstrated willingness and capacity to service their debt obligations on a timely basis should be the primary basis of a lender’s credit decision. Undue reliance on collateral can pose challenges, as the process to obtain title to the underlying property security can be difficult for the borrower and costly to the lender."
+        },
+        {
+          "type": "paragraph",
+          "text": "The fifth principle addresses the need for mortgage underwriting and purchasing to be supported by effective credit and counterparty risk management, including, where appropriate, mortgage insurance. The final section of the Guideline summarizes disclosure and supervisory requirements."
+        },
+        {
+          "type": "paragraph",
+          "text": "OSFI expects FRFIs to verify that their residential mortgage operations are well supported by prudent underwriting practices, and have sound risk management and internal controls that are commensurate with these operations."
+        }
+      ]
+    },
+    {
+      "heading": "II. Principles",
+      "heading_level": 2,
+      "full_text": "Principle 1: FRFIs that are engaged in residential mortgage underwriting and/or the acquisition of residential mortgage loan assets should have a comprehensive Residential Mortgage Underwriting Policy (RMUP). Footnote 4 Residential mortgage practices and procedures of FRFIs should comply with their established RMUP.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Principle 1: FRFIs that are engaged in residential mortgage underwriting and/or the acquisition of residential mortgage loan assets should have a comprehensive Residential Mortgage Underwriting Policy (RMUP). Footnote 4 Residential mortgage practices and procedures of FRFIs should comply with their established RMUP."
+        }
+      ]
+    },
+    {
+      "heading": "Residential Mortgage Underwriting Policy (RMUP)",
+      "heading_level": 3,
+      "full_text": "The Risk Appetite Framework Footnote 5 should establish limits regarding the level of risk that the FRFI is willing to accept with respect to residential mortgages, and this should form the basis for the RMUP. The RMUP should further align with the FRFI’s enterprise-wide strategy and, in turn, be linked to the enterprise risk management framework.\nThe RMUP should reflect the size, nature and complexity of a FRFI’s residential mortgage business and should give consideration to factors and metrics such as:\n  - Significant elements of the FRFI’s business strategy and approach to residential mortgage underwriting and the acquisition of residential mortgage loan assets (e.g., products, markets) – in Canada and internationally;\n  - At the portfolio level, risk management practices and processes with respect to residential mortgage loans and loan assets, including limits on relevant segments or parameters (e.g., lending, acquisition, product, borrower/property characteristics, and geographic concentration);\n  - At the individual residential mortgage loan level, acceptable underwriting and acquisition standards, criteria and limits (e.g., credit scores, loan-to-value ratios, debt service coverage, amortization periods) for all residential mortgage products and loan types (e.g., conforming and non-conforming);\n  - Identification and escalation processes for residential mortgage underwriting and/or acquisition exceptions, if any, including a process for approval and exception reporting;\n  - Limits on any exceptions to residential mortgages underwritten and/or acquired; and\n  - The roles and responsibilities for those positions charged with overseeing and implementing the RMUP.\nFRFIs should revisit their RMUP on a regular basis to ensure that there is strong alignment between their risk appetite statement and their actual mortgage underwriting, acquisition, and risk management policies and practices.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "The Risk Appetite Framework Footnote 5 should establish limits regarding the level of risk that the FRFI is willing to accept with respect to residential mortgages, and this should form the basis for the RMUP. The RMUP should further align with the FRFI’s enterprise-wide strategy and, in turn, be linked to the enterprise risk management framework."
+        },
+        {
+          "type": "paragraph",
+          "text": "The RMUP should reflect the size, nature and complexity of a FRFI’s residential mortgage business and should give consideration to factors and metrics such as:"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Significant elements of the FRFI’s business strategy and approach to residential mortgage underwriting and the acquisition of residential mortgage loan assets (e.g., products, markets) – in Canada and internationally;",
+            "At the portfolio level, risk management practices and processes with respect to residential mortgage loans and loan assets, including limits on relevant segments or parameters (e.g., lending, acquisition, product, borrower/property characteristics, and geographic concentration);",
+            "At the individual residential mortgage loan level, acceptable underwriting and acquisition standards, criteria and limits (e.g., credit scores, loan-to-value ratios, debt service coverage, amortization periods) for all residential mortgage products and loan types (e.g., conforming and non-conforming);",
+            "Identification and escalation processes for residential mortgage underwriting and/or acquisition exceptions, if any, including a process for approval and exception reporting;",
+            "Limits on any exceptions to residential mortgages underwritten and/or acquired; and",
+            "The roles and responsibilities for those positions charged with overseeing and implementing the RMUP."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "FRFIs should revisit their RMUP on a regular basis to ensure that there is strong alignment between their risk appetite statement and their actual mortgage underwriting, acquisition, and risk management policies and practices."
+        }
+      ]
+    },
+    {
+      "heading": "Role of senior management",
+      "heading_level": 3,
+      "full_text": "The FRFI is responsible for the development and implementation of the RMUP and related controls. Senior Management has a critical role in providing high-level guidance to, and oversight of, the mortgage underwriting and portfolio management functions.\nThe FRFI should provide timely, accurate, independent and objective reporting to Senior Management on the related risks of the residential mortgage business, including the procedures and controls in place to manage the risks, and the overall effectiveness of risk management processes.\nPlease refer to OSFI’s Corporate Governance Guideline for OSFI’s expectations of FRFI Boards of Directors in regards to operational, business, risk and crisis management policies.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "The FRFI is responsible for the development and implementation of the RMUP and related controls. Senior Management has a critical role in providing high-level guidance to, and oversight of, the mortgage underwriting and portfolio management functions."
+        },
+        {
+          "type": "paragraph",
+          "text": "The FRFI should provide timely, accurate, independent and objective reporting to Senior Management on the related risks of the residential mortgage business, including the procedures and controls in place to manage the risks, and the overall effectiveness of risk management processes."
+        },
+        {
+          "type": "paragraph",
+          "text": "Please refer to OSFI’s Corporate Governance Guideline for OSFI’s expectations of FRFI Boards of Directors in regards to operational, business, risk and crisis management policies."
+        }
+      ]
+    },
+    {
+      "heading": "Internal controls, monitoring and reporting",
+      "heading_level": 3,
+      "full_text": "Effective control, monitoring and reporting systems and procedures should be developed and maintained by FRFIs to ensure on-going operational compliance with the RMUP. FRFIs should identify, measure, monitor and report the risks in all residential mortgage lending and acquisition operations on an on-going basis, and across all jurisdictions. The FRFI’s residential mortgage risk appetite should be understood at all relevant levels of the organization.\nFRFIs should have adequate processes Footnote 6 in place with respect to residential mortgages to independently and objectively:\n  - Identify, assess and analyze the key risks;\n  - Monitor risk exposures against the Risk Appetite Framework Footnote 7 of the FRFI;\n  - Ensure that risks are appropriately controlled and mitigated;\n  - Ensure that risk management policies, processes and limits are being adhered to;\n  - Provide exception reporting, including the identification of patterns, trends or systemic issues within the residential mortgage portfolio that may impair loan quality or risk mitigation factors; and\n  - Report on the effectiveness of models.\nPrinciple 2: FRFIs should perform reasonable due diligence to record and assess the borrower’s identity, background and demonstrated willingness to service his/her debt obligations on a timely basis.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Effective control, monitoring and reporting systems and procedures should be developed and maintained by FRFIs to ensure on-going operational compliance with the RMUP. FRFIs should identify, measure, monitor and report the risks in all residential mortgage lending and acquisition operations on an on-going basis, and across all jurisdictions. The FRFI’s residential mortgage risk appetite should be understood at all relevant levels of the organization."
+        },
+        {
+          "type": "paragraph",
+          "text": "FRFIs should have adequate processes Footnote 6 in place with respect to residential mortgages to independently and objectively:"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Identify, assess and analyze the key risks;",
+            "Monitor risk exposures against the Risk Appetite Framework Footnote 7 of the FRFI;",
+            "Ensure that risks are appropriately controlled and mitigated;",
+            "Ensure that risk management policies, processes and limits are being adhered to;",
+            "Provide exception reporting, including the identification of patterns, trends or systemic issues within the residential mortgage portfolio that may impair loan quality or risk mitigation factors; and",
+            "Report on the effectiveness of models."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Principle 2: FRFIs should perform reasonable due diligence to record and assess the borrower’s identity, background and demonstrated willingness to service his/her debt obligations on a timely basis."
+        }
+      ]
+    },
+    {
+      "heading": "Background and credit history of borrower",
+      "heading_level": 3,
+      "full_text": "FRFIs should ensure that they make a reasonable enquiry into the background, credit history, and borrowing behaviour of a prospective residential mortgage loan borrower as a means to establish an assessment of the borrower’s reliability to repay a mortgage loan.\nFor example, a credit bureau score, offered by the major credit bureaus, is an indicator often used to support credit granting. However, a credit score should not be solely relied upon to assess borrower qualification, as such an indicator measures past behaviour and does not immediately incorporate changes in a borrower’s financial condition or demonstrated willingness to service their debt obligations in a timely manner.\nFRFIs should also ensure that they obtain appropriate borrower consent for this assessment and comply with relevant provincial and federal legislation governing the use and privacy of personal information (e.g., Personal Information Protection and Electronic Documents Act ).",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "FRFIs should ensure that they make a reasonable enquiry into the background, credit history, and borrowing behaviour of a prospective residential mortgage loan borrower as a means to establish an assessment of the borrower’s reliability to repay a mortgage loan."
+        },
+        {
+          "type": "paragraph",
+          "text": "For example, a credit bureau score, offered by the major credit bureaus, is an indicator often used to support credit granting. However, a credit score should not be solely relied upon to assess borrower qualification, as such an indicator measures past behaviour and does not immediately incorporate changes in a borrower’s financial condition or demonstrated willingness to service their debt obligations in a timely manner."
+        },
+        {
+          "type": "paragraph",
+          "text": "FRFIs should also ensure that they obtain appropriate borrower consent for this assessment and comply with relevant provincial and federal legislation governing the use and privacy of personal information (e.g., Personal Information Protection and Electronic Documents Act )."
+        }
+      ]
+    },
+    {
+      "heading": "Loan documentation",
+      "heading_level": 3,
+      "full_text": "Maintaining sound loan documentation is an important administrative function for lenders. It provides a clear record of the factors behind the credit granting decision, supports lenders’ risk management functions, and permits independent audit/review by FRFIs and by OSFI. As well, maintaining sound documentation is necessary for lenders to demonstrate compliance with mortgage insurance requirements and ensure insurance coverage remains intact.\nConsequently, FRFIs should maintain complete documentation of the information that led to a mortgage approval. This should generally include:\n  - A description of the purpose of the loan;\n  - Employment status and verification of income (see Principle 3);\n  - Debt service ratio calculations, including verification documentation for key inputs (e.g., heating, taxes, and other debt obligations);\n  - LTV ratio, property valuation and appraisal documentation (see Principle 4);\n  - Credit bureau reports and any other credit enquiries;\n  - Documentation verifying the source of the down payment;\n  - Purchase and sale agreements and other collateral supporting documents;\n  - An explanation of any mitigating criteria or other elements (e.g., “soft” information) for higher credit risk factors;\n  - Property insurance agreements; Footnote 8\n  - A clearly stated rationale for the decision (including exceptions); and\n  - A record from the mortgage insurer validating commitment to insure the mortgage, where applicable.\nThe above documentation should be obtained at the origination of the mortgage and for any subsequent refinancing of the mortgage. FRFIs should update the borrower and property analysis periodically (not necessarily at renewal) in order to effectively evaluate credit risk. In particular, FRFIs should review some of the aforementioned factors if the borrower’s condition or property risk changes materially.\nAs a general principle, an independent third-party conducting a credit assessment of a FRFI’s mortgage loan should be in a position to replicate all aspects of the underwriting criteria, based on the FRFI’s sound documentation, to arrive at the derived credit decision.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Maintaining sound loan documentation is an important administrative function for lenders. It provides a clear record of the factors behind the credit granting decision, supports lenders’ risk management functions, and permits independent audit/review by FRFIs and by OSFI. As well, maintaining sound documentation is necessary for lenders to demonstrate compliance with mortgage insurance requirements and ensure insurance coverage remains intact."
+        },
+        {
+          "type": "paragraph",
+          "text": "Consequently, FRFIs should maintain complete documentation of the information that led to a mortgage approval. This should generally include:"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "A description of the purpose of the loan;",
+            "Employment status and verification of income (see Principle 3);",
+            "Debt service ratio calculations, including verification documentation for key inputs (e.g., heating, taxes, and other debt obligations);",
+            "LTV ratio, property valuation and appraisal documentation (see Principle 4);",
+            "Credit bureau reports and any other credit enquiries;",
+            "Documentation verifying the source of the down payment;",
+            "Purchase and sale agreements and other collateral supporting documents;",
+            "An explanation of any mitigating criteria or other elements (e.g., “soft” information) for higher credit risk factors;",
+            "Property insurance agreements; Footnote 8",
+            "A clearly stated rationale for the decision (including exceptions); and",
+            "A record from the mortgage insurer validating commitment to insure the mortgage, where applicable."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "The above documentation should be obtained at the origination of the mortgage and for any subsequent refinancing of the mortgage. FRFIs should update the borrower and property analysis periodically (not necessarily at renewal) in order to effectively evaluate credit risk. In particular, FRFIs should review some of the aforementioned factors if the borrower’s condition or property risk changes materially."
+        },
+        {
+          "type": "paragraph",
+          "text": "As a general principle, an independent third-party conducting a credit assessment of a FRFI’s mortgage loan should be in a position to replicate all aspects of the underwriting criteria, based on the FRFI’s sound documentation, to arrive at the derived credit decision."
+        }
+      ]
+    },
+    {
+      "heading": "Purpose of mortgage loan",
+      "heading_level": 3,
+      "full_text": "FRFIs should ascertain and document the purpose of a prospective loan, as it is a key consideration in assessing credit risk. This includes ascertaining the:\n  - Intended use of the loan (e.g., purchase, refinancing), and\n  - Type of purchase (e.g., owner-occupied primary residence, recreational or other secondary property, investment property, property that relies on rental income to service the loan); or\n  - Type of refinancing (e.g., debt consolidation, changes to existing loan characteristics, access to home equity, renovation, etc.)",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "FRFIs should ascertain and document the purpose of a prospective loan, as it is a key consideration in assessing credit risk. This includes ascertaining the:"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Intended use of the loan (e.g., purchase, refinancing), and",
+            "Type of purchase (e.g., owner-occupied primary residence, recreational or other secondary property, investment property, property that relies on rental income to service the loan); or",
+            "Type of refinancing (e.g., debt consolidation, changes to existing loan characteristics, access to home equity, renovation, etc.)"
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "Anti-money laundering/anti-terrorist financing",
+      "heading_level": 3,
+      "full_text": "As part of a FRFI’s assessment of the borrower, if the FRFI is aware, or there are reasonable grounds to suspect, that the residential mortgage loan transaction is being used for illicit purposes, then the FRFI should decline to make the loan and consider filing a suspicious transaction report to the Financial Transactions and Reports Analysis Centre of Canada (FINTRAC) with respect to the attempted transaction.\nFRFIs should ensure that residential mortgage loans are subject to the requirements of the Proceeds of Crime (Money Laundering) and Terrorist Financing Act (PCMLTFA) and the Proceeds of Crime (Money Laundering) and Terrorist Financing Regulations (PCMLTFR) with respect to detecting and deterring the possible use of a property purchase or mortgage to launder the proceeds of crime or assist in terrorist financing. Footnote 9\nIn particular, FRFIs should ensure that they comply with the customer identification and record keeping requirements of the PCMLTFR, and also ensure that they obtain sufficient information about the borrower to determine whether the customer is a higher risk customer, as defined under the PCMLTFA and PCMLTFR.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "As part of a FRFI’s assessment of the borrower, if the FRFI is aware, or there are reasonable grounds to suspect, that the residential mortgage loan transaction is being used for illicit purposes, then the FRFI should decline to make the loan and consider filing a suspicious transaction report to the Financial Transactions and Reports Analysis Centre of Canada (FINTRAC) with respect to the attempted transaction."
+        },
+        {
+          "type": "paragraph",
+          "text": "FRFIs should ensure that residential mortgage loans are subject to the requirements of the Proceeds of Crime (Money Laundering) and Terrorist Financing Act (PCMLTFA) and the Proceeds of Crime (Money Laundering) and Terrorist Financing Regulations (PCMLTFR) with respect to detecting and deterring the possible use of a property purchase or mortgage to launder the proceeds of crime or assist in terrorist financing. Footnote 9"
+        },
+        {
+          "type": "paragraph",
+          "text": "In particular, FRFIs should ensure that they comply with the customer identification and record keeping requirements of the PCMLTFR, and also ensure that they obtain sufficient information about the borrower to determine whether the customer is a higher risk customer, as defined under the PCMLTFA and PCMLTFR."
+        }
+      ]
+    },
+    {
+      "heading": "Misrepresentation",
+      "heading_level": 3,
+      "full_text": "FRFIs should maintain adequate mechanisms for the detection, prevention and reporting of all forms of fraud or misrepresentation (e.g., falsified income documents) in the mortgage underwriting process. For insured mortgage loan applications, FRFIs are expected to report suspected or confirmed fraud or misrepresentation to the relevant mortgage insurer.\nPrinciple 3: FRFIs should adequately assess the borrower’s capacity to service his/her debt obligations on a timely basis.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "FRFIs should maintain adequate mechanisms for the detection, prevention and reporting of all forms of fraud or misrepresentation (e.g., falsified income documents) in the mortgage underwriting process. For insured mortgage loan applications, FRFIs are expected to report suspected or confirmed fraud or misrepresentation to the relevant mortgage insurer."
+        },
+        {
+          "type": "paragraph",
+          "text": "Principle 3: FRFIs should adequately assess the borrower’s capacity to service his/her debt obligations on a timely basis."
+        }
+      ]
+    },
+    {
+      "heading": "Income verification",
+      "heading_level": 3,
+      "full_text": "FRFIs should demonstrate rigour in the verification of a borrower’s income, as income is a key factor in the assessment of the capacity to repay a mortgage loan, and verification of income helps detect and deter fraud or misrepresentation. This includes substantiation of a borrower’s:\n  - Employment status; and\n  - Income history.\nIn regard to loan documentation that supports income verification, FRFIs should undertake rigorous efforts to confirm that:\n  - The income amount is verified by an independent source;\n  - The verification source is difficult to falsify;\n  - The verification source directly addresses the amount of the declared income; and\n  - The income verification information/documentation does not contradict other information provided by the borrower in the underwriting process.\nTo the extent possible, income assessments should also reflect the stability of the borrower’s income, including possible negative outcomes (e.g., variability in the salary/wages of the borrower). Conversely, temporarily high incomes (e.g., overtime wages, irregular commissions and bonuses) should be suitably normalized or discounted.\nFor borrowers who are self-employed, FRFIs should also be guided by the sound principles listed above. In particular, FRFIs should obtain proof of income (e.g., Notice of Assessment and T1 General) and relevant business documentation.\nLenders should also exercise rigorous due diligence in underwriting loans that are materially dependent on income derived from the property to repay the loan (e.g., rental income derived from an investment property).\nBorrowers relying on income from sources outside of Canada pose a particular challenge for income verification, and lenders should conduct thorough due diligence in this regard. Income that cannot be verified by reliable, well-documented sources should be treated cautiously when assessing the ability of a borrower to service debt obligations.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "FRFIs should demonstrate rigour in the verification of a borrower’s income, as income is a key factor in the assessment of the capacity to repay a mortgage loan, and verification of income helps detect and deter fraud or misrepresentation. This includes substantiation of a borrower’s:"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Employment status; and",
+            "Income history."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "In regard to loan documentation that supports income verification, FRFIs should undertake rigorous efforts to confirm that:"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "The income amount is verified by an independent source;",
+            "The verification source is difficult to falsify;",
+            "The verification source directly addresses the amount of the declared income; and",
+            "The income verification information/documentation does not contradict other information provided by the borrower in the underwriting process."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "To the extent possible, income assessments should also reflect the stability of the borrower’s income, including possible negative outcomes (e.g., variability in the salary/wages of the borrower). Conversely, temporarily high incomes (e.g., overtime wages, irregular commissions and bonuses) should be suitably normalized or discounted."
+        },
+        {
+          "type": "paragraph",
+          "text": "For borrowers who are self-employed, FRFIs should also be guided by the sound principles listed above. In particular, FRFIs should obtain proof of income (e.g., Notice of Assessment and T1 General) and relevant business documentation."
+        },
+        {
+          "type": "paragraph",
+          "text": "Lenders should also exercise rigorous due diligence in underwriting loans that are materially dependent on income derived from the property to repay the loan (e.g., rental income derived from an investment property)."
+        },
+        {
+          "type": "paragraph",
+          "text": "Borrowers relying on income from sources outside of Canada pose a particular challenge for income verification, and lenders should conduct thorough due diligence in this regard. Income that cannot be verified by reliable, well-documented sources should be treated cautiously when assessing the ability of a borrower to service debt obligations."
+        }
+      ]
+    },
+    {
+      "heading": "Guarantors and co-signors of mortgages",
+      "heading_level": 3,
+      "full_text": "Where a FRFI obtains a guarantee or co-signor supporting the mortgage, it should also undertake a sufficiently rigorous credit assessment of the guarantor/co-signor. This assessment should be commensurate with the degree to which the guarantor/co-signor’s support is relied upon. The guarantor/co-signor should fully understand his/her legal obligations.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Where a FRFI obtains a guarantee or co-signor supporting the mortgage, it should also undertake a sufficiently rigorous credit assessment of the guarantor/co-signor. This assessment should be commensurate with the degree to which the guarantor/co-signor’s support is relied upon. The guarantor/co-signor should fully understand his/her legal obligations."
+        }
+      ]
+    },
+    {
+      "heading": "Debt service coverage",
+      "heading_level": 3,
+      "full_text": "A fundamental component of prudent underwriting is an accurate assessment of the adequacy of a borrower’s income, taking into account the relevant mortgage payments and all debt commitments. As part of this assessment, FRFIs should establish debt serviceability metrics (including the method to calculate these metrics), set prudent measures for debt serviceability (articulated in the RMUP) and calculate each borrower’s debt serviceability ratios for the purposes of assessing affordability.\nTwo ratios that are commonly used are the Gross Debt Service (GDS) ratio and the Total Debt Service (TDS) ratio. For example, for insured mortgages, the Canada Mortgage Housing Corporation (CMHC) defines GDS and TDS ratios and sets maximum GDS and TDS limits. Private mortgage insurers also define similar debt serviceability metrics and limits for mortgage insurance products. OSFI expects the average GDS and TDS scores for all mortgages underwritten and/or acquired to be less than the FRFI’s stated maximums, as articulated in its RMUP, and reflect a reasonable distribution across the portfolio.\nFRFIs should have clear policies with respect to the contributing factors for the calculation of GDS and TDS ratios, including, but not limited to:\n  - Principal and interest payments on the mortgage loan;\n  - Primary and other sources of income;\n  - Heating costs;\n  - Property taxes;\n  - Condominium or strata fees; and\n  - Payments for all other credit facilities (e.g., unsecured personal loan, second mortgage loan, credit card).\nGDS and TDS ratios should be calculated conservatively (i.e., appropriately stressed for varied financial and economic conditions and/or higher interest rates).\nFor insured residential mortgages, OSFI expects FRFIs to meet mortgage insurers’ requirements in regard to debt serviceability. For uninsured residential mortgages, FRFIs should contemplate current and future conditions as they consider qualifying rates and make appropriate judgments. At a minimum, the qualifying rate for all uninsured mortgages should be the greater of the contractual mortgage rate plus a buffer, as set by the Superintendent or the minimum (or “floor”) rate, as set by the Superintendent. Footnote 10",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "A fundamental component of prudent underwriting is an accurate assessment of the adequacy of a borrower’s income, taking into account the relevant mortgage payments and all debt commitments. As part of this assessment, FRFIs should establish debt serviceability metrics (including the method to calculate these metrics), set prudent measures for debt serviceability (articulated in the RMUP) and calculate each borrower’s debt serviceability ratios for the purposes of assessing affordability."
+        },
+        {
+          "type": "paragraph",
+          "text": "Two ratios that are commonly used are the Gross Debt Service (GDS) ratio and the Total Debt Service (TDS) ratio. For example, for insured mortgages, the Canada Mortgage Housing Corporation (CMHC) defines GDS and TDS ratios and sets maximum GDS and TDS limits. Private mortgage insurers also define similar debt serviceability metrics and limits for mortgage insurance products. OSFI expects the average GDS and TDS scores for all mortgages underwritten and/or acquired to be less than the FRFI’s stated maximums, as articulated in its RMUP, and reflect a reasonable distribution across the portfolio."
+        },
+        {
+          "type": "paragraph",
+          "text": "FRFIs should have clear policies with respect to the contributing factors for the calculation of GDS and TDS ratios, including, but not limited to:"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Principal and interest payments on the mortgage loan;",
+            "Primary and other sources of income;",
+            "Heating costs;",
+            "Property taxes;",
+            "Condominium or strata fees; and",
+            "Payments for all other credit facilities (e.g., unsecured personal loan, second mortgage loan, credit card)."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "GDS and TDS ratios should be calculated conservatively (i.e., appropriately stressed for varied financial and economic conditions and/or higher interest rates)."
+        },
+        {
+          "type": "paragraph",
+          "text": "For insured residential mortgages, OSFI expects FRFIs to meet mortgage insurers’ requirements in regard to debt serviceability. For uninsured residential mortgages, FRFIs should contemplate current and future conditions as they consider qualifying rates and make appropriate judgments. At a minimum, the qualifying rate for all uninsured mortgages should be the greater of the contractual mortgage rate plus a buffer, as set by the Superintendent or the minimum (or “floor”) rate, as set by the Superintendent. Footnote 10"
+        }
+      ]
+    },
+    {
+      "heading": "Amortization",
+      "heading_level": 3,
+      "full_text": "The mortgage amortization period for the loan is an important factor in the lending decision, as it affects the required debt service for the borrower and the growth of borrower equity in the underlying property. FRFIs should have a stated maximum amortization period for all residential mortgages that are underwritten. OSFI expects the average amortization period for mortgages underwritten to be less than the FRFI’s stated maximum, as articulated in its RMUP.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "The mortgage amortization period for the loan is an important factor in the lending decision, as it affects the required debt service for the borrower and the growth of borrower equity in the underlying property. FRFIs should have a stated maximum amortization period for all residential mortgages that are underwritten. OSFI expects the average amortization period for mortgages underwritten to be less than the FRFI’s stated maximum, as articulated in its RMUP."
+        }
+      ]
+    },
+    {
+      "heading": "Additional assessment criteria",
+      "heading_level": 3,
+      "full_text": "In addition to income and debt service coverage, FRFIs should take into consideration, as appropriate, other factors that are relevant for assessing credit risk, such as the borrower’s assets Footnote 11 and liabilities (net worth), other living expenses, recurring payment obligations, and alternate sources for loan repayment.\nPrinciple 4: FRFIs should have sound collateral management and appraisal processes for the underlying mortgage properties.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "In addition to income and debt service coverage, FRFIs should take into consideration, as appropriate, other factors that are relevant for assessing credit risk, such as the borrower’s assets Footnote 11 and liabilities (net worth), other living expenses, recurring payment obligations, and alternate sources for loan repayment."
+        },
+        {
+          "type": "paragraph",
+          "text": "Principle 4: FRFIs should have sound collateral management and appraisal processes for the underlying mortgage properties."
+        }
+      ]
+    },
+    {
+      "heading": "General",
+      "heading_level": 3,
+      "full_text": "Mortgage loans are granted primarily on the basis of the borrower’s demonstrated willingness and capacity to service his/her debt obligations. However, to the extent that the lender would ever need to realize on the underlying property serving as security, it is important to have sound collateral practices and procedures.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Mortgage loans are granted primarily on the basis of the borrower’s demonstrated willingness and capacity to service his/her debt obligations. However, to the extent that the lender would ever need to realize on the underlying property serving as security, it is important to have sound collateral practices and procedures."
+        }
+      ]
+    },
+    {
+      "heading": "Property appraisals",
+      "heading_level": 3,
+      "full_text": "A significant amount of leverage is often involved in residential mortgage lending and there is general reliance on collateral to provide adequate recourse for repayment of the debt if the borrower defaults. As such, a proper and thorough assessment of the underlying property is essential to the residential mortgage business and key to adequately mitigating risks. FRFIs should have clear and transparent valuation policies and procedures in this regard.\nIn assessing the value of a property, FRFIs should take a risk-based approach, and consider a combination of valuation tools and appraisal processes appropriate to the risk being undertaken. The valuation process can include various methods such as on-site inspections, third-party appraisals and/or automated valuation tools.\nIn general, FRFIs should conduct an on-site inspection on the underlying property, to be performed by either a qualified employee or an appraiser, depending on the nature of the property or transaction. Beyond the valuation of the property, an on-site property inspection is beneficial in the process of validating the occupancy, condition and, ultimately, the existence of the property.\nFRFIs that use third-party appraisers should ensure that appraisals are prepared with the appropriate professional appraisal skill and diligence, and that appraisers are designated, licensed or certified, and meet qualification standards. As well, these appraisers should be independent from the mortgage acquisition, loan processing and loan decision process.\nWhere FRFIs use automated valuation tools, processes should be established to monitor their on-going effectiveness in representing the market value of the property. Controls should also be in place to ensure that the tools are being used appropriately by lending officers.\nIn general, FRFIs should not rely on any single method for property valuation. FRFIs should maintain and implement a framework for critically reviewing and, where appropriate, effectively challenging the assumptions and methodologies underlying valuations and property appraisals. FRFIs should undertake a more comprehensive and prudent approach to collateral valuation for higher-risk transactions. Such transactions include, for example, residential mortgage loans with a relatively high LTV ratio, loans for illiquid properties, and loans in markets that have experienced rapid property price increases, which generate more uncertainty about the accuracy and stability of property valuations.\nRealistic, substantiated and supportable valuations should be conducted to reflect the current price level and the property’s function as collateral over the term of the mortgage. Consistent with Principle 2 above, comprehensive documentation in this regard should be maintained.\nFRFIs should ensure that the claim on collateral is legally enforceable and can be realized in a reasonable period of time or, absent that verification, ensure that title insurance from a third party is in place.\nWhen extending loans to borrowers, FRFIs should impose contractual terms and conditions that secure their full protection under the laws applicable in the relevant jurisdiction, and seek to preserve an appropriate variety of recourses (including, where applicable, actions on personal covenant) should the borrower default. In addition, FRFIs should have the necessary action plans in place to determine the best course of action upon borrower default. Such action plans should cover:\n  - The likely recourses/options available to the FRFI upon default in all relevant jurisdictions;\n  - The identification of the parties against whom these recourses may be exercised; and\n  - A strategy for exercising these options in a manner that is prudentially sound.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "A significant amount of leverage is often involved in residential mortgage lending and there is general reliance on collateral to provide adequate recourse for repayment of the debt if the borrower defaults. As such, a proper and thorough assessment of the underlying property is essential to the residential mortgage business and key to adequately mitigating risks. FRFIs should have clear and transparent valuation policies and procedures in this regard."
+        },
+        {
+          "type": "paragraph",
+          "text": "In assessing the value of a property, FRFIs should take a risk-based approach, and consider a combination of valuation tools and appraisal processes appropriate to the risk being undertaken. The valuation process can include various methods such as on-site inspections, third-party appraisals and/or automated valuation tools."
+        },
+        {
+          "type": "paragraph",
+          "text": "In general, FRFIs should conduct an on-site inspection on the underlying property, to be performed by either a qualified employee or an appraiser, depending on the nature of the property or transaction. Beyond the valuation of the property, an on-site property inspection is beneficial in the process of validating the occupancy, condition and, ultimately, the existence of the property."
+        },
+        {
+          "type": "paragraph",
+          "text": "FRFIs that use third-party appraisers should ensure that appraisals are prepared with the appropriate professional appraisal skill and diligence, and that appraisers are designated, licensed or certified, and meet qualification standards. As well, these appraisers should be independent from the mortgage acquisition, loan processing and loan decision process."
+        },
+        {
+          "type": "paragraph",
+          "text": "Where FRFIs use automated valuation tools, processes should be established to monitor their on-going effectiveness in representing the market value of the property. Controls should also be in place to ensure that the tools are being used appropriately by lending officers."
+        },
+        {
+          "type": "paragraph",
+          "text": "In general, FRFIs should not rely on any single method for property valuation. FRFIs should maintain and implement a framework for critically reviewing and, where appropriate, effectively challenging the assumptions and methodologies underlying valuations and property appraisals. FRFIs should undertake a more comprehensive and prudent approach to collateral valuation for higher-risk transactions. Such transactions include, for example, residential mortgage loans with a relatively high LTV ratio, loans for illiquid properties, and loans in markets that have experienced rapid property price increases, which generate more uncertainty about the accuracy and stability of property valuations."
+        },
+        {
+          "type": "paragraph",
+          "text": "Realistic, substantiated and supportable valuations should be conducted to reflect the current price level and the property’s function as collateral over the term of the mortgage. Consistent with Principle 2 above, comprehensive documentation in this regard should be maintained."
+        },
+        {
+          "type": "paragraph",
+          "text": "FRFIs should ensure that the claim on collateral is legally enforceable and can be realized in a reasonable period of time or, absent that verification, ensure that title insurance from a third party is in place."
+        },
+        {
+          "type": "paragraph",
+          "text": "When extending loans to borrowers, FRFIs should impose contractual terms and conditions that secure their full protection under the laws applicable in the relevant jurisdiction, and seek to preserve an appropriate variety of recourses (including, where applicable, actions on personal covenant) should the borrower default. In addition, FRFIs should have the necessary action plans in place to determine the best course of action upon borrower default. Such action plans should cover:"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "The likely recourses/options available to the FRFI upon default in all relevant jurisdictions;",
+            "The identification of the parties against whom these recourses may be exercised; and",
+            "A strategy for exercising these options in a manner that is prudentially sound."
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "General",
+      "heading_level": 4,
+      "full_text": "The commonly-used LTV ratio is an evaluation of the amount of collateral value that can be used to support the loan. Past experience suggests it is highly correlated with credit risk. Residential mortgage loans with higher LTV ratios generally perform worse than those with a lower LTV ratio (i.e., higher proportion of equity).",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "The commonly-used LTV ratio is an evaluation of the amount of collateral value that can be used to support the loan. Past experience suggests it is highly correlated with credit risk. Residential mortgage loans with higher LTV ratios generally perform worse than those with a lower LTV ratio (i.e., higher proportion of equity)."
+        }
+      ]
+    },
+    {
+      "heading": "LTV Ratio Frameworks",
+      "heading_level": 4,
+      "full_text": "Robust LTV ratio frameworks can serve to mitigate the risk of various mortgage loans (e.g. lower LTV ratio limits can help to mitigate risk by limiting loan exposure). FRFIs should establish and adhere to appropriate maximum LTV ratio limits for various types of mortgage transactions (e.g., insured loans, conventional mortgage loans, non-conforming mortgage loans, and HELOCs). The maximum LTV ratio limits may be determined by law or may be established by a FRFI based on risk and other considerations, including the current and expected market conditions, the type of loan, as well as other risk factors that may impact borrowers’ ability to service their debt and/or lenders’ ability and cost to realize on their security. OSFI expects FRFIs’ LTV ratio frameworks to be dynamic. To this end, FRFIs should have in place a robust process for regularly monitoring, reviewing and updating their LTV ratio frameworks.\nThe LTV ratio should be re-calculated upon any refinancing, and whenever deemed prudent, given changes to a borrower’s risk profile or delinquency status, using an appropriate valuation/appraisal methodology.\nA FRFI should not arrange (or appear to arrange) with another lender, a mortgage or combination of a mortgage and other lending products (secured by the same property), in any form that circumvents the FRFI’s maximum LTV ratio or other limits in its RMUP, or any requirements established by law. For greater clarity, a FRFI should not engage in any transactions (e.g., co-lending, bundling a mortgage loan with various priority interests, or any funding structure involving other secured loans) with other lenders, where the combined LTV of the loan(s) secured against the property exceeds the FRFI’s specific LTV limits established within its LTV ratio framework. Footnote 12",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Robust LTV ratio frameworks can serve to mitigate the risk of various mortgage loans (e.g. lower LTV ratio limits can help to mitigate risk by limiting loan exposure). FRFIs should establish and adhere to appropriate maximum LTV ratio limits for various types of mortgage transactions (e.g., insured loans, conventional mortgage loans, non-conforming mortgage loans, and HELOCs). The maximum LTV ratio limits may be determined by law or may be established by a FRFI based on risk and other considerations, including the current and expected market conditions, the type of loan, as well as other risk factors that may impact borrowers’ ability to service their debt and/or lenders’ ability and cost to realize on their security. OSFI expects FRFIs’ LTV ratio frameworks to be dynamic. To this end, FRFIs should have in place a robust process for regularly monitoring, reviewing and updating their LTV ratio frameworks."
+        },
+        {
+          "type": "paragraph",
+          "text": "The LTV ratio should be re-calculated upon any refinancing, and whenever deemed prudent, given changes to a borrower’s risk profile or delinquency status, using an appropriate valuation/appraisal methodology."
+        },
+        {
+          "type": "paragraph",
+          "text": "A FRFI should not arrange (or appear to arrange) with another lender, a mortgage or combination of a mortgage and other lending products (secured by the same property), in any form that circumvents the FRFI’s maximum LTV ratio or other limits in its RMUP, or any requirements established by law. For greater clarity, a FRFI should not engage in any transactions (e.g., co-lending, bundling a mortgage loan with various priority interests, or any funding structure involving other secured loans) with other lenders, where the combined LTV of the loan(s) secured against the property exceeds the FRFI’s specific LTV limits established within its LTV ratio framework. Footnote 12"
+        }
+      ]
+    },
+    {
+      "heading": "Down payment",
+      "heading_level": 4,
+      "full_text": "With respect to the borrower’s down payment for both insured and uninsured mortgages, FRFIs should make rigorous efforts to determine if it is sourced from the borrower’s own resources or savings. Where part or all of the down payment is gifted to a borrower, it should be accompanied by a letter from those providing the gift confirming no recourse. Where non-traditional sources of down payment (e.g., borrowed funds) are being used, further consideration should be given to establishing greater risk mitigation. Incentive and rebate payments (i.e., “cash back”) should not be considered part of the down payment. Footnote 13",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "With respect to the borrower’s down payment for both insured and uninsured mortgages, FRFIs should make rigorous efforts to determine if it is sourced from the borrower’s own resources or savings. Where part or all of the down payment is gifted to a borrower, it should be accompanied by a letter from those providing the gift confirming no recourse. Where non-traditional sources of down payment (e.g., borrowed funds) are being used, further consideration should be given to establishing greater risk mitigation. Incentive and rebate payments (i.e., “cash back”) should not be considered part of the down payment. Footnote 13"
+        }
+      ]
+    },
+    {
+      "heading": "Property value used for the LTV ratio",
+      "heading_level": 4,
+      "full_text": "FRFIs should assess and adjust, as appropriate, the value of the property for the purposes of calculating the LTV and determining lending thresholds within LTV limits, including limits for conventional mortgage loans, non-conforming mortgage loans and HELOCs (see sub-sections below), by considering relevant risk factors that make the underlying property more vulnerable to a significant house price correction or that may significantly affect the marketability of the property. These factors include, but are not limited to:\n  - The location, type, and expected use of the property for which the loan is granted;\n  - The property’s current market price, recent price trends and housing market conditions; and\n  - Any other relevant risk that may affect the sustainability of the value of the underlying property.\nIn markets that have experienced rapid house price increases, FRFIs should use more conservative approaches to estimating the property value for LTV calculations and not assume that prices will remain stable or continue to rise.\nFor the purposes of incorporating property value risk and determining appropriate lending thresholds for mortgage loans, FRFIs have flexibility to apply valuation adjustments to specific properties when calculating LTV and/or by setting LTV ratio framework limits that consider and incorporate the property valuation risk factors described in this sub-section.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "FRFIs should assess and adjust, as appropriate, the value of the property for the purposes of calculating the LTV and determining lending thresholds within LTV limits, including limits for conventional mortgage loans, non-conforming mortgage loans and HELOCs (see sub-sections below), by considering relevant risk factors that make the underlying property more vulnerable to a significant house price correction or that may significantly affect the marketability of the property. These factors include, but are not limited to:"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "The location, type, and expected use of the property for which the loan is granted;",
+            "The property’s current market price, recent price trends and housing market conditions; and",
+            "Any other relevant risk that may affect the sustainability of the value of the underlying property."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "In markets that have experienced rapid house price increases, FRFIs should use more conservative approaches to estimating the property value for LTV calculations and not assume that prices will remain stable or continue to rise."
+        },
+        {
+          "type": "paragraph",
+          "text": "For the purposes of incorporating property value risk and determining appropriate lending thresholds for mortgage loans, FRFIs have flexibility to apply valuation adjustments to specific properties when calculating LTV and/or by setting LTV ratio framework limits that consider and incorporate the property valuation risk factors described in this sub-section."
+        }
+      ]
+    },
+    {
+      "heading": "LTV Ratio and Loan Type",
+      "heading_level": 4,
+      "full_text": "Residential mortgage loans are often defined with reference to their LTV ratio. A FRFI’s LTV limit structure for underwriting loans should reflect the risk attributes of different types of mortgage loans and be consistent with its RMUP. OSFI expects the average LTV ratios for all conforming and non-conforming residential mortgages to be less than the FRFI’s stated maximums, as articulated in its RMUP, and reflect a reasonable distribution across the portfolio.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Residential mortgage loans are often defined with reference to their LTV ratio. A FRFI’s LTV limit structure for underwriting loans should reflect the risk attributes of different types of mortgage loans and be consistent with its RMUP. OSFI expects the average LTV ratios for all conforming and non-conforming residential mortgages to be less than the FRFI’s stated maximums, as articulated in its RMUP, and reflect a reasonable distribution across the portfolio."
+        }
+      ]
+    },
+    {
+      "heading": "(i) Non-Conventional (“High Ratio”) Mortgage Loans",
+      "heading_level": 5,
+      "full_text": "Non-conventional, or “high ratio”, loans have higher LTV ratios (less equity) at origination and generally require mortgage insurance to mitigate risk (see Principle 5). By law, residential mortgages underwritten for the purpose of purchasing, renovating or improving a property must be insured if their LTV ratios are greater than 80 percent. Footnote 14",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Non-conventional, or “high ratio”, loans have higher LTV ratios (less equity) at origination and generally require mortgage insurance to mitigate risk (see Principle 5). By law, residential mortgages underwritten for the purpose of purchasing, renovating or improving a property must be insured if their LTV ratios are greater than 80 percent. Footnote 14"
+        }
+      ]
+    },
+    {
+      "heading": "(ii) Conventional (“Low Ratio”) Mortgage Loans",
+      "heading_level": 5,
+      "full_text": "Conventional, or “low ratio”, mortgage loans have lower LTV ratios (more equity) at origination and do not require mortgage insurance by law since their LTV ratios are equal to or less than 80 percent.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Conventional, or “low ratio”, mortgage loans have lower LTV ratios (more equity) at origination and do not require mortgage insurance by law since their LTV ratios are equal to or less than 80 percent."
+        }
+      ]
+    },
+    {
+      "heading": "(iii) Non-Conforming Mortgage Loans",
+      "heading_level": 5,
+      "full_text": "Non-conforming mortgage loans are a subset of conventional mortgage loans and are broadly defined as having higher-risk attributes or deficiencies, relative to other conventional mortgages. OSFI expects FRFIs to develop and maintain a comprehensive and risk-based definition for non-conforming loans in their RMUPs. In general, a FRFI’s definition should include any of the following:\n  - Loans with insufficient income verification (i.e., do not meet principle 3);\n  - Loans to borrowers with low credit scores;\n  - Loans to borrowers with high debt serviceability ratios;\n  - Loans with underlying property attributes that result in elevated credit risk (e.g., illiquid properties); or\n  - Loans that otherwise have clear deficiencies relative to other conforming mortgages.\nOSFI expects FRFIs to impose a maximum LTV ratio less than or equal to 65 percent for non-conforming residential mortgages. This threshold should not be used as a demarcation point below which sound underwriting practices and borrower due diligence do not apply.\nIn general, the maximum lending threshold for a non-conforming loan should decrease as the risk of the transaction increases (e.g., due to presence of multiple higher-risk attributes or deficiencies in a loan application, the presence of higher risk factors around property valuation, etc.)",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Non-conforming mortgage loans are a subset of conventional mortgage loans and are broadly defined as having higher-risk attributes or deficiencies, relative to other conventional mortgages. OSFI expects FRFIs to develop and maintain a comprehensive and risk-based definition for non-conforming loans in their RMUPs. In general, a FRFI’s definition should include any of the following:"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Loans with insufficient income verification (i.e., do not meet principle 3);",
+            "Loans to borrowers with low credit scores;",
+            "Loans to borrowers with high debt serviceability ratios;",
+            "Loans with underlying property attributes that result in elevated credit risk (e.g., illiquid properties); or",
+            "Loans that otherwise have clear deficiencies relative to other conforming mortgages."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "OSFI expects FRFIs to impose a maximum LTV ratio less than or equal to 65 percent for non-conforming residential mortgages. This threshold should not be used as a demarcation point below which sound underwriting practices and borrower due diligence do not apply."
+        },
+        {
+          "type": "paragraph",
+          "text": "In general, the maximum lending threshold for a non-conforming loan should decrease as the risk of the transaction increases (e.g., due to presence of multiple higher-risk attributes or deficiencies in a loan application, the presence of higher risk factors around property valuation, etc.)"
+        }
+      ]
+    },
+    {
+      "heading": "(iv) Home Equity Lines of Credit (HELOCs)",
+      "heading_level": 5,
+      "full_text": "A HELOC Footnote 15 is a form of non-amortizing (revolving) credit that is secured by a residential property. Unlike a traditional residential mortgage, most HELOCs are not constructed to fit a pre-determined amortization, although regular, minimum periodic payments are generally required by most lenders.\nHELOC products provide an alternative source of funds for consumers. However, FRFIs should recognize that, over time, these products can also significantly add to a consumer’s outstanding debt. While some borrowers may elect to repay their outstanding HELOC balances over a shorter period of time relative to the average amortization of a typical traditional mortgage, the revolving nature of HELOCs can also lead to greater persistence of outstanding balances, and greater risk of loss to lenders. As well, it can be easier for borrowers to conceal potential financial distress by drawing on their lines of credit to make mortgage payments and, consequently, present a challenge for lenders to adequately assess changing credit risk exposures in a timely fashion.\nGiven the unique features of HELOCS relative to traditional residential mortgages, FRFIs should ensure appropriate mitigation of the associated risks of HELOCs, including the ability to expect full repayment over time, and the need for increased monitoring of a borrower’s credit quality. In addition, FRFIs should review the authorized amount of a HELOC where any material decline in the value of the underlying property has occurred and/or the borrower’s financial condition has changed materially. This expectation also applies where a HELOC is structured as part of a consolidated or linked mortgage loan product.\nOSFI expects FRFIs to limit the non-amortizing HELOC component of a residential mortgage to a maximum authorized LTV ratio of less than or equal to 65 percent. Footnote 16 OSFI expects the average LTV ratio for all HELOCs to be less than the FRFI’s stated maximums, as articulated in its RMUP, and reflect a reasonable distribution across the portfolio.\nFor greater clarity, in determining lending thresholds for HELOCs, OSFI expects FRFIs to apply the principles set out in the sub-sections “LTV Ratio Frameworks” and “Property Value used for the LTV Ratio”. In general, the maximum lending threshold for a HELOC should decrease as the risk of the transaction increases (e.g., due to presence of higher-risk borrower factors, the presence of higher risk factors around property valuation, etc.)\nPrinciple 5: FRFIs should have effective credit and counterparty risk management practices and procedures that support residential mortgage underwriting and loan asset portfolio management, including, as appropriate, mortgage insurance.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "A HELOC Footnote 15 is a form of non-amortizing (revolving) credit that is secured by a residential property. Unlike a traditional residential mortgage, most HELOCs are not constructed to fit a pre-determined amortization, although regular, minimum periodic payments are generally required by most lenders."
+        },
+        {
+          "type": "paragraph",
+          "text": "HELOC products provide an alternative source of funds for consumers. However, FRFIs should recognize that, over time, these products can also significantly add to a consumer’s outstanding debt. While some borrowers may elect to repay their outstanding HELOC balances over a shorter period of time relative to the average amortization of a typical traditional mortgage, the revolving nature of HELOCs can also lead to greater persistence of outstanding balances, and greater risk of loss to lenders. As well, it can be easier for borrowers to conceal potential financial distress by drawing on their lines of credit to make mortgage payments and, consequently, present a challenge for lenders to adequately assess changing credit risk exposures in a timely fashion."
+        },
+        {
+          "type": "paragraph",
+          "text": "Given the unique features of HELOCS relative to traditional residential mortgages, FRFIs should ensure appropriate mitigation of the associated risks of HELOCs, including the ability to expect full repayment over time, and the need for increased monitoring of a borrower’s credit quality. In addition, FRFIs should review the authorized amount of a HELOC where any material decline in the value of the underlying property has occurred and/or the borrower’s financial condition has changed materially. This expectation also applies where a HELOC is structured as part of a consolidated or linked mortgage loan product."
+        },
+        {
+          "type": "paragraph",
+          "text": "OSFI expects FRFIs to limit the non-amortizing HELOC component of a residential mortgage to a maximum authorized LTV ratio of less than or equal to 65 percent. Footnote 16 OSFI expects the average LTV ratio for all HELOCs to be less than the FRFI’s stated maximums, as articulated in its RMUP, and reflect a reasonable distribution across the portfolio."
+        },
+        {
+          "type": "paragraph",
+          "text": "For greater clarity, in determining lending thresholds for HELOCs, OSFI expects FRFIs to apply the principles set out in the sub-sections “LTV Ratio Frameworks” and “Property Value used for the LTV Ratio”. In general, the maximum lending threshold for a HELOC should decrease as the risk of the transaction increases (e.g., due to presence of higher-risk borrower factors, the presence of higher risk factors around property valuation, etc.)"
+        },
+        {
+          "type": "paragraph",
+          "text": "Principle 5: FRFIs should have effective credit and counterparty risk management practices and procedures that support residential mortgage underwriting and loan asset portfolio management, including, as appropriate, mortgage insurance."
+        }
+      ]
+    },
+    {
+      "heading": "Mortgage insurance",
+      "heading_level": 3,
+      "full_text": "Mortgage default insurance (mortgage insurance) is often used as a risk mitigation strategy. However, mortgage insurance should not be a substitute for sound underwriting practices by FRFIs, as outlined in this Guideline. It should not be considered a substitute for conducting adequate due diligence on the borrower, or for using other risk mitigants.\nFRFIs may obtain mortgage insurance from CMHC and private mortgage insurance providers. OSFI agrees that the use of either is appropriate, provided that a FRFI conduct due diligence on the mortgage insurer commensurate with its level of exposure to that insurer. When performing such an assessment, a FRFI should give consideration to, among other things, the mortgage insurer’s:\n  - Claims payment record;\n  - Expected future claims obligations;\n  - Balance sheet strength;\n  - Funding sources, including the level of and access to capital, and form, amount and sources of liquidity;\n  - Management, including the quality of its governance practices and procedures; and\n  - Reinsurance arrangements and the direct and indirect impact that they may have on the FRFI’s own arrangements with the insurer.\nThe evaluation of each FRFI’s mortgage insurance counterparty should be updated throughout the life of the insurance contract. In cases where there may be material exposures incurred but not reported losses, FRFI management should ensure that the evaluation continues beyond the expiration date of the contract to ensure that the FRFI assesses potential insurance recoverable from expected future claims.\nFor insured mortgages, FRFIs should meet any underwriting, valuation, or other information requirements set out by the mortgage insurer to ensure the validity of insurance on those loans.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Mortgage default insurance (mortgage insurance) is often used as a risk mitigation strategy. However, mortgage insurance should not be a substitute for sound underwriting practices by FRFIs, as outlined in this Guideline. It should not be considered a substitute for conducting adequate due diligence on the borrower, or for using other risk mitigants."
+        },
+        {
+          "type": "paragraph",
+          "text": "FRFIs may obtain mortgage insurance from CMHC and private mortgage insurance providers. OSFI agrees that the use of either is appropriate, provided that a FRFI conduct due diligence on the mortgage insurer commensurate with its level of exposure to that insurer. When performing such an assessment, a FRFI should give consideration to, among other things, the mortgage insurer’s:"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Claims payment record;",
+            "Expected future claims obligations;",
+            "Balance sheet strength;",
+            "Funding sources, including the level of and access to capital, and form, amount and sources of liquidity;",
+            "Management, including the quality of its governance practices and procedures; and",
+            "Reinsurance arrangements and the direct and indirect impact that they may have on the FRFI’s own arrangements with the insurer."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "The evaluation of each FRFI’s mortgage insurance counterparty should be updated throughout the life of the insurance contract. In cases where there may be material exposures incurred but not reported losses, FRFI management should ensure that the evaluation continues beyond the expiration date of the contract to ensure that the FRFI assesses potential insurance recoverable from expected future claims."
+        },
+        {
+          "type": "paragraph",
+          "text": "For insured mortgages, FRFIs should meet any underwriting, valuation, or other information requirements set out by the mortgage insurer to ensure the validity of insurance on those loans."
+        }
+      ]
+    },
+    {
+      "heading": "Purchase of mortgage assets originated by a third party",
+      "heading_level": 3,
+      "full_text": "FRFIs that acquire residential mortgage loans that have been originated by a third party should ensure that the underwriting standards of that third party – including due diligence on the borrower, debt service coverage, collateral management, LTV ratios, etc. – are consistent with the FRFI’s RMUP and compliant with this Guideline. FRFIs should not rely solely on the attestation of the third party. In addition to underwriting, FRFIs should also consider the risks associated with other functions that may be performed by the third party in respect of acquired loans (e.g., servicing).",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "FRFIs that acquire residential mortgage loans that have been originated by a third party should ensure that the underwriting standards of that third party – including due diligence on the borrower, debt service coverage, collateral management, LTV ratios, etc. – are consistent with the FRFI’s RMUP and compliant with this Guideline. FRFIs should not rely solely on the attestation of the third party. In addition to underwriting, FRFIs should also consider the risks associated with other functions that may be performed by the third party in respect of acquired loans (e.g., servicing)."
+        }
+      ]
+    },
+    {
+      "heading": "Model validation and stress testing",
+      "heading_level": 3,
+      "full_text": "FRFIs often use models to contribute to residential mortgage underwriting and/or acquisition decisions (e.g., valuation or bankruptcy models) or to make lending decisions by way of auto-adjudication.\nFRFIs are expected to have an independent validation process at both inception and on a regular basis for these models. This would include the regular review and recalibration of risk parameters with respect to their mortgage portfolio. The models used should reflect the nature of the portfolio and, as appropriate, be adapted if there is substantial variation of risk within the portfolio. This could include the development of new models to capture specific risk segments.\nAdditionally, FRFIs should have a stress-testing regime that considers unlikely, but plausible, scenarios and their potential impact on the residential mortgage portfolio. The results of such stress testing should be considered in the on-going validation of any models and substantially reflected in FRFIs’ Internal Capital Adequacy Assessment Process (ICAAP) Footnote 17 (deposit-taking institutions) or internal target capital ratio (insurance companies).",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "FRFIs often use models to contribute to residential mortgage underwriting and/or acquisition decisions (e.g., valuation or bankruptcy models) or to make lending decisions by way of auto-adjudication."
+        },
+        {
+          "type": "paragraph",
+          "text": "FRFIs are expected to have an independent validation process at both inception and on a regular basis for these models. This would include the regular review and recalibration of risk parameters with respect to their mortgage portfolio. The models used should reflect the nature of the portfolio and, as appropriate, be adapted if there is substantial variation of risk within the portfolio. This could include the development of new models to capture specific risk segments."
+        },
+        {
+          "type": "paragraph",
+          "text": "Additionally, FRFIs should have a stress-testing regime that considers unlikely, but plausible, scenarios and their potential impact on the residential mortgage portfolio. The results of such stress testing should be considered in the on-going validation of any models and substantially reflected in FRFIs’ Internal Capital Adequacy Assessment Process (ICAAP) Footnote 17 (deposit-taking institutions) or internal target capital ratio (insurance companies)."
+        }
+      ]
+    },
+    {
+      "heading": "Heightened prudence",
+      "heading_level": 4,
+      "full_text": "FRFIs have the flexibility to underwrite and/or acquire a wide range of residential mortgages with varying risk profiles. However, for residential mortgage loan asset portfolios of FRFIs that constitute greater credit risks (e.g., non-conforming mortgages), OSFI expects FRFIs to exercise heightened prudence through:\n  - Greater senior management oversight of the asset portfolio;\n  - Increased reporting and monitoring of the residential mortgage loan asset portfolio by management;\n  - Stronger internal controls (i.e., additional substantiation of credit qualification information, enhanced credit approval processes, greater scrutiny by the risk management oversight function, etc.);\n  - Stronger default management and collections capabilities; and\n  - Increased capital levels backstopping the impact of portfolio risk (see next section).\nFRFIs should understand their mortgage portfolio risk dynamics, and ensure they are taken into account when refining their risk appetite expectations.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "FRFIs have the flexibility to underwrite and/or acquire a wide range of residential mortgages with varying risk profiles. However, for residential mortgage loan asset portfolios of FRFIs that constitute greater credit risks (e.g., non-conforming mortgages), OSFI expects FRFIs to exercise heightened prudence through:"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Greater senior management oversight of the asset portfolio;",
+            "Increased reporting and monitoring of the residential mortgage loan asset portfolio by management;",
+            "Stronger internal controls (i.e., additional substantiation of credit qualification information, enhanced credit approval processes, greater scrutiny by the risk management oversight function, etc.);",
+            "Stronger default management and collections capabilities; and",
+            "Increased capital levels backstopping the impact of portfolio risk (see next section)."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "FRFIs should understand their mortgage portfolio risk dynamics, and ensure they are taken into account when refining their risk appetite expectations."
+        }
+      ]
+    },
+    {
+      "heading": "Adequacy of regulatory capital",
+      "heading_level": 4,
+      "full_text": "OSFI expects that FRFIs will maintain adequate regulatory capital levels to properly reflect the risks being undertaken through the underwriting and/or acquisition of residential mortgages. FRFIs should reflect mortgage loan assets with inherently greater risk either in their risk-based rating systems or through risk-sensitive increases in capital identified through their ICAAP (deposit-taking institutions) or internal target capital ratio (insurance companies).",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "OSFI expects that FRFIs will maintain adequate regulatory capital levels to properly reflect the risks being undertaken through the underwriting and/or acquisition of residential mortgages. FRFIs should reflect mortgage loan assets with inherently greater risk either in their risk-based rating systems or through risk-sensitive increases in capital identified through their ICAAP (deposit-taking institutions) or internal target capital ratio (insurance companies)."
+        }
+      ]
+    },
+    {
+      "heading": "Disclosure requirements",
+      "heading_level": 3,
+      "full_text": "Increased disclosure leads to greater transparency, clarity and public confidence in FRFI residential mortgage underwriting practices. As a matter of principle, FRFIs should publicly disclose sufficient information related to their residential mortgage portfolios for market participants to be able to conduct an adequate evaluation of the soundness and condition of FRFIs’ residential mortgage operations.\nPublic disclosures related to residential mortgages should include, but not limited to, the publishing by residential mortgage lenders and acquirers that are FRFIs, on a quarterly basis, and in a format and location that will support public availability and comprehension:\n  - The amount and percentage of the total residential mortgage loans and HELOCs that are insured versus uninsured. This should include the FRFI’s definition of “insured”. In addition, a geographic breakdown for the amount and percentage of the total residential mortgage loans and HELOCs that are insured versus uninsured – provincially in Canada, as well as from foreign operations;\n  - The percentage of residential mortgages that fall within various amortization period ranges significant for the FRFI, e.g., 20-24 years, 25-29 years, 30-34 years, 35 years and greater – in Canada, as well as from foreign operations;\n  - The average LTV ratio for the newly originated and acquired uninsured residential mortgages and HELOCs at the end of each period. In addition, a geographic breakdown for the average LTV ratio for the newly originated and acquired uninsured residential mortgage loans and HELOCs – provincially in Canada, as well as from foreign operations; and\n  - A discussion on the potential impact on residential mortgage loans and HELOCs in the event of an economic downturn.\nTo meet the above disclosure requirements, the presentation of foreign operations can be grouped into one category, such as “other jurisdictions”.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Increased disclosure leads to greater transparency, clarity and public confidence in FRFI residential mortgage underwriting practices. As a matter of principle, FRFIs should publicly disclose sufficient information related to their residential mortgage portfolios for market participants to be able to conduct an adequate evaluation of the soundness and condition of FRFIs’ residential mortgage operations."
+        },
+        {
+          "type": "paragraph",
+          "text": "Public disclosures related to residential mortgages should include, but not limited to, the publishing by residential mortgage lenders and acquirers that are FRFIs, on a quarterly basis, and in a format and location that will support public availability and comprehension:"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "The amount and percentage of the total residential mortgage loans and HELOCs that are insured versus uninsured. This should include the FRFI’s definition of “insured”. In addition, a geographic breakdown for the amount and percentage of the total residential mortgage loans and HELOCs that are insured versus uninsured – provincially in Canada, as well as from foreign operations;",
+            "The percentage of residential mortgages that fall within various amortization period ranges significant for the FRFI, e.g., 20-24 years, 25-29 years, 30-34 years, 35 years and greater – in Canada, as well as from foreign operations;",
+            "The average LTV ratio for the newly originated and acquired uninsured residential mortgages and HELOCs at the end of each period. In addition, a geographic breakdown for the average LTV ratio for the newly originated and acquired uninsured residential mortgage loans and HELOCs – provincially in Canada, as well as from foreign operations; and",
+            "A discussion on the potential impact on residential mortgage loans and HELOCs in the event of an economic downturn."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "To meet the above disclosure requirements, the presentation of foreign operations can be grouped into one category, such as “other jurisdictions”."
+        }
+      ]
+    },
+    {
+      "heading": "Information for supervisory purposes",
+      "heading_level": 4,
+      "full_text": "Enhanced transparency and sound documentation, will allow OSFI to better understand the FRFI’s financial position and economic impacts and risks associated with a FRFI’s residential mortgage underwriting and acquisition practices. A FRFI is required to maintain and provide to OSFI, upon request, its RMUP and associated management reports. A FRFI should promptly inform OSFI if it becomes aware of any mortgage underwriting issues that could materially impact its financial condition.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Enhanced transparency and sound documentation, will allow OSFI to better understand the FRFI’s financial position and economic impacts and risks associated with a FRFI’s residential mortgage underwriting and acquisition practices. A FRFI is required to maintain and provide to OSFI, upon request, its RMUP and associated management reports. A FRFI should promptly inform OSFI if it becomes aware of any mortgage underwriting issues that could materially impact its financial condition."
+        }
+      ]
+    },
+    {
+      "heading": "Non-compliance with the guideline",
+      "heading_level": 4,
+      "full_text": "OSFI supervises FRFIs in order to determine whether they are in sound financial condition and to promptly advise the FRFI Board and Senior Management in the event the institution is not in sound financial condition or is not complying with supervisory requirements. OSFI is required to take, or require the Board and/or Senior Management to take, necessary corrective measures or series of measures to deal with prudential soundness issues in an expeditious manner and to promote the adoption by management and boards of directors of financial institutions of policies and procedures designed to control and manage risk.\nWhere a FRFI fails to adequately account and control for the risks of underwriting or acquisition of residential mortgages, on a case-by-case basis, OSFI can take, or require the FRFI to take, corrective measures. OSFI actions can include heightened supervisory activity and/or the discretionary authority to adjust the FRFI’s capital requirements or authorized leverage ratio, commensurate with the risks being undertaken by the FRFI.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "OSFI supervises FRFIs in order to determine whether they are in sound financial condition and to promptly advise the FRFI Board and Senior Management in the event the institution is not in sound financial condition or is not complying with supervisory requirements. OSFI is required to take, or require the Board and/or Senior Management to take, necessary corrective measures or series of measures to deal with prudential soundness issues in an expeditious manner and to promote the adoption by management and boards of directors of financial institutions of policies and procedures designed to control and manage risk."
+        },
+        {
+          "type": "paragraph",
+          "text": "Where a FRFI fails to adequately account and control for the risks of underwriting or acquisition of residential mortgages, on a case-by-case basis, OSFI can take, or require the FRFI to take, corrective measures. OSFI actions can include heightened supervisory activity and/or the discretionary authority to adjust the FRFI’s capital requirements or authorized leverage ratio, commensurate with the risks being undertaken by the FRFI."
+        }
+      ]
+    },
+    {
+      "heading": "IV. Other guidance",
+      "heading_level": 2,
+      "full_text": "This Guideline is complementary to, and should be read in conjunction with, other OSFI guidance:\n  - Corporate Governance Guideline\n  - Guideline B-1 (Prudent Person Approach)\n  - Guideline B-2 (Large Exposure Limits)\n  - Guideline B-10 (Outsourcing of Business Activities, Functions and Processes)\n  - Guideline E-21 (Operational Risk Management)\n  - Capital Adequacy Requirements Guideline\n  - Leverage Requirements Guideline\n  - Guideline A-4 (Regulatory Capital and Internal Capital Targets)\n[Note: Footnotes Footnote 1 This includes financial institutions incorporated, continued or regulated under the Bank Act, Trust and Loan Companies Act, Insurance Companies Act and the Cooperative Credit Associations Act . Return to footnote 1 referrer Footnote 2 For the purpose of this Guideline, an “insured mortgage” refers to a mortgage loan that is insured against loss caused by default on the part of a borrower, under a loan secured by real property (i.e., one- to four-unit dwellings) or chattel, or for a property that is on-reserve. This includes both individual transaction and portfolio insurance. It does not include separate insurance products that often accompany mortgage loans, such as: life, disability, illness, loss of employment, title, or property valuation insurance. Return to footnote 2 referrer Footnote 3 For greater clarity, this includes an individual borrower, personal investment company, personal holding company, or personal trust. This does not include commercial loans, such as loans to entities engaged in residential real estate investments or transactions where a residential property is used in support of a commercial credit application. Return to footnote 3 referrer Footnote 4 The RMUP can be one consolidated document or a set of mortgage policy documents. Return to footnote 4 referrer Footnote 5 The requirements for the Risk Appetite Framework are summarized in the OSFI Corporate Governance guideline . Return to footnote 5 referrer Footnote 6 Typically, these processes are carried out by the FRFI’s risk management oversight function. Return to footnote 6 referrer Footnote 7 Refer to OSFI’s Corporate Governance Guideline for additional guidance in this area. Return to footnote 7 referrer Footnote 8 This includes a borrower’s agreement to obtain property insurance, as a condition of mortgage approval, as well as proof of property insurance obtained by the FRFI when the mortgage funds are disbursed. Return to footnote 8 referrer Footnote 9 The PCMLTFA and the PCMLTFR do not apply to property and casualty insurance companies. Return to footnote 9 referrer Footnote 10 OSFI will review the calibration of the qualifying rate (both the buffer and floor) at least annually and will issue announcements if there are any calibration changes. Return to footnote 10 referrer Footnote 11 From an operational risk perspective, obtaining recourse to a borrower’s foreign assets, in the event of default, may be more challenging for FRFIs. Return to footnote 11 referrer Footnote 12 This restriction does not apply in cases where the additional secured funding is provided by a municipal, territorial, provincial or the federal government. Return to footnote 12 referrer Footnote 13 Incentive and rebate payments (i.e., “cash back”) may be considered as part of the down payment in cases related to Affordable Housing Programs that are funded by a municipal, territorial, provincial or the federal government. OSFI expects a FRFI to exercise increased oversight, control, and reporting in respect of such transactions. Return to footnote 13 referrer Footnote 14 See the Bank Act , subsection 418(1); Trust and Loan Companies Act , subsection 418(1); Insurance Companies Act , subsection 469(1); and the Cooperative Credit Associations Act , subsection 382.1 (1). Return to footnote 14 referrer Footnote 15 For the purpose of this guideline, all reverse mortgages, or any non-amortizing (revolving) credit product secured by residential property, are considered to be HELOCs. Return to footnote 15 referrer Footnote 16 Additional mortgage credit (beyond the LTV ratio limit of 65 percent for HELOCs) can be extended to a borrower. However, the loan portion over the 65 percent LTV ratio threshold should be amortized. Return to footnote 16 referrer Footnote 17 Deposit-taking institutions establish a level of capital adequate to support the nature and level of an institution’s risk. Each federally-regulated deposit-taking institution is responsible for developing and implementing its own ICAAP for the purpose of setting internal capital targets and developing strategies for achieving those internal targets that are consistent with its business plans, risk profile and operating environment. See OSFI Guideline E-19 Internal Capital Adequacy Assessment Process . Return to footnote 17 referrer]",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "This Guideline is complementary to, and should be read in conjunction with, other OSFI guidance:"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Corporate Governance Guideline",
+            "Guideline B-1 (Prudent Person Approach)",
+            "Guideline B-2 (Large Exposure Limits)",
+            "Guideline B-10 (Outsourcing of Business Activities, Functions and Processes)",
+            "Guideline E-21 (Operational Risk Management)",
+            "Capital Adequacy Requirements Guideline",
+            "Leverage Requirements Guideline",
+            "Guideline A-4 (Regulatory Capital and Internal Capital Targets)"
+          ]
+        },
+        {
+          "type": "footnote",
+          "text": "Footnotes Footnote 1 This includes financial institutions incorporated, continued or regulated under the Bank Act, Trust and Loan Companies Act, Insurance Companies Act and the Cooperative Credit Associations Act . Return to footnote 1 referrer Footnote 2 For the purpose of this Guideline, an “insured mortgage” refers to a mortgage loan that is insured against loss caused by default on the part of a borrower, under a loan secured by real property (i.e., one- to four-unit dwellings) or chattel, or for a property that is on-reserve. This includes both individual transaction and portfolio insurance. It does not include separate insurance products that often accompany mortgage loans, such as: life, disability, illness, loss of employment, title, or property valuation insurance. Return to footnote 2 referrer Footnote 3 For greater clarity, this includes an individual borrower, personal investment company, personal holding company, or personal trust. This does not include commercial loans, such as loans to entities engaged in residential real estate investments or transactions where a residential property is used in support of a commercial credit application. Return to footnote 3 referrer Footnote 4 The RMUP can be one consolidated document or a set of mortgage policy documents. Return to footnote 4 referrer Footnote 5 The requirements for the Risk Appetite Framework are summarized in the OSFI Corporate Governance guideline . Return to footnote 5 referrer Footnote 6 Typically, these processes are carried out by the FRFI’s risk management oversight function. Return to footnote 6 referrer Footnote 7 Refer to OSFI’s Corporate Governance Guideline for additional guidance in this area. Return to footnote 7 referrer Footnote 8 This includes a borrower’s agreement to obtain property insurance, as a condition of mortgage approval, as well as proof of property insurance obtained by the FRFI when the mortgage funds are disbursed. Return to footnote 8 referrer Footnote 9 The PCMLTFA and the PCMLTFR do not apply to property and casualty insurance companies. Return to footnote 9 referrer Footnote 10 OSFI will review the calibration of the qualifying rate (both the buffer and floor) at least annually and will issue announcements if there are any calibration changes. Return to footnote 10 referrer Footnote 11 From an operational risk perspective, obtaining recourse to a borrower’s foreign assets, in the event of default, may be more challenging for FRFIs. Return to footnote 11 referrer Footnote 12 This restriction does not apply in cases where the additional secured funding is provided by a municipal, territorial, provincial or the federal government. Return to footnote 12 referrer Footnote 13 Incentive and rebate payments (i.e., “cash back”) may be considered as part of the down payment in cases related to Affordable Housing Programs that are funded by a municipal, territorial, provincial or the federal government. OSFI expects a FRFI to exercise increased oversight, control, and reporting in respect of such transactions. Return to footnote 13 referrer Footnote 14 See the Bank Act , subsection 418(1); Trust and Loan Companies Act , subsection 418(1); Insurance Companies Act , subsection 469(1); and the Cooperative Credit Associations Act , subsection 382.1 (1). Return to footnote 14 referrer Footnote 15 For the purpose of this guideline, all reverse mortgages, or any non-amortizing (revolving) credit product secured by residential property, are considered to be HELOCs. Return to footnote 15 referrer Footnote 16 Additional mortgage credit (beyond the LTV ratio limit of 65 percent for HELOCs) can be extended to a borrower. However, the loan portion over the 65 percent LTV ratio threshold should be amortized. Return to footnote 16 referrer Footnote 17 Deposit-taking institutions establish a level of capital adequate to support the nature and level of an institution’s risk. Each federally-regulated deposit-taking institution is responsible for developing and implementing its own ICAAP for the purpose of setting internal capital targets and developing strategies for achieving those internal targets that are consistent with its business plans, risk profile and operating environment. See OSFI Guideline E-19 Internal Capital Adequacy Assessment Process . Return to footnote 17 referrer"
+        }
+      ]
+    },
+    {
+      "heading": "Footnotes",
+      "heading_level": 2,
+      "full_text": "This includes financial institutions incorporated, continued or regulated under the Bank Act, Trust and Loan Companies Act, Insurance Companies Act and the Cooperative Credit Associations Act .\nReturn to footnote 1 referrer\nFor the purpose of this Guideline, an “insured mortgage” refers to a mortgage loan that is insured against loss caused by default on the part of a borrower, under a loan secured by real property (i.e., one- to four-unit dwellings) or chattel, or for a property that is on-reserve. This includes both individual transaction and portfolio insurance. It does not include separate insurance products that often accompany mortgage loans, such as: life, disability, illness, loss of employment, title, or property valuation insurance.\nReturn to footnote 2 referrer\nFor greater clarity, this includes an individual borrower, personal investment company, personal holding company, or personal trust. This does not include commercial loans, such as loans to entities engaged in residential real estate investments or transactions where a residential property is used in support of a commercial credit application.\nReturn to footnote 3 referrer\nThe RMUP can be one consolidated document or a set of mortgage policy documents.\nReturn to footnote 4 referrer\nThe requirements for the Risk Appetite Framework are summarized in the OSFI Corporate Governance guideline .\nReturn to footnote 5 referrer\nTypically, these processes are carried out by the FRFI’s risk management oversight function.\nReturn to footnote 6 referrer\nRefer to OSFI’s Corporate Governance Guideline for additional guidance in this area.\nReturn to footnote 7 referrer\nThis includes a borrower’s agreement to obtain property insurance, as a condition of mortgage approval, as well as proof of property insurance obtained by the FRFI when the mortgage funds are disbursed.\nReturn to footnote 8 referrer\nThe PCMLTFA and the PCMLTFR do not apply to property and casualty insurance companies.\nReturn to footnote 9 referrer\nOSFI will review the calibration of the qualifying rate (both the buffer and floor) at least annually and will issue announcements if there are any calibration changes.\nReturn to footnote 10 referrer\nFrom an operational risk perspective, obtaining recourse to a borrower’s foreign assets, in the event of default, may be more challenging for FRFIs.\nReturn to footnote 11 referrer\nThis restriction does not apply in cases where the additional secured funding is provided by a municipal, territorial, provincial or the federal government.\nReturn to footnote 12 referrer\nIncentive and rebate payments (i.e., “cash back”) may be considered as part of the down payment in cases related to Affordable Housing Programs that are funded by a municipal, territorial, provincial or the federal government. OSFI expects a FRFI to exercise increased oversight, control, and reporting in respect of such transactions.\nReturn to footnote 13 referrer\nSee the Bank Act , subsection 418(1); Trust and Loan Companies Act , subsection 418(1); Insurance Companies Act , subsection 469(1); and the Cooperative Credit Associations Act , subsection 382.1 (1).\nReturn to footnote 14 referrer\nFor the purpose of this guideline, all reverse mortgages, or any non-amortizing (revolving) credit product secured by residential property, are considered to be HELOCs.\nReturn to footnote 15 referrer\nAdditional mortgage credit (beyond the LTV ratio limit of 65 percent for HELOCs) can be extended to a borrower. However, the loan portion over the 65 percent LTV ratio threshold should be amortized.\nReturn to footnote 16 referrer\nDeposit-taking institutions establish a level of capital adequate to support the nature and level of an institution’s risk. Each federally-regulated deposit-taking institution is responsible for developing and implementing its own ICAAP for the purpose of setting internal capital targets and developing strategies for achieving those internal targets that are consistent with its business plans, risk profile and operating environment. See OSFI Guideline E-19 Internal Capital Adequacy Assessment Process .\nReturn to footnote 17 referrer",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "This includes financial institutions incorporated, continued or regulated under the Bank Act, Trust and Loan Companies Act, Insurance Companies Act and the Cooperative Credit Associations Act ."
+        },
+        {
+          "type": "paragraph",
+          "text": "Return to footnote 1 referrer"
+        },
+        {
+          "type": "paragraph",
+          "text": "For the purpose of this Guideline, an “insured mortgage” refers to a mortgage loan that is insured against loss caused by default on the part of a borrower, under a loan secured by real property (i.e., one- to four-unit dwellings) or chattel, or for a property that is on-reserve. This includes both individual transaction and portfolio insurance. It does not include separate insurance products that often accompany mortgage loans, such as: life, disability, illness, loss of employment, title, or property valuation insurance."
+        },
+        {
+          "type": "paragraph",
+          "text": "Return to footnote 2 referrer"
+        },
+        {
+          "type": "paragraph",
+          "text": "For greater clarity, this includes an individual borrower, personal investment company, personal holding company, or personal trust. This does not include commercial loans, such as loans to entities engaged in residential real estate investments or transactions where a residential property is used in support of a commercial credit application."
+        },
+        {
+          "type": "paragraph",
+          "text": "Return to footnote 3 referrer"
+        },
+        {
+          "type": "paragraph",
+          "text": "The RMUP can be one consolidated document or a set of mortgage policy documents."
+        },
+        {
+          "type": "paragraph",
+          "text": "Return to footnote 4 referrer"
+        },
+        {
+          "type": "paragraph",
+          "text": "The requirements for the Risk Appetite Framework are summarized in the OSFI Corporate Governance guideline ."
+        },
+        {
+          "type": "paragraph",
+          "text": "Return to footnote 5 referrer"
+        },
+        {
+          "type": "paragraph",
+          "text": "Typically, these processes are carried out by the FRFI’s risk management oversight function."
+        },
+        {
+          "type": "paragraph",
+          "text": "Return to footnote 6 referrer"
+        },
+        {
+          "type": "paragraph",
+          "text": "Refer to OSFI’s Corporate Governance Guideline for additional guidance in this area."
+        },
+        {
+          "type": "paragraph",
+          "text": "Return to footnote 7 referrer"
+        },
+        {
+          "type": "paragraph",
+          "text": "This includes a borrower’s agreement to obtain property insurance, as a condition of mortgage approval, as well as proof of property insurance obtained by the FRFI when the mortgage funds are disbursed."
+        },
+        {
+          "type": "paragraph",
+          "text": "Return to footnote 8 referrer"
+        },
+        {
+          "type": "paragraph",
+          "text": "The PCMLTFA and the PCMLTFR do not apply to property and casualty insurance companies."
+        },
+        {
+          "type": "paragraph",
+          "text": "Return to footnote 9 referrer"
+        },
+        {
+          "type": "paragraph",
+          "text": "OSFI will review the calibration of the qualifying rate (both the buffer and floor) at least annually and will issue announcements if there are any calibration changes."
+        },
+        {
+          "type": "paragraph",
+          "text": "Return to footnote 10 referrer"
+        },
+        {
+          "type": "paragraph",
+          "text": "From an operational risk perspective, obtaining recourse to a borrower’s foreign assets, in the event of default, may be more challenging for FRFIs."
+        },
+        {
+          "type": "paragraph",
+          "text": "Return to footnote 11 referrer"
+        },
+        {
+          "type": "paragraph",
+          "text": "This restriction does not apply in cases where the additional secured funding is provided by a municipal, territorial, provincial or the federal government."
+        },
+        {
+          "type": "paragraph",
+          "text": "Return to footnote 12 referrer"
+        },
+        {
+          "type": "paragraph",
+          "text": "Incentive and rebate payments (i.e., “cash back”) may be considered as part of the down payment in cases related to Affordable Housing Programs that are funded by a municipal, territorial, provincial or the federal government. OSFI expects a FRFI to exercise increased oversight, control, and reporting in respect of such transactions."
+        },
+        {
+          "type": "paragraph",
+          "text": "Return to footnote 13 referrer"
+        },
+        {
+          "type": "paragraph",
+          "text": "See the Bank Act , subsection 418(1); Trust and Loan Companies Act , subsection 418(1); Insurance Companies Act , subsection 469(1); and the Cooperative Credit Associations Act , subsection 382.1 (1)."
+        },
+        {
+          "type": "paragraph",
+          "text": "Return to footnote 14 referrer"
+        },
+        {
+          "type": "paragraph",
+          "text": "For the purpose of this guideline, all reverse mortgages, or any non-amortizing (revolving) credit product secured by residential property, are considered to be HELOCs."
+        },
+        {
+          "type": "paragraph",
+          "text": "Return to footnote 15 referrer"
+        },
+        {
+          "type": "paragraph",
+          "text": "Additional mortgage credit (beyond the LTV ratio limit of 65 percent for HELOCs) can be extended to a borrower. However, the loan portion over the 65 percent LTV ratio threshold should be amortized."
+        },
+        {
+          "type": "paragraph",
+          "text": "Return to footnote 16 referrer"
+        },
+        {
+          "type": "paragraph",
+          "text": "Deposit-taking institutions establish a level of capital adequate to support the nature and level of an institution’s risk. Each federally-regulated deposit-taking institution is responsible for developing and implementing its own ICAAP for the purpose of setting internal capital targets and developing strategies for achieving those internal targets that are consistent with its business plans, risk profile and operating environment. See OSFI Guideline E-19 Internal Capital Adequacy Assessment Process ."
+        },
+        {
+          "type": "paragraph",
+          "text": "Return to footnote 17 referrer"
+        }
+      ]
+    }
+  ],
+  "title_normalized": "residential mortgage underwriting practices and procedures guideline 2017",
+  "publication_type_normalized": "guideline",
+  "category_normalized": "sound_business_and_financial_practices",
+  "sector_normalized": [
+    "banks",
+    "foreign_bank_branches",
+    "life_insurance",
+    "pc_insurance",
+    "trust_and_loan_companies"
+  ],
+  "guideline_number_normalized": "",
+  "applies_to_banks": true,
+  "applies_to_trust_loan": true,
+  "applies_to_life_insurance": true,
+  "applies_to_pc_insurance": true,
+  "applies_to_foreign_bank": true,
+  "applies_to_foreign_insurance": false,
+  "applies_to_cooperative": false,
+  "applies_to_bank_holding": false,
+  "effective_date_sort_key": "2017-10-31",
+  "status_sort_key": 1,
+  "authority_sort_key": 100,
+  "bm25_text": "Residential mortgage underwriting practices and procedures – Guideline (2017) Guideline Sound Business and Financial Practices Banks Foreign Bank Branches Life Insurance and Fraternal Companies Property and Casualty Companies Trust and Loan Companies I. Purpose and scope of the guideline II. Principles Residential Mortgage Underwriting Policy (RMUP) Role of senior management Internal controls, monitoring and reporting Background and credit history of borrower Loan documentation Purpose of mortgage loan Anti-money laundering/anti-terrorist financing Misrepresentation Income verification Guarantors and co-signors of mortgages Debt service coverage Amortization Additional assessment criteria General Property appraisals General LTV Ratio Frameworks Down payment Property value used for the LTV ratio LTV Ratio and Loan Type (i) Non-Conventional (“High Ratio”) Mortgage Loans (ii) Conventional (“Low Ratio”) Mortgage Loans (iii) Non-Conforming Mortgage Loans (iv) Home Equity Lines of Credit (HELOCs) Mortgage insurance Purchase of mortgage assets originated by a third party Model validation and stress testing Heightened prudence Adequacy of regulatory capital Disclosure requirements Information for supervisory purposes Non-compliance with the guideline IV. Other guidance Footnotes",
+  "vector_text_prefix": "[OSFI Guideline  | Sound Business and Financial Practices | Banks / Foreign Bank Branches / Life Insurance and Fraternal Companies | FINAL_CURRENT | Effective 2017-10-31]",
+  "h1_title": "Residential mortgage underwriting practices and procedures – Guideline (2017)",
+  "regulator": "OSFI",
+  "regulator_acronym": "OSFI",
+  "jurisdiction": "Canada",
+  "short_title": "",
+  "source_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/residential-mortgage-underwriting-practices-procedures-guideline-2017"
+}

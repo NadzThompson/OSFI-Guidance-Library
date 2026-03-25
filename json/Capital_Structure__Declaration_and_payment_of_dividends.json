@@ -1,0 +1,274 @@
+{
+  "source_system": "osfi_guidance_library",
+  "library_row_title": "Capital Structure – Declaration and payment of dividends",
+  "library_row_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/capital-structure-declaration-payment-dividends",
+  "listing_date_raw": "April 30, 2003",
+  "listing_date_iso": "2003-04-30",
+  "listing_publication_type": "Regulatory and legislative advisory",
+  "listing_category": "Regulatory and legislative",
+  "listing_sector": [
+    "Bank Act",
+    "Cooperative Credit Associations Act",
+    "Insurance Companies Act",
+    "Trust and Loan Companies Act"
+  ],
+  "crawl_timestamp": "2026-03-11T00:00:00Z",
+  "detail_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/capital-structure-declaration-payment-dividends",
+  "canonical_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/capital-structure-declaration-payment-dividends",
+  "slug": "capital-structure-declaration-payment-dividends",
+  "title": "Capital Structure – Declaration and payment of dividends",
+  "publication_type": "Regulatory and legislative advisory",
+  "category": "Regulatory and legislative",
+  "document_date_raw": "April 30, 2003",
+  "document_date_iso": "2003-04-30",
+  "sector": [
+    "Bank Act",
+    "Cooperative Credit Associations Act",
+    "Insurance Companies Act",
+    "Trust and Loan Companies Act"
+  ],
+  "effective_date_text": "",
+  "guideline_number": "",
+  "date_modified_raw": "2003-04-30T12:00:00Z",
+  "generate_pdf_url": "https://www.osfi-bsif.gc.ca/en/print/pdf/node/532",
+  "pdf_node_id": 532,
+  "direct_pdf_url": null,
+  "has_table_of_contents": true,
+  "toc_entries": [],
+  "has_related_documents": false,
+  "related_document_links_raw": [],
+  "consultation_status_text": null,
+  "consultation_status_refers_to_version": null,
+  "page_language": "en",
+  "word_count_raw_body": 1132,
+  "doc_id": "osfi.capital-structure-declaration-payment-dividends.advisory",
+  "doc_family_id": "osfi.capital-structure-declaration-payment-dividends",
+  "version_id": "",
+  "version_label": "Capital Structure – Declaration and payment of dividends",
+  "version_sort_key": "",
+  "parent_doc_id": null,
+  "child_doc_ids": [],
+  "is_package_page": false,
+  "is_chapter_page": false,
+  "chapter_number": null,
+  "chapter_title": null,
+  "document_order_within_family": 0,
+  "supersedes_doc_id": null,
+  "superseded_by_doc_id": null,
+  "current_version_flag": true,
+  "status": "final_current",
+  "include_in_primary_corpus": true,
+  "include_in_support_corpus": false,
+  "include_in_context_corpus": false,
+  "effective_date_start": "2003-04-30",
+  "effective_date_end": null,
+  "effective_date_fye_split": false,
+  "effective_date_oct_fye": null,
+  "effective_date_dec_fye": null,
+  "is_future_effective": false,
+  "is_rescinded": false,
+  "is_draft_or_consultation": false,
+  "rescission_date": null,
+  "consultation_closing_date": null,
+  "as_of_applicability": "2026-03-23",
+  "rule_applied": "rule_5_final_current",
+  "authority_class": "primary_normative",
+  "authority_level": 100,
+  "nova_tier": 1,
+  "prudential_weight": 1.0,
+  "is_primary_normative": true,
+  "is_supporting_interpretive": false,
+  "is_context_only": false,
+  "document_class": "advisory",
+  "guidance_type_normalized": "regulatory_and_legislative_advisory",
+  "section_headings": [
+    {
+      "level": 2,
+      "text": "Introduction:",
+      "id": "h2-0"
+    },
+    {
+      "level": 2,
+      "text": "Legislative References:",
+      "id": "h2-1"
+    },
+    {
+      "level": 2,
+      "text": "Interpretation",
+      "id": "h2-2"
+    }
+  ],
+  "heading_path": [
+    "Capital Structure – Declaration and payment of dividends"
+  ],
+  "toc_depth": 2,
+  "has_appendices": false,
+  "appendix_ids": [],
+  "has_tables": false,
+  "table_count": 0,
+  "has_footnotes": false,
+  "footnote_count": 0,
+  "inline_cross_references": [],
+  "quoted_external_references": [],
+  "raw_html_sha256": "f8cb3680b4fd238192b8faaa70e9c742cad32c38df5f3741c6ae830285d65f59",
+  "raw_pdf_sha256": null,
+  "normalized_text_sha256": null,
+  "raw_html_path": "bronze/osfi/html/final_current/capital-structure-declaration-payment-dividends.html",
+  "normalized_md_path": "silver/osfi/md/final_current/capital-structure-declaration-payment-dividends.md",
+  "canonical_json_path": "silver/osfi/json/final_current/capital-structure-declaration-payment-dividends.json",
+  "content_source": "HTML",
+  "parser_version": "osfi-parser-v2.1.0",
+  "normalizer_version": "osfi-normalizer-v1.4.0",
+  "quality_score": 1.0,
+  "quality_flags": [],
+  "download_timestamp": "2026-03-11T00:00:00Z",
+  "enriched_timestamp": "2026-03-23T09:53:50.314090Z",
+  "sections": [
+    {
+      "heading": "",
+      "heading_level": 2,
+      "full_text": "Advisories describe how OSFI administers and interprets provisions of existing legislation, regulations or guidelines, or provide OSFI's position regarding certain policy issues. Advisories are not law; readers should refer to the relevant provisions of the legislation, regulation guideline, including any amendments that came into effect subsequent to the Advisory's publication, when considering the relevancy of the Advisory.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Advisories describe how OSFI administers and interprets provisions of existing legislation, regulations or guidelines, or provide OSFI's position regarding certain policy issues. Advisories are not law; readers should refer to the relevant provisions of the legislation, regulation guideline, including any amendments that came into effect subsequent to the Advisory's publication, when considering the relevancy of the Advisory."
+        }
+      ]
+    },
+    {
+      "heading": "Introduction:",
+      "heading_level": 2,
+      "full_text": "This advisory provides an overview of how the Office of the Superintendent of Financial Institutions (OSFI) administers and interprets the provisions of the legislation regarding the declaration and payment of dividends by a federally regulated financial institution (FRFI), a bank holding company (BHC) and an insurance holding company (IHC).",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "This advisory provides an overview of how the Office of the Superintendent of Financial Institutions (OSFI) administers and interprets the provisions of the legislation regarding the declaration and payment of dividends by a federally regulated financial institution (FRFI), a bank holding company (BHC) and an insurance holding company (IHC)."
+        }
+      ]
+    },
+    {
+      "heading": "Legislative References:",
+      "heading_level": 2,
+      "full_text": "Section 79 and 722 of the Bank Act (BA)\nSection 82 of the Trust and Loan Companies Act (TLCA)\nSection 83 and 761 of the Insurance Companies Act (ICA)\nSection 86 of the Cooperative Credit Associations Act (CCAA)",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Section 79 and 722 of the Bank Act (BA)"
+        },
+        {
+          "type": "paragraph",
+          "text": "Section 82 of the Trust and Loan Companies Act (TLCA)"
+        },
+        {
+          "type": "paragraph",
+          "text": "Section 83 and 761 of the Insurance Companies Act (ICA)"
+        },
+        {
+          "type": "paragraph",
+          "text": "Section 86 of the Cooperative Credit Associations Act (CCAA)"
+        }
+      ]
+    },
+    {
+      "heading": "Interpretation",
+      "heading_level": 2,
+      "full_text": "At the time a FRFI, a BHC or an IHC is contemplating a declaration of a dividend, its board of directors must ensure that, following the payment of the dividend, the entity will have adequate capital and adequate and appropriate forms of liquidity to satisfy OSFI’s requirements. In addition a FRFI, a BHC or an IHC is required to notify the Superintendent of the declaration of a dividend at least 15 days prior to the day fixed for its payment.\nThis Advisory provides OSFI’s views and expectations regarding dividends that result in negative retained earnings, and dividend notification requirements.\n  1. Dividends that result in negative retained earnings: When a FRFI, BHC or an IHC contemplates making a declaration and payment of a dividend and that entity already reports negative retained earnings or such payment would result in the entity reporting negative retained earnings, the entity is not required to proceed by way of an application for the reduction of its stated capital. Nonetheless, certain notification requirements (specified below) must be fulfilled and, following the payment of a dividend, OSFI’s capital and liquidity requirements must continue to be maintained on an ongoing basis.\n  2. Notification of the declaration and payment of a dividend: The legislation provides that a FRFI, BHC or an IHC must notify the Superintendent of the declaration of dividends at least 15 days prior to the day fixed for its payment. OSFI expects that such notice would include the total amount of the dividend, the date on which the dividend will be paid, and a confirmation from the entity that, following the payment of the dividend, the entity will have adequate capital and adequate and appropriate forms of liquidity. This notification must be in writing and should be addressed to the Relationship Manager for the entity.\nDividends that result in negative retained earnings: When a FRFI, BHC or an IHC contemplates making a declaration and payment of a dividend and that entity already reports negative retained earnings or such payment would result in the entity reporting negative retained earnings, the entity is not required to proceed by way of an application for the reduction of its stated capital. Nonetheless, certain notification requirements (specified below) must be fulfilled and, following the payment of a dividend, OSFI’s capital and liquidity requirements must continue to be maintained on an ongoing basis.\nNotification of the declaration and payment of a dividend: The legislation provides that a FRFI, BHC or an IHC must notify the Superintendent of the declaration of dividends at least 15 days prior to the day fixed for its payment. OSFI expects that such notice would include the total amount of the dividend, the date on which the dividend will be paid, and a confirmation from the entity that, following the payment of the dividend, the entity will have adequate capital and adequate and appropriate forms of liquidity. This notification must be in writing and should be addressed to the Relationship Manager for the entity.\nWhere the declaration and payment of a proposed dividend would cause the FRFI, BHC or IHC to report negative retained earnings or where the entity is already reporting negative retained earnings, OSFI expects the entity to provide information respecting the financial position of the entity both before and after the payment of the dividend. This information is to be provided in the entity’s notice of a declaration of a dividend, and it should include:\n  1. information respecting its capital position, in the case of: a deposit-taking institution or a BHC: a breakdown of all elements used to calculate each of the risk-based Tier 1 capital ratio, the risk-based total capital ratio and the assets to capital multiple; a life insurance company or an IHC: a breakdown of all elements used to calculate the minimum continuing capital and surplus requirements, including the Tier 1 capital by element and total capital required; or a property & casualty insurance company: details of the minimum capital test; and\n  2. Information respecting its liquidity position: the ratio of gross liquid assets (less pledged assets) to total assets, and a liquidity profile including a high-level breakdown of the assets by category Liquid assets are defined as cash, deposits with the Bank of Canada and regulated financial institutions, and securities issued or guaranteed by the Government of Canada or a Canadian province, municipality or school board. Assets pledged or otherwise encumbered for any purpose should not be considered liquid. .\ninformation respecting its capital position, in the case of:\n  1. a deposit-taking institution or a BHC: a breakdown of all elements used to calculate each of the risk-based Tier 1 capital ratio, the risk-based total capital ratio and the assets to capital multiple;\n  2. a life insurance company or an IHC: a breakdown of all elements used to calculate the minimum continuing capital and surplus requirements, including the Tier 1 capital by element and total capital required; or\n  3. a property & casualty insurance company: details of the minimum capital test; and\na deposit-taking institution or a BHC: a breakdown of all elements used to calculate each of the risk-based Tier 1 capital ratio, the risk-based total capital ratio and the assets to capital multiple;\na life insurance company or an IHC: a breakdown of all elements used to calculate the minimum continuing capital and surplus requirements, including the Tier 1 capital by element and total capital required; or\na property & casualty insurance company: details of the minimum capital test; and\nInformation respecting its liquidity position: the ratio of gross liquid assets (less pledged assets) to total assets, and a liquidity profile including a high-level breakdown of the assets by category Liquid assets are defined as cash, deposits with the Bank of Canada and regulated financial institutions, and securities issued or guaranteed by the Government of Canada or a Canadian province, municipality or school board. Assets pledged or otherwise encumbered for any purpose should not be considered liquid. .",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "At the time a FRFI, a BHC or an IHC is contemplating a declaration of a dividend, its board of directors must ensure that, following the payment of the dividend, the entity will have adequate capital and adequate and appropriate forms of liquidity to satisfy OSFI’s requirements. In addition a FRFI, a BHC or an IHC is required to notify the Superintendent of the declaration of a dividend at least 15 days prior to the day fixed for its payment."
+        },
+        {
+          "type": "paragraph",
+          "text": "This Advisory provides OSFI’s views and expectations regarding dividends that result in negative retained earnings, and dividend notification requirements."
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "Dividends that result in negative retained earnings: When a FRFI, BHC or an IHC contemplates making a declaration and payment of a dividend and that entity already reports negative retained earnings or such payment would result in the entity reporting negative retained earnings, the entity is not required to proceed by way of an application for the reduction of its stated capital. Nonetheless, certain notification requirements (specified below) must be fulfilled and, following the payment of a dividend, OSFI’s capital and liquidity requirements must continue to be maintained on an ongoing basis.",
+            "Notification of the declaration and payment of a dividend: The legislation provides that a FRFI, BHC or an IHC must notify the Superintendent of the declaration of dividends at least 15 days prior to the day fixed for its payment. OSFI expects that such notice would include the total amount of the dividend, the date on which the dividend will be paid, and a confirmation from the entity that, following the payment of the dividend, the entity will have adequate capital and adequate and appropriate forms of liquidity. This notification must be in writing and should be addressed to the Relationship Manager for the entity."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Dividends that result in negative retained earnings: When a FRFI, BHC or an IHC contemplates making a declaration and payment of a dividend and that entity already reports negative retained earnings or such payment would result in the entity reporting negative retained earnings, the entity is not required to proceed by way of an application for the reduction of its stated capital. Nonetheless, certain notification requirements (specified below) must be fulfilled and, following the payment of a dividend, OSFI’s capital and liquidity requirements must continue to be maintained on an ongoing basis."
+        },
+        {
+          "type": "paragraph",
+          "text": "Notification of the declaration and payment of a dividend: The legislation provides that a FRFI, BHC or an IHC must notify the Superintendent of the declaration of dividends at least 15 days prior to the day fixed for its payment. OSFI expects that such notice would include the total amount of the dividend, the date on which the dividend will be paid, and a confirmation from the entity that, following the payment of the dividend, the entity will have adequate capital and adequate and appropriate forms of liquidity. This notification must be in writing and should be addressed to the Relationship Manager for the entity."
+        },
+        {
+          "type": "paragraph",
+          "text": "Where the declaration and payment of a proposed dividend would cause the FRFI, BHC or IHC to report negative retained earnings or where the entity is already reporting negative retained earnings, OSFI expects the entity to provide information respecting the financial position of the entity both before and after the payment of the dividend. This information is to be provided in the entity’s notice of a declaration of a dividend, and it should include:"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "information respecting its capital position, in the case of: a deposit-taking institution or a BHC: a breakdown of all elements used to calculate each of the risk-based Tier 1 capital ratio, the risk-based total capital ratio and the assets to capital multiple; a life insurance company or an IHC: a breakdown of all elements used to calculate the minimum continuing capital and surplus requirements, including the Tier 1 capital by element and total capital required; or a property & casualty insurance company: details of the minimum capital test; and",
+            "Information respecting its liquidity position: the ratio of gross liquid assets (less pledged assets) to total assets, and a liquidity profile including a high-level breakdown of the assets by category Liquid assets are defined as cash, deposits with the Bank of Canada and regulated financial institutions, and securities issued or guaranteed by the Government of Canada or a Canadian province, municipality or school board. Assets pledged or otherwise encumbered for any purpose should not be considered liquid. ."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "information respecting its capital position, in the case of:"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "a deposit-taking institution or a BHC: a breakdown of all elements used to calculate each of the risk-based Tier 1 capital ratio, the risk-based total capital ratio and the assets to capital multiple;",
+            "a life insurance company or an IHC: a breakdown of all elements used to calculate the minimum continuing capital and surplus requirements, including the Tier 1 capital by element and total capital required; or",
+            "a property & casualty insurance company: details of the minimum capital test; and"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "a deposit-taking institution or a BHC: a breakdown of all elements used to calculate each of the risk-based Tier 1 capital ratio, the risk-based total capital ratio and the assets to capital multiple;"
+        },
+        {
+          "type": "paragraph",
+          "text": "a life insurance company or an IHC: a breakdown of all elements used to calculate the minimum continuing capital and surplus requirements, including the Tier 1 capital by element and total capital required; or"
+        },
+        {
+          "type": "paragraph",
+          "text": "a property & casualty insurance company: details of the minimum capital test; and"
+        },
+        {
+          "type": "paragraph",
+          "text": "Information respecting its liquidity position: the ratio of gross liquid assets (less pledged assets) to total assets, and a liquidity profile including a high-level breakdown of the assets by category Liquid assets are defined as cash, deposits with the Bank of Canada and regulated financial institutions, and securities issued or guaranteed by the Government of Canada or a Canadian province, municipality or school board. Assets pledged or otherwise encumbered for any purpose should not be considered liquid. ."
+        }
+      ]
+    }
+  ],
+  "title_normalized": "capital structure declaration and payment of dividends",
+  "publication_type_normalized": "regulatory_and_legislative_advisory",
+  "category_normalized": "regulatory_and_legislative",
+  "sector_normalized": [
+    "bank_act",
+    "cooperative_credit_associations_act",
+    "insurance_companies_act",
+    "trust_and_loan_companies_act"
+  ],
+  "guideline_number_normalized": "",
+  "applies_to_banks": true,
+  "applies_to_trust_loan": true,
+  "applies_to_life_insurance": false,
+  "applies_to_pc_insurance": false,
+  "applies_to_foreign_bank": false,
+  "applies_to_foreign_insurance": false,
+  "applies_to_cooperative": true,
+  "applies_to_bank_holding": false,
+  "effective_date_sort_key": "2003-04-30",
+  "status_sort_key": 1,
+  "authority_sort_key": 100,
+  "bm25_text": "Capital Structure – Declaration and payment of dividends Regulatory and legislative advisory Regulatory and legislative Bank Act Cooperative Credit Associations Act Insurance Companies Act Trust and Loan Companies Act Introduction: Legislative References: Interpretation",
+  "vector_text_prefix": "[OSFI Regulatory and legislative advisory  | Regulatory and legislative | Bank Act / Cooperative Credit Associations Act / Insurance Companies Act | FINAL_CURRENT | Effective 2003-04-30]",
+  "h1_title": "Capital Structure – Declaration and payment of dividends",
+  "regulator": "OSFI",
+  "regulator_acronym": "OSFI",
+  "jurisdiction": "Canada",
+  "short_title": "",
+  "source_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/capital-structure-declaration-payment-dividends"
+}

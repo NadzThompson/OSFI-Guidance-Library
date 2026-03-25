@@ -1,0 +1,226 @@
+{
+  "source_system": "osfi_guidance_library",
+  "library_row_title": "2025 Memorandum - Earthquake Exposure Data",
+  "library_row_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/2025-memorandum-earthquake-exposure-data",
+  "listing_date_raw": "March 19, 2025",
+  "listing_date_iso": "2025-03-19",
+  "listing_publication_type": "Letter",
+  "listing_category": "",
+  "listing_sector": [
+    "Property and Casualty Companies"
+  ],
+  "crawl_timestamp": "2026-03-11T00:00:00Z",
+  "detail_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/2025-memorandum-earthquake-exposure-data",
+  "canonical_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/2025-memorandum-earthquake-exposure-data",
+  "slug": "2025-memorandum-earthquake-exposure-data",
+  "title": "2025 Memorandum - Earthquake Exposure Data",
+  "publication_type": "Letter",
+  "category": "",
+  "document_date_raw": "March 19, 2025",
+  "document_date_iso": "2025-03-19",
+  "sector": [
+    "Property and Casualty Companies"
+  ],
+  "effective_date_text": "",
+  "guideline_number": "",
+  "date_modified_raw": "",
+  "generate_pdf_url": null,
+  "pdf_node_id": null,
+  "direct_pdf_url": null,
+  "has_table_of_contents": false,
+  "toc_entries": [],
+  "has_related_documents": false,
+  "related_document_links_raw": [],
+  "consultation_status_text": null,
+  "consultation_status_refers_to_version": null,
+  "page_language": "en",
+  "word_count_raw_body": 221,
+  "doc_id": "osfi.memorandum-earthquake-exposure-data.2025.transmittal",
+  "doc_family_id": "osfi.memorandum-earthquake-exposure-data",
+  "version_id": "2025",
+  "version_label": "2025 Memorandum - Earthquake Exposure Data",
+  "version_sort_key": "2025-03",
+  "parent_doc_id": null,
+  "child_doc_ids": [],
+  "is_package_page": false,
+  "is_chapter_page": false,
+  "chapter_number": null,
+  "chapter_title": null,
+  "document_order_within_family": 0,
+  "supersedes_doc_id": null,
+  "superseded_by_doc_id": "osfi.memorandum-earthquake-exposure-data.2026.transmittal",
+  "current_version_flag": false,
+  "status": "superseded",
+  "include_in_primary_corpus": false,
+  "include_in_support_corpus": false,
+  "include_in_context_corpus": true,
+  "effective_date_start": "2025-03-19",
+  "effective_date_end": null,
+  "effective_date_fye_split": false,
+  "effective_date_oct_fye": null,
+  "effective_date_dec_fye": null,
+  "is_future_effective": false,
+  "is_rescinded": false,
+  "is_draft_or_consultation": false,
+  "rescission_date": null,
+  "consultation_closing_date": null,
+  "as_of_applicability": "2026-03-23",
+  "rule_applied": "rule_5_final_current",
+  "authority_class": "official_support",
+  "authority_level": 60,
+  "nova_tier": 3,
+  "prudential_weight": 0.7,
+  "is_primary_normative": false,
+  "is_supporting_interpretive": true,
+  "is_context_only": false,
+  "document_class": "transmittal_letter",
+  "guidance_type_normalized": "letter",
+  "section_headings": [
+    {
+      "level": 3,
+      "text": "Section 2.1",
+      "id": "h3-0"
+    },
+    {
+      "level": 3,
+      "text": "Section 3.1",
+      "id": "h3-1"
+    }
+  ],
+  "heading_path": [
+    "2025 Memorandum - Earthquake Exposure Data"
+  ],
+  "toc_depth": 3,
+  "has_appendices": false,
+  "appendix_ids": [],
+  "has_tables": false,
+  "table_count": 0,
+  "has_footnotes": false,
+  "footnote_count": 0,
+  "inline_cross_references": [],
+  "quoted_external_references": [],
+  "raw_html_sha256": "6c2962692d990c93d9b67cbc211cbe476a637b361375c0a0faec16449a2c066f",
+  "raw_pdf_sha256": null,
+  "normalized_text_sha256": null,
+  "raw_html_path": "bronze/osfi/html/final_current/2025-memorandum-earthquake-exposure-data.html",
+  "normalized_md_path": "silver/osfi/md/final_current/2025-memorandum-earthquake-exposure-data.md",
+  "canonical_json_path": "silver/osfi/json/final_current/2025-memorandum-earthquake-exposure-data.json",
+  "content_source": "HTML",
+  "parser_version": "osfi-parser-v2.1.0",
+  "normalizer_version": "osfi-normalizer-v1.4.0",
+  "quality_score": 0.5,
+  "quality_flags": [
+    "thin_body_text"
+  ],
+  "download_timestamp": "2026-03-11T00:00:00Z",
+  "enriched_timestamp": "2026-03-24T23:23:44.457879Z",
+  "sections": [
+    {
+      "heading": "",
+      "heading_level": 2,
+      "full_text": "  - Earthquake Exposure Data Return\nTo:\nChief Executive Officers and Chief Agents, Federally Regulated Canadian and branches of Foreign Property and Casualty Insurance Companies\nFrom:\nAndrew Miller Chief Data Officer\nCompanies are reminded that they are required to file the Earthquake Data Form with OSFI for the reporting year 2025, by May 31, 2025.\nThe data must be submitted via the Regulatory Reporting System (RRS). There are two options within RRS, made available within your Draft Returns RRS folder starting as at April 1, 2025:\n  - The online web form for direct data input and submission; or\n  - Alternatively, institutions can submit this data by uploading an XML file to RRS. Technical specifications for the format and structure of this data file are available for download in RRS under Documents / Portal Documents / English / Return Technical Specifications.\nMinor changes made to the Earthquake Exposure Data Form and Instruction this year:",
+      "content": [
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Earthquake Exposure Data Return"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "To:"
+        },
+        {
+          "type": "paragraph",
+          "text": "Chief Executive Officers and Chief Agents, Federally Regulated Canadian and branches of Foreign Property and Casualty Insurance Companies"
+        },
+        {
+          "type": "paragraph",
+          "text": "From:"
+        },
+        {
+          "type": "paragraph",
+          "text": "Andrew Miller Chief Data Officer"
+        },
+        {
+          "type": "paragraph",
+          "text": "Companies are reminded that they are required to file the Earthquake Data Form with OSFI for the reporting year 2025, by May 31, 2025."
+        },
+        {
+          "type": "paragraph",
+          "text": "The data must be submitted via the Regulatory Reporting System (RRS). There are two options within RRS, made available within your Draft Returns RRS folder starting as at April 1, 2025:"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "The online web form for direct data input and submission; or",
+            "Alternatively, institutions can submit this data by uploading an XML file to RRS. Technical specifications for the format and structure of this data file are available for download in RRS under Documents / Portal Documents / English / Return Technical Specifications."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Minor changes made to the Earthquake Exposure Data Form and Instruction this year:"
+        }
+      ]
+    },
+    {
+      "heading": "Section 2.1",
+      "heading_level": 3,
+      "full_text": "  1. Field 2145 “Exchange rate applied to capital & surplus (Canadian branches only)” is coded as a number with five decimal places.",
+      "content": [
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "Field 2145 “Exchange rate applied to capital & surplus (Canadian branches only)” is coded as a number with five decimal places."
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "Section 3.1",
+      "heading_level": 3,
+      "full_text": "  1. Replaced “RMS” with “Moody’s RMS”\nQuestions concerning the Earthquake Exposure Data Form should be addressed to your OSFI Lead Supervisor or to David Lim, Actuarial Division, by email at david.lim@osfi-bsif.gc.ca. For questions concerning electronic filing of this data in RRS, please email Returns Administration at RRSsupport-SDRsoutien@osfi-bsif.gc.ca.",
+      "content": [
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "Replaced “RMS” with “Moody’s RMS”"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Questions concerning the Earthquake Exposure Data Form should be addressed to your OSFI Lead Supervisor or to David Lim, Actuarial Division, by email at david.lim@osfi-bsif.gc.ca. For questions concerning electronic filing of this data in RRS, please email Returns Administration at RRSsupport-SDRsoutien@osfi-bsif.gc.ca."
+        }
+      ]
+    }
+  ],
+  "title_normalized": "2025 memorandum earthquake exposure data",
+  "publication_type_normalized": "letter",
+  "category_normalized": "",
+  "sector_normalized": [
+    "pc_insurance"
+  ],
+  "guideline_number_normalized": "",
+  "applies_to_banks": false,
+  "applies_to_trust_loan": false,
+  "applies_to_life_insurance": false,
+  "applies_to_pc_insurance": true,
+  "applies_to_foreign_bank": false,
+  "applies_to_foreign_insurance": false,
+  "applies_to_cooperative": false,
+  "applies_to_bank_holding": false,
+  "effective_date_sort_key": "2025-03-19",
+  "status_sort_key": 1,
+  "authority_sort_key": 60,
+  "bm25_text": "2025 Memorandum - Earthquake Exposure Data Letter Property and Casualty Companies Section 2.1 Section 3.1",
+  "vector_text_prefix": "[OSFI Letter  |  | Property and Casualty Companies | FINAL_CURRENT | Effective 2025-03-19]",
+  "regulator": "OSFI",
+  "regulator_acronym": "OSFI",
+  "jurisdiction": "Canada",
+  "short_title": "",
+  "source_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/2025-memorandum-earthquake-exposure-data"
+}

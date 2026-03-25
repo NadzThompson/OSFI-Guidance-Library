@@ -1,0 +1,199 @@
+{
+  "source_system": "osfi_guidance_library",
+  "library_row_title": "Large Exposure Limits",
+  "library_row_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/large-exposure-limits",
+  "listing_date_raw": "March 31, 2001",
+  "listing_date_iso": "2001-03-31",
+  "listing_publication_type": "Guidance note",
+  "listing_category": "Prudential Limits and Restrictions",
+  "listing_sector": [
+    "Banks",
+    "Foreign Bank Branches",
+    "Trust and Loan Companies"
+  ],
+  "crawl_timestamp": "2026-03-11T00:00:00Z",
+  "detail_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/large-exposure-limits",
+  "canonical_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/large-exposure-limits",
+  "slug": "large-exposure-limits",
+  "title": "Large Exposure Limits",
+  "publication_type": "Guidance note",
+  "category": "Prudential Limits and Restrictions",
+  "document_date_raw": "March 31, 2001",
+  "document_date_iso": "2001-03-31",
+  "sector": [
+    "Banks",
+    "Foreign Bank Branches",
+    "Trust and Loan Companies"
+  ],
+  "effective_date_text": "",
+  "guideline_number": "",
+  "date_modified_raw": "2001-03-31T12:00:00Z",
+  "generate_pdf_url": "https://www.osfi-bsif.gc.ca/en/print/pdf/node/475",
+  "pdf_node_id": 475,
+  "direct_pdf_url": null,
+  "has_table_of_contents": true,
+  "toc_entries": [],
+  "has_related_documents": false,
+  "related_document_links_raw": [],
+  "consultation_status_text": null,
+  "consultation_status_refers_to_version": null,
+  "page_language": "en",
+  "word_count_raw_body": 599,
+  "doc_id": "osfi.large_exposure.guidance",
+  "doc_family_id": "osfi.large_exposure",
+  "version_id": "",
+  "version_label": "Large Exposure Limits",
+  "version_sort_key": "",
+  "parent_doc_id": null,
+  "child_doc_ids": [],
+  "is_package_page": false,
+  "is_chapter_page": false,
+  "chapter_number": null,
+  "chapter_title": null,
+  "document_order_within_family": 0,
+  "supersedes_doc_id": null,
+  "superseded_by_doc_id": null,
+  "current_version_flag": true,
+  "status": "final_current",
+  "include_in_primary_corpus": false,
+  "include_in_support_corpus": true,
+  "include_in_context_corpus": false,
+  "effective_date_start": "2001-03-31",
+  "effective_date_end": null,
+  "effective_date_fye_split": false,
+  "effective_date_oct_fye": null,
+  "effective_date_dec_fye": null,
+  "is_future_effective": false,
+  "is_rescinded": false,
+  "is_draft_or_consultation": false,
+  "rescission_date": null,
+  "consultation_closing_date": null,
+  "as_of_applicability": "2026-03-23",
+  "rule_applied": "rule_5_final_current",
+  "authority_class": "official_interpretive",
+  "authority_level": 70,
+  "nova_tier": 2,
+  "prudential_weight": 0.7,
+  "is_primary_normative": false,
+  "is_supporting_interpretive": true,
+  "is_context_only": false,
+  "document_class": "guidance_note",
+  "guidance_type_normalized": "guidance_note",
+  "section_headings": [],
+  "heading_path": [
+    "Large Exposure Limits"
+  ],
+  "toc_depth": 0,
+  "has_appendices": false,
+  "appendix_ids": [],
+  "has_tables": false,
+  "table_count": 0,
+  "has_footnotes": false,
+  "footnote_count": 0,
+  "inline_cross_references": [
+    "Guideline B-2",
+    "Guideline B-1",
+    "Guideline B-2; that is: in circumstances where uncertainty arises as to w",
+    "Guideline B-2 to counterparties or to groups of associated counterparties"
+  ],
+  "quoted_external_references": [],
+  "raw_html_sha256": "7a89f110e149d134ea68e55d0c34638e0b8b8ab3fcc104c2df48364fb87d9d2f",
+  "raw_pdf_sha256": null,
+  "normalized_text_sha256": null,
+  "raw_html_path": "bronze/osfi/html/final_current/large-exposure-limits.html",
+  "normalized_md_path": "silver/osfi/md/final_current/large-exposure-limits.md",
+  "canonical_json_path": "silver/osfi/json/final_current/large-exposure-limits.json",
+  "content_source": "HTML",
+  "parser_version": "osfi-parser-v2.1.0",
+  "normalizer_version": "osfi-normalizer-v1.4.0",
+  "quality_score": 1.0,
+  "quality_flags": [],
+  "download_timestamp": "2026-03-11T00:00:00Z",
+  "enriched_timestamp": "2026-03-23T09:53:52.974575Z",
+  "sections": [
+    {
+      "heading": "",
+      "heading_level": 2,
+      "full_text": "This note provides guidance in the application of Guideline B-2, Large Exposure Limits, Guideline B-1, Prudent Person Approach and other related guidelines and regulations.\nOSFI’s supervisory process is based on the concept of reliance on an individual financial institution’s self-assessment of risk. Recent reviews of credit risk management practices have shown that institutions are using differing interpretations of common risk when aggregating exposures for the purpose of assessing compliance with the regulatory guidelines. Accordingly, we are concerned that some Federally Regulated Financial Institutions (FRFIs) may not be applying a suitably comprehensive interpretation and assessment of common risk.\nOSFI expects that, at regular intervals, each financial institution will conduct robust analyses of its loan portfolio and other credit exposures to determine the impact on its credit risk profile of changes in market conditions and its own business activities. These analyses should include extensive stress testing and should address such issues as liquidity risk and concentration by product, business sector, location/jurisdiction, risk rating and single/related counterparties.\nMultiple exposures to any single borrower are to be considered common risk. For multiple borrowers, situations indicating common risk, and therefore a “connection”, would generally include (but would not be limited to) any of the following:\n  - the expected source of repayment is the same for each exposure and/or affected entity;\n  - the FRFI ultimately relies upon one entity (e.g., by way of guarantee) for an exposure granted by the FRFI to another entity;\n  - there is a shared credit accommodation/exposure between borrowers;\n  - through ownership or common management, the entity controls, or is controlled by, another entity that has exposure(s) with the FRFI (the definition of “control” is not limited to an ownership position of 50 per cent or greater);\n  - two or more entities having exposures with the FRFI are ultimately subject to substantially common ownership or control (“control” as noted above), notwithstanding that the owner/controlling interest may not have an exposure with the FRFI;\n  - two or more entities are materially interdependent in terms of any of markets, products, collateral, financial or operational considerations; or\n  - entities are co-joined in or by partnerships, joint ventures and/or structures that create material levels of “risk sharing” between such entities.\nCommon risk is to be determined on a case-by-case basis, and when determining the existence or extent of a connection, FRFIs are expected to reference the material facts of the situation and to exercise sound judgement.\nOSFI expects that FRFIs will exhibit a preference toward assigning “common risk” (and, therefore, “connection”) for the purpose of determining aggregate exposure under Guideline B-2; that is: in circumstances where uncertainty arises as to whether entities should be connected, accounts should be viewed as common risk and connected . Appropriate documented rationale and authorization (including exception processing) for either connecting or disaggregating exposures are to be available for OSFI review in borrower credit files, and are to be subject to regular internal review by the FRFI as part of its own credit process. Furthermore, consistent with the requirements of the Guideline, connection status is not affected by the type or quality of collateral, or by risk mitigants.\nIn addition, in determining the amount of common risk, FRFIs should include loans, securities, and off-balance sheet exposures, unless there is a specific exemption.\nIn accordance with existing guidelines, OSFI expects each FRFI to establish appropriate limits, to monitor the application of Guideline B-2 to counterparties or to groups of associated counterparties, and to determine reporting requirements.\nPlease refer to OSFI’s Corporate Governance Guideline for OSFI’s expectations of FRFI Boards of Directors in regards to operational, business, risk and crisis management policies.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "This note provides guidance in the application of Guideline B-2, Large Exposure Limits, Guideline B-1, Prudent Person Approach and other related guidelines and regulations."
+        },
+        {
+          "type": "paragraph",
+          "text": "OSFI’s supervisory process is based on the concept of reliance on an individual financial institution’s self-assessment of risk. Recent reviews of credit risk management practices have shown that institutions are using differing interpretations of common risk when aggregating exposures for the purpose of assessing compliance with the regulatory guidelines. Accordingly, we are concerned that some Federally Regulated Financial Institutions (FRFIs) may not be applying a suitably comprehensive interpretation and assessment of common risk."
+        },
+        {
+          "type": "paragraph",
+          "text": "OSFI expects that, at regular intervals, each financial institution will conduct robust analyses of its loan portfolio and other credit exposures to determine the impact on its credit risk profile of changes in market conditions and its own business activities. These analyses should include extensive stress testing and should address such issues as liquidity risk and concentration by product, business sector, location/jurisdiction, risk rating and single/related counterparties."
+        },
+        {
+          "type": "paragraph",
+          "text": "Multiple exposures to any single borrower are to be considered common risk. For multiple borrowers, situations indicating common risk, and therefore a “connection”, would generally include (but would not be limited to) any of the following:"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "the expected source of repayment is the same for each exposure and/or affected entity;",
+            "the FRFI ultimately relies upon one entity (e.g., by way of guarantee) for an exposure granted by the FRFI to another entity;",
+            "there is a shared credit accommodation/exposure between borrowers;",
+            "through ownership or common management, the entity controls, or is controlled by, another entity that has exposure(s) with the FRFI (the definition of “control” is not limited to an ownership position of 50 per cent or greater);",
+            "two or more entities having exposures with the FRFI are ultimately subject to substantially common ownership or control (“control” as noted above), notwithstanding that the owner/controlling interest may not have an exposure with the FRFI;",
+            "two or more entities are materially interdependent in terms of any of markets, products, collateral, financial or operational considerations; or",
+            "entities are co-joined in or by partnerships, joint ventures and/or structures that create material levels of “risk sharing” between such entities."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Common risk is to be determined on a case-by-case basis, and when determining the existence or extent of a connection, FRFIs are expected to reference the material facts of the situation and to exercise sound judgement."
+        },
+        {
+          "type": "paragraph",
+          "text": "OSFI expects that FRFIs will exhibit a preference toward assigning “common risk” (and, therefore, “connection”) for the purpose of determining aggregate exposure under Guideline B-2; that is: in circumstances where uncertainty arises as to whether entities should be connected, accounts should be viewed as common risk and connected . Appropriate documented rationale and authorization (including exception processing) for either connecting or disaggregating exposures are to be available for OSFI review in borrower credit files, and are to be subject to regular internal review by the FRFI as part of its own credit process. Furthermore, consistent with the requirements of the Guideline, connection status is not affected by the type or quality of collateral, or by risk mitigants."
+        },
+        {
+          "type": "paragraph",
+          "text": "In addition, in determining the amount of common risk, FRFIs should include loans, securities, and off-balance sheet exposures, unless there is a specific exemption."
+        },
+        {
+          "type": "paragraph",
+          "text": "In accordance with existing guidelines, OSFI expects each FRFI to establish appropriate limits, to monitor the application of Guideline B-2 to counterparties or to groups of associated counterparties, and to determine reporting requirements."
+        },
+        {
+          "type": "paragraph",
+          "text": "Please refer to OSFI’s Corporate Governance Guideline for OSFI’s expectations of FRFI Boards of Directors in regards to operational, business, risk and crisis management policies."
+        }
+      ]
+    }
+  ],
+  "title_normalized": "large exposure limits",
+  "publication_type_normalized": "guidance_note",
+  "category_normalized": "prudential_limits_and_restrictions",
+  "sector_normalized": [
+    "banks",
+    "foreign_bank_branches",
+    "trust_and_loan_companies"
+  ],
+  "guideline_number_normalized": "",
+  "applies_to_banks": true,
+  "applies_to_trust_loan": true,
+  "applies_to_life_insurance": false,
+  "applies_to_pc_insurance": false,
+  "applies_to_foreign_bank": true,
+  "applies_to_foreign_insurance": false,
+  "applies_to_cooperative": false,
+  "applies_to_bank_holding": false,
+  "effective_date_sort_key": "2001-03-31",
+  "status_sort_key": 1,
+  "authority_sort_key": 70,
+  "bm25_text": "Large Exposure Limits Guidance note Prudential Limits and Restrictions Banks Foreign Bank Branches Trust and Loan Companies",
+  "vector_text_prefix": "[OSFI Guidance note  | Prudential Limits and Restrictions | Banks / Foreign Bank Branches / Trust and Loan Companies | FINAL_CURRENT | Effective 2001-03-31]",
+  "h1_title": "Large Exposure Limits",
+  "regulator": "OSFI",
+  "regulator_acronym": "OSFI",
+  "jurisdiction": "Canada",
+  "short_title": "",
+  "source_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/large-exposure-limits"
+}

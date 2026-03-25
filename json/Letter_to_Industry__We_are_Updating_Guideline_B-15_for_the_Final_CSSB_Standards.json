@@ -1,0 +1,196 @@
+{
+  "source_system": "osfi_guidance_library",
+  "library_row_title": "Letter to Industry – We are Updating Guideline B-15 for the Final CSSB Standards",
+  "library_row_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/letter-industry-we-are-updating-guideline-b-15-final-cssb-standards",
+  "listing_date_raw": "February 20, 2025",
+  "listing_date_iso": "2025-02-20",
+  "listing_publication_type": "Letter",
+  "listing_category": "",
+  "listing_sector": [
+    "Banks",
+    "Life Insurance and Fraternal Companies",
+    "Property and Casualty Companies",
+    "Trust and Loan Companies"
+  ],
+  "crawl_timestamp": "2026-03-11T00:00:00Z",
+  "detail_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/letter-industry-we-are-updating-guideline-b-15-final-cssb-standards",
+  "canonical_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/letter-industry-we-are-updating-guideline-b-15-final-cssb-standards",
+  "slug": "letter-industry-we-are-updating-guideline-b-15-final-cssb-standards",
+  "title": "Letter to Industry – We are Updating Guideline B-15 for the Final CSSB Standards",
+  "publication_type": "Letter",
+  "category": "",
+  "document_date_raw": "February 20, 2025",
+  "document_date_iso": "2025-02-20",
+  "sector": [
+    "Banks",
+    "Life Insurance and Fraternal Companies",
+    "Property and Casualty Companies",
+    "Trust and Loan Companies"
+  ],
+  "effective_date_text": "",
+  "guideline_number": "B-15",
+  "date_modified_raw": "2025-02-20T12:00:00Z",
+  "generate_pdf_url": null,
+  "pdf_node_id": null,
+  "direct_pdf_url": null,
+  "has_table_of_contents": true,
+  "toc_entries": [],
+  "has_related_documents": false,
+  "related_document_links_raw": [],
+  "consultation_status_text": null,
+  "consultation_status_refers_to_version": null,
+  "page_language": "en",
+  "word_count_raw_body": 260,
+  "doc_id": "osfi.b15.transmittal",
+  "doc_family_id": "osfi.b15",
+  "version_id": "",
+  "version_label": "Letter to Industry – We are Updating Guideline B-15 for the ",
+  "version_sort_key": "",
+  "parent_doc_id": null,
+  "child_doc_ids": [],
+  "is_package_page": false,
+  "is_chapter_page": false,
+  "chapter_number": null,
+  "chapter_title": null,
+  "document_order_within_family": 0,
+  "supersedes_doc_id": null,
+  "superseded_by_doc_id": null,
+  "current_version_flag": true,
+  "status": "final_current",
+  "include_in_primary_corpus": false,
+  "include_in_support_corpus": true,
+  "include_in_context_corpus": false,
+  "effective_date_start": "2025-02-20",
+  "effective_date_end": null,
+  "effective_date_fye_split": false,
+  "effective_date_oct_fye": null,
+  "effective_date_dec_fye": null,
+  "is_future_effective": false,
+  "is_rescinded": false,
+  "is_draft_or_consultation": false,
+  "rescission_date": null,
+  "consultation_closing_date": null,
+  "as_of_applicability": "2026-03-23",
+  "rule_applied": "rule_5_final_current",
+  "authority_class": "official_support",
+  "authority_level": 60,
+  "nova_tier": 2,
+  "prudential_weight": 0.7,
+  "is_primary_normative": false,
+  "is_supporting_interpretive": true,
+  "is_context_only": false,
+  "document_class": "transmittal_letter",
+  "guidance_type_normalized": "letter",
+  "section_headings": [],
+  "heading_path": [
+    "Letter to Industry – We are Updating Guideline B-15 for the Final CSSB Standards"
+  ],
+  "toc_depth": 0,
+  "has_appendices": false,
+  "appendix_ids": [],
+  "has_tables": false,
+  "table_count": 0,
+  "has_footnotes": false,
+  "footnote_count": 0,
+  "inline_cross_references": [
+    "Guideline B-15 : Climate Risk Management",
+    "Guideline B-15 Chapter 2",
+    "Guideline B-15 disclosure expectations to be released in late March 2025",
+    "Guideline B-15"
+  ],
+  "quoted_external_references": [],
+  "raw_html_sha256": "371cb02b3a01362839473bd2311747fd71cc116005fa2076e59d6fd68b2898e6",
+  "raw_pdf_sha256": null,
+  "normalized_text_sha256": null,
+  "raw_html_path": "bronze/osfi/html/final_current/letter-industry-we-are-updating-guideline-b-15-final-cssb-standards.html",
+  "normalized_md_path": "silver/osfi/md/final_current/letter-industry-we-are-updating-guideline-b-15-final-cssb-standards.md",
+  "canonical_json_path": "silver/osfi/json/final_current/letter-industry-we-are-updating-guideline-b-15-final-cssb-standards.json",
+  "content_source": "HTML",
+  "parser_version": "osfi-parser-v2.1.0",
+  "normalizer_version": "osfi-normalizer-v1.4.0",
+  "quality_score": 0.5,
+  "quality_flags": [
+    "thin_body_text"
+  ],
+  "download_timestamp": "2026-03-11T00:00:00Z",
+  "enriched_timestamp": "2026-03-23T09:53:53.241068Z",
+  "sections": [
+    {
+      "heading": "",
+      "heading_level": 2,
+      "full_text": "  - OSFI issues final Guideline B-15 and responds to consultation feedback\n  - Climate Risk Management\nToday, the Office of the Superintendent of Financial Institutions (OSFI) provided updates on our climate-related financial disclosure expectations of federally regulated financial institutions in Guideline B-15 : Climate Risk Management.\nThe updates reflect our commitment to ensuring our climate-related disclosure guidance remains interoperable with the corresponding requirements of the Canadian Sustainability Standards Board (CSSB) standards , which they released on December 18, 2024.\nKey updates to Guideline B-15 Chapter 2, Annex 2-2 include:\n  - revising the implementation date for the expectation to disclose Scope 3 greenhouse gas emissions to align with the CSSB standards (fiscal year 2028)\n  - clarifying expectations for on-balance sheet and off-balance sheet assets under management\n  - setting the implementation date to disclose Scope 3 greenhouse gas emissions for the off-balance sheet component of assets under management to fiscal year 2029\nWe will include these updates in the next iteration of Guideline B-15 disclosure expectations to be released in late March 2025. For Climate Transition Plans and Scenario Analysis, we have kept the disclosure expectations unchanged, and we will determine the implementation dates.\nAlthough the alignment with the CSSB provides additional transition relief for the disclosure of Scope 3 greenhouse gas emissions, we expect federally regulated financial institutions to continue to make progress in understanding, measuring, and managing their climate-related risks in accordance with the expectations in Guideline B-15.\nWe plan to hold a consultation later this year on the disclosure expectations of greenhouse gas emissions from off-balance sheet assets under management.",
+      "content": [
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "OSFI issues final Guideline B-15 and responds to consultation feedback",
+            "Climate Risk Management"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Today, the Office of the Superintendent of Financial Institutions (OSFI) provided updates on our climate-related financial disclosure expectations of federally regulated financial institutions in Guideline B-15 : Climate Risk Management."
+        },
+        {
+          "type": "paragraph",
+          "text": "The updates reflect our commitment to ensuring our climate-related disclosure guidance remains interoperable with the corresponding requirements of the Canadian Sustainability Standards Board (CSSB) standards , which they released on December 18, 2024."
+        },
+        {
+          "type": "paragraph",
+          "text": "Key updates to Guideline B-15 Chapter 2, Annex 2-2 include:"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "revising the implementation date for the expectation to disclose Scope 3 greenhouse gas emissions to align with the CSSB standards (fiscal year 2028)",
+            "clarifying expectations for on-balance sheet and off-balance sheet assets under management",
+            "setting the implementation date to disclose Scope 3 greenhouse gas emissions for the off-balance sheet component of assets under management to fiscal year 2029"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "We will include these updates in the next iteration of Guideline B-15 disclosure expectations to be released in late March 2025. For Climate Transition Plans and Scenario Analysis, we have kept the disclosure expectations unchanged, and we will determine the implementation dates."
+        },
+        {
+          "type": "paragraph",
+          "text": "Although the alignment with the CSSB provides additional transition relief for the disclosure of Scope 3 greenhouse gas emissions, we expect federally regulated financial institutions to continue to make progress in understanding, measuring, and managing their climate-related risks in accordance with the expectations in Guideline B-15."
+        },
+        {
+          "type": "paragraph",
+          "text": "We plan to hold a consultation later this year on the disclosure expectations of greenhouse gas emissions from off-balance sheet assets under management."
+        }
+      ]
+    }
+  ],
+  "title_normalized": "letter to industry we are updating guideline b15 for the final cssb standards",
+  "publication_type_normalized": "letter",
+  "category_normalized": "",
+  "sector_normalized": [
+    "banks",
+    "life_insurance",
+    "pc_insurance",
+    "trust_and_loan_companies"
+  ],
+  "guideline_number_normalized": "B15",
+  "applies_to_banks": true,
+  "applies_to_trust_loan": true,
+  "applies_to_life_insurance": true,
+  "applies_to_pc_insurance": true,
+  "applies_to_foreign_bank": false,
+  "applies_to_foreign_insurance": false,
+  "applies_to_cooperative": false,
+  "applies_to_bank_holding": false,
+  "effective_date_sort_key": "2025-02-20",
+  "status_sort_key": 1,
+  "authority_sort_key": 60,
+  "bm25_text": "Letter to Industry – We are Updating Guideline B-15 for the Final CSSB Standards B-15 Letter Banks Life Insurance and Fraternal Companies Property and Casualty Companies Trust and Loan Companies",
+  "vector_text_prefix": "[OSFI Letter B-15 |  | Banks / Life Insurance and Fraternal Companies / Property and Casualty Companies | FINAL_CURRENT | Effective 2025-02-20]",
+  "h1_title": "Letter to Industry – We are Updating Guideline B-15 for the Final CSSB Standards",
+  "regulator": "OSFI",
+  "regulator_acronym": "OSFI",
+  "jurisdiction": "Canada",
+  "short_title": "B-15",
+  "source_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/letter-industry-we-are-updating-guideline-b-15-final-cssb-standards"
+}

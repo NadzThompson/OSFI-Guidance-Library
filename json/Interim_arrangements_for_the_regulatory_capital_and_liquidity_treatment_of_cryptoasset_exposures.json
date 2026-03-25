@@ -1,0 +1,648 @@
+{
+  "source_system": "osfi_guidance_library",
+  "library_row_title": "Interim arrangements for the regulatory capital and liquidity treatment of cryptoasset exposures",
+  "library_row_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/interim-arrangements-regulatory-capital-liquidity-treatment-cryptoasset-exposures",
+  "listing_date_raw": "Effective Date Q2 2023",
+  "listing_date_iso": "",
+  "listing_publication_type": "Advisory",
+  "listing_category": "Capital Adequacy Requirements",
+  "listing_sector": [
+    "Banks",
+    "Foreign Bank Branches",
+    "Life Insurance and Fraternal Companies",
+    "Property and Casualty Companies",
+    "Trust and Loan Companies"
+  ],
+  "crawl_timestamp": "2026-03-11T00:00:00Z",
+  "detail_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/interim-arrangements-regulatory-capital-liquidity-treatment-cryptoasset-exposures",
+  "canonical_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/interim-arrangements-regulatory-capital-liquidity-treatment-cryptoasset-exposures",
+  "slug": "interim-arrangements-regulatory-capital-liquidity-treatment-cryptoasset-exposures",
+  "title": "Interim arrangements for the regulatory capital and liquidity treatment of cryptoasset exposures",
+  "publication_type": "Advisory",
+  "category": "Capital Adequacy Requirements",
+  "document_date_raw": "Effective Date Q2 2023",
+  "document_date_iso": "",
+  "sector": [
+    "Banks",
+    "Foreign Bank Branches",
+    "Life Insurance and Fraternal Companies",
+    "Property and Casualty Companies",
+    "Trust and Loan Companies"
+  ],
+  "effective_date_text": "Effective Date Q2 2023",
+  "guideline_number": "",
+  "date_modified_raw": "2022-08-18T12:00:00Z",
+  "generate_pdf_url": "https://www.osfi-bsif.gc.ca/en/print/pdf/node/470",
+  "pdf_node_id": 470,
+  "direct_pdf_url": "https://www.fsb.org/wp-content/uploads/P131020-3.pdf",
+  "has_table_of_contents": true,
+  "toc_entries": [],
+  "has_related_documents": true,
+  "related_document_links_raw": [
+    {
+      "title": "OSFI announces interim approach to cryptoassets",
+      "url": "https://www.osfi-bsif.gc.ca/en/news/osfi-announces-interim-approach-cryptoassets"
+    }
+  ],
+  "consultation_status_text": "Consultation on OSFI’s draft crypto-asset guidelines closed on September 20, 2023. OSFI has finalized guidance for Capital and Liquidity Treatment of Crypto-asset Exposures – Banking Guideline (2026) ",
+  "consultation_status_refers_to_version": null,
+  "page_language": "en",
+  "word_count_raw_body": 3013,
+  "doc_id": "osfi.interim-arrangements-regulatory-capital-liquidity-.advisory",
+  "doc_family_id": "osfi.interim-arrangements-regulatory-capital-liquidity-",
+  "version_id": "",
+  "version_label": "Interim arrangements for the regulatory capital and liquidit",
+  "version_sort_key": "",
+  "parent_doc_id": null,
+  "child_doc_ids": [],
+  "is_package_page": false,
+  "is_chapter_page": false,
+  "chapter_number": null,
+  "chapter_title": null,
+  "document_order_within_family": 0,
+  "supersedes_doc_id": null,
+  "superseded_by_doc_id": null,
+  "current_version_flag": true,
+  "status": "final_current",
+  "include_in_primary_corpus": true,
+  "include_in_support_corpus": false,
+  "include_in_context_corpus": false,
+  "effective_date_start": "",
+  "effective_date_end": null,
+  "effective_date_fye_split": false,
+  "effective_date_oct_fye": null,
+  "effective_date_dec_fye": null,
+  "is_future_effective": false,
+  "is_rescinded": false,
+  "is_draft_or_consultation": false,
+  "rescission_date": null,
+  "consultation_closing_date": null,
+  "as_of_applicability": "2026-03-23",
+  "rule_applied": "rule_5_final_current",
+  "authority_class": "primary_normative",
+  "authority_level": 100,
+  "nova_tier": 1,
+  "prudential_weight": 1.0,
+  "is_primary_normative": true,
+  "is_supporting_interpretive": false,
+  "is_context_only": false,
+  "document_class": "advisory",
+  "guidance_type_normalized": "advisory",
+  "section_headings": [
+    {
+      "level": 2,
+      "text": "1. Scope of application",
+      "id": "h2-0"
+    },
+    {
+      "level": 2,
+      "text": "2. Definition of cryptoassets and cryptoasset exposures",
+      "id": "h2-1"
+    },
+    {
+      "level": 2,
+      "text": "3. Categorization of cryptoassets",
+      "id": "h2-2"
+    },
+    {
+      "level": 3,
+      "text": "4.1 Credit risk (CAR Guideline)",
+      "id": "h3-3"
+    },
+    {
+      "level": 3,
+      "text": "4.2 Counterparty credit risk (CAR Guideline)",
+      "id": "h3-4"
+    },
+    {
+      "level": 4,
+      "text": "Add-ons, Netting and Hedging Sets",
+      "id": "h4-5"
+    },
+    {
+      "level": 3,
+      "text": "4.3 Leverage requirements (LR Guideline)",
+      "id": "h3-6"
+    },
+    {
+      "level": 3,
+      "text": "4.4 Market risk (CAR Guideline)",
+      "id": "h3-7"
+    },
+    {
+      "level": 3,
+      "text": "4.5 Liquidity treatment of cryptoasset exposures (LAR Guideline)",
+      "id": "h3-8"
+    },
+    {
+      "level": 4,
+      "text": "Cryptoasset exposures held as assets",
+      "id": "h4-9"
+    },
+    {
+      "level": 4,
+      "text": "Cryptoasset exposures issued as liabilities",
+      "id": "h4-10"
+    },
+    {
+      "level": 3,
+      "text": "4.6 Foreign bank branch deposit requirement (Guideline A-10)",
+      "id": "h3-11"
+    },
+    {
+      "level": 2,
+      "text": "5. Treatment of insurer cryptoasset exposures",
+      "id": "h2-12"
+    },
+    {
+      "level": 3,
+      "text": "5.1 Foreign insurance branch requirement",
+      "id": "h3-13"
+    },
+    {
+      "level": 2,
+      "text": "6. Group 2 cryptoasset exposure limits",
+      "id": "h2-14"
+    },
+    {
+      "level": 2,
+      "text": "Footnotes",
+      "id": "h2-15"
+    }
+  ],
+  "heading_path": [
+    "Interim arrangements for the regulatory capital and liquidity treatment of cryptoasset exposures"
+  ],
+  "toc_depth": 4,
+  "has_appendices": false,
+  "appendix_ids": [],
+  "has_tables": false,
+  "table_count": 0,
+  "has_footnotes": false,
+  "footnote_count": 0,
+  "inline_cross_references": [
+    "Guideline A-10"
+  ],
+  "quoted_external_references": [
+    "Basel Committee on Banking Supervision (BCBS) in June 2022"
+  ],
+  "raw_html_sha256": "d585ede509ea6474261bc2a6cdc7b8798243a0b1e7236a24a7ec61ffddda71b8",
+  "raw_pdf_sha256": null,
+  "normalized_text_sha256": null,
+  "raw_html_path": "bronze/osfi/html/final_current/interim-arrangements-regulatory-capital-liquidity-treatment-cryptoasset-exposures.html",
+  "normalized_md_path": "silver/osfi/md/final_current/interim-arrangements-regulatory-capital-liquidity-treatment-cryptoasset-exposures.md",
+  "canonical_json_path": "silver/osfi/json/final_current/interim-arrangements-regulatory-capital-liquidity-treatment-cryptoasset-exposures.json",
+  "content_source": "HTML",
+  "parser_version": "osfi-parser-v2.1.0",
+  "normalizer_version": "osfi-normalizer-v1.4.0",
+  "quality_score": 1.0,
+  "quality_flags": [],
+  "download_timestamp": "2026-03-11T00:00:00Z",
+  "enriched_timestamp": "2026-03-23T09:53:52.719378Z",
+  "sections": [
+    {
+      "heading": "",
+      "heading_level": 2,
+      "full_text": "  - OSFI announces interim approach to cryptoassets\nConsultation on OSFI’s draft crypto-asset guidelines closed on September 20, 2023. OSFI has finalized guidance for Capital and Liquidity Treatment of Crypto-asset Exposures – Banking Guideline (2026) and Capital Treatment of Crypto-asset Exposures – Insurance Guideline (2026) . This advisory will remain effective until the end of fiscal Q4 2025.",
+      "content": [
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "OSFI announces interim approach to cryptoassets"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Consultation on OSFI’s draft crypto-asset guidelines closed on September 20, 2023. OSFI has finalized guidance for Capital and Liquidity Treatment of Crypto-asset Exposures – Banking Guideline (2026) and Capital Treatment of Crypto-asset Exposures – Insurance Guideline (2026) . This advisory will remain effective until the end of fiscal Q4 2025."
+        }
+      ]
+    },
+    {
+      "heading": "1. Scope of application",
+      "heading_level": 2,
+      "full_text": "This advisory clarifies the interim regulatory capital and liquidity treatment of Deposit Taking Institutions’ (DTIs) and Insurers’ exposures to cryptoassets Footnote 1 . It applies to all Federally Regulated Financial Institutions (FRFIs) and complements the following OSFI guidelines: Capital Adequacy Requirements (CAR) , Leverage Requirements (LR) , Liquidity Adequacy Requirements (LAR) , Foreign Bank Branch Deposit Requirement (A-10) , Life Insurance Capital Adequacy Test (LICAT) , Minimum Capital Test (MCT) , and Mortgage Insurer Capital Adequacy Test (MICAT) .\nThe advisory defines and categorizes cryptoasset exposures, then it outlines DTI credit risk, counterparty credit risk, leverage, market risk, liquidity risk, and the foreign bank branch deposit treatments. The capital requirements for insurer cryptoasset exposures are then clarified, including collateral recognition, and considerations for foreign insurance branches. The last section defines exposure limits for all FRFIs.\nThe scope of this advisory is limited to the capital and liquidity treatment of a FRFI’s exposures to cryptoassets. The advisory does not address other issues, including whether a FRFI is permitted under the Bank Act , Insurance Companies Act , or Trust and Loan Companies Act to issue any particular cryptoasset, or to acquire or hold a controlling or substantial investment in entities that engage in this activity. This advisory sets out OSFI’s expectations as to when FRFIs should notify their lead supervisor if they intend to have exposures to cryptoassets. Where a FRFI intends to engage (directly or via a subsidiary) in other cryptoasset activities, OSFI’s expectation is that the FRFI will notify its lead supervisor and provide any information requested by OSFI that will allow OSFI to assess the safety and soundness, and risk implications of such activities.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "This advisory clarifies the interim regulatory capital and liquidity treatment of Deposit Taking Institutions’ (DTIs) and Insurers’ exposures to cryptoassets Footnote 1 . It applies to all Federally Regulated Financial Institutions (FRFIs) and complements the following OSFI guidelines: Capital Adequacy Requirements (CAR) , Leverage Requirements (LR) , Liquidity Adequacy Requirements (LAR) , Foreign Bank Branch Deposit Requirement (A-10) , Life Insurance Capital Adequacy Test (LICAT) , Minimum Capital Test (MCT) , and Mortgage Insurer Capital Adequacy Test (MICAT) ."
+        },
+        {
+          "type": "paragraph",
+          "text": "The advisory defines and categorizes cryptoasset exposures, then it outlines DTI credit risk, counterparty credit risk, leverage, market risk, liquidity risk, and the foreign bank branch deposit treatments. The capital requirements for insurer cryptoasset exposures are then clarified, including collateral recognition, and considerations for foreign insurance branches. The last section defines exposure limits for all FRFIs."
+        },
+        {
+          "type": "paragraph",
+          "text": "The scope of this advisory is limited to the capital and liquidity treatment of a FRFI’s exposures to cryptoassets. The advisory does not address other issues, including whether a FRFI is permitted under the Bank Act , Insurance Companies Act , or Trust and Loan Companies Act to issue any particular cryptoasset, or to acquire or hold a controlling or substantial investment in entities that engage in this activity. This advisory sets out OSFI’s expectations as to when FRFIs should notify their lead supervisor if they intend to have exposures to cryptoassets. Where a FRFI intends to engage (directly or via a subsidiary) in other cryptoasset activities, OSFI’s expectation is that the FRFI will notify its lead supervisor and provide any information requested by OSFI that will allow OSFI to assess the safety and soundness, and risk implications of such activities."
+        }
+      ]
+    },
+    {
+      "heading": "2. Definition of cryptoassets and cryptoasset exposures",
+      "heading_level": 2,
+      "full_text": "Cryptoassets are digital assets that depend primarily on cryptography and distributed ledger or similar technology. Footnote 2\nCryptoasset exposures include direct exposures to cryptoassets, as well as any indirect exposures whose value or risk is substantially determined by the value of one or more cryptoassets. These indirect exposures include all instruments referencing cryptoassets, such as (but not limited to) derivatives, mutual funds, exchange traded funds (ETFs), units of trusts and partnerships, or shares in a corporation. OSFI expects FRFIs to take a prudent approach to the interpretation of what constitutes a cryptoasset exposure.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Cryptoassets are digital assets that depend primarily on cryptography and distributed ledger or similar technology. Footnote 2"
+        },
+        {
+          "type": "paragraph",
+          "text": "Cryptoasset exposures include direct exposures to cryptoassets, as well as any indirect exposures whose value or risk is substantially determined by the value of one or more cryptoassets. These indirect exposures include all instruments referencing cryptoassets, such as (but not limited to) derivatives, mutual funds, exchange traded funds (ETFs), units of trusts and partnerships, or shares in a corporation. OSFI expects FRFIs to take a prudent approach to the interpretation of what constitutes a cryptoasset exposure."
+        }
+      ]
+    },
+    {
+      "heading": "3. Categorization of cryptoassets",
+      "heading_level": 2,
+      "full_text": "Cryptoassets are broadly categorized into two groups – Group 1 and Group 2. Group 1 cryptoassets are those that meet the following set of criteria Footnote 3 :\n  1. They are digital representations of traditional assets Footnote 4 using cryptography, distributed ledger technology or similar technology to record ownership.\n  2. A legal opinion has been obtained confirming that all rights, obligations and interests arising from the cryptoasset are: clearly defined, legally enforceable in all relevant jurisdictions, and consistent with the rights, obligations, and interests associated with comparable traditional assets.\n  3. A legal opinion has been obtained confirming settlement finality of the cryptoasset.\n  4. All entities performing transfer, settlement or redeemability functions of the cryptoasset follow robust risk governance and risk control policies and practices to address all significant risks Footnote 5 .\n  5. All entities that execute redemptions, transfers, storage, or settlement finality of the cryptoasset, or manage or invest reserve assets, are regulated and supervised, or subject to appropriate risk management standards. For a stablecoin to receive Group 1 treatment, the issuer must be prudentially regulated and subject to capital and liquidity requirements that are comparable to those of OSFI.\nGroup 2 cryptoassets are those that fail to meet one or more of the above criteria.\nA cryptoasset exposure is a Group 1 exposure if its value or risk is substantially determined by the value of a Group 1 cryptoasset. Otherwise, it is a Group 2 cryptoasset exposure.\nThe above constitutes a simplified categorization relative to the second consultation paper on the prudential treatment of cryptoassets published by the Basel Committee on Banking Supervision (BCBS) in June 2022. Footnote 6",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Cryptoassets are broadly categorized into two groups – Group 1 and Group 2. Group 1 cryptoassets are those that meet the following set of criteria Footnote 3 :"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "They are digital representations of traditional assets Footnote 4 using cryptography, distributed ledger technology or similar technology to record ownership.",
+            "A legal opinion has been obtained confirming that all rights, obligations and interests arising from the cryptoasset are: clearly defined, legally enforceable in all relevant jurisdictions, and consistent with the rights, obligations, and interests associated with comparable traditional assets.",
+            "A legal opinion has been obtained confirming settlement finality of the cryptoasset.",
+            "All entities performing transfer, settlement or redeemability functions of the cryptoasset follow robust risk governance and risk control policies and practices to address all significant risks Footnote 5 .",
+            "All entities that execute redemptions, transfers, storage, or settlement finality of the cryptoasset, or manage or invest reserve assets, are regulated and supervised, or subject to appropriate risk management standards. For a stablecoin to receive Group 1 treatment, the issuer must be prudentially regulated and subject to capital and liquidity requirements that are comparable to those of OSFI."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Group 2 cryptoassets are those that fail to meet one or more of the above criteria."
+        },
+        {
+          "type": "paragraph",
+          "text": "A cryptoasset exposure is a Group 1 exposure if its value or risk is substantially determined by the value of a Group 1 cryptoasset. Otherwise, it is a Group 2 cryptoasset exposure."
+        },
+        {
+          "type": "paragraph",
+          "text": "The above constitutes a simplified categorization relative to the second consultation paper on the prudential treatment of cryptoassets published by the Basel Committee on Banking Supervision (BCBS) in June 2022. Footnote 6"
+        }
+      ]
+    },
+    {
+      "heading": "4.1 Credit risk (CAR Guideline)",
+      "heading_level": 3,
+      "full_text": "Group 1 cryptoasset exposures should receive a credit risk capital treatment consistent with that of comparable traditional assets. Footnote 7\nGroup 2 cryptoasset exposures in the banking book should be deducted from Common Equity Tier 1 (CET1) capital. As short positions have unlimited risk, short positions in cryptoasset exposures are not permitted in the banking book, consistent with the treatment of other short positions. The treatment of Group 2 cryptoasset exposures in the trading book is outlined in Section 4.4 below.\nNo collateral value may be ascribed to Group 2 cryptoassets (i.e. such cryptoasset collateral is subject to a 100% haircut). Collateralized transactions (such as securities financing transactions) secured by cryptoasset exposures should be capitalized as a direct unsecured exposure to the counterparty.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Group 1 cryptoasset exposures should receive a credit risk capital treatment consistent with that of comparable traditional assets. Footnote 7"
+        },
+        {
+          "type": "paragraph",
+          "text": "Group 2 cryptoasset exposures in the banking book should be deducted from Common Equity Tier 1 (CET1) capital. As short positions have unlimited risk, short positions in cryptoasset exposures are not permitted in the banking book, consistent with the treatment of other short positions. The treatment of Group 2 cryptoasset exposures in the trading book is outlined in Section 4.4 below."
+        },
+        {
+          "type": "paragraph",
+          "text": "No collateral value may be ascribed to Group 2 cryptoassets (i.e. such cryptoasset collateral is subject to a 100% haircut). Collateralized transactions (such as securities financing transactions) secured by cryptoasset exposures should be capitalized as a direct unsecured exposure to the counterparty."
+        }
+      ]
+    },
+    {
+      "heading": "4.2 Counterparty credit risk (CAR Guideline)",
+      "heading_level": 3,
+      "full_text": "Counterparty credit risk exposure amounts for derivative transactions should be computed in accordance with Chapter 7 of the 2023 CAR Guideline (effective Q2/2023), unless otherwise specified below.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Counterparty credit risk exposure amounts for derivative transactions should be computed in accordance with Chapter 7 of the 2023 CAR Guideline (effective Q2/2023), unless otherwise specified below."
+        }
+      ]
+    },
+    {
+      "heading": "Add-ons, Netting and Hedging Sets",
+      "heading_level": 4,
+      "full_text": "Derivatives referencing Group 1 cryptoassets may be subject to the same rules to determine counterparty credit risk exposures as non-tokenised traditional assets only after an institution notifies and receives written agreement from OSFI Footnote 8 . Until such written agreement is provided by OSFI, such derivatives should be treated as Group 2 cryptoassets.\nDerivatives referencing Group 2 cryptoassets should be placed into their own netting set (a netting set is defined in paragraph 3 of Chapter 7 of the 2023 CAR Guideline).\nThe calculation of the potential future exposure (PFE) for derivatives referencing indirect cryptoasset exposures should follow the treatment under the equity derivatives section of Chapter 7 of the 2023 CAR Guideline. In addition, a supervisory factor of 40% should be used for these derivatives. The correlation and options volatility amounts should be set at 50% and 150% Footnote 9 , respectively.\nTo calculate the PFE add-on for derivatives directly referencing Group 2 cryptoassets, a new asset class has been created called “Group 2 Crypto”. A perfect correlation to all other asset classes is assumed, with the Group 2 Crypto asset class possessing the following characteristics:\n  1. The mathematical structure is the same as that used for the foreign exchange (FX) asset class but uses different supervisory factors.\n  2. There are separate hedging sets for each cryptoasset priced in applicable fiat currencies (e.g., “Bitcoin in USD”, “Bitcoin in EUR”, “Tether in USD”) and offsetting between cryptoasset/fiat currency pairs or pairs of cryptoassets is not permitted.\n  3. The supervisory factor for all cryptoasset/fiat currency pairs and cryptoasset/cryptoasset pairs is set at 40% and the options volatility amount at 150%.\n  4. The calculation of the adjusted notional is set to the notional amount of the cryptoasset leg of the pair expressed in the domestic currency. For the case of cryptoasset A against cryptoasset B, the larger of the two adjusted notional amounts applies.\n  5. The calculation of the supervisory delta adjustment and the maturity factor is the same as for the other asset classes.\n  6. The aggregation of the hedging set add-ons is the same as for the other asset classes (i.e., summing them up).",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Derivatives referencing Group 1 cryptoassets may be subject to the same rules to determine counterparty credit risk exposures as non-tokenised traditional assets only after an institution notifies and receives written agreement from OSFI Footnote 8 . Until such written agreement is provided by OSFI, such derivatives should be treated as Group 2 cryptoassets."
+        },
+        {
+          "type": "paragraph",
+          "text": "Derivatives referencing Group 2 cryptoassets should be placed into their own netting set (a netting set is defined in paragraph 3 of Chapter 7 of the 2023 CAR Guideline)."
+        },
+        {
+          "type": "paragraph",
+          "text": "The calculation of the potential future exposure (PFE) for derivatives referencing indirect cryptoasset exposures should follow the treatment under the equity derivatives section of Chapter 7 of the 2023 CAR Guideline. In addition, a supervisory factor of 40% should be used for these derivatives. The correlation and options volatility amounts should be set at 50% and 150% Footnote 9 , respectively."
+        },
+        {
+          "type": "paragraph",
+          "text": "To calculate the PFE add-on for derivatives directly referencing Group 2 cryptoassets, a new asset class has been created called “Group 2 Crypto”. A perfect correlation to all other asset classes is assumed, with the Group 2 Crypto asset class possessing the following characteristics:"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "The mathematical structure is the same as that used for the foreign exchange (FX) asset class but uses different supervisory factors.",
+            "There are separate hedging sets for each cryptoasset priced in applicable fiat currencies (e.g., “Bitcoin in USD”, “Bitcoin in EUR”, “Tether in USD”) and offsetting between cryptoasset/fiat currency pairs or pairs of cryptoassets is not permitted.",
+            "The supervisory factor for all cryptoasset/fiat currency pairs and cryptoasset/cryptoasset pairs is set at 40% and the options volatility amount at 150%.",
+            "The calculation of the adjusted notional is set to the notional amount of the cryptoasset leg of the pair expressed in the domestic currency. For the case of cryptoasset A against cryptoasset B, the larger of the two adjusted notional amounts applies.",
+            "The calculation of the supervisory delta adjustment and the maturity factor is the same as for the other asset classes.",
+            "The aggregation of the hedging set add-ons is the same as for the other asset classes (i.e., summing them up)."
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "4.3 Leverage requirements (LR Guideline)",
+      "heading_level": 3,
+      "full_text": "Cryptoasset exposures are treated consistent with other leverage exposures, where the exposure measure for the leverage ratio generally follows gross accounting values, with separate treatments defined in the Leverage Requirements Guideline for derivatives, securities financing transactions, and other off-balance sheet items.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Cryptoasset exposures are treated consistent with other leverage exposures, where the exposure measure for the leverage ratio generally follows gross accounting values, with separate treatments defined in the Leverage Requirements Guideline for derivatives, securities financing transactions, and other off-balance sheet items."
+        }
+      ]
+    },
+    {
+      "heading": "4.4 Market risk (CAR Guideline)",
+      "heading_level": 3,
+      "full_text": "Institutions may only apply the market risk framework to cryptoasset exposures if they are approved by OSFI to apply the market risk framework and have notified OSFI about how cryptoasset exposures will be treated within the framework (e.g., standardized approach vs. internal model approach, equity vs. commodity risk factor, etc.). Until such time, cryptoasset exposures should be treated under the credit risk framework (Section 4.1 above) as banking book exposures.\nOSFI expects that institutions intending to trade cryptoassets take into account the following elements as part of their decision-making process and risk management of these exposures:\n  - The ability to trade on regulated or registered exchanges; trading volumes and market capitalization; timing and settlements of transactions across exchanges and platforms; data availability including historical periods of stress and alternative calibration methods if such data is unavailable; and the existence of a liquid two-way market.\n  - The reliability and effectiveness of hedging and netting arrangements including conservative approaches that address any potential limitations in such arrangements (e.g., uncertain correlations in periods of stress and high volatility); and on-going monitoring of price correlation and volatility, including appropriate capital allocated to capture any residual risk.\n  - The stress period utilized to calculate capital requirements. Specifically, taking into account portfolio size and exposures, institutions should ensure that the stress period utilized to calculate the capital requirements of cryptoasset exposures is appropriate for such exposures so as to generate reasonable proxies for the cryptoasset exposures. Institutions should also consider whether cryptoasset positions in the trading book should be treated as a separate sub-portfolio with higher multiplication factors relative to those applied to other trading book positions according to Section 9.11 of Chapter 9 of the 2023 CAR Guideline.\nInstitutions should only consider hedging or diversification benefits between instruments referencing the same cryptoasset. Open unhedged exposures which are outside of any hedging relationship with offsetting transactions should receive a 100% capital charge under the market risk framework. Basis risk resulting from different forms of the same cryptoasset being referenced in a hedging relationship (e.g., crypto ETF positions hedged with futures referencing the underlying) should be captured, tracked and capitalized by institutions.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Institutions may only apply the market risk framework to cryptoasset exposures if they are approved by OSFI to apply the market risk framework and have notified OSFI about how cryptoasset exposures will be treated within the framework (e.g., standardized approach vs. internal model approach, equity vs. commodity risk factor, etc.). Until such time, cryptoasset exposures should be treated under the credit risk framework (Section 4.1 above) as banking book exposures."
+        },
+        {
+          "type": "paragraph",
+          "text": "OSFI expects that institutions intending to trade cryptoassets take into account the following elements as part of their decision-making process and risk management of these exposures:"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "The ability to trade on regulated or registered exchanges; trading volumes and market capitalization; timing and settlements of transactions across exchanges and platforms; data availability including historical periods of stress and alternative calibration methods if such data is unavailable; and the existence of a liquid two-way market.",
+            "The reliability and effectiveness of hedging and netting arrangements including conservative approaches that address any potential limitations in such arrangements (e.g., uncertain correlations in periods of stress and high volatility); and on-going monitoring of price correlation and volatility, including appropriate capital allocated to capture any residual risk.",
+            "The stress period utilized to calculate capital requirements. Specifically, taking into account portfolio size and exposures, institutions should ensure that the stress period utilized to calculate the capital requirements of cryptoasset exposures is appropriate for such exposures so as to generate reasonable proxies for the cryptoasset exposures. Institutions should also consider whether cryptoasset positions in the trading book should be treated as a separate sub-portfolio with higher multiplication factors relative to those applied to other trading book positions according to Section 9.11 of Chapter 9 of the 2023 CAR Guideline."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Institutions should only consider hedging or diversification benefits between instruments referencing the same cryptoasset. Open unhedged exposures which are outside of any hedging relationship with offsetting transactions should receive a 100% capital charge under the market risk framework. Basis risk resulting from different forms of the same cryptoasset being referenced in a hedging relationship (e.g., crypto ETF positions hedged with futures referencing the underlying) should be captured, tracked and capitalized by institutions."
+        }
+      ]
+    },
+    {
+      "heading": "4.5 Liquidity treatment of cryptoasset exposures (LAR Guideline)",
+      "heading_level": 3,
+      "full_text": "The liquidity coverage ratio (LCR), net stable funding ratio (NSFR), and net cumulative cash flow (NCCF) requirements are set out below.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "The liquidity coverage ratio (LCR), net stable funding ratio (NSFR), and net cumulative cash flow (NCCF) requirements are set out below."
+        }
+      ]
+    },
+    {
+      "heading": "Cryptoasset exposures held as assets",
+      "heading_level": 4,
+      "full_text": "Group 1 cryptoasset exposures may qualify for liquidity treatment that is consistent with their equivalent non-tokenized asset as set out in the LAR Guideline (LCR, NCCF and NSFR) with a treatment that is based on the earliest possible maturity. Thus holdings of Group 1 cryptoassets will only be eligible as High Quality Liquid Assets (HQLA) or Eligible Unencumbered Liquid Assets (EULA) if both i) they are tokenized versions of a traditional asset that itself would qualify as HQLA or EULA and ii) the tokenized asset itself meets the HQLA/EULA eligibility criteria.\nAll other cryptoasset exposures should not contribute any liquidity value and should be subject to a 100% haircut in the LCR and NCCF, and 100% Required Stable Funding (RSF) factor under the NSFR.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Group 1 cryptoasset exposures may qualify for liquidity treatment that is consistent with their equivalent non-tokenized asset as set out in the LAR Guideline (LCR, NCCF and NSFR) with a treatment that is based on the earliest possible maturity. Thus holdings of Group 1 cryptoassets will only be eligible as High Quality Liquid Assets (HQLA) or Eligible Unencumbered Liquid Assets (EULA) if both i) they are tokenized versions of a traditional asset that itself would qualify as HQLA or EULA and ii) the tokenized asset itself meets the HQLA/EULA eligibility criteria."
+        },
+        {
+          "type": "paragraph",
+          "text": "All other cryptoasset exposures should not contribute any liquidity value and should be subject to a 100% haircut in the LCR and NCCF, and 100% Required Stable Funding (RSF) factor under the NSFR."
+        }
+      ]
+    },
+    {
+      "heading": "Cryptoasset exposures issued as liabilities",
+      "heading_level": 4,
+      "full_text": "Funding from Group 1 cryptoassets should qualify for a liquidity treatment that is consistent with its equivalent non-tokenized liability as set out in the LAR Guideline (LCR, NCCF and NSFR), with a treatment that is based on i) the earliest possible redemption, and ii) the identity of the holder (i.e. the issuing institution must at all times be able to identify the holder of the cryptoasset). In addition, Group 1 cryptoassets are not permitted to be recognized as a stable retail deposit.\nAll other funding from the issuance of cryptoassets (including liabilities where the ultimate holder is not identified) should not contribute any stable funding credit in the NSFR and, under the LCR and NCCF, should be subject to 100% run-off factors.\nFunding received from cryptoasset issuers, or any other exposures associated with the reserve assets of a stablecoin, should be treated as an exposure to a financial institution (and so do not contribute any stable funding credit in the NSFR, and should be subject to 100% run-off factors in the LCR and NCCF).",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Funding from Group 1 cryptoassets should qualify for a liquidity treatment that is consistent with its equivalent non-tokenized liability as set out in the LAR Guideline (LCR, NCCF and NSFR), with a treatment that is based on i) the earliest possible redemption, and ii) the identity of the holder (i.e. the issuing institution must at all times be able to identify the holder of the cryptoasset). In addition, Group 1 cryptoassets are not permitted to be recognized as a stable retail deposit."
+        },
+        {
+          "type": "paragraph",
+          "text": "All other funding from the issuance of cryptoassets (including liabilities where the ultimate holder is not identified) should not contribute any stable funding credit in the NSFR and, under the LCR and NCCF, should be subject to 100% run-off factors."
+        },
+        {
+          "type": "paragraph",
+          "text": "Funding received from cryptoasset issuers, or any other exposures associated with the reserve assets of a stablecoin, should be treated as an exposure to a financial institution (and so do not contribute any stable funding credit in the NSFR, and should be subject to 100% run-off factors in the LCR and NCCF)."
+        }
+      ]
+    },
+    {
+      "heading": "4.6 Foreign bank branch deposit requirement (Guideline A-10)",
+      "heading_level": 3,
+      "full_text": "Cryptoasset exposures should not be considered qualifying assets under Guideline A-10, and therefore cannot be included in the calculation of the foreign bank branch deposit.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Cryptoasset exposures should not be considered qualifying assets under Guideline A-10, and therefore cannot be included in the calculation of the foreign bank branch deposit."
+        }
+      ]
+    },
+    {
+      "heading": "5. Treatment of insurer cryptoasset exposures",
+      "heading_level": 2,
+      "full_text": "Group 1 cryptoasset exposures should receive a capital treatment consistent with that of comparable traditional assets, including credit, market and/or other risks. Footnote 10\nGroup 2 cryptoasset exposures, including the absolute value of short positions, the full notional amount of long option positions and the full notional amount of long forward contracts should be deducted from capital available (for property and casualty, and mortgage insurers) and Tier 1 capital (for life insurers). Footnote 11\nCollateral used as a financial resource to reduce capital requirements cannot include Group 2 cryptoasset exposures (e.g., collateral used for unregistered reinsurance).",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Group 1 cryptoasset exposures should receive a capital treatment consistent with that of comparable traditional assets, including credit, market and/or other risks. Footnote 10"
+        },
+        {
+          "type": "paragraph",
+          "text": "Group 2 cryptoasset exposures, including the absolute value of short positions, the full notional amount of long option positions and the full notional amount of long forward contracts should be deducted from capital available (for property and casualty, and mortgage insurers) and Tier 1 capital (for life insurers). Footnote 11"
+        },
+        {
+          "type": "paragraph",
+          "text": "Collateral used as a financial resource to reduce capital requirements cannot include Group 2 cryptoasset exposures (e.g., collateral used for unregistered reinsurance)."
+        }
+      ]
+    },
+    {
+      "heading": "5.1 Foreign insurance branch requirement",
+      "heading_level": 3,
+      "full_text": "Foreign insurance branches are not permitted to vest cryptoasset exposures.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Foreign insurance branches are not permitted to vest cryptoasset exposures."
+        }
+      ]
+    },
+    {
+      "heading": "6. Group 2 cryptoasset exposure limits",
+      "heading_level": 2,
+      "full_text": "Group 2 cryptoasset exposures are subject to two limits expressed as a percentage of Tier 1 capital (for DTIs and life insurers) or as a percentage of capital available (for property and casualty, and mortgage insurers). Specifically, FRFIs should notify OSFI in writing if:\n  1. Total gross positions Footnote 12 across all Group 2 cryptoasset exposures exceed 1% of the above capital amount, or\n  2. Total net short positions Footnote 13 across all Group 2 cryptoasset exposures exceed 0.1% of the above capital amount.\nThe written notification to OSFI should include the size of the positions, the cryptoasset exposures in question, and the amount of capital held for the positions. OSFI may impose higher capital requirements for large positions.\nFootnotes Footnote 1 Excluding exposures to central bank digital currencies (CBDCs), which are outside of the scope of this advisory. Return to footnote 1 Footnote 2 As defined in https://www.fsb.org/wp-content/uploads/P131020-3.pdf . For greater clarity, Bitcoin and Ether are the two most prominent cryptoassets as of this advisory’s publication date; however this definition also includes stablecoins, non-fungible-tokens (NFTs), and other distributed ledger platforms such as Cardano and Solana. Return to footnote 2 Footnote 3 OSFI reserves the ability to modify these criteria for any reason including but not limited to reflect ongoing developments in the cryptoassets market and to reflect evolving international standards. If warranted, OSFI may also apply an exposure limit to Group 1 cryptoassets. Return to footnote 3 Footnote 4 Traditional assets are those assets that are captured within the relevant capital framework and not classified as cryptoassets. Return to footnote 4 Footnote 5 Risks include, but are not limited to, credit, market, and liquidity risks; operational risk (including outsourcing, fraud, and cyber risk) and risk of loss of data; and various non-financial risks, such as data integrity, operational resilience (i.e., operational reliability and capacity), third-party risk management, and Anti Money Laundering/ Countering the Financing of Terrorism (AML/CFT). Return to footnote 5 Footnote 6 Prudential treatment of cryptoasset exposures - second consultation (https://www.bis.org/bcbs/publ/d533.htm) Return to footnote 6 Footnote 7 For example, a tokenised corporate bond will be subject to the same treatment as a comparable traditional corporate bond, and a tokenized bank deposit will be subject to the same treatment as a comparable traditional bank deposit. Return to footnote 7 Footnote 8 Where OSFI notification and/or approval is required in this document, institutions should understand these statements refer to notifying and/or receiving approval from the institution’s lead supervisor, including providing the lead supervisor with relevant supporting materials. Return to footnote 8 Footnote 9 For derivatives referencing derivatives of cryptoasset exposures, institutions require approval from OSFI on the appropriate treatment, which may be higher than the factors listed here. Return to footnote 9 Footnote 10 For example, a tokenised corporate bond will be subject to the same capital requirements as a comparable traditional corporate bond. Return to footnote 10 Footnote 11 Insurers should contact OSFI for the capital treatment of cryptoasset exposures arising in insurance products (e.g., embedded derivative or other exposures). Return to footnote 11 Footnote 12 For this purpose, gross positions are defined as the greater of the absolute value of long and short positions. Return to footnote 12 Footnote 13 Any hedging or diversification benefit should be considered only between instruments referencing the same cryptoasset according to Section 4.4 above. Return to footnote 13",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Group 2 cryptoasset exposures are subject to two limits expressed as a percentage of Tier 1 capital (for DTIs and life insurers) or as a percentage of capital available (for property and casualty, and mortgage insurers). Specifically, FRFIs should notify OSFI in writing if:"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "Total gross positions Footnote 12 across all Group 2 cryptoasset exposures exceed 1% of the above capital amount, or",
+            "Total net short positions Footnote 13 across all Group 2 cryptoasset exposures exceed 0.1% of the above capital amount."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "The written notification to OSFI should include the size of the positions, the cryptoasset exposures in question, and the amount of capital held for the positions. OSFI may impose higher capital requirements for large positions."
+        },
+        {
+          "type": "paragraph",
+          "text": "Footnotes Footnote 1 Excluding exposures to central bank digital currencies (CBDCs), which are outside of the scope of this advisory. Return to footnote 1 Footnote 2 As defined in https://www.fsb.org/wp-content/uploads/P131020-3.pdf . For greater clarity, Bitcoin and Ether are the two most prominent cryptoassets as of this advisory’s publication date; however this definition also includes stablecoins, non-fungible-tokens (NFTs), and other distributed ledger platforms such as Cardano and Solana. Return to footnote 2 Footnote 3 OSFI reserves the ability to modify these criteria for any reason including but not limited to reflect ongoing developments in the cryptoassets market and to reflect evolving international standards. If warranted, OSFI may also apply an exposure limit to Group 1 cryptoassets. Return to footnote 3 Footnote 4 Traditional assets are those assets that are captured within the relevant capital framework and not classified as cryptoassets. Return to footnote 4 Footnote 5 Risks include, but are not limited to, credit, market, and liquidity risks; operational risk (including outsourcing, fraud, and cyber risk) and risk of loss of data; and various non-financial risks, such as data integrity, operational resilience (i.e., operational reliability and capacity), third-party risk management, and Anti Money Laundering/ Countering the Financing of Terrorism (AML/CFT). Return to footnote 5 Footnote 6 Prudential treatment of cryptoasset exposures - second consultation (https://www.bis.org/bcbs/publ/d533.htm) Return to footnote 6 Footnote 7 For example, a tokenised corporate bond will be subject to the same treatment as a comparable traditional corporate bond, and a tokenized bank deposit will be subject to the same treatment as a comparable traditional bank deposit. Return to footnote 7 Footnote 8 Where OSFI notification and/or approval is required in this document, institutions should understand these statements refer to notifying and/or receiving approval from the institution’s lead supervisor, including providing the lead supervisor with relevant supporting materials. Return to footnote 8 Footnote 9 For derivatives referencing derivatives of cryptoasset exposures, institutions require approval from OSFI on the appropriate treatment, which may be higher than the factors listed here. Return to footnote 9 Footnote 10 For example, a tokenised corporate bond will be subject to the same capital requirements as a comparable traditional corporate bond. Return to footnote 10 Footnote 11 Insurers should contact OSFI for the capital treatment of cryptoasset exposures arising in insurance products (e.g., embedded derivative or other exposures). Return to footnote 11 Footnote 12 For this purpose, gross positions are defined as the greater of the absolute value of long and short positions. Return to footnote 12 Footnote 13 Any hedging or diversification benefit should be considered only between instruments referencing the same cryptoasset according to Section 4.4 above. Return to footnote 13"
+        }
+      ]
+    },
+    {
+      "heading": "Footnotes",
+      "heading_level": 2,
+      "full_text": "Excluding exposures to central bank digital currencies (CBDCs), which are outside of the scope of this advisory.\nReturn to footnote 1\nAs defined in https://www.fsb.org/wp-content/uploads/P131020-3.pdf . For greater clarity, Bitcoin and Ether are the two most prominent cryptoassets as of this advisory’s publication date; however this definition also includes stablecoins, non-fungible-tokens (NFTs), and other distributed ledger platforms such as Cardano and Solana.\nReturn to footnote 2\nOSFI reserves the ability to modify these criteria for any reason including but not limited to reflect ongoing developments in the cryptoassets market and to reflect evolving international standards. If warranted, OSFI may also apply an exposure limit to Group 1 cryptoassets.\nReturn to footnote 3\nTraditional assets are those assets that are captured within the relevant capital framework and not classified as cryptoassets.\nReturn to footnote 4\nRisks include, but are not limited to, credit, market, and liquidity risks; operational risk (including outsourcing, fraud, and cyber risk) and risk of loss of data; and various non-financial risks, such as data integrity, operational resilience (i.e., operational reliability and capacity), third-party risk management, and Anti Money Laundering/ Countering the Financing of Terrorism (AML/CFT).\nReturn to footnote 5\nPrudential treatment of cryptoasset exposures - second consultation (https://www.bis.org/bcbs/publ/d533.htm)\nReturn to footnote 6\nFor example, a tokenised corporate bond will be subject to the same treatment as a comparable traditional corporate bond, and a tokenized bank deposit will be subject to the same treatment as a comparable traditional bank deposit.\nReturn to footnote 7\nWhere OSFI notification and/or approval is required in this document, institutions should understand these statements refer to notifying and/or receiving approval from the institution’s lead supervisor, including providing the lead supervisor with relevant supporting materials.\nReturn to footnote 8\nFor derivatives referencing derivatives of cryptoasset exposures, institutions require approval from OSFI on the appropriate treatment, which may be higher than the factors listed here.\nReturn to footnote 9\nFor example, a tokenised corporate bond will be subject to the same capital requirements as a comparable traditional corporate bond.\nReturn to footnote 10\nInsurers should contact OSFI for the capital treatment of cryptoasset exposures arising in insurance products (e.g., embedded derivative or other exposures).\nReturn to footnote 11\nFor this purpose, gross positions are defined as the greater of the absolute value of long and short positions.\nReturn to footnote 12\nAny hedging or diversification benefit should be considered only between instruments referencing the same cryptoasset according to Section 4.4 above.\nReturn to footnote 13",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Excluding exposures to central bank digital currencies (CBDCs), which are outside of the scope of this advisory."
+        },
+        {
+          "type": "paragraph",
+          "text": "Return to footnote 1"
+        },
+        {
+          "type": "paragraph",
+          "text": "As defined in https://www.fsb.org/wp-content/uploads/P131020-3.pdf . For greater clarity, Bitcoin and Ether are the two most prominent cryptoassets as of this advisory’s publication date; however this definition also includes stablecoins, non-fungible-tokens (NFTs), and other distributed ledger platforms such as Cardano and Solana."
+        },
+        {
+          "type": "paragraph",
+          "text": "Return to footnote 2"
+        },
+        {
+          "type": "paragraph",
+          "text": "OSFI reserves the ability to modify these criteria for any reason including but not limited to reflect ongoing developments in the cryptoassets market and to reflect evolving international standards. If warranted, OSFI may also apply an exposure limit to Group 1 cryptoassets."
+        },
+        {
+          "type": "paragraph",
+          "text": "Return to footnote 3"
+        },
+        {
+          "type": "paragraph",
+          "text": "Traditional assets are those assets that are captured within the relevant capital framework and not classified as cryptoassets."
+        },
+        {
+          "type": "paragraph",
+          "text": "Return to footnote 4"
+        },
+        {
+          "type": "paragraph",
+          "text": "Risks include, but are not limited to, credit, market, and liquidity risks; operational risk (including outsourcing, fraud, and cyber risk) and risk of loss of data; and various non-financial risks, such as data integrity, operational resilience (i.e., operational reliability and capacity), third-party risk management, and Anti Money Laundering/ Countering the Financing of Terrorism (AML/CFT)."
+        },
+        {
+          "type": "paragraph",
+          "text": "Return to footnote 5"
+        },
+        {
+          "type": "paragraph",
+          "text": "Prudential treatment of cryptoasset exposures - second consultation (https://www.bis.org/bcbs/publ/d533.htm)"
+        },
+        {
+          "type": "paragraph",
+          "text": "Return to footnote 6"
+        },
+        {
+          "type": "paragraph",
+          "text": "For example, a tokenised corporate bond will be subject to the same treatment as a comparable traditional corporate bond, and a tokenized bank deposit will be subject to the same treatment as a comparable traditional bank deposit."
+        },
+        {
+          "type": "paragraph",
+          "text": "Return to footnote 7"
+        },
+        {
+          "type": "paragraph",
+          "text": "Where OSFI notification and/or approval is required in this document, institutions should understand these statements refer to notifying and/or receiving approval from the institution’s lead supervisor, including providing the lead supervisor with relevant supporting materials."
+        },
+        {
+          "type": "paragraph",
+          "text": "Return to footnote 8"
+        },
+        {
+          "type": "paragraph",
+          "text": "For derivatives referencing derivatives of cryptoasset exposures, institutions require approval from OSFI on the appropriate treatment, which may be higher than the factors listed here."
+        },
+        {
+          "type": "paragraph",
+          "text": "Return to footnote 9"
+        },
+        {
+          "type": "paragraph",
+          "text": "For example, a tokenised corporate bond will be subject to the same capital requirements as a comparable traditional corporate bond."
+        },
+        {
+          "type": "paragraph",
+          "text": "Return to footnote 10"
+        },
+        {
+          "type": "paragraph",
+          "text": "Insurers should contact OSFI for the capital treatment of cryptoasset exposures arising in insurance products (e.g., embedded derivative or other exposures)."
+        },
+        {
+          "type": "paragraph",
+          "text": "Return to footnote 11"
+        },
+        {
+          "type": "paragraph",
+          "text": "For this purpose, gross positions are defined as the greater of the absolute value of long and short positions."
+        },
+        {
+          "type": "paragraph",
+          "text": "Return to footnote 12"
+        },
+        {
+          "type": "paragraph",
+          "text": "Any hedging or diversification benefit should be considered only between instruments referencing the same cryptoasset according to Section 4.4 above."
+        },
+        {
+          "type": "paragraph",
+          "text": "Return to footnote 13"
+        }
+      ]
+    }
+  ],
+  "title_normalized": "interim arrangements for the regulatory capital and liquidity treatment of cryptoasset exposures",
+  "publication_type_normalized": "advisory",
+  "category_normalized": "capital_adequacy_requirements",
+  "sector_normalized": [
+    "banks",
+    "foreign_bank_branches",
+    "life_insurance",
+    "pc_insurance",
+    "trust_and_loan_companies"
+  ],
+  "guideline_number_normalized": "",
+  "applies_to_banks": true,
+  "applies_to_trust_loan": true,
+  "applies_to_life_insurance": true,
+  "applies_to_pc_insurance": true,
+  "applies_to_foreign_bank": true,
+  "applies_to_foreign_insurance": false,
+  "applies_to_cooperative": false,
+  "applies_to_bank_holding": false,
+  "effective_date_sort_key": "",
+  "status_sort_key": 1,
+  "authority_sort_key": 100,
+  "bm25_text": "Interim arrangements for the regulatory capital and liquidity treatment of cryptoasset exposures Advisory Capital Adequacy Requirements Banks Foreign Bank Branches Life Insurance and Fraternal Companies Property and Casualty Companies Trust and Loan Companies 1. Scope of application 2. Definition of cryptoassets and cryptoasset exposures 3. Categorization of cryptoassets 4.1 Credit risk (CAR Guideline) 4.2 Counterparty credit risk (CAR Guideline) Add-ons, Netting and Hedging Sets 4.3 Leverage requirements (LR Guideline) 4.4 Market risk (CAR Guideline) 4.5 Liquidity treatment of cryptoasset exposures (LAR Guideline) Cryptoasset exposures held as assets Cryptoasset exposures issued as liabilities 4.6 Foreign bank branch deposit requirement (Guideline A-10) 5. Treatment of insurer cryptoasset exposures 5.1 Foreign insurance branch requirement 6. Group 2 cryptoasset exposure limits Footnotes",
+  "vector_text_prefix": "[OSFI Advisory  | Capital Adequacy Requirements | Banks / Foreign Bank Branches / Life Insurance and Fraternal Companies | FINAL_CURRENT | ]",
+  "h1_title": "Interim arrangements for the regulatory capital and liquidity treatment of cryptoasset exposures",
+  "regulator": "OSFI",
+  "regulator_acronym": "OSFI",
+  "jurisdiction": "Canada",
+  "short_title": "",
+  "source_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/interim-arrangements-regulatory-capital-liquidity-treatment-cryptoasset-exposures"
+}

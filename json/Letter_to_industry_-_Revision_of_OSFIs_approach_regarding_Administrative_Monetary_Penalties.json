@@ -1,0 +1,304 @@
+{
+  "source_system": "osfi_guidance_library",
+  "library_row_title": "Letter to industry - Revision of OSFI’s approach regarding Administrative Monetary Penalties",
+  "library_row_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/letter-industry-revision-osfis-approach-regarding-administrative-monetary-penalties",
+  "listing_date_raw": "September 11, 2025",
+  "listing_date_iso": "2025-09-11",
+  "listing_publication_type": "Letter",
+  "listing_category": "Supervisory Advisories",
+  "listing_sector": [
+    "Bank Act",
+    "Banks",
+    "Foreign Bank Branches",
+    "Foreign Insurance Branches",
+    "Insurance Companies Act",
+    "Life Insurance and Fraternal Companies",
+    "Property and Casualty Companies",
+    "Trust and Loan Companies",
+    "Trust and Loan Companies Act"
+  ],
+  "crawl_timestamp": "2026-03-11T00:00:00Z",
+  "detail_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/letter-industry-revision-osfis-approach-regarding-administrative-monetary-penalties",
+  "canonical_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/letter-industry-revision-osfis-approach-regarding-administrative-monetary-penalties",
+  "slug": "letter-industry-revision-osfis-approach-regarding-administrative-monetary-penalties",
+  "title": "Letter to industry - Revision of OSFI’s approach regarding Administrative Monetary Penalties",
+  "publication_type": "Letter",
+  "category": "Supervisory Advisories",
+  "document_date_raw": "September 11, 2025",
+  "document_date_iso": "2025-09-11",
+  "sector": [
+    "Bank Act",
+    "Banks",
+    "Foreign Bank Branches",
+    "Foreign Insurance Branches",
+    "Insurance Companies Act",
+    "Life Insurance and Fraternal Companies",
+    "Property and Casualty Companies",
+    "Trust and Loan Companies",
+    "Trust and Loan Companies Act"
+  ],
+  "effective_date_text": "",
+  "guideline_number": "",
+  "date_modified_raw": "2025-09-11T12:00:00Z",
+  "generate_pdf_url": "https://www.osfi-bsif.gc.ca/en/print/pdf/node/2787",
+  "pdf_node_id": 2787,
+  "direct_pdf_url": null,
+  "has_table_of_contents": true,
+  "toc_entries": [],
+  "has_related_documents": true,
+  "related_document_links_raw": [
+    {
+      "title": "Backgrounder: Revision of OSFI’s approach regarding Administrative Monetary Pena",
+      "url": "https://www.osfi-bsif.gc.ca/en/news/backgrounder-revision-osfis-approach-regarding-administrative-monetary-penalties-amps"
+    }
+  ],
+  "consultation_status_text": null,
+  "consultation_status_refers_to_version": null,
+  "page_language": "en",
+  "word_count_raw_body": 494,
+  "doc_id": "osfi.letter-industry-revision-osfis-approach-regarding-.transmittal",
+  "doc_family_id": "osfi.letter-industry-revision-osfis-approach-regarding-",
+  "version_id": "",
+  "version_label": "Letter to industry - Revision of OSFI’s approach regarding A",
+  "version_sort_key": "",
+  "parent_doc_id": null,
+  "child_doc_ids": [],
+  "is_package_page": false,
+  "is_chapter_page": false,
+  "chapter_number": null,
+  "chapter_title": null,
+  "document_order_within_family": 0,
+  "supersedes_doc_id": null,
+  "superseded_by_doc_id": null,
+  "current_version_flag": true,
+  "status": "final_current",
+  "include_in_primary_corpus": false,
+  "include_in_support_corpus": true,
+  "include_in_context_corpus": false,
+  "effective_date_start": "2025-09-11",
+  "effective_date_end": null,
+  "effective_date_fye_split": false,
+  "effective_date_oct_fye": null,
+  "effective_date_dec_fye": null,
+  "is_future_effective": false,
+  "is_rescinded": false,
+  "is_draft_or_consultation": false,
+  "rescission_date": null,
+  "consultation_closing_date": null,
+  "as_of_applicability": "2026-03-23",
+  "rule_applied": "rule_5_final_current",
+  "authority_class": "official_support",
+  "authority_level": 60,
+  "nova_tier": 2,
+  "prudential_weight": 0.7,
+  "is_primary_normative": false,
+  "is_supporting_interpretive": true,
+  "is_context_only": false,
+  "document_class": "transmittal_letter",
+  "guidance_type_normalized": "letter",
+  "section_headings": [
+    {
+      "level": 2,
+      "text": "Overview",
+      "id": "h2-0"
+    },
+    {
+      "level": 2,
+      "text": "Key changes",
+      "id": "h2-1"
+    },
+    {
+      "level": 2,
+      "text": "Implementation",
+      "id": "h2-2"
+    },
+    {
+      "level": 2,
+      "text": "Footnotes",
+      "id": "h2-3"
+    }
+  ],
+  "heading_path": [
+    "Letter to industry - Revision of OSFI’s approach regarding Administrative Monetary Penalties"
+  ],
+  "toc_depth": 2,
+  "has_appendices": false,
+  "appendix_ids": [],
+  "has_tables": false,
+  "table_count": 0,
+  "has_footnotes": true,
+  "footnote_count": 1,
+  "inline_cross_references": [],
+  "quoted_external_references": [],
+  "raw_html_sha256": "beff58991f45c3f80db92cc61526a5ca1201c285736d748cb76f5e9a1c0359c1",
+  "raw_pdf_sha256": null,
+  "normalized_text_sha256": null,
+  "raw_html_path": "bronze/osfi/html/final_current/letter-industry-revision-osfis-approach-regarding-administrative-monetary-penalties.html",
+  "normalized_md_path": "silver/osfi/md/final_current/letter-industry-revision-osfis-approach-regarding-administrative-monetary-penalties.md",
+  "canonical_json_path": "silver/osfi/json/final_current/letter-industry-revision-osfis-approach-regarding-administrative-monetary-penalties.json",
+  "content_source": "HTML",
+  "parser_version": "osfi-parser-v2.1.0",
+  "normalizer_version": "osfi-normalizer-v1.4.0",
+  "quality_score": 0.5,
+  "quality_flags": [
+    "thin_body_text"
+  ],
+  "download_timestamp": "2026-03-11T00:00:00Z",
+  "enriched_timestamp": "2026-03-23T09:53:53.254626Z",
+  "sections": [
+    {
+      "heading": "",
+      "heading_level": 2,
+      "full_text": "  - Backgrounder: Revision of OSFI’s approach regarding Administrative Monetary Penalties (AMPs)\nTo: Federally Regulated Financial Institutions, Foreign Bank Representative Offices\nAttention: Chief Executive Officers, Chief Agents, Principal Officers, Chief Representatives, and Chief Compliance Officers",
+      "content": [
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Backgrounder: Revision of OSFI’s approach regarding Administrative Monetary Penalties (AMPs)"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "To: Federally Regulated Financial Institutions, Foreign Bank Representative Offices"
+        },
+        {
+          "type": "paragraph",
+          "text": "Attention: Chief Executive Officers, Chief Agents, Principal Officers, Chief Representatives, and Chief Compliance Officers"
+        }
+      ]
+    },
+    {
+      "heading": "Overview",
+      "heading_level": 2,
+      "full_text": "We have revised our approach for assessing Administrative Monetary Penalties (AMPs) Footnote 1 to align with our risk appetite . Our risk appetite favours early intervention to address risks that could jeopardize the public’s confidence in the soundness of the Canadian financial system.\nThe AMP framework provides the Superintendent with the authority to impose a monetary penalty where a person commits a violation of one or more of the provisions set out in the schedule to the Administrative Monetary Penalties (OSFI) Regulations . This authority facilitates the deterrence of breaches of select provisions of the Bank Act , the Insurance Companies Act , or the Trust and Loan Companies Act (the FI statutes).\nPersons who may be subject to an AMP include entities (for example, a federally regulated financial institution, a foreign bank that has a representative office), or natural persons (for example, a director or officer). Accordingly, we encourage recipients of this letter to share this notice with the management and board of directors of the financial institutions as appropriate.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "We have revised our approach for assessing Administrative Monetary Penalties (AMPs) Footnote 1 to align with our risk appetite . Our risk appetite favours early intervention to address risks that could jeopardize the public’s confidence in the soundness of the Canadian financial system."
+        },
+        {
+          "type": "paragraph",
+          "text": "The AMP framework provides the Superintendent with the authority to impose a monetary penalty where a person commits a violation of one or more of the provisions set out in the schedule to the Administrative Monetary Penalties (OSFI) Regulations . This authority facilitates the deterrence of breaches of select provisions of the Bank Act , the Insurance Companies Act , or the Trust and Loan Companies Act (the FI statutes)."
+        },
+        {
+          "type": "paragraph",
+          "text": "Persons who may be subject to an AMP include entities (for example, a federally regulated financial institution, a foreign bank that has a representative office), or natural persons (for example, a director or officer). Accordingly, we encourage recipients of this letter to share this notice with the management and board of directors of the financial institutions as appropriate."
+        }
+      ]
+    },
+    {
+      "heading": "Key changes",
+      "heading_level": 2,
+      "full_text": "Section 26 of the Office of the Superintendent of Financial Institutions Act sets out the criteria that the Superintendent must consider when determining the amount of a penalty (statutory penalty criteria). These are:\n  - the degree of intention or negligence on the part of the person who committed the violation;\n  - the harm done by the violation; and\n  - the history of the person who committed the violation with respect to any prior violation or conviction under the FI statutes within the five-year period immediately before the violation.\nThe statutory penalty criteria have not changed. Rather, we have revised our approach for assessing these criteria to align with our high appetite for early intervention.\nKey changes to our approach include:\n  - incorporating additional indicia for assessing the statutory penalty criteria;\n  - a lower tolerance for contraventions such that penalties will be issued when we determine lower levels of negligence and harm; and\n  - a revised scaling factor to determine appropriate AMP amounts for small and mid-sized financial institutions.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Section 26 of the Office of the Superintendent of Financial Institutions Act sets out the criteria that the Superintendent must consider when determining the amount of a penalty (statutory penalty criteria). These are:"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "the degree of intention or negligence on the part of the person who committed the violation;",
+            "the harm done by the violation; and",
+            "the history of the person who committed the violation with respect to any prior violation or conviction under the FI statutes within the five-year period immediately before the violation."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "The statutory penalty criteria have not changed. Rather, we have revised our approach for assessing these criteria to align with our high appetite for early intervention."
+        },
+        {
+          "type": "paragraph",
+          "text": "Key changes to our approach include:"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "incorporating additional indicia for assessing the statutory penalty criteria;",
+            "a lower tolerance for contraventions such that penalties will be issued when we determine lower levels of negligence and harm; and",
+            "a revised scaling factor to determine appropriate AMP amounts for small and mid-sized financial institutions."
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "Implementation",
+      "heading_level": 2,
+      "full_text": "The revised approach is effective for violations that occur after September 11, 2025, except as specified below.\nContraventions that occurred on or before September 11, 2025, and that are identified on or before December 31, 2026, will be captured by the pre-September 11, 2025, approach.\nLater in 2025, we will publish a guide containing more information and instructions regarding the AMP assessment process.\nIf you have any questions, please contact the Legislative Affairs Division ( legislation@osfi-bsif.gc.ca ).\n[Note: Footnotes Footnote 1 The Late and Erroneous Filing Penalty (LEFP) framework is outside the scope of this letter. Return to footnote 1 referrer]",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "The revised approach is effective for violations that occur after September 11, 2025, except as specified below."
+        },
+        {
+          "type": "paragraph",
+          "text": "Contraventions that occurred on or before September 11, 2025, and that are identified on or before December 31, 2026, will be captured by the pre-September 11, 2025, approach."
+        },
+        {
+          "type": "paragraph",
+          "text": "Later in 2025, we will publish a guide containing more information and instructions regarding the AMP assessment process."
+        },
+        {
+          "type": "paragraph",
+          "text": "If you have any questions, please contact the Legislative Affairs Division ( legislation@osfi-bsif.gc.ca )."
+        },
+        {
+          "type": "footnote",
+          "text": "Footnotes Footnote 1 The Late and Erroneous Filing Penalty (LEFP) framework is outside the scope of this letter. Return to footnote 1 referrer"
+        }
+      ]
+    },
+    {
+      "heading": "Footnotes",
+      "heading_level": 2,
+      "full_text": "The Late and Erroneous Filing Penalty (LEFP) framework is outside the scope of this letter.\nReturn to footnote 1 referrer",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "The Late and Erroneous Filing Penalty (LEFP) framework is outside the scope of this letter."
+        },
+        {
+          "type": "paragraph",
+          "text": "Return to footnote 1 referrer"
+        }
+      ]
+    }
+  ],
+  "title_normalized": "letter to industry revision of osfis approach regarding administrative monetary penalties",
+  "publication_type_normalized": "letter",
+  "category_normalized": "supervisory_advisories",
+  "sector_normalized": [
+    "bank_act",
+    "banks",
+    "foreign_bank_branches",
+    "foreign_insurance_branches",
+    "insurance_companies_act",
+    "life_insurance",
+    "pc_insurance",
+    "trust_and_loan_companies",
+    "trust_and_loan_companies_act"
+  ],
+  "guideline_number_normalized": "",
+  "applies_to_banks": true,
+  "applies_to_trust_loan": true,
+  "applies_to_life_insurance": true,
+  "applies_to_pc_insurance": true,
+  "applies_to_foreign_bank": true,
+  "applies_to_foreign_insurance": true,
+  "applies_to_cooperative": false,
+  "applies_to_bank_holding": false,
+  "effective_date_sort_key": "2025-09-11",
+  "status_sort_key": 1,
+  "authority_sort_key": 60,
+  "bm25_text": "Letter to industry - Revision of OSFI’s approach regarding Administrative Monetary Penalties Letter Supervisory Advisories Bank Act Banks Foreign Bank Branches Foreign Insurance Branches Insurance Companies Act Life Insurance and Fraternal Companies Property and Casualty Companies Trust and Loan Companies Trust and Loan Companies Act Overview Key changes Implementation Footnotes",
+  "vector_text_prefix": "[OSFI Letter  | Supervisory Advisories | Bank Act / Banks / Foreign Bank Branches | FINAL_CURRENT | Effective 2025-09-11]",
+  "h1_title": "Letter to industry - Revision of OSFI’s approach regarding Administrative Monetary Penalties",
+  "regulator": "OSFI",
+  "regulator_acronym": "OSFI",
+  "jurisdiction": "Canada",
+  "short_title": "",
+  "source_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/letter-industry-revision-osfis-approach-regarding-administrative-monetary-penalties"
+}

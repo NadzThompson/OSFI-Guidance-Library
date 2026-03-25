@@ -1,0 +1,182 @@
+{
+  "source_system": "osfi_guidance_library",
+  "library_row_title": "OSFI maintains the level of the Domestic Stability Buffer at 3.50% - Letter (2023)",
+  "library_row_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/osfi-maintains-level-domestic-stability-buffer-350-letter-2023",
+  "listing_date_raw": "December 8, 2023",
+  "listing_date_iso": "2023-12-08",
+  "listing_publication_type": "Letter",
+  "listing_category": "Capital Adequacy Requirements",
+  "listing_sector": [],
+  "crawl_timestamp": "2026-03-11T00:00:00Z",
+  "detail_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/osfi-maintains-level-domestic-stability-buffer-350-letter-2023",
+  "canonical_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/osfi-maintains-level-domestic-stability-buffer-350-letter-2023",
+  "slug": "osfi-maintains-level-domestic-stability-buffer-350-letter-2023",
+  "title": "OSFI maintains the level of the Domestic Stability Buffer at 3.50% - Letter (2023)",
+  "publication_type": "Letter",
+  "category": "Capital Adequacy Requirements",
+  "document_date_raw": "December 8, 2023",
+  "document_date_iso": "2023-12-08",
+  "sector": [],
+  "effective_date_text": "",
+  "guideline_number": "",
+  "date_modified_raw": "2023-12-08T12:00:00Z",
+  "generate_pdf_url": "https://www.osfi-bsif.gc.ca/en/print/pdf/node/2016",
+  "pdf_node_id": 2016,
+  "direct_pdf_url": null,
+  "has_table_of_contents": true,
+  "toc_entries": [],
+  "has_related_documents": false,
+  "related_document_links_raw": [],
+  "consultation_status_text": null,
+  "consultation_status_refers_to_version": null,
+  "page_language": "en",
+  "word_count_raw_body": 301,
+  "doc_id": "osfi.dsb.2023.transmittal",
+  "doc_family_id": "osfi.dsb",
+  "version_id": "2023",
+  "version_label": "OSFI maintains the level of the Domestic Stability Buffer at",
+  "version_sort_key": "2023-12",
+  "parent_doc_id": null,
+  "child_doc_ids": [],
+  "is_package_page": false,
+  "is_chapter_page": false,
+  "chapter_number": null,
+  "chapter_title": null,
+  "document_order_within_family": 0,
+  "supersedes_doc_id": null,
+  "superseded_by_doc_id": "osfi.dsb.2025.transmittal",
+  "current_version_flag": false,
+  "status": "superseded",
+  "include_in_primary_corpus": false,
+  "include_in_support_corpus": true,
+  "include_in_context_corpus": false,
+  "effective_date_start": "2023-12-08",
+  "effective_date_end": null,
+  "effective_date_fye_split": false,
+  "effective_date_oct_fye": null,
+  "effective_date_dec_fye": null,
+  "is_future_effective": false,
+  "is_rescinded": false,
+  "is_draft_or_consultation": false,
+  "rescission_date": null,
+  "consultation_closing_date": null,
+  "as_of_applicability": "2026-03-23",
+  "rule_applied": "rule_7_superseded",
+  "authority_class": "official_support",
+  "authority_level": 60,
+  "nova_tier": 2,
+  "prudential_weight": 0.7,
+  "is_primary_normative": false,
+  "is_supporting_interpretive": true,
+  "is_context_only": false,
+  "document_class": "transmittal_letter",
+  "guidance_type_normalized": "letter",
+  "section_headings": [
+    {
+      "level": 2,
+      "text": "Document properties",
+      "id": "h2-0"
+    }
+  ],
+  "heading_path": [
+    "OSFI maintains the level of the Domestic Stability Buffer at 3.50% - Letter (2023)"
+  ],
+  "toc_depth": 2,
+  "has_appendices": false,
+  "appendix_ids": [],
+  "has_tables": false,
+  "table_count": 0,
+  "has_footnotes": false,
+  "footnote_count": 0,
+  "inline_cross_references": [],
+  "quoted_external_references": [],
+  "raw_html_sha256": "e62953c6872ab931af204a80ca9649b5bbab3e1ebaa0fbcd208a615a4571aa4b",
+  "raw_pdf_sha256": null,
+  "normalized_text_sha256": null,
+  "raw_html_path": "bronze/osfi/html/final_current/osfi-maintains-level-domestic-stability-buffer-350-letter-2023.html",
+  "normalized_md_path": "silver/osfi/md/final_current/osfi-maintains-level-domestic-stability-buffer-350-letter-2023.md",
+  "canonical_json_path": "silver/osfi/json/final_current/osfi-maintains-level-domestic-stability-buffer-350-letter-2023.json",
+  "content_source": "HTML",
+  "parser_version": "osfi-parser-v2.1.0",
+  "normalizer_version": "osfi-normalizer-v1.4.0",
+  "quality_score": 0.5,
+  "quality_flags": [
+    "thin_body_text"
+  ],
+  "download_timestamp": "2026-03-11T00:00:00Z",
+  "enriched_timestamp": "2026-03-23T09:53:57.462852Z",
+  "sections": [
+    {
+      "heading": "",
+      "heading_level": 2,
+      "full_text": "  - Opening statement\n  - News release\n  - Domestic Stability Buffer decision summary note - December 8, 2023",
+      "content": [
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Opening statement",
+            "News release",
+            "Domestic Stability Buffer decision summary note - December 8, 2023"
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "Document properties",
+      "heading_level": 2,
+      "full_text": "  - Type of publication: Letter\n  - Date: December 8, 2023\n  - To: Domestic Systemically Important Banks (D‑SIBs) The following federally regulated financial institutions are designated as D-SIBs: Bank of Montreal, Bank of Nova Scotia, Canadian Imperial Bank of Commerce, National Bank of Canada, Royal Bank of Canada, and Toronto-Dominion Bank.\nFollowing its semi-annual review, OSFI has decided to maintain the level of the Domestic Stability Buffer (DSB) at 3.5% of total risk-weighted assets as calculated under the Capital Adequacy Requirements (CAR) Guideline. The DSB was previously increased to 3.5% of total risk-weighted assets, effective November 1, 2023, as announced by the Superintendent on June 20, 2023 .\nOver the last year, OSFI has required Canada’s six largest banks to hold more capital by increasing the DSB. Currently, all systemically important banks are expected, with the DSB and other buffers, to target a Common Equity Tier 1 ratio of at least 11.5% of risk-weighted assets. As a result, our current view is that the system has reached a level of reserve capital that is sufficient to handle potential risks and uncertainties. Further, these buffers can be a source of reassurance for Canadians, should risks materialize.\nThese considerations support today’s decision to maintain the buffer at its current level of 3.5% and reflect OSFI’s view that the current DSB level is both prudent and appropriate. OSFI will review the DSB periodically to ensure that it continues to contribute to the safety and soundness of Canada’s financial system and to promote public confidence in the system.\nMoreover, we will continue to monitor financial and economic conditions in Canada and, should systemic vulnerabilities or risks intensify, or new risks materialize, we will not hesitate to take further action.",
+      "content": [
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Type of publication: Letter",
+            "Date: December 8, 2023",
+            "To: Domestic Systemically Important Banks (D‑SIBs) The following federally regulated financial institutions are designated as D-SIBs: Bank of Montreal, Bank of Nova Scotia, Canadian Imperial Bank of Commerce, National Bank of Canada, Royal Bank of Canada, and Toronto-Dominion Bank."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Following its semi-annual review, OSFI has decided to maintain the level of the Domestic Stability Buffer (DSB) at 3.5% of total risk-weighted assets as calculated under the Capital Adequacy Requirements (CAR) Guideline. The DSB was previously increased to 3.5% of total risk-weighted assets, effective November 1, 2023, as announced by the Superintendent on June 20, 2023 ."
+        },
+        {
+          "type": "paragraph",
+          "text": "Over the last year, OSFI has required Canada’s six largest banks to hold more capital by increasing the DSB. Currently, all systemically important banks are expected, with the DSB and other buffers, to target a Common Equity Tier 1 ratio of at least 11.5% of risk-weighted assets. As a result, our current view is that the system has reached a level of reserve capital that is sufficient to handle potential risks and uncertainties. Further, these buffers can be a source of reassurance for Canadians, should risks materialize."
+        },
+        {
+          "type": "paragraph",
+          "text": "These considerations support today’s decision to maintain the buffer at its current level of 3.5% and reflect OSFI’s view that the current DSB level is both prudent and appropriate. OSFI will review the DSB periodically to ensure that it continues to contribute to the safety and soundness of Canada’s financial system and to promote public confidence in the system."
+        },
+        {
+          "type": "paragraph",
+          "text": "Moreover, we will continue to monitor financial and economic conditions in Canada and, should systemic vulnerabilities or risks intensify, or new risks materialize, we will not hesitate to take further action."
+        }
+      ]
+    }
+  ],
+  "title_normalized": "osfi maintains the level of the domestic stability buffer at 350 letter 2023",
+  "publication_type_normalized": "letter",
+  "category_normalized": "capital_adequacy_requirements",
+  "sector_normalized": [],
+  "guideline_number_normalized": "",
+  "applies_to_banks": false,
+  "applies_to_trust_loan": false,
+  "applies_to_life_insurance": false,
+  "applies_to_pc_insurance": false,
+  "applies_to_foreign_bank": false,
+  "applies_to_foreign_insurance": false,
+  "applies_to_cooperative": false,
+  "applies_to_bank_holding": false,
+  "effective_date_sort_key": "2023-12-08",
+  "status_sort_key": 1,
+  "authority_sort_key": 60,
+  "bm25_text": "OSFI maintains the level of the Domestic Stability Buffer at 3.50% - Letter (2023) Letter Capital Adequacy Requirements Document properties",
+  "vector_text_prefix": "[OSFI Letter  | Capital Adequacy Requirements |  | FINAL_CURRENT | Effective 2023-12-08]",
+  "h1_title": "OSFI maintains the level of the Domestic Stability Buffer at 3.50% - Letter (2023)",
+  "regulator": "OSFI",
+  "regulator_acronym": "OSFI",
+  "jurisdiction": "Canada",
+  "short_title": "",
+  "source_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/osfi-maintains-level-domestic-stability-buffer-350-letter-2023"
+}

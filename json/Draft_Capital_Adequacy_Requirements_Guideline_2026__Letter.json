@@ -1,0 +1,316 @@
+{
+  "source_system": "osfi_guidance_library",
+  "library_row_title": "Draft Capital Adequacy Requirements Guideline (2026) – Letter",
+  "library_row_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/draft-capital-adequacy-requirements-guideline-2026-letter",
+  "listing_date_raw": "February 20, 2025",
+  "listing_date_iso": "2025-02-20",
+  "listing_publication_type": "Letter",
+  "listing_category": "Capital Adequacy Requirements",
+  "listing_sector": [
+    "Banks",
+    "Trust and Loan Companies"
+  ],
+  "crawl_timestamp": "2026-03-11T00:00:00Z",
+  "detail_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/draft-capital-adequacy-requirements-guideline-2026-letter",
+  "canonical_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/draft-capital-adequacy-requirements-guideline-2026-letter",
+  "slug": "draft-capital-adequacy-requirements-guideline-2026-letter",
+  "title": "Draft Capital Adequacy Requirements Guideline (2026) – Letter",
+  "publication_type": "Letter",
+  "category": "Capital Adequacy Requirements",
+  "document_date_raw": "February 20, 2025",
+  "document_date_iso": "2025-02-20",
+  "sector": [
+    "Banks",
+    "Trust and Loan Companies"
+  ],
+  "effective_date_text": "",
+  "guideline_number": "",
+  "date_modified_raw": "2025-02-20T12:00:00Z",
+  "generate_pdf_url": "https://www.osfi-bsif.gc.ca/en/print/pdf/node/2586",
+  "pdf_node_id": 2586,
+  "direct_pdf_url": null,
+  "has_table_of_contents": true,
+  "toc_entries": [],
+  "has_related_documents": true,
+  "related_document_links_raw": [
+    {
+      "title": "OSFI's final Quarterly Release pilot: strengthening trust and resilience in Cana",
+      "url": "https://www.osfi-bsif.gc.ca/en/news/osfis-final-quarterly-release-pilot-strengthening-trust-resilience-canadas-financial-system"
+    },
+    {
+      "title": "Draft Capital Adequacy Requirements Guideline (2026) – Letter",
+      "url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/draft-capital-adequacy-requirements-guideline-2026-letter"
+    },
+    {
+      "title": "Consultation: Draft Capital Adequacy Requirements (CAR) Guideline",
+      "url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/consultation-draft-capital-adequacy-requirements-car-guideline"
+    },
+    {
+      "title": "OSFI releases capital guidelines updates for financial resiliency",
+      "url": "https://www.osfi-bsif.gc.ca/en/news/osfi-releases-capital-guidelines-updates-financial-resiliency"
+    },
+    {
+      "title": "Frequently asked questions – Basel III reforms",
+      "url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/frequently-asked-questions-basel-iii-reforms"
+    },
+    {
+      "title": "Basel Capital Adequacy Reporting (BCAR)",
+      "url": "https://www.osfi-bsif.gc.ca/en/data-forms/reporting-returns/filing-financial-returns/financial-reporting-instructions/2026-basel-capital-adequacy-reporting-bcar"
+    }
+  ],
+  "consultation_status_text": null,
+  "consultation_status_refers_to_version": null,
+  "page_language": "en",
+  "word_count_raw_body": 544,
+  "doc_id": "osfi.draft-capital-adequacy-requirements-guideline.2026.transmittal",
+  "doc_family_id": "osfi.draft-capital-adequacy-requirements-guideline",
+  "version_id": "2026",
+  "version_label": "Draft Capital Adequacy Requirements Guideline (2026) – Lette",
+  "version_sort_key": "2026-02",
+  "parent_doc_id": null,
+  "child_doc_ids": [],
+  "is_package_page": false,
+  "is_chapter_page": false,
+  "chapter_number": null,
+  "chapter_title": null,
+  "document_order_within_family": 0,
+  "supersedes_doc_id": null,
+  "superseded_by_doc_id": "osfi.draft-capital-adequacy-requirements-guideline.2027.transmittal",
+  "current_version_flag": false,
+  "status": "superseded",
+  "include_in_primary_corpus": false,
+  "include_in_support_corpus": true,
+  "include_in_context_corpus": false,
+  "effective_date_start": "2025-02-20",
+  "effective_date_end": null,
+  "effective_date_fye_split": false,
+  "effective_date_oct_fye": null,
+  "effective_date_dec_fye": null,
+  "is_future_effective": false,
+  "is_rescinded": false,
+  "is_draft_or_consultation": false,
+  "rescission_date": null,
+  "consultation_closing_date": null,
+  "as_of_applicability": "2026-03-23",
+  "rule_applied": "rule_7_superseded",
+  "authority_class": "official_support",
+  "authority_level": 60,
+  "nova_tier": 2,
+  "prudential_weight": 0.7,
+  "is_primary_normative": false,
+  "is_supporting_interpretive": true,
+  "is_context_only": false,
+  "document_class": "transmittal_letter",
+  "guidance_type_normalized": "letter",
+  "section_headings": [
+    {
+      "level": 2,
+      "text": "Credit risk requirements",
+      "id": "h2-0"
+    },
+    {
+      "level": 2,
+      "text": "Market risk and credit valuation adjustment requirements",
+      "id": "h2-1"
+    },
+    {
+      "level": 2,
+      "text": "Treatment of Bankers' Acceptances",
+      "id": "h2-2"
+    },
+    {
+      "level": 3,
+      "text": "Capital floor",
+      "id": "h3-3"
+    },
+    {
+      "level": 3,
+      "text": "Capital confirmation requests",
+      "id": "h3-4"
+    },
+    {
+      "level": 3,
+      "text": "Incorporation of frequently asked questions",
+      "id": "h3-5"
+    }
+  ],
+  "heading_path": [
+    "Draft Capital Adequacy Requirements Guideline (2026) – Letter"
+  ],
+  "toc_depth": 3,
+  "has_appendices": false,
+  "appendix_ids": [],
+  "has_tables": false,
+  "table_count": 0,
+  "has_footnotes": false,
+  "footnote_count": 0,
+  "inline_cross_references": [],
+  "quoted_external_references": [],
+  "raw_html_sha256": "f62066bde7e83033aad084322ccb1279cf0d6a13d7f4993d84673ff39fc85a60",
+  "raw_pdf_sha256": null,
+  "normalized_text_sha256": null,
+  "raw_html_path": "bronze/osfi/html/final_current/draft-capital-adequacy-requirements-guideline-2026-letter.html",
+  "normalized_md_path": "silver/osfi/md/final_current/draft-capital-adequacy-requirements-guideline-2026-letter.md",
+  "canonical_json_path": "silver/osfi/json/final_current/draft-capital-adequacy-requirements-guideline-2026-letter.json",
+  "content_source": "HTML",
+  "parser_version": "osfi-parser-v2.1.0",
+  "normalizer_version": "osfi-normalizer-v1.4.0",
+  "quality_score": 1.0,
+  "quality_flags": [],
+  "download_timestamp": "2026-03-11T00:00:00Z",
+  "enriched_timestamp": "2026-03-23T09:53:51.146842Z",
+  "sections": [
+    {
+      "heading": "",
+      "heading_level": 2,
+      "full_text": "  - OSFI's final Quarterly Release pilot: strengthening trust and resilience in Canada’s financial system\n  - Draft Capital Adequacy Requirements Guideline (2026) – Letter\n  - Consultation: Draft Capital Adequacy Requirements (CAR) Guideline\n  - OSFI releases capital guidelines updates for financial resiliency\n  - Frequently asked questions – Basel III reforms\n  - Basel Capital Adequacy Reporting (BCAR)\nToday, we are launching a 60-day public consultation on draft revisions to the Capital Adequacy Requirements (CAR) Guideline, with corresponding revisions to the Small and Medium-Sized Deposit-Taking Institutions (SMSB) Capital and Liquidity Requirements Guideline.\nThe proposed revisions to the CAR Guideline build on the latest version of the guideline which was published in October 2023. Comments received will inform final changes to the guideline which we expect to come into effect in Q1 2026.\nThe 2026 CAR Guideline revisions intend to enhance the clarity of our capital rules and improve the consistency of their application. The key revisions are summarized below.",
+      "content": [
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "OSFI's final Quarterly Release pilot: strengthening trust and resilience in Canada’s financial system",
+            "Draft Capital Adequacy Requirements Guideline (2026) – Letter",
+            "Consultation: Draft Capital Adequacy Requirements (CAR) Guideline",
+            "OSFI releases capital guidelines updates for financial resiliency",
+            "Frequently asked questions – Basel III reforms",
+            "Basel Capital Adequacy Reporting (BCAR)"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Today, we are launching a 60-day public consultation on draft revisions to the Capital Adequacy Requirements (CAR) Guideline, with corresponding revisions to the Small and Medium-Sized Deposit-Taking Institutions (SMSB) Capital and Liquidity Requirements Guideline."
+        },
+        {
+          "type": "paragraph",
+          "text": "The proposed revisions to the CAR Guideline build on the latest version of the guideline which was published in October 2023. Comments received will inform final changes to the guideline which we expect to come into effect in Q1 2026."
+        },
+        {
+          "type": "paragraph",
+          "text": "The 2026 CAR Guideline revisions intend to enhance the clarity of our capital rules and improve the consistency of their application. The key revisions are summarized below."
+        }
+      ]
+    },
+    {
+      "heading": "Credit risk requirements",
+      "heading_level": 2,
+      "full_text": "We are clarifying the expectations regarding the treatment of Combined Loan Products (CLPs) under the credit risk Standardized Approach (SA) and Internal Ratings-based (IRB) approaches in Chapters 4 and 5. These revisions will help to ensure that the capital treatment is consistent with the risks and structure of CLPs.\nWe are updating the definition of income-producing residential real estate exposures, where repayment is materially dependent on cash flows generated by property, in Chapter 4. This revision will better align the capital treatment under the credit risk SA and IRB approach with institutions' internal categorization of these properties.\nWe are clarifying the treatment of certain US government sponsored entities in Chapters 4 and 5. This revision will align their capital treatment with their treatment under US capital rules.\nIn addition, we are updating the interim capital floor requirements for institutions that are newly approved to use the IRB approach.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "We are clarifying the expectations regarding the treatment of Combined Loan Products (CLPs) under the credit risk Standardized Approach (SA) and Internal Ratings-based (IRB) approaches in Chapters 4 and 5. These revisions will help to ensure that the capital treatment is consistent with the risks and structure of CLPs."
+        },
+        {
+          "type": "paragraph",
+          "text": "We are updating the definition of income-producing residential real estate exposures, where repayment is materially dependent on cash flows generated by property, in Chapter 4. This revision will better align the capital treatment under the credit risk SA and IRB approach with institutions' internal categorization of these properties."
+        },
+        {
+          "type": "paragraph",
+          "text": "We are clarifying the treatment of certain US government sponsored entities in Chapters 4 and 5. This revision will align their capital treatment with their treatment under US capital rules."
+        },
+        {
+          "type": "paragraph",
+          "text": "In addition, we are updating the interim capital floor requirements for institutions that are newly approved to use the IRB approach."
+        }
+      ]
+    },
+    {
+      "heading": "Market risk and credit valuation adjustment requirements",
+      "heading_level": 2,
+      "full_text": "We are modifying the default risk charge for sovereign exposures under the market risk Standardized Approach in Chapter 9 to more closely align with the treatment in the Basel framework.\nWe are also clarifying that the credit valuation adjustment (CVA) framework in Chapter 8 applies to all institutions with transactions in scope for the CVA capital charge, including small and medium-sized banks. We are making a corresponding change to the SMSB Guideline.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "We are modifying the default risk charge for sovereign exposures under the market risk Standardized Approach in Chapter 9 to more closely align with the treatment in the Basel framework."
+        },
+        {
+          "type": "paragraph",
+          "text": "We are also clarifying that the credit valuation adjustment (CVA) framework in Chapter 8 applies to all institutions with transactions in scope for the CVA capital charge, including small and medium-sized banks. We are making a corresponding change to the SMSB Guideline."
+        }
+      ]
+    },
+    {
+      "heading": "Treatment of Bankers' Acceptances",
+      "heading_level": 2,
+      "full_text": "We are removing references to Bankers' Acceptances and Canadian Dollar Offered Rate (CDOR) in Chapters 4, 5, 6, and 9 of the CAR Guideline in light of the cessation of CDOR in June 2024.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "We are removing references to Bankers' Acceptances and Canadian Dollar Offered Rate (CDOR) in Chapters 4, 5, 6, and 9 of the CAR Guideline in light of the cessation of CDOR in June 2024."
+        }
+      ]
+    },
+    {
+      "heading": "Capital floor",
+      "heading_level": 3,
+      "full_text": "As announced on February 12, 2025, the capital floor will remain at 67.5% until further notice. We will provide at least two years prior notice to resuming an increase in the capital floor.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "As announced on February 12, 2025, the capital floor will remain at 67.5% until further notice. We will provide at least two years prior notice to resuming an increase in the capital floor."
+        }
+      ]
+    },
+    {
+      "heading": "Capital confirmation requests",
+      "heading_level": 3,
+      "full_text": "We are updating the guideline to clarify that institutions will be charged user fees for both preliminary and final capital confirmations.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "We are updating the guideline to clarify that institutions will be charged user fees for both preliminary and final capital confirmations."
+        }
+      ]
+    },
+    {
+      "heading": "Incorporation of frequently asked questions",
+      "heading_level": 3,
+      "full_text": "Finally, we are incorporating some existing frequently asked questions published on our website related to operational risk and market risk into Chapters 3 and 9 of the guideline, respectively, for clarity and ease of reference.\nStakeholders who wish to submit comments should send them to Consultations@osfi-bsif.gc.ca by April 22, 2025. A non-attributed summary of comments received along with our responses will be posted on our website alongside the final version of the guideline.\nSincerely,\nAmar Munipalle Executive Director, Risk Advisory Hub",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Finally, we are incorporating some existing frequently asked questions published on our website related to operational risk and market risk into Chapters 3 and 9 of the guideline, respectively, for clarity and ease of reference."
+        },
+        {
+          "type": "paragraph",
+          "text": "Stakeholders who wish to submit comments should send them to Consultations@osfi-bsif.gc.ca by April 22, 2025. A non-attributed summary of comments received along with our responses will be posted on our website alongside the final version of the guideline."
+        },
+        {
+          "type": "paragraph",
+          "text": "Sincerely,"
+        },
+        {
+          "type": "paragraph",
+          "text": "Amar Munipalle Executive Director, Risk Advisory Hub"
+        }
+      ]
+    }
+  ],
+  "title_normalized": "draft capital adequacy requirements guideline 2026 letter",
+  "publication_type_normalized": "letter",
+  "category_normalized": "capital_adequacy_requirements",
+  "sector_normalized": [
+    "banks",
+    "trust_and_loan_companies"
+  ],
+  "guideline_number_normalized": "",
+  "applies_to_banks": true,
+  "applies_to_trust_loan": true,
+  "applies_to_life_insurance": false,
+  "applies_to_pc_insurance": false,
+  "applies_to_foreign_bank": false,
+  "applies_to_foreign_insurance": false,
+  "applies_to_cooperative": false,
+  "applies_to_bank_holding": false,
+  "effective_date_sort_key": "2025-02-20",
+  "status_sort_key": 1,
+  "authority_sort_key": 60,
+  "bm25_text": "Draft Capital Adequacy Requirements Guideline (2026) – Letter Letter Capital Adequacy Requirements Banks Trust and Loan Companies Credit risk requirements Market risk and credit valuation adjustment requirements Treatment of Bankers' Acceptances Capital floor Capital confirmation requests Incorporation of frequently asked questions",
+  "vector_text_prefix": "[OSFI Letter  | Capital Adequacy Requirements | Banks / Trust and Loan Companies | FINAL_CURRENT | Effective 2025-02-20]",
+  "h1_title": "Draft Capital Adequacy Requirements Guideline (2026) – Letter",
+  "regulator": "OSFI",
+  "regulator_acronym": "OSFI",
+  "jurisdiction": "Canada",
+  "short_title": "",
+  "source_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/draft-capital-adequacy-requirements-guideline-2026-letter"
+}

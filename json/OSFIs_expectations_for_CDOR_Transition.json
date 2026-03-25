@@ -1,0 +1,189 @@
+{
+  "source_system": "osfi_guidance_library",
+  "library_row_title": "OSFI’s expectations for CDOR Transition",
+  "library_row_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/osfis-expectations-cdor-transition",
+  "listing_date_raw": "May 16, 2022",
+  "listing_date_iso": "2022-05-16",
+  "listing_publication_type": "Letter",
+  "listing_category": "",
+  "listing_sector": [
+    "Banks",
+    "Foreign Bank Branches",
+    "Trust and Loan Companies",
+    "Life Insurance and Fraternal Companies",
+    "Property and Casualty Companies"
+  ],
+  "crawl_timestamp": "2026-03-11T00:00:00Z",
+  "detail_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/osfis-expectations-cdor-transition",
+  "canonical_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/osfis-expectations-cdor-transition",
+  "slug": "osfis-expectations-cdor-transition",
+  "title": "OSFI’s expectations for CDOR Transition",
+  "publication_type": "Letter",
+  "category": "",
+  "document_date_raw": "May 16, 2022",
+  "document_date_iso": "2022-05-16",
+  "sector": [
+    "Banks",
+    "Foreign Bank Branches",
+    "Trust and Loan Companies",
+    "Life Insurance and Fraternal Companies",
+    "Property and Casualty Companies"
+  ],
+  "effective_date_text": "",
+  "guideline_number": "",
+  "date_modified_raw": "2022-05-16T12:00:00Z",
+  "generate_pdf_url": "https://www.osfi-bsif.gc.ca/en/print/pdf/node/302",
+  "pdf_node_id": 302,
+  "direct_pdf_url": "https://www.refinitiv.com/content/dam/marketing/en_us/documents/methodology/cdor-cessation-notice.pdf",
+  "has_table_of_contents": true,
+  "toc_entries": [],
+  "has_related_documents": false,
+  "related_document_links_raw": [],
+  "consultation_status_text": null,
+  "consultation_status_refers_to_version": null,
+  "page_language": "en",
+  "word_count_raw_body": 462,
+  "doc_id": "osfi.osfis-expectations-cdor-transition.transmittal",
+  "doc_family_id": "osfi.osfis-expectations-cdor-transition",
+  "version_id": "",
+  "version_label": "OSFI’s expectations for CDOR Transition",
+  "version_sort_key": "",
+  "parent_doc_id": null,
+  "child_doc_ids": [],
+  "is_package_page": false,
+  "is_chapter_page": false,
+  "chapter_number": null,
+  "chapter_title": null,
+  "document_order_within_family": 0,
+  "supersedes_doc_id": null,
+  "superseded_by_doc_id": null,
+  "current_version_flag": true,
+  "status": "final_current",
+  "include_in_primary_corpus": false,
+  "include_in_support_corpus": true,
+  "include_in_context_corpus": false,
+  "effective_date_start": "2022-05-16",
+  "effective_date_end": null,
+  "effective_date_fye_split": false,
+  "effective_date_oct_fye": null,
+  "effective_date_dec_fye": null,
+  "is_future_effective": false,
+  "is_rescinded": false,
+  "is_draft_or_consultation": false,
+  "rescission_date": null,
+  "consultation_closing_date": null,
+  "as_of_applicability": "2026-03-23",
+  "rule_applied": "rule_5_final_current",
+  "authority_class": "official_support",
+  "authority_level": 60,
+  "nova_tier": 2,
+  "prudential_weight": 0.7,
+  "is_primary_normative": false,
+  "is_supporting_interpretive": true,
+  "is_context_only": false,
+  "document_class": "transmittal_letter",
+  "guidance_type_normalized": "letter",
+  "section_headings": [],
+  "heading_path": [
+    "OSFI’s expectations for CDOR Transition"
+  ],
+  "toc_depth": 0,
+  "has_appendices": false,
+  "appendix_ids": [],
+  "has_tables": false,
+  "table_count": 0,
+  "has_footnotes": false,
+  "footnote_count": 0,
+  "inline_cross_references": [],
+  "quoted_external_references": [],
+  "raw_html_sha256": "97ec0a214c7e738bb88542f3d00711b56a3a10bf2133f2c31f730a4825187230",
+  "raw_pdf_sha256": null,
+  "normalized_text_sha256": null,
+  "raw_html_path": "bronze/osfi/html/final_current/osfis-expectations-cdor-transition.html",
+  "normalized_md_path": "silver/osfi/md/final_current/osfis-expectations-cdor-transition.md",
+  "canonical_json_path": "silver/osfi/json/final_current/osfis-expectations-cdor-transition.json",
+  "content_source": "HTML",
+  "parser_version": "osfi-parser-v2.1.0",
+  "normalizer_version": "osfi-normalizer-v1.4.0",
+  "quality_score": 0.5,
+  "quality_flags": [
+    "thin_body_text"
+  ],
+  "download_timestamp": "2026-03-11T00:00:00Z",
+  "enriched_timestamp": "2026-03-23T09:53:58.090328Z",
+  "sections": [
+    {
+      "heading": "",
+      "heading_level": 2,
+      "full_text": "To: Federally Regulated Financial Institutions (FRFIs) and Federally Regulated Private Pension Plans (FRPPs)\nGlobal benchmark reform efforts have sought to improve the foundations of financial products around the world. The Office of the Superintendent of Financial Institutions (OSFI) supports the move towards more robust interest-rate benchmarks, including efforts to transition the Canadian financial system to primarily using the Canadian Overnight Repo Rate Average (CORRA) in place of the Canadian Dollar Offered Rate (CDOR). This will elevate Canadian benchmark standards and align Canada with other jurisdictions which are adopting similar standards.\nOn December 16, 2021, the Canadian Alternative Reference Rate Working Group (CARR) released a white paper recommending that the administrator of CDOR, Refinitiv Benchmark Services (UK) Limited (RBSL), cease publication of all three of CDOR’s remaining tenors after the end of June 2024. Following public consultation, RBSL announced their intention to cease publication (PDF) of CDOR on June 28, 2024. Concurrently, CARR published a detailed transition roadmap and milestones (PDF) to guide market participants in their transition away from CDOR. They also launched a consultation (PDF) on a potential Term CORRA rate to replace CDOR in certain types of loan products.\nWith confirmation of CDOR cessation dates, we are entering into a critical phase in the transition to alternative reference rates in Canada. As a result, OSFI expects federally regulated financial institutions (FRFIs) and federally regulated private pension plans (FRPPs) with transactions linked to CDOR will make every effort to ensure a seamless transition to new reference rates, prior to the respective cessation dates.\nConsistent with CARR’s white paper’s proposed two-stage transition approach, OSFI expects all new derivative contracts (bilateral, cleared, and exchange-traded) and securities (assets and debt liabilities) to transition to alternative reference rates by June 30, 2023, with no new CDOR exposure being booked after that date, with limited exceptions for risk mitigation requirements as referenced in the white paper. By June 28, 2024, OSFI expects that FRFIs will have transitioned all loan agreements referencing CDOR. As part of this transition, OSFI expects that FRFIs\n  - prioritize system and model updates to accommodate the use of CORRA (or any alternative reference rates, as necessary) prior to June 28, 2024.\n  - ensure adequate contingency planning is in place to respond to potential issues that may emerge at cessation.\nAdditionally, OSFI recognises that the cessation of CDOR will have implications for funding and lending instruments, including the use of Banker’s Acceptances. Considering this, OSFI will review capital and liquidity guidance to ensure any specific references to, and treatments for, Banker’s Acceptances remain appropriate after CDOR’s cessation.\nFor FRFIs with material exposure to CDOR, OSFI will be considering CDOR transition efforts and project delivery within its supervisory risk assessments and will take supervisory actions, as appropriate, based on its evaluation of transition preparedness.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "To: Federally Regulated Financial Institutions (FRFIs) and Federally Regulated Private Pension Plans (FRPPs)"
+        },
+        {
+          "type": "paragraph",
+          "text": "Global benchmark reform efforts have sought to improve the foundations of financial products around the world. The Office of the Superintendent of Financial Institutions (OSFI) supports the move towards more robust interest-rate benchmarks, including efforts to transition the Canadian financial system to primarily using the Canadian Overnight Repo Rate Average (CORRA) in place of the Canadian Dollar Offered Rate (CDOR). This will elevate Canadian benchmark standards and align Canada with other jurisdictions which are adopting similar standards."
+        },
+        {
+          "type": "paragraph",
+          "text": "On December 16, 2021, the Canadian Alternative Reference Rate Working Group (CARR) released a white paper recommending that the administrator of CDOR, Refinitiv Benchmark Services (UK) Limited (RBSL), cease publication of all three of CDOR’s remaining tenors after the end of June 2024. Following public consultation, RBSL announced their intention to cease publication (PDF) of CDOR on June 28, 2024. Concurrently, CARR published a detailed transition roadmap and milestones (PDF) to guide market participants in their transition away from CDOR. They also launched a consultation (PDF) on a potential Term CORRA rate to replace CDOR in certain types of loan products."
+        },
+        {
+          "type": "paragraph",
+          "text": "With confirmation of CDOR cessation dates, we are entering into a critical phase in the transition to alternative reference rates in Canada. As a result, OSFI expects federally regulated financial institutions (FRFIs) and federally regulated private pension plans (FRPPs) with transactions linked to CDOR will make every effort to ensure a seamless transition to new reference rates, prior to the respective cessation dates."
+        },
+        {
+          "type": "paragraph",
+          "text": "Consistent with CARR’s white paper’s proposed two-stage transition approach, OSFI expects all new derivative contracts (bilateral, cleared, and exchange-traded) and securities (assets and debt liabilities) to transition to alternative reference rates by June 30, 2023, with no new CDOR exposure being booked after that date, with limited exceptions for risk mitigation requirements as referenced in the white paper. By June 28, 2024, OSFI expects that FRFIs will have transitioned all loan agreements referencing CDOR. As part of this transition, OSFI expects that FRFIs"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "prioritize system and model updates to accommodate the use of CORRA (or any alternative reference rates, as necessary) prior to June 28, 2024.",
+            "ensure adequate contingency planning is in place to respond to potential issues that may emerge at cessation."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Additionally, OSFI recognises that the cessation of CDOR will have implications for funding and lending instruments, including the use of Banker’s Acceptances. Considering this, OSFI will review capital and liquidity guidance to ensure any specific references to, and treatments for, Banker’s Acceptances remain appropriate after CDOR’s cessation."
+        },
+        {
+          "type": "paragraph",
+          "text": "For FRFIs with material exposure to CDOR, OSFI will be considering CDOR transition efforts and project delivery within its supervisory risk assessments and will take supervisory actions, as appropriate, based on its evaluation of transition preparedness."
+        }
+      ]
+    }
+  ],
+  "title_normalized": "osfis expectations for cdor transition",
+  "publication_type_normalized": "letter",
+  "category_normalized": "",
+  "sector_normalized": [
+    "banks",
+    "foreign_bank_branches",
+    "trust_and_loan_companies",
+    "life_insurance",
+    "pc_insurance"
+  ],
+  "guideline_number_normalized": "",
+  "applies_to_banks": true,
+  "applies_to_trust_loan": true,
+  "applies_to_life_insurance": true,
+  "applies_to_pc_insurance": true,
+  "applies_to_foreign_bank": true,
+  "applies_to_foreign_insurance": false,
+  "applies_to_cooperative": false,
+  "applies_to_bank_holding": false,
+  "effective_date_sort_key": "2022-05-16",
+  "status_sort_key": 1,
+  "authority_sort_key": 60,
+  "bm25_text": "OSFI’s expectations for CDOR Transition Letter Banks Foreign Bank Branches Trust and Loan Companies Life Insurance and Fraternal Companies Property and Casualty Companies",
+  "vector_text_prefix": "[OSFI Letter  |  | Banks / Foreign Bank Branches / Trust and Loan Companies | FINAL_CURRENT | Effective 2022-05-16]",
+  "h1_title": "OSFI’s expectations for CDOR Transition",
+  "regulator": "OSFI",
+  "regulator_acronym": "OSFI",
+  "jurisdiction": "Canada",
+  "short_title": "",
+  "source_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/osfis-expectations-cdor-transition"
+}

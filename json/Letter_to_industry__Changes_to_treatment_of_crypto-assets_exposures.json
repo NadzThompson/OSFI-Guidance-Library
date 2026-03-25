@@ -1,0 +1,228 @@
+{
+  "source_system": "osfi_guidance_library",
+  "library_row_title": "Letter to industry – Changes to treatment of crypto-assets exposures",
+  "library_row_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/letter-industry-changes-treatment-crypto-assets-exposures",
+  "listing_date_raw": "October 29, 2025",
+  "listing_date_iso": "2025-10-29",
+  "listing_publication_type": "Letter",
+  "listing_category": "Capital Adequacy Requirements",
+  "listing_sector": [
+    "Banks",
+    "Cooperative Credit Associations",
+    "Foreign Bank Branches",
+    "Life Insurance and Fraternal Companies",
+    "Property and Casualty Companies",
+    "Trust and Loan Companies"
+  ],
+  "crawl_timestamp": "2026-03-11T00:00:00Z",
+  "detail_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/letter-industry-changes-treatment-crypto-assets-exposures",
+  "canonical_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/letter-industry-changes-treatment-crypto-assets-exposures",
+  "slug": "letter-industry-changes-treatment-crypto-assets-exposures",
+  "title": "Letter to industry – Changes to treatment of crypto-assets exposures",
+  "publication_type": "Letter",
+  "category": "Capital Adequacy Requirements",
+  "document_date_raw": "October 29, 2025",
+  "document_date_iso": "2025-10-29",
+  "sector": [
+    "Banks",
+    "Cooperative Credit Associations",
+    "Foreign Bank Branches",
+    "Life Insurance and Fraternal Companies",
+    "Property and Casualty Companies",
+    "Trust and Loan Companies"
+  ],
+  "effective_date_text": "",
+  "guideline_number": "",
+  "date_modified_raw": "2025-10-29T12:00:00Z",
+  "generate_pdf_url": "https://www.osfi-bsif.gc.ca/en/print/pdf/node/3005",
+  "pdf_node_id": 3005,
+  "direct_pdf_url": null,
+  "has_table_of_contents": true,
+  "toc_entries": [],
+  "has_related_documents": true,
+  "related_document_links_raw": [
+    {
+      "title": "Capital and Liquidity Treatment of Crypto-asset Exposures (Banking)",
+      "url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/capital-liquidity-treatment-crypto-asset-exposures-banking-guideline"
+    },
+    {
+      "title": "Capital Treatment of Crypto-asset Exposures (Insurance) – Guideline",
+      "url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/capital-treatment-crypto-asset-exposures-insurance-guideline"
+    },
+    {
+      "title": "Interim arrangements for the regulatory capital and liquidity treatment of crypt",
+      "url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/interim-arrangements-regulatory-capital-liquidity-treatment-cryptoasset-exposures"
+    },
+    {
+      "title": "Frequently asked questions - Crypto assets",
+      "url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/frequently-asked-questions-crypto-assets"
+    }
+  ],
+  "consultation_status_text": null,
+  "consultation_status_refers_to_version": null,
+  "page_language": "en",
+  "word_count_raw_body": 301,
+  "doc_id": "osfi.letter-industry-changes-treatment-crypto-assets-ex.transmittal",
+  "doc_family_id": "osfi.letter-industry-changes-treatment-crypto-assets-ex",
+  "version_id": "",
+  "version_label": "Letter to industry – Changes to treatment of crypto-assets e",
+  "version_sort_key": "",
+  "parent_doc_id": null,
+  "child_doc_ids": [],
+  "is_package_page": false,
+  "is_chapter_page": false,
+  "chapter_number": null,
+  "chapter_title": null,
+  "document_order_within_family": 0,
+  "supersedes_doc_id": null,
+  "superseded_by_doc_id": null,
+  "current_version_flag": true,
+  "status": "final_current",
+  "include_in_primary_corpus": false,
+  "include_in_support_corpus": true,
+  "include_in_context_corpus": false,
+  "effective_date_start": "2025-10-29",
+  "effective_date_end": null,
+  "effective_date_fye_split": false,
+  "effective_date_oct_fye": null,
+  "effective_date_dec_fye": null,
+  "is_future_effective": false,
+  "is_rescinded": false,
+  "is_draft_or_consultation": false,
+  "rescission_date": null,
+  "consultation_closing_date": null,
+  "as_of_applicability": "2026-03-23",
+  "rule_applied": "rule_5_final_current",
+  "authority_class": "official_support",
+  "authority_level": 60,
+  "nova_tier": 2,
+  "prudential_weight": 0.7,
+  "is_primary_normative": false,
+  "is_supporting_interpretive": true,
+  "is_context_only": false,
+  "document_class": "transmittal_letter",
+  "guidance_type_normalized": "letter",
+  "section_headings": [],
+  "heading_path": [
+    "Letter to industry – Changes to treatment of crypto-assets exposures"
+  ],
+  "toc_depth": 0,
+  "has_appendices": false,
+  "appendix_ids": [],
+  "has_tables": false,
+  "table_count": 0,
+  "has_footnotes": false,
+  "footnote_count": 0,
+  "inline_cross_references": [],
+  "quoted_external_references": [],
+  "raw_html_sha256": "47d5788cec25b56a175b8d380ad95e56dc090a5e16fddd35250179f66df03acd",
+  "raw_pdf_sha256": null,
+  "normalized_text_sha256": null,
+  "raw_html_path": "bronze/osfi/html/final_current/letter-industry-changes-treatment-crypto-assets-exposures.html",
+  "normalized_md_path": "silver/osfi/md/final_current/letter-industry-changes-treatment-crypto-assets-exposures.md",
+  "canonical_json_path": "silver/osfi/json/final_current/letter-industry-changes-treatment-crypto-assets-exposures.json",
+  "content_source": "HTML",
+  "parser_version": "osfi-parser-v2.1.0",
+  "normalizer_version": "osfi-normalizer-v1.4.0",
+  "quality_score": 0.5,
+  "quality_flags": [
+    "thin_body_text"
+  ],
+  "download_timestamp": "2026-03-11T00:00:00Z",
+  "enriched_timestamp": "2026-03-23T09:53:53.267662Z",
+  "sections": [
+    {
+      "heading": "",
+      "heading_level": 2,
+      "full_text": "  - Capital and Liquidity Treatment of Crypto-asset Exposures (Banking)\n  - Capital Treatment of Crypto-asset Exposures (Insurance) – Guideline\n  - Interim arrangements for the regulatory capital and liquidity treatment of cryptoasset exposures\n  - Frequently asked questions - Crypto assets\nIn response to developments in the crypto markets and following valuable feedback from stakeholders, the Office of the Superintendent to Financial Institutions (OSFI) has made some targeted changes to the Capital and Liquidity Treatment of Crypto-asset Exposures (Banking) – Guideline and the Capital Treatment of Crypto-asset Exposures (Insurance) – Guideline .\nUnder the revised guidelines:\n  - an institution’s total gross exposure to Group 2 crypto-assets should not exceed 5% of the institution’s Net Tier 1 capital.\n  - we have removed the requirement that Group 2 crypto-asset exposures above 1% of an institution’s Net Tier 1 capital be subject to the capital requirements that apply to Group 2b crypto-asset exposures.\nThese changes come into effect November 1, 2025, or January 1, 2026, for institutions with a fiscal year ending October 31, or December 31, respectively.\nThe guidelines reflect considerable consultation with stakeholders and offer a more risk-sensitive approach than the Interim arrangements for the regulatory capital and liquidity treatment of cryptoasset exposures that have been in place since August 2022.\nGiven the dynamic nature of the crypto market and to support continued innovation, we are continuing to examine several key issues. These include:\n  - the risk weight applied to Group 2a assets\n  - the potential recognition of Group 2a assets as collateral\n  - the treatment of cross-market hedges\nWe will address these areas through continued engagement and consultation with industry participants to ensure that the guidelines remain well-aligned with the underlying risks to the Canadian financial system.\nIn addition, we have published responses to frequently asked questions (FAQs) about the application of the guidelines.",
+      "content": [
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Capital and Liquidity Treatment of Crypto-asset Exposures (Banking)",
+            "Capital Treatment of Crypto-asset Exposures (Insurance) – Guideline",
+            "Interim arrangements for the regulatory capital and liquidity treatment of cryptoasset exposures",
+            "Frequently asked questions - Crypto assets"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "In response to developments in the crypto markets and following valuable feedback from stakeholders, the Office of the Superintendent to Financial Institutions (OSFI) has made some targeted changes to the Capital and Liquidity Treatment of Crypto-asset Exposures (Banking) – Guideline and the Capital Treatment of Crypto-asset Exposures (Insurance) – Guideline ."
+        },
+        {
+          "type": "paragraph",
+          "text": "Under the revised guidelines:"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "an institution’s total gross exposure to Group 2 crypto-assets should not exceed 5% of the institution’s Net Tier 1 capital.",
+            "we have removed the requirement that Group 2 crypto-asset exposures above 1% of an institution’s Net Tier 1 capital be subject to the capital requirements that apply to Group 2b crypto-asset exposures."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "These changes come into effect November 1, 2025, or January 1, 2026, for institutions with a fiscal year ending October 31, or December 31, respectively."
+        },
+        {
+          "type": "paragraph",
+          "text": "The guidelines reflect considerable consultation with stakeholders and offer a more risk-sensitive approach than the Interim arrangements for the regulatory capital and liquidity treatment of cryptoasset exposures that have been in place since August 2022."
+        },
+        {
+          "type": "paragraph",
+          "text": "Given the dynamic nature of the crypto market and to support continued innovation, we are continuing to examine several key issues. These include:"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "the risk weight applied to Group 2a assets",
+            "the potential recognition of Group 2a assets as collateral",
+            "the treatment of cross-market hedges"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "We will address these areas through continued engagement and consultation with industry participants to ensure that the guidelines remain well-aligned with the underlying risks to the Canadian financial system."
+        },
+        {
+          "type": "paragraph",
+          "text": "In addition, we have published responses to frequently asked questions (FAQs) about the application of the guidelines."
+        }
+      ]
+    }
+  ],
+  "title_normalized": "letter to industry changes to treatment of cryptoassets exposures",
+  "publication_type_normalized": "letter",
+  "category_normalized": "capital_adequacy_requirements",
+  "sector_normalized": [
+    "banks",
+    "cooperative_credit",
+    "foreign_bank_branches",
+    "life_insurance",
+    "pc_insurance",
+    "trust_and_loan_companies"
+  ],
+  "guideline_number_normalized": "",
+  "applies_to_banks": true,
+  "applies_to_trust_loan": true,
+  "applies_to_life_insurance": true,
+  "applies_to_pc_insurance": true,
+  "applies_to_foreign_bank": true,
+  "applies_to_foreign_insurance": false,
+  "applies_to_cooperative": true,
+  "applies_to_bank_holding": false,
+  "effective_date_sort_key": "2025-10-29",
+  "status_sort_key": 1,
+  "authority_sort_key": 60,
+  "bm25_text": "Letter to industry – Changes to treatment of crypto-assets exposures Letter Capital Adequacy Requirements Banks Cooperative Credit Associations Foreign Bank Branches Life Insurance and Fraternal Companies Property and Casualty Companies Trust and Loan Companies",
+  "vector_text_prefix": "[OSFI Letter  | Capital Adequacy Requirements | Banks / Cooperative Credit Associations / Foreign Bank Branches | FINAL_CURRENT | Effective 2025-10-29]",
+  "h1_title": "Letter to industry – Changes to treatment of crypto-assets exposures",
+  "regulator": "OSFI",
+  "regulator_acronym": "OSFI",
+  "jurisdiction": "Canada",
+  "short_title": "",
+  "source_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/letter-industry-changes-treatment-crypto-assets-exposures"
+}

@@ -1,0 +1,422 @@
+{
+  "source_system": "osfi_guidance_library",
+  "library_row_title": "Data Maintenance at IRB Institutions",
+  "library_row_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/data-maintenance-irb-institutions",
+  "listing_date_raw": "January 31, 2006",
+  "listing_date_iso": "2006-01-31",
+  "listing_publication_type": "Implementation note",
+  "listing_category": "Capital Adequacy Requirements",
+  "listing_sector": [
+    "Bank Holding Companies",
+    "Banks",
+    "Trust and Loan Companies"
+  ],
+  "crawl_timestamp": "2026-03-11T00:00:00Z",
+  "detail_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/data-maintenance-irb-institutions",
+  "canonical_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/data-maintenance-irb-institutions",
+  "slug": "data-maintenance-irb-institutions",
+  "title": "Data Maintenance at IRB Institutions",
+  "publication_type": "Implementation note",
+  "category": "Capital Adequacy Requirements",
+  "document_date_raw": "January 31, 2006",
+  "document_date_iso": "2006-01-31",
+  "sector": [
+    "Bank Holding Companies",
+    "Banks",
+    "Trust and Loan Companies"
+  ],
+  "effective_date_text": "",
+  "guideline_number": "",
+  "date_modified_raw": "2006-01-31T12:00:00Z",
+  "generate_pdf_url": "https://www.osfi-bsif.gc.ca/en/print/pdf/node/390",
+  "pdf_node_id": 390,
+  "direct_pdf_url": null,
+  "has_table_of_contents": true,
+  "toc_entries": [],
+  "has_related_documents": false,
+  "related_document_links_raw": [],
+  "consultation_status_text": null,
+  "consultation_status_refers_to_version": null,
+  "page_language": "en",
+  "word_count_raw_body": 1892,
+  "doc_id": "osfi.data-maintenance-irb-institutions.implementation",
+  "doc_family_id": "osfi.data-maintenance-irb-institutions",
+  "version_id": "",
+  "version_label": "Data Maintenance at IRB Institutions",
+  "version_sort_key": "",
+  "parent_doc_id": null,
+  "child_doc_ids": [],
+  "is_package_page": false,
+  "is_chapter_page": false,
+  "chapter_number": null,
+  "chapter_title": null,
+  "document_order_within_family": 0,
+  "supersedes_doc_id": null,
+  "superseded_by_doc_id": null,
+  "current_version_flag": true,
+  "status": "final_current",
+  "include_in_primary_corpus": true,
+  "include_in_support_corpus": false,
+  "include_in_context_corpus": false,
+  "effective_date_start": "2006-01-31",
+  "effective_date_end": null,
+  "effective_date_fye_split": false,
+  "effective_date_oct_fye": null,
+  "effective_date_dec_fye": null,
+  "is_future_effective": false,
+  "is_rescinded": false,
+  "is_draft_or_consultation": false,
+  "rescission_date": null,
+  "consultation_closing_date": null,
+  "as_of_applicability": "2026-03-23",
+  "rule_applied": "rule_5_final_current",
+  "authority_class": "primary_normative",
+  "authority_level": 90,
+  "nova_tier": 1,
+  "prudential_weight": 1.0,
+  "is_primary_normative": true,
+  "is_supporting_interpretive": false,
+  "is_context_only": false,
+  "document_class": "implementation_note",
+  "guidance_type_normalized": "implementation_note",
+  "section_headings": [
+    {
+      "level": 2,
+      "text": "I. Introduction",
+      "id": "h2-0"
+    },
+    {
+      "level": 3,
+      "text": "1. Senior Management and Oversight",
+      "id": "h3-1"
+    },
+    {
+      "level": 3,
+      "text": "2. Data Collection",
+      "id": "h3-2"
+    },
+    {
+      "level": 3,
+      "text": "3. Data Processing",
+      "id": "h3-3"
+    },
+    {
+      "level": 3,
+      "text": "4. Data Access/Retrieval",
+      "id": "h3-4"
+    },
+    {
+      "level": 3,
+      "text": "5. Data Storage/Retention",
+      "id": "h3-5"
+    }
+  ],
+  "heading_path": [
+    "Data Maintenance at IRB Institutions"
+  ],
+  "toc_depth": 3,
+  "has_appendices": false,
+  "appendix_ids": [],
+  "has_tables": false,
+  "table_count": 0,
+  "has_footnotes": false,
+  "footnote_count": 0,
+  "inline_cross_references": [
+    "Guideline A-1"
+  ],
+  "quoted_external_references": [],
+  "raw_html_sha256": "566a1113d8d9d83a16ed98c1423d622d57137c40b76f7f2e3c63d601e56efd20",
+  "raw_pdf_sha256": null,
+  "normalized_text_sha256": null,
+  "raw_html_path": "bronze/osfi/html/final_current/data-maintenance-irb-institutions.html",
+  "normalized_md_path": "silver/osfi/md/final_current/data-maintenance-irb-institutions.md",
+  "canonical_json_path": "silver/osfi/json/final_current/data-maintenance-irb-institutions.json",
+  "content_source": "HTML",
+  "parser_version": "osfi-parser-v2.1.0",
+  "normalizer_version": "osfi-normalizer-v1.4.0",
+  "quality_score": 1.0,
+  "quality_flags": [],
+  "download_timestamp": "2026-03-11T00:00:00Z",
+  "enriched_timestamp": "2026-03-23T09:53:50.995604Z",
+  "sections": [
+    {
+      "heading": "I. Introduction",
+      "heading_level": 2,
+      "full_text": "This implementation note elaborates on the data management requirements for institutions Banks and bank holding companies to which the Bank Act applies and federally regulated trust or loan companies to which the Trust and Loan Companies Act applies are collectively referred to as “institutions”. adopting the internal ratings-based (IRB) approach as outlined in OSFI’s Capital Adequacy Requirements (CAR) Guideline A-1, Chapter 5. All relevant and material quantitative and qualitative data used to assess and manage credit risk should be adequately maintained. Institutions will need to maintain comprehensive historical data across legal entities and geography. This data will include, but not be limited to, borrower information, credit transaction details, portfolio risk characteristics, ratings, rating migration, default, and collateral.\nData management and timely execution of underlying information technology initiatives are major challenges that institutions need to address in order to successfully implement the IRB methodology under CAR. CAR outlines the scope and certain characteristics of data maintenance; however, there is limited description of expectations on the data maintenance (or generic “data management”) process itself.\nThis note provides general guidance on data maintenance and principles for institutions to apply when establishing an enterprise-wide IRB framework. These principles are not intended to be prescriptive or limiting in any manner. Adherence to the broad principles outlined in this implementation note will be an important consideration in OSFI’s initial IRB approval and for monitoring ongoing compliance.\nThe term “data maintenance” incorporates the key components of the data management process, including data collection, data processing, data access/retrieval and data storage/retention.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "This implementation note elaborates on the data management requirements for institutions Banks and bank holding companies to which the Bank Act applies and federally regulated trust or loan companies to which the Trust and Loan Companies Act applies are collectively referred to as “institutions”. adopting the internal ratings-based (IRB) approach as outlined in OSFI’s Capital Adequacy Requirements (CAR) Guideline A-1, Chapter 5. All relevant and material quantitative and qualitative data used to assess and manage credit risk should be adequately maintained. Institutions will need to maintain comprehensive historical data across legal entities and geography. This data will include, but not be limited to, borrower information, credit transaction details, portfolio risk characteristics, ratings, rating migration, default, and collateral."
+        },
+        {
+          "type": "paragraph",
+          "text": "Data management and timely execution of underlying information technology initiatives are major challenges that institutions need to address in order to successfully implement the IRB methodology under CAR. CAR outlines the scope and certain characteristics of data maintenance; however, there is limited description of expectations on the data maintenance (or generic “data management”) process itself."
+        },
+        {
+          "type": "paragraph",
+          "text": "This note provides general guidance on data maintenance and principles for institutions to apply when establishing an enterprise-wide IRB framework. These principles are not intended to be prescriptive or limiting in any manner. Adherence to the broad principles outlined in this implementation note will be an important consideration in OSFI’s initial IRB approval and for monitoring ongoing compliance."
+        },
+        {
+          "type": "paragraph",
+          "text": "The term “data maintenance” incorporates the key components of the data management process, including data collection, data processing, data access/retrieval and data storage/retention."
+        }
+      ]
+    },
+    {
+      "heading": "1. Senior Management and Oversight",
+      "heading_level": 3,
+      "full_text": "Institutions seeking IRB approval should adopt an approach to managing their information technology initiatives and data management processes appropriate to the nature, scope and complexity of their data maintenance requirements.\nInstitutions should have appropriate processes and procedures in place supported by effective Senior Management oversight to ensure successful completion of their programs related to IRB data maintenance for IRB approval and ongoing compliance with the IRB approach.\nIn particular, institutions’ Senior Management should assess the scope, plans and risks associated with timely execution of data maintenance projects, and take effective measures to mitigate these risks. The accountabilities of Senior Management will include, but are not limited to:\n  1. Reviewing and approving organizational structure and functions to facilitate development of appropriate data architecture to support implementation of CAR;\n  2. Establishing an enterprise-wide data management framework defining, where appropriate, the institution’s policies, governance, technology, standards and processes to support the data collection, data maintenance, data controls and distribution of processed data, i.e., information;\n  3. Ensuring data maintenance processes provide security, integrity and auditability of the data from its inception through to its archival and/or logical destruction;\n  4. Instituting internal audit programs, as appropriate, to provide for periodic independent audits of data maintenance processes and functions; and\n  5. Ensuring the appropriate policies, procedures and accountabilities are in place to monitor the enterprise-wide observance of the data management framework, including ongoing updates to procedures and documentation, as necessary.\nReviewing and approving organizational structure and functions to facilitate development of appropriate data architecture to support implementation of CAR;\nEstablishing an enterprise-wide data management framework defining, where appropriate, the institution’s policies, governance, technology, standards and processes to support the data collection, data maintenance, data controls and distribution of processed data, i.e., information;\nEnsuring data maintenance processes provide security, integrity and auditability of the data from its inception through to its archival and/or logical destruction;\nInstituting internal audit programs, as appropriate, to provide for periodic independent audits of data maintenance processes and functions; and\nEnsuring the appropriate policies, procedures and accountabilities are in place to monitor the enterprise-wide observance of the data management framework, including ongoing updates to procedures and documentation, as necessary.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Institutions seeking IRB approval should adopt an approach to managing their information technology initiatives and data management processes appropriate to the nature, scope and complexity of their data maintenance requirements."
+        },
+        {
+          "type": "paragraph",
+          "text": "Institutions should have appropriate processes and procedures in place supported by effective Senior Management oversight to ensure successful completion of their programs related to IRB data maintenance for IRB approval and ongoing compliance with the IRB approach."
+        },
+        {
+          "type": "paragraph",
+          "text": "In particular, institutions’ Senior Management should assess the scope, plans and risks associated with timely execution of data maintenance projects, and take effective measures to mitigate these risks. The accountabilities of Senior Management will include, but are not limited to:"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "Reviewing and approving organizational structure and functions to facilitate development of appropriate data architecture to support implementation of CAR;",
+            "Establishing an enterprise-wide data management framework defining, where appropriate, the institution’s policies, governance, technology, standards and processes to support the data collection, data maintenance, data controls and distribution of processed data, i.e., information;",
+            "Ensuring data maintenance processes provide security, integrity and auditability of the data from its inception through to its archival and/or logical destruction;",
+            "Instituting internal audit programs, as appropriate, to provide for periodic independent audits of data maintenance processes and functions; and",
+            "Ensuring the appropriate policies, procedures and accountabilities are in place to monitor the enterprise-wide observance of the data management framework, including ongoing updates to procedures and documentation, as necessary."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Reviewing and approving organizational structure and functions to facilitate development of appropriate data architecture to support implementation of CAR;"
+        },
+        {
+          "type": "paragraph",
+          "text": "Establishing an enterprise-wide data management framework defining, where appropriate, the institution’s policies, governance, technology, standards and processes to support the data collection, data maintenance, data controls and distribution of processed data, i.e., information;"
+        },
+        {
+          "type": "paragraph",
+          "text": "Ensuring data maintenance processes provide security, integrity and auditability of the data from its inception through to its archival and/or logical destruction;"
+        },
+        {
+          "type": "paragraph",
+          "text": "Instituting internal audit programs, as appropriate, to provide for periodic independent audits of data maintenance processes and functions; and"
+        },
+        {
+          "type": "paragraph",
+          "text": "Ensuring the appropriate policies, procedures and accountabilities are in place to monitor the enterprise-wide observance of the data management framework, including ongoing updates to procedures and documentation, as necessary."
+        }
+      ]
+    },
+    {
+      "heading": "2. Data Collection",
+      "heading_level": 3,
+      "full_text": "In the context of CAR, the data collection component (also referred to as data acquisition or data capture) would typically involve determining requisite data elements in various internal/external source systems, and their validation and extraction to appropriate operational data stores or data repositories.\nInstitutions’ data collection processes should:\n  1. Establish clear and comprehensive documentation for data definition, collection and aggregation, including data mapping to source/aggregation routines, data schematics where necessary, and other identifiers, if any;\n  2. Establish standards for data accuracy, completeness, timeliness and reliability;\n  3. Ensure that data elements collected encompass the necessary scope, depth and reliability to substantiate rating definitions, rating assignment, rating refinement, risk parameters, overrides, back-testing and other processes, capital ratio computations, and relevant management and regulatory reporting;\n  4. Identify and document data gaps and, where applicable, document the manual or automated workarounds used to close data gaps and meet data requirements;\n  5. Establish standards, policies and procedures around the cleansing of data through reconciliation identifiers, field validation, reformatting, decomposing or use of consistent standards, as appropriate, and;\n  6. Establish procedures for identifying and reporting on data errors and data linkage breaks to source, downstream and/or external systems.\nEstablish clear and comprehensive documentation for data definition, collection and aggregation, including data mapping to source/aggregation routines, data schematics where necessary, and other identifiers, if any;\nEstablish standards for data accuracy, completeness, timeliness and reliability;\nEnsure that data elements collected encompass the necessary scope, depth and reliability to substantiate rating definitions, rating assignment, rating refinement, risk parameters, overrides, back-testing and other processes, capital ratio computations, and relevant management and regulatory reporting;\nIdentify and document data gaps and, where applicable, document the manual or automated workarounds used to close data gaps and meet data requirements;\nEstablish standards, policies and procedures around the cleansing of data through reconciliation identifiers, field validation, reformatting, decomposing or use of consistent standards, as appropriate, and;\nEstablish procedures for identifying and reporting on data errors and data linkage breaks to source, downstream and/or external systems.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "In the context of CAR, the data collection component (also referred to as data acquisition or data capture) would typically involve determining requisite data elements in various internal/external source systems, and their validation and extraction to appropriate operational data stores or data repositories."
+        },
+        {
+          "type": "paragraph",
+          "text": "Institutions’ data collection processes should:"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "Establish clear and comprehensive documentation for data definition, collection and aggregation, including data mapping to source/aggregation routines, data schematics where necessary, and other identifiers, if any;",
+            "Establish standards for data accuracy, completeness, timeliness and reliability;",
+            "Ensure that data elements collected encompass the necessary scope, depth and reliability to substantiate rating definitions, rating assignment, rating refinement, risk parameters, overrides, back-testing and other processes, capital ratio computations, and relevant management and regulatory reporting;",
+            "Identify and document data gaps and, where applicable, document the manual or automated workarounds used to close data gaps and meet data requirements;",
+            "Establish standards, policies and procedures around the cleansing of data through reconciliation identifiers, field validation, reformatting, decomposing or use of consistent standards, as appropriate, and;",
+            "Establish procedures for identifying and reporting on data errors and data linkage breaks to source, downstream and/or external systems."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Establish clear and comprehensive documentation for data definition, collection and aggregation, including data mapping to source/aggregation routines, data schematics where necessary, and other identifiers, if any;"
+        },
+        {
+          "type": "paragraph",
+          "text": "Establish standards for data accuracy, completeness, timeliness and reliability;"
+        },
+        {
+          "type": "paragraph",
+          "text": "Ensure that data elements collected encompass the necessary scope, depth and reliability to substantiate rating definitions, rating assignment, rating refinement, risk parameters, overrides, back-testing and other processes, capital ratio computations, and relevant management and regulatory reporting;"
+        },
+        {
+          "type": "paragraph",
+          "text": "Identify and document data gaps and, where applicable, document the manual or automated workarounds used to close data gaps and meet data requirements;"
+        },
+        {
+          "type": "paragraph",
+          "text": "Establish standards, policies and procedures around the cleansing of data through reconciliation identifiers, field validation, reformatting, decomposing or use of consistent standards, as appropriate, and;"
+        },
+        {
+          "type": "paragraph",
+          "text": "Establish procedures for identifying and reporting on data errors and data linkage breaks to source, downstream and/or external systems."
+        }
+      ]
+    },
+    {
+      "heading": "3. Data Processing",
+      "heading_level": 3,
+      "full_text": "The data processing component covers a wide range of data management tasks, including its conversion through multiple systems (or manual) processes, transmissions, source/network authentication, validation, reconciliation, etc.\nInstitutions’ data processing should:\n  1. Limit reliance on workarounds and manual data manipulation in order to mitigate the operational risk related to human error and dilution of data integrity;\n  2. Establish standards and data processing infrastructure for life-cycle tracking of credit data including, but not limited to, relevant history covering borrowers, obligors, credit facilities, transactions, repayments, rollovers, restructuring, and sale and error trails, as appropriate;\n  3. Ensure appropriate levels of front-end validation/data cleansing for each process and reconciliation to related processes as applicable, e.g., accounting and general ledger, line of business management information system;\n  4. Establish adequate controls to ensure processing by authorized staff acting within designated roles and established authorities;\n  5. Institute appropriate change control procedures for changes to the processing environment, including, where applicable, change initiation, authorization, program modifications, testing, parallel processing, sign-offs, release, library controls; and,\n  6. Provide appropriate levels of disaster back-up, process resumption and recovery capabilities to mitigate loss of data and/or data integrity.\nLimit reliance on workarounds and manual data manipulation in order to mitigate the operational risk related to human error and dilution of data integrity;\nEstablish standards and data processing infrastructure for life-cycle tracking of credit data including, but not limited to, relevant history covering borrowers, obligors, credit facilities, transactions, repayments, rollovers, restructuring, and sale and error trails, as appropriate;\nEnsure appropriate levels of front-end validation/data cleansing for each process and reconciliation to related processes as applicable, e.g., accounting and general ledger, line of business management information system;\nEstablish adequate controls to ensure processing by authorized staff acting within designated roles and established authorities;\nInstitute appropriate change control procedures for changes to the processing environment, including, where applicable, change initiation, authorization, program modifications, testing, parallel processing, sign-offs, release, library controls; and,\nProvide appropriate levels of disaster back-up, process resumption and recovery capabilities to mitigate loss of data and/or data integrity.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "The data processing component covers a wide range of data management tasks, including its conversion through multiple systems (or manual) processes, transmissions, source/network authentication, validation, reconciliation, etc."
+        },
+        {
+          "type": "paragraph",
+          "text": "Institutions’ data processing should:"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "Limit reliance on workarounds and manual data manipulation in order to mitigate the operational risk related to human error and dilution of data integrity;",
+            "Establish standards and data processing infrastructure for life-cycle tracking of credit data including, but not limited to, relevant history covering borrowers, obligors, credit facilities, transactions, repayments, rollovers, restructuring, and sale and error trails, as appropriate;",
+            "Ensure appropriate levels of front-end validation/data cleansing for each process and reconciliation to related processes as applicable, e.g., accounting and general ledger, line of business management information system;",
+            "Establish adequate controls to ensure processing by authorized staff acting within designated roles and established authorities;",
+            "Institute appropriate change control procedures for changes to the processing environment, including, where applicable, change initiation, authorization, program modifications, testing, parallel processing, sign-offs, release, library controls; and,",
+            "Provide appropriate levels of disaster back-up, process resumption and recovery capabilities to mitigate loss of data and/or data integrity."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Limit reliance on workarounds and manual data manipulation in order to mitigate the operational risk related to human error and dilution of data integrity;"
+        },
+        {
+          "type": "paragraph",
+          "text": "Establish standards and data processing infrastructure for life-cycle tracking of credit data including, but not limited to, relevant history covering borrowers, obligors, credit facilities, transactions, repayments, rollovers, restructuring, and sale and error trails, as appropriate;"
+        },
+        {
+          "type": "paragraph",
+          "text": "Ensure appropriate levels of front-end validation/data cleansing for each process and reconciliation to related processes as applicable, e.g., accounting and general ledger, line of business management information system;"
+        },
+        {
+          "type": "paragraph",
+          "text": "Establish adequate controls to ensure processing by authorized staff acting within designated roles and established authorities;"
+        },
+        {
+          "type": "paragraph",
+          "text": "Institute appropriate change control procedures for changes to the processing environment, including, where applicable, change initiation, authorization, program modifications, testing, parallel processing, sign-offs, release, library controls; and,"
+        },
+        {
+          "type": "paragraph",
+          "text": "Provide appropriate levels of disaster back-up, process resumption and recovery capabilities to mitigate loss of data and/or data integrity."
+        }
+      ]
+    },
+    {
+      "heading": "4. Data Access/Retrieval",
+      "heading_level": 3,
+      "full_text": "From OSFI’s supervisory perspective, a key component of data maintenance is the continued availability of institutions’ data and information for the purpose of IRB approval and ongoing monitoring of IRB compliance, such as back-testing, replication, historical or other trend analyses.\nInstitutions should ensure that:\n  1. Data repositories and underlying extract, query and retrieval routines are designed and built to support the institutions’ own data requirements as well as ongoing needs for supervisory assessments of various data as appropriate, including credit portfolios, history, borrower/industry profiles, exposures, process quality, asset class analyses;\n  2. Access controls and data/information distribution are based on user roles/responsibilities and industry best practices in the context of effective segregation of duties, “need to know”, as validated by institutions’ internal compliance and audit functions; and\n  3. Access to data/information is not restricted in any arrangements where data maintenance is outsourced to external service provider(s). Notwithstanding these arrangements, institutions should be able to provide data/information at no additional cost.\nData repositories and underlying extract, query and retrieval routines are designed and built to support the institutions’ own data requirements as well as ongoing needs for supervisory assessments of various data as appropriate, including credit portfolios, history, borrower/industry profiles, exposures, process quality, asset class analyses;\nAccess controls and data/information distribution are based on user roles/responsibilities and industry best practices in the context of effective segregation of duties, “need to know”, as validated by institutions’ internal compliance and audit functions; and\nAccess to data/information is not restricted in any arrangements where data maintenance is outsourced to external service provider(s). Notwithstanding these arrangements, institutions should be able to provide data/information at no additional cost.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "From OSFI’s supervisory perspective, a key component of data maintenance is the continued availability of institutions’ data and information for the purpose of IRB approval and ongoing monitoring of IRB compliance, such as back-testing, replication, historical or other trend analyses."
+        },
+        {
+          "type": "paragraph",
+          "text": "Institutions should ensure that:"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "Data repositories and underlying extract, query and retrieval routines are designed and built to support the institutions’ own data requirements as well as ongoing needs for supervisory assessments of various data as appropriate, including credit portfolios, history, borrower/industry profiles, exposures, process quality, asset class analyses;",
+            "Access controls and data/information distribution are based on user roles/responsibilities and industry best practices in the context of effective segregation of duties, “need to know”, as validated by institutions’ internal compliance and audit functions; and",
+            "Access to data/information is not restricted in any arrangements where data maintenance is outsourced to external service provider(s). Notwithstanding these arrangements, institutions should be able to provide data/information at no additional cost."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Data repositories and underlying extract, query and retrieval routines are designed and built to support the institutions’ own data requirements as well as ongoing needs for supervisory assessments of various data as appropriate, including credit portfolios, history, borrower/industry profiles, exposures, process quality, asset class analyses;"
+        },
+        {
+          "type": "paragraph",
+          "text": "Access controls and data/information distribution are based on user roles/responsibilities and industry best practices in the context of effective segregation of duties, “need to know”, as validated by institutions’ internal compliance and audit functions; and"
+        },
+        {
+          "type": "paragraph",
+          "text": "Access to data/information is not restricted in any arrangements where data maintenance is outsourced to external service provider(s). Notwithstanding these arrangements, institutions should be able to provide data/information at no additional cost."
+        }
+      ]
+    },
+    {
+      "heading": "5. Data Storage/Retention",
+      "heading_level": 3,
+      "full_text": "The data storage/retention component of data maintenance addresses the dual expectations of electronic data retention and archival to meet the minimum historical retention criteria established under CAR, as well as the requirements of institutions and OSFI to ensure ongoing IRB compliance and credit risk management data/information calls.\nCAR requires institutions to use all relevant data in the development of IRB internal estimates. In order to support internal estimates and ensure that all relevant risks are considered, data may be needed for a long period of time. For corporate, sovereign and bank exposures, a minimum of five years of underlying history for PD Probability of default (“PD”), loss given default (“LGD”) and exposure at default (“EAD”). estimates, and a minimum of seven years underlying history for LGD and EAD estimates should be maintained. For retail exposures, a minimum of five years of underlying history for PD, LGD and EAD estimates is required. On implementation, institutions may not be able to meet this standard, but they should have IRB data going back to at least October 31, 2004.\nIn addition, institutions should:\n  1. Establish documented policies and procedures addressing storage, retention and archival, including, where applicable, the procedures for logical/physical deletion of data and destruction of data storage media and peripherals;\n  2. Maintain back-ups of relevant data files/stores and data bases in a manner that can facilitate ready availability of the data/information to meet information calls on IRB- compliance and ongoing supervisory assessments; and\n  3. Ensure that availability of electronic versions for all relevant and material data/information is in a machine-readable format and can be made accessible.\nEstablish documented policies and procedures addressing storage, retention and archival, including, where applicable, the procedures for logical/physical deletion of data and destruction of data storage media and peripherals;\nMaintain back-ups of relevant data files/stores and data bases in a manner that can facilitate ready availability of the data/information to meet information calls on IRB- compliance and ongoing supervisory assessments; and\nEnsure that availability of electronic versions for all relevant and material data/information is in a machine-readable format and can be made accessible.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "The data storage/retention component of data maintenance addresses the dual expectations of electronic data retention and archival to meet the minimum historical retention criteria established under CAR, as well as the requirements of institutions and OSFI to ensure ongoing IRB compliance and credit risk management data/information calls."
+        },
+        {
+          "type": "paragraph",
+          "text": "CAR requires institutions to use all relevant data in the development of IRB internal estimates. In order to support internal estimates and ensure that all relevant risks are considered, data may be needed for a long period of time. For corporate, sovereign and bank exposures, a minimum of five years of underlying history for PD Probability of default (“PD”), loss given default (“LGD”) and exposure at default (“EAD”). estimates, and a minimum of seven years underlying history for LGD and EAD estimates should be maintained. For retail exposures, a minimum of five years of underlying history for PD, LGD and EAD estimates is required. On implementation, institutions may not be able to meet this standard, but they should have IRB data going back to at least October 31, 2004."
+        },
+        {
+          "type": "paragraph",
+          "text": "In addition, institutions should:"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "Establish documented policies and procedures addressing storage, retention and archival, including, where applicable, the procedures for logical/physical deletion of data and destruction of data storage media and peripherals;",
+            "Maintain back-ups of relevant data files/stores and data bases in a manner that can facilitate ready availability of the data/information to meet information calls on IRB- compliance and ongoing supervisory assessments; and",
+            "Ensure that availability of electronic versions for all relevant and material data/information is in a machine-readable format and can be made accessible."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Establish documented policies and procedures addressing storage, retention and archival, including, where applicable, the procedures for logical/physical deletion of data and destruction of data storage media and peripherals;"
+        },
+        {
+          "type": "paragraph",
+          "text": "Maintain back-ups of relevant data files/stores and data bases in a manner that can facilitate ready availability of the data/information to meet information calls on IRB- compliance and ongoing supervisory assessments; and"
+        },
+        {
+          "type": "paragraph",
+          "text": "Ensure that availability of electronic versions for all relevant and material data/information is in a machine-readable format and can be made accessible."
+        }
+      ]
+    }
+  ],
+  "title_normalized": "data maintenance at irb institutions",
+  "publication_type_normalized": "implementation_note",
+  "category_normalized": "capital_adequacy_requirements",
+  "sector_normalized": [
+    "bank_holding_companies",
+    "banks",
+    "trust_and_loan_companies"
+  ],
+  "guideline_number_normalized": "",
+  "applies_to_banks": true,
+  "applies_to_trust_loan": true,
+  "applies_to_life_insurance": false,
+  "applies_to_pc_insurance": false,
+  "applies_to_foreign_bank": false,
+  "applies_to_foreign_insurance": false,
+  "applies_to_cooperative": false,
+  "applies_to_bank_holding": true,
+  "effective_date_sort_key": "2006-01-31",
+  "status_sort_key": 1,
+  "authority_sort_key": 90,
+  "bm25_text": "Data Maintenance at IRB Institutions Implementation note Capital Adequacy Requirements Bank Holding Companies Banks Trust and Loan Companies I. Introduction 1. Senior Management and Oversight 2. Data Collection 3. Data Processing 4. Data Access/Retrieval 5. Data Storage/Retention",
+  "vector_text_prefix": "[OSFI Implementation note  | Capital Adequacy Requirements | Bank Holding Companies / Banks / Trust and Loan Companies | FINAL_CURRENT | Effective 2006-01-31]",
+  "h1_title": "Data Maintenance at IRB Institutions",
+  "regulator": "OSFI",
+  "regulator_acronym": "OSFI",
+  "jurisdiction": "Canada",
+  "short_title": "",
+  "source_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/data-maintenance-irb-institutions"
+}

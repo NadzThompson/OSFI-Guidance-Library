@@ -1,0 +1,621 @@
+{
+  "source_system": "osfi_guidance_library",
+  "library_row_title": "Changes to Guideline B-12: Interest Rate Risk Management",
+  "library_row_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/changes-guideline-b-12-interest-rate-risk-management",
+  "listing_date_raw": "May 30, 2019",
+  "listing_date_iso": "2019-05-30",
+  "listing_publication_type": "Letter",
+  "listing_category": "Sound Business and Financial Practices",
+  "listing_sector": [
+    "Banks",
+    "Trust and Loan Companies"
+  ],
+  "crawl_timestamp": "2026-03-11T00:00:00Z",
+  "detail_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/changes-guideline-b-12-interest-rate-risk-management",
+  "canonical_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/changes-guideline-b-12-interest-rate-risk-management",
+  "slug": "changes-guideline-b-12-interest-rate-risk-management",
+  "title": "Changes to Guideline B-12: Interest Rate Risk Management",
+  "publication_type": "Letter",
+  "category": "Sound Business and Financial Practices",
+  "document_date_raw": "May 30, 2019",
+  "document_date_iso": "2019-05-30",
+  "sector": [
+    "Banks",
+    "Trust and Loan Companies"
+  ],
+  "effective_date_text": "",
+  "guideline_number": "B-12",
+  "date_modified_raw": "2019-05-30T12:00:00Z",
+  "generate_pdf_url": "https://www.osfi-bsif.gc.ca/en/print/pdf/node/337",
+  "pdf_node_id": 337,
+  "direct_pdf_url": null,
+  "has_table_of_contents": true,
+  "toc_entries": [],
+  "has_related_documents": false,
+  "related_document_links_raw": [],
+  "consultation_status_text": null,
+  "consultation_status_refers_to_version": null,
+  "page_language": "en",
+  "word_count_raw_body": 3760,
+  "doc_id": "osfi.b6.transmittal",
+  "doc_family_id": "osfi.b6",
+  "version_id": "",
+  "version_label": "Changes to Guideline B-12: Interest Rate Risk Management",
+  "version_sort_key": "",
+  "parent_doc_id": null,
+  "child_doc_ids": [],
+  "is_package_page": false,
+  "is_chapter_page": false,
+  "chapter_number": null,
+  "chapter_title": null,
+  "document_order_within_family": 0,
+  "supersedes_doc_id": null,
+  "superseded_by_doc_id": null,
+  "current_version_flag": true,
+  "status": "final_current",
+  "include_in_primary_corpus": false,
+  "include_in_support_corpus": true,
+  "include_in_context_corpus": false,
+  "effective_date_start": "2019-05-30",
+  "effective_date_end": null,
+  "effective_date_fye_split": false,
+  "effective_date_oct_fye": null,
+  "effective_date_dec_fye": null,
+  "is_future_effective": false,
+  "is_rescinded": false,
+  "is_draft_or_consultation": false,
+  "rescission_date": null,
+  "consultation_closing_date": null,
+  "as_of_applicability": "2026-03-23",
+  "rule_applied": "rule_5_final_current",
+  "authority_class": "official_support",
+  "authority_level": 60,
+  "nova_tier": 2,
+  "prudential_weight": 0.7,
+  "is_primary_normative": false,
+  "is_supporting_interpretive": true,
+  "is_context_only": false,
+  "document_class": "transmittal_letter",
+  "guidance_type_normalized": "letter",
+  "section_headings": [
+    {
+      "level": 2,
+      "text": "Appendix: Summary of Public Consultation Comments Received and OSFI Responses",
+      "id": "h2-0"
+    }
+  ],
+  "heading_path": [
+    "Changes to Guideline B-12: Interest Rate Risk Management"
+  ],
+  "toc_depth": 2,
+  "has_appendices": true,
+  "appendix_ids": [],
+  "has_tables": true,
+  "table_count": 1,
+  "has_footnotes": false,
+  "footnote_count": 0,
+  "inline_cross_references": [],
+  "quoted_external_references": [
+    "Basel Committee on Banking Supervision (BCBS) published revisions to the framework for Interest",
+    "BCBS guidance to reflect changes in the market",
+    "BCBS requirements"
+  ],
+  "raw_html_sha256": "e52bc1efc33120b5b0d4dab01ca7212bf3836b46b38fce774f42b9e502c0c019",
+  "raw_pdf_sha256": null,
+  "normalized_text_sha256": null,
+  "raw_html_path": "bronze/osfi/html/final_current/changes-guideline-b-12-interest-rate-risk-management.html",
+  "normalized_md_path": "silver/osfi/md/final_current/changes-guideline-b-12-interest-rate-risk-management.md",
+  "canonical_json_path": "silver/osfi/json/final_current/changes-guideline-b-12-interest-rate-risk-management.json",
+  "content_source": "HTML",
+  "parser_version": "osfi-parser-v2.1.0",
+  "normalizer_version": "osfi-normalizer-v1.4.0",
+  "quality_score": 1.0,
+  "quality_flags": [],
+  "download_timestamp": "2026-03-11T00:00:00Z",
+  "enriched_timestamp": "2026-03-23T09:53:50.546172Z",
+  "sections": [
+    {
+      "heading": "",
+      "heading_level": 2,
+      "full_text": "  - Interest Rate Risk Management - Guideline (2019)\n  - B-12 Interest Rate Risk Management – Guideline impact analysis statement (2019)\nTo: Banks, Bank Holding Companies, Federally Regulated Trust and Loan Companies\nOSFI is issuing the final version of its guideline B-12 Interest Rate Risk Management . The guideline provides a risk control framework for managing interest rate risk to prudent levels at institutions.\nIn April 2016, the Basel Committee on Banking Supervision (BCBS) published revisions to the framework for Interest Rate Risk in the Banking Book (IRRBB). OSFI's guideline incorporates most of the BCBS guidance to reflect changes in the market, the methods expected to be used by deposit-taking institutions for measuring, managing and monitoring IRRBB, as well as updates related to supervisory practices. The revised expectations will ensure OSFI's standards for measuring and monitoring IRRBB are comprehensive and reflect current sound practice.\nThe revised guideline will apply to domestic systemically important banks (D-SIBs) as of January 1, 2020. For all other institutions, the current version of guideline B-12 will apply until December 31, 2020, after which the revised version will apply.\nThe appendix provides a summary of comments received from the public consultation and outlines OSFI's responses. We thank those who participated in the consultation process.\nQuestions and comments concerning these changes may be sent to Leo Bozza, Senior Analyst, Capital Division by email at leonardo.bozza@osfi-bsif.gc.ca .\nYours truly,\nCarolyn Rogers Assistant Superintendent Regulation Sector",
+      "content": [
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Interest Rate Risk Management - Guideline (2019)",
+            "B-12 Interest Rate Risk Management – Guideline impact analysis statement (2019)"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "To: Banks, Bank Holding Companies, Federally Regulated Trust and Loan Companies"
+        },
+        {
+          "type": "paragraph",
+          "text": "OSFI is issuing the final version of its guideline B-12 Interest Rate Risk Management . The guideline provides a risk control framework for managing interest rate risk to prudent levels at institutions."
+        },
+        {
+          "type": "paragraph",
+          "text": "In April 2016, the Basel Committee on Banking Supervision (BCBS) published revisions to the framework for Interest Rate Risk in the Banking Book (IRRBB). OSFI's guideline incorporates most of the BCBS guidance to reflect changes in the market, the methods expected to be used by deposit-taking institutions for measuring, managing and monitoring IRRBB, as well as updates related to supervisory practices. The revised expectations will ensure OSFI's standards for measuring and monitoring IRRBB are comprehensive and reflect current sound practice."
+        },
+        {
+          "type": "paragraph",
+          "text": "The revised guideline will apply to domestic systemically important banks (D-SIBs) as of January 1, 2020. For all other institutions, the current version of guideline B-12 will apply until December 31, 2020, after which the revised version will apply."
+        },
+        {
+          "type": "paragraph",
+          "text": "The appendix provides a summary of comments received from the public consultation and outlines OSFI's responses. We thank those who participated in the consultation process."
+        },
+        {
+          "type": "paragraph",
+          "text": "Questions and comments concerning these changes may be sent to Leo Bozza, Senior Analyst, Capital Division by email at leonardo.bozza@osfi-bsif.gc.ca ."
+        },
+        {
+          "type": "paragraph",
+          "text": "Yours truly,"
+        },
+        {
+          "type": "paragraph",
+          "text": "Carolyn Rogers Assistant Superintendent Regulation Sector"
+        }
+      ]
+    },
+    {
+      "heading": "Appendix: Summary of Public Consultation Comments Received and OSFI Responses",
+      "heading_level": 2,
+      "full_text": "Comment/Question | OSFI Response\n1. Introduction\nThe guideline should include an explicit definition of banking book. Scope of application (page 1) OSFI should define \"less sophisticated\" institutions as those entities with less than $100 billion in total assets. We are interested in how OSFI will communicate its supervisory expectations to institutions and how it will maintain consistency across smaller institutions. The guideline does not spell out expectations for smaller institutions, including overall scope of application, risk management and documentation, governance and lines of defence, measurement techniques and systems, and the capital adequacy assessment. | Instruments that do not fall within the trading book are classified within the banking book. OSFI has added wording to the guideline in order to clarify the banking book definition. Scope of application OSFI's view is that a definition or segmentation of institutions based on the concept of \"sophistication\" is not the only approach to categorize institutions. Further, a quantitative metric measuring the size of an institution's assets should not be the sole factor in determining the level of sophistication of an institution. This means that small institutions with a high level of inherent interest rate risk in the banking book (IRRBB) might need a commensurate degree of oversight and controls in order to monitor, report and manage this risk. Implementation by institutions of the practices outlined in the guideline as well as OSFI's expectations depend on considerations such as an institution's nature, business, size, complexity as well as its structure, economic significance and particularly the degree of IRRBB. OSFI will determine and communicate its supervisory expectations based on these considerations. OSFI bases its supervisory expectations on the risk profile of institutions as well as on macro-economic conditions that can affect risk profiles. OSFI added language to expand the proportionality concept with respect to the application of the guideline. Where deemed necessary, OSFI lead supervisors will provide institutions with further detail on supervisory expectations.\n2. Overriding Principle of IRRBB\nDo all new (or future) products and activities have to undergo an IRRBB review and predetermined test phase before being fully rolled out? | Institutions should review all new products and activities prior to their implementation. The type and degree of review should be commensurate with the risk profile of the institution and the product/activity being introduced.\nWhat does OSFI mean by \"position taking?\" | OSFI has amended language to replace the definition of \"position taking\" and to clarify expectations related to the governance and oversight of funds transfer pricing (FTP).\n3. Governance and Risk Appetite\nCould the guideline further clarify the role and responsibilities of Senior Management and delegation of its duties? | OSFI agrees that Senior Management can delegate several functions to functional areas. However, Senior Management should not delegate the overall responsibility of managing and monitoring IRRBB. The guideline now includes additional language to clarify OSFI's expectation that Senior Management: Understand the nature and the level of the institution's IRRBB exposure, and the policies related to IRRBB management; Comprehend how this risk may affect the stability of the institution through impacts on performance/operations; and Approve strategic decisions related to IRRBB management.\nIn the case of small institutions, OSFI should exclude future business considerations from IRRBB measurement and modelling. | Future business can have a significant impact on risk and performance for all institutions (e.g. a ramp up of mortgage commitments, offering new products, etc.). For small non-complex institutions with a low inherent interest rate risk profile, the guideline expectations are commensurate in terms of modelling future business into IRRBB as well as providing a dynamic view of future business. OSFI has added and modified language to reiterate this approach.\nPolicy limits related to IRRBB should align with the risk tolerance, capital levels and sophistication of the institution. | Policy limits are the allocation of an institution's risk appetite statement to IRRBB. An institution should have an appropriate operational structure to manage, monitor and report IRRBB policy limits.\n4. Measurement, assumptions, system integrity and model governance\nIn relation to interest rate shocks, what types of additional ad hoc stress scenarios could OSFI require small institutions to calculate? Non-parallel shocks have limited impact (less than 100bps) around the 5 years term when many contractual mortgages typically reprice in Canada. | The text in the guideline is general and not restricted to institutions of any particular size, structure or nature. The type and extent of ad hoc stress scenarios that OSFI may require institutions to calculate would depend on both institution-specific considerations (i.e. business, size, complexity and level of inherent IRRBB) as well as macro-economic factors. The guideline and the scenarios selected are general and applicable to various financial products that have different maturities and repricing terms.\nCould you provide clarity regarding IRRBB exposure and an institution's capability and willingness to withstand accounting losses, in order to reposition its risk profile? Could you provide examples of situations that could threaten an institution's capital and earnings? | The context of the paragraph could be a scenario where, due to current unfavorable IRRBB exposure, an institution might incur losses. A generic example would be an institution with variable rate liabilities funding fixed rate long term assets in a hiking interest rate environment. The institution is at risk of accounting losses or reduced net interest income while it repositions its IRRBB exposure. The magnitude of these potential losses should be within the acceptable risk tolerance level of the institution.\nAt what level of option risk should an institutions include scenarios to assess the exposure when clients exercise such options? | OSFI expects institutions will determine whether they are subject to significant option risk given the nature of their business, products and service offerings. Option risk might arise when a significant portion of an institution's portfolio has embedded or explicit options that, if exercised, would trigger material negative consequences on an institution's earnings and/or capital. Institutions should consider the geographical allocation of their business: an institution's portfolio might be susceptible to different prepayment/redemptions rates depending on different legislative or regulatory requirements in different jurisdictions.\nThe list of behavioural drivers is very extensive for small institutions and factoring extensive behavioral optionality could be costly, necessitating a level of sophistication beyond the capabilities of small institutions. | OSFI expects institutions to test and determine which behavioural assumptions are material, given the institution's IRRBB positioning and product mix. OSFI expects that material assumptions are modeled. OSFI has added language to reflect this approach.\nWith respect to IRRBB, the currency aggregation method used in the guideline is different compared to what is proposed by other foreign regulatory bodies. | The language in the guideline is consistent with the 2016 BCBS requirements. Further, OSFI incorporated language that provides supervisory discretion for additional requirements related to permissible currency aggregation methods.\n5. Public Disclosures\nPlease clarify your expectations for public disclose of IRRBB information as well as details on assumptions about loan prepayment and non-maturity deposits. | There is no change incorporated in the guideline compared to the current practices and requirements for public disclosures on IRRBB. OSFI has not changed its expectations related to public disclosures on IRRBB, which continue to be articulated under Principle 8 in the guideline.\n1. Introduction\n  - The guideline should include an explicit definition of banking book.\n  - OSFI should define \"less sophisticated\" institutions as those entities with less than $100 billion in total assets.\n  - We are interested in how OSFI will communicate its supervisory expectations to institutions and how it will maintain consistency across smaller institutions. The guideline does not spell out expectations for smaller institutions, including overall scope of application, risk management and documentation, governance and lines of defence, measurement techniques and systems, and the capital adequacy assessment.\nOSFI should define \"less sophisticated\" institutions as those entities with less than $100 billion in total assets.\nWe are interested in how OSFI will communicate its supervisory expectations to institutions and how it will maintain consistency across smaller institutions. The guideline does not spell out expectations for smaller institutions, including overall scope of application, risk management and documentation, governance and lines of defence, measurement techniques and systems, and the capital adequacy assessment.\n  - Instruments that do not fall within the trading book are classified within the banking book. OSFI has added wording to the guideline in order to clarify the banking book definition.\n  - OSFI's view is that a definition or segmentation of institutions based on the concept of \"sophistication\" is not the only approach to categorize institutions. Further, a quantitative metric measuring the size of an institution's assets should not be the sole factor in determining the level of sophistication of an institution. This means that small institutions with a high level of inherent interest rate risk in the banking book (IRRBB) might need a commensurate degree of oversight and controls in order to monitor, report and manage this risk.\n  - Implementation by institutions of the practices outlined in the guideline as well as OSFI's expectations depend on considerations such as an institution's nature, business, size, complexity as well as its structure, economic significance and particularly the degree of IRRBB. OSFI will determine and communicate its supervisory expectations based on these considerations. OSFI bases its supervisory expectations on the risk profile of institutions as well as on macro-economic conditions that can affect risk profiles. OSFI added language to expand the proportionality concept with respect to the application of the guideline. Where deemed necessary, OSFI lead supervisors will provide institutions with further detail on supervisory expectations.\nOSFI's view is that a definition or segmentation of institutions based on the concept of \"sophistication\" is not the only approach to categorize institutions. Further, a quantitative metric measuring the size of an institution's assets should not be the sole factor in determining the level of sophistication of an institution. This means that small institutions with a high level of inherent interest rate risk in the banking book (IRRBB) might need a commensurate degree of oversight and controls in order to monitor, report and manage this risk.\nImplementation by institutions of the practices outlined in the guideline as well as OSFI's expectations depend on considerations such as an institution's nature, business, size, complexity as well as its structure, economic significance and particularly the degree of IRRBB. OSFI will determine and communicate its supervisory expectations based on these considerations.\nOSFI bases its supervisory expectations on the risk profile of institutions as well as on macro-economic conditions that can affect risk profiles. OSFI added language to expand the proportionality concept with respect to the application of the guideline. Where deemed necessary, OSFI lead supervisors will provide institutions with further detail on supervisory expectations.\n2. Overriding Principle of IRRBB\n  - Do all new (or future) products and activities have to undergo an IRRBB review and predetermined test phase before being fully rolled out?\nDo all new (or future) products and activities have to undergo an IRRBB review and predetermined test phase before being fully rolled out?\n  - Institutions should review all new products and activities prior to their implementation. The type and degree of review should be commensurate with the risk profile of the institution and the product/activity being introduced.\nInstitutions should review all new products and activities prior to their implementation. The type and degree of review should be commensurate with the risk profile of the institution and the product/activity being introduced.\n  - What does OSFI mean by \"position taking?\"\nWhat does OSFI mean by \"position taking?\"\n  - OSFI has amended language to replace the definition of \"position taking\" and to clarify expectations related to the governance and oversight of funds transfer pricing (FTP).\nOSFI has amended language to replace the definition of \"position taking\" and to clarify expectations related to the governance and oversight of funds transfer pricing (FTP).\n3. Governance and Risk Appetite\n  - Could the guideline further clarify the role and responsibilities of Senior Management and delegation of its duties?\n  - OSFI agrees that Senior Management can delegate several functions to functional areas. However, Senior Management should not delegate the overall responsibility of managing and monitoring IRRBB. The guideline now includes additional language to clarify OSFI's expectation that Senior Management: Understand the nature and the level of the institution's IRRBB exposure, and the policies related to IRRBB management; Comprehend how this risk may affect the stability of the institution through impacts on performance/operations; and Approve strategic decisions related to IRRBB management.\nOSFI agrees that Senior Management can delegate several functions to functional areas. However, Senior Management should not delegate the overall responsibility of managing and monitoring IRRBB. The guideline now includes additional language to clarify OSFI's expectation that Senior Management:\n  - Understand the nature and the level of the institution's IRRBB exposure, and the policies related to IRRBB management;\n  - Comprehend how this risk may affect the stability of the institution through impacts on performance/operations; and\n  - Approve strategic decisions related to IRRBB management.\nUnderstand the nature and the level of the institution's IRRBB exposure, and the policies related to IRRBB management;\nComprehend how this risk may affect the stability of the institution through impacts on performance/operations; and\nApprove strategic decisions related to IRRBB management.\n  - In the case of small institutions, OSFI should exclude future business considerations from IRRBB measurement and modelling.\nIn the case of small institutions, OSFI should exclude future business considerations from IRRBB measurement and modelling.\n  - Future business can have a significant impact on risk and performance for all institutions (e.g. a ramp up of mortgage commitments, offering new products, etc.).\n  - For small non-complex institutions with a low inherent interest rate risk profile, the guideline expectations are commensurate in terms of modelling future business into IRRBB as well as providing a dynamic view of future business. OSFI has added and modified language to reiterate this approach.\nFuture business can have a significant impact on risk and performance for all institutions (e.g. a ramp up of mortgage commitments, offering new products, etc.).\nFor small non-complex institutions with a low inherent interest rate risk profile, the guideline expectations are commensurate in terms of modelling future business into IRRBB as well as providing a dynamic view of future business. OSFI has added and modified language to reiterate this approach.\n  - Policy limits related to IRRBB should align with the risk tolerance, capital levels and sophistication of the institution.\nPolicy limits related to IRRBB should align with the risk tolerance, capital levels and sophistication of the institution.\n  - Policy limits are the allocation of an institution's risk appetite statement to IRRBB. An institution should have an appropriate operational structure to manage, monitor and report IRRBB policy limits.\nPolicy limits are the allocation of an institution's risk appetite statement to IRRBB. An institution should have an appropriate operational structure to manage, monitor and report IRRBB policy limits.\n4. Measurement, assumptions, system integrity and model governance\n  - In relation to interest rate shocks, what types of additional ad hoc stress scenarios could OSFI require small institutions to calculate?\n  - Non-parallel shocks have limited impact (less than 100bps) around the 5 years term when many contractual mortgages typically reprice in Canada.\nIn relation to interest rate shocks, what types of additional ad hoc stress scenarios could OSFI require small institutions to calculate?\nNon-parallel shocks have limited impact (less than 100bps) around the 5 years term when many contractual mortgages typically reprice in Canada.\n  - The text in the guideline is general and not restricted to institutions of any particular size, structure or nature. The type and extent of ad hoc stress scenarios that OSFI may require institutions to calculate would depend on both institution-specific considerations (i.e. business, size, complexity and level of inherent IRRBB) as well as macro-economic factors.\n  - The guideline and the scenarios selected are general and applicable to various financial products that have different maturities and repricing terms.\nThe text in the guideline is general and not restricted to institutions of any particular size, structure or nature. The type and extent of ad hoc stress scenarios that OSFI may require institutions to calculate would depend on both institution-specific considerations (i.e. business, size, complexity and level of inherent IRRBB) as well as macro-economic factors.\nThe guideline and the scenarios selected are general and applicable to various financial products that have different maturities and repricing terms.\n  - Could you provide clarity regarding IRRBB exposure and an institution's capability and willingness to withstand accounting losses, in order to reposition its risk profile?\n  - Could you provide examples of situations that could threaten an institution's capital and earnings?\nCould you provide clarity regarding IRRBB exposure and an institution's capability and willingness to withstand accounting losses, in order to reposition its risk profile?\nCould you provide examples of situations that could threaten an institution's capital and earnings?\n  - The context of the paragraph could be a scenario where, due to current unfavorable IRRBB exposure, an institution might incur losses. A generic example would be an institution with variable rate liabilities funding fixed rate long term assets in a hiking interest rate environment. The institution is at risk of accounting losses or reduced net interest income while it repositions its IRRBB exposure. The magnitude of these potential losses should be within the acceptable risk tolerance level of the institution.\nThe context of the paragraph could be a scenario where, due to current unfavorable IRRBB exposure, an institution might incur losses. A generic example would be an institution with variable rate liabilities funding fixed rate long term assets in a hiking interest rate environment. The institution is at risk of accounting losses or reduced net interest income while it repositions its IRRBB exposure. The magnitude of these potential losses should be within the acceptable risk tolerance level of the institution.\n  - At what level of option risk should an institutions include scenarios to assess the exposure when clients exercise such options?\nAt what level of option risk should an institutions include scenarios to assess the exposure when clients exercise such options?\n  - OSFI expects institutions will determine whether they are subject to significant option risk given the nature of their business, products and service offerings. Option risk might arise when a significant portion of an institution's portfolio has embedded or explicit options that, if exercised, would trigger material negative consequences on an institution's earnings and/or capital. Institutions should consider the geographical allocation of their business: an institution's portfolio might be susceptible to different prepayment/redemptions rates depending on different legislative or regulatory requirements in different jurisdictions.\nOSFI expects institutions will determine whether they are subject to significant option risk given the nature of their business, products and service offerings. Option risk might arise when a significant portion of an institution's portfolio has embedded or explicit options that, if exercised, would trigger material negative consequences on an institution's earnings and/or capital. Institutions should consider the geographical allocation of their business: an institution's portfolio might be susceptible to different prepayment/redemptions rates depending on different legislative or regulatory requirements in different jurisdictions.\n  - The list of behavioural drivers is very extensive for small institutions and factoring extensive behavioral optionality could be costly, necessitating a level of sophistication beyond the capabilities of small institutions.\nThe list of behavioural drivers is very extensive for small institutions and factoring extensive behavioral optionality could be costly, necessitating a level of sophistication beyond the capabilities of small institutions.\n  - OSFI expects institutions to test and determine which behavioural assumptions are material, given the institution's IRRBB positioning and product mix. OSFI expects that material assumptions are modeled. OSFI has added language to reflect this approach.\nOSFI expects institutions to test and determine which behavioural assumptions are material, given the institution's IRRBB positioning and product mix. OSFI expects that material assumptions are modeled. OSFI has added language to reflect this approach.\n  - With respect to IRRBB, the currency aggregation method used in the guideline is different compared to what is proposed by other foreign regulatory bodies.\nWith respect to IRRBB, the currency aggregation method used in the guideline is different compared to what is proposed by other foreign regulatory bodies.\n  - The language in the guideline is consistent with the 2016 BCBS requirements. Further, OSFI incorporated language that provides supervisory discretion for additional requirements related to permissible currency aggregation methods.\nThe language in the guideline is consistent with the 2016 BCBS requirements. Further, OSFI incorporated language that provides supervisory discretion for additional requirements related to permissible currency aggregation methods.\n5. Public Disclosures\n  - Please clarify your expectations for public disclose of IRRBB information as well as details on assumptions about loan prepayment and non-maturity deposits.\nPlease clarify your expectations for public disclose of IRRBB information as well as details on assumptions about loan prepayment and non-maturity deposits.\n  - There is no change incorporated in the guideline compared to the current practices and requirements for public disclosures on IRRBB. OSFI has not changed its expectations related to public disclosures on IRRBB, which continue to be articulated under Principle 8 in the guideline.\nThere is no change incorporated in the guideline compared to the current practices and requirements for public disclosures on IRRBB. OSFI has not changed its expectations related to public disclosures on IRRBB, which continue to be articulated under Principle 8 in the guideline.",
+      "content": [
+        {
+          "type": "table",
+          "caption": "",
+          "rows": [
+            [
+              "Comment/Question",
+              "OSFI Response"
+            ],
+            [
+              "1. Introduction"
+            ],
+            [
+              "The guideline should include an explicit definition of banking book. Scope of application (page 1) OSFI should define \"less sophisticated\" institutions as those entities with less than $100 billion in total assets. We are interested in how OSFI will communicate its supervisory expectations to institutions and how it will maintain consistency across smaller institutions. The guideline does not spell out expectations for smaller institutions, including overall scope of application, risk management and documentation, governance and lines of defence, measurement techniques and systems, and the capital adequacy assessment.",
+              "Instruments that do not fall within the trading book are classified within the banking book. OSFI has added wording to the guideline in order to clarify the banking book definition. Scope of application OSFI's view is that a definition or segmentation of institutions based on the concept of \"sophistication\" is not the only approach to categorize institutions. Further, a quantitative metric measuring the size of an institution's assets should not be the sole factor in determining the level of sophistication of an institution. This means that small institutions with a high level of inherent interest rate risk in the banking book (IRRBB) might need a commensurate degree of oversight and controls in order to monitor, report and manage this risk. Implementation by institutions of the practices outlined in the guideline as well as OSFI's expectations depend on considerations such as an institution's nature, business, size, complexity as well as its structure, economic significance and particularly the degree of IRRBB. OSFI will determine and communicate its supervisory expectations based on these considerations. OSFI bases its supervisory expectations on the risk profile of institutions as well as on macro-economic conditions that can affect risk profiles. OSFI added language to expand the proportionality concept with respect to the application of the guideline. Where deemed necessary, OSFI lead supervisors will provide institutions with further detail on supervisory expectations."
+            ],
+            [
+              "2. Overriding Principle of IRRBB"
+            ],
+            [
+              "Do all new (or future) products and activities have to undergo an IRRBB review and predetermined test phase before being fully rolled out?",
+              "Institutions should review all new products and activities prior to their implementation. The type and degree of review should be commensurate with the risk profile of the institution and the product/activity being introduced."
+            ],
+            [
+              "What does OSFI mean by \"position taking?\"",
+              "OSFI has amended language to replace the definition of \"position taking\" and to clarify expectations related to the governance and oversight of funds transfer pricing (FTP)."
+            ],
+            [
+              "3. Governance and Risk Appetite"
+            ],
+            [
+              "Could the guideline further clarify the role and responsibilities of Senior Management and delegation of its duties?",
+              "OSFI agrees that Senior Management can delegate several functions to functional areas. However, Senior Management should not delegate the overall responsibility of managing and monitoring IRRBB. The guideline now includes additional language to clarify OSFI's expectation that Senior Management: Understand the nature and the level of the institution's IRRBB exposure, and the policies related to IRRBB management; Comprehend how this risk may affect the stability of the institution through impacts on performance/operations; and Approve strategic decisions related to IRRBB management."
+            ],
+            [
+              "In the case of small institutions, OSFI should exclude future business considerations from IRRBB measurement and modelling.",
+              "Future business can have a significant impact on risk and performance for all institutions (e.g. a ramp up of mortgage commitments, offering new products, etc.). For small non-complex institutions with a low inherent interest rate risk profile, the guideline expectations are commensurate in terms of modelling future business into IRRBB as well as providing a dynamic view of future business. OSFI has added and modified language to reiterate this approach."
+            ],
+            [
+              "Policy limits related to IRRBB should align with the risk tolerance, capital levels and sophistication of the institution.",
+              "Policy limits are the allocation of an institution's risk appetite statement to IRRBB. An institution should have an appropriate operational structure to manage, monitor and report IRRBB policy limits."
+            ],
+            [
+              "4. Measurement, assumptions, system integrity and model governance"
+            ],
+            [
+              "In relation to interest rate shocks, what types of additional ad hoc stress scenarios could OSFI require small institutions to calculate? Non-parallel shocks have limited impact (less than 100bps) around the 5 years term when many contractual mortgages typically reprice in Canada.",
+              "The text in the guideline is general and not restricted to institutions of any particular size, structure or nature. The type and extent of ad hoc stress scenarios that OSFI may require institutions to calculate would depend on both institution-specific considerations (i.e. business, size, complexity and level of inherent IRRBB) as well as macro-economic factors. The guideline and the scenarios selected are general and applicable to various financial products that have different maturities and repricing terms."
+            ],
+            [
+              "Could you provide clarity regarding IRRBB exposure and an institution's capability and willingness to withstand accounting losses, in order to reposition its risk profile? Could you provide examples of situations that could threaten an institution's capital and earnings?",
+              "The context of the paragraph could be a scenario where, due to current unfavorable IRRBB exposure, an institution might incur losses. A generic example would be an institution with variable rate liabilities funding fixed rate long term assets in a hiking interest rate environment. The institution is at risk of accounting losses or reduced net interest income while it repositions its IRRBB exposure. The magnitude of these potential losses should be within the acceptable risk tolerance level of the institution."
+            ],
+            [
+              "At what level of option risk should an institutions include scenarios to assess the exposure when clients exercise such options?",
+              "OSFI expects institutions will determine whether they are subject to significant option risk given the nature of their business, products and service offerings. Option risk might arise when a significant portion of an institution's portfolio has embedded or explicit options that, if exercised, would trigger material negative consequences on an institution's earnings and/or capital. Institutions should consider the geographical allocation of their business: an institution's portfolio might be susceptible to different prepayment/redemptions rates depending on different legislative or regulatory requirements in different jurisdictions."
+            ],
+            [
+              "The list of behavioural drivers is very extensive for small institutions and factoring extensive behavioral optionality could be costly, necessitating a level of sophistication beyond the capabilities of small institutions.",
+              "OSFI expects institutions to test and determine which behavioural assumptions are material, given the institution's IRRBB positioning and product mix. OSFI expects that material assumptions are modeled. OSFI has added language to reflect this approach."
+            ],
+            [
+              "With respect to IRRBB, the currency aggregation method used in the guideline is different compared to what is proposed by other foreign regulatory bodies.",
+              "The language in the guideline is consistent with the 2016 BCBS requirements. Further, OSFI incorporated language that provides supervisory discretion for additional requirements related to permissible currency aggregation methods."
+            ],
+            [
+              "5. Public Disclosures"
+            ],
+            [
+              "Please clarify your expectations for public disclose of IRRBB information as well as details on assumptions about loan prepayment and non-maturity deposits.",
+              "There is no change incorporated in the guideline compared to the current practices and requirements for public disclosures on IRRBB. OSFI has not changed its expectations related to public disclosures on IRRBB, which continue to be articulated under Principle 8 in the guideline."
+            ]
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "1. Introduction"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "The guideline should include an explicit definition of banking book."
+          ]
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "OSFI should define \"less sophisticated\" institutions as those entities with less than $100 billion in total assets.",
+            "We are interested in how OSFI will communicate its supervisory expectations to institutions and how it will maintain consistency across smaller institutions. The guideline does not spell out expectations for smaller institutions, including overall scope of application, risk management and documentation, governance and lines of defence, measurement techniques and systems, and the capital adequacy assessment."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "OSFI should define \"less sophisticated\" institutions as those entities with less than $100 billion in total assets."
+        },
+        {
+          "type": "paragraph",
+          "text": "We are interested in how OSFI will communicate its supervisory expectations to institutions and how it will maintain consistency across smaller institutions. The guideline does not spell out expectations for smaller institutions, including overall scope of application, risk management and documentation, governance and lines of defence, measurement techniques and systems, and the capital adequacy assessment."
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Instruments that do not fall within the trading book are classified within the banking book. OSFI has added wording to the guideline in order to clarify the banking book definition."
+          ]
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "OSFI's view is that a definition or segmentation of institutions based on the concept of \"sophistication\" is not the only approach to categorize institutions. Further, a quantitative metric measuring the size of an institution's assets should not be the sole factor in determining the level of sophistication of an institution. This means that small institutions with a high level of inherent interest rate risk in the banking book (IRRBB) might need a commensurate degree of oversight and controls in order to monitor, report and manage this risk.",
+            "Implementation by institutions of the practices outlined in the guideline as well as OSFI's expectations depend on considerations such as an institution's nature, business, size, complexity as well as its structure, economic significance and particularly the degree of IRRBB. OSFI will determine and communicate its supervisory expectations based on these considerations. OSFI bases its supervisory expectations on the risk profile of institutions as well as on macro-economic conditions that can affect risk profiles. OSFI added language to expand the proportionality concept with respect to the application of the guideline. Where deemed necessary, OSFI lead supervisors will provide institutions with further detail on supervisory expectations."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "OSFI's view is that a definition or segmentation of institutions based on the concept of \"sophistication\" is not the only approach to categorize institutions. Further, a quantitative metric measuring the size of an institution's assets should not be the sole factor in determining the level of sophistication of an institution. This means that small institutions with a high level of inherent interest rate risk in the banking book (IRRBB) might need a commensurate degree of oversight and controls in order to monitor, report and manage this risk."
+        },
+        {
+          "type": "paragraph",
+          "text": "Implementation by institutions of the practices outlined in the guideline as well as OSFI's expectations depend on considerations such as an institution's nature, business, size, complexity as well as its structure, economic significance and particularly the degree of IRRBB. OSFI will determine and communicate its supervisory expectations based on these considerations."
+        },
+        {
+          "type": "paragraph",
+          "text": "OSFI bases its supervisory expectations on the risk profile of institutions as well as on macro-economic conditions that can affect risk profiles. OSFI added language to expand the proportionality concept with respect to the application of the guideline. Where deemed necessary, OSFI lead supervisors will provide institutions with further detail on supervisory expectations."
+        },
+        {
+          "type": "paragraph",
+          "text": "2. Overriding Principle of IRRBB"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Do all new (or future) products and activities have to undergo an IRRBB review and predetermined test phase before being fully rolled out?"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Do all new (or future) products and activities have to undergo an IRRBB review and predetermined test phase before being fully rolled out?"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Institutions should review all new products and activities prior to their implementation. The type and degree of review should be commensurate with the risk profile of the institution and the product/activity being introduced."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Institutions should review all new products and activities prior to their implementation. The type and degree of review should be commensurate with the risk profile of the institution and the product/activity being introduced."
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "What does OSFI mean by \"position taking?\""
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "What does OSFI mean by \"position taking?\""
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "OSFI has amended language to replace the definition of \"position taking\" and to clarify expectations related to the governance and oversight of funds transfer pricing (FTP)."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "OSFI has amended language to replace the definition of \"position taking\" and to clarify expectations related to the governance and oversight of funds transfer pricing (FTP)."
+        },
+        {
+          "type": "paragraph",
+          "text": "3. Governance and Risk Appetite"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Could the guideline further clarify the role and responsibilities of Senior Management and delegation of its duties?"
+          ]
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "OSFI agrees that Senior Management can delegate several functions to functional areas. However, Senior Management should not delegate the overall responsibility of managing and monitoring IRRBB. The guideline now includes additional language to clarify OSFI's expectation that Senior Management: Understand the nature and the level of the institution's IRRBB exposure, and the policies related to IRRBB management; Comprehend how this risk may affect the stability of the institution through impacts on performance/operations; and Approve strategic decisions related to IRRBB management."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "OSFI agrees that Senior Management can delegate several functions to functional areas. However, Senior Management should not delegate the overall responsibility of managing and monitoring IRRBB. The guideline now includes additional language to clarify OSFI's expectation that Senior Management:"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Understand the nature and the level of the institution's IRRBB exposure, and the policies related to IRRBB management;",
+            "Comprehend how this risk may affect the stability of the institution through impacts on performance/operations; and",
+            "Approve strategic decisions related to IRRBB management."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Understand the nature and the level of the institution's IRRBB exposure, and the policies related to IRRBB management;"
+        },
+        {
+          "type": "paragraph",
+          "text": "Comprehend how this risk may affect the stability of the institution through impacts on performance/operations; and"
+        },
+        {
+          "type": "paragraph",
+          "text": "Approve strategic decisions related to IRRBB management."
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "In the case of small institutions, OSFI should exclude future business considerations from IRRBB measurement and modelling."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "In the case of small institutions, OSFI should exclude future business considerations from IRRBB measurement and modelling."
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Future business can have a significant impact on risk and performance for all institutions (e.g. a ramp up of mortgage commitments, offering new products, etc.).",
+            "For small non-complex institutions with a low inherent interest rate risk profile, the guideline expectations are commensurate in terms of modelling future business into IRRBB as well as providing a dynamic view of future business. OSFI has added and modified language to reiterate this approach."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Future business can have a significant impact on risk and performance for all institutions (e.g. a ramp up of mortgage commitments, offering new products, etc.)."
+        },
+        {
+          "type": "paragraph",
+          "text": "For small non-complex institutions with a low inherent interest rate risk profile, the guideline expectations are commensurate in terms of modelling future business into IRRBB as well as providing a dynamic view of future business. OSFI has added and modified language to reiterate this approach."
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Policy limits related to IRRBB should align with the risk tolerance, capital levels and sophistication of the institution."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Policy limits related to IRRBB should align with the risk tolerance, capital levels and sophistication of the institution."
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Policy limits are the allocation of an institution's risk appetite statement to IRRBB. An institution should have an appropriate operational structure to manage, monitor and report IRRBB policy limits."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Policy limits are the allocation of an institution's risk appetite statement to IRRBB. An institution should have an appropriate operational structure to manage, monitor and report IRRBB policy limits."
+        },
+        {
+          "type": "paragraph",
+          "text": "4. Measurement, assumptions, system integrity and model governance"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "In relation to interest rate shocks, what types of additional ad hoc stress scenarios could OSFI require small institutions to calculate?",
+            "Non-parallel shocks have limited impact (less than 100bps) around the 5 years term when many contractual mortgages typically reprice in Canada."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "In relation to interest rate shocks, what types of additional ad hoc stress scenarios could OSFI require small institutions to calculate?"
+        },
+        {
+          "type": "paragraph",
+          "text": "Non-parallel shocks have limited impact (less than 100bps) around the 5 years term when many contractual mortgages typically reprice in Canada."
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "The text in the guideline is general and not restricted to institutions of any particular size, structure or nature. The type and extent of ad hoc stress scenarios that OSFI may require institutions to calculate would depend on both institution-specific considerations (i.e. business, size, complexity and level of inherent IRRBB) as well as macro-economic factors.",
+            "The guideline and the scenarios selected are general and applicable to various financial products that have different maturities and repricing terms."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "The text in the guideline is general and not restricted to institutions of any particular size, structure or nature. The type and extent of ad hoc stress scenarios that OSFI may require institutions to calculate would depend on both institution-specific considerations (i.e. business, size, complexity and level of inherent IRRBB) as well as macro-economic factors."
+        },
+        {
+          "type": "paragraph",
+          "text": "The guideline and the scenarios selected are general and applicable to various financial products that have different maturities and repricing terms."
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Could you provide clarity regarding IRRBB exposure and an institution's capability and willingness to withstand accounting losses, in order to reposition its risk profile?",
+            "Could you provide examples of situations that could threaten an institution's capital and earnings?"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Could you provide clarity regarding IRRBB exposure and an institution's capability and willingness to withstand accounting losses, in order to reposition its risk profile?"
+        },
+        {
+          "type": "paragraph",
+          "text": "Could you provide examples of situations that could threaten an institution's capital and earnings?"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "The context of the paragraph could be a scenario where, due to current unfavorable IRRBB exposure, an institution might incur losses. A generic example would be an institution with variable rate liabilities funding fixed rate long term assets in a hiking interest rate environment. The institution is at risk of accounting losses or reduced net interest income while it repositions its IRRBB exposure. The magnitude of these potential losses should be within the acceptable risk tolerance level of the institution."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "The context of the paragraph could be a scenario where, due to current unfavorable IRRBB exposure, an institution might incur losses. A generic example would be an institution with variable rate liabilities funding fixed rate long term assets in a hiking interest rate environment. The institution is at risk of accounting losses or reduced net interest income while it repositions its IRRBB exposure. The magnitude of these potential losses should be within the acceptable risk tolerance level of the institution."
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "At what level of option risk should an institutions include scenarios to assess the exposure when clients exercise such options?"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "At what level of option risk should an institutions include scenarios to assess the exposure when clients exercise such options?"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "OSFI expects institutions will determine whether they are subject to significant option risk given the nature of their business, products and service offerings. Option risk might arise when a significant portion of an institution's portfolio has embedded or explicit options that, if exercised, would trigger material negative consequences on an institution's earnings and/or capital. Institutions should consider the geographical allocation of their business: an institution's portfolio might be susceptible to different prepayment/redemptions rates depending on different legislative or regulatory requirements in different jurisdictions."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "OSFI expects institutions will determine whether they are subject to significant option risk given the nature of their business, products and service offerings. Option risk might arise when a significant portion of an institution's portfolio has embedded or explicit options that, if exercised, would trigger material negative consequences on an institution's earnings and/or capital. Institutions should consider the geographical allocation of their business: an institution's portfolio might be susceptible to different prepayment/redemptions rates depending on different legislative or regulatory requirements in different jurisdictions."
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "The list of behavioural drivers is very extensive for small institutions and factoring extensive behavioral optionality could be costly, necessitating a level of sophistication beyond the capabilities of small institutions."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "The list of behavioural drivers is very extensive for small institutions and factoring extensive behavioral optionality could be costly, necessitating a level of sophistication beyond the capabilities of small institutions."
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "OSFI expects institutions to test and determine which behavioural assumptions are material, given the institution's IRRBB positioning and product mix. OSFI expects that material assumptions are modeled. OSFI has added language to reflect this approach."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "OSFI expects institutions to test and determine which behavioural assumptions are material, given the institution's IRRBB positioning and product mix. OSFI expects that material assumptions are modeled. OSFI has added language to reflect this approach."
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "With respect to IRRBB, the currency aggregation method used in the guideline is different compared to what is proposed by other foreign regulatory bodies."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "With respect to IRRBB, the currency aggregation method used in the guideline is different compared to what is proposed by other foreign regulatory bodies."
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "The language in the guideline is consistent with the 2016 BCBS requirements. Further, OSFI incorporated language that provides supervisory discretion for additional requirements related to permissible currency aggregation methods."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "The language in the guideline is consistent with the 2016 BCBS requirements. Further, OSFI incorporated language that provides supervisory discretion for additional requirements related to permissible currency aggregation methods."
+        },
+        {
+          "type": "paragraph",
+          "text": "5. Public Disclosures"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Please clarify your expectations for public disclose of IRRBB information as well as details on assumptions about loan prepayment and non-maturity deposits."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Please clarify your expectations for public disclose of IRRBB information as well as details on assumptions about loan prepayment and non-maturity deposits."
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "There is no change incorporated in the guideline compared to the current practices and requirements for public disclosures on IRRBB. OSFI has not changed its expectations related to public disclosures on IRRBB, which continue to be articulated under Principle 8 in the guideline."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "There is no change incorporated in the guideline compared to the current practices and requirements for public disclosures on IRRBB. OSFI has not changed its expectations related to public disclosures on IRRBB, which continue to be articulated under Principle 8 in the guideline."
+        }
+      ]
+    }
+  ],
+  "title_normalized": "changes to guideline b12 interest rate risk management",
+  "publication_type_normalized": "letter",
+  "category_normalized": "sound_business_and_financial_practices",
+  "sector_normalized": [
+    "banks",
+    "trust_and_loan_companies"
+  ],
+  "guideline_number_normalized": "B12",
+  "applies_to_banks": true,
+  "applies_to_trust_loan": true,
+  "applies_to_life_insurance": false,
+  "applies_to_pc_insurance": false,
+  "applies_to_foreign_bank": false,
+  "applies_to_foreign_insurance": false,
+  "applies_to_cooperative": false,
+  "applies_to_bank_holding": false,
+  "effective_date_sort_key": "2019-05-30",
+  "status_sort_key": 1,
+  "authority_sort_key": 60,
+  "bm25_text": "Changes to Guideline B-12: Interest Rate Risk Management B-12 Letter Sound Business and Financial Practices Banks Trust and Loan Companies Appendix: Summary of Public Consultation Comments Received and OSFI Responses",
+  "vector_text_prefix": "[OSFI Letter B-12 | Sound Business and Financial Practices | Banks / Trust and Loan Companies | FINAL_CURRENT | Effective 2019-05-30]",
+  "h1_title": "Changes to Guideline B-12: Interest Rate Risk Management",
+  "regulator": "OSFI",
+  "regulator_acronym": "OSFI",
+  "jurisdiction": "Canada",
+  "short_title": "B-12",
+  "source_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/changes-guideline-b-12-interest-rate-risk-management"
+}

@@ -1,0 +1,423 @@
+{
+  "source_system": "osfi_guidance_library",
+  "library_row_title": "Final IFRS 17 Memoranda to The Appointed Actuary for FRIs",
+  "library_row_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/final-ifrs-17-memoranda-appointed-actuary-fris",
+  "listing_date_raw": "November 9, 2022",
+  "listing_date_iso": "2022-11-09",
+  "listing_publication_type": "Letter",
+  "listing_category": "",
+  "listing_sector": [],
+  "crawl_timestamp": "2026-03-11T00:00:00Z",
+  "detail_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/final-ifrs-17-memoranda-appointed-actuary-fris",
+  "canonical_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/final-ifrs-17-memoranda-appointed-actuary-fris",
+  "slug": "final-ifrs-17-memoranda-appointed-actuary-fris",
+  "title": "Final IFRS 17 Memoranda to The Appointed Actuary for FRIs",
+  "publication_type": "Letter",
+  "category": "",
+  "document_date_raw": "November 9, 2022",
+  "document_date_iso": "2022-11-09",
+  "sector": [],
+  "effective_date_text": "",
+  "guideline_number": "",
+  "date_modified_raw": "2022-11-09T12:00:00Z",
+  "generate_pdf_url": "https://www.osfi-bsif.gc.ca/en/print/pdf/node/433",
+  "pdf_node_id": 433,
+  "direct_pdf_url": null,
+  "has_table_of_contents": true,
+  "toc_entries": [],
+  "has_related_documents": false,
+  "related_document_links_raw": [],
+  "consultation_status_text": null,
+  "consultation_status_refers_to_version": null,
+  "page_language": "en",
+  "word_count_raw_body": 2460,
+  "doc_id": "osfi.final-ifrs-17-memoranda-appointed-actuary-fris.transmittal",
+  "doc_family_id": "osfi.final-ifrs-17-memoranda-appointed-actuary-fris",
+  "version_id": "",
+  "version_label": "Final IFRS 17 Memoranda to The Appointed Actuary for FRIs",
+  "version_sort_key": "",
+  "parent_doc_id": null,
+  "child_doc_ids": [],
+  "is_package_page": false,
+  "is_chapter_page": false,
+  "chapter_number": null,
+  "chapter_title": null,
+  "document_order_within_family": 0,
+  "supersedes_doc_id": null,
+  "superseded_by_doc_id": null,
+  "current_version_flag": true,
+  "status": "final_current",
+  "include_in_primary_corpus": false,
+  "include_in_support_corpus": true,
+  "include_in_context_corpus": false,
+  "effective_date_start": "2022-11-09",
+  "effective_date_end": null,
+  "effective_date_fye_split": false,
+  "effective_date_oct_fye": null,
+  "effective_date_dec_fye": null,
+  "is_future_effective": false,
+  "is_rescinded": false,
+  "is_draft_or_consultation": false,
+  "rescission_date": null,
+  "consultation_closing_date": null,
+  "as_of_applicability": "2026-03-23",
+  "rule_applied": "rule_5_final_current",
+  "authority_class": "official_support",
+  "authority_level": 60,
+  "nova_tier": 2,
+  "prudential_weight": 0.7,
+  "is_primary_normative": false,
+  "is_supporting_interpretive": true,
+  "is_context_only": false,
+  "document_class": "transmittal_letter",
+  "guidance_type_normalized": "letter",
+  "section_headings": [
+    {
+      "level": 2,
+      "text": "Annex: Summary of March 2022 Consultation Comments and OSFI Responses",
+      "id": "h2-0"
+    }
+  ],
+  "heading_path": [
+    "Final IFRS 17 Memoranda to The Appointed Actuary for FRIs"
+  ],
+  "toc_depth": 2,
+  "has_appendices": false,
+  "appendix_ids": [],
+  "has_tables": true,
+  "table_count": 3,
+  "has_footnotes": false,
+  "footnote_count": 0,
+  "inline_cross_references": [],
+  "quoted_external_references": [],
+  "raw_html_sha256": "1fc0d9cc79137d968b510849fd5a612b9023946ec5cfb0e530bc8ccfbfc14967",
+  "raw_pdf_sha256": null,
+  "normalized_text_sha256": null,
+  "raw_html_path": "bronze/osfi/html/final_current/final-ifrs-17-memoranda-appointed-actuary-fris.html",
+  "normalized_md_path": "silver/osfi/md/final_current/final-ifrs-17-memoranda-appointed-actuary-fris.md",
+  "canonical_json_path": "silver/osfi/json/final_current/final-ifrs-17-memoranda-appointed-actuary-fris.json",
+  "content_source": "HTML",
+  "parser_version": "osfi-parser-v2.1.0",
+  "normalizer_version": "osfi-normalizer-v1.4.0",
+  "quality_score": 1.0,
+  "quality_flags": [],
+  "download_timestamp": "2026-03-11T00:00:00Z",
+  "enriched_timestamp": "2026-03-23T09:53:51.496391Z",
+  "sections": [
+    {
+      "heading": "",
+      "heading_level": 2,
+      "full_text": "To: All Federally Regulated Insurers (FRIs) Federally Regulated Insurers include Canadian branches of foreign life and property and casualty companies, fraternal benefit societies, regulated insurance holding companies and non-operating insurance companies.\nOSFI is issuing the final IFRS 17 Memoranda to The Appointed Actuary (Memoranda) for FRIs.\nIFRS 17 replaces IFRS 4, the current reporting standard. It is effective for annual periods beginning on or after January 1, 2023. The changes made to the Memoranda will ensure that the standards and guidance provided for the Appointed Actuary in preparing the Appointed Actuary’s Report (AAR) will continue to satisfy the generally accepted actuarial practice requirements as per subsections 365(1) and 629(1) of the Insurance Companies Act requiring the Appointed Actuary to value the actuarial and other policy liabilities of the company as at the end of a financial year; and any other matter specified in any direction that may be made by the Superintendent.\nFor FRIs that have fiscal year end other than December 31st and will not be reporting under IFRS 17 basis until 2024, OSFI will not issue a 2023 Memorandum under IFRS 4 basis. Please use the 2022 Memorandum and update the table years by moving forward one year (i.e. table years 2022, 2021 and 2020 will become table years 2023, 2022 and 2021).\nOSFI would like to thank all respondents who provided feedback on the draft Memoranda during the public consultation. OSFI received over 85 comments from various stakeholders for the Life Memorandum and over 110 comments for the P&C Memorandum. The Annex provides a summary of the material comments received and OSFI’s response.\nPlease address any questions regarding this letter by email to Arthur Yuen, Senior Actuary, Actuarial Division for the Life Memorandum at AARinquirylife@osfi-bsif.gc.ca and James Yang, Senior Actuary, Actuarial Division for the P&C Memorandum at AARinquiryPC@osfi-bsif.gc.ca .\nSincerely,\nDevon Esson Managing Director, Actuarial Division ​Supervision Sector",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "To: All Federally Regulated Insurers (FRIs) Federally Regulated Insurers include Canadian branches of foreign life and property and casualty companies, fraternal benefit societies, regulated insurance holding companies and non-operating insurance companies."
+        },
+        {
+          "type": "paragraph",
+          "text": "OSFI is issuing the final IFRS 17 Memoranda to The Appointed Actuary (Memoranda) for FRIs."
+        },
+        {
+          "type": "paragraph",
+          "text": "IFRS 17 replaces IFRS 4, the current reporting standard. It is effective for annual periods beginning on or after January 1, 2023. The changes made to the Memoranda will ensure that the standards and guidance provided for the Appointed Actuary in preparing the Appointed Actuary’s Report (AAR) will continue to satisfy the generally accepted actuarial practice requirements as per subsections 365(1) and 629(1) of the Insurance Companies Act requiring the Appointed Actuary to value the actuarial and other policy liabilities of the company as at the end of a financial year; and any other matter specified in any direction that may be made by the Superintendent."
+        },
+        {
+          "type": "paragraph",
+          "text": "For FRIs that have fiscal year end other than December 31st and will not be reporting under IFRS 17 basis until 2024, OSFI will not issue a 2023 Memorandum under IFRS 4 basis. Please use the 2022 Memorandum and update the table years by moving forward one year (i.e. table years 2022, 2021 and 2020 will become table years 2023, 2022 and 2021)."
+        },
+        {
+          "type": "paragraph",
+          "text": "OSFI would like to thank all respondents who provided feedback on the draft Memoranda during the public consultation. OSFI received over 85 comments from various stakeholders for the Life Memorandum and over 110 comments for the P&C Memorandum. The Annex provides a summary of the material comments received and OSFI’s response."
+        },
+        {
+          "type": "paragraph",
+          "text": "Please address any questions regarding this letter by email to Arthur Yuen, Senior Actuary, Actuarial Division for the Life Memorandum at AARinquirylife@osfi-bsif.gc.ca and James Yang, Senior Actuary, Actuarial Division for the P&C Memorandum at AARinquiryPC@osfi-bsif.gc.ca ."
+        },
+        {
+          "type": "paragraph",
+          "text": "Sincerely,"
+        },
+        {
+          "type": "paragraph",
+          "text": "Devon Esson Managing Director, Actuarial Division ​Supervision Sector"
+        }
+      ]
+    },
+    {
+      "heading": "Annex: Summary of March 2022 Consultation Comments and OSFI Responses",
+      "heading_level": 2,
+      "full_text": "Table: IFRS 17 Life and P&C Memoranda to the Appointed Actuary\nRespondents Comments | OSFI Response\nFiling Deadlines for the Appointed Actuary Report (AAR)\nSome respondents requested that OSFI extends the filing deadline for the AAR, as the changes made to the Memoranda are significant. | As the filing for the IFRS 17 AAR is in 2024, OSFI expects companies would have a reasonable amount of time to meet all the requirements. As such, OSFI will not extend the filing deadline for the AAR submission. If you have any further concerns about filing deadlines, please details your concerns to AARinquirylife@osfi-bsif.gc.ca for the Life Memorandum or AARinquiryPC@osfi-bsif.gc.ca for the P&C Memorandum.\nOpinion of the Appointed Actuary\nSome respondents expressed their view that the Appointed Actuary has limited control over some of the assumptions used in the development of the actuarial liabilities (examples: determination of directly attributable expenses), and that Appointed Actuary should not be required to detail the determination of these assumptions in the AAR. | OSFI disagrees with this comment as Appointed Actuaries are signing the opinion with respect to the appropriateness of the amount of policy liabilities for the purpose of IFRS 17. This would include all assumptions used in the development of the actuarial liabilities (whether under direct supervision of the Appointed Actuary or received by the Appointed Actuary).\nTransition\nSome respondents asked if OSFI is expecting to have a separate request for the information on the Transition balance sheet as of December 31, 2022. | Information request with respect to the year of transition is outlined in section B.8.7 of the Life Memorandum and sections 6.9 and 6.19 of the P&C Memorandum. OSFI does not expect to have another separate request for information on the transition balance sheet.\nRisk Adjustment Confidence Level Disclosure\nSome respondents suggested to replace “Confidence Level” with “Confidence Level (or Range)” and the allowance for the disclosure of a range of confidence level estimate for Risk Adjustment. | OSFI acknowledges that some insurers may prefer to disclose a confidence range. However, it is difficult to track and identify the change of confidence level when only a range is provided without a point estimate of confidence level.\nSome respondents requested that OSFI extends the filing deadline for the AAR, as the changes made to the Memoranda are significant.\nAs the filing for the IFRS 17 AAR is in 2024, OSFI expects companies would have a reasonable amount of time to meet all the requirements. As such, OSFI will not extend the filing deadline for the AAR submission.\nIf you have any further concerns about filing deadlines, please details your concerns to AARinquirylife@osfi-bsif.gc.ca for the Life Memorandum or AARinquiryPC@osfi-bsif.gc.ca for the P&C Memorandum.\nSome respondents expressed their view that the Appointed Actuary has limited control over some of the assumptions used in the development of the actuarial liabilities (examples: determination of directly attributable expenses), and that Appointed Actuary should not be required to detail the determination of these assumptions in the AAR.\nOSFI disagrees with this comment as Appointed Actuaries are signing the opinion with respect to the appropriateness of the amount of policy liabilities for the purpose of IFRS 17. This would include all assumptions used in the development of the actuarial liabilities (whether under direct supervision of the Appointed Actuary or received by the Appointed Actuary).\nSome respondents asked if OSFI is expecting to have a separate request for the information on the Transition balance sheet as of December 31, 2022.\nInformation request with respect to the year of transition is outlined in section B.8.7 of the Life Memorandum and sections 6.9 and 6.19 of the P&C Memorandum. OSFI does not expect to have another separate request for information on the transition balance sheet.\nSome respondents suggested to replace “Confidence Level” with “Confidence Level (or Range)” and the allowance for the disclosure of a range of confidence level estimate for Risk Adjustment.\nOSFI acknowledges that some insurers may prefer to disclose a confidence range. However, it is difficult to track and identify the change of confidence level when only a range is provided without a point estimate of confidence level.\nTable: IFRS 17 Life Memorandum to the Appointed Actuary\nRespondents Comments | OSFI Response\nGeneral - Format of the supplementary tables\nSome respondents asked if they could modify the format of the tables in the supplementary table spreadsheet. | Respondents should not modify the format of the tables in the supplementary table spreadsheet. OSFI requires data in the specified format in order to retrieve data in a consistent manner for benchmarking.\nClarifications on Certain Sections of the IFRS 17 Life Memorandum\nSome respondents wanted to clarify if they are required to complete both Table 2.2a and 2.2b of the accompanying supplementary table spreadsheet for the risk adjustment information. | OSFI has revised the wording in the Memorandum, clarifying that the Appointed Actuary must complete Table 2.2a and/or 2.2b of the accompanying supplementary table spreadsheet for the risk adjustment information.\nSome respondents wanted to clarify why account payable/receivable (which should be included in the estimate of future cashflow) are not explicitly listed out in Table 4.1.2.1 of the accompanying supplementary table spreadsheet. | For items that should be included in Table 4.1.2.1 of the accompanying supplementary table but are not explicitly listed out, please input these items in the “other” column.\nSome respondents questioned the relevance of the information pertaining to Asset Liability Management under section B.6 of the Memorandum under the IFRS 17 regime. | OSFI believes that the risks associated with mismatches between asset and liability cash flows remains. The information provides insights into the insurers’ practices and continues to be useful.\nSome respondents requested clarification of OSFI’s expectation on providing the estimate of future cash flows or discount curves at CTE(0) where contracts are valued using stochastic valuation technique. | OSFI has revised the wording in the Memorandum. OSFI expects that the Appointed Actuary should provide the estimate of future cash flows or discount curves from a scenario that closely represents the conditional tail expectation at CTE(0) liability result.\nSome respondents asked if they could modify the format of the tables in the supplementary table spreadsheet.\nRespondents should not modify the format of the tables in the supplementary table spreadsheet. OSFI requires data in the specified format in order to retrieve data in a consistent manner for benchmarking.\nSome respondents wanted to clarify if they are required to complete both Table 2.2a and 2.2b of the accompanying supplementary table spreadsheet for the risk adjustment information.\nOSFI has revised the wording in the Memorandum, clarifying that the Appointed Actuary must complete Table 2.2a and/or 2.2b of the accompanying supplementary table spreadsheet for the risk adjustment information.\nSome respondents wanted to clarify why account payable/receivable (which should be included in the estimate of future cashflow) are not explicitly listed out in Table 4.1.2.1 of the accompanying supplementary table spreadsheet.\nFor items that should be included in Table 4.1.2.1 of the accompanying supplementary table but are not explicitly listed out, please input these items in the “other” column.\nSome respondents questioned the relevance of the information pertaining to Asset Liability Management under section B.6 of the Memorandum under the IFRS 17 regime.\nOSFI believes that the risks associated with mismatches between asset and liability cash flows remains. The information provides insights into the insurers’ practices and continues to be useful.\nSome respondents requested clarification of OSFI’s expectation on providing the estimate of future cash flows or discount curves at CTE(0) where contracts are valued using stochastic valuation technique.\nOSFI has revised the wording in the Memorandum. OSFI expects that the Appointed Actuary should provide the estimate of future cash flows or discount curves from a scenario that closely represents the conditional tail expectation at CTE(0) liability result.\nTable: IFRS 17 P&C Memorandum to the Appointed Actuary\nRespondents Comments | OSFI Response\nGeneral\nSome respondents expressed their view that the draft memorandum asks for a significant amount of description and rationale that may distract from the main objective of the AAR. | While the AAR helps OSFI understand the valuation of the insurance contract liabilities, OSFI collects and uses the detailed information for internal analysis and supervisory work purposes. After the first year (2023) of the implementation of IFRS 17, OSFI may consider to make further improvement for the Memorandum based on all the information collected.\nTransition\nSome respondents asked the level of details they need to discuss for the differences between IFRS 4 to IFRS 17 at transition for the first year of the implementation. | OSFI has removed such wording from the Memorandum as some insurers may not have an IFRS 4 balance sheet and income statement as of December 31, 2023.\nClarifications on Certain Sections of the IFRS 17 P&C Memorandum\nSome respondents expressed their view that OSFI’s requirement to compare the present value of the estimates of future cash flows between an entity’s discount rate and the reference curves in both the observable and the unobservable period is beyond the CIA’s expectation to compare the present value for the unobservable period only. | The Memorandum sets out OSFI’s requirements to the Appointed Actuary with respect to the AAR and OSFI would like to understand the difference between discount curves vs. reference curves and considers the reference curves as the benchmark curves.\nSome respondents suggested that Table 6.1 through 6.4 in the Section 6.14.4 of Comparison of Actual vs. Expected experience may be unnecessary. | OSFI acknowledges that some information requested may be obtained or calculated from other exhibits. However, it may not be the case as the content of the AAR differs from one AA to another which makes such a comparison difficult at actuarial line of business level. These tables will provide valuable information to OSFI's supervisory work in a standardized format.\nSome respondents suggested that OSFI may provide further clarification on the sections of 6.9 Classification of Contracts and 6.18 Liability Composition by IFRS Standards as Actuarial may not have the information. | OSFI understands that it may not apply to some P&C insurers. The AA can leave this section in blank if it is not applicable.\nSome insurers expressed their views that the choice between earned premiums and insurance revenue in the Unpaid Claims Loss Ratio Analysis Exhibit (UCLRE) could result in a loss of comparability. | OSFI acknowledges this issue. However, using the earned premiums for older years still provides useful information to OSFI.\nSome respondents expressed their view that the draft memorandum asks for a significant amount of description and rationale that may distract from the main objective of the AAR.\nWhile the AAR helps OSFI understand the valuation of the insurance contract liabilities, OSFI collects and uses the detailed information for internal analysis and supervisory work purposes.\nAfter the first year (2023) of the implementation of IFRS 17, OSFI may consider to make further improvement for the Memorandum based on all the information collected.\nSome respondents asked the level of details they need to discuss for the differences between IFRS 4 to IFRS 17 at transition for the first year of the implementation.\nOSFI has removed such wording from the Memorandum as some insurers may not have an IFRS 4 balance sheet and income statement as of December 31, 2023.\nSome respondents expressed their view that OSFI’s requirement to compare the present value of the estimates of future cash flows between an entity’s discount rate and the reference curves in both the observable and the unobservable period is beyond the CIA’s expectation to compare the present value for the unobservable period only.\nThe Memorandum sets out OSFI’s requirements to the Appointed Actuary with respect to the AAR and OSFI would like to understand the difference between discount curves vs. reference curves and considers the reference curves as the benchmark curves.\nSome respondents suggested that Table 6.1 through 6.4 in the Section 6.14.4 of Comparison of Actual vs. Expected experience may be unnecessary.\nOSFI acknowledges that some information requested may be obtained or calculated from other exhibits. However, it may not be the case as the content of the AAR differs from one AA to another which makes such a comparison difficult at actuarial line of business level. These tables will provide valuable information to OSFI's supervisory work in a standardized format.\nSome respondents suggested that OSFI may provide further clarification on the sections of 6.9 Classification of Contracts and 6.18 Liability Composition by IFRS Standards as Actuarial may not have the information.\nOSFI understands that it may not apply to some P&C insurers. The AA can leave this section in blank if it is not applicable.\nSome insurers expressed their views that the choice between earned premiums and insurance revenue in the Unpaid Claims Loss Ratio Analysis Exhibit (UCLRE) could result in a loss of comparability.\nOSFI acknowledges this issue. However, using the earned premiums for older years still provides useful information to OSFI.",
+      "content": [
+        {
+          "type": "table",
+          "caption": "IFRS 17 Life and P&C Memoranda to the Appointed Actuary",
+          "rows": [
+            [
+              "Respondents Comments",
+              "OSFI Response"
+            ],
+            [
+              "Filing Deadlines for the Appointed Actuary Report (AAR)"
+            ],
+            [
+              "Some respondents requested that OSFI extends the filing deadline for the AAR, as the changes made to the Memoranda are significant.",
+              "As the filing for the IFRS 17 AAR is in 2024, OSFI expects companies would have a reasonable amount of time to meet all the requirements. As such, OSFI will not extend the filing deadline for the AAR submission. If you have any further concerns about filing deadlines, please details your concerns to AARinquirylife@osfi-bsif.gc.ca for the Life Memorandum or AARinquiryPC@osfi-bsif.gc.ca for the P&C Memorandum."
+            ],
+            [
+              "Opinion of the Appointed Actuary"
+            ],
+            [
+              "Some respondents expressed their view that the Appointed Actuary has limited control over some of the assumptions used in the development of the actuarial liabilities (examples: determination of directly attributable expenses), and that Appointed Actuary should not be required to detail the determination of these assumptions in the AAR.",
+              "OSFI disagrees with this comment as Appointed Actuaries are signing the opinion with respect to the appropriateness of the amount of policy liabilities for the purpose of IFRS 17. This would include all assumptions used in the development of the actuarial liabilities (whether under direct supervision of the Appointed Actuary or received by the Appointed Actuary)."
+            ],
+            [
+              "Transition"
+            ],
+            [
+              "Some respondents asked if OSFI is expecting to have a separate request for the information on the Transition balance sheet as of December 31, 2022.",
+              "Information request with respect to the year of transition is outlined in section B.8.7 of the Life Memorandum and sections 6.9 and 6.19 of the P&C Memorandum. OSFI does not expect to have another separate request for information on the transition balance sheet."
+            ],
+            [
+              "Risk Adjustment Confidence Level Disclosure"
+            ],
+            [
+              "Some respondents suggested to replace “Confidence Level” with “Confidence Level (or Range)” and the allowance for the disclosure of a range of confidence level estimate for Risk Adjustment.",
+              "OSFI acknowledges that some insurers may prefer to disclose a confidence range. However, it is difficult to track and identify the change of confidence level when only a range is provided without a point estimate of confidence level."
+            ]
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Some respondents requested that OSFI extends the filing deadline for the AAR, as the changes made to the Memoranda are significant."
+        },
+        {
+          "type": "paragraph",
+          "text": "As the filing for the IFRS 17 AAR is in 2024, OSFI expects companies would have a reasonable amount of time to meet all the requirements. As such, OSFI will not extend the filing deadline for the AAR submission."
+        },
+        {
+          "type": "paragraph",
+          "text": "If you have any further concerns about filing deadlines, please details your concerns to AARinquirylife@osfi-bsif.gc.ca for the Life Memorandum or AARinquiryPC@osfi-bsif.gc.ca for the P&C Memorandum."
+        },
+        {
+          "type": "paragraph",
+          "text": "Some respondents expressed their view that the Appointed Actuary has limited control over some of the assumptions used in the development of the actuarial liabilities (examples: determination of directly attributable expenses), and that Appointed Actuary should not be required to detail the determination of these assumptions in the AAR."
+        },
+        {
+          "type": "paragraph",
+          "text": "OSFI disagrees with this comment as Appointed Actuaries are signing the opinion with respect to the appropriateness of the amount of policy liabilities for the purpose of IFRS 17. This would include all assumptions used in the development of the actuarial liabilities (whether under direct supervision of the Appointed Actuary or received by the Appointed Actuary)."
+        },
+        {
+          "type": "paragraph",
+          "text": "Some respondents asked if OSFI is expecting to have a separate request for the information on the Transition balance sheet as of December 31, 2022."
+        },
+        {
+          "type": "paragraph",
+          "text": "Information request with respect to the year of transition is outlined in section B.8.7 of the Life Memorandum and sections 6.9 and 6.19 of the P&C Memorandum. OSFI does not expect to have another separate request for information on the transition balance sheet."
+        },
+        {
+          "type": "paragraph",
+          "text": "Some respondents suggested to replace “Confidence Level” with “Confidence Level (or Range)” and the allowance for the disclosure of a range of confidence level estimate for Risk Adjustment."
+        },
+        {
+          "type": "paragraph",
+          "text": "OSFI acknowledges that some insurers may prefer to disclose a confidence range. However, it is difficult to track and identify the change of confidence level when only a range is provided without a point estimate of confidence level."
+        },
+        {
+          "type": "table",
+          "caption": "IFRS 17 Life Memorandum to the Appointed Actuary",
+          "rows": [
+            [
+              "Respondents Comments",
+              "OSFI Response"
+            ],
+            [
+              "General - Format of the supplementary tables"
+            ],
+            [
+              "Some respondents asked if they could modify the format of the tables in the supplementary table spreadsheet.",
+              "Respondents should not modify the format of the tables in the supplementary table spreadsheet. OSFI requires data in the specified format in order to retrieve data in a consistent manner for benchmarking."
+            ],
+            [
+              "Clarifications on Certain Sections of the IFRS 17 Life Memorandum"
+            ],
+            [
+              "Some respondents wanted to clarify if they are required to complete both Table 2.2a and 2.2b of the accompanying supplementary table spreadsheet for the risk adjustment information.",
+              "OSFI has revised the wording in the Memorandum, clarifying that the Appointed Actuary must complete Table 2.2a and/or 2.2b of the accompanying supplementary table spreadsheet for the risk adjustment information."
+            ],
+            [
+              "Some respondents wanted to clarify why account payable/receivable (which should be included in the estimate of future cashflow) are not explicitly listed out in Table 4.1.2.1 of the accompanying supplementary table spreadsheet.",
+              "For items that should be included in Table 4.1.2.1 of the accompanying supplementary table but are not explicitly listed out, please input these items in the “other” column."
+            ],
+            [
+              "Some respondents questioned the relevance of the information pertaining to Asset Liability Management under section B.6 of the Memorandum under the IFRS 17 regime.",
+              "OSFI believes that the risks associated with mismatches between asset and liability cash flows remains. The information provides insights into the insurers’ practices and continues to be useful."
+            ],
+            [
+              "Some respondents requested clarification of OSFI’s expectation on providing the estimate of future cash flows or discount curves at CTE(0) where contracts are valued using stochastic valuation technique.",
+              "OSFI has revised the wording in the Memorandum. OSFI expects that the Appointed Actuary should provide the estimate of future cash flows or discount curves from a scenario that closely represents the conditional tail expectation at CTE(0) liability result."
+            ]
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Some respondents asked if they could modify the format of the tables in the supplementary table spreadsheet."
+        },
+        {
+          "type": "paragraph",
+          "text": "Respondents should not modify the format of the tables in the supplementary table spreadsheet. OSFI requires data in the specified format in order to retrieve data in a consistent manner for benchmarking."
+        },
+        {
+          "type": "paragraph",
+          "text": "Some respondents wanted to clarify if they are required to complete both Table 2.2a and 2.2b of the accompanying supplementary table spreadsheet for the risk adjustment information."
+        },
+        {
+          "type": "paragraph",
+          "text": "OSFI has revised the wording in the Memorandum, clarifying that the Appointed Actuary must complete Table 2.2a and/or 2.2b of the accompanying supplementary table spreadsheet for the risk adjustment information."
+        },
+        {
+          "type": "paragraph",
+          "text": "Some respondents wanted to clarify why account payable/receivable (which should be included in the estimate of future cashflow) are not explicitly listed out in Table 4.1.2.1 of the accompanying supplementary table spreadsheet."
+        },
+        {
+          "type": "paragraph",
+          "text": "For items that should be included in Table 4.1.2.1 of the accompanying supplementary table but are not explicitly listed out, please input these items in the “other” column."
+        },
+        {
+          "type": "paragraph",
+          "text": "Some respondents questioned the relevance of the information pertaining to Asset Liability Management under section B.6 of the Memorandum under the IFRS 17 regime."
+        },
+        {
+          "type": "paragraph",
+          "text": "OSFI believes that the risks associated with mismatches between asset and liability cash flows remains. The information provides insights into the insurers’ practices and continues to be useful."
+        },
+        {
+          "type": "paragraph",
+          "text": "Some respondents requested clarification of OSFI’s expectation on providing the estimate of future cash flows or discount curves at CTE(0) where contracts are valued using stochastic valuation technique."
+        },
+        {
+          "type": "paragraph",
+          "text": "OSFI has revised the wording in the Memorandum. OSFI expects that the Appointed Actuary should provide the estimate of future cash flows or discount curves from a scenario that closely represents the conditional tail expectation at CTE(0) liability result."
+        },
+        {
+          "type": "table",
+          "caption": "IFRS 17 P&C Memorandum to the Appointed Actuary",
+          "rows": [
+            [
+              "Respondents Comments",
+              "OSFI Response"
+            ],
+            [
+              "General"
+            ],
+            [
+              "Some respondents expressed their view that the draft memorandum asks for a significant amount of description and rationale that may distract from the main objective of the AAR.",
+              "While the AAR helps OSFI understand the valuation of the insurance contract liabilities, OSFI collects and uses the detailed information for internal analysis and supervisory work purposes. After the first year (2023) of the implementation of IFRS 17, OSFI may consider to make further improvement for the Memorandum based on all the information collected."
+            ],
+            [
+              "Transition"
+            ],
+            [
+              "Some respondents asked the level of details they need to discuss for the differences between IFRS 4 to IFRS 17 at transition for the first year of the implementation.",
+              "OSFI has removed such wording from the Memorandum as some insurers may not have an IFRS 4 balance sheet and income statement as of December 31, 2023."
+            ],
+            [
+              "Clarifications on Certain Sections of the IFRS 17 P&C Memorandum"
+            ],
+            [
+              "Some respondents expressed their view that OSFI’s requirement to compare the present value of the estimates of future cash flows between an entity’s discount rate and the reference curves in both the observable and the unobservable period is beyond the CIA’s expectation to compare the present value for the unobservable period only.",
+              "The Memorandum sets out OSFI’s requirements to the Appointed Actuary with respect to the AAR and OSFI would like to understand the difference between discount curves vs. reference curves and considers the reference curves as the benchmark curves."
+            ],
+            [
+              "Some respondents suggested that Table 6.1 through 6.4 in the Section 6.14.4 of Comparison of Actual vs. Expected experience may be unnecessary.",
+              "OSFI acknowledges that some information requested may be obtained or calculated from other exhibits. However, it may not be the case as the content of the AAR differs from one AA to another which makes such a comparison difficult at actuarial line of business level. These tables will provide valuable information to OSFI's supervisory work in a standardized format."
+            ],
+            [
+              "Some respondents suggested that OSFI may provide further clarification on the sections of 6.9 Classification of Contracts and 6.18 Liability Composition by IFRS Standards as Actuarial may not have the information.",
+              "OSFI understands that it may not apply to some P&C insurers. The AA can leave this section in blank if it is not applicable."
+            ],
+            [
+              "Some insurers expressed their views that the choice between earned premiums and insurance revenue in the Unpaid Claims Loss Ratio Analysis Exhibit (UCLRE) could result in a loss of comparability.",
+              "OSFI acknowledges this issue. However, using the earned premiums for older years still provides useful information to OSFI."
+            ]
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Some respondents expressed their view that the draft memorandum asks for a significant amount of description and rationale that may distract from the main objective of the AAR."
+        },
+        {
+          "type": "paragraph",
+          "text": "While the AAR helps OSFI understand the valuation of the insurance contract liabilities, OSFI collects and uses the detailed information for internal analysis and supervisory work purposes."
+        },
+        {
+          "type": "paragraph",
+          "text": "After the first year (2023) of the implementation of IFRS 17, OSFI may consider to make further improvement for the Memorandum based on all the information collected."
+        },
+        {
+          "type": "paragraph",
+          "text": "Some respondents asked the level of details they need to discuss for the differences between IFRS 4 to IFRS 17 at transition for the first year of the implementation."
+        },
+        {
+          "type": "paragraph",
+          "text": "OSFI has removed such wording from the Memorandum as some insurers may not have an IFRS 4 balance sheet and income statement as of December 31, 2023."
+        },
+        {
+          "type": "paragraph",
+          "text": "Some respondents expressed their view that OSFI’s requirement to compare the present value of the estimates of future cash flows between an entity’s discount rate and the reference curves in both the observable and the unobservable period is beyond the CIA’s expectation to compare the present value for the unobservable period only."
+        },
+        {
+          "type": "paragraph",
+          "text": "The Memorandum sets out OSFI’s requirements to the Appointed Actuary with respect to the AAR and OSFI would like to understand the difference between discount curves vs. reference curves and considers the reference curves as the benchmark curves."
+        },
+        {
+          "type": "paragraph",
+          "text": "Some respondents suggested that Table 6.1 through 6.4 in the Section 6.14.4 of Comparison of Actual vs. Expected experience may be unnecessary."
+        },
+        {
+          "type": "paragraph",
+          "text": "OSFI acknowledges that some information requested may be obtained or calculated from other exhibits. However, it may not be the case as the content of the AAR differs from one AA to another which makes such a comparison difficult at actuarial line of business level. These tables will provide valuable information to OSFI's supervisory work in a standardized format."
+        },
+        {
+          "type": "paragraph",
+          "text": "Some respondents suggested that OSFI may provide further clarification on the sections of 6.9 Classification of Contracts and 6.18 Liability Composition by IFRS Standards as Actuarial may not have the information."
+        },
+        {
+          "type": "paragraph",
+          "text": "OSFI understands that it may not apply to some P&C insurers. The AA can leave this section in blank if it is not applicable."
+        },
+        {
+          "type": "paragraph",
+          "text": "Some insurers expressed their views that the choice between earned premiums and insurance revenue in the Unpaid Claims Loss Ratio Analysis Exhibit (UCLRE) could result in a loss of comparability."
+        },
+        {
+          "type": "paragraph",
+          "text": "OSFI acknowledges this issue. However, using the earned premiums for older years still provides useful information to OSFI."
+        }
+      ]
+    }
+  ],
+  "title_normalized": "final ifrs 17 memoranda to the appointed actuary for fris",
+  "publication_type_normalized": "letter",
+  "category_normalized": "",
+  "sector_normalized": [],
+  "guideline_number_normalized": "",
+  "applies_to_banks": false,
+  "applies_to_trust_loan": false,
+  "applies_to_life_insurance": false,
+  "applies_to_pc_insurance": false,
+  "applies_to_foreign_bank": false,
+  "applies_to_foreign_insurance": false,
+  "applies_to_cooperative": false,
+  "applies_to_bank_holding": false,
+  "effective_date_sort_key": "2022-11-09",
+  "status_sort_key": 1,
+  "authority_sort_key": 60,
+  "bm25_text": "Final IFRS 17 Memoranda to The Appointed Actuary for FRIs Letter Annex: Summary of March 2022 Consultation Comments and OSFI Responses",
+  "vector_text_prefix": "[OSFI Letter  |  |  | FINAL_CURRENT | Effective 2022-11-09]",
+  "h1_title": "Final IFRS 17 Memoranda to The Appointed Actuary for FRIs",
+  "regulator": "OSFI",
+  "regulator_acronym": "OSFI",
+  "jurisdiction": "Canada",
+  "short_title": "",
+  "source_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/final-ifrs-17-memoranda-appointed-actuary-fris"
+}

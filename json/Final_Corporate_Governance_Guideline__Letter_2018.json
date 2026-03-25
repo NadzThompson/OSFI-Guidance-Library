@@ -1,0 +1,372 @@
+{
+  "source_system": "osfi_guidance_library",
+  "library_row_title": "Final Corporate Governance Guideline – Letter (2018)",
+  "library_row_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/final-corporate-governance-guideline-letter-2018",
+  "listing_date_raw": "September 18, 2018",
+  "listing_date_iso": "2018-09-18",
+  "listing_publication_type": "Letter",
+  "listing_category": "",
+  "listing_sector": [
+    "Banks",
+    "Foreign Bank Branches",
+    "Life Insurance and Fraternal Companies",
+    "Property and Casualty Companies",
+    "Trust and Loan Companies"
+  ],
+  "crawl_timestamp": "2026-03-11T00:00:00Z",
+  "detail_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/final-corporate-governance-guideline-letter-2018",
+  "canonical_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/final-corporate-governance-guideline-letter-2018",
+  "slug": "final-corporate-governance-guideline-letter-2018",
+  "title": "Final Corporate Governance Guideline – Letter (2018)",
+  "publication_type": "Letter",
+  "category": "",
+  "document_date_raw": "September 18, 2018",
+  "document_date_iso": "2018-09-18",
+  "sector": [
+    "Banks",
+    "Foreign Bank Branches",
+    "Life Insurance and Fraternal Companies",
+    "Property and Casualty Companies",
+    "Trust and Loan Companies"
+  ],
+  "effective_date_text": "",
+  "guideline_number": "",
+  "date_modified_raw": "2018-09-18T12:00:00Z",
+  "generate_pdf_url": "https://www.osfi-bsif.gc.ca/en/print/pdf/node/357",
+  "pdf_node_id": 357,
+  "direct_pdf_url": null,
+  "has_table_of_contents": true,
+  "toc_entries": [],
+  "has_related_documents": false,
+  "related_document_links_raw": [],
+  "consultation_status_text": null,
+  "consultation_status_refers_to_version": null,
+  "page_language": "en",
+  "word_count_raw_body": 1636,
+  "doc_id": "osfi.corporate_governance.2018.transmittal",
+  "doc_family_id": "osfi.corporate_governance",
+  "version_id": "2018",
+  "version_label": "Final Corporate Governance Guideline – Letter (2018)",
+  "version_sort_key": "2018-09",
+  "parent_doc_id": null,
+  "child_doc_ids": [],
+  "is_package_page": false,
+  "is_chapter_page": false,
+  "chapter_number": null,
+  "chapter_title": null,
+  "document_order_within_family": 0,
+  "supersedes_doc_id": null,
+  "superseded_by_doc_id": null,
+  "current_version_flag": true,
+  "status": "final_current",
+  "include_in_primary_corpus": false,
+  "include_in_support_corpus": true,
+  "include_in_context_corpus": false,
+  "effective_date_start": "2018-09-18",
+  "effective_date_end": null,
+  "effective_date_fye_split": false,
+  "effective_date_oct_fye": null,
+  "effective_date_dec_fye": null,
+  "is_future_effective": false,
+  "is_rescinded": false,
+  "is_draft_or_consultation": false,
+  "rescission_date": null,
+  "consultation_closing_date": null,
+  "as_of_applicability": "2026-03-23",
+  "rule_applied": "rule_5_final_current",
+  "authority_class": "official_support",
+  "authority_level": 60,
+  "nova_tier": 2,
+  "prudential_weight": 0.7,
+  "is_primary_normative": false,
+  "is_supporting_interpretive": true,
+  "is_context_only": false,
+  "document_class": "transmittal_letter",
+  "guidance_type_normalized": "letter",
+  "section_headings": [
+    {
+      "level": 2,
+      "text": "Annex – Summary of Public Consultation Comments and OSFI Responses",
+      "id": "h2-0"
+    }
+  ],
+  "heading_path": [
+    "Final Corporate Governance Guideline – Letter (2018)"
+  ],
+  "toc_depth": 2,
+  "has_appendices": false,
+  "appendix_ids": [],
+  "has_tables": true,
+  "table_count": 1,
+  "has_footnotes": false,
+  "footnote_count": 0,
+  "inline_cross_references": [],
+  "quoted_external_references": [],
+  "raw_html_sha256": "1d00685e2c180455f8f6b7d18c5a9544230b86fd54aa1728152f18052b220ca6",
+  "raw_pdf_sha256": null,
+  "normalized_text_sha256": null,
+  "raw_html_path": "bronze/osfi/html/final_current/final-corporate-governance-guideline-letter-2018.html",
+  "normalized_md_path": "silver/osfi/md/final_current/final-corporate-governance-guideline-letter-2018.md",
+  "canonical_json_path": "silver/osfi/json/final_current/final-corporate-governance-guideline-letter-2018.json",
+  "content_source": "HTML",
+  "parser_version": "osfi-parser-v2.1.0",
+  "normalizer_version": "osfi-normalizer-v1.4.0",
+  "quality_score": 1.0,
+  "quality_flags": [],
+  "download_timestamp": "2026-03-11T00:00:00Z",
+  "enriched_timestamp": "2026-03-23T09:53:51.345611Z",
+  "sections": [
+    {
+      "heading": "",
+      "heading_level": 2,
+      "full_text": "  - Corporate Governance – Guideline (2018)\nTo: Federally-Regulated Financial Institutions (FRFIs)\nOSFI is issuing the final version of the Corporate Governance Guideline (CGG).\nThe revised CGG is more principles-based and places greater focus on Board effectiveness. It provides Boards of Directors with greater discretion as to how they meet OSFI’s corporate governance expectations.\nThe revised CGG contains clear principles that replace OSFI’s Board expectations contained in risk management and capital guidelines and advisories. As a result, OSFI is reissuing these other guidance documents with their respective Board requirements removed. The revised guidelines and advisories have been posted to OSFI’s website.\nOSFI has also rescinded the Advisory – Changes to the Membership of the Board and Senior Management , and revised its Assessment Criteria to align with the revised CGG.\nThe CGG does not apply to the Canadian branch operations of foreign financial institutions, and OSFI’s expectations for oversight of these operations remains unchanged. However, OSFI plans to review and amend guidelines E-4A Role of the Chief Agent & Record Keeping Requirements and E-4B Role of the Principal Officer & Record Keeping Requirements in the near future.\nOSFI thanks those who provided comments on the draft version of the CGG published in November 2017. The annex to this letter summarizes the material comments provided and OSFI’s response.\nQuestions may be directed to Vlasios Melessanakis, Director, Prudential Policy at vlasios.melessanakis@osfi-bsif.gc.ca or by telephone at (613) 998-5478. OSFI will be conducting information seminars for FRFI directors and corporate secretaries in fall 2018. Details will follow.\nCarolyn Rogers Assistant Superintendent Regulation Sector",
+      "content": [
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Corporate Governance – Guideline (2018)"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "To: Federally-Regulated Financial Institutions (FRFIs)"
+        },
+        {
+          "type": "paragraph",
+          "text": "OSFI is issuing the final version of the Corporate Governance Guideline (CGG)."
+        },
+        {
+          "type": "paragraph",
+          "text": "The revised CGG is more principles-based and places greater focus on Board effectiveness. It provides Boards of Directors with greater discretion as to how they meet OSFI’s corporate governance expectations."
+        },
+        {
+          "type": "paragraph",
+          "text": "The revised CGG contains clear principles that replace OSFI’s Board expectations contained in risk management and capital guidelines and advisories. As a result, OSFI is reissuing these other guidance documents with their respective Board requirements removed. The revised guidelines and advisories have been posted to OSFI’s website."
+        },
+        {
+          "type": "paragraph",
+          "text": "OSFI has also rescinded the Advisory – Changes to the Membership of the Board and Senior Management , and revised its Assessment Criteria to align with the revised CGG."
+        },
+        {
+          "type": "paragraph",
+          "text": "The CGG does not apply to the Canadian branch operations of foreign financial institutions, and OSFI’s expectations for oversight of these operations remains unchanged. However, OSFI plans to review and amend guidelines E-4A Role of the Chief Agent & Record Keeping Requirements and E-4B Role of the Principal Officer & Record Keeping Requirements in the near future."
+        },
+        {
+          "type": "paragraph",
+          "text": "OSFI thanks those who provided comments on the draft version of the CGG published in November 2017. The annex to this letter summarizes the material comments provided and OSFI’s response."
+        },
+        {
+          "type": "paragraph",
+          "text": "Questions may be directed to Vlasios Melessanakis, Director, Prudential Policy at vlasios.melessanakis@osfi-bsif.gc.ca or by telephone at (613) 998-5478. OSFI will be conducting information seminars for FRFI directors and corporate secretaries in fall 2018. Details will follow."
+        },
+        {
+          "type": "paragraph",
+          "text": "Carolyn Rogers Assistant Superintendent Regulation Sector"
+        }
+      ]
+    },
+    {
+      "heading": "Annex – Summary of Public Consultation Comments and OSFI Responses",
+      "heading_level": 2,
+      "full_text": "Industry Comments | OSFI Response\nPurpose and Scope of the Guideline\nIndustry members requested that OSFI define certain terms (i.e., Senior Management, Operational Management, and Oversight Functions) directly in the CGG. Respondents also requested that if there are references that should refer to the full Board, that these be explicit in the CGG. | FRFIs should continue to rely on OSFI’s Supervisory Framework for these definitions; however, the final CGG includes minor revisions to ensure clarity: The guideline specifies that the Oversight Functions include Financial, Risk Management, Compliance, Internal Audit, and Actuarial. The description of Senior Management has been refined to ensure permissive and flexible language. The CGG does not prescribe which responsibilities should be fulfilled by the full Board (vs. a Committee) as this may depend on the size, nature and complexity of the institution. A footnote that stated the term “Board” could refer to the entire Board or a committee of the Board has been removed from the final CGG.\nBoard of Directors\nRespondents viewed the footnote suggesting COSO as a general reference for effective Internal Control Frameworks as problematic, particularly for smaller, less complex institutions. | OSFI recognizes that there may be other suitable options depending on the size, nature and complexity of the institution. Accordingly, this footnote has been removed from the final CGG.\nSome respondents expressed concern regarding the need for the Oversight Functions to be independent from operational management, as well as the appropriateness of a direct reporting line. | OSFI expects the Oversight Functions to remain independent from operational management. The final CGG specifies a functional reporting line rather than a direct one.\nRespondents noted that the references to “practices and procedures” within the Boards of Subsidiaries or with FRFI Subsidiaries sub-section went beyond the scope of reasonable Board involvement. Furthermore, respondents remarked that qualifying language (i.e. “that govern strategy, risk oversight, and controls”) was too restrictive. | The references to “practices and procedures” and “strategy, risk oversight, and controls” have been removed from this section of the final CGG, to ensure the language remains flexible and permissive.\nSeveral respondents requested clarity regarding Board independence. One respondent also indicated that ‘tenure’ should not be part of the director independence policy. | In keeping with a principles and outcomes-based approach, the final CGG does not define independence. OSFI will hold industry information sessions to provide additional guidance regarding supervisory expectations in this area. OSFI maintains that tenure should be a consideration in the FRFI’s director independence policy.\nRisk Governance\nAn industry member suggested incorporating the notion of “risk profile” in relation to the Risk Appetite Framework. | The final CGG recognizes that the Risk Appetite Framework should take into account the FRFI’s risk profile. It also notes that the FRFI should be satisfied, on an ongoing basis, that the Risk Appetite Framework remains appropriate relative to its risk profile, long-term strategic plan and operating environment.\nOne respondent indicated that the CRO should not be treated differently with regards to compensation. | The CRO’s independence from the FRFI’s business operations is vital. OSFI maintains that the CRO’s compensation should not be linked to the performance (e.g. revenue generation) of specific business lines of the FRFI.\nOne respondent suggested that in cases where executives have dual roles, those roles must not compromise the independence required of the CRO. | Footnote 15 has been expanded to clarify that the independence of the CRO must not compromised if the CRO fulfills dual roles.\nThe Role of the Audit Committee\nThere were a number of suggestions to refine the AC section, notably: Recognizing the need for an integrated audit approach between subsidiaries and parents; Specifying in camera AC meetings with relevant parties; and Clarifying the role of the AC vis-à-vis the Board. | OSFI maintains that subsidiaries and parents should have the flexibility to determine their audit requirements, provided they comply with the requirements under the Boards of Subsidiaries or with FRFI Subsidiaries sub-section. The final CGG largely adopts the other revisions to clarify the role of the AC vis-à-vis the Board. It also specifies that the AC should meet with the external auditor, the CIA and other heads of the Oversight Functions, as appropriate, with and without the CEO or other members of Senior Management present.\nSupervision of FRFIs\nThe industry requested clarity on how assessments will be undertaken and, specifically, further details on the evaluation criteria to assess the Board’s behaviour and effectiveness. | OSFI will hold industry information sessions in order to provide clarity in this regard.\nGeneral\nIndustry asked to review the revised capital and risk management guidance, and to learn how the review of the CGG will influence E-4A revisions. | OSFI held targeted consultations with industry groups on the proposed amendments to capital and risk management guidance.\nRespondents requested clarity on a number of terms such as “culture”, “oversee”, “challenge, advice, and guidance”, “satisfied”, “sufficient stature and authority”, “adopt”, “diversity”, and “small, less complex”. | In keeping with a principles and outcomes-based approach, the final CGG does not define these terms to ensure flexibility and avoid prescription. OSFI will provide industry information sessions to provide additional guidance regarding supervisory expectations in these areas.\nMany respondents provided a number of proposed edits for consistency, clarity, and completeness. | The final guideline incorporates the majority of these proposals, except in cases where edits resulted in added prescription or were not consistent with the approach.\nIndustry members requested that OSFI define certain terms (i.e., Senior Management, Operational Management, and Oversight Functions) directly in the CGG. Respondents also requested that if there are references that should refer to the full Board, that these be explicit in the CGG.\nFRFIs should continue to rely on OSFI’s Supervisory Framework for these definitions; however, the final CGG includes minor revisions to ensure clarity:\n  - The guideline specifies that the Oversight Functions include Financial, Risk Management, Compliance, Internal Audit, and Actuarial.\n  - The description of Senior Management has been refined to ensure permissive and flexible language.\nRespondents viewed the footnote suggesting COSO as a general reference for effective Internal Control Frameworks as problematic, particularly for smaller, less complex institutions.\nSome respondents expressed concern regarding the need for the Oversight Functions to be independent from operational management, as well as the appropriateness of a direct reporting line.\nOSFI expects the Oversight Functions to remain independent from operational management. The final CGG specifies a functional reporting line rather than a direct one.\nRespondents noted that the references to “practices and procedures” within the Boards of Subsidiaries or with FRFI Subsidiaries sub-section went beyond the scope of reasonable Board involvement. Furthermore, respondents remarked that qualifying language (i.e. “that govern strategy, risk oversight, and controls”) was too restrictive.\nThe references to “practices and procedures” and “strategy, risk oversight, and controls” have been removed from this section of the final CGG, to ensure the language remains flexible and permissive.\nSeveral respondents requested clarity regarding Board independence. One respondent also indicated that ‘tenure’ should not be part of the director independence policy.\nIn keeping with a principles and outcomes-based approach, the final CGG does not define independence. OSFI will hold industry information sessions to provide additional guidance regarding supervisory expectations in this area.\nOSFI maintains that tenure should be a consideration in the FRFI’s director independence policy.\nAn industry member suggested incorporating the notion of “risk profile” in relation to the Risk Appetite Framework.\nOne respondent indicated that the CRO should not be treated differently with regards to compensation.\nOne respondent suggested that in cases where executives have dual roles, those roles must not compromise the independence required of the CRO.\nThere were a number of suggestions to refine the AC section, notably:\n  - Recognizing the need for an integrated audit approach between subsidiaries and parents;\n  - Specifying in camera AC meetings with relevant parties; and\n  - Clarifying the role of the AC vis-à-vis the Board.\nOSFI maintains that subsidiaries and parents should have the flexibility to determine their audit requirements, provided they comply with the requirements under the Boards of Subsidiaries or with FRFI Subsidiaries sub-section.\nIn keeping with a principles and outcomes-based approach, the final CGG does not define these terms to ensure flexibility and avoid prescription.\nOSFI will provide industry information sessions to provide additional guidance regarding supervisory expectations in these areas.",
+      "content": [
+        {
+          "type": "table",
+          "caption": "",
+          "rows": [
+            [
+              "Industry Comments",
+              "OSFI Response"
+            ],
+            [
+              "Purpose and Scope of the Guideline"
+            ],
+            [
+              "Industry members requested that OSFI define certain terms (i.e., Senior Management, Operational Management, and Oversight Functions) directly in the CGG. Respondents also requested that if there are references that should refer to the full Board, that these be explicit in the CGG.",
+              "FRFIs should continue to rely on OSFI’s Supervisory Framework for these definitions; however, the final CGG includes minor revisions to ensure clarity: The guideline specifies that the Oversight Functions include Financial, Risk Management, Compliance, Internal Audit, and Actuarial. The description of Senior Management has been refined to ensure permissive and flexible language. The CGG does not prescribe which responsibilities should be fulfilled by the full Board (vs. a Committee) as this may depend on the size, nature and complexity of the institution. A footnote that stated the term “Board” could refer to the entire Board or a committee of the Board has been removed from the final CGG."
+            ],
+            [
+              "Board of Directors"
+            ],
+            [
+              "Respondents viewed the footnote suggesting COSO as a general reference for effective Internal Control Frameworks as problematic, particularly for smaller, less complex institutions.",
+              "OSFI recognizes that there may be other suitable options depending on the size, nature and complexity of the institution. Accordingly, this footnote has been removed from the final CGG."
+            ],
+            [
+              "Some respondents expressed concern regarding the need for the Oversight Functions to be independent from operational management, as well as the appropriateness of a direct reporting line.",
+              "OSFI expects the Oversight Functions to remain independent from operational management. The final CGG specifies a functional reporting line rather than a direct one."
+            ],
+            [
+              "Respondents noted that the references to “practices and procedures” within the Boards of Subsidiaries or with FRFI Subsidiaries sub-section went beyond the scope of reasonable Board involvement. Furthermore, respondents remarked that qualifying language (i.e. “that govern strategy, risk oversight, and controls”) was too restrictive.",
+              "The references to “practices and procedures” and “strategy, risk oversight, and controls” have been removed from this section of the final CGG, to ensure the language remains flexible and permissive."
+            ],
+            [
+              "Several respondents requested clarity regarding Board independence. One respondent also indicated that ‘tenure’ should not be part of the director independence policy.",
+              "In keeping with a principles and outcomes-based approach, the final CGG does not define independence. OSFI will hold industry information sessions to provide additional guidance regarding supervisory expectations in this area. OSFI maintains that tenure should be a consideration in the FRFI’s director independence policy."
+            ],
+            [
+              "Risk Governance"
+            ],
+            [
+              "An industry member suggested incorporating the notion of “risk profile” in relation to the Risk Appetite Framework.",
+              "The final CGG recognizes that the Risk Appetite Framework should take into account the FRFI’s risk profile. It also notes that the FRFI should be satisfied, on an ongoing basis, that the Risk Appetite Framework remains appropriate relative to its risk profile, long-term strategic plan and operating environment."
+            ],
+            [
+              "One respondent indicated that the CRO should not be treated differently with regards to compensation.",
+              "The CRO’s independence from the FRFI’s business operations is vital. OSFI maintains that the CRO’s compensation should not be linked to the performance (e.g. revenue generation) of specific business lines of the FRFI."
+            ],
+            [
+              "One respondent suggested that in cases where executives have dual roles, those roles must not compromise the independence required of the CRO.",
+              "Footnote 15 has been expanded to clarify that the independence of the CRO must not compromised if the CRO fulfills dual roles."
+            ],
+            [
+              "The Role of the Audit Committee"
+            ],
+            [
+              "There were a number of suggestions to refine the AC section, notably: Recognizing the need for an integrated audit approach between subsidiaries and parents; Specifying in camera AC meetings with relevant parties; and Clarifying the role of the AC vis-à-vis the Board.",
+              "OSFI maintains that subsidiaries and parents should have the flexibility to determine their audit requirements, provided they comply with the requirements under the Boards of Subsidiaries or with FRFI Subsidiaries sub-section. The final CGG largely adopts the other revisions to clarify the role of the AC vis-à-vis the Board. It also specifies that the AC should meet with the external auditor, the CIA and other heads of the Oversight Functions, as appropriate, with and without the CEO or other members of Senior Management present."
+            ],
+            [
+              "Supervision of FRFIs"
+            ],
+            [
+              "The industry requested clarity on how assessments will be undertaken and, specifically, further details on the evaluation criteria to assess the Board’s behaviour and effectiveness.",
+              "OSFI will hold industry information sessions in order to provide clarity in this regard."
+            ],
+            [
+              "General"
+            ],
+            [
+              "Industry asked to review the revised capital and risk management guidance, and to learn how the review of the CGG will influence E-4A revisions.",
+              "OSFI held targeted consultations with industry groups on the proposed amendments to capital and risk management guidance."
+            ],
+            [
+              "Respondents requested clarity on a number of terms such as “culture”, “oversee”, “challenge, advice, and guidance”, “satisfied”, “sufficient stature and authority”, “adopt”, “diversity”, and “small, less complex”.",
+              "In keeping with a principles and outcomes-based approach, the final CGG does not define these terms to ensure flexibility and avoid prescription. OSFI will provide industry information sessions to provide additional guidance regarding supervisory expectations in these areas."
+            ],
+            [
+              "Many respondents provided a number of proposed edits for consistency, clarity, and completeness.",
+              "The final guideline incorporates the majority of these proposals, except in cases where edits resulted in added prescription or were not consistent with the approach."
+            ]
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Industry members requested that OSFI define certain terms (i.e., Senior Management, Operational Management, and Oversight Functions) directly in the CGG. Respondents also requested that if there are references that should refer to the full Board, that these be explicit in the CGG."
+        },
+        {
+          "type": "paragraph",
+          "text": "FRFIs should continue to rely on OSFI’s Supervisory Framework for these definitions; however, the final CGG includes minor revisions to ensure clarity:"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "The guideline specifies that the Oversight Functions include Financial, Risk Management, Compliance, Internal Audit, and Actuarial.",
+            "The description of Senior Management has been refined to ensure permissive and flexible language."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Respondents viewed the footnote suggesting COSO as a general reference for effective Internal Control Frameworks as problematic, particularly for smaller, less complex institutions."
+        },
+        {
+          "type": "paragraph",
+          "text": "Some respondents expressed concern regarding the need for the Oversight Functions to be independent from operational management, as well as the appropriateness of a direct reporting line."
+        },
+        {
+          "type": "paragraph",
+          "text": "OSFI expects the Oversight Functions to remain independent from operational management. The final CGG specifies a functional reporting line rather than a direct one."
+        },
+        {
+          "type": "paragraph",
+          "text": "Respondents noted that the references to “practices and procedures” within the Boards of Subsidiaries or with FRFI Subsidiaries sub-section went beyond the scope of reasonable Board involvement. Furthermore, respondents remarked that qualifying language (i.e. “that govern strategy, risk oversight, and controls”) was too restrictive."
+        },
+        {
+          "type": "paragraph",
+          "text": "The references to “practices and procedures” and “strategy, risk oversight, and controls” have been removed from this section of the final CGG, to ensure the language remains flexible and permissive."
+        },
+        {
+          "type": "paragraph",
+          "text": "Several respondents requested clarity regarding Board independence. One respondent also indicated that ‘tenure’ should not be part of the director independence policy."
+        },
+        {
+          "type": "paragraph",
+          "text": "In keeping with a principles and outcomes-based approach, the final CGG does not define independence. OSFI will hold industry information sessions to provide additional guidance regarding supervisory expectations in this area."
+        },
+        {
+          "type": "paragraph",
+          "text": "OSFI maintains that tenure should be a consideration in the FRFI’s director independence policy."
+        },
+        {
+          "type": "paragraph",
+          "text": "An industry member suggested incorporating the notion of “risk profile” in relation to the Risk Appetite Framework."
+        },
+        {
+          "type": "paragraph",
+          "text": "One respondent indicated that the CRO should not be treated differently with regards to compensation."
+        },
+        {
+          "type": "paragraph",
+          "text": "One respondent suggested that in cases where executives have dual roles, those roles must not compromise the independence required of the CRO."
+        },
+        {
+          "type": "paragraph",
+          "text": "There were a number of suggestions to refine the AC section, notably:"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Recognizing the need for an integrated audit approach between subsidiaries and parents;",
+            "Specifying in camera AC meetings with relevant parties; and",
+            "Clarifying the role of the AC vis-à-vis the Board."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "OSFI maintains that subsidiaries and parents should have the flexibility to determine their audit requirements, provided they comply with the requirements under the Boards of Subsidiaries or with FRFI Subsidiaries sub-section."
+        },
+        {
+          "type": "paragraph",
+          "text": "In keeping with a principles and outcomes-based approach, the final CGG does not define these terms to ensure flexibility and avoid prescription."
+        },
+        {
+          "type": "paragraph",
+          "text": "OSFI will provide industry information sessions to provide additional guidance regarding supervisory expectations in these areas."
+        }
+      ]
+    }
+  ],
+  "title_normalized": "final corporate governance guideline letter 2018",
+  "publication_type_normalized": "letter",
+  "category_normalized": "",
+  "sector_normalized": [
+    "banks",
+    "foreign_bank_branches",
+    "life_insurance",
+    "pc_insurance",
+    "trust_and_loan_companies"
+  ],
+  "guideline_number_normalized": "",
+  "applies_to_banks": true,
+  "applies_to_trust_loan": true,
+  "applies_to_life_insurance": true,
+  "applies_to_pc_insurance": true,
+  "applies_to_foreign_bank": true,
+  "applies_to_foreign_insurance": false,
+  "applies_to_cooperative": false,
+  "applies_to_bank_holding": false,
+  "effective_date_sort_key": "2018-09-18",
+  "status_sort_key": 1,
+  "authority_sort_key": 60,
+  "bm25_text": "Final Corporate Governance Guideline – Letter (2018) Letter Banks Foreign Bank Branches Life Insurance and Fraternal Companies Property and Casualty Companies Trust and Loan Companies Annex – Summary of Public Consultation Comments and OSFI Responses",
+  "vector_text_prefix": "[OSFI Letter  |  | Banks / Foreign Bank Branches / Life Insurance and Fraternal Companies | FINAL_CURRENT | Effective 2018-09-18]",
+  "h1_title": "Final Corporate Governance Guideline – Letter (2018)",
+  "regulator": "OSFI",
+  "regulator_acronym": "OSFI",
+  "jurisdiction": "Canada",
+  "short_title": "",
+  "source_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/final-corporate-governance-guideline-letter-2018"
+}

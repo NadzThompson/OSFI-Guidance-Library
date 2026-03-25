@@ -1,0 +1,2539 @@
+{
+  "source_system": "osfi_guidance_library",
+  "library_row_title": "Foreign DTI Subsidiary IRB Self-Assessment Instructions",
+  "library_row_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/foreign-dti-subsidiary-irb-self-assessment-instructions",
+  "listing_date_raw": "January 31, 2006",
+  "listing_date_iso": "2006-01-31",
+  "listing_publication_type": "Instructions",
+  "listing_category": "Capital Adequacy Requirements",
+  "listing_sector": [
+    "Banks",
+    "Trust and Loan Companies"
+  ],
+  "crawl_timestamp": "2026-03-11T00:00:00Z",
+  "detail_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/foreign-dti-subsidiary-irb-self-assessment-instructions",
+  "canonical_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/foreign-dti-subsidiary-irb-self-assessment-instructions",
+  "slug": "foreign-dti-subsidiary-irb-self-assessment-instructions",
+  "title": "Foreign DTI Subsidiary IRB Self-Assessment Instructions",
+  "publication_type": "Instructions",
+  "category": "Capital Adequacy Requirements",
+  "document_date_raw": "January 31, 2006",
+  "document_date_iso": "2006-01-31",
+  "sector": [
+    "Banks",
+    "Trust and Loan Companies"
+  ],
+  "effective_date_text": "",
+  "guideline_number": "",
+  "date_modified_raw": "2006-01-31T12:00:00Z",
+  "generate_pdf_url": "https://www.osfi-bsif.gc.ca/en/print/pdf/node/1327",
+  "pdf_node_id": 1327,
+  "direct_pdf_url": null,
+  "has_table_of_contents": true,
+  "toc_entries": [],
+  "has_related_documents": false,
+  "related_document_links_raw": [],
+  "consultation_status_text": null,
+  "consultation_status_refers_to_version": null,
+  "page_language": "en",
+  "word_count_raw_body": 9542,
+  "doc_id": "osfi.foreign-dti-subsidiary-irb-self-assessment-instruc.instructions",
+  "doc_family_id": "osfi.foreign-dti-subsidiary-irb-self-assessment-instruc",
+  "version_id": "",
+  "version_label": "Foreign DTI Subsidiary IRB Self-Assessment Instructions",
+  "version_sort_key": "",
+  "parent_doc_id": null,
+  "child_doc_ids": [],
+  "is_package_page": false,
+  "is_chapter_page": false,
+  "chapter_number": null,
+  "chapter_title": null,
+  "document_order_within_family": 0,
+  "supersedes_doc_id": null,
+  "superseded_by_doc_id": null,
+  "current_version_flag": true,
+  "status": "final_current",
+  "include_in_primary_corpus": true,
+  "include_in_support_corpus": false,
+  "include_in_context_corpus": false,
+  "effective_date_start": "2006-01-31",
+  "effective_date_end": null,
+  "effective_date_fye_split": false,
+  "effective_date_oct_fye": null,
+  "effective_date_dec_fye": null,
+  "is_future_effective": false,
+  "is_rescinded": false,
+  "is_draft_or_consultation": false,
+  "rescission_date": null,
+  "consultation_closing_date": null,
+  "as_of_applicability": "2026-03-23",
+  "rule_applied": "rule_5_final_current",
+  "authority_class": "primary_normative",
+  "authority_level": 90,
+  "nova_tier": 1,
+  "prudential_weight": 1.0,
+  "is_primary_normative": true,
+  "is_supporting_interpretive": false,
+  "is_context_only": false,
+  "document_class": "instructions",
+  "guidance_type_normalized": "instructions",
+  "section_headings": [
+    {
+      "level": 2,
+      "text": "List of Exhibits and Figures",
+      "id": "h2-0"
+    },
+    {
+      "level": 2,
+      "text": "Abbreviations",
+      "id": "h2-1"
+    },
+    {
+      "level": 3,
+      "text": "1.1 Definition",
+      "id": "h3-2"
+    },
+    {
+      "level": 3,
+      "text": "1.2 Scope",
+      "id": "h3-3"
+    },
+    {
+      "level": 3,
+      "text": "1.3 Self-Assessment Process",
+      "id": "h3-4"
+    },
+    {
+      "level": 4,
+      "text": "Step 1: Information Exchange with Home-Country Supervisors",
+      "id": "h4-5"
+    },
+    {
+      "level": 4,
+      "text": "Step 2: Review of Information Received from Home-Country Supervisor",
+      "id": "h4-6"
+    },
+    {
+      "level": 4,
+      "text": "Step 3: Initial Self-Assessment",
+      "id": "h4-7"
+    },
+    {
+      "level": 4,
+      "text": "Step 4: Follow-Up with Institution",
+      "id": "h4-8"
+    },
+    {
+      "level": 4,
+      "text": "Step 5: Final Self-Assessment",
+      "id": "h4-9"
+    },
+    {
+      "level": 2,
+      "text": "2. Self-Assessment Package",
+      "id": "h2-10"
+    },
+    {
+      "level": 3,
+      "text": "Exhibit 1. List of Schedules",
+      "id": "h3-11"
+    },
+    {
+      "level": 3,
+      "text": "2.1 Chief Risk Officer’s Letter and Other Submissions",
+      "id": "h3-12"
+    },
+    {
+      "level": 3,
+      "text": "2.2 Chief Internal Auditor’s Letter and Other Submissions",
+      "id": "h3-13"
+    },
+    {
+      "level": 3,
+      "text": "2.3 Description of the Self-Assessment Process",
+      "id": "h3-14"
+    },
+    {
+      "level": 3,
+      "text": "2.4 Description of Materiality, Extensions, Exemptions, and Waivers",
+      "id": "h3-15"
+    },
+    {
+      "level": 3,
+      "text": "2.5 Foreign DTI Subsidiary RRS Scorecard",
+      "id": "h3-16"
+    },
+    {
+      "level": 4,
+      "text": "Exhibit 2. Mapping Self-Assessment Approaches to IRB Asset Classes",
+      "id": "h4-17"
+    },
+    {
+      "level": 3,
+      "text": "2.6 RRS Summary",
+      "id": "h3-18"
+    },
+    {
+      "level": 3,
+      "text": "3.1 General Overview",
+      "id": "h3-19"
+    },
+    {
+      "level": 3,
+      "text": "3.2 Front Page",
+      "id": "h3-20"
+    },
+    {
+      "level": 3,
+      "text": "3.3 Schedule 1 – Foreign DTI Subsidiary RRS Scorecard Template Structure",
+      "id": "h3-21"
+    },
+    {
+      "level": 3,
+      "text": "3.4 Schedule 2 – FDS Risk Rating System Portfolio Overview",
+      "id": "h3-22"
+    },
+    {
+      "level": 4,
+      "text": "3.4.1 RRS Definition",
+      "id": "h4-23"
+    },
+    {
+      "level": 4,
+      "text": "3.4.2 General Overview",
+      "id": "h4-24"
+    },
+    {
+      "level": 5,
+      "text": "Exhibit 3. General Overview",
+      "id": "h5-25"
+    },
+    {
+      "level": 4,
+      "text": "3.4.3 Criteria/Segmentation Borrower/Facility",
+      "id": "h4-26"
+    },
+    {
+      "level": 5,
+      "text": "Exhibit 4. Criteria/Segmentation: Non-Retail",
+      "id": "h5-27"
+    },
+    {
+      "level": 5,
+      "text": "Exhibit 5. Criteria/Segmentation: Retail",
+      "id": "h5-28"
+    },
+    {
+      "level": 4,
+      "text": "3.4.4 Methodology (Borrower/Facility)",
+      "id": "h4-29"
+    },
+    {
+      "level": 5,
+      "text": "Exhibit 6. Methodology Borrower/Facility: Non-Retail and Retail",
+      "id": "h5-30"
+    },
+    {
+      "level": 4,
+      "text": "3.4.5 Responsibility",
+      "id": "h4-31"
+    },
+    {
+      "level": 5,
+      "text": "Exhibit 7. Responsibility",
+      "id": "h5-32"
+    },
+    {
+      "level": 4,
+      "text": "3.4.6 Performance of RRS",
+      "id": "h4-33"
+    },
+    {
+      "level": 5,
+      "text": "Exhibit 8. Performance of RRS",
+      "id": "h5-34"
+    },
+    {
+      "level": 4,
+      "text": "3.4.7 Use of RRS",
+      "id": "h4-35"
+    },
+    {
+      "level": 5,
+      "text": "Exhibit 9. Use of RRS",
+      "id": "h5-36"
+    },
+    {
+      "level": 4,
+      "text": "3.4.8 RRS Overrides",
+      "id": "h4-37"
+    },
+    {
+      "level": 5,
+      "text": "Exhibit 10. RRS Overrides",
+      "id": "h5-38"
+    },
+    {
+      "level": 4,
+      "text": "3.4.9 Implementation",
+      "id": "h4-39"
+    },
+    {
+      "level": 4,
+      "text": "3.4.10 Internal Audit",
+      "id": "h4-40"
+    },
+    {
+      "level": 3,
+      "text": "3.5 Schedule 3 – FDS Self-Assessment Summary",
+      "id": "h3-41"
+    },
+    {
+      "level": 3,
+      "text": "3.6 Schedule 4 – Supporting Worksheets",
+      "id": "h3-42"
+    },
+    {
+      "level": 4,
+      "text": "3.6.1 Overview",
+      "id": "h4-43"
+    },
+    {
+      "level": 4,
+      "text": "3.6.2 Ratings and Audit Status",
+      "id": "h4-44"
+    },
+    {
+      "level": 5,
+      "text": "3.6.2.1 Rating 2 – Project Completion Status",
+      "id": "h5-45"
+    },
+    {
+      "level": 5,
+      "text": "3.6.2.2 Rating 3 – Compliance Status",
+      "id": "h5-46"
+    },
+    {
+      "level": 5,
+      "text": "3.6.2.3 Audit Status",
+      "id": "h5-47"
+    },
+    {
+      "level": 4,
+      "text": "3.6.3 Structure of Supporting Worksheets",
+      "id": "h4-48"
+    },
+    {
+      "level": 5,
+      "text": "3.6.3.1 Self-Assessment Scorecard",
+      "id": "h5-49"
+    },
+    {
+      "level": 5,
+      "text": "3.6.3.2 Description of Assessment Work Completed",
+      "id": "h5-50"
+    },
+    {
+      "level": 5,
+      "text": "3.6.3.3 Names of Supporting Documents",
+      "id": "h5-51"
+    },
+    {
+      "level": 2,
+      "text": "4. Schedule 7 – FDS RRS Summary",
+      "id": "h2-52"
+    },
+    {
+      "level": 3,
+      "text": "Exhibit 13. RRS Summary",
+      "id": "h3-53"
+    },
+    {
+      "level": 2,
+      "text": "5. Update Timeline",
+      "id": "h2-54"
+    },
+    {
+      "level": 3,
+      "text": "Exhibit 14. Update Timeline",
+      "id": "h3-55"
+    },
+    {
+      "level": 2,
+      "text": "Appendix I: Five Phases of Approval Process",
+      "id": "h2-56"
+    },
+    {
+      "level": 2,
+      "text": "Appendix II: Key Milestones of Approval Process",
+      "id": "h2-57"
+    },
+    {
+      "level": 2,
+      "text": "Footnotes",
+      "id": "h2-58"
+    }
+  ],
+  "heading_path": [
+    "Foreign DTI Subsidiary IRB Self-Assessment Instructions"
+  ],
+  "toc_depth": 5,
+  "has_appendices": true,
+  "appendix_ids": [
+    "Appendix I",
+    "Appendix II"
+  ],
+  "has_tables": true,
+  "table_count": 16,
+  "has_footnotes": false,
+  "footnote_count": 0,
+  "inline_cross_references": [
+    "Guideline A-1",
+    "Guideline A-1 to ensure that they meet the requirements of the new Basel",
+    "Guideline A-1 structures the IRB minimum requirements in terms of key app",
+    "Guideline A-1:"
+  ],
+  "quoted_external_references": [
+    "Basel Committee’s principles for cross-border implementation of the Basel II framework Footnote",
+    "Basel Committee on Banking Supervision"
+  ],
+  "raw_html_sha256": "c192bd0881562043e11c632e87f17972153c426ec96f909d6fcbabdfde7a5e29",
+  "raw_pdf_sha256": null,
+  "normalized_text_sha256": null,
+  "raw_html_path": "bronze/osfi/html/final_current/foreign-dti-subsidiary-irb-self-assessment-instructions.html",
+  "normalized_md_path": "silver/osfi/md/final_current/foreign-dti-subsidiary-irb-self-assessment-instructions.md",
+  "canonical_json_path": "silver/osfi/json/final_current/foreign-dti-subsidiary-irb-self-assessment-instructions.json",
+  "content_source": "HTML",
+  "parser_version": "osfi-parser-v2.1.0",
+  "normalizer_version": "osfi-normalizer-v1.4.0",
+  "quality_score": 1.0,
+  "quality_flags": [],
+  "download_timestamp": "2026-03-11T00:00:00Z",
+  "enriched_timestamp": "2026-03-23T09:53:51.818619Z",
+  "sections": [
+    {
+      "heading": "",
+      "heading_level": 2,
+      "full_text": "  - Schedules 1-4 - Risk Rating System Scorecard (XLS, 1.0 MB)\n  - Schedule 7 - Risk Rating System Summary (XLS, 374 kB)",
+      "content": [
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Schedules 1-4 - Risk Rating System Scorecard (XLS, 1.0 MB)",
+            "Schedule 7 - Risk Rating System Summary (XLS, 374 kB)"
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "List of Exhibits and Figures",
+      "heading_level": 2,
+      "full_text": "  - Exhibit 1 - List of Schedules\n  - Exhibit 2 - Mapping Self-Assessment Approaches to IRB Asset Classes\n  - Exhibit 3 - General Overview\n  - Exhibit 4 - Criteria/Segmentation: Non-Retail\n  - Exhibit 5 - Criteria/Segmentation: Retail\n  - Exhibit 6 - Methodology Borrower/Facility: Non-Retail and Retail\n  - Exhibit 7 - Responsibility\n  - Exhibit 8 - Performance of RRS\n  - Exhibit 9 - Use of RRS\n  - Exhibit 10 - RRS Overrides\n  - Exhibit 11 - Mapping of Compliance vs. IRB Implementation Stages\n  - Exhibit 12 - Self-Assessment Scorecard\n  - Exhibit 13 - RRS Summary\n  - Exhibit 14 - Update Timeline\n  - Figure 1 - Self-Assessment Package\n  - Figure 2 - Foreign DTI Subsidiary RRS Scorecard Structure\n  - Figure 3 - Vendor Model Inventory Template",
+      "content": [
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Exhibit 1 - List of Schedules",
+            "Exhibit 2 - Mapping Self-Assessment Approaches to IRB Asset Classes",
+            "Exhibit 3 - General Overview",
+            "Exhibit 4 - Criteria/Segmentation: Non-Retail",
+            "Exhibit 5 - Criteria/Segmentation: Retail",
+            "Exhibit 6 - Methodology Borrower/Facility: Non-Retail and Retail",
+            "Exhibit 7 - Responsibility",
+            "Exhibit 8 - Performance of RRS",
+            "Exhibit 9 - Use of RRS",
+            "Exhibit 10 - RRS Overrides",
+            "Exhibit 11 - Mapping of Compliance vs. IRB Implementation Stages",
+            "Exhibit 12 - Self-Assessment Scorecard",
+            "Exhibit 13 - RRS Summary",
+            "Exhibit 14 - Update Timeline",
+            "Figure 1 - Self-Assessment Package",
+            "Figure 2 - Foreign DTI Subsidiary RRS Scorecard Structure",
+            "Figure 3 - Vendor Model Inventory Template"
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "Abbreviations",
+      "heading_level": 2,
+      "full_text": "  - AIRB Advanced internal ratings-based approach\n  - DTI Deposit-taking institution\n  - EAD Exposure at default\n  - FDS Foreign deposit-taking institution subsidiary\n  - FIRB Foundation internal ratings-based approach\n  - IRB Internal ratings-based approach\n  - LGD Loss given default\n  - PD Probability of default\n  - QRE Qualifying revolving exposures\n  - RWA Risk weighted assets\n  - RRS Risk rating system\n  - SME Small and medium-sized entity",
+      "content": [
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "AIRB Advanced internal ratings-based approach",
+            "DTI Deposit-taking institution",
+            "EAD Exposure at default",
+            "FDS Foreign deposit-taking institution subsidiary",
+            "FIRB Foundation internal ratings-based approach",
+            "IRB Internal ratings-based approach",
+            "LGD Loss given default",
+            "PD Probability of default",
+            "QRE Qualifying revolving exposures",
+            "RWA Risk weighted assets",
+            "RRS Risk rating system",
+            "SME Small and medium-sized entity"
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "1.1 Definition",
+      "heading_level": 3,
+      "full_text": "This document supports the approval framework for Canadian subsidiaries Footnote 1 of foreign deposit-taking institutions (foreign DTI subsidiaries) described in OSFI’s Implementation Note, 2007/2008 Approval of IRB Approaches for Institutions . The Implementation Note outlines the key principles, requirements and steps for the approval of Internal Risk Rating Systems for the internal ratings-based (IRB) methodology and minimum regulatory capital calculation outlined in Chapter 5 of the OSFI’s Capital Adequacy Requirements (CAR) Guideline A-1. The approval of foreign DTI subsidiaries will be performed in line with the Basel Committee’s principles for cross-border implementation of the Basel II framework Footnote 2 .\nAs indicated in the above Implementation Note, OSFI initially developed self-assessment template(s) and accompanying instructions for Phase 2 Footnote 3 of the approval process for domestic institutions applying for the AIRB approach. These documents have been modified and simplified for use by foreign DTI subsidiaries to reflect home-host considerations.\nThese Instructions describe the self-assessment process and elaborate on the contents of the Foreign DTI Subsidiary Risk Rating System Scorecard (Schedules 1-4) and the Foreign DTI Subsidiary Risk Rating System Summary (Schedule 7). Schedules 5 and 6 of the AIRB Self Assessment templates for domestic institutions are not relevant to foreign DTI subsidiaries and therefore are omitted from this package. Most of the key dates provided in the Instructions are for institutions with a December 31 year-end. Key dates for institutions with an October 31 year-end are generally two months prior to the December 31 year-end dates.\nThe terms “institution” and “foreign DTI subsidiary” are used interchangeably in these Instructions.\nA comprehensive self-assessment process is necessary for successful implementation of IRB. If completed with accuracy and appropriateness, the self-assessment process can leverage the limited time that exists prior to implementation of IRB by providing an assessment and analysis that is structured and consistent across the applicant institutions.\nIt is expected that an institution using IRB will have a clearly defined and robust self-assessment process that is supported by a variety of documentation. The institution will be able to provide evidence of the self-assessment work performed by delivering a completed self-assessment package Footnote 4 and other supporting documents to OSFI (see Section 2 of this document for details).\nThe self-assessment package summarizes the self-assessment work performed by the institution and provides a “road map” to all self-assessment documents developed and used by the institution for IRB approval purposes. Upon request, all documents that the institution refers to in its self-assessment package should be made available to OSFI.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "This document supports the approval framework for Canadian subsidiaries Footnote 1 of foreign deposit-taking institutions (foreign DTI subsidiaries) described in OSFI’s Implementation Note, 2007/2008 Approval of IRB Approaches for Institutions . The Implementation Note outlines the key principles, requirements and steps for the approval of Internal Risk Rating Systems for the internal ratings-based (IRB) methodology and minimum regulatory capital calculation outlined in Chapter 5 of the OSFI’s Capital Adequacy Requirements (CAR) Guideline A-1. The approval of foreign DTI subsidiaries will be performed in line with the Basel Committee’s principles for cross-border implementation of the Basel II framework Footnote 2 ."
+        },
+        {
+          "type": "paragraph",
+          "text": "As indicated in the above Implementation Note, OSFI initially developed self-assessment template(s) and accompanying instructions for Phase 2 Footnote 3 of the approval process for domestic institutions applying for the AIRB approach. These documents have been modified and simplified for use by foreign DTI subsidiaries to reflect home-host considerations."
+        },
+        {
+          "type": "paragraph",
+          "text": "These Instructions describe the self-assessment process and elaborate on the contents of the Foreign DTI Subsidiary Risk Rating System Scorecard (Schedules 1-4) and the Foreign DTI Subsidiary Risk Rating System Summary (Schedule 7). Schedules 5 and 6 of the AIRB Self Assessment templates for domestic institutions are not relevant to foreign DTI subsidiaries and therefore are omitted from this package. Most of the key dates provided in the Instructions are for institutions with a December 31 year-end. Key dates for institutions with an October 31 year-end are generally two months prior to the December 31 year-end dates."
+        },
+        {
+          "type": "paragraph",
+          "text": "The terms “institution” and “foreign DTI subsidiary” are used interchangeably in these Instructions."
+        },
+        {
+          "type": "paragraph",
+          "text": "A comprehensive self-assessment process is necessary for successful implementation of IRB. If completed with accuracy and appropriateness, the self-assessment process can leverage the limited time that exists prior to implementation of IRB by providing an assessment and analysis that is structured and consistent across the applicant institutions."
+        },
+        {
+          "type": "paragraph",
+          "text": "It is expected that an institution using IRB will have a clearly defined and robust self-assessment process that is supported by a variety of documentation. The institution will be able to provide evidence of the self-assessment work performed by delivering a completed self-assessment package Footnote 4 and other supporting documents to OSFI (see Section 2 of this document for details)."
+        },
+        {
+          "type": "paragraph",
+          "text": "The self-assessment package summarizes the self-assessment work performed by the institution and provides a “road map” to all self-assessment documents developed and used by the institution for IRB approval purposes. Upon request, all documents that the institution refers to in its self-assessment package should be made available to OSFI."
+        }
+      ]
+    },
+    {
+      "heading": "1.2 Scope",
+      "heading_level": 3,
+      "full_text": "The self-assessment process must determine if the foreign DTI subsidiary has:\n  1. a clear understanding of the IRB minimum requirements;\n  2. appropriate measures/criteria of success for each IRB minimum requirement;\n  3. adequate remedial actions for each gap identified;\n  4. a regular and well-defined process for assessment of compliance with the IRB minimum requirements;\n  5. clearly defined and documented the role and scope of work performed by risk and/or business management (as applicable) and internal audit in respect of IRB implementation; and\n  6. clearly defined and documented the division of responsibilities between the parent institution and the foreign DTI subsidiary.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "The self-assessment process must determine if the foreign DTI subsidiary has:"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "a clear understanding of the IRB minimum requirements;",
+            "appropriate measures/criteria of success for each IRB minimum requirement;",
+            "adequate remedial actions for each gap identified;",
+            "a regular and well-defined process for assessment of compliance with the IRB minimum requirements;",
+            "clearly defined and documented the role and scope of work performed by risk and/or business management (as applicable) and internal audit in respect of IRB implementation; and",
+            "clearly defined and documented the division of responsibilities between the parent institution and the foreign DTI subsidiary."
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "1.3 Self-Assessment Process",
+      "heading_level": 3,
+      "full_text": "In line with CAR Guideline A-1, the self-assessment process requires that risk and/or business management (as applicable) and internal audit provide the necessary assurances that the institution is in compliance with the IRB minimum requirements by the implementation date of the new Basel framework (i.e., as at January 1, 2008 for institutions with a December 31 year-end). OSFI recognizes that some of the requirements around the scope of work for these parties are new and will take time to build during implementation of the new Basel framework. OSFI also recognizes the need to avoid performing redundant and uncoordinated approval and validation work to reduce the implementation burden on institutions and to conserve supervisory resources. To address these requirements, OSFI has developed a five-step self-assessment process for foreign DTI subsidiaries.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "In line with CAR Guideline A-1, the self-assessment process requires that risk and/or business management (as applicable) and internal audit provide the necessary assurances that the institution is in compliance with the IRB minimum requirements by the implementation date of the new Basel framework (i.e., as at January 1, 2008 for institutions with a December 31 year-end). OSFI recognizes that some of the requirements around the scope of work for these parties are new and will take time to build during implementation of the new Basel framework. OSFI also recognizes the need to avoid performing redundant and uncoordinated approval and validation work to reduce the implementation burden on institutions and to conserve supervisory resources. To address these requirements, OSFI has developed a five-step self-assessment process for foreign DTI subsidiaries."
+        }
+      ]
+    },
+    {
+      "heading": "Step 1: Information Exchange with Home-Country Supervisors",
+      "heading_level": 4,
+      "full_text": "OSFI will work with the applicable home country supervisor to discuss the respective roles and responsibilities of each supervisor in the IRB approval process for the foreign DTI subsidiary, and to coordinate the information gathering process, based on the requirements of OSFI’s Foreign DTI Subsidiary RRS Scorecard and RRS Summary, the control structure of the foreign DTI subsidiary, and the requirements of the home-country supervisor.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "OSFI will work with the applicable home country supervisor to discuss the respective roles and responsibilities of each supervisor in the IRB approval process for the foreign DTI subsidiary, and to coordinate the information gathering process, based on the requirements of OSFI’s Foreign DTI Subsidiary RRS Scorecard and RRS Summary, the control structure of the foreign DTI subsidiary, and the requirements of the home-country supervisor."
+        }
+      ]
+    },
+    {
+      "heading": "Step 2: Review of Information Received from Home-Country Supervisor",
+      "heading_level": 4,
+      "full_text": "OSFI will review the guidance received from the home-country supervisor in respect of its local approval process and will confirm the appropriate next steps for the foreign DTI subsidiary.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "OSFI will review the guidance received from the home-country supervisor in respect of its local approval process and will confirm the appropriate next steps for the foreign DTI subsidiary."
+        }
+      ]
+    },
+    {
+      "heading": "Step 3: Initial Self-Assessment",
+      "heading_level": 4,
+      "full_text": "OSFI expects that a foreign DTI subsidiary will complete an initial self-assessment using the Foreign DTI Subsidiary RRS Scorecard based on the outcome of Steps 1 and 2. The scale and scope of completion will depend on the outcome of the host-home process. A foreign DTI subsidiary may be required to complete a more detailed self-assessment where the subsidiary contributes significantly to the risk rating system development and/or where limited integration exists within the parent-banking group. However, these and other considerations will be explored in coordination with the home-country supervisor.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "OSFI expects that a foreign DTI subsidiary will complete an initial self-assessment using the Foreign DTI Subsidiary RRS Scorecard based on the outcome of Steps 1 and 2. The scale and scope of completion will depend on the outcome of the host-home process. A foreign DTI subsidiary may be required to complete a more detailed self-assessment where the subsidiary contributes significantly to the risk rating system development and/or where limited integration exists within the parent-banking group. However, these and other considerations will be explored in coordination with the home-country supervisor."
+        }
+      ]
+    },
+    {
+      "heading": "Step 4: Follow-Up with Institution",
+      "heading_level": 4,
+      "full_text": "After reviewing the foreign DTI subsidiary’s submission, OSFI will provide feedback and will conduct reviews, as applicable, in coordination with the home-country supervisor, as part of the local IRB approval process.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "After reviewing the foreign DTI subsidiary’s submission, OSFI will provide feedback and will conduct reviews, as applicable, in coordination with the home-country supervisor, as part of the local IRB approval process."
+        }
+      ]
+    },
+    {
+      "heading": "Step 5: Final Self-Assessment",
+      "heading_level": 4,
+      "full_text": "Prior to the implementation date of Basel II, the institution will be required to provide a final self-assessment that updates and finalizes prior self-assessments using the Foreign DTI Subsidiary RRS Scorecard.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Prior to the implementation date of Basel II, the institution will be required to provide a final self-assessment that updates and finalizes prior self-assessments using the Foreign DTI Subsidiary RRS Scorecard."
+        }
+      ]
+    },
+    {
+      "heading": "2. Self-Assessment Package",
+      "heading_level": 2,
+      "full_text": "A foreign DTI subsidiary will be required to submit its self-assessment (“the self-assessment package”), as part of OSFI’s IRB approval process. The institution will submit an initial self-assessment package by April 1, 2006 Footnote 5 (based on an assessment date of December 31, 2005). The institution will then re-submit a final self-assessment package by December 31, 2007 (based on an assessment date of September 30, 2007) Footnote 6 . Please refer to Figure 1 for graphical presentation of the self-assessment package, below.\nThe supporting documents to the self-assessment package should demonstrate the scope, depth, and quality of the self-assessment work performed by the foreign DTI subsidiary. This self-assessment work should demonstrate that all material and relevant issues have been identified and that the institution has undertaken or is undertaking appropriate action to address them in a timely fashion.\nOSFI recognizes that the implementation process is ongoing and that the self-assessment will change throughout the implementation and rollout of IRB. Consequently, OSFI expects institutions to update parts of their self-assessment package on a regular basis to facilitate the monitoring of IRB implementation. Please refer to Section 5 for further details on the update timeline.\nSchedules have been provided to enhance the structure of the self-assessment templates. The schedules identify distinct sections of the templates, including sections of the Foreign DTI Subsidiary RRS Scorecard and RRS Summary. All schedules are listed below in Exhibit 1.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "A foreign DTI subsidiary will be required to submit its self-assessment (“the self-assessment package”), as part of OSFI’s IRB approval process. The institution will submit an initial self-assessment package by April 1, 2006 Footnote 5 (based on an assessment date of December 31, 2005). The institution will then re-submit a final self-assessment package by December 31, 2007 (based on an assessment date of September 30, 2007) Footnote 6 . Please refer to Figure 1 for graphical presentation of the self-assessment package, below."
+        },
+        {
+          "type": "paragraph",
+          "text": "The supporting documents to the self-assessment package should demonstrate the scope, depth, and quality of the self-assessment work performed by the foreign DTI subsidiary. This self-assessment work should demonstrate that all material and relevant issues have been identified and that the institution has undertaken or is undertaking appropriate action to address them in a timely fashion."
+        },
+        {
+          "type": "paragraph",
+          "text": "OSFI recognizes that the implementation process is ongoing and that the self-assessment will change throughout the implementation and rollout of IRB. Consequently, OSFI expects institutions to update parts of their self-assessment package on a regular basis to facilitate the monitoring of IRB implementation. Please refer to Section 5 for further details on the update timeline."
+        },
+        {
+          "type": "paragraph",
+          "text": "Schedules have been provided to enhance the structure of the self-assessment templates. The schedules identify distinct sections of the templates, including sections of the Foreign DTI Subsidiary RRS Scorecard and RRS Summary. All schedules are listed below in Exhibit 1."
+        }
+      ]
+    },
+    {
+      "heading": "Exhibit 1. List of Schedules",
+      "heading_level": 3,
+      "full_text": "Schedule Number | Template/ Schedule Title\nForeign DTI Subsidiary RRS Scorecard Templates\nSchedule 1 | RRS Scorecard Template Structure\nSchedule 2 | RRS - Portfolio Overview\nSchedule 3 | Self-Assessment Summary\nSchedule 4 – Section 1 | Overall Compliance\nSchedule 4 – Section 2 | RRS Design\nSchedule 4 – Section 3 | RRS Operation\nSchedule 4 – Section 4 | Corporate Governance, CRCU & Internal Audit\nSchedule 4 – Section 5 | Use of RRS\nSchedule 4 – Section 6 | Risk Quantification\nSchedule 4 – Section 7 | Validation\nSchedule 4 – Section 8 | Supervisory LGD and EAD Estimates (FIRB)\nForeign DTI Subsidiary RRS Summary Template\nSchedule 7 | RRS Summary",
+      "content": [
+        {
+          "type": "table",
+          "caption": "",
+          "rows": [
+            [
+              "Schedule Number",
+              "Template/ Schedule Title"
+            ],
+            [
+              "Foreign DTI Subsidiary RRS Scorecard Templates"
+            ],
+            [
+              "Schedule 1",
+              "RRS Scorecard Template Structure"
+            ],
+            [
+              "Schedule 2",
+              "RRS - Portfolio Overview"
+            ],
+            [
+              "Schedule 3",
+              "Self-Assessment Summary"
+            ],
+            [
+              "Schedule 4 – Section 1",
+              "Overall Compliance"
+            ],
+            [
+              "Schedule 4 – Section 2",
+              "RRS Design"
+            ],
+            [
+              "Schedule 4 – Section 3",
+              "RRS Operation"
+            ],
+            [
+              "Schedule 4 – Section 4",
+              "Corporate Governance, CRCU & Internal Audit"
+            ],
+            [
+              "Schedule 4 – Section 5",
+              "Use of RRS"
+            ],
+            [
+              "Schedule 4 – Section 6",
+              "Risk Quantification"
+            ],
+            [
+              "Schedule 4 – Section 7",
+              "Validation"
+            ],
+            [
+              "Schedule 4 – Section 8",
+              "Supervisory LGD and EAD Estimates (FIRB)"
+            ],
+            [
+              "Foreign DTI Subsidiary RRS Summary Template"
+            ],
+            [
+              "Schedule 7",
+              "RRS Summary"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "2.1 Chief Risk Officer’s Letter and Other Submissions",
+      "heading_level": 3,
+      "full_text": "As indicated in the Implementation Note, 2007/2008 Approval of IRB Approaches for Institutions , Phase 2 of the approval process is the stage for formal application and preparation for “meaningful” parallel reporting. To commence Phase 2, the institution will submit a cover letter from the Chief Risk Officer, addressed to OSFI by April 1, 2006, as part of the initial self-assessment package. The letter will include the following:\n  1. The status of the institution’s implementation efforts and level of adherence to the IRB minimum requirements, including those parts of implementation not yet finalized, by the Formal Application Date (i.e., April 1, 2006 for those institutions with a December 31 st year-end intending to implement IRB by fiscal year-end 2007);\n  2. Information on the nature of any and all representations made to the Audit and Risk Committees of the Board in respect of the IRB implementation and approval;\n  3. The credit risk approach to be adopted by the parent institution on a consolidated basis for reporting under the new Basel framework Footnote 7 ;\n  4. Any differences in Pillar I credit risk approaches between the parent institution and the foreign DTI subsidiary (if applicable); and\n  5. The high-level division of responsibilities between the parent institution and foreign DTI subsidiary, as they relate to implementation of the new Basel framework and the self-assessment process.\nIn addition to the letter, the institution should submit other self-assessment documents. A detailed description of these requirements is outlined in Sections 2.3 to 2.6.\nOSFI recognizes that this self-assessment work will be a work-in-progress and will reflect host-home considerations. Consequently, OSFI expects a high-level description of all work performed to date by risk and/or business management (as applicable) in respect of the foreign DTI subsidiary’s adherence to the IRB minimum requirements. Where such work is performed and OSFI is required to perform local approval work in cooperation with the home-country supervisor, the results of the assessment must also be included in the form of assessment ratings within the self-assessment package.\nThe institution will need to re-submit a letter from the Chief Risk Officer to OSFI by December 31, 2007, providing an updated view on the level of adherence to the IRB minimum requirements and the nature of any and all representations made to the Audit and Risk Committees of the Board in respect of the IRB implementation and approval.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "As indicated in the Implementation Note, 2007/2008 Approval of IRB Approaches for Institutions , Phase 2 of the approval process is the stage for formal application and preparation for “meaningful” parallel reporting. To commence Phase 2, the institution will submit a cover letter from the Chief Risk Officer, addressed to OSFI by April 1, 2006, as part of the initial self-assessment package. The letter will include the following:"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "The status of the institution’s implementation efforts and level of adherence to the IRB minimum requirements, including those parts of implementation not yet finalized, by the Formal Application Date (i.e., April 1, 2006 for those institutions with a December 31 st year-end intending to implement IRB by fiscal year-end 2007);",
+            "Information on the nature of any and all representations made to the Audit and Risk Committees of the Board in respect of the IRB implementation and approval;",
+            "The credit risk approach to be adopted by the parent institution on a consolidated basis for reporting under the new Basel framework Footnote 7 ;",
+            "Any differences in Pillar I credit risk approaches between the parent institution and the foreign DTI subsidiary (if applicable); and",
+            "The high-level division of responsibilities between the parent institution and foreign DTI subsidiary, as they relate to implementation of the new Basel framework and the self-assessment process."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "In addition to the letter, the institution should submit other self-assessment documents. A detailed description of these requirements is outlined in Sections 2.3 to 2.6."
+        },
+        {
+          "type": "paragraph",
+          "text": "OSFI recognizes that this self-assessment work will be a work-in-progress and will reflect host-home considerations. Consequently, OSFI expects a high-level description of all work performed to date by risk and/or business management (as applicable) in respect of the foreign DTI subsidiary’s adherence to the IRB minimum requirements. Where such work is performed and OSFI is required to perform local approval work in cooperation with the home-country supervisor, the results of the assessment must also be included in the form of assessment ratings within the self-assessment package."
+        },
+        {
+          "type": "paragraph",
+          "text": "The institution will need to re-submit a letter from the Chief Risk Officer to OSFI by December 31, 2007, providing an updated view on the level of adherence to the IRB minimum requirements and the nature of any and all representations made to the Audit and Risk Committees of the Board in respect of the IRB implementation and approval."
+        }
+      ]
+    },
+    {
+      "heading": "2.2 Chief Internal Auditor’s Letter and Other Submissions",
+      "heading_level": 3,
+      "full_text": "As part of the initial self-assessment package, the institution will submit a letter to OSFI from the Chief Internal Auditor by May 30, 2006, providing an assessment, in the form of negative assurance, based on the following information:\n  1. The work conducted to that point in time, observations and other audit procedures, on the institution’s progress towards readiness to adhere to all the IRB minimum requirements;\n  2. A review of management’s self-assessment made as part of the formal application, including the self-assessment process developed and implemented by risk and/or business management (as applicable); and\nIn addition to the letter, the institution will submit the following information:\n  1. Details of internal audit’s plans for the foreign DTI subsidiary during the parallel reporting period in respect of IRB implementation;\n  2. A description of the work performed to-date by internal audit in respect of the parent and the foreign DTI subsidiary’s adherence to the IRB minimum requirements. Where internal audit work is performed, the internal auditor’s opinion must also be included as part of the approval package; and\n  3. The division of responsibilities between the parent institution and the foreign DTI subsidiary in respect of internal audit work.\nThe institution will re-submit a letter from the Chief Internal Auditor to OSFI by December 31, 2007 providing an updated view on internal audit work performed to date as it relates to all points described above. This letter will also give an updated assessment in the form of an opinion from internal audit based on the following assessments:\n  1. The effectiveness of the internal controls; and\n  2. Whether the controls are designed appropriately to ensure adherence to all applicable IRB minimum requirements.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "As part of the initial self-assessment package, the institution will submit a letter to OSFI from the Chief Internal Auditor by May 30, 2006, providing an assessment, in the form of negative assurance, based on the following information:"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "The work conducted to that point in time, observations and other audit procedures, on the institution’s progress towards readiness to adhere to all the IRB minimum requirements;",
+            "A review of management’s self-assessment made as part of the formal application, including the self-assessment process developed and implemented by risk and/or business management (as applicable); and"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "In addition to the letter, the institution will submit the following information:"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "Details of internal audit’s plans for the foreign DTI subsidiary during the parallel reporting period in respect of IRB implementation;",
+            "A description of the work performed to-date by internal audit in respect of the parent and the foreign DTI subsidiary’s adherence to the IRB minimum requirements. Where internal audit work is performed, the internal auditor’s opinion must also be included as part of the approval package; and",
+            "The division of responsibilities between the parent institution and the foreign DTI subsidiary in respect of internal audit work."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "The institution will re-submit a letter from the Chief Internal Auditor to OSFI by December 31, 2007 providing an updated view on internal audit work performed to date as it relates to all points described above. This letter will also give an updated assessment in the form of an opinion from internal audit based on the following assessments:"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "The effectiveness of the internal controls; and",
+            "Whether the controls are designed appropriately to ensure adherence to all applicable IRB minimum requirements."
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "2.3 Description of the Self-Assessment Process",
+      "heading_level": 3,
+      "full_text": "The institution will provide a report describing its internal self-assessment process by April 1, 2006. Unless there is a material change to the internal self-assessment process, the institution is not required to re-submit such a report again (see Section 1.3). Although there is no prescribed format for this report, it will include the following summary-level information:\n  1. An outline of the institution’s self-assessment approach;\n  2. A listing of all key steps in the self-assessment process;\n  3. An explanation of how the institution arrived at its overall assessment of IRB compliance;",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "The institution will provide a report describing its internal self-assessment process by April 1, 2006. Unless there is a material change to the internal self-assessment process, the institution is not required to re-submit such a report again (see Section 1.3). Although there is no prescribed format for this report, it will include the following summary-level information:"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "An outline of the institution’s self-assessment approach;",
+            "A listing of all key steps in the self-assessment process;",
+            "An explanation of how the institution arrived at its overall assessment of IRB compliance;"
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "2.4 Description of Materiality, Extensions, Exemptions, and Waivers",
+      "heading_level": 3,
+      "full_text": "The institution will submit descriptions of all exemptions Footnote 8 , extensions Footnote 9 and waivers Footnote 10 by April 1, 2006. This should include a description of the tracking process used to monitor them throughout the rollout of IRB. Unless there is a material change, the institution is not required to re-submit this information; however, if at any stage material changes have occurred, the institution should inform OSFI of the changes on a timely basis.\nThe IRB approval process recognizes the importance of materiality and provides various mechanisms to accommodate the phased rollout of IRB. To support this approach, the institution should provide a document with sufficient detail on the assumptions underpinning the self-assessment process, including materiality assumptions. As a part of this document, the institution should show its assessment of materiality for all IRB asset classes listed in Exhibit 2.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "The institution will submit descriptions of all exemptions Footnote 8 , extensions Footnote 9 and waivers Footnote 10 by April 1, 2006. This should include a description of the tracking process used to monitor them throughout the rollout of IRB. Unless there is a material change, the institution is not required to re-submit this information; however, if at any stage material changes have occurred, the institution should inform OSFI of the changes on a timely basis."
+        },
+        {
+          "type": "paragraph",
+          "text": "The IRB approval process recognizes the importance of materiality and provides various mechanisms to accommodate the phased rollout of IRB. To support this approach, the institution should provide a document with sufficient detail on the assumptions underpinning the self-assessment process, including materiality assumptions. As a part of this document, the institution should show its assessment of materiality for all IRB asset classes listed in Exhibit 2."
+        }
+      ]
+    },
+    {
+      "heading": "2.5 Foreign DTI Subsidiary RRS Scorecard",
+      "heading_level": 3,
+      "full_text": "The Foreign DTI Subsidiary RRS Scorecard is a simplified version of OSFI’s AIRB Scorecard and was designed as a tool to assist the self-assessment process for IRB approval, where OSFI is a host-country supervisor. The structure of the scorecard is based on the structure of OSFI’s CAR Guideline, but it also attempts to integrate other aspects, including work effort around the implementation and self-assessment process. The various schedules of the Foreign DTI Subsidiary RRS Scorecard need to be updated at different times. Please refer to Section 5 on Update Timeline.\nOSFI will use the self-assessment package for monitoring an institution’s progress throughout the implementation process and rollout of IRB in coordination with the home-country supervisor. OSFI recognizes that institutions will continue implementation efforts throughout the parallel reporting period and this will impact self-assessments over time. The Scorecard is to be updated on a regular basis to capture this dynamic process, to the extent that material changes are identified and OSFI needs to fulfill its role as host-country supervisor. Refer to Exhibit 14 for the update frequencies.\nThe IRB minimum requirements relate to several levels of analysis, such as the consolidated banking group, the IRB asset class, and the internal risk rating system. Consequently, different types of self-assessments will be required at each level.\nDepending on the asset class, the institution may be required to use two approaches within the self-assessment process. The first approach is based on an assessment at the level of the RRS, whereas the second approach is based on an assessment at the level of the IRB asset class Footnote 11 . See Exhibit 2 for the illustration of approaches.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "The Foreign DTI Subsidiary RRS Scorecard is a simplified version of OSFI’s AIRB Scorecard and was designed as a tool to assist the self-assessment process for IRB approval, where OSFI is a host-country supervisor. The structure of the scorecard is based on the structure of OSFI’s CAR Guideline, but it also attempts to integrate other aspects, including work effort around the implementation and self-assessment process. The various schedules of the Foreign DTI Subsidiary RRS Scorecard need to be updated at different times. Please refer to Section 5 on Update Timeline."
+        },
+        {
+          "type": "paragraph",
+          "text": "OSFI will use the self-assessment package for monitoring an institution’s progress throughout the implementation process and rollout of IRB in coordination with the home-country supervisor. OSFI recognizes that institutions will continue implementation efforts throughout the parallel reporting period and this will impact self-assessments over time. The Scorecard is to be updated on a regular basis to capture this dynamic process, to the extent that material changes are identified and OSFI needs to fulfill its role as host-country supervisor. Refer to Exhibit 14 for the update frequencies."
+        },
+        {
+          "type": "paragraph",
+          "text": "The IRB minimum requirements relate to several levels of analysis, such as the consolidated banking group, the IRB asset class, and the internal risk rating system. Consequently, different types of self-assessments will be required at each level."
+        },
+        {
+          "type": "paragraph",
+          "text": "Depending on the asset class, the institution may be required to use two approaches within the self-assessment process. The first approach is based on an assessment at the level of the RRS, whereas the second approach is based on an assessment at the level of the IRB asset class Footnote 11 . See Exhibit 2 for the illustration of approaches."
+        }
+      ]
+    },
+    {
+      "heading": "Exhibit 2. Mapping Self-Assessment Approaches to IRB Asset Classes",
+      "heading_level": 4,
+      "full_text": "Type of Self-Assessment Approach | IRB Asset Class\n1. One self-assessment scorecard per RRS (templates are provided) | Corporate (including SME) Sovereign Bank Retail – Mortgages Retail – QRE Retail – Other\n2. Self-assessment per asset class (templates are not provided) | Purchased Receivables Specialized Lending IRB Equity IRB Securitization\nCorporate (including SME)\nSovereign\nBank\nRetail – Mortgages\nRetail – QRE\nRetail – Other\nPurchased Receivables\nSpecialized Lending\nIRB Equity\nIRB Securitization\nExhibit 2 illustrates that the institution has to populate one scorecard per RRS for corporate (including corporate SME), sovereign, bank, retail mortgages, retail QRE, and other retail asset classes.\nHowever, internal rating system designs may vary among institutions; therefore, some institutions will have one RRS per asset class, while others will have one RRS for several asset classes. In situations where one RRS covers several asset classes, OSFI will permit the institutions to complete one scorecard for all appropriate asset classes, with the exception of retail exposures where a scorecard must be completed for each IRB asset class.\nInstitutions should clearly identify any differences between asset classes that apply to the requirements identified in the RRS Scorecard, including composition of the underlying portfolio (see Schedule 2).\nIn the case of retail exposures, OSFI expects institutions to complete one scorecard for each IRB asset class. For example, if the institution has one RRS for all retail exposures, the institution should populate three scorecards, for retail mortgages, qualifying revolvers and other retail exposures, respectively. Please see Section 3 for a more detailed description of the RRS Scorecard and Figure 2 for the structure of the RRS Scorecard.\nThe Foreign DTI Subsidiary RRS Scorecard workbook contains four schedules as follows:\n  - Schedule 1 – FDS Scorecard Template Structure;\n  - Schedule 2 – FDS RRS - Portfolio Overview;\n  - Schedule 3 – FDS Self-Assessment Summary, and\n  - Schedule 4 – FDS Supporting Worksheets.\nOSFI recognizes that IRB approval (and self-assessment) will be performed at a sub-consolidated basis. For instances where material and relevant differences arise in the application and operation of an RRS across multiple legal jurisdictions, the institution should identify these within the self-assessment, and explain how these differences were combined into the sub-consolidated RRS self-assessment of IRB compliance.\nThere are no separate scorecards explicitly designed for specialized lending Footnote 12 , purchased receivables, IRB equity, and IRB asset securitization. Institutions are encouraged to conduct a self-assessment against the relevant paragraphs of OSFI’s CAR Guideline A-1 to ensure that they meet the requirements of the new Basel framework; this self-assessment should be made available to OSFI upon request.",
+      "content": [
+        {
+          "type": "table",
+          "caption": "",
+          "rows": [
+            [
+              "Type of Self-Assessment Approach",
+              "IRB Asset Class"
+            ],
+            [
+              "1. One self-assessment scorecard per RRS (templates are provided)",
+              "Corporate (including SME) Sovereign Bank Retail – Mortgages Retail – QRE Retail – Other"
+            ],
+            [
+              "2. Self-assessment per asset class (templates are not provided)",
+              "Purchased Receivables Specialized Lending IRB Equity IRB Securitization"
+            ]
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Corporate (including SME)"
+        },
+        {
+          "type": "paragraph",
+          "text": "Sovereign"
+        },
+        {
+          "type": "paragraph",
+          "text": "Bank"
+        },
+        {
+          "type": "paragraph",
+          "text": "Retail – Mortgages"
+        },
+        {
+          "type": "paragraph",
+          "text": "Retail – QRE"
+        },
+        {
+          "type": "paragraph",
+          "text": "Retail – Other"
+        },
+        {
+          "type": "paragraph",
+          "text": "Purchased Receivables"
+        },
+        {
+          "type": "paragraph",
+          "text": "Specialized Lending"
+        },
+        {
+          "type": "paragraph",
+          "text": "IRB Equity"
+        },
+        {
+          "type": "paragraph",
+          "text": "IRB Securitization"
+        },
+        {
+          "type": "paragraph",
+          "text": "Exhibit 2 illustrates that the institution has to populate one scorecard per RRS for corporate (including corporate SME), sovereign, bank, retail mortgages, retail QRE, and other retail asset classes."
+        },
+        {
+          "type": "paragraph",
+          "text": "However, internal rating system designs may vary among institutions; therefore, some institutions will have one RRS per asset class, while others will have one RRS for several asset classes. In situations where one RRS covers several asset classes, OSFI will permit the institutions to complete one scorecard for all appropriate asset classes, with the exception of retail exposures where a scorecard must be completed for each IRB asset class."
+        },
+        {
+          "type": "paragraph",
+          "text": "Institutions should clearly identify any differences between asset classes that apply to the requirements identified in the RRS Scorecard, including composition of the underlying portfolio (see Schedule 2)."
+        },
+        {
+          "type": "paragraph",
+          "text": "In the case of retail exposures, OSFI expects institutions to complete one scorecard for each IRB asset class. For example, if the institution has one RRS for all retail exposures, the institution should populate three scorecards, for retail mortgages, qualifying revolvers and other retail exposures, respectively. Please see Section 3 for a more detailed description of the RRS Scorecard and Figure 2 for the structure of the RRS Scorecard."
+        },
+        {
+          "type": "paragraph",
+          "text": "The Foreign DTI Subsidiary RRS Scorecard workbook contains four schedules as follows:"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Schedule 1 – FDS Scorecard Template Structure;",
+            "Schedule 2 – FDS RRS - Portfolio Overview;",
+            "Schedule 3 – FDS Self-Assessment Summary, and",
+            "Schedule 4 – FDS Supporting Worksheets."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "OSFI recognizes that IRB approval (and self-assessment) will be performed at a sub-consolidated basis. For instances where material and relevant differences arise in the application and operation of an RRS across multiple legal jurisdictions, the institution should identify these within the self-assessment, and explain how these differences were combined into the sub-consolidated RRS self-assessment of IRB compliance."
+        },
+        {
+          "type": "paragraph",
+          "text": "There are no separate scorecards explicitly designed for specialized lending Footnote 12 , purchased receivables, IRB equity, and IRB asset securitization. Institutions are encouraged to conduct a self-assessment against the relevant paragraphs of OSFI’s CAR Guideline A-1 to ensure that they meet the requirements of the new Basel framework; this self-assessment should be made available to OSFI upon request."
+        }
+      ]
+    },
+    {
+      "heading": "2.6 RRS Summary",
+      "heading_level": 3,
+      "full_text": "The RRS Summary template is presented in Schedule 7. The purpose of Schedule 7 is to give an overview of all the RRSs used by the institution as well as all exemptions, extensions and waivers.\nIn addition, Schedule 7 requires an institution to indicate the amount and percentage of gross credit assets and the IRB credit risk-weighted assets covered by each RRS used by the institution.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "The RRS Summary template is presented in Schedule 7. The purpose of Schedule 7 is to give an overview of all the RRSs used by the institution as well as all exemptions, extensions and waivers."
+        },
+        {
+          "type": "paragraph",
+          "text": "In addition, Schedule 7 requires an institution to indicate the amount and percentage of gross credit assets and the IRB credit risk-weighted assets covered by each RRS used by the institution."
+        }
+      ]
+    },
+    {
+      "heading": "3.1 General Overview",
+      "heading_level": 3,
+      "full_text": "The purpose of the Foreign DTI Subsidiary RRS Scorecard is to create a framework for self-assessment and supervisory review purposes during the IRB approval process, which also reflects home-host considerations. All responses and assessments provided in the RRS Scorecard are specific to the RRS identified by the institution.\nDifferent parts of the Foreign DTI Subsidiary RRS Scorecard are shaded in different colors to assist in the use of the scorecard. Risk and/or business management (as applicable) should complete all areas shaded in blue. Internal audit should complete the areas shaded in orange. Areas that are shaded in gray should not be completed.\nOSFI expects risk and/or business management (as applicable) to be primarily responsible for populating the scorecard. As a part of their self-assessment, risk and/or business management will identify gaps and map them to projects initiated by the institution and will provide an assessment of compliance with the IRB minimum requirements as at the appropriate assessment date.\nRisk and/or business management should have clear measures of success for every assessment, whether the institution meets the requirement or has an outstanding gap to close. In addition, risk and/or business management should assess the status of projects, where these are identified as necessary for gap closure.\nOSFI expects internal audit to complete columns 12 and 13 of the supporting worksheets in Schedule 4 and assess the institution’s adherence to the IRB minimum requirements, as set out in paragraph 443 of the CAR Guideline A-1.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "The purpose of the Foreign DTI Subsidiary RRS Scorecard is to create a framework for self-assessment and supervisory review purposes during the IRB approval process, which also reflects home-host considerations. All responses and assessments provided in the RRS Scorecard are specific to the RRS identified by the institution."
+        },
+        {
+          "type": "paragraph",
+          "text": "Different parts of the Foreign DTI Subsidiary RRS Scorecard are shaded in different colors to assist in the use of the scorecard. Risk and/or business management (as applicable) should complete all areas shaded in blue. Internal audit should complete the areas shaded in orange. Areas that are shaded in gray should not be completed."
+        },
+        {
+          "type": "paragraph",
+          "text": "OSFI expects risk and/or business management (as applicable) to be primarily responsible for populating the scorecard. As a part of their self-assessment, risk and/or business management will identify gaps and map them to projects initiated by the institution and will provide an assessment of compliance with the IRB minimum requirements as at the appropriate assessment date."
+        },
+        {
+          "type": "paragraph",
+          "text": "Risk and/or business management should have clear measures of success for every assessment, whether the institution meets the requirement or has an outstanding gap to close. In addition, risk and/or business management should assess the status of projects, where these are identified as necessary for gap closure."
+        },
+        {
+          "type": "paragraph",
+          "text": "OSFI expects internal audit to complete columns 12 and 13 of the supporting worksheets in Schedule 4 and assess the institution’s adherence to the IRB minimum requirements, as set out in paragraph 443 of the CAR Guideline A-1."
+        }
+      ]
+    },
+    {
+      "heading": "3.2 Front Page",
+      "heading_level": 3,
+      "full_text": "On the front page, the institution will complete summary information relating to the risk rating system as follows: the DTI name, the business unit that uses the RRS, the name of the RRS, the name of the portfolio Footnote 13 , the IRB asset class that is covered by the RRS, and the date when the self-assessment was done. If desired, the institutions may indicate the dates when the different schedules or ratings were updated.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "On the front page, the institution will complete summary information relating to the risk rating system as follows: the DTI name, the business unit that uses the RRS, the name of the RRS, the name of the portfolio Footnote 13 , the IRB asset class that is covered by the RRS, and the date when the self-assessment was done. If desired, the institutions may indicate the dates when the different schedules or ratings were updated."
+        }
+      ]
+    },
+    {
+      "heading": "3.3 Schedule 1 – Foreign DTI Subsidiary RRS Scorecard Template Structure",
+      "heading_level": 3,
+      "full_text": "Schedule 1 (FDS Subsidiary RRS Scorecard Template Structure) illustrates the organization of the overall scorecard workbook and its associated schedules. Schedule 1 shows the three distinct sections of the Foreign DTI Subsidiary RRS Scorecard: (1) Introduction & Overview, (2) Self-Assessment Summary, and (3) Supporting Worksheets. Please refer to Figure 2 for a graphical presentation of the RRS Scorecard structure.\nThe first section includes three worksheets: (1) Front Page, (2) Schedule 1 - FDS Scorecard Template Structure, and (3) Schedule 2 – FDS RRS Portfolio Overview.\nThe second section contains Schedule 3 – FDS Self-Assessment Summary, which is populated automatically from supporting schedules.\nThe third section contains Schedule 4, which includes eight supporting worksheets. There is one worksheet for each selected subsection of the IRB minimum requirements of the CAR Guideline A-1, including the following: (1) Overall Compliance, (2) RRS Design, (3) RRS Operations, (4) Corporate Governance, CRCU, & Internal Audit, (5) Use of RRS, (6) Risk Quantification, (7) Validation, and (8) Supervisory LGD & EAD Estimates (FIRB).\nForeign DTI subsidiaries must complete Schedule 2, while other supporting schedules will be completed, as required, based on the outcomes of the home-host process outlined in Section 1.3.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Schedule 1 (FDS Subsidiary RRS Scorecard Template Structure) illustrates the organization of the overall scorecard workbook and its associated schedules. Schedule 1 shows the three distinct sections of the Foreign DTI Subsidiary RRS Scorecard: (1) Introduction & Overview, (2) Self-Assessment Summary, and (3) Supporting Worksheets. Please refer to Figure 2 for a graphical presentation of the RRS Scorecard structure."
+        },
+        {
+          "type": "paragraph",
+          "text": "The first section includes three worksheets: (1) Front Page, (2) Schedule 1 - FDS Scorecard Template Structure, and (3) Schedule 2 – FDS RRS Portfolio Overview."
+        },
+        {
+          "type": "paragraph",
+          "text": "The second section contains Schedule 3 – FDS Self-Assessment Summary, which is populated automatically from supporting schedules."
+        },
+        {
+          "type": "paragraph",
+          "text": "The third section contains Schedule 4, which includes eight supporting worksheets. There is one worksheet for each selected subsection of the IRB minimum requirements of the CAR Guideline A-1, including the following: (1) Overall Compliance, (2) RRS Design, (3) RRS Operations, (4) Corporate Governance, CRCU, & Internal Audit, (5) Use of RRS, (6) Risk Quantification, (7) Validation, and (8) Supervisory LGD & EAD Estimates (FIRB)."
+        },
+        {
+          "type": "paragraph",
+          "text": "Foreign DTI subsidiaries must complete Schedule 2, while other supporting schedules will be completed, as required, based on the outcomes of the home-host process outlined in Section 1.3."
+        }
+      ]
+    },
+    {
+      "heading": "3.4 Schedule 2 – FDS Risk Rating System Portfolio Overview",
+      "heading_level": 3,
+      "full_text": "Schedule 2 (FDS Risk Rating System Portfolio Overview) provides an overview of the RRS together with information on the portfolio to which the RRS applies. The institution is asked to provide information broken down by non-retail and retail exposures, and by parent banking group (or consolidated basis) and foreign DTI subsidiary (or sub-consolidated basis). Schedule 2 contains ten tables, as listed below:\n  1. Table 1.1. RRS Definition\n  2. Table 1.2. General Overview\n  3. Table 1.3. Criteria/Segmentation Borrower/Facility\n  4. Table 1.4. Methodology (Borrower/Facility)\n  5. Table 1.5. Responsibility\n  6. Table 1.6. Performance of RRS\n  7. Table 1.7. Use of RRS\n  8. Table 1.8. RRS Overrides\n  9. Table 1.9. Implementation\n  10. Table 1.10 Internal Audit",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Schedule 2 (FDS Risk Rating System Portfolio Overview) provides an overview of the RRS together with information on the portfolio to which the RRS applies. The institution is asked to provide information broken down by non-retail and retail exposures, and by parent banking group (or consolidated basis) and foreign DTI subsidiary (or sub-consolidated basis). Schedule 2 contains ten tables, as listed below:"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "Table 1.1. RRS Definition",
+            "Table 1.2. General Overview",
+            "Table 1.3. Criteria/Segmentation Borrower/Facility",
+            "Table 1.4. Methodology (Borrower/Facility)",
+            "Table 1.5. Responsibility",
+            "Table 1.6. Performance of RRS",
+            "Table 1.7. Use of RRS",
+            "Table 1.8. RRS Overrides",
+            "Table 1.9. Implementation",
+            "Table 1.10 Internal Audit"
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "3.4.1 RRS Definition",
+      "heading_level": 4,
+      "full_text": "In Table 1.1 (RRS Definition), the institution will provide the name and abbreviation used internally to describe the RRS and define the RRS that is to be self-assessed. Table 1.1 has a highlighted area (shaded in blue) where the institution can input its definition.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "In Table 1.1 (RRS Definition), the institution will provide the name and abbreviation used internally to describe the RRS and define the RRS that is to be self-assessed. Table 1.1 has a highlighted area (shaded in blue) where the institution can input its definition."
+        }
+      ]
+    },
+    {
+      "heading": "3.4.2 General Overview",
+      "heading_level": 4,
+      "full_text": "In Table 1.2 (General Overview), the institution will provide general background information on the RRS. If the institution uses one RRS Scorecard for several asset classes, it should provide clear explanation of any differences between the asset classes, as it is required in Table 1.2. Also, the institution should provide totals and the breakdowns by asset class. A brief description outlining what is required for each field is provided below in Exhibit 3.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "In Table 1.2 (General Overview), the institution will provide general background information on the RRS. If the institution uses one RRS Scorecard for several asset classes, it should provide clear explanation of any differences between the asset classes, as it is required in Table 1.2. Also, the institution should provide totals and the breakdowns by asset class. A brief description outlining what is required for each field is provided below in Exhibit 3."
+        }
+      ]
+    },
+    {
+      "heading": "Exhibit 3. General Overview",
+      "heading_level": 5,
+      "full_text": "Required Information | Definition\nBasel II asset class | Identify the IRB asset class that is covered by this RRS.\nCoverage of related Basel II gross credit assets | Provide the size of portfolio that the RRS covers in terms of $ billion and % of consolidated gross credit assets.\nCoverage of related Basel II RWA | Provide the size of portfolio that the RRS covers in terms of RWA in $ billion and % of consolidated RWA.\nBusiness unit/division | Identify the relevant business unit/division that uses this RRS.\nProducts/customers covered by RRS | Provide a brief description of the products/customers covered by the RRS.\nCountry, % | Identify those countries to which the RRS is applied and indicate the size of exposure as a % of gross credit assets.\nYears/months in use | Indicate how many months/years the system has been in use.\n# of grades/buckets | Provide the number of grades/buckets used by the RRS for each rating dimension within the rating system.\n# of borrowers/facilities | Indicate the number of borrowers/facilities covered by the RRS as of the same date the assessment of the size of the portfolio was performed.\nLevel of sign-off | Indicate the level of sign-off used.\nDefinition of default | Provide the definition of default used by the RRS.\nActual number of defaults (total/last 12 months) | Provide the total actual number of defaults realized against the RRS during its history of operation, as well as the specific number of defaults that have occurred in the last 12 months.\nRating philosophy | Define the rating philosophy of the RRS (“point-in-time”, “through-the-cycle” or “hybrid”). If the rating philosophy is defined as “hybrid”, provide a clear explanation of what “hybrid” means.\nList of names of rating guidelines/documents | List all relevant rating documentation, such as policies, procedures, etc.",
+      "content": [
+        {
+          "type": "table",
+          "caption": "",
+          "rows": [
+            [
+              "Required Information",
+              "Definition"
+            ],
+            [
+              "Basel II asset class",
+              "Identify the IRB asset class that is covered by this RRS."
+            ],
+            [
+              "Coverage of related Basel II gross credit assets",
+              "Provide the size of portfolio that the RRS covers in terms of $ billion and % of consolidated gross credit assets."
+            ],
+            [
+              "Coverage of related Basel II RWA",
+              "Provide the size of portfolio that the RRS covers in terms of RWA in $ billion and % of consolidated RWA."
+            ],
+            [
+              "Business unit/division",
+              "Identify the relevant business unit/division that uses this RRS."
+            ],
+            [
+              "Products/customers covered by RRS",
+              "Provide a brief description of the products/customers covered by the RRS."
+            ],
+            [
+              "Country, %",
+              "Identify those countries to which the RRS is applied and indicate the size of exposure as a % of gross credit assets."
+            ],
+            [
+              "Years/months in use",
+              "Indicate how many months/years the system has been in use."
+            ],
+            [
+              "# of grades/buckets",
+              "Provide the number of grades/buckets used by the RRS for each rating dimension within the rating system."
+            ],
+            [
+              "# of borrowers/facilities",
+              "Indicate the number of borrowers/facilities covered by the RRS as of the same date the assessment of the size of the portfolio was performed."
+            ],
+            [
+              "Level of sign-off",
+              "Indicate the level of sign-off used."
+            ],
+            [
+              "Definition of default",
+              "Provide the definition of default used by the RRS."
+            ],
+            [
+              "Actual number of defaults (total/last 12 months)",
+              "Provide the total actual number of defaults realized against the RRS during its history of operation, as well as the specific number of defaults that have occurred in the last 12 months."
+            ],
+            [
+              "Rating philosophy",
+              "Define the rating philosophy of the RRS (“point-in-time”, “through-the-cycle” or “hybrid”). If the rating philosophy is defined as “hybrid”, provide a clear explanation of what “hybrid” means."
+            ],
+            [
+              "List of names of rating guidelines/documents",
+              "List all relevant rating documentation, such as policies, procedures, etc."
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "3.4.3 Criteria/Segmentation Borrower/Facility",
+      "heading_level": 4,
+      "full_text": "In Table 1.3 (Criteria/Segmentation Borrower/Facility), the institution will provide information on RRS criteria/segmentation by borrower and facility rating dimension (and by parent banking group and foreign DTI subsidiary). The table is divided into two sections: non-retail and retail. For each instance, the institution will populate the sections highlighted in blue. A brief description outlining what is required for each field (by rating dimension) for the non-retail asset classes is provided in Exhibit 4.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "In Table 1.3 (Criteria/Segmentation Borrower/Facility), the institution will provide information on RRS criteria/segmentation by borrower and facility rating dimension (and by parent banking group and foreign DTI subsidiary). The table is divided into two sections: non-retail and retail. For each instance, the institution will populate the sections highlighted in blue. A brief description outlining what is required for each field (by rating dimension) for the non-retail asset classes is provided in Exhibit 4."
+        }
+      ]
+    },
+    {
+      "heading": "Exhibit 4. Criteria/Segmentation: Non-Retail",
+      "heading_level": 5,
+      "full_text": "Required Information | Definition\nMapping RRS to industries (if applicable) Do you map RRS to industries? (y/n) List of industries covered List of supporting documents | Where applicable, please indicate if the RRS is mapped to industries. If yes, please list all the industries covered by the RRS, as defined by the internal industry classification of the institution. Please provide a list of titles of all supporting documentation to support this mapping.\nMapping RRS to master scale (if applicable) Do you map RRS to master scale? (y/n) List of supporting documents | Where applicable, please indicate if the RRS is mapped to master scale. If yes, please provide a list of titles of all supporting documentation to support this mapping.\nMapping RRS to external rating agencies Do you map RRS to external rating agencies? (y/n) List of supporting documents | Is the RRS mapped to external rating agencies? If yes, please provide a list of titles of all supporting documentation to support this mapping.\nCriteria used for RRS (key inputs) Criteria for each rating bucket Criteria for each rating scale (PD, LGD (as applicable)) Granularity List of supporting documents | Identify the key criteria used for each rating bucket or grade and the criteria used to determine the number of rating grades or buckets within a specific rating dimension and rating dimension granularity. Provide a list of titles of all supporting documentation relating to RRS criteria and rating dimension granularity.\nMapping RRS to industries (if applicable)\n  - Do you map RRS to industries? (y/n)\n  - List of industries covered\n  - List of supporting documents\nMapping RRS to master scale (if applicable)\n  - Do you map RRS to master scale? (y/n)\n  - List of supporting documents\nMapping RRS to external rating agencies\n  - Do you map RRS to external rating agencies? (y/n)\n  - List of supporting documents\nCriteria used for RRS (key inputs)\n  - Criteria for each rating bucket\n  - Criteria for each rating scale (PD, LGD (as applicable))\n  - Granularity\n  - List of supporting documents\nA brief description outlining what is required for each field in the retail asset class table is provided below in Exhibit 5. For each instance, the institution will populate the sections highlighted in blue.",
+      "content": [
+        {
+          "type": "table",
+          "caption": "",
+          "rows": [
+            [
+              "Required Information",
+              "Definition"
+            ],
+            [
+              "Mapping RRS to industries (if applicable) Do you map RRS to industries? (y/n) List of industries covered List of supporting documents",
+              "Where applicable, please indicate if the RRS is mapped to industries. If yes, please list all the industries covered by the RRS, as defined by the internal industry classification of the institution. Please provide a list of titles of all supporting documentation to support this mapping."
+            ],
+            [
+              "Mapping RRS to master scale (if applicable) Do you map RRS to master scale? (y/n) List of supporting documents",
+              "Where applicable, please indicate if the RRS is mapped to master scale. If yes, please provide a list of titles of all supporting documentation to support this mapping."
+            ],
+            [
+              "Mapping RRS to external rating agencies Do you map RRS to external rating agencies? (y/n) List of supporting documents",
+              "Is the RRS mapped to external rating agencies? If yes, please provide a list of titles of all supporting documentation to support this mapping."
+            ],
+            [
+              "Criteria used for RRS (key inputs) Criteria for each rating bucket Criteria for each rating scale (PD, LGD (as applicable)) Granularity List of supporting documents",
+              "Identify the key criteria used for each rating bucket or grade and the criteria used to determine the number of rating grades or buckets within a specific rating dimension and rating dimension granularity. Provide a list of titles of all supporting documentation relating to RRS criteria and rating dimension granularity."
+            ]
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Mapping RRS to industries (if applicable)"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Do you map RRS to industries? (y/n)",
+            "List of industries covered",
+            "List of supporting documents"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Mapping RRS to master scale (if applicable)"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Do you map RRS to master scale? (y/n)",
+            "List of supporting documents"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Mapping RRS to external rating agencies"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Do you map RRS to external rating agencies? (y/n)",
+            "List of supporting documents"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Criteria used for RRS (key inputs)"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Criteria for each rating bucket",
+            "Criteria for each rating scale (PD, LGD (as applicable))",
+            "Granularity",
+            "List of supporting documents"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "A brief description outlining what is required for each field in the retail asset class table is provided below in Exhibit 5. For each instance, the institution will populate the sections highlighted in blue."
+        }
+      ]
+    },
+    {
+      "heading": "Exhibit 5. Criteria/Segmentation: Retail",
+      "heading_level": 5,
+      "full_text": "Required Information | Definition\nSegmentation criteria | Define the segmentation criteria used in the RRS design.\nList of titles of supporting documents | Provide a list of titles of any relevant supporting documentation.\nMapping RRS to credit score Do you map RRS to credit score? (y/n) List of supporting documents | Indicate whether the institution maps the RRS to credit scores. If so, provide a list of titles of any relevant supporting documentation.\nSegmentation criteria\nList of titles of supporting documents\nMapping RRS to credit score\n  - Do you map RRS to credit score? (y/n)\n  - List of supporting documents",
+      "content": [
+        {
+          "type": "table",
+          "caption": "",
+          "rows": [
+            [
+              "Required Information",
+              "Definition"
+            ],
+            [
+              "Segmentation criteria",
+              "Define the segmentation criteria used in the RRS design."
+            ],
+            [
+              "List of titles of supporting documents",
+              "Provide a list of titles of any relevant supporting documentation."
+            ],
+            [
+              "Mapping RRS to credit score Do you map RRS to credit score? (y/n) List of supporting documents",
+              "Indicate whether the institution maps the RRS to credit scores. If so, provide a list of titles of any relevant supporting documentation."
+            ]
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Segmentation criteria"
+        },
+        {
+          "type": "paragraph",
+          "text": "List of titles of supporting documents"
+        },
+        {
+          "type": "paragraph",
+          "text": "Mapping RRS to credit score"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Do you map RRS to credit score? (y/n)",
+            "List of supporting documents"
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "3.4.4 Methodology (Borrower/Facility)",
+      "heading_level": 4,
+      "full_text": "In Table 1.4 (Methodology (Borrower/Facility)), the institution will provide information on its rating assignment methodology. Table 1.4 is divided into two sections: non-retail and retail. A brief description outlining what is required for each field in the non-retail and retail asset class table is provided in Exhibit 6. For each instance, the institution will populate the sections highlighted in blue.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "In Table 1.4 (Methodology (Borrower/Facility)), the institution will provide information on its rating assignment methodology. Table 1.4 is divided into two sections: non-retail and retail. A brief description outlining what is required for each field in the non-retail and retail asset class table is provided in Exhibit 6. For each instance, the institution will populate the sections highlighted in blue."
+        }
+      ]
+    },
+    {
+      "heading": "Exhibit 6. Methodology Borrower/Facility: Non-Retail and Retail",
+      "heading_level": 5,
+      "full_text": "Required Information | Definition\nType of Model | Indicate if it is model-based, expert judgment or hybrid. If the model is defined as hybrid, provide a short explanation of what hybrid means for each model.\nBrief Description | Provide a description of the rating mechanics (model-based, expert judgment or hybrid).\nFor model-based: Model name Proprietary or vendor models External vendor | Provide the name of the model by which it is known internally. For model-based approaches, indicate whether this is a proprietary model or vendor model. List the name of the external vendor and its respective vendor, as applicable.\nList of supporting documents | List titles of any relevant supporting documentation.\nType of Model\nBrief Description\nFor model-based:\n  - Model name\n  - Proprietary or vendor models\n  - External vendor\nProvide the name of the model by which it is known internally.\nFor model-based approaches, indicate whether this is a proprietary model or vendor model.\nList the name of the external vendor and its respective vendor, as applicable.\nList of supporting documents",
+      "content": [
+        {
+          "type": "table",
+          "caption": "",
+          "rows": [
+            [
+              "Required Information",
+              "Definition"
+            ],
+            [
+              "Type of Model",
+              "Indicate if it is model-based, expert judgment or hybrid. If the model is defined as hybrid, provide a short explanation of what hybrid means for each model."
+            ],
+            [
+              "Brief Description",
+              "Provide a description of the rating mechanics (model-based, expert judgment or hybrid)."
+            ],
+            [
+              "For model-based: Model name Proprietary or vendor models External vendor",
+              "Provide the name of the model by which it is known internally. For model-based approaches, indicate whether this is a proprietary model or vendor model. List the name of the external vendor and its respective vendor, as applicable."
+            ],
+            [
+              "List of supporting documents",
+              "List titles of any relevant supporting documentation."
+            ]
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Type of Model"
+        },
+        {
+          "type": "paragraph",
+          "text": "Brief Description"
+        },
+        {
+          "type": "paragraph",
+          "text": "For model-based:"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Model name",
+            "Proprietary or vendor models",
+            "External vendor"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Provide the name of the model by which it is known internally."
+        },
+        {
+          "type": "paragraph",
+          "text": "For model-based approaches, indicate whether this is a proprietary model or vendor model."
+        },
+        {
+          "type": "paragraph",
+          "text": "List the name of the external vendor and its respective vendor, as applicable."
+        },
+        {
+          "type": "paragraph",
+          "text": "List of supporting documents"
+        }
+      ]
+    },
+    {
+      "heading": "3.4.5 Responsibility",
+      "heading_level": 4,
+      "full_text": "In Table 1.5 (Responsibility), the institution will indicate the department and contact information for parties responsible for the areas listed in Exhibit 7. Also, the institution will identify relative responsibilities between the parent banking group and the foreign DTI subsidiary. For each instance, the institution will populate the sections highlighted in blue.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "In Table 1.5 (Responsibility), the institution will indicate the department and contact information for parties responsible for the areas listed in Exhibit 7. Also, the institution will identify relative responsibilities between the parent banking group and the foreign DTI subsidiary. For each instance, the institution will populate the sections highlighted in blue."
+        }
+      ]
+    },
+    {
+      "heading": "Exhibit 7. Responsibility",
+      "heading_level": 5,
+      "full_text": "Required Information | Definition\nDesign of RRS | Indicate the group/division responsible for the design of the RRS.\nValidation of RRS | Indicate the group/division responsible for the validation of the RRS.\nOperation of RRS Assignment of initial ratings Approval of initial rating Refreshment of the rating Approval of refreshment of the rating | Indicate the group/division responsible for the operation of the RRS Indicate the group/division responsible for the assignment of the initial ratings. Indicate the group/division responsible for the approval of initial ratings. Indicate the group/division responsible for the refreshment of internal ratings. Indicate the group/division responsible for the approval of refreshment of internal ratings..\nOrganizational charts for each category | Provide organizational charts that combine all the above activities, highlighting any differences applied to borrower vs. facility ratings.\nDesign of RRS\nValidation of RRS\nOperation of RRS\n  - Assignment of initial ratings\n  - Approval of initial rating\n  - Refreshment of the rating\n  - Approval of refreshment of the rating\nIndicate the group/division responsible for the operation of the RRS\nIndicate the group/division responsible for the assignment of the initial ratings.\nIndicate the group/division responsible for the approval of initial ratings.\nIndicate the group/division responsible for the refreshment of internal ratings.\nIndicate the group/division responsible for the approval of refreshment of internal ratings..\nOrganizational charts for each category",
+      "content": [
+        {
+          "type": "table",
+          "caption": "",
+          "rows": [
+            [
+              "Required Information",
+              "Definition"
+            ],
+            [
+              "Design of RRS",
+              "Indicate the group/division responsible for the design of the RRS."
+            ],
+            [
+              "Validation of RRS",
+              "Indicate the group/division responsible for the validation of the RRS."
+            ],
+            [
+              "Operation of RRS Assignment of initial ratings Approval of initial rating Refreshment of the rating Approval of refreshment of the rating",
+              "Indicate the group/division responsible for the operation of the RRS Indicate the group/division responsible for the assignment of the initial ratings. Indicate the group/division responsible for the approval of initial ratings. Indicate the group/division responsible for the refreshment of internal ratings. Indicate the group/division responsible for the approval of refreshment of internal ratings.."
+            ],
+            [
+              "Organizational charts for each category",
+              "Provide organizational charts that combine all the above activities, highlighting any differences applied to borrower vs. facility ratings."
+            ]
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Design of RRS"
+        },
+        {
+          "type": "paragraph",
+          "text": "Validation of RRS"
+        },
+        {
+          "type": "paragraph",
+          "text": "Operation of RRS"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Assignment of initial ratings",
+            "Approval of initial rating",
+            "Refreshment of the rating",
+            "Approval of refreshment of the rating"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Indicate the group/division responsible for the operation of the RRS"
+        },
+        {
+          "type": "paragraph",
+          "text": "Indicate the group/division responsible for the assignment of the initial ratings."
+        },
+        {
+          "type": "paragraph",
+          "text": "Indicate the group/division responsible for the approval of initial ratings."
+        },
+        {
+          "type": "paragraph",
+          "text": "Indicate the group/division responsible for the refreshment of internal ratings."
+        },
+        {
+          "type": "paragraph",
+          "text": "Indicate the group/division responsible for the approval of refreshment of internal ratings.."
+        },
+        {
+          "type": "paragraph",
+          "text": "Organizational charts for each category"
+        }
+      ]
+    },
+    {
+      "heading": "3.4.6 Performance of RRS",
+      "heading_level": 4,
+      "full_text": "In Table 1.6 (Performance of RRS), the institution will comment on the performance of the RRS. A brief description outlining what is required for each field is provided in Exhibit 8. Also, the institution will identify relative responsibilities between the parent banking group and the foreign DTI subsidiary. For each instance, the institution will populate the sections highlighted in blue.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "In Table 1.6 (Performance of RRS), the institution will comment on the performance of the RRS. A brief description outlining what is required for each field is provided in Exhibit 8. Also, the institution will identify relative responsibilities between the parent banking group and the foreign DTI subsidiary. For each instance, the institution will populate the sections highlighted in blue."
+        }
+      ]
+    },
+    {
+      "heading": "Exhibit 8. Performance of RRS",
+      "heading_level": 5,
+      "full_text": "Required Information | Definition\nList of tests performed to measure performance of RRS and their frequency of application | Provide a list of tests performed to measure the performance of the RRS and their respective frequency of application.\nList of management reports on RRS performance | Provide a list of titles of management reports associated with the RRS performance.\nList of tests performed to measure performance of RRS and their frequency of application\nList of management reports on RRS performance",
+      "content": [
+        {
+          "type": "table",
+          "caption": "",
+          "rows": [
+            [
+              "Required Information",
+              "Definition"
+            ],
+            [
+              "List of tests performed to measure performance of RRS and their frequency of application",
+              "Provide a list of tests performed to measure the performance of the RRS and their respective frequency of application."
+            ],
+            [
+              "List of management reports on RRS performance",
+              "Provide a list of titles of management reports associated with the RRS performance."
+            ]
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "List of tests performed to measure performance of RRS and their frequency of application"
+        },
+        {
+          "type": "paragraph",
+          "text": "List of management reports on RRS performance"
+        }
+      ]
+    },
+    {
+      "heading": "3.4.7 Use of RRS",
+      "heading_level": 4,
+      "full_text": "In Table 1.7 (Use of RRS), the institution will comment on the use of the RRS. Also, the institution will identify relative responsibilities between the parent banking group and the foreign DTI subsidiary. A brief description outlining what is required for each field is provided in Exhibit 9. For each instance, the institution is asked to populate the sections highlighted in blue.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "In Table 1.7 (Use of RRS), the institution will comment on the use of the RRS. Also, the institution will identify relative responsibilities between the parent banking group and the foreign DTI subsidiary. A brief description outlining what is required for each field is provided in Exhibit 9. For each instance, the institution is asked to populate the sections highlighted in blue."
+        }
+      ]
+    },
+    {
+      "heading": "Exhibit 9. Use of RRS",
+      "heading_level": 5,
+      "full_text": "Required Information | Definition\nLoan/Credit approval (Yes/No) | Respond (y/n) regarding loan approval use of the RRS and provide a brief explanation.\nReporting to senior management and the Board (Yes/No) | Respond (y/n) regarding reporting to senior management and the Board use of the RRS and provide a brief explanation.\nLoan loss reserving (Yes/No) | Respond (y/n) regarding loan loss reserving use of the RRS and provide a brief explanation.\nRegulatory capital allocation (Yes/No) | Respond (y/n) regarding regulatory capital allocation use of the RRS and provide a brief explanation.\nEconomic capital allocation (Yes/No) | Respond (y/n) regarding economic capital allocation use of the RRS and provide a brief explanation.\nProfitability analysis and pricing decisions (Yes/No) | Respond (y/n) regarding profitability analysis and pricing decision use of the RRS and provide a brief explanation.\nRisk and/or business management and loan monitoring (Yes/No) | Respond (y/n) regarding risk and/or business management use of the RRS and provide a brief explanation.\nOther (Please specify) | Provide information regarding any other relevant uses of the RRS.\nLoan/Credit approval (Yes/No)\nReporting to senior management and the Board (Yes/No)\nLoan loss reserving (Yes/No)\nRegulatory capital allocation (Yes/No)\nEconomic capital allocation (Yes/No)\nProfitability analysis and pricing decisions (Yes/No)\nRisk and/or business management and loan monitoring (Yes/No)\nOther (Please specify)",
+      "content": [
+        {
+          "type": "table",
+          "caption": "",
+          "rows": [
+            [
+              "Required Information",
+              "Definition"
+            ],
+            [
+              "Loan/Credit approval (Yes/No)",
+              "Respond (y/n) regarding loan approval use of the RRS and provide a brief explanation."
+            ],
+            [
+              "Reporting to senior management and the Board (Yes/No)",
+              "Respond (y/n) regarding reporting to senior management and the Board use of the RRS and provide a brief explanation."
+            ],
+            [
+              "Loan loss reserving (Yes/No)",
+              "Respond (y/n) regarding loan loss reserving use of the RRS and provide a brief explanation."
+            ],
+            [
+              "Regulatory capital allocation (Yes/No)",
+              "Respond (y/n) regarding regulatory capital allocation use of the RRS and provide a brief explanation."
+            ],
+            [
+              "Economic capital allocation (Yes/No)",
+              "Respond (y/n) regarding economic capital allocation use of the RRS and provide a brief explanation."
+            ],
+            [
+              "Profitability analysis and pricing decisions (Yes/No)",
+              "Respond (y/n) regarding profitability analysis and pricing decision use of the RRS and provide a brief explanation."
+            ],
+            [
+              "Risk and/or business management and loan monitoring (Yes/No)",
+              "Respond (y/n) regarding risk and/or business management use of the RRS and provide a brief explanation."
+            ],
+            [
+              "Other (Please specify)",
+              "Provide information regarding any other relevant uses of the RRS."
+            ]
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Loan/Credit approval (Yes/No)"
+        },
+        {
+          "type": "paragraph",
+          "text": "Reporting to senior management and the Board (Yes/No)"
+        },
+        {
+          "type": "paragraph",
+          "text": "Loan loss reserving (Yes/No)"
+        },
+        {
+          "type": "paragraph",
+          "text": "Regulatory capital allocation (Yes/No)"
+        },
+        {
+          "type": "paragraph",
+          "text": "Economic capital allocation (Yes/No)"
+        },
+        {
+          "type": "paragraph",
+          "text": "Profitability analysis and pricing decisions (Yes/No)"
+        },
+        {
+          "type": "paragraph",
+          "text": "Risk and/or business management and loan monitoring (Yes/No)"
+        },
+        {
+          "type": "paragraph",
+          "text": "Other (Please specify)"
+        }
+      ]
+    },
+    {
+      "heading": "3.4.8 RRS Overrides",
+      "heading_level": 4,
+      "full_text": "In Table 1.8 (RRS Overrides), the institution will comment on the frequency and scope of RRS overrides. Also, the institution will identify relative responsibilities between the parent banking group and the foreign DTI subsidiary. A brief description outlining what is required for each field is provided in Exhibit 10. For each instance, the institution is asked to populate the sections highlighted in blue.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "In Table 1.8 (RRS Overrides), the institution will comment on the frequency and scope of RRS overrides. Also, the institution will identify relative responsibilities between the parent banking group and the foreign DTI subsidiary. A brief description outlining what is required for each field is provided in Exhibit 10. For each instance, the institution is asked to populate the sections highlighted in blue."
+        }
+      ]
+    },
+    {
+      "heading": "Exhibit 10. RRS Overrides",
+      "heading_level": 5,
+      "full_text": "Required Information | Definition\nFrequency of RRS overrides | Provide the frequency of RRS overrides as a percentage of the total number of internal ratings.\nScope of overrides | Define the scope and control around the application of RRS overrides.\nFrequency of RRS overrides\nScope of overrides",
+      "content": [
+        {
+          "type": "table",
+          "caption": "",
+          "rows": [
+            [
+              "Required Information",
+              "Definition"
+            ],
+            [
+              "Frequency of RRS overrides",
+              "Provide the frequency of RRS overrides as a percentage of the total number of internal ratings."
+            ],
+            [
+              "Scope of overrides",
+              "Define the scope and control around the application of RRS overrides."
+            ]
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Frequency of RRS overrides"
+        },
+        {
+          "type": "paragraph",
+          "text": "Scope of overrides"
+        }
+      ]
+    },
+    {
+      "heading": "3.4.9 Implementation",
+      "heading_level": 4,
+      "full_text": "In Table 1.9 (Implementation), the institution is asked to summarize the division of responsibilities between the parent banking group and foreign DTI subsidiary for each of the major approval areas in the IRB minimum requirements. This is an important consideration for OSFI follow-up and discussion with the applicable home-country supervisor. As a general principle, the location of responsibility will drive the level of self-assessment detail required (e.g., rating systems that are designed, operated and validated locally will typically be subject to more detailed self-assessments than rating systems that are designed, operated and validated globally).",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "In Table 1.9 (Implementation), the institution is asked to summarize the division of responsibilities between the parent banking group and foreign DTI subsidiary for each of the major approval areas in the IRB minimum requirements. This is an important consideration for OSFI follow-up and discussion with the applicable home-country supervisor. As a general principle, the location of responsibility will drive the level of self-assessment detail required (e.g., rating systems that are designed, operated and validated locally will typically be subject to more detailed self-assessments than rating systems that are designed, operated and validated globally)."
+        }
+      ]
+    },
+    {
+      "heading": "3.4.10 Internal Audit",
+      "heading_level": 4,
+      "full_text": "In Table 1.10 (Internal Audit), the institution is asked to summarize the division of responsibilities of the parent banking group and foreign DTI subsidiary, in terms of internal audit work.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "In Table 1.10 (Internal Audit), the institution is asked to summarize the division of responsibilities of the parent banking group and foreign DTI subsidiary, in terms of internal audit work."
+        }
+      ]
+    },
+    {
+      "heading": "3.5 Schedule 3 – FDS Self-Assessment Summary",
+      "heading_level": 3,
+      "full_text": "Schedule 3 (FDS Self-Assessment Summary) has two summary tables that are populated automatically from the supporting worksheets contained within Schedule 4. The purpose of these tables is to provide a snapshot of the overall self-assessment against the IRB minimum requirements.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Schedule 3 (FDS Self-Assessment Summary) has two summary tables that are populated automatically from the supporting worksheets contained within Schedule 4. The purpose of these tables is to provide a snapshot of the overall self-assessment against the IRB minimum requirements."
+        }
+      ]
+    },
+    {
+      "heading": "3.6 Schedule 4 – Supporting Worksheets",
+      "heading_level": 3,
+      "full_text": "Schedule 4 (Supporting Worksheets) consists of eight sections (one per worksheet):\n  1. Overall Compliance;\n  2. RRS Design;\n  3. RRS Operation;\n  4. Corporate Governance, CRCU & Internal Audit;\n  5. Use of RRS;\n  6. Risk Quantification;\n  7. Validation\n  8. Supervisory LGD and EAD Estimates (FIRB).\nPlease refer to 3.6.3 for detailed descriptions.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Schedule 4 (Supporting Worksheets) consists of eight sections (one per worksheet):"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "Overall Compliance;",
+            "RRS Design;",
+            "RRS Operation;",
+            "Corporate Governance, CRCU & Internal Audit;",
+            "Use of RRS;",
+            "Risk Quantification;",
+            "Validation",
+            "Supervisory LGD and EAD Estimates (FIRB)."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Please refer to 3.6.3 for detailed descriptions."
+        }
+      ]
+    },
+    {
+      "heading": "3.6.1 Overview",
+      "heading_level": 4,
+      "full_text": "Chapter 5 of OSFI’s CAR Guideline A-1 structures the IRB minimum requirements in terms of key approval areas, such as RRS design and operation. For each approval area, related CAR paragraphs have been listed for reference purposes and brief descriptions of each paragraph have been provided. The institution is asked to assess itself against these paragraphs.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Chapter 5 of OSFI’s CAR Guideline A-1 structures the IRB minimum requirements in terms of key approval areas, such as RRS design and operation. For each approval area, related CAR paragraphs have been listed for reference purposes and brief descriptions of each paragraph have been provided. The institution is asked to assess itself against these paragraphs."
+        }
+      ]
+    },
+    {
+      "heading": "3.6.2 Ratings and Audit Status",
+      "heading_level": 4,
+      "full_text": "There are two ratings that should be used in the supporting worksheets: “Rating 2” and “Rating 3” (“Rating 1” is not applicable for foreign DTI subsidiaries). These ratings are to be completed by the risk and/or business management. Internal audit indicates audit status in column 12. A summary of the rating types is outlined below, viz.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "There are two ratings that should be used in the supporting worksheets: “Rating 2” and “Rating 3” (“Rating 1” is not applicable for foreign DTI subsidiaries). These ratings are to be completed by the risk and/or business management. Internal audit indicates audit status in column 12. A summary of the rating types is outlined below, viz."
+        }
+      ]
+    },
+    {
+      "heading": "3.6.2.1 Rating 2 – Project Completion Status",
+      "heading_level": 5,
+      "full_text": "Rating 2 (column 10) indicates the degree of completion for projects/activities that have been undertaken to close any compliance gaps related to the IRB minimum requirements. This rating is to be completed by risk and/or business management (as applicable). The rating is to be updated three times a year, and the date of the latest rating assessment should be stated in Table 2.2 on the same spreadsheet.\nRisk and/or business management should be prepared to provide supporting documentation upon request to support its assessment, as part of the supervisory review process. Supporting documentation could include such things as project status dashboards, as well as other internally produced project management reports. The institution indicates the rating by using a drop-down menu of one of the following:\n  1. Completed – Green\n  2. On schedule – Green\n  3. Somewhat behind schedule (reversible Footnote 14 ) – Yellow\n  4. Significantly behind schedule (non-reversible) – Red\n  5. No work has been completed – Blue.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Rating 2 (column 10) indicates the degree of completion for projects/activities that have been undertaken to close any compliance gaps related to the IRB minimum requirements. This rating is to be completed by risk and/or business management (as applicable). The rating is to be updated three times a year, and the date of the latest rating assessment should be stated in Table 2.2 on the same spreadsheet."
+        },
+        {
+          "type": "paragraph",
+          "text": "Risk and/or business management should be prepared to provide supporting documentation upon request to support its assessment, as part of the supervisory review process. Supporting documentation could include such things as project status dashboards, as well as other internally produced project management reports. The institution indicates the rating by using a drop-down menu of one of the following:"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "Completed – Green",
+            "On schedule – Green",
+            "Somewhat behind schedule (reversible Footnote 14 ) – Yellow",
+            "Significantly behind schedule (non-reversible) – Red",
+            "No work has been completed – Blue."
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "3.6.2.2 Rating 3 – Compliance Status",
+      "heading_level": 5,
+      "full_text": "Rating 3 (column 11) indicates the institution’s assessment of its status and progress towards full implementation. This rating is to be completed by risk and/or business management (as applicable). The rating is to be updated whenever material changes occur or at least once a year, and the date of the latest rating assessment should be stated in Table 2.2 on the same spreadsheet.\nThe rating could also be used as a reference point by internal audit in its assessment of adherence to the IRB minimum requirements. The institution indicates the rating by using a drop-down menu of one of the following:\n  1. Full compliance – Green\n  2. Substantial compliance (validation/use) – Yellow\n  3. Partial compliance (implementation) – Yellow\n  4. Non-compliance – Red\n  5. No internal assessment/approval work has been completed – Blue.\nExhibit 11 (below) provides a rough guideline of mapping of Rating-type 3 (Compliance) vs. the possible stages of IRB implementation, viz.\n | Gap Analysis/ Gap Identified | Design | Development | Testing | Initial Validation | Implementation | Ongoing Validation | Use\nFull compliance – Green |  |  |  |  |  |  |  | X\nSubstantial compliance – (validation/ use) - Yellow |  |  |  |  |  |  | X | X\nPartial compliance – (implementation) – Yellow |  |  |  |  |  | X | X | \nNon-compliance – Red |  | X | X | X | X | X |  | \nNo internal assessment/ approval work has been performed - Blue |  |  |  |  |  |  |  | ",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Rating 3 (column 11) indicates the institution’s assessment of its status and progress towards full implementation. This rating is to be completed by risk and/or business management (as applicable). The rating is to be updated whenever material changes occur or at least once a year, and the date of the latest rating assessment should be stated in Table 2.2 on the same spreadsheet."
+        },
+        {
+          "type": "paragraph",
+          "text": "The rating could also be used as a reference point by internal audit in its assessment of adherence to the IRB minimum requirements. The institution indicates the rating by using a drop-down menu of one of the following:"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "Full compliance – Green",
+            "Substantial compliance (validation/use) – Yellow",
+            "Partial compliance (implementation) – Yellow",
+            "Non-compliance – Red",
+            "No internal assessment/approval work has been completed – Blue."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Exhibit 11 (below) provides a rough guideline of mapping of Rating-type 3 (Compliance) vs. the possible stages of IRB implementation, viz."
+        },
+        {
+          "type": "table",
+          "caption": "",
+          "rows": [
+            [
+              "",
+              "Gap Analysis/ Gap Identified",
+              "Design",
+              "Development",
+              "Testing",
+              "Initial Validation",
+              "Implementation",
+              "Ongoing Validation",
+              "Use"
+            ],
+            [
+              "Full compliance – Green",
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              "X"
+            ],
+            [
+              "Substantial compliance – (validation/ use) - Yellow",
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              "X",
+              "X"
+            ],
+            [
+              "Partial compliance – (implementation) – Yellow",
+              "",
+              "",
+              "",
+              "",
+              "",
+              "X",
+              "X",
+              ""
+            ],
+            [
+              "Non-compliance – Red",
+              "",
+              "X",
+              "X",
+              "X",
+              "X",
+              "X",
+              "",
+              ""
+            ],
+            [
+              "No internal assessment/ approval work has been performed - Blue",
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              ""
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "3.6.2.3 Audit Status",
+      "heading_level": 5,
+      "full_text": "Audit status (column 12) should be completed by internal audit based on work performed as at the date of the self-assessment. The status is to be updated whenever material changes occur or at least once a year, and the date of the latest update should be stated in Table 2.1 on the same spreadsheet. The institution indicates audit status by using a drop-down menu of one of the following:\n  1. Audit work completed,\n  2. Audit work in progress,\n  3. Audit work planned,\n  4. No audit work planned.\nThe institution will indicate Audit Date, performed and/or planned, in column 13. If the institution has done or plans to do several audits in the same area, dates of all audit work should be captured.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Audit status (column 12) should be completed by internal audit based on work performed as at the date of the self-assessment. The status is to be updated whenever material changes occur or at least once a year, and the date of the latest update should be stated in Table 2.1 on the same spreadsheet. The institution indicates audit status by using a drop-down menu of one of the following:"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "Audit work completed,",
+            "Audit work in progress,",
+            "Audit work planned,",
+            "No audit work planned."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "The institution will indicate Audit Date, performed and/or planned, in column 13. If the institution has done or plans to do several audits in the same area, dates of all audit work should be captured."
+        }
+      ]
+    },
+    {
+      "heading": "3.6.3 Structure of Supporting Worksheets",
+      "heading_level": 4,
+      "full_text": "As indicated earlier, Schedule 4 (Supporting Worksheets) consists of eight supporting worksheets, one for each selected subsection of the key IRB minimum requirements of the CAR Guideline A-1:\n  1. Overall Compliance,\n  2. RRS Design,\n  3. RRS Operations,\n  4. Corporate Governance, CRCU, & Internal Audit,\n  5. Use of RRS,\n  6. Risk Quantification,\n  7. Validation, and\n  8. Supervisory LGD and EAD Estimates (FIRB).\nThe structure of each supporting worksheet is similar. Each worksheet is divided into three tables as follows: (1) Self-Assessment Scorecard, (2) Description of Assessment Work Completed (two parts), and (3) Names of all Supporting Documents.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "As indicated earlier, Schedule 4 (Supporting Worksheets) consists of eight supporting worksheets, one for each selected subsection of the key IRB minimum requirements of the CAR Guideline A-1:"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "Overall Compliance,",
+            "RRS Design,",
+            "RRS Operations,",
+            "Corporate Governance, CRCU, & Internal Audit,",
+            "Use of RRS,",
+            "Risk Quantification,",
+            "Validation, and",
+            "Supervisory LGD and EAD Estimates (FIRB)."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "The structure of each supporting worksheet is similar. Each worksheet is divided into three tables as follows: (1) Self-Assessment Scorecard, (2) Description of Assessment Work Completed (two parts), and (3) Names of all Supporting Documents."
+        }
+      ]
+    },
+    {
+      "heading": "3.6.3.1 Self-Assessment Scorecard",
+      "heading_level": 5,
+      "full_text": "Table 1 (Self-Assessment Scorecard), has 13 columns. It contains sections that should be completed by risk and/or business management (as applicable) and sections that should be completed by internal audit. A detailed summary of what is required for each column is listed in Exhibit 12.\nColumn # | Required Information | Definition\nColumn 1 | Reference # | This column is pre-populated. It is used for reference purposes.\nColumn 2 | Paragraph description | This column is pre-populated. It contains brief descriptions of the respective paragraphs contained in OSFI’s CAR.\nColumn 3 | Source/Paragraph # | This column is pre-populated. It is the related CAR paragraph number for the standards listed in column 2, above.\nColumn 4 | Asset class | This column is pre-populated. It indicates all related IRB asset classes subject to the paragraph.\nColumn 5 | Gap assessment (Rating 1) | This column is not applicable to foreign DTI subsidiaries.\nColumn 6 | Target compliance date | Provide a target compliance date.\nColumn 7 | Measures of success | Define the measures of success used to assess compliance with the IRB minimum requirements.\nColumn 8 | Activities/Initiatives/Projects | List the names of activities/initiatives/projects used to close the gaps identified.\nColumn 9 | Project owner (Division/Individual) | Provide information on the project owner (i.e., the name/position/division or business unit responsible for this project, as applicable).\nColumn 10 | Current project status (Rating 2) | Indicate the current project status using Rating 2. This column should be completed by risk and/or business management (as applicable).\nColumn 11 | Compliance (Rating 3) | Indicate if compliance has been achieved using Rating 3. This column should be completed by risk and/or business management (as applicable).\nColumn 12 | Internal audit (Audit Status) | ndicate the status of audit work performed. This column should be completed by internal audit.\nColumn 13 | Audit Date | Indicate when audit work was performed or will be performed. If there are several audits, indicate all applicable dates.\nColumn 14 | Comments | Provide any additional supporting comments, if required.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Table 1 (Self-Assessment Scorecard), has 13 columns. It contains sections that should be completed by risk and/or business management (as applicable) and sections that should be completed by internal audit. A detailed summary of what is required for each column is listed in Exhibit 12."
+        },
+        {
+          "type": "table",
+          "caption": "",
+          "rows": [
+            [
+              "Column #",
+              "Required Information",
+              "Definition"
+            ],
+            [
+              "Column 1",
+              "Reference #",
+              "This column is pre-populated. It is used for reference purposes."
+            ],
+            [
+              "Column 2",
+              "Paragraph description",
+              "This column is pre-populated. It contains brief descriptions of the respective paragraphs contained in OSFI’s CAR."
+            ],
+            [
+              "Column 3",
+              "Source/Paragraph #",
+              "This column is pre-populated. It is the related CAR paragraph number for the standards listed in column 2, above."
+            ],
+            [
+              "Column 4",
+              "Asset class",
+              "This column is pre-populated. It indicates all related IRB asset classes subject to the paragraph."
+            ],
+            [
+              "Column 5",
+              "Gap assessment (Rating 1)",
+              "This column is not applicable to foreign DTI subsidiaries."
+            ],
+            [
+              "Column 6",
+              "Target compliance date",
+              "Provide a target compliance date."
+            ],
+            [
+              "Column 7",
+              "Measures of success",
+              "Define the measures of success used to assess compliance with the IRB minimum requirements."
+            ],
+            [
+              "Column 8",
+              "Activities/Initiatives/Projects",
+              "List the names of activities/initiatives/projects used to close the gaps identified."
+            ],
+            [
+              "Column 9",
+              "Project owner (Division/Individual)",
+              "Provide information on the project owner (i.e., the name/position/division or business unit responsible for this project, as applicable)."
+            ],
+            [
+              "Column 10",
+              "Current project status (Rating 2)",
+              "Indicate the current project status using Rating 2. This column should be completed by risk and/or business management (as applicable)."
+            ],
+            [
+              "Column 11",
+              "Compliance (Rating 3)",
+              "Indicate if compliance has been achieved using Rating 3. This column should be completed by risk and/or business management (as applicable)."
+            ],
+            [
+              "Column 12",
+              "Internal audit (Audit Status)",
+              "ndicate the status of audit work performed. This column should be completed by internal audit."
+            ],
+            [
+              "Column 13",
+              "Audit Date",
+              "Indicate when audit work was performed or will be performed. If there are several audits, indicate all applicable dates."
+            ],
+            [
+              "Column 14",
+              "Comments",
+              "Provide any additional supporting comments, if required."
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "3.6.3.2 Description of Assessment Work Completed",
+      "heading_level": 5,
+      "full_text": "In Table 2.1 (Internal Audit), the institution will provide a brief description of all work completed by internal audit as at the self-assessment date. This description should include any reviews or activities.\nIn Table 2.2 (Other), the institution will describe the work done and rationale for assigning the rating status for current projects (column 10) and the rating status for compliance with IRB minimum requirements (column 11). The institution should also indicate when the assessment was done for each rating type. For more information on the update frequency of the various columns, please refer to Section 5 on Update Timeline.\nIn Table 2.2 (Other), the institution should also record any material changes to columns 6, 7, 8 and 9. In essence, this table can be used as a change log.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "In Table 2.1 (Internal Audit), the institution will provide a brief description of all work completed by internal audit as at the self-assessment date. This description should include any reviews or activities."
+        },
+        {
+          "type": "paragraph",
+          "text": "In Table 2.2 (Other), the institution will describe the work done and rationale for assigning the rating status for current projects (column 10) and the rating status for compliance with IRB minimum requirements (column 11). The institution should also indicate when the assessment was done for each rating type. For more information on the update frequency of the various columns, please refer to Section 5 on Update Timeline."
+        },
+        {
+          "type": "paragraph",
+          "text": "In Table 2.2 (Other), the institution should also record any material changes to columns 6, 7, 8 and 9. In essence, this table can be used as a change log."
+        }
+      ]
+    },
+    {
+      "heading": "3.6.3.3 Names of Supporting Documents",
+      "heading_level": 5,
+      "full_text": "In Table 3 (Names of Supporting Documents), the institution is asked to list all relevant supporting documents, such as guidelines, policies, project plans, internal audit reviews, review reports, or other applicable documents. The institution should also indicate relevant title(s), section(s), paragraph(s), etc. of the supporting documents for quick reference.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "In Table 3 (Names of Supporting Documents), the institution is asked to list all relevant supporting documents, such as guidelines, policies, project plans, internal audit reviews, review reports, or other applicable documents. The institution should also indicate relevant title(s), section(s), paragraph(s), etc. of the supporting documents for quick reference."
+        }
+      ]
+    },
+    {
+      "heading": "4. Schedule 7 – FDS RRS Summary",
+      "heading_level": 2,
+      "full_text": "Note: Schedules 5 & 6 are not applicable for foreign DTI subsidiaries and therefore are not included in the package.\nSchedule 7 (the FDS RRS Summary) provides an overview of all RRSs used by an institution (at a sub-consolidated level) as well as all exemptions, extensions and waivers. This is a summary table that integrates information from all IRB Scorecards and gives a snapshot of distribution of credit assets by RRS. On the front page, there is summary information, such as the institution name and the date on which the self-assessment was performed.\nThe template provides space for three RRSs. If the institution uses more than three RRSs, then additional rows should be pasted into the table, as applicable. The template provides additional rows for waivers, extensions and exemptions. Refer to Section 2.4 for the definitions.\nThe institution will provide information on total amounts of gross credit assets and total IRB credit risk-weighted assets covered by all RRSs in Columns 9, 10, 11, and 12 (at a sub-consolidated level). If the institution adds additional rows, it should ensure that the total sums all assets listed under the various RRSs, waivers, extensions and exemptions.\nThe RRS Summary table has 12 columns. A description outlining the required fields is given in Exhibit 13, below.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Note: Schedules 5 & 6 are not applicable for foreign DTI subsidiaries and therefore are not included in the package."
+        },
+        {
+          "type": "paragraph",
+          "text": "Schedule 7 (the FDS RRS Summary) provides an overview of all RRSs used by an institution (at a sub-consolidated level) as well as all exemptions, extensions and waivers. This is a summary table that integrates information from all IRB Scorecards and gives a snapshot of distribution of credit assets by RRS. On the front page, there is summary information, such as the institution name and the date on which the self-assessment was performed."
+        },
+        {
+          "type": "paragraph",
+          "text": "The template provides space for three RRSs. If the institution uses more than three RRSs, then additional rows should be pasted into the table, as applicable. The template provides additional rows for waivers, extensions and exemptions. Refer to Section 2.4 for the definitions."
+        },
+        {
+          "type": "paragraph",
+          "text": "The institution will provide information on total amounts of gross credit assets and total IRB credit risk-weighted assets covered by all RRSs in Columns 9, 10, 11, and 12 (at a sub-consolidated level). If the institution adds additional rows, it should ensure that the total sums all assets listed under the various RRSs, waivers, extensions and exemptions."
+        },
+        {
+          "type": "paragraph",
+          "text": "The RRS Summary table has 12 columns. A description outlining the required fields is given in Exhibit 13, below."
+        }
+      ]
+    },
+    {
+      "heading": "Exhibit 13. RRS Summary",
+      "heading_level": 3,
+      "full_text": "Required Information | Definition\nReference # | This is used for reference purposes. Every row has a distinct reference number.\nRisk rating system | All the RRS listed in Schedule 2, Table 1.1 are to be listed here.\n# of grades/buckets | The information provided here should match the information provided in Schedule 2, Table 1.2.\n# of borrowers/facilities | The information provided here should match the information provided in Schedule 2, Table 1.2.\nCountry | This column is not applicable to foreign DTI subsidiaries.\nBusiness unit/division | The information provided here should match the information provided in Schedule 2, Table 1.2.\nTarget compliance date | The information provided here should match the information provided in Schedule 4, Section 2, Table 1.\nIRB asset class | The information provided here should match the information provided in Schedule 2, Table 1.2.\nGross credit assets of subsidiary | Provide the size of portfolio that the RRS covers in terms of $ billion and % of consolidated gross credit assets.\nIRB credit RWA | Provide IRB credit RWA in terms of $ billion and % of consolidated IRB credit RWA.",
+      "content": [
+        {
+          "type": "table",
+          "caption": "",
+          "rows": [
+            [
+              "Required Information",
+              "Definition"
+            ],
+            [
+              "Reference #",
+              "This is used for reference purposes. Every row has a distinct reference number."
+            ],
+            [
+              "Risk rating system",
+              "All the RRS listed in Schedule 2, Table 1.1 are to be listed here."
+            ],
+            [
+              "# of grades/buckets",
+              "The information provided here should match the information provided in Schedule 2, Table 1.2."
+            ],
+            [
+              "# of borrowers/facilities",
+              "The information provided here should match the information provided in Schedule 2, Table 1.2."
+            ],
+            [
+              "Country",
+              "This column is not applicable to foreign DTI subsidiaries."
+            ],
+            [
+              "Business unit/division",
+              "The information provided here should match the information provided in Schedule 2, Table 1.2."
+            ],
+            [
+              "Target compliance date",
+              "The information provided here should match the information provided in Schedule 4, Section 2, Table 1."
+            ],
+            [
+              "IRB asset class",
+              "The information provided here should match the information provided in Schedule 2, Table 1.2."
+            ],
+            [
+              "Gross credit assets of subsidiary",
+              "Provide the size of portfolio that the RRS covers in terms of $ billion and % of consolidated gross credit assets."
+            ],
+            [
+              "IRB credit RWA",
+              "Provide IRB credit RWA in terms of $ billion and % of consolidated IRB credit RWA."
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "5. Update Timeline",
+      "heading_level": 2,
+      "full_text": "OSFI recognizes that the approval process is dynamic and that many activities will occur after the Formal Application Date (i.e., April 1, 2006). Consequently, the institution’s self-assessment package will also need to be dynamic to better reflect the current status of the institution’s implementation efforts.\nTo streamline the process and to identify critical areas for monitoring and updating, institutions will be required to re-submit their self-assessment by December 31, 2007 (based on an assessment date of September 30, 2007). In the interim, only Rating 2 should be updated on a regular basis. All other material changes should be reported on an exception basis to OSFI, as part of its regular monitoring process. Refer to Exhibit 14 for details.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "OSFI recognizes that the approval process is dynamic and that many activities will occur after the Formal Application Date (i.e., April 1, 2006). Consequently, the institution’s self-assessment package will also need to be dynamic to better reflect the current status of the institution’s implementation efforts."
+        },
+        {
+          "type": "paragraph",
+          "text": "To streamline the process and to identify critical areas for monitoring and updating, institutions will be required to re-submit their self-assessment by December 31, 2007 (based on an assessment date of September 30, 2007). In the interim, only Rating 2 should be updated on a regular basis. All other material changes should be reported on an exception basis to OSFI, as part of its regular monitoring process. Refer to Exhibit 14 for details."
+        }
+      ]
+    },
+    {
+      "heading": "Exhibit 14. Update Timeline",
+      "heading_level": 3,
+      "full_text": "List of Documents / Schedule #/ Section # | Section # of the Instructions | Update Frequency | Updated Field/Column | Comments\nChief Risk Officer’s Letter | 2.1 | Apr. 1, 2006 (as at Dec. 31, 2005) and Dec. 31, 2007 (as at Sep. 30, 2007) |  | If material changes have occurred, the institution should inform OSFI of this on a timely basis.\nInternal Auditor’s Letter | 2.2 | May 30, 2006 and Dec. 31, 2007 | \nDescription of Self-Assessment Process | 2.3 | Apr. 1, 2006 (as at Dec. 31, 2005) | \nDescription of Materiality, Extensions, Exemptions, and Waivers | 2.4 | Apr. 1, 2006 (as at Dec. 31, 2005) | \nForeign DTI Subsidiary Risk Rating System Scorecards: | 2.5 & 2.6 |  | \nFDS RRS Scorecard Template Structure (Schedule 1) | 3.3 |  | \nFDS RRS - Portfolio Overview (Schedule 2) | 3.4 | Apr. 1, 2006 (as at Dec. 31, 2005) and Dec. 31, 2007 (as at Sep. 30, 2007) | \nFDS Self-Assessment Summary (Schedule 3) | 3.5 | Populated automatically |  | \nSupporting worksheets (Schedule 4, Sections 1-8) | 3.6 | Apr. 1, 2006 (as at Dec. 31, 2005) and Dec. 31, 2007 (as at Sep. 30, 2007) | Only column 10 (“Rating 2”) should be updated three times a year. | If material changes have occurred, the institution should inform OSFI of this on a timely basis.\nRRS Summary (Schedule 7) | 4 | Apr. 1, 2006 (as at Dec. 31, 2005) and Dec. 31, 2007 (as at Sep. 30, 2007) |  | \n  - FDS RRS Scorecard Template Structure (Schedule 1)\n  - FDS RRS - Portfolio Overview (Schedule 2)\n  - FDS Self-Assessment Summary (Schedule 3)\n  - Supporting worksheets (Schedule 4, Sections 1-8)\n  - RRS Summary (Schedule 7)",
+      "content": [
+        {
+          "type": "table",
+          "caption": "",
+          "rows": [
+            [
+              "List of Documents / Schedule #/ Section #",
+              "Section # of the Instructions",
+              "Update Frequency",
+              "Updated Field/Column",
+              "Comments"
+            ],
+            [
+              "Chief Risk Officer’s Letter",
+              "2.1",
+              "Apr. 1, 2006 (as at Dec. 31, 2005) and Dec. 31, 2007 (as at Sep. 30, 2007)",
+              "",
+              "If material changes have occurred, the institution should inform OSFI of this on a timely basis."
+            ],
+            [
+              "Internal Auditor’s Letter",
+              "2.2",
+              "May 30, 2006 and Dec. 31, 2007",
+              ""
+            ],
+            [
+              "Description of Self-Assessment Process",
+              "2.3",
+              "Apr. 1, 2006 (as at Dec. 31, 2005)",
+              ""
+            ],
+            [
+              "Description of Materiality, Extensions, Exemptions, and Waivers",
+              "2.4",
+              "Apr. 1, 2006 (as at Dec. 31, 2005)",
+              ""
+            ],
+            [
+              "Foreign DTI Subsidiary Risk Rating System Scorecards:",
+              "2.5 & 2.6",
+              "",
+              ""
+            ],
+            [
+              "FDS RRS Scorecard Template Structure (Schedule 1)",
+              "3.3",
+              "",
+              ""
+            ],
+            [
+              "FDS RRS - Portfolio Overview (Schedule 2)",
+              "3.4",
+              "Apr. 1, 2006 (as at Dec. 31, 2005) and Dec. 31, 2007 (as at Sep. 30, 2007)",
+              ""
+            ],
+            [
+              "FDS Self-Assessment Summary (Schedule 3)",
+              "3.5",
+              "Populated automatically",
+              "",
+              ""
+            ],
+            [
+              "Supporting worksheets (Schedule 4, Sections 1-8)",
+              "3.6",
+              "Apr. 1, 2006 (as at Dec. 31, 2005) and Dec. 31, 2007 (as at Sep. 30, 2007)",
+              "Only column 10 (“Rating 2”) should be updated three times a year.",
+              "If material changes have occurred, the institution should inform OSFI of this on a timely basis."
+            ],
+            [
+              "RRS Summary (Schedule 7)",
+              "4",
+              "Apr. 1, 2006 (as at Dec. 31, 2005) and Dec. 31, 2007 (as at Sep. 30, 2007)",
+              "",
+              ""
+            ]
+          ]
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "FDS RRS Scorecard Template Structure (Schedule 1)"
+          ]
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "FDS RRS - Portfolio Overview (Schedule 2)"
+          ]
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "FDS Self-Assessment Summary (Schedule 3)"
+          ]
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Supporting worksheets (Schedule 4, Sections 1-8)"
+          ]
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "RRS Summary (Schedule 7)"
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "Appendix I: Five Phases of Approval Process",
+      "heading_level": 2,
+      "full_text": "Phases | Description | Timelines for Institutions with a Oct. 31 Year-end | Timelines for Institutions with a Dec. 31 Year-end\nPhase 1 | Monitoring of institutions’ implementation efforts | November 1, 2004 to January 31, 2006 | N/A\nPhase 2 | Formal application and preparation for ‘meaningful’ parallel reporting | February 1, 2006 to July 31, 2006 | April 1, 2006 to September 30, 2006\nPhase 3 | ‘Meaningful’ parallel reporting and completion of OSFI review for approval | August 1, 2006 to July 31, 2007 | October 1, 2006 to September 30, 2007\nPhase 4 | Approval for Pillar 1 credit risk capital purposes | August 1, 2007 to December 31, 2007 | October 1, 2007 to February 29, 2008\nPhase 5 | Monitoring of ongoing compliance | From November 1, 2007 | From January 1, 2008",
+      "content": [
+        {
+          "type": "table",
+          "caption": "",
+          "rows": [
+            [
+              "Phases",
+              "Description",
+              "Timelines for Institutions with a Oct. 31 Year-end",
+              "Timelines for Institutions with a Dec. 31 Year-end"
+            ],
+            [
+              "Phase 1",
+              "Monitoring of institutions’ implementation efforts",
+              "November 1, 2004 to January 31, 2006",
+              "N/A"
+            ],
+            [
+              "Phase 2",
+              "Formal application and preparation for ‘meaningful’ parallel reporting",
+              "February 1, 2006 to July 31, 2006",
+              "April 1, 2006 to September 30, 2006"
+            ],
+            [
+              "Phase 3",
+              "‘Meaningful’ parallel reporting and completion of OSFI review for approval",
+              "August 1, 2006 to July 31, 2007",
+              "October 1, 2006 to September 30, 2007"
+            ],
+            [
+              "Phase 4",
+              "Approval for Pillar 1 credit risk capital purposes",
+              "August 1, 2007 to December 31, 2007",
+              "October 1, 2007 to February 29, 2008"
+            ],
+            [
+              "Phase 5",
+              "Monitoring of ongoing compliance",
+              "From November 1, 2007",
+              "From January 1, 2008"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "Appendix II: Key Milestones of Approval Process",
+      "heading_level": 2,
+      "full_text": "Phases | Milestone | Description | Institutions with October 31 Year-ends: Key Dates for IRB Approval | Institutions with Dec 31 Year-ends: Key Dates for IRB Approval\n1 | 2 | 3 | 4 | 5\nPhase 1 | Start Date (‘Informal’ Application Date) | An institution enters the IRB approval process. This date should be at least 3 years prior to the implementation date. | November 1, 2004 | N/A\nRollout Plan Date | An institution submits its rollout plan for IRB. | November 1, 2004 | N/A\nPhase 2 | Formal Application Date & Preparation for Meaningful Parallel Reporting | An institution submits its formal IRB application to OSFI. | February 1, 2006 | April 1, 2006\nPhase 3 | Parallel Reporting Period Start Date | The start date of the parallel reporting period. | August 1, 2006 | October 1, 2006\nPhase 4 | Conditional Approval Date | An institution will be conditionally approved for IRB, subject to satisfactorily completing the parallel reporting period. | August 1, 2007 | October 1, 2007\nImplementation Date | The start date for the new Basel framework. | November 1, 2007 | January 1, 2008\nFormal Approval Date | An institution will be formally approved for IRB under Pillar 1 of the new Basel framework. This date should be within two months of the implementation date. | December 31, 2007 | February 29, 2008\nPhase 5 | Transition Period | The start and end dates for the Transition Period. | November 1, 2007 - October 31, 2010 | January 1, 2008 - Dec. 31, 2010\nFootnotes Footnote 1 Banks and bank holding companies to which the Bank Act applies and federally regulated trust or loan companies to which the Trust and Loan Companies Act applies are collectively referred to as “institutions”. Return to footnote 1 referrer Footnote 2 High-level principles for the cross-border implementation of the New Accord , Basel Committee on Banking Supervision, August 2003. Return to footnote 2 referrer Footnote 3 As defined in the Implementation Note, the various phases of approval are: Phase 1: Monitoring of institutions’ implementation efforts; Phase 2: Formal application and preparation for ‘meaningful’ parallel reporting; Phase 3: ’Meaningful’ parallel reporting and completion of OSFI review for approval; Phase 4: Approval for Pillar 1 credit risk capital purposes; Phase 5: Monitoring of ongoing compliance (see Appendix I for further details). Return to footnote 3 referrer Footnote 4 By submitting a signed application an institution consents that any information provided may be shared by OSFI with other regulators for the purpose of the approval process. Return to footnote 4 referrer Footnote 5 All documents listed in the package are to be submitted at the same time, with the exception of the Chief Auditor’s Letter, which is required to be submitted to OSFI by May 30, 2006. Return to footnote 5 referrer Footnote 6 Some of the documents, such as the description of the self-assessment process, and the description of waivers, extensions and exemptions should be re-submitted by December 31, 2007 if any material changes have occurred since their last submission. Return to footnote 6 referrer Footnote 7 International Convergence of Capital Measurement and Capital Standards: A Revised Framework, published by the Bank for International Settlements in June 2004. Return to footnote 7 referrer Footnote 8 Exemptions only apply to those asset classes, business units and/or legal entities that are deemed immaterial and will therefore report on an alternative Pillar I approach to credit risk. Return to footnote 8 referrer Footnote 9 Extensions apply to those material portfolios outside of Canada and the U.S. that are subject to a three-year transition period to roll out the IRB approach. Return to footnote 9 referrer Footnote 10 Waivers only apply to those material portfolios that are expected to be IRB-compliant by the Implementation Date of the new Basel framework. Return to footnote 10 referrer Footnote 11 The institutions should follow definitions of exposure classes based on OSFI’s CAR Guideline A-1, Section B1 Categorization of Exposures. Please refer to the following paragraphs for a definition of each exposure class: corporate exposures par. 218, sovereign exposures par. 229, bank exposures par. 230, retail exposures par. 231, qualifying revolving retail exposures par. 234, equity exposures par. 235, and eligible purchased receivables par. 239-241. Return to footnote 11 referrer Footnote 12 If the wholesale RRS covers several asset classes, including specialized lending (SL), and the institution populates one RRS Scorecard for several asset classes, SL should be assessed using the templates. Return to footnote 12 referrer Footnote 13 Portfolio definition is based on the RRS coverage of asset classes. If one RRS covers one IRB asset class, the portfolio and asset class should be identical for self-assessment purposes. For non-retail exposures, if one RRS covers several IRB asset classes, the portfolio definition should clearly state which asset classes are covered by the Foreign DTI Subsidiary RRS Scorecard. Return to footnote 13 referrer Footnote 14 Reversible in relation to the IRB rollout plan submitted to OSFI. Return to footnote 14 referrer",
+      "content": [
+        {
+          "type": "table",
+          "caption": "",
+          "rows": [
+            [
+              "Phases",
+              "Milestone",
+              "Description",
+              "Institutions with October 31 Year-ends: Key Dates for IRB Approval",
+              "Institutions with Dec 31 Year-ends: Key Dates for IRB Approval"
+            ],
+            [
+              "1",
+              "2",
+              "3",
+              "4",
+              "5"
+            ],
+            [
+              "Phase 1",
+              "Start Date (‘Informal’ Application Date)",
+              "An institution enters the IRB approval process. This date should be at least 3 years prior to the implementation date.",
+              "November 1, 2004",
+              "N/A"
+            ],
+            [
+              "Rollout Plan Date",
+              "An institution submits its rollout plan for IRB.",
+              "November 1, 2004",
+              "N/A"
+            ],
+            [
+              "Phase 2",
+              "Formal Application Date & Preparation for Meaningful Parallel Reporting",
+              "An institution submits its formal IRB application to OSFI.",
+              "February 1, 2006",
+              "April 1, 2006"
+            ],
+            [
+              "Phase 3",
+              "Parallel Reporting Period Start Date",
+              "The start date of the parallel reporting period.",
+              "August 1, 2006",
+              "October 1, 2006"
+            ],
+            [
+              "Phase 4",
+              "Conditional Approval Date",
+              "An institution will be conditionally approved for IRB, subject to satisfactorily completing the parallel reporting period.",
+              "August 1, 2007",
+              "October 1, 2007"
+            ],
+            [
+              "Implementation Date",
+              "The start date for the new Basel framework.",
+              "November 1, 2007",
+              "January 1, 2008"
+            ],
+            [
+              "Formal Approval Date",
+              "An institution will be formally approved for IRB under Pillar 1 of the new Basel framework. This date should be within two months of the implementation date.",
+              "December 31, 2007",
+              "February 29, 2008"
+            ],
+            [
+              "Phase 5",
+              "Transition Period",
+              "The start and end dates for the Transition Period.",
+              "November 1, 2007 - October 31, 2010",
+              "January 1, 2008 - Dec. 31, 2010"
+            ]
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Footnotes Footnote 1 Banks and bank holding companies to which the Bank Act applies and federally regulated trust or loan companies to which the Trust and Loan Companies Act applies are collectively referred to as “institutions”. Return to footnote 1 referrer Footnote 2 High-level principles for the cross-border implementation of the New Accord , Basel Committee on Banking Supervision, August 2003. Return to footnote 2 referrer Footnote 3 As defined in the Implementation Note, the various phases of approval are: Phase 1: Monitoring of institutions’ implementation efforts; Phase 2: Formal application and preparation for ‘meaningful’ parallel reporting; Phase 3: ’Meaningful’ parallel reporting and completion of OSFI review for approval; Phase 4: Approval for Pillar 1 credit risk capital purposes; Phase 5: Monitoring of ongoing compliance (see Appendix I for further details). Return to footnote 3 referrer Footnote 4 By submitting a signed application an institution consents that any information provided may be shared by OSFI with other regulators for the purpose of the approval process. Return to footnote 4 referrer Footnote 5 All documents listed in the package are to be submitted at the same time, with the exception of the Chief Auditor’s Letter, which is required to be submitted to OSFI by May 30, 2006. Return to footnote 5 referrer Footnote 6 Some of the documents, such as the description of the self-assessment process, and the description of waivers, extensions and exemptions should be re-submitted by December 31, 2007 if any material changes have occurred since their last submission. Return to footnote 6 referrer Footnote 7 International Convergence of Capital Measurement and Capital Standards: A Revised Framework, published by the Bank for International Settlements in June 2004. Return to footnote 7 referrer Footnote 8 Exemptions only apply to those asset classes, business units and/or legal entities that are deemed immaterial and will therefore report on an alternative Pillar I approach to credit risk. Return to footnote 8 referrer Footnote 9 Extensions apply to those material portfolios outside of Canada and the U.S. that are subject to a three-year transition period to roll out the IRB approach. Return to footnote 9 referrer Footnote 10 Waivers only apply to those material portfolios that are expected to be IRB-compliant by the Implementation Date of the new Basel framework. Return to footnote 10 referrer Footnote 11 The institutions should follow definitions of exposure classes based on OSFI’s CAR Guideline A-1, Section B1 Categorization of Exposures. Please refer to the following paragraphs for a definition of each exposure class: corporate exposures par. 218, sovereign exposures par. 229, bank exposures par. 230, retail exposures par. 231, qualifying revolving retail exposures par. 234, equity exposures par. 235, and eligible purchased receivables par. 239-241. Return to footnote 11 referrer Footnote 12 If the wholesale RRS covers several asset classes, including specialized lending (SL), and the institution populates one RRS Scorecard for several asset classes, SL should be assessed using the templates. Return to footnote 12 referrer Footnote 13 Portfolio definition is based on the RRS coverage of asset classes. If one RRS covers one IRB asset class, the portfolio and asset class should be identical for self-assessment purposes. For non-retail exposures, if one RRS covers several IRB asset classes, the portfolio definition should clearly state which asset classes are covered by the Foreign DTI Subsidiary RRS Scorecard. Return to footnote 13 referrer Footnote 14 Reversible in relation to the IRB rollout plan submitted to OSFI. Return to footnote 14 referrer"
+        }
+      ]
+    },
+    {
+      "heading": "Footnotes",
+      "heading_level": 2,
+      "full_text": "Banks and bank holding companies to which the Bank Act applies and federally regulated trust or loan companies to which the Trust and Loan Companies Act applies are collectively referred to as “institutions”.\nReturn to footnote 1 referrer\nHigh-level principles for the cross-border implementation of the New Accord , Basel Committee on Banking Supervision, August 2003.\nReturn to footnote 2 referrer\nAs defined in the Implementation Note, the various phases of approval are:\n  - Phase 1: Monitoring of institutions’ implementation efforts;\n  - Phase 2: Formal application and preparation for ‘meaningful’ parallel reporting;\n  - Phase 3: ’Meaningful’ parallel reporting and completion of OSFI review for approval;\n  - Phase 4: Approval for Pillar 1 credit risk capital purposes;\n  - Phase 5: Monitoring of ongoing compliance (see Appendix I for further details).\nReturn to footnote 3 referrer\nBy submitting a signed application an institution consents that any information provided may be shared by OSFI with other regulators for the purpose of the approval process.\nReturn to footnote 4 referrer\nAll documents listed in the package are to be submitted at the same time, with the exception of the Chief Auditor’s Letter, which is required to be submitted to OSFI by May 30, 2006.\nReturn to footnote 5 referrer\nSome of the documents, such as the description of the self-assessment process, and the description of waivers, extensions and exemptions should be re-submitted by December 31, 2007 if any material changes have occurred since their last submission.\nReturn to footnote 6 referrer\nInternational Convergence of Capital Measurement and Capital Standards: A Revised Framework, published by the Bank for International Settlements in June 2004.\nReturn to footnote 7 referrer\nExemptions only apply to those asset classes, business units and/or legal entities that are deemed immaterial and will therefore report on an alternative Pillar I approach to credit risk.\nReturn to footnote 8 referrer\nExtensions apply to those material portfolios outside of Canada and the U.S. that are subject to a three-year transition period to roll out the IRB approach.\nReturn to footnote 9 referrer\nWaivers only apply to those material portfolios that are expected to be IRB-compliant by the Implementation Date of the new Basel framework.\nReturn to footnote 10 referrer\nThe institutions should follow definitions of exposure classes based on OSFI’s CAR Guideline A-1, Section B1 Categorization of Exposures. Please refer to the following paragraphs for a definition of each exposure class: corporate exposures par. 218, sovereign exposures par. 229, bank exposures par. 230, retail exposures par. 231, qualifying revolving retail exposures par. 234, equity exposures par. 235, and eligible purchased receivables par. 239-241.\nReturn to footnote 11 referrer\nIf the wholesale RRS covers several asset classes, including specialized lending (SL), and the institution populates one RRS Scorecard for several asset classes, SL should be assessed using the templates.\nReturn to footnote 12 referrer\nPortfolio definition is based on the RRS coverage of asset classes. If one RRS covers one IRB asset class, the portfolio and asset class should be identical for self-assessment purposes. For non-retail exposures, if one RRS covers several IRB asset classes, the portfolio definition should clearly state which asset classes are covered by the Foreign DTI Subsidiary RRS Scorecard.\nReturn to footnote 13 referrer\nReversible in relation to the IRB rollout plan submitted to OSFI.\nReturn to footnote 14 referrer",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Banks and bank holding companies to which the Bank Act applies and federally regulated trust or loan companies to which the Trust and Loan Companies Act applies are collectively referred to as “institutions”."
+        },
+        {
+          "type": "paragraph",
+          "text": "Return to footnote 1 referrer"
+        },
+        {
+          "type": "paragraph",
+          "text": "High-level principles for the cross-border implementation of the New Accord , Basel Committee on Banking Supervision, August 2003."
+        },
+        {
+          "type": "paragraph",
+          "text": "Return to footnote 2 referrer"
+        },
+        {
+          "type": "paragraph",
+          "text": "As defined in the Implementation Note, the various phases of approval are:"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Phase 1: Monitoring of institutions’ implementation efforts;",
+            "Phase 2: Formal application and preparation for ‘meaningful’ parallel reporting;",
+            "Phase 3: ’Meaningful’ parallel reporting and completion of OSFI review for approval;",
+            "Phase 4: Approval for Pillar 1 credit risk capital purposes;",
+            "Phase 5: Monitoring of ongoing compliance (see Appendix I for further details)."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Return to footnote 3 referrer"
+        },
+        {
+          "type": "paragraph",
+          "text": "By submitting a signed application an institution consents that any information provided may be shared by OSFI with other regulators for the purpose of the approval process."
+        },
+        {
+          "type": "paragraph",
+          "text": "Return to footnote 4 referrer"
+        },
+        {
+          "type": "paragraph",
+          "text": "All documents listed in the package are to be submitted at the same time, with the exception of the Chief Auditor’s Letter, which is required to be submitted to OSFI by May 30, 2006."
+        },
+        {
+          "type": "paragraph",
+          "text": "Return to footnote 5 referrer"
+        },
+        {
+          "type": "paragraph",
+          "text": "Some of the documents, such as the description of the self-assessment process, and the description of waivers, extensions and exemptions should be re-submitted by December 31, 2007 if any material changes have occurred since their last submission."
+        },
+        {
+          "type": "paragraph",
+          "text": "Return to footnote 6 referrer"
+        },
+        {
+          "type": "paragraph",
+          "text": "International Convergence of Capital Measurement and Capital Standards: A Revised Framework, published by the Bank for International Settlements in June 2004."
+        },
+        {
+          "type": "paragraph",
+          "text": "Return to footnote 7 referrer"
+        },
+        {
+          "type": "paragraph",
+          "text": "Exemptions only apply to those asset classes, business units and/or legal entities that are deemed immaterial and will therefore report on an alternative Pillar I approach to credit risk."
+        },
+        {
+          "type": "paragraph",
+          "text": "Return to footnote 8 referrer"
+        },
+        {
+          "type": "paragraph",
+          "text": "Extensions apply to those material portfolios outside of Canada and the U.S. that are subject to a three-year transition period to roll out the IRB approach."
+        },
+        {
+          "type": "paragraph",
+          "text": "Return to footnote 9 referrer"
+        },
+        {
+          "type": "paragraph",
+          "text": "Waivers only apply to those material portfolios that are expected to be IRB-compliant by the Implementation Date of the new Basel framework."
+        },
+        {
+          "type": "paragraph",
+          "text": "Return to footnote 10 referrer"
+        },
+        {
+          "type": "paragraph",
+          "text": "The institutions should follow definitions of exposure classes based on OSFI’s CAR Guideline A-1, Section B1 Categorization of Exposures. Please refer to the following paragraphs for a definition of each exposure class: corporate exposures par. 218, sovereign exposures par. 229, bank exposures par. 230, retail exposures par. 231, qualifying revolving retail exposures par. 234, equity exposures par. 235, and eligible purchased receivables par. 239-241."
+        },
+        {
+          "type": "paragraph",
+          "text": "Return to footnote 11 referrer"
+        },
+        {
+          "type": "paragraph",
+          "text": "If the wholesale RRS covers several asset classes, including specialized lending (SL), and the institution populates one RRS Scorecard for several asset classes, SL should be assessed using the templates."
+        },
+        {
+          "type": "paragraph",
+          "text": "Return to footnote 12 referrer"
+        },
+        {
+          "type": "paragraph",
+          "text": "Portfolio definition is based on the RRS coverage of asset classes. If one RRS covers one IRB asset class, the portfolio and asset class should be identical for self-assessment purposes. For non-retail exposures, if one RRS covers several IRB asset classes, the portfolio definition should clearly state which asset classes are covered by the Foreign DTI Subsidiary RRS Scorecard."
+        },
+        {
+          "type": "paragraph",
+          "text": "Return to footnote 13 referrer"
+        },
+        {
+          "type": "paragraph",
+          "text": "Reversible in relation to the IRB rollout plan submitted to OSFI."
+        },
+        {
+          "type": "paragraph",
+          "text": "Return to footnote 14 referrer"
+        }
+      ]
+    }
+  ],
+  "title_normalized": "foreign dti subsidiary irb selfassessment instructions",
+  "publication_type_normalized": "instructions",
+  "category_normalized": "capital_adequacy_requirements",
+  "sector_normalized": [
+    "banks",
+    "trust_and_loan_companies"
+  ],
+  "guideline_number_normalized": "",
+  "applies_to_banks": true,
+  "applies_to_trust_loan": true,
+  "applies_to_life_insurance": false,
+  "applies_to_pc_insurance": false,
+  "applies_to_foreign_bank": false,
+  "applies_to_foreign_insurance": false,
+  "applies_to_cooperative": false,
+  "applies_to_bank_holding": false,
+  "effective_date_sort_key": "2006-01-31",
+  "status_sort_key": 1,
+  "authority_sort_key": 90,
+  "bm25_text": "Foreign DTI Subsidiary IRB Self-Assessment Instructions Instructions Capital Adequacy Requirements Banks Trust and Loan Companies List of Exhibits and Figures Abbreviations 1.1 Definition 1.2 Scope 1.3 Self-Assessment Process Step 1: Information Exchange with Home-Country Supervisors Step 2: Review of Information Received from Home-Country Supervisor Step 3: Initial Self-Assessment Step 4: Follow-Up with Institution Step 5: Final Self-Assessment 2. Self-Assessment Package Exhibit 1. List of Schedules 2.1 Chief Risk Officer’s Letter and Other Submissions 2.2 Chief Internal Auditor’s Letter and Other Submissions 2.3 Description of the Self-Assessment Process 2.4 Description of Materiality, Extensions, Exemptions, and Waivers 2.5 Foreign DTI Subsidiary RRS Scorecard Exhibit 2. Mapping Self-Assessment Approaches to IRB Asset Classes 2.6 RRS Summary 3.1 General Overview 3.2 Front Page 3.3 Schedule 1 – Foreign DTI Subsidiary RRS Scorecard Template Structure 3.4 Schedule 2 – FDS Risk Rating System Portfolio Overview 3.4.1 RRS Definition 3.4.2 General Overview Exhibit 3. General Overview 3.4.3 Criteria/Segmentation Borrower/Facility Exhibit 4. Criteria/Segmentation: Non-Retail Exhibit 5. Criteria/Segmentation: Retail 3.4.4 Methodology (Borrower/Facility) Exhibit 6. Methodology Borrower/Facility: Non-Retail and Retail 3.4.5 Responsibility Exhibit 7. Responsibility 3.4.6 Performance of RRS Exhibit 8. Performance of RRS 3.4.7 Use of RRS Exhibit 9. Use of RRS 3.4.8 RRS Overrides Exhibit 10. RRS Overrides 3.4.9 Implementation 3.4.10 Internal Audit 3.5 Schedule 3 – FDS Self-Assessment Summary 3.6 Schedule 4 – Supporting Worksheets 3.6.1 Overview 3.6.2 Ratings and Audit Status 3.6.2.1 Rating 2 – Project Completion Status 3.6.2.2 Rating 3 – Compliance Status 3.6.2.3 Audit Status 3.6.3 Structure of Supporting Worksheets 3.6.3.1 Self-Assessment Scorecard 3.6.3.2 Description of Assessment Work Completed 3.6.3.3 Names of Supporting Documents 4. Schedule 7 – FDS RRS Summary Exhibit 13. ",
+  "vector_text_prefix": "[OSFI Instructions  | Capital Adequacy Requirements | Banks / Trust and Loan Companies | FINAL_CURRENT | Effective 2006-01-31]",
+  "h1_title": "Foreign DTI Subsidiary IRB Self-Assessment Instructions",
+  "regulator": "OSFI",
+  "regulator_acronym": "OSFI",
+  "jurisdiction": "Canada",
+  "short_title": "",
+  "source_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/foreign-dti-subsidiary-irb-self-assessment-instructions"
+}

@@ -1,0 +1,179 @@
+{
+  "source_system": "osfi_guidance_library",
+  "library_row_title": "Internal Model Oversight Framework",
+  "library_row_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/internal-model-oversight-framework",
+  "listing_date_raw": "June 21, 2019",
+  "listing_date_iso": "2019-06-21",
+  "listing_publication_type": "Letter",
+  "listing_category": "Sound Business and Financial Practices",
+  "listing_sector": [],
+  "crawl_timestamp": "2026-03-11T00:00:00Z",
+  "detail_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/internal-model-oversight-framework",
+  "canonical_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/internal-model-oversight-framework",
+  "slug": "internal-model-oversight-framework",
+  "title": "Internal Model Oversight Framework",
+  "publication_type": "Letter",
+  "category": "Sound Business and Financial Practices",
+  "document_date_raw": "June 21, 2019",
+  "document_date_iso": "2019-06-21",
+  "sector": [],
+  "effective_date_text": "",
+  "guideline_number": "",
+  "date_modified_raw": "2019-06-21T12:00:00Z",
+  "generate_pdf_url": "https://www.osfi-bsif.gc.ca/en/print/pdf/node/1882",
+  "pdf_node_id": 1882,
+  "direct_pdf_url": null,
+  "has_table_of_contents": true,
+  "toc_entries": [],
+  "has_related_documents": false,
+  "related_document_links_raw": [],
+  "consultation_status_text": null,
+  "consultation_status_refers_to_version": null,
+  "page_language": "en",
+  "word_count_raw_body": 223,
+  "doc_id": "osfi.internal-model-oversight-framework.transmittal",
+  "doc_family_id": "osfi.internal-model-oversight-framework",
+  "version_id": "",
+  "version_label": "Internal Model Oversight Framework",
+  "version_sort_key": "",
+  "parent_doc_id": null,
+  "child_doc_ids": [],
+  "is_package_page": false,
+  "is_chapter_page": false,
+  "chapter_number": null,
+  "chapter_title": null,
+  "document_order_within_family": 0,
+  "supersedes_doc_id": null,
+  "superseded_by_doc_id": null,
+  "current_version_flag": true,
+  "status": "final_current",
+  "include_in_primary_corpus": false,
+  "include_in_support_corpus": true,
+  "include_in_context_corpus": false,
+  "effective_date_start": "2019-06-21",
+  "effective_date_end": null,
+  "effective_date_fye_split": false,
+  "effective_date_oct_fye": null,
+  "effective_date_dec_fye": null,
+  "is_future_effective": false,
+  "is_rescinded": false,
+  "is_draft_or_consultation": false,
+  "rescission_date": null,
+  "consultation_closing_date": null,
+  "as_of_applicability": "2026-03-23",
+  "rule_applied": "rule_5_final_current",
+  "authority_class": "official_support",
+  "authority_level": 60,
+  "nova_tier": 2,
+  "prudential_weight": 0.7,
+  "is_primary_normative": false,
+  "is_supporting_interpretive": true,
+  "is_context_only": false,
+  "document_class": "transmittal_letter",
+  "guidance_type_normalized": "letter",
+  "section_headings": [],
+  "heading_path": [
+    "Internal Model Oversight Framework"
+  ],
+  "toc_depth": 0,
+  "has_appendices": false,
+  "appendix_ids": [],
+  "has_tables": false,
+  "table_count": 0,
+  "has_footnotes": false,
+  "footnote_count": 0,
+  "inline_cross_references": [],
+  "quoted_external_references": [],
+  "raw_html_sha256": "d4dd92030e24e53a9412c5f2491c034aa68a5081f9a00aa6ce37a20281999554",
+  "raw_pdf_sha256": null,
+  "normalized_text_sha256": null,
+  "raw_html_path": "bronze/osfi/html/final_current/internal-model-oversight-framework.html",
+  "normalized_md_path": "silver/osfi/md/final_current/internal-model-oversight-framework.md",
+  "canonical_json_path": "silver/osfi/json/final_current/internal-model-oversight-framework.json",
+  "content_source": "HTML",
+  "parser_version": "osfi-parser-v2.1.0",
+  "normalizer_version": "osfi-normalizer-v1.4.0",
+  "quality_score": 0.5,
+  "quality_flags": [
+    "thin_body_text"
+  ],
+  "download_timestamp": "2026-03-11T00:00:00Z",
+  "enriched_timestamp": "2026-03-23T09:53:52.853998Z",
+  "sections": [
+    {
+      "heading": "",
+      "heading_level": 2,
+      "full_text": "  - Internal Model Oversight Framework - Guideline (2019)\n  - Internal Model Oversight Framework - Guideline impact analysis statement (2019)\nOSFI is issuing for comment draft guideline E-25 Internal Model Oversight Framework for federally regulated property and casualty insurance companies (insurers) . The guideline establishes OSFI's expectations for insurers when they establish and maintain an oversight framework for internal models used to determine regulatory capital requirements.\nIf OSFI were to approve a P&C insurer to use an internal model to determine regulatory capital requirements for its insurance risk, the insurer would have some flexibility to design its internal model to better measure and manage associated risks. However, this flexibility introduces internal model risk.\nTo minimize internal model risk, OSFI expects insurers will develop and implement sound policies and practices for the oversight and control of risk associated with internal models. The draft guideline outlines OSFI's expecations for internal model oversight and risk control.\nWe look forward to receiving your comments by August 30, 2019. Comments received will be considered as OSFI finalizes the guideline.\nPlease send comments to Margo Ford, Senior Analyst ( margo.ford@osfi-bsif.gc.ca ) at:\nOffice of the Superintendent of Financial Institutions Capital Division 255 Albert Street Ottawa, ON K1A 0H2\nShould you have any questions, please contact Judith Roberge ( judith.roberge@osfi-bsif.gc.ca ) at 613‑990-4412.\nSincerely,\nBernard Dupont Acting Assistant Superintendent Regulation Sector",
+      "content": [
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Internal Model Oversight Framework - Guideline (2019)",
+            "Internal Model Oversight Framework - Guideline impact analysis statement (2019)"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "OSFI is issuing for comment draft guideline E-25 Internal Model Oversight Framework for federally regulated property and casualty insurance companies (insurers) . The guideline establishes OSFI's expectations for insurers when they establish and maintain an oversight framework for internal models used to determine regulatory capital requirements."
+        },
+        {
+          "type": "paragraph",
+          "text": "If OSFI were to approve a P&C insurer to use an internal model to determine regulatory capital requirements for its insurance risk, the insurer would have some flexibility to design its internal model to better measure and manage associated risks. However, this flexibility introduces internal model risk."
+        },
+        {
+          "type": "paragraph",
+          "text": "To minimize internal model risk, OSFI expects insurers will develop and implement sound policies and practices for the oversight and control of risk associated with internal models. The draft guideline outlines OSFI's expecations for internal model oversight and risk control."
+        },
+        {
+          "type": "paragraph",
+          "text": "We look forward to receiving your comments by August 30, 2019. Comments received will be considered as OSFI finalizes the guideline."
+        },
+        {
+          "type": "paragraph",
+          "text": "Please send comments to Margo Ford, Senior Analyst ( margo.ford@osfi-bsif.gc.ca ) at:"
+        },
+        {
+          "type": "paragraph",
+          "text": "Office of the Superintendent of Financial Institutions Capital Division 255 Albert Street Ottawa, ON K1A 0H2"
+        },
+        {
+          "type": "paragraph",
+          "text": "Should you have any questions, please contact Judith Roberge ( judith.roberge@osfi-bsif.gc.ca ) at 613‑990-4412."
+        },
+        {
+          "type": "paragraph",
+          "text": "Sincerely,"
+        },
+        {
+          "type": "paragraph",
+          "text": "Bernard Dupont Acting Assistant Superintendent Regulation Sector"
+        }
+      ]
+    }
+  ],
+  "title_normalized": "internal model oversight framework",
+  "publication_type_normalized": "letter",
+  "category_normalized": "sound_business_and_financial_practices",
+  "sector_normalized": [],
+  "guideline_number_normalized": "",
+  "applies_to_banks": false,
+  "applies_to_trust_loan": false,
+  "applies_to_life_insurance": false,
+  "applies_to_pc_insurance": false,
+  "applies_to_foreign_bank": false,
+  "applies_to_foreign_insurance": false,
+  "applies_to_cooperative": false,
+  "applies_to_bank_holding": false,
+  "effective_date_sort_key": "2019-06-21",
+  "status_sort_key": 1,
+  "authority_sort_key": 60,
+  "bm25_text": "Internal Model Oversight Framework Letter Sound Business and Financial Practices",
+  "vector_text_prefix": "[OSFI Letter  | Sound Business and Financial Practices |  | FINAL_CURRENT | Effective 2019-06-21]",
+  "h1_title": "Internal Model Oversight Framework",
+  "regulator": "OSFI",
+  "regulator_acronym": "OSFI",
+  "jurisdiction": "Canada",
+  "short_title": "",
+  "source_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/internal-model-oversight-framework"
+}

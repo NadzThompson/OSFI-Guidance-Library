@@ -1,0 +1,204 @@
+{
+  "source_system": "osfi_guidance_library",
+  "library_row_title": "Materiality Criteria for Related Party Transactions – Letter (2001)",
+  "library_row_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/materiality-criteria-related-party-transactions-letter-2001",
+  "listing_date_raw": "October 25, 2001",
+  "listing_date_iso": "2001-10-25",
+  "listing_publication_type": "Letter",
+  "listing_category": "",
+  "listing_sector": [
+    "Life Insurance and Fraternal Companies"
+  ],
+  "crawl_timestamp": "2026-03-11T00:00:00Z",
+  "detail_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/materiality-criteria-related-party-transactions-letter-2001",
+  "canonical_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/materiality-criteria-related-party-transactions-letter-2001",
+  "slug": "materiality-criteria-related-party-transactions-letter-2001",
+  "title": "Materiality Criteria for Related Party Transactions – Letter (2001)",
+  "publication_type": "Letter",
+  "category": "",
+  "document_date_raw": "October 25, 2001",
+  "document_date_iso": "2001-10-25",
+  "sector": [
+    "Life Insurance and Fraternal Companies"
+  ],
+  "effective_date_text": "",
+  "guideline_number": "",
+  "date_modified_raw": "2001-10-25T12:00:00Z",
+  "generate_pdf_url": "https://www.osfi-bsif.gc.ca/en/print/pdf/node/374",
+  "pdf_node_id": 374,
+  "direct_pdf_url": null,
+  "has_table_of_contents": true,
+  "toc_entries": [],
+  "has_related_documents": false,
+  "related_document_links_raw": [],
+  "consultation_status_text": null,
+  "consultation_status_refers_to_version": null,
+  "page_language": "en",
+  "word_count_raw_body": 519,
+  "doc_id": "osfi.materiality-criteria-related-party-transactions.2001.transmittal",
+  "doc_family_id": "osfi.materiality-criteria-related-party-transactions",
+  "version_id": "2001",
+  "version_label": "Materiality Criteria for Related Party Transactions – Letter",
+  "version_sort_key": "2001-10",
+  "parent_doc_id": null,
+  "child_doc_ids": [],
+  "is_package_page": false,
+  "is_chapter_page": false,
+  "chapter_number": null,
+  "chapter_title": null,
+  "document_order_within_family": 0,
+  "supersedes_doc_id": null,
+  "superseded_by_doc_id": null,
+  "current_version_flag": true,
+  "status": "final_current",
+  "include_in_primary_corpus": false,
+  "include_in_support_corpus": true,
+  "include_in_context_corpus": false,
+  "effective_date_start": "2001-10-25",
+  "effective_date_end": null,
+  "effective_date_fye_split": false,
+  "effective_date_oct_fye": null,
+  "effective_date_dec_fye": null,
+  "is_future_effective": false,
+  "is_rescinded": false,
+  "is_draft_or_consultation": false,
+  "rescission_date": null,
+  "consultation_closing_date": null,
+  "as_of_applicability": "2026-03-23",
+  "rule_applied": "rule_5_final_current",
+  "authority_class": "official_support",
+  "authority_level": 60,
+  "nova_tier": 2,
+  "prudential_weight": 0.7,
+  "is_primary_normative": false,
+  "is_supporting_interpretive": true,
+  "is_context_only": false,
+  "document_class": "transmittal_letter",
+  "guidance_type_normalized": "letter",
+  "section_headings": [],
+  "heading_path": [
+    "Materiality Criteria for Related Party Transactions – Letter (2001)"
+  ],
+  "toc_depth": 0,
+  "has_appendices": false,
+  "appendix_ids": [],
+  "has_tables": false,
+  "table_count": 0,
+  "has_footnotes": false,
+  "footnote_count": 0,
+  "inline_cross_references": [],
+  "quoted_external_references": [],
+  "raw_html_sha256": "c3531d53e654c58b3ffad02df24494d2c5c0438578e0fa990c4ae7675bf0dbc7",
+  "raw_pdf_sha256": null,
+  "normalized_text_sha256": null,
+  "raw_html_path": "bronze/osfi/html/final_current/materiality-criteria-related-party-transactions-letter-2001.html",
+  "normalized_md_path": "silver/osfi/md/final_current/materiality-criteria-related-party-transactions-letter-2001.md",
+  "canonical_json_path": "silver/osfi/json/final_current/materiality-criteria-related-party-transactions-letter-2001.json",
+  "content_source": "HTML",
+  "parser_version": "osfi-parser-v2.1.0",
+  "normalizer_version": "osfi-normalizer-v1.4.0",
+  "quality_score": 1.0,
+  "quality_flags": [],
+  "download_timestamp": "2026-03-11T00:00:00Z",
+  "enriched_timestamp": "2026-03-23T09:53:56.311129Z",
+  "sections": [
+    {
+      "heading": "",
+      "heading_level": 2,
+      "full_text": "  - Materiality Criteria for Related Party Transactions of Life Insurance Companies - Bulletin (1993)\n  - Internal Capital Adequacy Assessment Process (ICAAP) for Deposit-Taking Institutions – Guideline (2010)\n  - Internal Capital Adequacy Assessment Process (ICAAP) – Guideline impact analysis statement (2010)\nBulletin E-6 establishes criteria for determining whether a transaction with a related party is nominal or immaterial to a life insurance company. Recent inquiries about this bulletin have raised an interpretation issue concerning what constitutes a category 5 transaction (purchase and sale of actively traded securities) or a category 9 transaction (loans to, guarantees on behalf of, and investments in non-actively traded securities of, entities) in the table attached to the bulletin. As a result, OSFI has prepared a guidance note to clarify the application of the bulletin to these categories of related party transactions.\nLife insurance companies should ensure that their internal policies and practices for dealing with nominal or immaterial related party transactions are consistent with the attached guidance note.\nWhere a company’s internal policies and practices are not consistent with the attached guidance note, the company must, to maintain its approval under section 522 of the Insurance Companies Act (ICA):\n  1. ensure that all future nominal or immaterial transactions with a related party are consistent with the attached guidance note; and\n  2. within three months from the receipt of this letter, refer the attached guidance note to its Conduct Review Committee for approval as part of the company’s procedures for complying with Part XI of the ICA.\nCompanies that do not adopt the preceding measures within the specified period of time are required to submit their materiality criteria to OSFI in order to obtain the Superintendent’s written approval of such criteria. In reviewing these requests, OSFI will require supporting justification, including:\n  - reasons why the company did not refer the guidance note to its Conduct Review Committee or, as the case may be, why its Conduct Review Committee did not approve the guidance note to form part of the company’s procedures for complying with Part XI of the ICA; and\n  - details of anticipated transactions that would be permitted under the company’s proposed materiality criteria.\nreasons why the company did not refer the guidance note to its Conduct Review Committee or, as the case may be, why its Conduct Review Committee did not approve the guidance note to form part of the company’s procedures for complying with Part XI of the ICA; and\ndetails of anticipated transactions that would be permitted under the company’s proposed materiality criteria.\nIn the near future and in consultation with the financial services industry, OSFI intends to initiate a comprehensive review of Bulletin E-6 and comparable bulletins for other federally regulated financial institutions.\nThe guidance note is available in English and French on OSFI’s Internet Web site. It may also be obtained by contacting Mr. Stéphane Dupel, General Services Division, by e-mail at pub@osfi-bsif.gc.ca or by facsimile at (613) 954-4331.\nFederally regulated life insurance companies should address any questions to Ms. Laural Ross, Director, Special Projects, at (613) 990-6972 or by fax at (613) 998-6716.\nJulie Dickson Assistant Superintendent Regulation Sector",
+      "content": [
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Materiality Criteria for Related Party Transactions of Life Insurance Companies - Bulletin (1993)",
+            "Internal Capital Adequacy Assessment Process (ICAAP) for Deposit-Taking Institutions – Guideline (2010)",
+            "Internal Capital Adequacy Assessment Process (ICAAP) – Guideline impact analysis statement (2010)"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Bulletin E-6 establishes criteria for determining whether a transaction with a related party is nominal or immaterial to a life insurance company. Recent inquiries about this bulletin have raised an interpretation issue concerning what constitutes a category 5 transaction (purchase and sale of actively traded securities) or a category 9 transaction (loans to, guarantees on behalf of, and investments in non-actively traded securities of, entities) in the table attached to the bulletin. As a result, OSFI has prepared a guidance note to clarify the application of the bulletin to these categories of related party transactions."
+        },
+        {
+          "type": "paragraph",
+          "text": "Life insurance companies should ensure that their internal policies and practices for dealing with nominal or immaterial related party transactions are consistent with the attached guidance note."
+        },
+        {
+          "type": "paragraph",
+          "text": "Where a company’s internal policies and practices are not consistent with the attached guidance note, the company must, to maintain its approval under section 522 of the Insurance Companies Act (ICA):"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "ensure that all future nominal or immaterial transactions with a related party are consistent with the attached guidance note; and",
+            "within three months from the receipt of this letter, refer the attached guidance note to its Conduct Review Committee for approval as part of the company’s procedures for complying with Part XI of the ICA."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Companies that do not adopt the preceding measures within the specified period of time are required to submit their materiality criteria to OSFI in order to obtain the Superintendent’s written approval of such criteria. In reviewing these requests, OSFI will require supporting justification, including:"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "reasons why the company did not refer the guidance note to its Conduct Review Committee or, as the case may be, why its Conduct Review Committee did not approve the guidance note to form part of the company’s procedures for complying with Part XI of the ICA; and",
+            "details of anticipated transactions that would be permitted under the company’s proposed materiality criteria."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "reasons why the company did not refer the guidance note to its Conduct Review Committee or, as the case may be, why its Conduct Review Committee did not approve the guidance note to form part of the company’s procedures for complying with Part XI of the ICA; and"
+        },
+        {
+          "type": "paragraph",
+          "text": "details of anticipated transactions that would be permitted under the company’s proposed materiality criteria."
+        },
+        {
+          "type": "paragraph",
+          "text": "In the near future and in consultation with the financial services industry, OSFI intends to initiate a comprehensive review of Bulletin E-6 and comparable bulletins for other federally regulated financial institutions."
+        },
+        {
+          "type": "paragraph",
+          "text": "The guidance note is available in English and French on OSFI’s Internet Web site. It may also be obtained by contacting Mr. Stéphane Dupel, General Services Division, by e-mail at pub@osfi-bsif.gc.ca or by facsimile at (613) 954-4331."
+        },
+        {
+          "type": "paragraph",
+          "text": "Federally regulated life insurance companies should address any questions to Ms. Laural Ross, Director, Special Projects, at (613) 990-6972 or by fax at (613) 998-6716."
+        },
+        {
+          "type": "paragraph",
+          "text": "Julie Dickson Assistant Superintendent Regulation Sector"
+        }
+      ]
+    }
+  ],
+  "title_normalized": "materiality criteria for related party transactions letter 2001",
+  "publication_type_normalized": "letter",
+  "category_normalized": "",
+  "sector_normalized": [
+    "life_insurance"
+  ],
+  "guideline_number_normalized": "",
+  "applies_to_banks": false,
+  "applies_to_trust_loan": false,
+  "applies_to_life_insurance": true,
+  "applies_to_pc_insurance": false,
+  "applies_to_foreign_bank": false,
+  "applies_to_foreign_insurance": false,
+  "applies_to_cooperative": false,
+  "applies_to_bank_holding": false,
+  "effective_date_sort_key": "2001-10-25",
+  "status_sort_key": 1,
+  "authority_sort_key": 60,
+  "bm25_text": "Materiality Criteria for Related Party Transactions – Letter (2001) Letter Life Insurance and Fraternal Companies",
+  "vector_text_prefix": "[OSFI Letter  |  | Life Insurance and Fraternal Companies | FINAL_CURRENT | Effective 2001-10-25]",
+  "h1_title": "Materiality Criteria for Related Party Transactions – Letter (2001)",
+  "regulator": "OSFI",
+  "regulator_acronym": "OSFI",
+  "jurisdiction": "Canada",
+  "short_title": "",
+  "source_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/materiality-criteria-related-party-transactions-letter-2001"
+}

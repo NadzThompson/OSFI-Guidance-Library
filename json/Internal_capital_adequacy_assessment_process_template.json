@@ -1,0 +1,390 @@
+{
+  "source_system": "osfi_guidance_library",
+  "library_row_title": "Internal capital adequacy assessment process template",
+  "library_row_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/internal-capital-adequacy-assessment-process-template",
+  "listing_date_raw": "September 10, 2025",
+  "listing_date_iso": "2025-09-10",
+  "listing_publication_type": "Advisory",
+  "listing_category": "Supervisory Advisories",
+  "listing_sector": [
+    "Banks",
+    "Trust and Loan Companies"
+  ],
+  "crawl_timestamp": "2026-03-11T00:00:00Z",
+  "detail_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/internal-capital-adequacy-assessment-process-template",
+  "canonical_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/internal-capital-adequacy-assessment-process-template",
+  "slug": "internal-capital-adequacy-assessment-process-template",
+  "title": "Internal capital adequacy assessment process template",
+  "publication_type": "Advisory",
+  "category": "Supervisory Advisories",
+  "document_date_raw": "September 10, 2025",
+  "document_date_iso": "2025-09-10",
+  "sector": [
+    "Banks",
+    "Trust and Loan Companies"
+  ],
+  "effective_date_text": "",
+  "guideline_number": "",
+  "date_modified_raw": "2025-09-10T12:00:00Z",
+  "generate_pdf_url": "https://www.osfi-bsif.gc.ca/en/print/pdf/node/2394",
+  "pdf_node_id": 2394,
+  "direct_pdf_url": null,
+  "has_table_of_contents": true,
+  "toc_entries": [],
+  "has_related_documents": false,
+  "related_document_links_raw": [],
+  "consultation_status_text": null,
+  "consultation_status_refers_to_version": null,
+  "page_language": "en",
+  "word_count_raw_body": 1181,
+  "doc_id": "osfi.internal-capital-adequacy-assessment-process-templ.advisory",
+  "doc_family_id": "osfi.internal-capital-adequacy-assessment-process-templ",
+  "version_id": "",
+  "version_label": "Internal capital adequacy assessment process template",
+  "version_sort_key": "",
+  "parent_doc_id": null,
+  "child_doc_ids": [],
+  "is_package_page": false,
+  "is_chapter_page": false,
+  "chapter_number": null,
+  "chapter_title": null,
+  "document_order_within_family": 0,
+  "supersedes_doc_id": null,
+  "superseded_by_doc_id": null,
+  "current_version_flag": true,
+  "status": "final_current",
+  "include_in_primary_corpus": true,
+  "include_in_support_corpus": false,
+  "include_in_context_corpus": false,
+  "effective_date_start": "2025-09-10",
+  "effective_date_end": null,
+  "effective_date_fye_split": false,
+  "effective_date_oct_fye": null,
+  "effective_date_dec_fye": null,
+  "is_future_effective": false,
+  "is_rescinded": false,
+  "is_draft_or_consultation": false,
+  "rescission_date": null,
+  "consultation_closing_date": null,
+  "as_of_applicability": "2026-03-23",
+  "rule_applied": "rule_5_final_current",
+  "authority_class": "primary_normative",
+  "authority_level": 100,
+  "nova_tier": 1,
+  "prudential_weight": 1.0,
+  "is_primary_normative": true,
+  "is_supporting_interpretive": false,
+  "is_context_only": false,
+  "document_class": "advisory",
+  "guidance_type_normalized": "advisory",
+  "section_headings": [
+    {
+      "level": 2,
+      "text": "Executive summary",
+      "id": "h2-0"
+    },
+    {
+      "level": 2,
+      "text": "Background of ICAAP",
+      "id": "h2-1"
+    },
+    {
+      "level": 2,
+      "text": "Risk appetite statement",
+      "id": "h2-2"
+    },
+    {
+      "level": 2,
+      "text": "Material risks and Appendix A",
+      "id": "h2-3"
+    },
+    {
+      "level": 2,
+      "text": "Capital planning",
+      "id": "h2-4"
+    },
+    {
+      "level": 2,
+      "text": "Stress and scenario testing",
+      "id": "h2-5"
+    },
+    {
+      "level": 2,
+      "text": "Integration of ICAAP into risk management",
+      "id": "h2-6"
+    },
+    {
+      "level": 2,
+      "text": "Challenge and next steps",
+      "id": "h2-7"
+    }
+  ],
+  "heading_path": [
+    "Internal capital adequacy assessment process template"
+  ],
+  "toc_depth": 2,
+  "has_appendices": true,
+  "appendix_ids": [
+    "Appendix A"
+  ],
+  "has_tables": false,
+  "table_count": 0,
+  "has_footnotes": false,
+  "footnote_count": 0,
+  "inline_cross_references": [],
+  "quoted_external_references": [],
+  "raw_html_sha256": "6f796b2a0fee6bd5ab8d10526513b1c7c892594bdaca0a84fcb1597a1bf7a7d5",
+  "raw_pdf_sha256": null,
+  "normalized_text_sha256": null,
+  "raw_html_path": "bronze/osfi/html/final_current/internal-capital-adequacy-assessment-process-template.html",
+  "normalized_md_path": "silver/osfi/md/final_current/internal-capital-adequacy-assessment-process-template.md",
+  "canonical_json_path": "silver/osfi/json/final_current/internal-capital-adequacy-assessment-process-template.json",
+  "content_source": "HTML",
+  "parser_version": "osfi-parser-v2.1.0",
+  "normalizer_version": "osfi-normalizer-v1.4.0",
+  "quality_score": 1.0,
+  "quality_flags": [],
+  "download_timestamp": "2026-03-11T00:00:00Z",
+  "enriched_timestamp": "2026-03-23T09:53:52.928577Z",
+  "sections": [
+    {
+      "heading": "",
+      "heading_level": 2,
+      "full_text": "  - Internal capital adequacy assessment process expectations and related internal audit requirements\nSmall and mid-sized banks including Category III institutions using the simplified risk-based approach (collectively referred to as SMSBs or institutions) can use this template in their internal capital adequacy assessment process (ICAAP) document. While the use of this template is not mandatory, the ICAAP document should cover all the elements contained in this template, including the expectation of an Appendix A with details related to the quantification of material risks to which the institution is exposed. We expect the board to approve an institution's ICAAP document.\nAll SMSBs should complete the ICAAP data return on an annual basis (using actual fiscal year-end data), file it within 90 days of the fiscal year end date through the Regulatory Reporting System, and ensure that the ICAAP document supports the ICAAP data return. Where an SMSB prepares its ICAAP using other than year-end data, it should prepare a board-approved addendum to explain significant differences between what the board approved and what is shown in the ICAAP data return using actual year-end numbers.\nThe amount of detail in the ICAAP document will vary based on the size and complexity of the institution. Through the ICAAP document, an SMSB can refer to supplementary information such as its policies, risk management framework(s), and processes.",
+      "content": [
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Internal capital adequacy assessment process expectations and related internal audit requirements"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Small and mid-sized banks including Category III institutions using the simplified risk-based approach (collectively referred to as SMSBs or institutions) can use this template in their internal capital adequacy assessment process (ICAAP) document. While the use of this template is not mandatory, the ICAAP document should cover all the elements contained in this template, including the expectation of an Appendix A with details related to the quantification of material risks to which the institution is exposed. We expect the board to approve an institution's ICAAP document."
+        },
+        {
+          "type": "paragraph",
+          "text": "All SMSBs should complete the ICAAP data return on an annual basis (using actual fiscal year-end data), file it within 90 days of the fiscal year end date through the Regulatory Reporting System, and ensure that the ICAAP document supports the ICAAP data return. Where an SMSB prepares its ICAAP using other than year-end data, it should prepare a board-approved addendum to explain significant differences between what the board approved and what is shown in the ICAAP data return using actual year-end numbers."
+        },
+        {
+          "type": "paragraph",
+          "text": "The amount of detail in the ICAAP document will vary based on the size and complexity of the institution. Through the ICAAP document, an SMSB can refer to supplementary information such as its policies, risk management framework(s), and processes."
+        }
+      ]
+    },
+    {
+      "heading": "Executive summary",
+      "heading_level": 2,
+      "full_text": "The executive summary should provide an overview of the ICAAP methodology and results such as:\n  - confirmation that the institution (on a consolidated basis) assessed its capital as adequate given its size and complexity and a summary of the target capital metrics ratified by the board\n  - commentary on the most material risks faced by the institution, why the level of risk is acceptable or, if it is not, what mitigating actions are planned\n  - a summary of the main findings of the ICAAP analysis including an assessment of the institution's internal capital compared to regulatory requirements over its planning horizon and a summary of stress test results and how they inform and support capital management\n  - a summary of its business strategy and how the strategy relates to the financial and capital planning targets\n  - a brief description of the review, challenge, and approval process of the ICAAP",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "The executive summary should provide an overview of the ICAAP methodology and results such as:"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "confirmation that the institution (on a consolidated basis) assessed its capital as adequate given its size and complexity and a summary of the target capital metrics ratified by the board",
+            "commentary on the most material risks faced by the institution, why the level of risk is acceptable or, if it is not, what mitigating actions are planned",
+            "a summary of the main findings of the ICAAP analysis including an assessment of the institution's internal capital compared to regulatory requirements over its planning horizon and a summary of stress test results and how they inform and support capital management",
+            "a summary of its business strategy and how the strategy relates to the financial and capital planning targets",
+            "a brief description of the review, challenge, and approval process of the ICAAP"
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "Background of ICAAP",
+      "heading_level": 2,
+      "full_text": "The background section should provide a high-level overview of the institution's ICAAP, demonstrating the interconnectivity of the institution's risk management framework, strategy, business planning, and capital management. The background should concisely describe relevant policies and systems used by the institution to identify, manage, and monitor risks according to its risk appetite statement.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "The background section should provide a high-level overview of the institution's ICAAP, demonstrating the interconnectivity of the institution's risk management framework, strategy, business planning, and capital management. The background should concisely describe relevant policies and systems used by the institution to identify, manage, and monitor risks according to its risk appetite statement."
+        }
+      ]
+    },
+    {
+      "heading": "Risk appetite statement",
+      "heading_level": 2,
+      "full_text": "The ICAAP document should include the institution's risk appetite statement and set out the frequency of reviews of the risk appetite statement as well as risk tolerance by management and the board.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "The ICAAP document should include the institution's risk appetite statement and set out the frequency of reviews of the risk appetite statement as well as risk tolerance by management and the board."
+        }
+      ]
+    },
+    {
+      "heading": "Material risks and Appendix A",
+      "heading_level": 2,
+      "full_text": "The section of the ICAAP document on material risks should include a brief description of how the institution identifies material risks. To the extent applicable, we expect SMSBs to consider the following types of risks:\n  - credit risk\n  - market risk\n  - operational risk\n  - structural interest rate risk in the banking book (IRRBB)\n  - concentration risk\n  - funding risk\n  - business and strategic risk\n  - reputation risk\n  - securitization risk\n  - climate risk\n  - other relevant risks\nIn a separate appendix (labelled Appendix A of the ICAAP document), provide further details on the institution's risk assessment and quantification methodology, including how the institution:\n  - defines each of the material risks to which it is exposed\n  - determines the materiality of each material risk\n  - quantifies each material risk for capital allocation purposes including details of data required for analysis, key assumptions, and methodology\nThe explanation of how the institution quantifies each material risk should include details of the approach taken (for example, modelled, stress test, expert judgement), the calibration of such approach, and the results for the final Pillar 2 capital level used in the institution's capital target. SMSBs should organize Appendix A consistently with the ICAAP data return and expand on the quantification used for each Pillar 2 risk identified.\nFor SMSBs exposed to credit risk or IRRBB, we expect each to be a core part of their Pillar 2 capital allocation. Additionally, we expect SMSBs to have capital allocation for operational risk, especially those with core business risks that are tied to operational processes, which includes most institutions.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "The section of the ICAAP document on material risks should include a brief description of how the institution identifies material risks. To the extent applicable, we expect SMSBs to consider the following types of risks:"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "credit risk",
+            "market risk",
+            "operational risk",
+            "structural interest rate risk in the banking book (IRRBB)",
+            "concentration risk",
+            "funding risk",
+            "business and strategic risk",
+            "reputation risk",
+            "securitization risk",
+            "climate risk",
+            "other relevant risks"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "In a separate appendix (labelled Appendix A of the ICAAP document), provide further details on the institution's risk assessment and quantification methodology, including how the institution:"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "defines each of the material risks to which it is exposed",
+            "determines the materiality of each material risk",
+            "quantifies each material risk for capital allocation purposes including details of data required for analysis, key assumptions, and methodology"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "The explanation of how the institution quantifies each material risk should include details of the approach taken (for example, modelled, stress test, expert judgement), the calibration of such approach, and the results for the final Pillar 2 capital level used in the institution's capital target. SMSBs should organize Appendix A consistently with the ICAAP data return and expand on the quantification used for each Pillar 2 risk identified."
+        },
+        {
+          "type": "paragraph",
+          "text": "For SMSBs exposed to credit risk or IRRBB, we expect each to be a core part of their Pillar 2 capital allocation. Additionally, we expect SMSBs to have capital allocation for operational risk, especially those with core business risks that are tied to operational processes, which includes most institutions."
+        }
+      ]
+    },
+    {
+      "heading": "Capital planning",
+      "heading_level": 2,
+      "full_text": "The description of capital planning should include the institution's:\n  - baseline capital forecasts (at least quarterly, based on the annual business plan)\n  - three-year summary forecast capital position and main assumptions related to the business plan\n  - capital planning and management process including details of how the institution incorporates the ICAAP into this process",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "The description of capital planning should include the institution's:"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "baseline capital forecasts (at least quarterly, based on the annual business plan)",
+            "three-year summary forecast capital position and main assumptions related to the business plan",
+            "capital planning and management process including details of how the institution incorporates the ICAAP into this process"
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "Stress and scenario testing",
+      "heading_level": 2,
+      "full_text": "The ICAAP document should have a section with details of stress and scenario testing that includes a concise description of how the institution uses its stress testing program to support the assessment of capital adequacy and the management of capital.\nAs ICAAP is, first and foremost, a key internal process in institutions' capital management and planning, we expect each institution to develop its own fit-for-purpose forward-looking scenarios that appropriately align with its business model, risk profile, and operating environment.\nIn the current macro and geopolitical environment, we expect institutions to reflect the potential impact of tariffs on key macroeconomic variables within their baseline scenarios. Stress testing could include multifactor stress tests that cover all major risks and material portfolios to assess capital resiliency to weather a severe but plausible stress environment. Institutions should clearly document key assumptions supporting both the baseline and stressed scenarios reflected in their ICAAPs.\nWhere management actions are considered in the stress tests, the ICAAP document should clearly articulate the nature of such management actions. The institution should include a comprehensive assessment of the feasibility of management actions in a severe but plausible stress environment as well as the respective timeframes to complete those actions. The ICAAP document should include the impact on the capital ratio(s) pre- and post-management actions.\nReverse stress testing is an integral part of an ICAAP. In conducting reverse stress tests, SMSBs should examine their vulnerabilities and consider scenarios that challenge the viability. We expect institutions to clearly outline the reverse stress testing scenarios, summarize key insights and conclusions drawn (including main vulnerabilities identified), and describe any measures implemented to address vulnerabilities and enhance overall financial resilience.\nPlease note that we may request institutions to conduct prescribed stress tests and report the results of these stress tests, together with their impact on the ICAAP. We will communicate these separately through the lead supervisors.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "The ICAAP document should have a section with details of stress and scenario testing that includes a concise description of how the institution uses its stress testing program to support the assessment of capital adequacy and the management of capital."
+        },
+        {
+          "type": "paragraph",
+          "text": "As ICAAP is, first and foremost, a key internal process in institutions' capital management and planning, we expect each institution to develop its own fit-for-purpose forward-looking scenarios that appropriately align with its business model, risk profile, and operating environment."
+        },
+        {
+          "type": "paragraph",
+          "text": "In the current macro and geopolitical environment, we expect institutions to reflect the potential impact of tariffs on key macroeconomic variables within their baseline scenarios. Stress testing could include multifactor stress tests that cover all major risks and material portfolios to assess capital resiliency to weather a severe but plausible stress environment. Institutions should clearly document key assumptions supporting both the baseline and stressed scenarios reflected in their ICAAPs."
+        },
+        {
+          "type": "paragraph",
+          "text": "Where management actions are considered in the stress tests, the ICAAP document should clearly articulate the nature of such management actions. The institution should include a comprehensive assessment of the feasibility of management actions in a severe but plausible stress environment as well as the respective timeframes to complete those actions. The ICAAP document should include the impact on the capital ratio(s) pre- and post-management actions."
+        },
+        {
+          "type": "paragraph",
+          "text": "Reverse stress testing is an integral part of an ICAAP. In conducting reverse stress tests, SMSBs should examine their vulnerabilities and consider scenarios that challenge the viability. We expect institutions to clearly outline the reverse stress testing scenarios, summarize key insights and conclusions drawn (including main vulnerabilities identified), and describe any measures implemented to address vulnerabilities and enhance overall financial resilience."
+        },
+        {
+          "type": "paragraph",
+          "text": "Please note that we may request institutions to conduct prescribed stress tests and report the results of these stress tests, together with their impact on the ICAAP. We will communicate these separately through the lead supervisors."
+        }
+      ]
+    },
+    {
+      "heading": "Integration of ICAAP into risk management",
+      "heading_level": 2,
+      "full_text": "The ICAAP document should include descriptions of how the institution:\n  - uses the ICAAP\n  - embeds the ICAAP results in its decision-making process\n  - integrates ICAAP results into setting of risk limits setting and monitoring of risks\n  - reports ICAAP results to the board",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "The ICAAP document should include descriptions of how the institution:"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "uses the ICAAP",
+            "embeds the ICAAP results in its decision-making process",
+            "integrates ICAAP results into setting of risk limits setting and monitoring of risks",
+            "reports ICAAP results to the board"
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "Challenge and next steps",
+      "heading_level": 2,
+      "full_text": "The final section of the ICAAP document should:\n  - summarize the extent of challenge and testing of the ICAAP and the control processes applied to the ICAAP calculations\n  - outline the board and senior management sign-off procedures\n  - identify the nature of any third-party review of the ICAAP\n  - identify any plans to enhance the ICAAP going forward",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "The final section of the ICAAP document should:"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "summarize the extent of challenge and testing of the ICAAP and the control processes applied to the ICAAP calculations",
+            "outline the board and senior management sign-off procedures",
+            "identify the nature of any third-party review of the ICAAP",
+            "identify any plans to enhance the ICAAP going forward"
+          ]
+        }
+      ]
+    }
+  ],
+  "title_normalized": "internal capital adequacy assessment process template",
+  "publication_type_normalized": "advisory",
+  "category_normalized": "supervisory_advisories",
+  "sector_normalized": [
+    "banks",
+    "trust_and_loan_companies"
+  ],
+  "guideline_number_normalized": "",
+  "applies_to_banks": true,
+  "applies_to_trust_loan": true,
+  "applies_to_life_insurance": false,
+  "applies_to_pc_insurance": false,
+  "applies_to_foreign_bank": false,
+  "applies_to_foreign_insurance": false,
+  "applies_to_cooperative": false,
+  "applies_to_bank_holding": false,
+  "effective_date_sort_key": "2025-09-10",
+  "status_sort_key": 1,
+  "authority_sort_key": 100,
+  "bm25_text": "Internal capital adequacy assessment process template Advisory Supervisory Advisories Banks Trust and Loan Companies Executive summary Background of ICAAP Risk appetite statement Material risks and Appendix A Capital planning Stress and scenario testing Integration of ICAAP into risk management Challenge and next steps",
+  "vector_text_prefix": "[OSFI Advisory  | Supervisory Advisories | Banks / Trust and Loan Companies | FINAL_CURRENT | Effective 2025-09-10]",
+  "h1_title": "Internal capital adequacy assessment process template",
+  "regulator": "OSFI",
+  "regulator_acronym": "OSFI",
+  "jurisdiction": "Canada",
+  "short_title": "",
+  "source_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/internal-capital-adequacy-assessment-process-template"
+}

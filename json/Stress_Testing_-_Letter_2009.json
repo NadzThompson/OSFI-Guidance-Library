@@ -1,0 +1,211 @@
+{
+  "source_system": "osfi_guidance_library",
+  "library_row_title": "Stress Testing - Letter (2009)",
+  "library_row_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/stress-testing-letter-2009",
+  "listing_date_raw": "December 2, 2009",
+  "listing_date_iso": "2009-12-02",
+  "listing_publication_type": "Letter",
+  "listing_category": "",
+  "listing_sector": [],
+  "crawl_timestamp": "2026-03-11T00:00:00Z",
+  "detail_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/stress-testing-letter-2009",
+  "canonical_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/stress-testing-letter-2009",
+  "slug": "stress-testing-letter-2009",
+  "title": "Stress Testing - Letter (2009)",
+  "publication_type": "Letter",
+  "category": "",
+  "document_date_raw": "December 2, 2009",
+  "document_date_iso": "2009-12-02",
+  "sector": [],
+  "effective_date_text": "",
+  "guideline_number": "",
+  "date_modified_raw": "2009-12-02T12:00:00Z",
+  "generate_pdf_url": "https://www.osfi-bsif.gc.ca/en/print/pdf/node/366",
+  "pdf_node_id": 366,
+  "direct_pdf_url": null,
+  "has_table_of_contents": true,
+  "toc_entries": [],
+  "has_related_documents": false,
+  "related_document_links_raw": [],
+  "consultation_status_text": null,
+  "consultation_status_refers_to_version": null,
+  "page_language": "en",
+  "word_count_raw_body": 604,
+  "doc_id": "osfi.stress-testing.2009.transmittal",
+  "doc_family_id": "osfi.stress-testing",
+  "version_id": "2009",
+  "version_label": "Stress Testing - Letter (2009)",
+  "version_sort_key": "2009-12",
+  "parent_doc_id": null,
+  "child_doc_ids": [],
+  "is_package_page": false,
+  "is_chapter_page": false,
+  "chapter_number": null,
+  "chapter_title": null,
+  "document_order_within_family": 0,
+  "supersedes_doc_id": null,
+  "superseded_by_doc_id": null,
+  "current_version_flag": true,
+  "status": "final_current",
+  "include_in_primary_corpus": false,
+  "include_in_support_corpus": true,
+  "include_in_context_corpus": false,
+  "effective_date_start": "2009-12-02",
+  "effective_date_end": null,
+  "effective_date_fye_split": false,
+  "effective_date_oct_fye": null,
+  "effective_date_dec_fye": null,
+  "is_future_effective": false,
+  "is_rescinded": false,
+  "is_draft_or_consultation": false,
+  "rescission_date": null,
+  "consultation_closing_date": null,
+  "as_of_applicability": "2026-03-23",
+  "rule_applied": "rule_5_final_current",
+  "authority_class": "official_support",
+  "authority_level": 60,
+  "nova_tier": 2,
+  "prudential_weight": 0.7,
+  "is_primary_normative": false,
+  "is_supporting_interpretive": true,
+  "is_context_only": false,
+  "document_class": "transmittal_letter",
+  "guidance_type_normalized": "letter",
+  "section_headings": [
+    {
+      "level": 2,
+      "text": "Timing of DCAT",
+      "id": "h2-0"
+    },
+    {
+      "level": 2,
+      "text": "Implementation of the Guideline",
+      "id": "h2-1"
+    }
+  ],
+  "heading_path": [
+    "Stress Testing - Letter (2009)"
+  ],
+  "toc_depth": 2,
+  "has_appendices": false,
+  "appendix_ids": [],
+  "has_tables": false,
+  "table_count": 0,
+  "has_footnotes": false,
+  "footnote_count": 0,
+  "inline_cross_references": [
+    "Guideline E-18 for comment",
+    "Guideline E-18 in its final form"
+  ],
+  "quoted_external_references": [
+    "Basel Committee’s May 2009 guidance"
+  ],
+  "raw_html_sha256": "d406bd8f483d73fc7cbd8def4a385437aacaf7cccf25ef3de67197a655ed87d7",
+  "raw_pdf_sha256": null,
+  "normalized_text_sha256": null,
+  "raw_html_path": "bronze/osfi/html/final_current/stress-testing-letter-2009.html",
+  "normalized_md_path": "silver/osfi/md/final_current/stress-testing-letter-2009.md",
+  "canonical_json_path": "silver/osfi/json/final_current/stress-testing-letter-2009.json",
+  "content_source": "HTML",
+  "parser_version": "osfi-parser-v2.1.0",
+  "normalizer_version": "osfi-normalizer-v1.4.0",
+  "quality_score": 1.0,
+  "quality_flags": [],
+  "download_timestamp": "2026-03-11T00:00:00Z",
+  "enriched_timestamp": "2026-03-23T09:54:00.295374Z",
+  "sections": [
+    {
+      "heading": "",
+      "heading_level": 2,
+      "full_text": "  - Stress Testing – Guideline (2009)\n  - Stress Testing - Guideline impact analysis statement (2009)\nTo: Banks, Bank Holding Companies, Federally Regulated Trust and Loan Companies, Cooperative Credit Associations, Life Insurance Companies and Fraternal Benefit Societies, Property and Casualty Insurance Companies, Insurance Holding Companies\nOn August 26, 2009, OSFI issued a draft version of Guideline E-18 for comment. This letter issues Guideline E-18 in its final form.\nThe guideline sets out that an institution’s stress testing program should be commensurate with the nature and complexity of the institution and its risk profile. Stress testing should be embedded in enterprise wide risk management. A stress testing program as a whole should be actionable, playing an important role in facilitating the development of risk mitigation or contingency plans across a range of stressed conditions. It should feed into the institution’s decision making process, including setting the institution’s risk appetite, setting exposure limits, and evaluating strategic choices in longer term business planning.\nThe guideline sets out OSFI’s expectations with respect to the use of stress testing by all federally regulated financial institutions. The guideline reflects OSFI’s assessment of improvements needed for DCAT and stress testing in insurance companies generally. The guideline is also consistent with and embodies the principles included in the Basel Committee’s May 2009 guidance, Principles for sound stress testing practices and supervision .\nWe received a sizable number of comments from banks, insurance companies and actuaries and, in response we made changes to the guideline. Comments focused primarily on the timing of the DCAT and on the implementation of the guideline.",
+      "content": [
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Stress Testing – Guideline (2009)",
+            "Stress Testing - Guideline impact analysis statement (2009)"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "To: Banks, Bank Holding Companies, Federally Regulated Trust and Loan Companies, Cooperative Credit Associations, Life Insurance Companies and Fraternal Benefit Societies, Property and Casualty Insurance Companies, Insurance Holding Companies"
+        },
+        {
+          "type": "paragraph",
+          "text": "On August 26, 2009, OSFI issued a draft version of Guideline E-18 for comment. This letter issues Guideline E-18 in its final form."
+        },
+        {
+          "type": "paragraph",
+          "text": "The guideline sets out that an institution’s stress testing program should be commensurate with the nature and complexity of the institution and its risk profile. Stress testing should be embedded in enterprise wide risk management. A stress testing program as a whole should be actionable, playing an important role in facilitating the development of risk mitigation or contingency plans across a range of stressed conditions. It should feed into the institution’s decision making process, including setting the institution’s risk appetite, setting exposure limits, and evaluating strategic choices in longer term business planning."
+        },
+        {
+          "type": "paragraph",
+          "text": "The guideline sets out OSFI’s expectations with respect to the use of stress testing by all federally regulated financial institutions. The guideline reflects OSFI’s assessment of improvements needed for DCAT and stress testing in insurance companies generally. The guideline is also consistent with and embodies the principles included in the Basel Committee’s May 2009 guidance, Principles for sound stress testing practices and supervision ."
+        },
+        {
+          "type": "paragraph",
+          "text": "We received a sizable number of comments from banks, insurance companies and actuaries and, in response we made changes to the guideline. Comments focused primarily on the timing of the DCAT and on the implementation of the guideline."
+        }
+      ]
+    },
+    {
+      "heading": "Timing of DCAT",
+      "heading_level": 2,
+      "full_text": "The draft guideline set out an expectation that an insurer’s annual DCAT would be available to the board of directors no later than six months after year. This was the most commented on aspect of the guideline. Commenters pointed out that requiring DCAT to be completed within six months of year end does not mesh well with many insurers’ planning cycles, and that uncoupling DCAT from the planning cycle reduces its effectiveness as a management tool. We clarified the requirement by eliminating a specific timeline for the annual DCAT and emphasizing that DCAT and stress testing are complementary processes which each institution needs to complete in a way which will maximize their benefit, and that more frequent stress testing supports the integration of the DCAT process with the finalization of an annual business plan by providing timely inputs based on current information.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "The draft guideline set out an expectation that an insurer’s annual DCAT would be available to the board of directors no later than six months after year. This was the most commented on aspect of the guideline. Commenters pointed out that requiring DCAT to be completed within six months of year end does not mesh well with many insurers’ planning cycles, and that uncoupling DCAT from the planning cycle reduces its effectiveness as a management tool. We clarified the requirement by eliminating a specific timeline for the annual DCAT and emphasizing that DCAT and stress testing are complementary processes which each institution needs to complete in a way which will maximize their benefit, and that more frequent stress testing supports the integration of the DCAT process with the finalization of an annual business plan by providing timely inputs based on current information."
+        }
+      ]
+    },
+    {
+      "heading": "Implementation of the Guideline",
+      "heading_level": 2,
+      "full_text": "The Guideline Implementation Analysis Statement that accompanied the draft guideline indicated that OSFI intends to implement the guideline in late 2009. Industry associations suggest immediate full implementation of the guideline is not reasonable as it may require significant investment in infrastructure and information systems. They suggest that a more reasonable expectation is that institutions have a plan to move to full implementation over a reasonable period of time, and that their progress can be measured against the plan.\nOSFI recognizes that achieving full compliance with the principles laid out in the guideline may take time for many institutions. As such, OSFI expects institutions to assess their stress testing practices against the principles set out in the guideline as soon as practicable and, where gaps have been identified, that institutions develop action plans to improve their practices in a reasonable time frame. Institutions should communicate the results of such assessments and any action plans to their OSFI relationship manager during the first half of calendar 2010.\nQuestions concerning the guideline should be addressed to Aina Liepins, Capital, Accounting and Research Division, at (613) 991-5555, by facsimile at (613) 991-6822 or by e-mail at aina.liepins@osfi-bsif.gc.ca .\nMark E. White Assistant Superintendent Regulation Sector",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "The Guideline Implementation Analysis Statement that accompanied the draft guideline indicated that OSFI intends to implement the guideline in late 2009. Industry associations suggest immediate full implementation of the guideline is not reasonable as it may require significant investment in infrastructure and information systems. They suggest that a more reasonable expectation is that institutions have a plan to move to full implementation over a reasonable period of time, and that their progress can be measured against the plan."
+        },
+        {
+          "type": "paragraph",
+          "text": "OSFI recognizes that achieving full compliance with the principles laid out in the guideline may take time for many institutions. As such, OSFI expects institutions to assess their stress testing practices against the principles set out in the guideline as soon as practicable and, where gaps have been identified, that institutions develop action plans to improve their practices in a reasonable time frame. Institutions should communicate the results of such assessments and any action plans to their OSFI relationship manager during the first half of calendar 2010."
+        },
+        {
+          "type": "paragraph",
+          "text": "Questions concerning the guideline should be addressed to Aina Liepins, Capital, Accounting and Research Division, at (613) 991-5555, by facsimile at (613) 991-6822 or by e-mail at aina.liepins@osfi-bsif.gc.ca ."
+        },
+        {
+          "type": "paragraph",
+          "text": "Mark E. White Assistant Superintendent Regulation Sector"
+        }
+      ]
+    }
+  ],
+  "title_normalized": "stress testing letter 2009",
+  "publication_type_normalized": "letter",
+  "category_normalized": "",
+  "sector_normalized": [],
+  "guideline_number_normalized": "",
+  "applies_to_banks": false,
+  "applies_to_trust_loan": false,
+  "applies_to_life_insurance": false,
+  "applies_to_pc_insurance": false,
+  "applies_to_foreign_bank": false,
+  "applies_to_foreign_insurance": false,
+  "applies_to_cooperative": false,
+  "applies_to_bank_holding": false,
+  "effective_date_sort_key": "2009-12-02",
+  "status_sort_key": 1,
+  "authority_sort_key": 60,
+  "bm25_text": "Stress Testing - Letter (2009) Letter Timing of DCAT Implementation of the Guideline",
+  "vector_text_prefix": "[OSFI Letter  |  |  | FINAL_CURRENT | Effective 2009-12-02]",
+  "h1_title": "Stress Testing - Letter (2009)",
+  "regulator": "OSFI",
+  "regulator_acronym": "OSFI",
+  "jurisdiction": "Canada",
+  "short_title": "",
+  "source_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/stress-testing-letter-2009"
+}

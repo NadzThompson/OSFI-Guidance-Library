@@ -1,0 +1,1140 @@
+{
+  "source_system": "osfi_guidance_library",
+  "library_row_title": "Integrity and Security - Guideline",
+  "library_row_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/integrity-security-guideline",
+  "listing_date_raw": "January 31, 2024",
+  "listing_date_iso": "2024-01-31",
+  "listing_publication_type": "Guideline",
+  "listing_category": "Sound Business and Financial Practices",
+  "listing_sector": [
+    "Banks",
+    "Cooperative Credit Associations",
+    "Foreign Bank Branches",
+    "Foreign Insurance Branches",
+    "Life Insurance and Fraternal Companies",
+    "Property and Casualty Companies",
+    "Trust and Loan Companies"
+  ],
+  "crawl_timestamp": "2026-03-11T00:00:00Z",
+  "detail_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/integrity-security-guideline",
+  "canonical_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/integrity-security-guideline",
+  "slug": "integrity-security-guideline",
+  "title": "Integrity and Security - Guideline",
+  "publication_type": "Guideline",
+  "category": "Sound Business and Financial Practices",
+  "document_date_raw": "January 31, 2024",
+  "document_date_iso": "2024-01-31",
+  "sector": [
+    "Banks",
+    "Cooperative Credit Associations",
+    "Foreign Bank Branches",
+    "Foreign Insurance Branches",
+    "Life Insurance and Fraternal Companies",
+    "Property and Casualty Companies",
+    "Trust and Loan Companies"
+  ],
+  "effective_date_text": "",
+  "guideline_number": "",
+  "date_modified_raw": "2024-01-31T12:00:00Z",
+  "generate_pdf_url": null,
+  "pdf_node_id": null,
+  "direct_pdf_url": null,
+  "has_table_of_contents": true,
+  "toc_entries": [],
+  "has_related_documents": false,
+  "related_document_links_raw": [],
+  "consultation_status_text": null,
+  "consultation_status_refers_to_version": null,
+  "page_language": "en",
+  "word_count_raw_body": 4185,
+  "doc_id": "osfi.integrity-security-guideline.package",
+  "doc_family_id": "osfi.integrity-security-guideline",
+  "version_id": "",
+  "version_label": "Integrity and Security - Guideline",
+  "version_sort_key": "",
+  "parent_doc_id": null,
+  "child_doc_ids": [],
+  "is_package_page": true,
+  "is_chapter_page": false,
+  "chapter_number": null,
+  "chapter_title": null,
+  "document_order_within_family": 0,
+  "supersedes_doc_id": null,
+  "superseded_by_doc_id": null,
+  "current_version_flag": true,
+  "status": "final_current",
+  "include_in_primary_corpus": true,
+  "include_in_support_corpus": false,
+  "include_in_context_corpus": false,
+  "effective_date_start": "2024-01-31",
+  "effective_date_end": null,
+  "effective_date_fye_split": false,
+  "effective_date_oct_fye": null,
+  "effective_date_dec_fye": null,
+  "is_future_effective": false,
+  "is_rescinded": false,
+  "is_draft_or_consultation": false,
+  "rescission_date": null,
+  "consultation_closing_date": null,
+  "as_of_applicability": "2026-03-23",
+  "rule_applied": "rule_5_final_current",
+  "authority_class": "primary_normative",
+  "authority_level": 100,
+  "nova_tier": 1,
+  "prudential_weight": 1.0,
+  "is_primary_normative": true,
+  "is_supporting_interpretive": false,
+  "is_context_only": false,
+  "document_class": "package_guideline",
+  "guidance_type_normalized": "guideline",
+  "section_headings": [
+    {
+      "level": 2,
+      "text": "A. Overview",
+      "id": "h2-0"
+    },
+    {
+      "level": 2,
+      "text": "A1. Purpose",
+      "id": "h2-1"
+    },
+    {
+      "level": 2,
+      "text": "A2. Scope",
+      "id": "h2-2"
+    },
+    {
+      "level": 2,
+      "text": "A3. Application",
+      "id": "h2-3"
+    },
+    {
+      "level": 2,
+      "text": "A4. Key terms",
+      "id": "h2-4"
+    },
+    {
+      "level": 2,
+      "text": "A5. Outcomes",
+      "id": "h2-5"
+    },
+    {
+      "level": 2,
+      "text": "A6. Related guidelines",
+      "id": "h2-6"
+    },
+    {
+      "level": 2,
+      "text": "1. Relationship between integrity and security",
+      "id": "h2-7"
+    },
+    {
+      "level": 2,
+      "text": "2. Policies and procedures",
+      "id": "h2-8"
+    },
+    {
+      "level": 2,
+      "text": "3. Integrity",
+      "id": "h2-9"
+    },
+    {
+      "level": 3,
+      "text": "3.1 Character",
+      "id": "h3-10"
+    },
+    {
+      "level": 3,
+      "text": "3.2 Culture",
+      "id": "h3-11"
+    },
+    {
+      "level": 3,
+      "text": "3.3 Governance",
+      "id": "h3-12"
+    },
+    {
+      "level": 3,
+      "text": "3.4 Compliance",
+      "id": "h3-13"
+    },
+    {
+      "level": 2,
+      "text": "4. Security",
+      "id": "h2-14"
+    },
+    {
+      "level": 3,
+      "text": "4.1 Physical premises",
+      "id": "h3-15"
+    },
+    {
+      "level": 3,
+      "text": "4.2 People",
+      "id": "h3-16"
+    },
+    {
+      "level": 4,
+      "text": "4.2.1 Background checks",
+      "id": "h4-17"
+    },
+    {
+      "level": 3,
+      "text": "4.3 Technology assets",
+      "id": "h3-18"
+    },
+    {
+      "level": 3,
+      "text": "4.4 Data and information",
+      "id": "h3-19"
+    },
+    {
+      "level": 3,
+      "text": "4.5 Third-party risks",
+      "id": "h3-20"
+    },
+    {
+      "level": 3,
+      "text": "4.6 Undue influence, foreign interference, and malicious activity",
+      "id": "h3-21"
+    },
+    {
+      "level": 2,
+      "text": "Appendix: Summary of expectations in Integrity and Security guideline",
+      "id": "h2-22"
+    }
+  ],
+  "heading_path": [
+    "Integrity and Security - Guideline"
+  ],
+  "toc_depth": 4,
+  "has_appendices": true,
+  "appendix_ids": [],
+  "has_tables": true,
+  "table_count": 2,
+  "has_footnotes": false,
+  "footnote_count": 0,
+  "inline_cross_references": [
+    "Guideline E-4 on Foreign Entities Operating in Canada on a Branch Basis",
+    "Guideline E-17 Background Checks on Directors and Senior Management",
+    "Guideline E-4 Foreign Entities Operating in Canada on a Branch Basis",
+    "Guideline E-13 on Regulatory Compliance Management",
+    "Guideline E-21 Operational Risk Management and Resilience",
+    "Guideline B-13 Technology and Cyber Risk Management and Guideline E-21 Ope",
+    "Guideline B-13 Technology and Cyber Risk Management",
+    "Guideline B-10 Third-Party Risk Management"
+  ],
+  "quoted_external_references": [],
+  "raw_html_sha256": "36a454daa885056da2f483931d677fa1d037389d5fe73cffc5e36d014f56fefc",
+  "raw_pdf_sha256": null,
+  "normalized_text_sha256": null,
+  "raw_html_path": "bronze/osfi/html/final_current/integrity-security-guideline.html",
+  "normalized_md_path": "silver/osfi/md/final_current/integrity-security-guideline.md",
+  "canonical_json_path": "silver/osfi/json/final_current/integrity-security-guideline.json",
+  "content_source": "HTML",
+  "parser_version": "osfi-parser-v2.1.0",
+  "normalizer_version": "osfi-normalizer-v1.4.0",
+  "quality_score": 1.0,
+  "quality_flags": [],
+  "download_timestamp": "2026-03-11T00:00:00Z",
+  "enriched_timestamp": "2026-03-23T09:53:52.441204Z",
+  "sections": [
+    {
+      "heading": "",
+      "heading_level": 2,
+      "full_text": "  - Integrity and Security - Letter\n  - OSFI releases final Integrity and Security Guideline\n  - OSFI’s response to the draft Integrity and Security Guideline consultation feedback\n  - Integrity and Security – Frequently Asked Questions",
+      "content": [
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Integrity and Security - Letter",
+            "OSFI releases final Integrity and Security Guideline",
+            "OSFI’s response to the draft Integrity and Security Guideline consultation feedback",
+            "Integrity and Security – Frequently Asked Questions"
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "A. Overview",
+      "heading_level": 2,
+      "full_text": "Public confidence in the Canadian financial system depends on the integrity and security of financial institutions. To this end, the Office of the Superintendent of Financial Institutions Act includes a requirement for OSFI to supervise financial institutions to determine that they have adequate policies and procedures to protect themselves against threats to their integrity or security, including foreign interference. Accordingly, financial institutions must take steps to ensure they are managing risks associated with integrity and security by putting such policies and procedures in place.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Public confidence in the Canadian financial system depends on the integrity and security of financial institutions. To this end, the Office of the Superintendent of Financial Institutions Act includes a requirement for OSFI to supervise financial institutions to determine that they have adequate policies and procedures to protect themselves against threats to their integrity or security, including foreign interference. Accordingly, financial institutions must take steps to ensure they are managing risks associated with integrity and security by putting such policies and procedures in place."
+        }
+      ]
+    },
+    {
+      "heading": "A1. Purpose",
+      "heading_level": 2,
+      "full_text": "Set expectations for integrity and security and highlight related expectations in existing guidelines.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Set expectations for integrity and security and highlight related expectations in existing guidelines."
+        }
+      ]
+    },
+    {
+      "heading": "A2. Scope",
+      "heading_level": 2,
+      "full_text": "This guideline sets out expectations for integrity and security policies and procedures. It is applicable to all federally regulated financial institutions, including foreign bank branches and foreign insurance company branches, to the extent it is consistent with applicable requirements and legal obligations related to their business in Canada. Foreign bank branches refers to foreign banks authorized to conduct business in Canada on a branch basis under Part XII.1 of the Bank Act . Foreign insurance company branches refers to foreign entities that are authorized to insure in Canada risks on a branch basis under Part XIII of the Insurance Companies Act . Expectations for branches are set out in Guideline E-4 on Foreign Entities Operating in Canada on a Branch Basis .",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "This guideline sets out expectations for integrity and security policies and procedures. It is applicable to all federally regulated financial institutions, including foreign bank branches and foreign insurance company branches, to the extent it is consistent with applicable requirements and legal obligations related to their business in Canada. Foreign bank branches refers to foreign banks authorized to conduct business in Canada on a branch basis under Part XII.1 of the Bank Act . Foreign insurance company branches refers to foreign entities that are authorized to insure in Canada risks on a branch basis under Part XIII of the Insurance Companies Act . Expectations for branches are set out in Guideline E-4 on Foreign Entities Operating in Canada on a Branch Basis ."
+        }
+      ]
+    },
+    {
+      "heading": "A3. Application",
+      "heading_level": 2,
+      "full_text": "This guideline applies on a risk basis, proportional to such factors as the institution’s:\n  - Ownership structure, including parent-subsidiary or home office-branch relationships and relationships with related parties and large shareholders\n  - Business arrangements, including joint ventures and strategic alliances\n  - Strategy and risk profile\n  - Scope, nature, and location of operations\nFinancial institutions should consider their susceptibility to undue influence, foreign interference, and malicious activity when applying the expectations in this guideline.\nWhere financial institutions face obstacles to meeting expectations in this guideline (for example, local laws and regulatory expectations; limitations associated with leased premises), they should understand the risks to which they are exposed and take appropriate mitigating actions.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "This guideline applies on a risk basis, proportional to such factors as the institution’s:"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Ownership structure, including parent-subsidiary or home office-branch relationships and relationships with related parties and large shareholders",
+            "Business arrangements, including joint ventures and strategic alliances",
+            "Strategy and risk profile",
+            "Scope, nature, and location of operations"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Financial institutions should consider their susceptibility to undue influence, foreign interference, and malicious activity when applying the expectations in this guideline."
+        },
+        {
+          "type": "paragraph",
+          "text": "Where financial institutions face obstacles to meeting expectations in this guideline (for example, local laws and regulatory expectations; limitations associated with leased premises), they should understand the risks to which they are exposed and take appropriate mitigating actions."
+        }
+      ]
+    },
+    {
+      "heading": "A4. Key terms",
+      "heading_level": 2,
+      "full_text": "  - \"Contractor\" is a person contracted to perform work or services for the financial institution as a non-employee (for example, self-employed persons and persons contracted through another entity such as an employment agency, among others).\n  - \"Foreign interference\" includes activities that are within or relating to Canada, detrimental to the interests and security of Canada, and are clandestine or deceptive or involve a threat to any person, including attempts to covertly influence, intimidate, manipulate, interfere, corrupt, or discredit individuals, organizations, and governments to further the interests of a foreign state-or-non-state actor.\n  - \"Integrity\" includes actions, behaviours, and decisions consistent with the letter and intent of regulatory expectations, laws, and codes of conduct.\n  - \"Leader\" is an individual with people management responsibility.\n  - \"Malicious activity\" includes actions taken with the intent of causing harm including theft, coercion, fraud, manipulation of information or disruptions that are otherwise illegal, malicious, clandestine, or deceptive in nature. Malicious activity can originate from foreign or domestic actors and may have national security implications.\n  - \"Responsible persons\" include directors and senior management of financial institutions as defined in the Corporate Governance Guideline and branch management of foreign entities operating in Canada on a branch basis. Others may be considered responsible persons, based on their roles, responsibility, or influence with respect to the financial institution.\n  - \"Security\" includes protection against malicious or unintentional internal and external threats to: real property, infrastructure, and personnel (\" physical threats \") technology assets (\" electronic threats \")\n  - \"Undue influence\" includes situations where a person or entity engages, with malicious intent, in actions, behaviours, deception or the use of power to impact actions, decisions, or behaviours in their own or another’s interests. Undue influence can originate from foreign or domestic actors and may have national security implications.\n\"Contractor\" is a person contracted to perform work or services for the financial institution as a non-employee (for example, self-employed persons and persons contracted through another entity such as an employment agency, among others).\n\"Foreign interference\" includes activities that are within or relating to Canada, detrimental to the interests and security of Canada, and are clandestine or deceptive or involve a threat to any person, including attempts to covertly influence, intimidate, manipulate, interfere, corrupt, or discredit individuals, organizations, and governments to further the interests of a foreign state-or-non-state actor.\n\"Integrity\" includes actions, behaviours, and decisions consistent with the letter and intent of regulatory expectations, laws, and codes of conduct.\n\"Leader\" is an individual with people management responsibility.\n\"Malicious activity\" includes actions taken with the intent of causing harm including theft, coercion, fraud, manipulation of information or disruptions that are otherwise illegal, malicious, clandestine, or deceptive in nature. Malicious activity can originate from foreign or domestic actors and may have national security implications.\n\"Responsible persons\" include directors and senior management of financial institutions as defined in the Corporate Governance Guideline and branch management of foreign entities operating in Canada on a branch basis. Others may be considered responsible persons, based on their roles, responsibility, or influence with respect to the financial institution.\n\"Security\" includes protection against malicious or unintentional internal and external threats to:\n  - real property, infrastructure, and personnel (\" physical threats \")\n  - technology assets (\" electronic threats \")\n\"Undue influence\" includes situations where a person or entity engages, with malicious intent, in actions, behaviours, deception or the use of power to impact actions, decisions, or behaviours in their own or another’s interests. Undue influence can originate from foreign or domestic actors and may have national security implications.",
+      "content": [
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "\"Contractor\" is a person contracted to perform work or services for the financial institution as a non-employee (for example, self-employed persons and persons contracted through another entity such as an employment agency, among others).",
+            "\"Foreign interference\" includes activities that are within or relating to Canada, detrimental to the interests and security of Canada, and are clandestine or deceptive or involve a threat to any person, including attempts to covertly influence, intimidate, manipulate, interfere, corrupt, or discredit individuals, organizations, and governments to further the interests of a foreign state-or-non-state actor.",
+            "\"Integrity\" includes actions, behaviours, and decisions consistent with the letter and intent of regulatory expectations, laws, and codes of conduct.",
+            "\"Leader\" is an individual with people management responsibility.",
+            "\"Malicious activity\" includes actions taken with the intent of causing harm including theft, coercion, fraud, manipulation of information or disruptions that are otherwise illegal, malicious, clandestine, or deceptive in nature. Malicious activity can originate from foreign or domestic actors and may have national security implications.",
+            "\"Responsible persons\" include directors and senior management of financial institutions as defined in the Corporate Governance Guideline and branch management of foreign entities operating in Canada on a branch basis. Others may be considered responsible persons, based on their roles, responsibility, or influence with respect to the financial institution.",
+            "\"Security\" includes protection against malicious or unintentional internal and external threats to: real property, infrastructure, and personnel (\" physical threats \") technology assets (\" electronic threats \")",
+            "\"Undue influence\" includes situations where a person or entity engages, with malicious intent, in actions, behaviours, deception or the use of power to impact actions, decisions, or behaviours in their own or another’s interests. Undue influence can originate from foreign or domestic actors and may have national security implications."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "\"Contractor\" is a person contracted to perform work or services for the financial institution as a non-employee (for example, self-employed persons and persons contracted through another entity such as an employment agency, among others)."
+        },
+        {
+          "type": "paragraph",
+          "text": "\"Foreign interference\" includes activities that are within or relating to Canada, detrimental to the interests and security of Canada, and are clandestine or deceptive or involve a threat to any person, including attempts to covertly influence, intimidate, manipulate, interfere, corrupt, or discredit individuals, organizations, and governments to further the interests of a foreign state-or-non-state actor."
+        },
+        {
+          "type": "paragraph",
+          "text": "\"Integrity\" includes actions, behaviours, and decisions consistent with the letter and intent of regulatory expectations, laws, and codes of conduct."
+        },
+        {
+          "type": "paragraph",
+          "text": "\"Leader\" is an individual with people management responsibility."
+        },
+        {
+          "type": "paragraph",
+          "text": "\"Malicious activity\" includes actions taken with the intent of causing harm including theft, coercion, fraud, manipulation of information or disruptions that are otherwise illegal, malicious, clandestine, or deceptive in nature. Malicious activity can originate from foreign or domestic actors and may have national security implications."
+        },
+        {
+          "type": "paragraph",
+          "text": "\"Responsible persons\" include directors and senior management of financial institutions as defined in the Corporate Governance Guideline and branch management of foreign entities operating in Canada on a branch basis. Others may be considered responsible persons, based on their roles, responsibility, or influence with respect to the financial institution."
+        },
+        {
+          "type": "paragraph",
+          "text": "\"Security\" includes protection against malicious or unintentional internal and external threats to:"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "real property, infrastructure, and personnel (\" physical threats \")",
+            "technology assets (\" electronic threats \")"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "\"Undue influence\" includes situations where a person or entity engages, with malicious intent, in actions, behaviours, deception or the use of power to impact actions, decisions, or behaviours in their own or another’s interests. Undue influence can originate from foreign or domestic actors and may have national security implications."
+        }
+      ]
+    },
+    {
+      "heading": "A5. Outcomes",
+      "heading_level": 2,
+      "full_text": "  1. Actions, behaviours, and decisions are consistent with the letter and intent of regulatory expectations, laws, and codes of conduct.\n  2. Operations, physical premises, people, technology assets, and data and information are resilient and protected against threats.",
+      "content": [
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "Actions, behaviours, and decisions are consistent with the letter and intent of regulatory expectations, laws, and codes of conduct.",
+            "Operations, physical premises, people, technology assets, and data and information are resilient and protected against threats."
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "A6. Related guidelines",
+      "heading_level": 2,
+      "full_text": "While many guidelines play a role—directly and indirectly—in enhancing the integrity and security of financial institutions, the following directly support integrity and security expectations:\n  - Corporate Governance Guideline\n  - Guideline B-10: Third-Party Risk Management\n  - Guideline B-13: Technology and Cyber Risk Management\n  - Guideline E-4: Foreign Entities Operating in Canada on a Branch Basis\n  - Guideline E-13: Regulatory Compliance Management\n  - Guideline E-17: Background Checks on Directors and Senior Management\n  - Guideline E-21: Operational Risk Management and Resilience\n  - Regulatory Notice on Culture Risk Management",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "While many guidelines play a role—directly and indirectly—in enhancing the integrity and security of financial institutions, the following directly support integrity and security expectations:"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Corporate Governance Guideline",
+            "Guideline B-10: Third-Party Risk Management",
+            "Guideline B-13: Technology and Cyber Risk Management",
+            "Guideline E-4: Foreign Entities Operating in Canada on a Branch Basis",
+            "Guideline E-13: Regulatory Compliance Management",
+            "Guideline E-17: Background Checks on Directors and Senior Management",
+            "Guideline E-21: Operational Risk Management and Resilience",
+            "Regulatory Notice on Culture Risk Management"
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "1. Relationship between integrity and security",
+      "heading_level": 2,
+      "full_text": "While integrity and security are distinct concepts and the outcomes of separate risk management practices, financial institutions can enhance their security by acting with integrity. For example, a lack of integrity can increase an institution’s vulnerability to physical or electronic security threats. That is, failures to appropriately protect security are often rooted in failure to comply with regulatory expectations, laws, or codes of conduct.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "While integrity and security are distinct concepts and the outcomes of separate risk management practices, financial institutions can enhance their security by acting with integrity. For example, a lack of integrity can increase an institution’s vulnerability to physical or electronic security threats. That is, failures to appropriately protect security are often rooted in failure to comply with regulatory expectations, laws, or codes of conduct."
+        }
+      ]
+    },
+    {
+      "heading": "2. Policies and procedures",
+      "heading_level": 2,
+      "full_text": "Adequate policies and procedures to protect against threats to integrity or security, including foreign interference, must be established, implemented, maintained, and adhered to.\nExisting policies and procedures should be assessed against expectations in this guideline and related guidelines. Effective monitoring, control, and reporting systems and procedures should be developed and maintained. Any gaps or deficiencies should be identified, reported to senior management, and addressed. The effectiveness of policies and procedures should be demonstrable and assessed on a regular basis, including when the financial institution identifies new threats or becomes aware of new information.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Adequate policies and procedures to protect against threats to integrity or security, including foreign interference, must be established, implemented, maintained, and adhered to."
+        },
+        {
+          "type": "paragraph",
+          "text": "Existing policies and procedures should be assessed against expectations in this guideline and related guidelines. Effective monitoring, control, and reporting systems and procedures should be developed and maintained. Any gaps or deficiencies should be identified, reported to senior management, and addressed. The effectiveness of policies and procedures should be demonstrable and assessed on a regular basis, including when the financial institution identifies new threats or becomes aware of new information."
+        }
+      ]
+    },
+    {
+      "heading": "3. Integrity",
+      "heading_level": 2,
+      "full_text": "Outcome: Actions, behaviours, and decisions are consistent with the letter and intent of regulatory expectations, laws, and codes of conduct.\nIntegrity is demonstrated in actions, behaviours, and decisions that are consistent with the letter and intent of regulatory expectations, laws, and codes of conduct. It is people within organizations that take or fail to take actions and make decisions. Increasing the likelihood their behaviour demonstrates integrity can be achieved in several different ways, including by:\n  1. Ensuring people are of good character\n  2. Promoting a culture that values compliance, honesty, and responsibility\n  3. Subjecting actions, behaviours, and decisions to sound governance\n  4. Verifying compliance of actions, behaviours, and decisions with regulatory expectations, laws, and codes of conduct\nIntegrity is an important value in and of itself. A lack of it can damage reputation, result in fraud, cause legal issues, and increase vulnerabilities to undue influence, foreign interference, and malicious activity. Creative compliance, regulatory arbitrage, and any other measures designed to circumvent codes of conduct, regulatory expectations, or laws are not consistent with upholding the intent of the law, regulatory expectations, codes of conduct and other relevant standards and can jeopardize the integrity of the financial institution. Finally, financial risks often find their root cause in failures of integrity. Thus, enhancing integrity reduces risks to solvency and supports the overall safety and stability of a financial institution and, consequently, the financial system.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Outcome: Actions, behaviours, and decisions are consistent with the letter and intent of regulatory expectations, laws, and codes of conduct."
+        },
+        {
+          "type": "paragraph",
+          "text": "Integrity is demonstrated in actions, behaviours, and decisions that are consistent with the letter and intent of regulatory expectations, laws, and codes of conduct. It is people within organizations that take or fail to take actions and make decisions. Increasing the likelihood their behaviour demonstrates integrity can be achieved in several different ways, including by:"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "Ensuring people are of good character",
+            "Promoting a culture that values compliance, honesty, and responsibility",
+            "Subjecting actions, behaviours, and decisions to sound governance",
+            "Verifying compliance of actions, behaviours, and decisions with regulatory expectations, laws, and codes of conduct"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Integrity is an important value in and of itself. A lack of it can damage reputation, result in fraud, cause legal issues, and increase vulnerabilities to undue influence, foreign interference, and malicious activity. Creative compliance, regulatory arbitrage, and any other measures designed to circumvent codes of conduct, regulatory expectations, or laws are not consistent with upholding the intent of the law, regulatory expectations, codes of conduct and other relevant standards and can jeopardize the integrity of the financial institution. Finally, financial risks often find their root cause in failures of integrity. Thus, enhancing integrity reduces risks to solvency and supports the overall safety and stability of a financial institution and, consequently, the financial system."
+        }
+      ]
+    },
+    {
+      "heading": "3.1 Character",
+      "heading_level": 3,
+      "full_text": "Principle 1: Responsible persons and leaders are of good character and demonstrate integrity through their actions, behaviours, and decisions.\nThe way people behave depends to an extent on their character. Responsible persons and leaders who behave honestly and responsibly demonstrate elements of good character.\nThe more senior someone is in an organization, the more power and influence they typically wield. It is, therefore, particularly important that responsible persons demonstrate integrity through their actions, behaviours, and decisions.\nRefer to Guideline E-17 Background Checks on Directors and Senior Management .",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Principle 1: Responsible persons and leaders are of good character and demonstrate integrity through their actions, behaviours, and decisions."
+        },
+        {
+          "type": "paragraph",
+          "text": "The way people behave depends to an extent on their character. Responsible persons and leaders who behave honestly and responsibly demonstrate elements of good character."
+        },
+        {
+          "type": "paragraph",
+          "text": "The more senior someone is in an organization, the more power and influence they typically wield. It is, therefore, particularly important that responsible persons demonstrate integrity through their actions, behaviours, and decisions."
+        },
+        {
+          "type": "paragraph",
+          "text": "Refer to Guideline E-17 Background Checks on Directors and Senior Management ."
+        }
+      ]
+    },
+    {
+      "heading": "3.2 Culture",
+      "heading_level": 3,
+      "full_text": "Principle 2: Culture that demonstrates integrity is deliberately shaped, evaluated, and maintained.\nCulture influences behavioural norms, which send signals throughout an organization about what is, and is not, valued, important, and acceptable. This impacts actions, behaviours, and decisions relating to management, compliance, risk taking, issue response, and learning and growth.\nCulture should be deliberately shaped, evaluated, and maintained. It should also be consistent with the financial institution’s behavioural expectations of what is considered acceptable and unacceptable. This said, there is no ideal culture; sound culture depends to some extent on context. All cultures, however, should reflect a commitment to norms that encourage ethical behaviour.\nRefer to Regulatory Notice on Culture Risk Management .",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Principle 2: Culture that demonstrates integrity is deliberately shaped, evaluated, and maintained."
+        },
+        {
+          "type": "paragraph",
+          "text": "Culture influences behavioural norms, which send signals throughout an organization about what is, and is not, valued, important, and acceptable. This impacts actions, behaviours, and decisions relating to management, compliance, risk taking, issue response, and learning and growth."
+        },
+        {
+          "type": "paragraph",
+          "text": "Culture should be deliberately shaped, evaluated, and maintained. It should also be consistent with the financial institution’s behavioural expectations of what is considered acceptable and unacceptable. This said, there is no ideal culture; sound culture depends to some extent on context. All cultures, however, should reflect a commitment to norms that encourage ethical behaviour."
+        },
+        {
+          "type": "paragraph",
+          "text": "Refer to Regulatory Notice on Culture Risk Management ."
+        }
+      ]
+    },
+    {
+      "heading": "3.3 Governance",
+      "heading_level": 3,
+      "full_text": "Principle 3: Governance structures subject actions, behaviours, and decisions to appropriate scrutiny and challenge.\nSound governance subjects actions, behaviours, and decisions to appropriate scrutiny and challenge. Effective governance builds trust with stakeholders, including shareholders, the public, employees, and regulators; it provides a structured approach to managing important risks to the financial institution.\nAccordingly, important decisions around business plans, strategies, risk appetite, culture, internal controls, and oversight of senior management should be subject to effective governance.\nOversight of senior management includes setting out responsibilities and providing for accountability mechanisms.\nBehavioural expectations should be codified in normative documents such as codes of conduct and conflict of interest policies and procedures. It is important to communicate expectations clearly to employees, contractors, and stakeholders, including how non-compliance issues will be addressed, resolved, and disclosed.\nCodes of conduct establish and communicate behavioural expectations, apply to all employees, and include regular training.\nThey should highlight the importance of:\n  - Following the law, relevant regulatory expectations, policies, procedures, and processes\n  - Avoiding conflicts of interest, such as bribery and other unacceptable influences\n  - Maintaining objectivity and avoiding bias in decision-making processes\n  - Ensuring security and confidentiality of assets, communications, and information\nThey should cover the detection, disclosure, avoidance, and management of real, potential, and perceived conflicts of interest.\nThey should be assessed for effectiveness and reviewed and updated on a regular basis.\nConformity with them, including conflicts of interest, should be monitored based on risk, considering individual roles, functions, and potential exposure to undue influence, foreign interference, and malicious activity.\nRefer to the Corporate Governance Guideline .\nFor branches of foreign banks and insurance companies, refer to Guideline E-4 Foreign Entities Operating in Canada on a Branch Basis .",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Principle 3: Governance structures subject actions, behaviours, and decisions to appropriate scrutiny and challenge."
+        },
+        {
+          "type": "paragraph",
+          "text": "Sound governance subjects actions, behaviours, and decisions to appropriate scrutiny and challenge. Effective governance builds trust with stakeholders, including shareholders, the public, employees, and regulators; it provides a structured approach to managing important risks to the financial institution."
+        },
+        {
+          "type": "paragraph",
+          "text": "Accordingly, important decisions around business plans, strategies, risk appetite, culture, internal controls, and oversight of senior management should be subject to effective governance."
+        },
+        {
+          "type": "paragraph",
+          "text": "Oversight of senior management includes setting out responsibilities and providing for accountability mechanisms."
+        },
+        {
+          "type": "paragraph",
+          "text": "Behavioural expectations should be codified in normative documents such as codes of conduct and conflict of interest policies and procedures. It is important to communicate expectations clearly to employees, contractors, and stakeholders, including how non-compliance issues will be addressed, resolved, and disclosed."
+        },
+        {
+          "type": "paragraph",
+          "text": "Codes of conduct establish and communicate behavioural expectations, apply to all employees, and include regular training."
+        },
+        {
+          "type": "paragraph",
+          "text": "They should highlight the importance of:"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Following the law, relevant regulatory expectations, policies, procedures, and processes",
+            "Avoiding conflicts of interest, such as bribery and other unacceptable influences",
+            "Maintaining objectivity and avoiding bias in decision-making processes",
+            "Ensuring security and confidentiality of assets, communications, and information"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "They should cover the detection, disclosure, avoidance, and management of real, potential, and perceived conflicts of interest."
+        },
+        {
+          "type": "paragraph",
+          "text": "They should be assessed for effectiveness and reviewed and updated on a regular basis."
+        },
+        {
+          "type": "paragraph",
+          "text": "Conformity with them, including conflicts of interest, should be monitored based on risk, considering individual roles, functions, and potential exposure to undue influence, foreign interference, and malicious activity."
+        },
+        {
+          "type": "paragraph",
+          "text": "Refer to the Corporate Governance Guideline ."
+        },
+        {
+          "type": "paragraph",
+          "text": "For branches of foreign banks and insurance companies, refer to Guideline E-4 Foreign Entities Operating in Canada on a Branch Basis ."
+        }
+      ]
+    },
+    {
+      "heading": "3.4 Compliance",
+      "heading_level": 3,
+      "full_text": "Principle 4: Effective mechanisms to identify and verify compliance with regulatory expectations, laws, and codes of conduct exist.\nCompliance risk management is essential to maintaining integrity. It should ensure that compliance can be accurately and expediently verified. It should also ensure that people have effective channels to raise concerns over non-compliance with regulatory expectations, laws, and codes of conduct. Compliance includes not just adhering to the letter of such requirements, but also upholding their intent given the associated impacts on reputation and public trust.\nAppropriate compliance risk management includes establishing an effective, enterprise-wide Regulatory Compliance Management (RCM) framework. This should accurately and expediently validate actions, behaviours, and decisions against applicable regulatory expectations, laws, and codes of conduct, both in letter and intent.\nAn RCM framework should also provide effective internal channels to raise concerns and provide constructive feedback: for example, through regular reporting and anonymous whistleblowing programs internal to the financial institution. What constitutes effective internal channels depends on the organization and its context. In all cases, channels should be regularly reviewed, updated, and brought to the attention of employees. External channels to raise concerns, such as whistleblowing programs run by government agencies or law enforcement, should also be brought to the attention of employees.\nRefer to Guideline E-13 on Regulatory Compliance Management .",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Principle 4: Effective mechanisms to identify and verify compliance with regulatory expectations, laws, and codes of conduct exist."
+        },
+        {
+          "type": "paragraph",
+          "text": "Compliance risk management is essential to maintaining integrity. It should ensure that compliance can be accurately and expediently verified. It should also ensure that people have effective channels to raise concerns over non-compliance with regulatory expectations, laws, and codes of conduct. Compliance includes not just adhering to the letter of such requirements, but also upholding their intent given the associated impacts on reputation and public trust."
+        },
+        {
+          "type": "paragraph",
+          "text": "Appropriate compliance risk management includes establishing an effective, enterprise-wide Regulatory Compliance Management (RCM) framework. This should accurately and expediently validate actions, behaviours, and decisions against applicable regulatory expectations, laws, and codes of conduct, both in letter and intent."
+        },
+        {
+          "type": "paragraph",
+          "text": "An RCM framework should also provide effective internal channels to raise concerns and provide constructive feedback: for example, through regular reporting and anonymous whistleblowing programs internal to the financial institution. What constitutes effective internal channels depends on the organization and its context. In all cases, channels should be regularly reviewed, updated, and brought to the attention of employees. External channels to raise concerns, such as whistleblowing programs run by government agencies or law enforcement, should also be brought to the attention of employees."
+        },
+        {
+          "type": "paragraph",
+          "text": "Refer to Guideline E-13 on Regulatory Compliance Management ."
+        }
+      ]
+    },
+    {
+      "heading": "4. Security",
+      "heading_level": 2,
+      "full_text": "Outcome: Operations, physical premises, people, technology assets, and data and information are resilient and protected against threats.\nSecurity includes protection against malicious or unintentional external or internal threats to real property, infrastructure, and personnel (physical threats), and technology assets (electronic threats). Such threats may arise from human error or be the unintended consequences of otherwise benign activity. They may also result from undue influence, foreign interference, or other malicious activity.\nIntegrity helps to reduce vulnerability to threats. In other words, security is strengthened by people with good character, a culture that is focused on sound governance and an appropriate and well-established RCM framework.\nSound operational risk management and operational resilience also reduce underlying vulnerability to threats, particularly to threats that might disrupt operations. This said, some threats, especially those arising from undue influence, foreign interference, or other malicious activities, may not cause disruption. Non-disruptive threats may require additional methods of detection and prevention to complement current operational risk management and operational resilience practices.\nAccountability for security cannot be contracted out. Services performed by third parties should be subject to appropriate risk management measures.\nPolicies and procedures governing all types of threats, internal and external, should be established and maintained and consider threats associated with undue influence, foreign interference, or malicious activity. They should be assessed for effectiveness, reviewed, and updated on a regular or ongoing basis.\nThe threat environment, including as it relates to third parties, should be assessed, and internally reported at least annually, with security precautions implemented to protect physical premises, people, technology assets, and data and information.\nRefer to Guideline E-21 Operational Risk Management and Resilience .",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Outcome: Operations, physical premises, people, technology assets, and data and information are resilient and protected against threats."
+        },
+        {
+          "type": "paragraph",
+          "text": "Security includes protection against malicious or unintentional external or internal threats to real property, infrastructure, and personnel (physical threats), and technology assets (electronic threats). Such threats may arise from human error or be the unintended consequences of otherwise benign activity. They may also result from undue influence, foreign interference, or other malicious activity."
+        },
+        {
+          "type": "paragraph",
+          "text": "Integrity helps to reduce vulnerability to threats. In other words, security is strengthened by people with good character, a culture that is focused on sound governance and an appropriate and well-established RCM framework."
+        },
+        {
+          "type": "paragraph",
+          "text": "Sound operational risk management and operational resilience also reduce underlying vulnerability to threats, particularly to threats that might disrupt operations. This said, some threats, especially those arising from undue influence, foreign interference, or other malicious activities, may not cause disruption. Non-disruptive threats may require additional methods of detection and prevention to complement current operational risk management and operational resilience practices."
+        },
+        {
+          "type": "paragraph",
+          "text": "Accountability for security cannot be contracted out. Services performed by third parties should be subject to appropriate risk management measures."
+        },
+        {
+          "type": "paragraph",
+          "text": "Policies and procedures governing all types of threats, internal and external, should be established and maintained and consider threats associated with undue influence, foreign interference, or malicious activity. They should be assessed for effectiveness, reviewed, and updated on a regular or ongoing basis."
+        },
+        {
+          "type": "paragraph",
+          "text": "The threat environment, including as it relates to third parties, should be assessed, and internally reported at least annually, with security precautions implemented to protect physical premises, people, technology assets, and data and information."
+        },
+        {
+          "type": "paragraph",
+          "text": "Refer to Guideline E-21 Operational Risk Management and Resilience ."
+        }
+      ]
+    },
+    {
+      "heading": "4.1 Physical premises",
+      "heading_level": 3,
+      "full_text": "Principle 5: Physical premises are safe and secure and monitored appropriately.\nStandards and controls should be adopted to govern access control and monitoring of:\n  - Physical buildings and office spaces, including assets, storage, and equipment contained within those spaces\n  - Any areas where sensitive work or discussions may occur\nTechnical security inspections should be conducted to protect physical and digital assets, including periodic sweeps for covert surveillance, listening, or tracking devices. The scope and frequency of such inspections should be carried out in a manner that aligns with the threat environment.\nRefer to Guideline B-13 Technology and Cyber Risk Management and Guideline E-21 Operational Risk Management and Resilience .",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Principle 5: Physical premises are safe and secure and monitored appropriately."
+        },
+        {
+          "type": "paragraph",
+          "text": "Standards and controls should be adopted to govern access control and monitoring of:"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Physical buildings and office spaces, including assets, storage, and equipment contained within those spaces",
+            "Any areas where sensitive work or discussions may occur"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Technical security inspections should be conducted to protect physical and digital assets, including periodic sweeps for covert surveillance, listening, or tracking devices. The scope and frequency of such inspections should be carried out in a manner that aligns with the threat environment."
+        },
+        {
+          "type": "paragraph",
+          "text": "Refer to Guideline B-13 Technology and Cyber Risk Management and Guideline E-21 Operational Risk Management and Resilience ."
+        }
+      ]
+    },
+    {
+      "heading": "4.2 People",
+      "heading_level": 3,
+      "full_text": "Principle 6: People should be subject to appropriate background checks, and strategies should be put in place to manage risk.\nSecurity standards and controls to protect people from undue influence, foreign interference, and malicious activity should be established and maintained. Subjecting people to appropriate background checks can identify vulnerabilities to these factors, helping to develop strategies to minimize risks. Standards and controls should consider factors such as authority, seniority, and access to sensitive information.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Principle 6: People should be subject to appropriate background checks, and strategies should be put in place to manage risk."
+        },
+        {
+          "type": "paragraph",
+          "text": "Security standards and controls to protect people from undue influence, foreign interference, and malicious activity should be established and maintained. Subjecting people to appropriate background checks can identify vulnerabilities to these factors, helping to develop strategies to minimize risks. Standards and controls should consider factors such as authority, seniority, and access to sensitive information."
+        }
+      ]
+    },
+    {
+      "heading": "4.2.1 Background checks",
+      "heading_level": 4,
+      "full_text": "Responsible persons, employees, and contractors should be subject to appropriate, risk-based background checks that are:\n  - Conducted prior to employment\n  - Renewed on a regular basis\n  - Reviewed off-cycle based on certain criteria\nAt a minimum, appropriate checks include verification of identity and background but frequently include:\n  - Education and professional credentials\n  - Personal and professional references\nIn addition, at a minimum, responsible persons and employees and contractors occupying higher-risk positions should be subject to:\n  - Criminal records checks\n  - Financial inquiries (credit checks)\nOSFI may request that specific individuals of the financial institution obtain a higher level of security clearance, depending on roles and responsibilities.\nRefer to Guideline E-17 Background Checks on Directors and Senior Management .",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Responsible persons, employees, and contractors should be subject to appropriate, risk-based background checks that are:"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Conducted prior to employment",
+            "Renewed on a regular basis",
+            "Reviewed off-cycle based on certain criteria"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "At a minimum, appropriate checks include verification of identity and background but frequently include:"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Education and professional credentials",
+            "Personal and professional references"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "In addition, at a minimum, responsible persons and employees and contractors occupying higher-risk positions should be subject to:"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Criminal records checks",
+            "Financial inquiries (credit checks)"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "OSFI may request that specific individuals of the financial institution obtain a higher level of security clearance, depending on roles and responsibilities."
+        },
+        {
+          "type": "paragraph",
+          "text": "Refer to Guideline E-17 Background Checks on Directors and Senior Management ."
+        }
+      ]
+    },
+    {
+      "heading": "4.3 Technology assets",
+      "heading_level": 3,
+      "full_text": "Principle 7: Technology assets should be secure, with weaknesses identified and addressed, effective defences in place, and issues identified accurately and promptly.\nThreat actors can disrupt, destroy, damage, access, modify, and maliciously use technology assets. Such incidents may result in financial loss and reputational damage and harm to depositors and policyholders and may have national security implications. The intensity of defences established should be proportional to the likelihood of threats and the severity of impact to the financial institution and their employees, clients, and other stakeholders should the technology asset be compromised.\nRefer to Guideline B-13 Technology and Cyber Risk Management .",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Principle 7: Technology assets should be secure, with weaknesses identified and addressed, effective defences in place, and issues identified accurately and promptly."
+        },
+        {
+          "type": "paragraph",
+          "text": "Threat actors can disrupt, destroy, damage, access, modify, and maliciously use technology assets. Such incidents may result in financial loss and reputational damage and harm to depositors and policyholders and may have national security implications. The intensity of defences established should be proportional to the likelihood of threats and the severity of impact to the financial institution and their employees, clients, and other stakeholders should the technology asset be compromised."
+        },
+        {
+          "type": "paragraph",
+          "text": "Refer to Guideline B-13 Technology and Cyber Risk Management ."
+        }
+      ]
+    },
+    {
+      "heading": "4.4 Data and information",
+      "heading_level": 3,
+      "full_text": "Principle 8: Data and information should be subject to appropriate standards and controls ensuring its confidentiality, integrity, and availability.\nData security, including confidentiality, integrity, and availability, should be maintained. Requirements and protections should be defined and established throughout the data lifecycle, with controls in place for data at rest, in transit, and in use.\nStructured and unstructured data should be adequately identified, classified, and protected based on personnel access requirements. When classifying data, its vulnerability to malicious activity, undue influence, or foreign interference should be considered. Standards and controls for data protection should define personnel access requirements to sensitive data. Mechanisms to identify and escalate unauthorized access to data by people or systems should be put in place. The intensity of defences established should be proportional to the likelihood of threats and the severity of impact to the financial institution and their employees, clients, and other stakeholders should the data be compromised.\nRefer to Guideline B-13 Technology and Cyber Risk Management and Guideline E-21 Operational Risk Management and Resilience .",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Principle 8: Data and information should be subject to appropriate standards and controls ensuring its confidentiality, integrity, and availability."
+        },
+        {
+          "type": "paragraph",
+          "text": "Data security, including confidentiality, integrity, and availability, should be maintained. Requirements and protections should be defined and established throughout the data lifecycle, with controls in place for data at rest, in transit, and in use."
+        },
+        {
+          "type": "paragraph",
+          "text": "Structured and unstructured data should be adequately identified, classified, and protected based on personnel access requirements. When classifying data, its vulnerability to malicious activity, undue influence, or foreign interference should be considered. Standards and controls for data protection should define personnel access requirements to sensitive data. Mechanisms to identify and escalate unauthorized access to data by people or systems should be put in place. The intensity of defences established should be proportional to the likelihood of threats and the severity of impact to the financial institution and their employees, clients, and other stakeholders should the data be compromised."
+        },
+        {
+          "type": "paragraph",
+          "text": "Refer to Guideline B-13 Technology and Cyber Risk Management and Guideline E-21 Operational Risk Management and Resilience ."
+        }
+      ]
+    },
+    {
+      "heading": "4.5 Third-party risks",
+      "heading_level": 3,
+      "full_text": "Principle 9: Third parties should be subject to equivalent and proportional measures to protect against threats.\nAccountability for security of the financial institution rests with the financial institution, even as it relates to business outsourced to third parties. This includes threats posed by undue influence, foreign interference, or malicious activity.\nNot all third-party arrangements pose the same level of risk to the financial institution’s security. Due diligence on the third party from an integrity and security perspective should be proportional to the third party’s access to the financial institution’s physical premises, people, technology assets, and data and information.\nBased on that initial proportionality assessment, the following should be assessed before engaging a third party and on an ongoing basis thereafter:\n  - The likelihood of threats to the third party\n  - The ability of the third party to address threats\n  - The existence and adequacy of the third party’s policies and procedures protecting against threats\n  - The adequacy of the third party’s background check processes\nIn relation to foreign interference, the following information about the third party and its subcontractors should also be considered:\n  - Location of operations\n  - Location of corporate headquarters\n  - Connections to foreign governments\n  - Ownership structure\nIt is also important to ensure that processes for the selection of third parties are objective, reducing the potential for bias, undue influence, or foreign interference.\nRefer to Guideline B-10 Third-Party Risk Management .",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Principle 9: Third parties should be subject to equivalent and proportional measures to protect against threats."
+        },
+        {
+          "type": "paragraph",
+          "text": "Accountability for security of the financial institution rests with the financial institution, even as it relates to business outsourced to third parties. This includes threats posed by undue influence, foreign interference, or malicious activity."
+        },
+        {
+          "type": "paragraph",
+          "text": "Not all third-party arrangements pose the same level of risk to the financial institution’s security. Due diligence on the third party from an integrity and security perspective should be proportional to the third party’s access to the financial institution’s physical premises, people, technology assets, and data and information."
+        },
+        {
+          "type": "paragraph",
+          "text": "Based on that initial proportionality assessment, the following should be assessed before engaging a third party and on an ongoing basis thereafter:"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "The likelihood of threats to the third party",
+            "The ability of the third party to address threats",
+            "The existence and adequacy of the third party’s policies and procedures protecting against threats",
+            "The adequacy of the third party’s background check processes"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "In relation to foreign interference, the following information about the third party and its subcontractors should also be considered:"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Location of operations",
+            "Location of corporate headquarters",
+            "Connections to foreign governments",
+            "Ownership structure"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "It is also important to ensure that processes for the selection of third parties are objective, reducing the potential for bias, undue influence, or foreign interference."
+        },
+        {
+          "type": "paragraph",
+          "text": "Refer to Guideline B-10 Third-Party Risk Management ."
+        }
+      ]
+    },
+    {
+      "heading": "4.6 Undue influence, foreign interference, and malicious activity",
+      "heading_level": 3,
+      "full_text": "Principle 10: Threats stemming from suspected undue influence, foreign interference, and malicious activity should be promptly detected and reported.\nMeasures should be put in place for the prompt detection of threats and their careful investigation, ensuring, among other things, appropriate limits on access to information, confidentiality, and the independence and integrity of the investigation.\nFinancial institutions are encouraged to report to the appropriate authorities, including the Canadian Security Intelligence Service and the Royal Canadian Mounted Police, when there are reasonable grounds to believe that an incident or event has occurred related to undue influence, foreign interference, or malicious activity. OSFI should be informed immediately of any such communications.\nDetected incidents and events, including those deemed not to meet the threshold of reporting to OSFI or other authorities, should be documented and inventoried by the financial institution as part of the management reporting process to senior management.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Principle 10: Threats stemming from suspected undue influence, foreign interference, and malicious activity should be promptly detected and reported."
+        },
+        {
+          "type": "paragraph",
+          "text": "Measures should be put in place for the prompt detection of threats and their careful investigation, ensuring, among other things, appropriate limits on access to information, confidentiality, and the independence and integrity of the investigation."
+        },
+        {
+          "type": "paragraph",
+          "text": "Financial institutions are encouraged to report to the appropriate authorities, including the Canadian Security Intelligence Service and the Royal Canadian Mounted Police, when there are reasonable grounds to believe that an incident or event has occurred related to undue influence, foreign interference, or malicious activity. OSFI should be informed immediately of any such communications."
+        },
+        {
+          "type": "paragraph",
+          "text": "Detected incidents and events, including those deemed not to meet the threshold of reporting to OSFI or other authorities, should be documented and inventoried by the financial institution as part of the management reporting process to senior management."
+        }
+      ]
+    },
+    {
+      "heading": "Appendix: Summary of expectations in Integrity and Security guideline",
+      "heading_level": 2,
+      "full_text": "Table: Summary of expectations - Integrity\nPrinciple | Associated OSFI guidelines | New expectation | Expanded expectations\n1. Responsible persons and leaders are of good character and demonstrate integrity through their actions, behaviours, and decisions. | E-17 Background Checks on Directors and Senior Management | Not applicable | Character of responsible persons as demonstrated through their actions, behaviours, and decisions.\n2. Culture that demonstrates integrity is deliberately shaped, evaluated, and maintained. | Regulatory Notice on Culture Risk Management | Not applicable | Culture reflects a commitment to norms that encourage ethical behaviour.\n3. Governance structures subject actions, behaviours, and decisions to appropriate scrutiny and challenge. | Corporate Governance Guideline E-4 Foreign Entities Operating in Canada on a Branch Basis | Not applicable | Governance that provides oversight of actions, behaviours, and decisions. Behavioural expectations are codified in normative documents such as codes of conduct and conflict of interest policies and procedures.\n4. Effective mechanisms to identify and verify compliance with regulatory expectations, laws, and codes of conduct exist. | E-13 Regulatory Compliance Management | Not applicable | Compliance that focuses on not just the letter of requirements but also the intent. Effective channels, such as whistleblowing programs, to raise concerns over non-compliance.\nE-17 Background Checks on Directors and Senior Management\nNot applicable\nCharacter of responsible persons as demonstrated through their actions, behaviours, and decisions.\nRegulatory Notice on Culture Risk Management\nNot applicable\nCulture reflects a commitment to norms that encourage ethical behaviour.\nCorporate Governance Guideline\nE-4 Foreign Entities Operating in Canada on a Branch Basis\nNot applicable\nGovernance that provides oversight of actions, behaviours, and decisions.\nBehavioural expectations are codified in normative documents such as codes of conduct and conflict of interest policies and procedures.\nE-13 Regulatory Compliance Management\nNot applicable\nCompliance that focuses on not just the letter of requirements but also the intent.\nEffective channels, such as whistleblowing programs, to raise concerns over non-compliance.\nTable: Summary of expectations - Security\nPrinciple | Associated OSFI guidelines | New expectation | Expanded expectations\n5. Physical premises are safe and secure and monitored appropriately. | B-13 Technology and Cyber Risk Management Guideline E-21 Operational Risk Management and Resilience | Standards and controls for physical buildings, office spaces, physical file storage, and technical security inspections. | Not applicable\n6. People should be subject to appropriate background checks, and strategies should be put in place to manage risk. | E-17 Background Checks on Directors and Senior Management | Risk-based background checks on all employees and contractors, as appropriate to the role. | Not applicable\n7. Technology assets should be secure, with weaknesses identified and addressed, effective defences in place, and issues identified accurately and promptly. | B-13 Technology and Cyber Risk Management | Not applicable | Enhanced description of what constitutes malicious actions towards IT infrastructure.\n8. Data and information should be the subject of appropriate standards and controls ensuring its confidentiality, integrity, and availability. | B-13 Technology and Cyber Risk Management Guideline E-21 Operational Risk Management and Resilience | Data classification considers vulnerability to malicious activity, undue influence, or foreign interference. | Personnel access requirements to prevent undue influence and foreign interference.\n9. Third parties should be subject to equivalent and proportional measures to protect against threats. | B-10 Third-Party Risk Management | Third-party risk management is conducted through an integrity and security lens and is proportional to the third party’s access to the financial institution’s physical premises, people, technology assets, and data and information. Transparent and objective procurement processes. | Not applicable\n10. Threats stemming from suspected undue influence, foreign interference, and malicious activity should be promptly detected and reported. | E-13 Regulatory Compliance Management | Notification to OSFI when a report is made to RCMP, CSIS, or other authorities regarding undue influence, foreign interference, or malicious activity. | Not applicable\nB-13 Technology and Cyber Risk Management\nGuideline E-21 Operational Risk Management and Resilience\nStandards and controls for physical buildings, office spaces, physical file storage, and technical security inspections.\nNot applicable\nE-17 Background Checks on Directors and Senior Management\nRisk-based background checks on all employees and contractors, as appropriate to the role.\nNot applicable\nB-13 Technology and Cyber Risk Management\nNot applicable\nEnhanced description of what constitutes malicious actions towards IT infrastructure.\nB-13 Technology and Cyber Risk Management\nGuideline E-21 Operational Risk Management and Resilience\nData classification considers vulnerability to malicious activity, undue influence, or foreign interference.\nPersonnel access requirements to prevent undue influence and foreign interference.\nB-10 Third-Party Risk Management\nThird-party risk management is conducted through an integrity and security lens and is proportional to the third party’s access to the financial institution’s physical premises, people, technology assets, and data and information.\nTransparent and objective procurement processes.\nNot applicable\nE-13 Regulatory Compliance Management\nNotification to OSFI when a report is made to RCMP, CSIS, or other authorities regarding undue influence, foreign interference, or malicious activity.\nNot applicable",
+      "content": [
+        {
+          "type": "table",
+          "caption": "Summary of expectations - Integrity",
+          "rows": [
+            [
+              "Principle",
+              "Associated OSFI guidelines",
+              "New expectation",
+              "Expanded expectations"
+            ],
+            [
+              "1. Responsible persons and leaders are of good character and demonstrate integrity through their actions, behaviours, and decisions.",
+              "E-17 Background Checks on Directors and Senior Management",
+              "Not applicable",
+              "Character of responsible persons as demonstrated through their actions, behaviours, and decisions."
+            ],
+            [
+              "2. Culture that demonstrates integrity is deliberately shaped, evaluated, and maintained.",
+              "Regulatory Notice on Culture Risk Management",
+              "Not applicable",
+              "Culture reflects a commitment to norms that encourage ethical behaviour."
+            ],
+            [
+              "3. Governance structures subject actions, behaviours, and decisions to appropriate scrutiny and challenge.",
+              "Corporate Governance Guideline E-4 Foreign Entities Operating in Canada on a Branch Basis",
+              "Not applicable",
+              "Governance that provides oversight of actions, behaviours, and decisions. Behavioural expectations are codified in normative documents such as codes of conduct and conflict of interest policies and procedures."
+            ],
+            [
+              "4. Effective mechanisms to identify and verify compliance with regulatory expectations, laws, and codes of conduct exist.",
+              "E-13 Regulatory Compliance Management",
+              "Not applicable",
+              "Compliance that focuses on not just the letter of requirements but also the intent. Effective channels, such as whistleblowing programs, to raise concerns over non-compliance."
+            ]
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "E-17 Background Checks on Directors and Senior Management"
+        },
+        {
+          "type": "paragraph",
+          "text": "Not applicable"
+        },
+        {
+          "type": "paragraph",
+          "text": "Character of responsible persons as demonstrated through their actions, behaviours, and decisions."
+        },
+        {
+          "type": "paragraph",
+          "text": "Regulatory Notice on Culture Risk Management"
+        },
+        {
+          "type": "paragraph",
+          "text": "Not applicable"
+        },
+        {
+          "type": "paragraph",
+          "text": "Culture reflects a commitment to norms that encourage ethical behaviour."
+        },
+        {
+          "type": "paragraph",
+          "text": "Corporate Governance Guideline"
+        },
+        {
+          "type": "paragraph",
+          "text": "E-4 Foreign Entities Operating in Canada on a Branch Basis"
+        },
+        {
+          "type": "paragraph",
+          "text": "Not applicable"
+        },
+        {
+          "type": "paragraph",
+          "text": "Governance that provides oversight of actions, behaviours, and decisions."
+        },
+        {
+          "type": "paragraph",
+          "text": "Behavioural expectations are codified in normative documents such as codes of conduct and conflict of interest policies and procedures."
+        },
+        {
+          "type": "paragraph",
+          "text": "E-13 Regulatory Compliance Management"
+        },
+        {
+          "type": "paragraph",
+          "text": "Not applicable"
+        },
+        {
+          "type": "paragraph",
+          "text": "Compliance that focuses on not just the letter of requirements but also the intent."
+        },
+        {
+          "type": "paragraph",
+          "text": "Effective channels, such as whistleblowing programs, to raise concerns over non-compliance."
+        },
+        {
+          "type": "table",
+          "caption": "Summary of expectations - Security",
+          "rows": [
+            [
+              "Principle",
+              "Associated OSFI guidelines",
+              "New expectation",
+              "Expanded expectations"
+            ],
+            [
+              "5. Physical premises are safe and secure and monitored appropriately.",
+              "B-13 Technology and Cyber Risk Management Guideline E-21 Operational Risk Management and Resilience",
+              "Standards and controls for physical buildings, office spaces, physical file storage, and technical security inspections.",
+              "Not applicable"
+            ],
+            [
+              "6. People should be subject to appropriate background checks, and strategies should be put in place to manage risk.",
+              "E-17 Background Checks on Directors and Senior Management",
+              "Risk-based background checks on all employees and contractors, as appropriate to the role.",
+              "Not applicable"
+            ],
+            [
+              "7. Technology assets should be secure, with weaknesses identified and addressed, effective defences in place, and issues identified accurately and promptly.",
+              "B-13 Technology and Cyber Risk Management",
+              "Not applicable",
+              "Enhanced description of what constitutes malicious actions towards IT infrastructure."
+            ],
+            [
+              "8. Data and information should be the subject of appropriate standards and controls ensuring its confidentiality, integrity, and availability.",
+              "B-13 Technology and Cyber Risk Management Guideline E-21 Operational Risk Management and Resilience",
+              "Data classification considers vulnerability to malicious activity, undue influence, or foreign interference.",
+              "Personnel access requirements to prevent undue influence and foreign interference."
+            ],
+            [
+              "9. Third parties should be subject to equivalent and proportional measures to protect against threats.",
+              "B-10 Third-Party Risk Management",
+              "Third-party risk management is conducted through an integrity and security lens and is proportional to the third party’s access to the financial institution’s physical premises, people, technology assets, and data and information. Transparent and objective procurement processes.",
+              "Not applicable"
+            ],
+            [
+              "10. Threats stemming from suspected undue influence, foreign interference, and malicious activity should be promptly detected and reported.",
+              "E-13 Regulatory Compliance Management",
+              "Notification to OSFI when a report is made to RCMP, CSIS, or other authorities regarding undue influence, foreign interference, or malicious activity.",
+              "Not applicable"
+            ]
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "B-13 Technology and Cyber Risk Management"
+        },
+        {
+          "type": "paragraph",
+          "text": "Guideline E-21 Operational Risk Management and Resilience"
+        },
+        {
+          "type": "paragraph",
+          "text": "Standards and controls for physical buildings, office spaces, physical file storage, and technical security inspections."
+        },
+        {
+          "type": "paragraph",
+          "text": "Not applicable"
+        },
+        {
+          "type": "paragraph",
+          "text": "E-17 Background Checks on Directors and Senior Management"
+        },
+        {
+          "type": "paragraph",
+          "text": "Risk-based background checks on all employees and contractors, as appropriate to the role."
+        },
+        {
+          "type": "paragraph",
+          "text": "Not applicable"
+        },
+        {
+          "type": "paragraph",
+          "text": "B-13 Technology and Cyber Risk Management"
+        },
+        {
+          "type": "paragraph",
+          "text": "Not applicable"
+        },
+        {
+          "type": "paragraph",
+          "text": "Enhanced description of what constitutes malicious actions towards IT infrastructure."
+        },
+        {
+          "type": "paragraph",
+          "text": "B-13 Technology and Cyber Risk Management"
+        },
+        {
+          "type": "paragraph",
+          "text": "Guideline E-21 Operational Risk Management and Resilience"
+        },
+        {
+          "type": "paragraph",
+          "text": "Data classification considers vulnerability to malicious activity, undue influence, or foreign interference."
+        },
+        {
+          "type": "paragraph",
+          "text": "Personnel access requirements to prevent undue influence and foreign interference."
+        },
+        {
+          "type": "paragraph",
+          "text": "B-10 Third-Party Risk Management"
+        },
+        {
+          "type": "paragraph",
+          "text": "Third-party risk management is conducted through an integrity and security lens and is proportional to the third party’s access to the financial institution’s physical premises, people, technology assets, and data and information."
+        },
+        {
+          "type": "paragraph",
+          "text": "Transparent and objective procurement processes."
+        },
+        {
+          "type": "paragraph",
+          "text": "Not applicable"
+        },
+        {
+          "type": "paragraph",
+          "text": "E-13 Regulatory Compliance Management"
+        },
+        {
+          "type": "paragraph",
+          "text": "Notification to OSFI when a report is made to RCMP, CSIS, or other authorities regarding undue influence, foreign interference, or malicious activity."
+        },
+        {
+          "type": "paragraph",
+          "text": "Not applicable"
+        }
+      ]
+    }
+  ],
+  "title_normalized": "integrity and security guideline",
+  "publication_type_normalized": "guideline",
+  "category_normalized": "sound_business_and_financial_practices",
+  "sector_normalized": [
+    "banks",
+    "cooperative_credit",
+    "foreign_bank_branches",
+    "foreign_insurance_branches",
+    "life_insurance",
+    "pc_insurance",
+    "trust_and_loan_companies"
+  ],
+  "guideline_number_normalized": "",
+  "applies_to_banks": true,
+  "applies_to_trust_loan": true,
+  "applies_to_life_insurance": true,
+  "applies_to_pc_insurance": true,
+  "applies_to_foreign_bank": true,
+  "applies_to_foreign_insurance": true,
+  "applies_to_cooperative": true,
+  "applies_to_bank_holding": false,
+  "effective_date_sort_key": "2024-01-31",
+  "status_sort_key": 1,
+  "authority_sort_key": 100,
+  "bm25_text": "Integrity and Security - Guideline Guideline Sound Business and Financial Practices Banks Cooperative Credit Associations Foreign Bank Branches Foreign Insurance Branches Life Insurance and Fraternal Companies Property and Casualty Companies Trust and Loan Companies A. Overview A1. Purpose A2. Scope A3. Application A4. Key terms A5. Outcomes A6. Related guidelines 1. Relationship between integrity and security 2. Policies and procedures 3. Integrity 3.1 Character 3.2 Culture 3.3 Governance 3.4 Compliance 4. Security 4.1 Physical premises 4.2 People 4.2.1 Background checks 4.3 Technology assets 4.4 Data and information 4.5 Third-party risks 4.6 Undue influence, foreign interference, and malicious activity Appendix: Summary of expectations in Integrity and Security guideline",
+  "vector_text_prefix": "[OSFI Guideline  | Sound Business and Financial Practices | Banks / Cooperative Credit Associations / Foreign Bank Branches | FINAL_CURRENT | Effective 2024-01-31]",
+  "h1_title": "Integrity and Security - Guideline",
+  "regulator": "OSFI",
+  "regulator_acronym": "OSFI",
+  "jurisdiction": "Canada",
+  "short_title": "",
+  "source_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/integrity-security-guideline"
+}

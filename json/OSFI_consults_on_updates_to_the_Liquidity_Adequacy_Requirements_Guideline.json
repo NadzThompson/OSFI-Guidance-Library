@@ -1,0 +1,213 @@
+{
+  "source_system": "osfi_guidance_library",
+  "library_row_title": "OSFI consults on updates to the Liquidity Adequacy Requirements Guideline",
+  "library_row_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/osfi-consults-updates-liquidity-adequacy-requirements-guideline",
+  "listing_date_raw": "May 27, 2024",
+  "listing_date_iso": "2024-05-27",
+  "listing_publication_type": "Letter",
+  "listing_category": "Capital Adequacy Requirements",
+  "listing_sector": [
+    "Banks",
+    "Trust and Loan Companies"
+  ],
+  "crawl_timestamp": "2026-03-11T00:00:00Z",
+  "detail_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/osfi-consults-updates-liquidity-adequacy-requirements-guideline",
+  "canonical_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/osfi-consults-updates-liquidity-adequacy-requirements-guideline",
+  "slug": "osfi-consults-updates-liquidity-adequacy-requirements-guideline",
+  "title": "OSFI consults on updates to the Liquidity Adequacy Requirements Guideline",
+  "publication_type": "Letter",
+  "category": "Capital Adequacy Requirements",
+  "document_date_raw": "May 27, 2024",
+  "document_date_iso": "2024-05-27",
+  "sector": [
+    "Banks",
+    "Trust and Loan Companies"
+  ],
+  "effective_date_text": "",
+  "guideline_number": "",
+  "date_modified_raw": "2024-05-27T12:00:00Z",
+  "generate_pdf_url": "https://www.osfi-bsif.gc.ca/en/print/pdf/node/2239",
+  "pdf_node_id": 2239,
+  "direct_pdf_url": null,
+  "has_table_of_contents": true,
+  "toc_entries": [],
+  "has_related_documents": false,
+  "related_document_links_raw": [],
+  "consultation_status_text": null,
+  "consultation_status_refers_to_version": null,
+  "page_language": "en",
+  "word_count_raw_body": 401,
+  "doc_id": "osfi.osfi-consults-updates-liquidity-adequacy-requireme.package",
+  "doc_family_id": "osfi.osfi-consults-updates-liquidity-adequacy-requireme",
+  "version_id": "",
+  "version_label": "OSFI consults on updates to the Liquidity Adequacy Requireme",
+  "version_sort_key": "",
+  "parent_doc_id": null,
+  "child_doc_ids": [],
+  "is_package_page": true,
+  "is_chapter_page": false,
+  "chapter_number": null,
+  "chapter_title": null,
+  "document_order_within_family": 0,
+  "supersedes_doc_id": null,
+  "superseded_by_doc_id": null,
+  "current_version_flag": true,
+  "status": "final_current",
+  "include_in_primary_corpus": false,
+  "include_in_support_corpus": true,
+  "include_in_context_corpus": false,
+  "effective_date_start": "2024-05-27",
+  "effective_date_end": null,
+  "effective_date_fye_split": false,
+  "effective_date_oct_fye": null,
+  "effective_date_dec_fye": null,
+  "is_future_effective": false,
+  "is_rescinded": false,
+  "is_draft_or_consultation": false,
+  "rescission_date": null,
+  "consultation_closing_date": null,
+  "as_of_applicability": "2026-03-23",
+  "rule_applied": "rule_5_final_current",
+  "authority_class": "official_support",
+  "authority_level": 60,
+  "nova_tier": 2,
+  "prudential_weight": 0.7,
+  "is_primary_normative": false,
+  "is_supporting_interpretive": true,
+  "is_context_only": false,
+  "document_class": "package_guideline",
+  "guidance_type_normalized": "letter",
+  "section_headings": [
+    {
+      "level": 2,
+      "text": "Intraday Liquidity",
+      "id": "h2-0"
+    },
+    {
+      "level": 2,
+      "text": "Treatment of Bankers' Acceptances (BAs)",
+      "id": "h2-1"
+    }
+  ],
+  "heading_path": [
+    "OSFI consults on updates to the Liquidity Adequacy Requirements Guideline"
+  ],
+  "toc_depth": 2,
+  "has_appendices": false,
+  "appendix_ids": [],
+  "has_tables": false,
+  "table_count": 0,
+  "has_footnotes": false,
+  "footnote_count": 0,
+  "inline_cross_references": [],
+  "quoted_external_references": [],
+  "raw_html_sha256": "18b1e886a948479bc0a3a55199d5df62ee72425b4fb752060740d8aa171e66d7",
+  "raw_pdf_sha256": null,
+  "normalized_text_sha256": null,
+  "raw_html_path": "bronze/osfi/html/final_current/osfi-consults-updates-liquidity-adequacy-requirements-guideline.html",
+  "normalized_md_path": "silver/osfi/md/final_current/osfi-consults-updates-liquidity-adequacy-requirements-guideline.md",
+  "canonical_json_path": "silver/osfi/json/final_current/osfi-consults-updates-liquidity-adequacy-requirements-guideline.json",
+  "content_source": "HTML",
+  "parser_version": "osfi-parser-v2.1.0",
+  "normalizer_version": "osfi-normalizer-v1.4.0",
+  "quality_score": 0.5,
+  "quality_flags": [
+    "thin_body_text"
+  ],
+  "download_timestamp": "2026-03-11T00:00:00Z",
+  "enriched_timestamp": "2026-03-23T09:53:57.342579Z",
+  "sections": [
+    {
+      "heading": "",
+      "heading_level": 2,
+      "full_text": "In the Annual Risk Outlook 2024–25, the Office of the Superintendent of Financial Institutions (OSFI) committed to consulting on updates to the Liquidity Adequacy Requirements (LAR) Guideline in the second quarter of 2024. Today, OSFI is launching that consultation, which includes draft regulatory returns. The guideline updates and related regulatory reporting requirements will take effect on April 1, 2025.\nKey revisions touch on Intraday Liquidity and the Treatment of Bankers' Acceptances (BAs).",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "In the Annual Risk Outlook 2024–25, the Office of the Superintendent of Financial Institutions (OSFI) committed to consulting on updates to the Liquidity Adequacy Requirements (LAR) Guideline in the second quarter of 2024. Today, OSFI is launching that consultation, which includes draft regulatory returns. The guideline updates and related regulatory reporting requirements will take effect on April 1, 2025."
+        },
+        {
+          "type": "paragraph",
+          "text": "Key revisions touch on Intraday Liquidity and the Treatment of Bankers' Acceptances (BAs)."
+        }
+      ]
+    },
+    {
+      "heading": "Intraday Liquidity",
+      "heading_level": 2,
+      "full_text": "Although OSFI guidance on intraday monitoring tools has been in place since 2015 (consistent with Basel III), we have not introduced regulatory returns. Recent stress in international financial markets has emphasized the importance of these tools for prudential regulators.\nThrough this consultation, we plan to explore a broadened scope of application, extending some intraday liquidity monitoring tools to non-direct clearers. Therefore, we’re revising Chapter 7, Intraday Liquidity Monitoring Tools in the LAR Guideline, with consequential amendments to Chapter 1 and the Small and Medium-Sized Deposit-Taking Institutions (SMSBs) Capital and Liquidity Requirements Guideline.\nWe will introduce monitoring tools tailored for both direct and indirect clearers, acknowledging the importance of intraday liquidity measurement in recent stress events. Specifically for indirect clearers, we’re proposing a simplified version of the regulatory return.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Although OSFI guidance on intraday monitoring tools has been in place since 2015 (consistent with Basel III), we have not introduced regulatory returns. Recent stress in international financial markets has emphasized the importance of these tools for prudential regulators."
+        },
+        {
+          "type": "paragraph",
+          "text": "Through this consultation, we plan to explore a broadened scope of application, extending some intraday liquidity monitoring tools to non-direct clearers. Therefore, we’re revising Chapter 7, Intraday Liquidity Monitoring Tools in the LAR Guideline, with consequential amendments to Chapter 1 and the Small and Medium-Sized Deposit-Taking Institutions (SMSBs) Capital and Liquidity Requirements Guideline."
+        },
+        {
+          "type": "paragraph",
+          "text": "We will introduce monitoring tools tailored for both direct and indirect clearers, acknowledging the importance of intraday liquidity measurement in recent stress events. Specifically for indirect clearers, we’re proposing a simplified version of the regulatory return."
+        }
+      ]
+    },
+    {
+      "heading": "Treatment of Bankers' Acceptances (BAs)",
+      "heading_level": 2,
+      "full_text": "After June 28, 2024, the Canadian Dollar Offered Rate (CDOR) will no longer be published. The BA market is intrinsically linked to CDOR, and historically, liquidity in the BA market has been well-supported through periods of stress because of this connection. As such, the LAR treatment of select BA liabilities is currently better than other sources of wholesale funding. Following the cessation of CDOR, we do not believe the preferential treatment is justified. We also plan to remove E-20 — CDOR Benchmark-Setting Submissions — Guideline (2014) from OSFI’s guidance library in July 2024, once CDOR submissions are no longer needed. We communicated our intent to review this treatment in an October 2023 letter to the industry supporting transition efforts.\nRevisions to the treatment of BAs have been made in Chapter 3, Net Stable Funding Ratio and Chapter 4, Net Cumulative Cash Flow of the LAR Guideline.\nStakeholders who wish to submit comments should send them to consultations@osfi-bsif.gc.ca by August 30, 2024. Feedback from this consultation will inform the final guidance and regulatory returns.\nA non-attributed summary of comments and OSFI’s responses will accompany the issuance of final guidance in November 2024.\nSincerely,\nAmar Munipalle Executive Director, Risk Advisory Hub, Supervision Sector",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "After June 28, 2024, the Canadian Dollar Offered Rate (CDOR) will no longer be published. The BA market is intrinsically linked to CDOR, and historically, liquidity in the BA market has been well-supported through periods of stress because of this connection. As such, the LAR treatment of select BA liabilities is currently better than other sources of wholesale funding. Following the cessation of CDOR, we do not believe the preferential treatment is justified. We also plan to remove E-20 — CDOR Benchmark-Setting Submissions — Guideline (2014) from OSFI’s guidance library in July 2024, once CDOR submissions are no longer needed. We communicated our intent to review this treatment in an October 2023 letter to the industry supporting transition efforts."
+        },
+        {
+          "type": "paragraph",
+          "text": "Revisions to the treatment of BAs have been made in Chapter 3, Net Stable Funding Ratio and Chapter 4, Net Cumulative Cash Flow of the LAR Guideline."
+        },
+        {
+          "type": "paragraph",
+          "text": "Stakeholders who wish to submit comments should send them to consultations@osfi-bsif.gc.ca by August 30, 2024. Feedback from this consultation will inform the final guidance and regulatory returns."
+        },
+        {
+          "type": "paragraph",
+          "text": "A non-attributed summary of comments and OSFI’s responses will accompany the issuance of final guidance in November 2024."
+        },
+        {
+          "type": "paragraph",
+          "text": "Sincerely,"
+        },
+        {
+          "type": "paragraph",
+          "text": "Amar Munipalle Executive Director, Risk Advisory Hub, Supervision Sector"
+        }
+      ]
+    }
+  ],
+  "title_normalized": "osfi consults on updates to the liquidity adequacy requirements guideline",
+  "publication_type_normalized": "letter",
+  "category_normalized": "capital_adequacy_requirements",
+  "sector_normalized": [
+    "banks",
+    "trust_and_loan_companies"
+  ],
+  "guideline_number_normalized": "",
+  "applies_to_banks": true,
+  "applies_to_trust_loan": true,
+  "applies_to_life_insurance": false,
+  "applies_to_pc_insurance": false,
+  "applies_to_foreign_bank": false,
+  "applies_to_foreign_insurance": false,
+  "applies_to_cooperative": false,
+  "applies_to_bank_holding": false,
+  "effective_date_sort_key": "2024-05-27",
+  "status_sort_key": 1,
+  "authority_sort_key": 60,
+  "bm25_text": "OSFI consults on updates to the Liquidity Adequacy Requirements Guideline Letter Capital Adequacy Requirements Banks Trust and Loan Companies Intraday Liquidity Treatment of Bankers' Acceptances (BAs)",
+  "vector_text_prefix": "[OSFI Letter  | Capital Adequacy Requirements | Banks / Trust and Loan Companies | FINAL_CURRENT | Effective 2024-05-27]",
+  "h1_title": "OSFI consults on updates to the Liquidity Adequacy Requirements Guideline",
+  "regulator": "OSFI",
+  "regulator_acronym": "OSFI",
+  "jurisdiction": "Canada",
+  "short_title": "",
+  "source_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/osfi-consults-updates-liquidity-adequacy-requirements-guideline"
+}

@@ -1,0 +1,1284 @@
+{
+  "source_system": "osfi_guidance_library",
+  "library_row_title": "Guideline E-23 – Model Risk Management (2027)",
+  "library_row_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/guideline-e-23-model-risk-management-2027",
+  "listing_date_raw": "Effective date May 1, 2027",
+  "listing_date_iso": "",
+  "listing_publication_type": "Guideline",
+  "listing_category": "Sound Business and Financial Practices",
+  "listing_sector": [
+    "Banks",
+    "Foreign Bank Branches",
+    "Life Insurance and Fraternal Companies",
+    "Property and Casualty Companies",
+    "Trust and Loan Companies"
+  ],
+  "crawl_timestamp": "2026-03-11T00:00:00Z",
+  "detail_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/guideline-e-23-model-risk-management-2027",
+  "canonical_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/guideline-e-23-model-risk-management-2027",
+  "slug": "guideline-e-23-model-risk-management-2027",
+  "title": "Guideline E-23 – Model Risk Management (2027)",
+  "publication_type": "Guideline",
+  "category": "Sound Business and Financial Practices",
+  "document_date_raw": "Effective date May 1, 2027",
+  "document_date_iso": "",
+  "sector": [
+    "Banks",
+    "Foreign Bank Branches",
+    "Life Insurance and Fraternal Companies",
+    "Property and Casualty Companies",
+    "Trust and Loan Companies"
+  ],
+  "effective_date_text": "Effective date May 1, 2027",
+  "guideline_number": "E-23",
+  "date_modified_raw": "2025-09-11T12:00:00Z",
+  "generate_pdf_url": "https://www.osfi-bsif.gc.ca/en/print/pdf/node/1893",
+  "pdf_node_id": 1893,
+  "direct_pdf_url": null,
+  "has_table_of_contents": true,
+  "toc_entries": [],
+  "has_related_documents": true,
+  "related_document_links_raw": [
+    {
+      "title": "Guideline E-23 – Model Risk Management (2027) - Letter",
+      "url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/guideline-e-23-model-risk-management-2027-letter"
+    },
+    {
+      "title": "Backgrounder: Guideline E-23 – Model Risk Management",
+      "url": "https://www.osfi-bsif.gc.ca/en/news/backgrounder-guideline-e-23-model-risk-management"
+    }
+  ],
+  "consultation_status_text": null,
+  "consultation_status_refers_to_version": null,
+  "page_language": "en",
+  "word_count_raw_body": 4522,
+  "doc_id": "osfi.e23.2027.standalone",
+  "doc_family_id": "osfi.e23",
+  "version_id": "2027",
+  "version_label": "E-23 (2027)",
+  "version_sort_key": "2027-05",
+  "parent_doc_id": null,
+  "child_doc_ids": [],
+  "is_package_page": false,
+  "is_chapter_page": false,
+  "chapter_number": null,
+  "chapter_title": null,
+  "document_order_within_family": 0,
+  "supersedes_doc_id": "osfi.e23.2017.package",
+  "superseded_by_doc_id": null,
+  "current_version_flag": true,
+  "status": "final_future_effective",
+  "include_in_primary_corpus": true,
+  "include_in_support_corpus": false,
+  "include_in_context_corpus": false,
+  "effective_date_start": "2027-05-01",
+  "effective_date_end": null,
+  "effective_date_fye_split": false,
+  "effective_date_oct_fye": null,
+  "effective_date_dec_fye": null,
+  "is_future_effective": true,
+  "is_rescinded": false,
+  "is_draft_or_consultation": false,
+  "rescission_date": null,
+  "consultation_closing_date": null,
+  "as_of_applicability": "2026-03-23",
+  "rule_applied": "rule_4_future_effective",
+  "authority_class": "primary_normative",
+  "authority_level": 100,
+  "nova_tier": 1,
+  "prudential_weight": 1.0,
+  "is_primary_normative": true,
+  "is_supporting_interpretive": false,
+  "is_context_only": false,
+  "document_class": "standalone_guideline",
+  "guidance_type_normalized": "guideline",
+  "section_headings": [
+    {
+      "level": 2,
+      "text": "A. Overview",
+      "id": "h2-0"
+    },
+    {
+      "level": 3,
+      "text": "A.1 Purpose",
+      "id": "h3-1"
+    },
+    {
+      "level": 3,
+      "text": "A.2 Scope",
+      "id": "h3-2"
+    },
+    {
+      "level": 3,
+      "text": "A.3 Application",
+      "id": "h3-3"
+    },
+    {
+      "level": 4,
+      "text": "Model",
+      "id": "h4-4"
+    },
+    {
+      "level": 4,
+      "text": "Model risk",
+      "id": "h4-5"
+    },
+    {
+      "level": 4,
+      "text": "Residual model risk",
+      "id": "h4-6"
+    },
+    {
+      "level": 4,
+      "text": "Model Risk Rating",
+      "id": "h4-7"
+    },
+    {
+      "level": 4,
+      "text": "Model Lifecycle",
+      "id": "h4-8"
+    },
+    {
+      "level": 4,
+      "text": "Model Risk Management (MRM) Framework",
+      "id": "h4-9"
+    },
+    {
+      "level": 4,
+      "text": "Model Inventory",
+      "id": "h4-10"
+    },
+    {
+      "level": 4,
+      "text": "Model Owner",
+      "id": "h4-11"
+    },
+    {
+      "level": 4,
+      "text": "Model Developer",
+      "id": "h4-12"
+    },
+    {
+      "level": 4,
+      "text": "Model Reviewer",
+      "id": "h4-13"
+    },
+    {
+      "level": 4,
+      "text": "Model Approver",
+      "id": "h4-14"
+    },
+    {
+      "level": 4,
+      "text": "Model User",
+      "id": "h4-15"
+    },
+    {
+      "level": 4,
+      "text": "Model Stakeholder",
+      "id": "h4-16"
+    },
+    {
+      "level": 3,
+      "text": "A.5 Outcomes and expectations",
+      "id": "h3-17"
+    },
+    {
+      "level": 2,
+      "text": "B. Enterprise-wide model risk management",
+      "id": "h2-18"
+    },
+    {
+      "level": 3,
+      "text": "B.1 Organizational enablement",
+      "id": "h3-19"
+    },
+    {
+      "level": 3,
+      "text": "B.2 Model risk management framework",
+      "id": "h3-20"
+    },
+    {
+      "level": 3,
+      "text": "B.3 Use of models",
+      "id": "h3-21"
+    },
+    {
+      "level": 2,
+      "text": "C. Risk-based approach to model risk management",
+      "id": "h2-22"
+    },
+    {
+      "level": 3,
+      "text": "C.1 Model identification",
+      "id": "h3-23"
+    },
+    {
+      "level": 3,
+      "text": "C.2 Model risk rating",
+      "id": "h3-24"
+    },
+    {
+      "level": 3,
+      "text": "C.3 Risk management intensity",
+      "id": "h3-25"
+    },
+    {
+      "level": 2,
+      "text": "D. Model lifecycle management",
+      "id": "h2-26"
+    },
+    {
+      "level": 3,
+      "text": "D.1 Policies, procedures, and controls",
+      "id": "h3-27"
+    },
+    {
+      "level": 4,
+      "text": "Model design",
+      "id": "h4-28"
+    },
+    {
+      "level": 4,
+      "text": "Model rationale",
+      "id": "h4-29"
+    },
+    {
+      "level": 4,
+      "text": "Model data",
+      "id": "h4-30"
+    },
+    {
+      "level": 4,
+      "text": "Model development",
+      "id": "h4-31"
+    },
+    {
+      "level": 4,
+      "text": "Model review",
+      "id": "h4-32"
+    },
+    {
+      "level": 4,
+      "text": "Model approval",
+      "id": "h4-33"
+    },
+    {
+      "level": 4,
+      "text": "Model deployment",
+      "id": "h4-34"
+    },
+    {
+      "level": 4,
+      "text": "Model monitoring",
+      "id": "h4-35"
+    },
+    {
+      "level": 4,
+      "text": "Model decommission",
+      "id": "h4-36"
+    },
+    {
+      "level": 2,
+      "text": "Appendix 1: Information tracking for models",
+      "id": "h2-37"
+    },
+    {
+      "level": 2,
+      "text": "Footnotes",
+      "id": "h2-38"
+    }
+  ],
+  "heading_path": [
+    "Guideline E-23 – Model Risk Management (2027)"
+  ],
+  "toc_depth": 4,
+  "has_appendices": true,
+  "appendix_ids": [
+    "Appendix 1"
+  ],
+  "has_tables": false,
+  "table_count": 0,
+  "has_footnotes": true,
+  "footnote_count": 1,
+  "inline_cross_references": [
+    "Guideline E-4 on Foreign Entities Operating in Canada on a Branch Basis"
+  ],
+  "quoted_external_references": [
+    "OECD definition of AI (where an AI system can be based on one or multiple models): “"
+  ],
+  "raw_html_sha256": "8f60de54188312ce9fff292262f28a03a2d7fc4e146814936c74b228819ad621",
+  "raw_pdf_sha256": null,
+  "normalized_text_sha256": null,
+  "raw_html_path": "bronze/osfi/html/final_future/guideline-e-23-model-risk-management-2027.html",
+  "normalized_md_path": "silver/osfi/md/final_future/guideline-e-23-model-risk-management-2027.md",
+  "canonical_json_path": "silver/osfi/json/final_future/guideline-e-23-model-risk-management-2027.json",
+  "content_source": "HTML",
+  "parser_version": "osfi-parser-v2.1.0",
+  "normalizer_version": "osfi-normalizer-v1.4.0",
+  "quality_score": 1.0,
+  "quality_flags": [],
+  "download_timestamp": "2026-03-11T00:00:00Z",
+  "enriched_timestamp": "2026-03-23T09:53:52.058317Z",
+  "sections": [
+    {
+      "heading": "",
+      "heading_level": 2,
+      "full_text": "  - Guideline E-23 – Model Risk Management (2027) - Letter\n  - Backgrounder: Guideline E-23 – Model Risk Management",
+      "content": [
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Guideline E-23 – Model Risk Management (2027) - Letter",
+            "Backgrounder: Guideline E-23 – Model Risk Management"
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "A. Overview",
+      "heading_level": 2,
+      "full_text": "The financial services industry is experiencing a rapid rise in digitalization and model applications amplified by the surge in artificial intelligence / machine learning (AI Footnote 1 / ML) models. Institutions are increasingly relying on models to support or drive decision-making including in business areas that traditionally did not rely on models. Models now use more diverse data sources and complex techniques that heighten different aspects of model risk. Increased model risks could expose institutions to financial loss from flawed decision making, operational losses, legal implications, or reputation damage. Furthermore, models based on rapidly progressing technologies, like AI, can exacerbate these risks and others. Models characterized by dynamic self-learning and autonomous decision-making may become prevalent.\nInstitutions should be cognizant of how the use of models in their business can impact their risk profile and should have effective risk management practices to mitigate the risks. Model risk management should be conducted with integrity, at all times, particularly in a world where newer use cases, including those powered by AI, play a greater role in day-to-day operations.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "The financial services industry is experiencing a rapid rise in digitalization and model applications amplified by the surge in artificial intelligence / machine learning (AI Footnote 1 / ML) models. Institutions are increasingly relying on models to support or drive decision-making including in business areas that traditionally did not rely on models. Models now use more diverse data sources and complex techniques that heighten different aspects of model risk. Increased model risks could expose institutions to financial loss from flawed decision making, operational losses, legal implications, or reputation damage. Furthermore, models based on rapidly progressing technologies, like AI, can exacerbate these risks and others. Models characterized by dynamic self-learning and autonomous decision-making may become prevalent."
+        },
+        {
+          "type": "paragraph",
+          "text": "Institutions should be cognizant of how the use of models in their business can impact their risk profile and should have effective risk management practices to mitigate the risks. Model risk management should be conducted with integrity, at all times, particularly in a world where newer use cases, including those powered by AI, play a greater role in day-to-day operations."
+        }
+      ]
+    },
+    {
+      "heading": "A.1 Purpose",
+      "heading_level": 3,
+      "full_text": "This principles-based guideline sets out our expectations for effective enterprise-wide model risk management (MRM) using a risk-based approach.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "This principles-based guideline sets out our expectations for effective enterprise-wide model risk management (MRM) using a risk-based approach."
+        }
+      ]
+    },
+    {
+      "heading": "A.2 Scope",
+      "heading_level": 3,
+      "full_text": "This guideline applies to all federally regulated financial institutions, including foreign bank branches and foreign insurance company branches, to the extent it is consistent with applicable requirements and legal obligations related to their business in Canada as set out in Guideline E-4 on Foreign Entities Operating in Canada on a Branch Basis .",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "This guideline applies to all federally regulated financial institutions, including foreign bank branches and foreign insurance company branches, to the extent it is consistent with applicable requirements and legal obligations related to their business in Canada as set out in Guideline E-4 on Foreign Entities Operating in Canada on a Branch Basis ."
+        }
+      ]
+    },
+    {
+      "heading": "A.3 Application",
+      "heading_level": 3,
+      "full_text": "This guideline applies on a risk-basis, proportional to the institution's:\n  - size\n  - strategy\n  - risk profile\n  - nature, scope, and complexity of operations\n  - interconnectedness, such that disruptions could harm other financial institutions, the financial system, or the broader economy",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "This guideline applies on a risk-basis, proportional to the institution's:"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "size",
+            "strategy",
+            "risk profile",
+            "nature, scope, and complexity of operations",
+            "interconnectedness, such that disruptions could harm other financial institutions, the financial system, or the broader economy"
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "Model",
+      "heading_level": 4,
+      "full_text": "An application of theoretical, empirical, judgmental assumptions or statistical techniques, including AI/ML methods, which processes input data to generate results. A model has three distinct components:\n  1. data input component that may also include relevant assumptions,\n  2. processing component that identifies relationships between inputs, and\n  3. result component that presents outputs in a format that is useful and meaningful to business lines and control functions.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "An application of theoretical, empirical, judgmental assumptions or statistical techniques, including AI/ML methods, which processes input data to generate results. A model has three distinct components:"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "data input component that may also include relevant assumptions,",
+            "processing component that identifies relationships between inputs, and",
+            "result component that presents outputs in a format that is useful and meaningful to business lines and control functions."
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "Model risk",
+      "heading_level": 4,
+      "full_text": "Model risk involves the risk of adverse financial impact (for example, inadequate capital, financial losses, inadequate liquidity, operational, or reputational consequences) arising from the design, development, deployment, and/or use of a model. This is the inherent risk of using a model and refers to the fundamental characteristics of the model and materiality to the institution. That is, the potential impact on the risk categories described in our Supervisory Framework Footnote 2 .",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Model risk involves the risk of adverse financial impact (for example, inadequate capital, financial losses, inadequate liquidity, operational, or reputational consequences) arising from the design, development, deployment, and/or use of a model. This is the inherent risk of using a model and refers to the fundamental characteristics of the model and materiality to the institution. That is, the potential impact on the risk categories described in our Supervisory Framework Footnote 2 ."
+        }
+      ]
+    },
+    {
+      "heading": "Residual model risk",
+      "heading_level": 4,
+      "full_text": "Residual model risk for the purpose of this guideline refers to the risk that remains after institutions have implemented controls, validation processes, monitoring, and other risk-mitigating measures. Thus, residual model risk captures the portion of risk that continues to exist despite institutions’ best efforts to identify, measure, and mitigate model risk.\nNote : From here onwards, model risk refers to inherent model risk unless otherwise stated.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Residual model risk for the purpose of this guideline refers to the risk that remains after institutions have implemented controls, validation processes, monitoring, and other risk-mitigating measures. Thus, residual model risk captures the portion of risk that continues to exist despite institutions’ best efforts to identify, measure, and mitigate model risk."
+        },
+        {
+          "type": "paragraph",
+          "text": "Note : From here onwards, model risk refers to inherent model risk unless otherwise stated."
+        }
+      ]
+    },
+    {
+      "heading": "Model Risk Rating",
+      "heading_level": 4,
+      "full_text": "A categorical model risk tier associated with the inherent level of model risk based on quantitative and qualitative criteria reflecting intrinsic model vulnerabilities and materiality of model impacts from usage.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "A categorical model risk tier associated with the inherent level of model risk based on quantitative and qualitative criteria reflecting intrinsic model vulnerabilities and materiality of model impacts from usage."
+        }
+      ]
+    },
+    {
+      "heading": "Model Lifecycle",
+      "heading_level": 4,
+      "full_text": "The components that define the life of a model. It encompasses all steps for designing, operating, and maintaining a model until it is decommissioned. Model lifecycle components are model design (including model rationale, data, and development), model review, model deployment, model monitoring, and model decommission. These components are not necessarily sequential and may vary according to the type of the model, organisational structure, and use case.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "The components that define the life of a model. It encompasses all steps for designing, operating, and maintaining a model until it is decommissioned. Model lifecycle components are model design (including model rationale, data, and development), model review, model deployment, model monitoring, and model decommission. These components are not necessarily sequential and may vary according to the type of the model, organisational structure, and use case."
+        }
+      ]
+    },
+    {
+      "heading": "Model Risk Management (MRM) Framework",
+      "heading_level": 4,
+      "full_text": "A set of policies and procedures, that reflects the institution's risk appetite for model risk and defines the governance requirements to manage model risk. It includes roles and responsibilities as well as defined processes to identify, assess, manage, monitor, and report on model risk, both at an enterprise level and throughout the model lifecycle.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "A set of policies and procedures, that reflects the institution's risk appetite for model risk and defines the governance requirements to manage model risk. It includes roles and responsibilities as well as defined processes to identify, assess, manage, monitor, and report on model risk, both at an enterprise level and throughout the model lifecycle."
+        }
+      ]
+    },
+    {
+      "heading": "Model Inventory",
+      "heading_level": 4,
+      "full_text": "An institution’s system of record for storing key information related to models and serving as a basis for reporting. It contains all models whose inherent risk is determined to be non-negligible to the institution.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "An institution’s system of record for storing key information related to models and serving as a basis for reporting. It contains all models whose inherent risk is determined to be non-negligible to the institution."
+        }
+      ]
+    },
+    {
+      "heading": "Model Owner",
+      "heading_level": 4,
+      "full_text": "The unit(s) or individual(s) responsible for coordinating model development, implementation and deployment, ongoing monitoring and maintaining the model's administration, such as its documentation and reporting. The model owner may also be the model developer or user.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "The unit(s) or individual(s) responsible for coordinating model development, implementation and deployment, ongoing monitoring and maintaining the model's administration, such as its documentation and reporting. The model owner may also be the model developer or user."
+        }
+      ]
+    },
+    {
+      "heading": "Model Developer",
+      "heading_level": 4,
+      "full_text": "The unit(s) or individual(s) responsible for designing, developing, evaluating, and documenting a model's methodology.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "The unit(s) or individual(s) responsible for designing, developing, evaluating, and documenting a model's methodology."
+        }
+      ]
+    },
+    {
+      "heading": "Model Reviewer",
+      "heading_level": 4,
+      "full_text": "The unit(s) or individual(s) responsible for reviewing the model’s conceptual soundness, inputs, methodology, assumptions, and performance. Other responsibilities might include providing the model developer and user with guidance on the appropriateness of models for defined purposes and assessing model monitoring results as a part of periodic or ongoing validation.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "The unit(s) or individual(s) responsible for reviewing the model’s conceptual soundness, inputs, methodology, assumptions, and performance. Other responsibilities might include providing the model developer and user with guidance on the appropriateness of models for defined purposes and assessing model monitoring results as a part of periodic or ongoing validation."
+        }
+      ]
+    },
+    {
+      "heading": "Model Approver",
+      "heading_level": 4,
+      "full_text": "The unit(s) or individual(s) or committee(s) with the authority to approve the use of a model within the institution, typically after considering the findings reported by the model reviewer and other governance requirements. This role is often part of a higher-level governance body (for example, a Model Risk Committee or senior management function) that ensures each model aligns with the institution’s risk appetite and strategic objectives.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "The unit(s) or individual(s) or committee(s) with the authority to approve the use of a model within the institution, typically after considering the findings reported by the model reviewer and other governance requirements. This role is often part of a higher-level governance body (for example, a Model Risk Committee or senior management function) that ensures each model aligns with the institution’s risk appetite and strategic objectives."
+        }
+      ]
+    },
+    {
+      "heading": "Model User",
+      "heading_level": 4,
+      "full_text": "The unit(s) or individual(s) that rely on the model's outputs to inform business decisions.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "The unit(s) or individual(s) that rely on the model's outputs to inform business decisions."
+        }
+      ]
+    },
+    {
+      "heading": "Model Stakeholder",
+      "heading_level": 4,
+      "full_text": "The unit(s) or individual(s) that are involved in the model lifecycle, use and governance of the model (for example, all parties defined above, legal team, compliance function).",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "The unit(s) or individual(s) that are involved in the model lifecycle, use and governance of the model (for example, all parties defined above, legal team, compliance function)."
+        }
+      ]
+    },
+    {
+      "heading": "A.5 Outcomes and expectations",
+      "heading_level": 3,
+      "full_text": "The following are the expected outcomes of effective MRM:\n  1. Model risk is well understood and managed across the enterprise.\n  2. Model risk is managed using a risk-based approach.\n  3. Model governance covers the entire model lifecycle.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "The following are the expected outcomes of effective MRM:"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "Model risk is well understood and managed across the enterprise.",
+            "Model risk is managed using a risk-based approach.",
+            "Model governance covers the entire model lifecycle."
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "B. Enterprise-wide model risk management",
+      "heading_level": 2,
+      "full_text": "Outcome 1: Model risk is well understood and managed across the enterprise.\nInstitutions recognize model risk is transverse in nature, and senior management holds an enterprise-wide view of the risks. Model stakeholders are aware of a given model’s intended use, inherent limitations, and potential negative outcomes to their business. There is adequate governance to manage and control model risk. Institutions are accountable for their use of models.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Outcome 1: Model risk is well understood and managed across the enterprise."
+        },
+        {
+          "type": "paragraph",
+          "text": "Institutions recognize model risk is transverse in nature, and senior management holds an enterprise-wide view of the risks. Model stakeholders are aware of a given model’s intended use, inherent limitations, and potential negative outcomes to their business. There is adequate governance to manage and control model risk. Institutions are accountable for their use of models."
+        }
+      ]
+    },
+    {
+      "heading": "B.1 Organizational enablement",
+      "heading_level": 3,
+      "full_text": "Principle 1.1: Effective reporting structures and proper resourcing should enable sound model governance.\nConsistent with our Corporate Governance Guideline , senior management is responsible for:\n  - defining and applying the roles, accountabilities, and expectations for effective MRM across the enterprise,\n  - ensuring appropriate MRM personnel are in place with the requisite skills and experience, particularly for novel technologies, like AI,\n  - ensuring appropriate communication and reporting of model risk to the board of directors.\nMRM should involve a multi-disciplinary team representing a wide range of expertise and functions from across the organization, including legal or ethics professionals as appropriate. This comprehensive approach is particularly critical as institutions adopt advanced technologies like AI/ML, which can significantly increase model complexity and potential impact.\nAppropriate resources should be allocated to MRM and those resources should be allocated optimally towards managing the identified risks. Institutions should be able to provide evidence that they are structured and resourced to support a sound governance framework.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Principle 1.1: Effective reporting structures and proper resourcing should enable sound model governance."
+        },
+        {
+          "type": "paragraph",
+          "text": "Consistent with our Corporate Governance Guideline , senior management is responsible for:"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "defining and applying the roles, accountabilities, and expectations for effective MRM across the enterprise,",
+            "ensuring appropriate MRM personnel are in place with the requisite skills and experience, particularly for novel technologies, like AI,",
+            "ensuring appropriate communication and reporting of model risk to the board of directors."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "MRM should involve a multi-disciplinary team representing a wide range of expertise and functions from across the organization, including legal or ethics professionals as appropriate. This comprehensive approach is particularly critical as institutions adopt advanced technologies like AI/ML, which can significantly increase model complexity and potential impact."
+        },
+        {
+          "type": "paragraph",
+          "text": "Appropriate resources should be allocated to MRM and those resources should be allocated optimally towards managing the identified risks. Institutions should be able to provide evidence that they are structured and resourced to support a sound governance framework."
+        }
+      ]
+    },
+    {
+      "heading": "B.2 Model risk management framework",
+      "heading_level": 3,
+      "full_text": "Principle 1.2: The MRM framework should align risk-taking activities to strategic objectives and risk appetite.\nInstitutions should establish an MRM framework that:\n  - fits into an institution’s broader risk and governance framework as outlined in our Corporate Governance Guideline ,\n  - reflects the institution's risk appetite for model risk,\n  - defines the processes and requirements to identify, assess, manage, monitor, and report on model risk,\n  - has clear guidelines for the major components of their MRM framework such as: model identification, model inventory, model risk ratings, and requirements for model lifecycle governance,\n  - defines how an institution provides transparent and consistent reporting of model risk at different levels of the enterprise,\n  - is subject to periodic review, especially as new technologies emerge, and\n  - covers models or data sourced from external sources like foreign offices or third-party vendors (pursuant to our Guideline B-10 Third-Party Risk Management Guideline ).",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Principle 1.2: The MRM framework should align risk-taking activities to strategic objectives and risk appetite."
+        },
+        {
+          "type": "paragraph",
+          "text": "Institutions should establish an MRM framework that:"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "fits into an institution’s broader risk and governance framework as outlined in our Corporate Governance Guideline ,",
+            "reflects the institution's risk appetite for model risk,",
+            "defines the processes and requirements to identify, assess, manage, monitor, and report on model risk,",
+            "has clear guidelines for the major components of their MRM framework such as: model identification, model inventory, model risk ratings, and requirements for model lifecycle governance,",
+            "defines how an institution provides transparent and consistent reporting of model risk at different levels of the enterprise,",
+            "is subject to periodic review, especially as new technologies emerge, and",
+            "covers models or data sourced from external sources like foreign offices or third-party vendors (pursuant to our Guideline B-10 Third-Party Risk Management Guideline )."
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "B.3 Use of models",
+      "heading_level": 3,
+      "full_text": "Principle 1.3: Models should be appropriate for their business purposes.\nInstitutions should deploy models only when they meaningfully contribute to decision-making, risk assessment or business purposes and deliver reliable outcomes consistent with their intended use. Effective MRM aids institutions by supporting the safe adoption and use of models to advance business goals.\nDeveloping, deploying and using a model depends on having a clear purpose along with adequate data, systems, and technology. These elements should, therefore, be part of any discussion on model risk.\nAs organizational needs evolve, models that are no longer fit for purpose should be modified, replaced, or decommissioned.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Principle 1.3: Models should be appropriate for their business purposes."
+        },
+        {
+          "type": "paragraph",
+          "text": "Institutions should deploy models only when they meaningfully contribute to decision-making, risk assessment or business purposes and deliver reliable outcomes consistent with their intended use. Effective MRM aids institutions by supporting the safe adoption and use of models to advance business goals."
+        },
+        {
+          "type": "paragraph",
+          "text": "Developing, deploying and using a model depends on having a clear purpose along with adequate data, systems, and technology. These elements should, therefore, be part of any discussion on model risk."
+        },
+        {
+          "type": "paragraph",
+          "text": "As organizational needs evolve, models that are no longer fit for purpose should be modified, replaced, or decommissioned."
+        }
+      ]
+    },
+    {
+      "heading": "C. Risk-based approach to model risk management",
+      "heading_level": 2,
+      "full_text": "Outcome 2: Model risk is managed using a risk-based approach.\nA risk-based approach is implemented and ensures MRM requirements are proportional to the level of model risk identified by the institution. A risk-based MRM framework is documented and implemented in a way that enables consistency across functional and business units. Institutions identify sources of model risk, and ensure adequate resources are allocated to manage, mitigate, or accept Footnote 3 those risks as appropriate. A model inventory keeps an active record of models with non-negligible risk and key information about those models, including model risk ratings. The model risk rating approach reflects all material dimensions of inherent model risk. Model governance and other elements of MRM is commensurate with the identified level of model risk.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Outcome 2: Model risk is managed using a risk-based approach."
+        },
+        {
+          "type": "paragraph",
+          "text": "A risk-based approach is implemented and ensures MRM requirements are proportional to the level of model risk identified by the institution. A risk-based MRM framework is documented and implemented in a way that enables consistency across functional and business units. Institutions identify sources of model risk, and ensure adequate resources are allocated to manage, mitigate, or accept Footnote 3 those risks as appropriate. A model inventory keeps an active record of models with non-negligible risk and key information about those models, including model risk ratings. The model risk rating approach reflects all material dimensions of inherent model risk. Model governance and other elements of MRM is commensurate with the identified level of model risk."
+        }
+      ]
+    },
+    {
+      "heading": "C.1 Model identification",
+      "heading_level": 3,
+      "full_text": "Principle 2.1: Institutions should identify and track all models in use or recently decommissioned.\nInstitutions should have defined processes to periodically identify models used throughout the enterprise, including vendor and third-party models. These processes should include:\n  - surveying the institution to identify new models and updating the status of existing ones.\n  - applying triaging, including identifying whether a model has non-negligible inherent model risk and should therefore be subject to model lifecycle governance requirements (Note: we recognize that not all identified models, as per the Key Terms section A.4 above, carry model risk. Hence, models that do not bear model risk, may not require full model lifecycle governance.),\n  - assigning a provisional rating for new models or updating an existing model’s risk rating where it has materially changed in substance or usage.\n  - storing in the institution’s model inventory all models deemed to carry non-negligible inherent model risk.\nAn institution’s model inventory should be:\n  - a comprehensive inventory of models whose inherent risk is determined to be non-negligible to the institution.\n  - maintained at the enterprise level, storing key information related to models (see Appendix A) and serving as a basis for management and regulatory reporting.\n  - accurate, evergreen, and subject to robust controls.\n  - updated in a timely manner, including model modifications and changes in model use, risk rating, or performance status.\n  - inclusive of decommissioned models for a period the institution considers reasonable.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Principle 2.1: Institutions should identify and track all models in use or recently decommissioned."
+        },
+        {
+          "type": "paragraph",
+          "text": "Institutions should have defined processes to periodically identify models used throughout the enterprise, including vendor and third-party models. These processes should include:"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "surveying the institution to identify new models and updating the status of existing ones.",
+            "applying triaging, including identifying whether a model has non-negligible inherent model risk and should therefore be subject to model lifecycle governance requirements (Note: we recognize that not all identified models, as per the Key Terms section A.4 above, carry model risk. Hence, models that do not bear model risk, may not require full model lifecycle governance.),",
+            "assigning a provisional rating for new models or updating an existing model’s risk rating where it has materially changed in substance or usage.",
+            "storing in the institution’s model inventory all models deemed to carry non-negligible inherent model risk."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "An institution’s model inventory should be:"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "a comprehensive inventory of models whose inherent risk is determined to be non-negligible to the institution.",
+            "maintained at the enterprise level, storing key information related to models (see Appendix A) and serving as a basis for management and regulatory reporting.",
+            "accurate, evergreen, and subject to robust controls.",
+            "updated in a timely manner, including model modifications and changes in model use, risk rating, or performance status.",
+            "inclusive of decommissioned models for a period the institution considers reasonable."
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "C.2 Model risk rating",
+      "heading_level": 3,
+      "full_text": "Principle 2.2: Institutions should establish a model risk rating approach that assesses key dimensions of model risk.\nA risk rating approach should be implemented based on inherent model risk, thereby reflecting model vulnerabilities and materiality of model impacts. This enables institutions to ensure that their most critical or complex models receive enhanced scrutiny, while less risky models are subject to fewer requirements.\nThe risk rating approach should be supported by clear, measurable criteria for each risk dimension and incorporate both quantitative and qualitative factors:\n  - Quantitative factors include the importance, size and growth of the portfolio that the model covers (as applicable), or potential operational, security or financial impacts.\n  - Qualitative factors include business use or purpose, model complexity or level of autonomy, reliability of data inputs, customer impacts, or regulatory risk.\nInstitutions may organize risk factors according to other risk dimensions relevant to the institution’s context and practice (for example, “vulnerability and materiality” or “uncertainty and impact”).\nEach model should be assigned a model risk rating. Institutions should have defined processes to do this. The processes may include having a temporary risk rating that is confirmed in the model review or model approval stage of the model lifecycle. Model risk ratings should be regularly reviewed and updated as appropriate, including when a trigger event occurs (for example, a decrease in performance or a material change in the model’s use, data, or infrastructure).\nInstitutions may include a risk rating category that implies a negligible level of inherent model risk and therefore exempts such models from the full model lifecycle governance requirements. There should be a robust process to approve and track such exemptions.\nExternally developed models should be assessed for model risk ratings on a standalone basis.\nEven a well-structured MRM framework cannot eliminate model risk: some elements of uncertainty or limitations will persist even after controls and mitigants are applied. We do not expect residual model risk to drive the primary governance and oversight of models. Visibility of both the inherent and residual model risk, however, provides a view of the extent of risk mitigation and is useful for reporting to senior management.\nIn cases where model risk falls outside the institution's risk appetite, the institution should establish appropriate remediation actions.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Principle 2.2: Institutions should establish a model risk rating approach that assesses key dimensions of model risk."
+        },
+        {
+          "type": "paragraph",
+          "text": "A risk rating approach should be implemented based on inherent model risk, thereby reflecting model vulnerabilities and materiality of model impacts. This enables institutions to ensure that their most critical or complex models receive enhanced scrutiny, while less risky models are subject to fewer requirements."
+        },
+        {
+          "type": "paragraph",
+          "text": "The risk rating approach should be supported by clear, measurable criteria for each risk dimension and incorporate both quantitative and qualitative factors:"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Quantitative factors include the importance, size and growth of the portfolio that the model covers (as applicable), or potential operational, security or financial impacts.",
+            "Qualitative factors include business use or purpose, model complexity or level of autonomy, reliability of data inputs, customer impacts, or regulatory risk."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Institutions may organize risk factors according to other risk dimensions relevant to the institution’s context and practice (for example, “vulnerability and materiality” or “uncertainty and impact”)."
+        },
+        {
+          "type": "paragraph",
+          "text": "Each model should be assigned a model risk rating. Institutions should have defined processes to do this. The processes may include having a temporary risk rating that is confirmed in the model review or model approval stage of the model lifecycle. Model risk ratings should be regularly reviewed and updated as appropriate, including when a trigger event occurs (for example, a decrease in performance or a material change in the model’s use, data, or infrastructure)."
+        },
+        {
+          "type": "paragraph",
+          "text": "Institutions may include a risk rating category that implies a negligible level of inherent model risk and therefore exempts such models from the full model lifecycle governance requirements. There should be a robust process to approve and track such exemptions."
+        },
+        {
+          "type": "paragraph",
+          "text": "Externally developed models should be assessed for model risk ratings on a standalone basis."
+        },
+        {
+          "type": "paragraph",
+          "text": "Even a well-structured MRM framework cannot eliminate model risk: some elements of uncertainty or limitations will persist even after controls and mitigants are applied. We do not expect residual model risk to drive the primary governance and oversight of models. Visibility of both the inherent and residual model risk, however, provides a view of the extent of risk mitigation and is useful for reporting to senior management."
+        },
+        {
+          "type": "paragraph",
+          "text": "In cases where model risk falls outside the institution's risk appetite, the institution should establish appropriate remediation actions."
+        }
+      ]
+    },
+    {
+      "heading": "C.3 Risk management intensity",
+      "heading_level": 3,
+      "full_text": "Principle 2.3: The scope, scale, and intensity of MRM should be commensurate with the risk introduced by the model.\nThe institution’s MRM framework should establish the scope, scale, and intensity of model governance requirements through the model lifecycle based on the inherent model risk rating.\nThe inherent model risk rating should drive the:\n  - frequency, intensity, and scope of model review.\n  - documentation requirements.\n  - level of authority required to approve the model, and any exemptions as needed.\n  - frequency, intensity, and scope of model monitoring.\n  - interval at which the risk rating is re-assessed.\nThe model risk rating should also, with information from the model review assessment, and depending on the risk appetite, determine the:\n  - limits or constraints on model usage (for example, limiting the model’s scope, implementing additional safeguards, or even pursuing a different modeling approach)\n  - intensity of monitoring approach (for example, higher-risk models with limitations may require increased scrutiny in monitoring)\n  - controls and mitigants used to manage residual model risk (for example, allocating capital reserves to cover potential losses, enhancing model’s conservatism, and contingency planning)\nUnique MRM requirements may also be applied using other criteria (for example, by model type) but these should be in addition to the primary risk-based requirements. Institutions should further ensure their MRM capabilities are appropriate relative to overall complexity levels. For example, the extensive use of advanced AI/ML techniques should have correspondingly mature governance and oversight.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Principle 2.3: The scope, scale, and intensity of MRM should be commensurate with the risk introduced by the model."
+        },
+        {
+          "type": "paragraph",
+          "text": "The institution’s MRM framework should establish the scope, scale, and intensity of model governance requirements through the model lifecycle based on the inherent model risk rating."
+        },
+        {
+          "type": "paragraph",
+          "text": "The inherent model risk rating should drive the:"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "frequency, intensity, and scope of model review.",
+            "documentation requirements.",
+            "level of authority required to approve the model, and any exemptions as needed.",
+            "frequency, intensity, and scope of model monitoring.",
+            "interval at which the risk rating is re-assessed."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "The model risk rating should also, with information from the model review assessment, and depending on the risk appetite, determine the:"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "limits or constraints on model usage (for example, limiting the model’s scope, implementing additional safeguards, or even pursuing a different modeling approach)",
+            "intensity of monitoring approach (for example, higher-risk models with limitations may require increased scrutiny in monitoring)",
+            "controls and mitigants used to manage residual model risk (for example, allocating capital reserves to cover potential losses, enhancing model’s conservatism, and contingency planning)"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Unique MRM requirements may also be applied using other criteria (for example, by model type) but these should be in addition to the primary risk-based requirements. Institutions should further ensure their MRM capabilities are appropriate relative to overall complexity levels. For example, the extensive use of advanced AI/ML techniques should have correspondingly mature governance and oversight."
+        }
+      ]
+    },
+    {
+      "heading": "D. Model lifecycle management",
+      "heading_level": 2,
+      "full_text": "Outcome 3: Model governance covers the entire model lifecycle.\nInstitutions manage risks arising from each component of the model lifecycle. Depending on the business case and the nature of the model, the overall model lifecycle may vary. Components include design—which encompasses model rationale, data acquisition, and model development—, review, deployment, and monitoring. Organizations have robust and reliable processes, procedures, and controls implemented throughout the model lifecycle.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Outcome 3: Model governance covers the entire model lifecycle."
+        },
+        {
+          "type": "paragraph",
+          "text": "Institutions manage risks arising from each component of the model lifecycle. Depending on the business case and the nature of the model, the overall model lifecycle may vary. Components include design—which encompasses model rationale, data acquisition, and model development—, review, deployment, and monitoring. Organizations have robust and reliable processes, procedures, and controls implemented throughout the model lifecycle."
+        }
+      ]
+    },
+    {
+      "heading": "D.1 Policies, procedures, and controls",
+      "heading_level": 3,
+      "full_text": "Principle 3.1: MRM policies, procedures, and controls should be robust, flexible, and lead to effective requirements applied across the model lifecycle.\nAn institution’s policies, procedures and controls, covering the full model lifecycle, are crucial components of the MRM framework. They should:\n  - apply to all models commensurate with the risk,\n  - ensure governance structures and practices remain sound and consistent across the enterprise,\n  - define explicit responsibilities and accountability for model stakeholders (for example, owners, reviewers, and users),\n  - identify and involve key stakeholders—such as data science teams, business units, compliance, ethics and legal teams, information technology, and risk management—early in the model lifecycle process,\n  - ensure appropriate independence and objectivity are maintained,\n  - be sufficiently flexible to accommodate evolving technologies, different model types (especially crucial given the “black box” and autonomous nature of many AI/ML models), varying levels of model risk, and organizational changes,\n  - be comprehensively and thoroughly documented.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Principle 3.1: MRM policies, procedures, and controls should be robust, flexible, and lead to effective requirements applied across the model lifecycle."
+        },
+        {
+          "type": "paragraph",
+          "text": "An institution’s policies, procedures and controls, covering the full model lifecycle, are crucial components of the MRM framework. They should:"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "apply to all models commensurate with the risk,",
+            "ensure governance structures and practices remain sound and consistent across the enterprise,",
+            "define explicit responsibilities and accountability for model stakeholders (for example, owners, reviewers, and users),",
+            "identify and involve key stakeholders—such as data science teams, business units, compliance, ethics and legal teams, information technology, and risk management—early in the model lifecycle process,",
+            "ensure appropriate independence and objectivity are maintained,",
+            "be sufficiently flexible to accommodate evolving technologies, different model types (especially crucial given the “black box” and autonomous nature of many AI/ML models), varying levels of model risk, and organizational changes,",
+            "be comprehensively and thoroughly documented."
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "Model design",
+      "heading_level": 4,
+      "full_text": "Model design encompasses:\n  - establishing clear organizational rationale for a model.\n  - adhering to standards that ensure data quality and accuracy.\n  - following appropriate model development processes.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Model design encompasses:"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "establishing clear organizational rationale for a model.",
+            "adhering to standards that ensure data quality and accuracy.",
+            "following appropriate model development processes."
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "Model rationale",
+      "heading_level": 4,
+      "full_text": "Model owners should establish a clear rationale for deploying a new model or modifying an existing model. This involves:\n  - articulating a well-defined purpose—including the model’s scope, coverage, and how its outputs are to be used (for model modifications, the rationale should explain the need for such changes).\n  - identifying the specific business use case and assessing the risk of the model’s intended usage.\nWhen establishing a rationale for models using advanced techniques, like AI/ML, model owners should consider several additional factors that stem from the nature of these models. These can include the:\n  - level of transparency and explainability required.\n  - need for alternative controls, especially for “black box approaches” or autonomous models.\n  - potential for the model to lead to biased outcomes, negative social and ethical implications, or privacy risks.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Model owners should establish a clear rationale for deploying a new model or modifying an existing model. This involves:"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "articulating a well-defined purpose—including the model’s scope, coverage, and how its outputs are to be used (for model modifications, the rationale should explain the need for such changes).",
+            "identifying the specific business use case and assessing the risk of the model’s intended usage."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "When establishing a rationale for models using advanced techniques, like AI/ML, model owners should consider several additional factors that stem from the nature of these models. These can include the:"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "level of transparency and explainability required.",
+            "need for alternative controls, especially for “black box approaches” or autonomous models.",
+            "potential for the model to lead to biased outcomes, negative social and ethical implications, or privacy risks."
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "Model data",
+      "heading_level": 4,
+      "full_text": "Principle 3.2: Data used to develop the model should be suitable for the intended use.\nData can vary in terms of sources, formats, and types. It may be structured, semi-structured or unstructured. It can also be synthetically generated or derived from proxy sources. The consequences of flawed data (for example, due to inaccuracies, bias, or missing records) is significant. This is especially crucial for AI/ML models, since they can easily mirror unwarranted data relationships and preserve them in the outputs.\nInstitutions should adopt robust data governance with standards for collecting, storing, and accessing data used in models. This should be integrated with enterprise-level data governance, strategy, and management. Data leveraged for model development should be:\n  - accurate and fit-for-use (that is, free from material errors with biases understood and managed).\n  - relevant and representative (that is, reflecting the intended target population of the model).\n  - compliant (that is, adhering to statutory, regulatory, and internal requirements for data ethics and customer privacy).\n  - traceable (that is, having documented lineage and provenance).\n  - timely (that is, updated at an appropriate frequency).\nOne important purpose of the above data properties is to enhance the explainability of the model and associated outputs. Consideration needs be given to the potential for unwanted bias within the data which can translate into unfair model outputs with associated reputational risks.\nInstitutions should also:\n  - regularly perform thorough data quality checks (for example, outlier detection, missing value analysis, and consistency evaluations).\n  - implement controls to ensure quality and document provenance and use of synthetic data and proxy data.\n  - have controls to ensure appropriate data cleansing operations (for example, handling of inaccurate and missing values).",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Principle 3.2: Data used to develop the model should be suitable for the intended use."
+        },
+        {
+          "type": "paragraph",
+          "text": "Data can vary in terms of sources, formats, and types. It may be structured, semi-structured or unstructured. It can also be synthetically generated or derived from proxy sources. The consequences of flawed data (for example, due to inaccuracies, bias, or missing records) is significant. This is especially crucial for AI/ML models, since they can easily mirror unwarranted data relationships and preserve them in the outputs."
+        },
+        {
+          "type": "paragraph",
+          "text": "Institutions should adopt robust data governance with standards for collecting, storing, and accessing data used in models. This should be integrated with enterprise-level data governance, strategy, and management. Data leveraged for model development should be:"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "accurate and fit-for-use (that is, free from material errors with biases understood and managed).",
+            "relevant and representative (that is, reflecting the intended target population of the model).",
+            "compliant (that is, adhering to statutory, regulatory, and internal requirements for data ethics and customer privacy).",
+            "traceable (that is, having documented lineage and provenance).",
+            "timely (that is, updated at an appropriate frequency)."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "One important purpose of the above data properties is to enhance the explainability of the model and associated outputs. Consideration needs be given to the potential for unwanted bias within the data which can translate into unfair model outputs with associated reputational risks."
+        },
+        {
+          "type": "paragraph",
+          "text": "Institutions should also:"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "regularly perform thorough data quality checks (for example, outlier detection, missing value analysis, and consistency evaluations).",
+            "implement controls to ensure quality and document provenance and use of synthetic data and proxy data.",
+            "have controls to ensure appropriate data cleansing operations (for example, handling of inaccurate and missing values)."
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "Model development",
+      "heading_level": 4,
+      "full_text": "Principle 3.3: Institutions should have model development processes that set clear standards for performance and documentation.\nModel development involves selecting conceptually sound methodologies, data, and algorithms. In the case of AI/ML models, it also requires proper training and parameter optimization. Institutions should establish clear, consistent, and repeatable practices for developing models. These include:\n  - standards for model documentation, including elements such as: the set up and running of the model, limitations and restrictions on use, detailed descriptions of processes for creating, accessing, and maintaining the data used to develop the model, detailed descriptions of model assumptions and methodology,\n  - the role of expert judgment, including which experts are involved and how their input affects the model output,\n  - analyses and performance tests performed by the developers.\n  - guidelines for selecting conceptually sound methodologies, data (including the application of variable transformations), and algorithms.\n  - explainability requirements, which may vary based on the model’s purpose, level of autonomy, regulatory requirements, or the potential impact on customers and stakeholders.\n  - performance and other criteria for model selection.\n  - standards on how the model outputs are used and reported.\n  - performance and other criteria for model monitoring.\n  - the set up and running of the model,\n  - limitations and restrictions on use,\n  - detailed descriptions of processes for creating, accessing, and maintaining the data used to develop the model,\n  - detailed descriptions of model assumptions and methodology,",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Principle 3.3: Institutions should have model development processes that set clear standards for performance and documentation."
+        },
+        {
+          "type": "paragraph",
+          "text": "Model development involves selecting conceptually sound methodologies, data, and algorithms. In the case of AI/ML models, it also requires proper training and parameter optimization. Institutions should establish clear, consistent, and repeatable practices for developing models. These include:"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "standards for model documentation, including elements such as: the set up and running of the model, limitations and restrictions on use, detailed descriptions of processes for creating, accessing, and maintaining the data used to develop the model, detailed descriptions of model assumptions and methodology,",
+            "the role of expert judgment, including which experts are involved and how their input affects the model output,",
+            "analyses and performance tests performed by the developers.",
+            "guidelines for selecting conceptually sound methodologies, data (including the application of variable transformations), and algorithms.",
+            "explainability requirements, which may vary based on the model’s purpose, level of autonomy, regulatory requirements, or the potential impact on customers and stakeholders.",
+            "performance and other criteria for model selection.",
+            "standards on how the model outputs are used and reported.",
+            "performance and other criteria for model monitoring."
+          ]
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "the set up and running of the model,",
+            "limitations and restrictions on use,",
+            "detailed descriptions of processes for creating, accessing, and maintaining the data used to develop the model,",
+            "detailed descriptions of model assumptions and methodology,"
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "Model review",
+      "heading_level": 4,
+      "full_text": "Principle 3.4: Institutions should have a process to independently assess conceptual soundness and performance of models.\nThe model review process should be independent from model development. It should validate that models are properly specified, working as intended, and fit-for-purpose. Institutions can use the work of internal reviewers or objective third parties. The extent and frequency of model reviews should be commensurate with the model risk rating. Events that should prompt a model review include the following:\n  - development of new models,\n  - model modifications (including changes to algorithms, parameters, or supporting operational components),\n  - breaches of model performance (for example, when monitoring highlights material errors, drifts, or threshold violations),\n  - significant data changes (for example, new data sources, altered data definitions, or shifts in data quality),\n  - scheduled risk-based periodic reviews.\nModel reviews may include:\n  - confirming or challenging the model risk rating.\n  - reviewing the model purpose, scope, conceptual soundness, limitations, mitigants, and reasonableness of model outcomes.\n  - reviewing data quality and appropriateness.\n  - reviewing novel methodologies, algorithms, tools, and procedures for example, for AI/ML models.\n  - evaluating the level of explainability for the model workings as per the intended use of the model, including AI/ML models (This includes confirming that model outputs are appropriately explainable and comply with performance expectations).\n  - reviewing third-party models and platforms or sub-components (including data and libraries) used for model development.\n  - documenting review assessments and actions taken in response.\n  - reporting the outcome of the review, including an assessment detailing any findings and recommendations, along with an overall recommendation on approval to the model approver.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Principle 3.4: Institutions should have a process to independently assess conceptual soundness and performance of models."
+        },
+        {
+          "type": "paragraph",
+          "text": "The model review process should be independent from model development. It should validate that models are properly specified, working as intended, and fit-for-purpose. Institutions can use the work of internal reviewers or objective third parties. The extent and frequency of model reviews should be commensurate with the model risk rating. Events that should prompt a model review include the following:"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "development of new models,",
+            "model modifications (including changes to algorithms, parameters, or supporting operational components),",
+            "breaches of model performance (for example, when monitoring highlights material errors, drifts, or threshold violations),",
+            "significant data changes (for example, new data sources, altered data definitions, or shifts in data quality),",
+            "scheduled risk-based periodic reviews."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Model reviews may include:"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "confirming or challenging the model risk rating.",
+            "reviewing the model purpose, scope, conceptual soundness, limitations, mitigants, and reasonableness of model outcomes.",
+            "reviewing data quality and appropriateness.",
+            "reviewing novel methodologies, algorithms, tools, and procedures for example, for AI/ML models.",
+            "evaluating the level of explainability for the model workings as per the intended use of the model, including AI/ML models (This includes confirming that model outputs are appropriately explainable and comply with performance expectations).",
+            "reviewing third-party models and platforms or sub-components (including data and libraries) used for model development.",
+            "documenting review assessments and actions taken in response.",
+            "reporting the outcome of the review, including an assessment detailing any findings and recommendations, along with an overall recommendation on approval to the model approver."
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "Model approval",
+      "heading_level": 4,
+      "full_text": "Model approval processes should occur throughout the model lifecycle. The model approval decision typically involves two components:\n  - Assessing whether the model is suitable to be implemented into production (or continue to be used) based on its intended use.\n  - Affirming the assigned model risk rating and residual risk assessment.\nThe model may be approved despite identified weaknesses or limitations provided that compensating mitigants are in place, or the model stakeholder group provides justification for using a model with known limitations or weaknesses.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Model approval processes should occur throughout the model lifecycle. The model approval decision typically involves two components:"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Assessing whether the model is suitable to be implemented into production (or continue to be used) based on its intended use.",
+            "Affirming the assigned model risk rating and residual risk assessment."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "The model may be approved despite identified weaknesses or limitations provided that compensating mitigants are in place, or the model stakeholder group provides justification for using a model with known limitations or weaknesses."
+        }
+      ]
+    },
+    {
+      "heading": "Model deployment",
+      "heading_level": 4,
+      "full_text": "Principle 3.5: Models should be deployed in an environment with quality and change control processes.\nModel deployment requires careful coordination to ensure the model is properly configured, tested, and moved into production Footnote 4 . Integrating models into operational settings should preserve their integrity and reliability. This is particularly important for AI/ML models that may depend on multiple components, diverse and dynamic data sources, and third-party elements.\nEffective model deployment should involve the following, as applicable:\n  - collaboration among model developers, model owners, model reviewers, model users, and technology or operations teams,\n  - consistency between data used to develop the model and the production dataset,\n  - tests demonstrating that the model operates as expected in the production environment,\n  - clearly documented procedures that outline deployment steps, stakeholder responsibilities, approval hierarchies, change control, monitoring frameworks and exception handling including overlays,\n  - performance of risk assessments for related risks prior to deployment such as cybersecurity risk, infrastructure vulnerabilities, and other potential operational risks (see OSFI Guidelines B-13 and E-21),\n  - review of explainability requirements and communication of explanatory outputs to the appropriate stakeholders.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Principle 3.5: Models should be deployed in an environment with quality and change control processes."
+        },
+        {
+          "type": "paragraph",
+          "text": "Model deployment requires careful coordination to ensure the model is properly configured, tested, and moved into production Footnote 4 . Integrating models into operational settings should preserve their integrity and reliability. This is particularly important for AI/ML models that may depend on multiple components, diverse and dynamic data sources, and third-party elements."
+        },
+        {
+          "type": "paragraph",
+          "text": "Effective model deployment should involve the following, as applicable:"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "collaboration among model developers, model owners, model reviewers, model users, and technology or operations teams,",
+            "consistency between data used to develop the model and the production dataset,",
+            "tests demonstrating that the model operates as expected in the production environment,",
+            "clearly documented procedures that outline deployment steps, stakeholder responsibilities, approval hierarchies, change control, monitoring frameworks and exception handling including overlays,",
+            "performance of risk assessments for related risks prior to deployment such as cybersecurity risk, infrastructure vulnerabilities, and other potential operational risks (see OSFI Guidelines B-13 and E-21),",
+            "review of explainability requirements and communication of explanatory outputs to the appropriate stakeholders."
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "Model monitoring",
+      "heading_level": 4,
+      "full_text": "Principle 3.6: Institutions should have defined standards for model monitoring, and model decommission.\nModel monitoring ensures models remain fit-for-purpose and aims to detect performance issues or breaches. This may be particularly challenging for complex AI/ML models, where scalability, performance, and monitoring for model drift are critical. Model monitoring should document and include:\n  - monitoring standards covering frequency, scope, and evaluation criteria as applied to different risk rating levels and model types,\n  - evaluating criteria that include both quantitative measures (for example, performance metrics) and qualitative assessments (for example, verifying the model is within its original scope),\n  - tracking and evaluating operational factors such as changes in: model performance, model usage, input data, external dependencies (for example, version updates), or the characteristics of what is being modelled (for example, added product features),\n  - defining thresholds for breaches and criteria for material model modifications, including changes in operational factors,\n  - determining contingency plans for model unavailability, deterioration in model performance, or outright failure along with the escalation procedures for addressing these,\n  - implementing processes for handling AI/ML’s unique challenges, such as autonomous decision making, autonomous re-parametrization, and the elevated potential for model drift,\n  - ensuring issues are shared promptly with relevant stakeholders, following appropriate escalation procedures.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Principle 3.6: Institutions should have defined standards for model monitoring, and model decommission."
+        },
+        {
+          "type": "paragraph",
+          "text": "Model monitoring ensures models remain fit-for-purpose and aims to detect performance issues or breaches. This may be particularly challenging for complex AI/ML models, where scalability, performance, and monitoring for model drift are critical. Model monitoring should document and include:"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "monitoring standards covering frequency, scope, and evaluation criteria as applied to different risk rating levels and model types,",
+            "evaluating criteria that include both quantitative measures (for example, performance metrics) and qualitative assessments (for example, verifying the model is within its original scope),",
+            "tracking and evaluating operational factors such as changes in: model performance, model usage, input data, external dependencies (for example, version updates), or the characteristics of what is being modelled (for example, added product features),",
+            "defining thresholds for breaches and criteria for material model modifications, including changes in operational factors,",
+            "determining contingency plans for model unavailability, deterioration in model performance, or outright failure along with the escalation procedures for addressing these,",
+            "implementing processes for handling AI/ML’s unique challenges, such as autonomous decision making, autonomous re-parametrization, and the elevated potential for model drift,",
+            "ensuring issues are shared promptly with relevant stakeholders, following appropriate escalation procedures."
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "Model decommission",
+      "heading_level": 4,
+      "full_text": "Model decommission is the formal retirement of a model from active use. Reasons to decommission may include:\n  - performance issues (for example, a severe performance failure, repeated monitoring breaches, excessive overrides),\n  - business, regulatory, or strategic changes,\n  - obsolete data, methodology, or cost–benefit considerations.\nDecommissioning should follow a disciplined process and include:\n  - Alerting all relevant stakeholders of the planned decommission.\n  - Retaining the retired model and documentation for a set period as a benchmark or fallback.\n  - Determining what additional actions are needed for decommissions of any third-party models.\n  - Monitoring downstream effects to ensure no residual impacts.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Model decommission is the formal retirement of a model from active use. Reasons to decommission may include:"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "performance issues (for example, a severe performance failure, repeated monitoring breaches, excessive overrides),",
+            "business, regulatory, or strategic changes,",
+            "obsolete data, methodology, or cost–benefit considerations."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Decommissioning should follow a disciplined process and include:"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Alerting all relevant stakeholders of the planned decommission.",
+            "Retaining the retired model and documentation for a set period as a benchmark or fallback.",
+            "Determining what additional actions are needed for decommissions of any third-party models.",
+            "Monitoring downstream effects to ensure no residual impacts."
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "Appendix 1: Information tracking for models",
+      "heading_level": 2,
+      "full_text": "At a minimum, institutions should maintain the following for each identified model:\n  - model ID\n  - model name and description of key features and use\n  - model risk rating\n  - model owner\n  - model developer\n  - model origin (for example, internally developed or vendor).\nIn addition, for models deemed to have non-negligible risk and hence stored in the model inventory, institutions should also maintain:\n  - model version\n  - date of model's deployment into production\n  - model reviewer\n  - model approver\n  - model dependencies\n  - data sources and description\n  - approved uses of the model\n  - model limitation(s) (including exceptions and additional requirements)\n  - date of model's most recent model review\n  - monitoring status (with exceptions as applicable)\n  - next review date.\n[Note: Footnotes Footnote 1 While there are currently no universally agreed-upon definitions of AI, for the purposes of this guideline, consider the OECD definition of AI (where an AI system can be based on one or multiple models): “An AI system is a machine-based system that, for explicit or implicit objectives, infers, from the input it receives, how to generate outputs such as predictions, content, recommendations, or decisions that can influence physical or virtual environments. Different AI systems vary in their levels of autonomy and adaptiveness after deployment.” Return to footnote 1 referrer Footnote 2 Supervisory Framework - Office of the Superintendent of Financial Institutions Return to footnote 2 referrer Footnote 3 When permitted under the institution’s risk appetite. Return to footnote 3 referrer Footnote 4 The term production environment should be understood as a generic term for the way in which a model or its outputs are accessible once it has been approved. Return to footnote 4 referrer]",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "At a minimum, institutions should maintain the following for each identified model:"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "model ID",
+            "model name and description of key features and use",
+            "model risk rating",
+            "model owner",
+            "model developer",
+            "model origin (for example, internally developed or vendor)."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "In addition, for models deemed to have non-negligible risk and hence stored in the model inventory, institutions should also maintain:"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "model version",
+            "date of model's deployment into production",
+            "model reviewer",
+            "model approver",
+            "model dependencies",
+            "data sources and description",
+            "approved uses of the model",
+            "model limitation(s) (including exceptions and additional requirements)",
+            "date of model's most recent model review",
+            "monitoring status (with exceptions as applicable)",
+            "next review date."
+          ]
+        },
+        {
+          "type": "footnote",
+          "text": "Footnotes Footnote 1 While there are currently no universally agreed-upon definitions of AI, for the purposes of this guideline, consider the OECD definition of AI (where an AI system can be based on one or multiple models): “An AI system is a machine-based system that, for explicit or implicit objectives, infers, from the input it receives, how to generate outputs such as predictions, content, recommendations, or decisions that can influence physical or virtual environments. Different AI systems vary in their levels of autonomy and adaptiveness after deployment.” Return to footnote 1 referrer Footnote 2 Supervisory Framework - Office of the Superintendent of Financial Institutions Return to footnote 2 referrer Footnote 3 When permitted under the institution’s risk appetite. Return to footnote 3 referrer Footnote 4 The term production environment should be understood as a generic term for the way in which a model or its outputs are accessible once it has been approved. Return to footnote 4 referrer"
+        }
+      ]
+    },
+    {
+      "heading": "Footnotes",
+      "heading_level": 2,
+      "full_text": "While there are currently no universally agreed-upon definitions of AI, for the purposes of this guideline, consider the OECD definition of AI (where an AI system can be based on one or multiple models): “An AI system is a machine-based system that, for explicit or implicit objectives, infers, from the input it receives, how to generate outputs such as predictions, content, recommendations, or decisions that can influence physical or virtual environments. Different AI systems vary in their levels of autonomy and adaptiveness after deployment.”\nReturn to footnote 1 referrer\nSupervisory Framework - Office of the Superintendent of Financial Institutions\nReturn to footnote 2 referrer\nWhen permitted under the institution’s risk appetite.\nReturn to footnote 3 referrer\nThe term production environment should be understood as a generic term for the way in which a model or its outputs are accessible once it has been approved.\nReturn to footnote 4 referrer",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "While there are currently no universally agreed-upon definitions of AI, for the purposes of this guideline, consider the OECD definition of AI (where an AI system can be based on one or multiple models): “An AI system is a machine-based system that, for explicit or implicit objectives, infers, from the input it receives, how to generate outputs such as predictions, content, recommendations, or decisions that can influence physical or virtual environments. Different AI systems vary in their levels of autonomy and adaptiveness after deployment.”"
+        },
+        {
+          "type": "paragraph",
+          "text": "Return to footnote 1 referrer"
+        },
+        {
+          "type": "paragraph",
+          "text": "Supervisory Framework - Office of the Superintendent of Financial Institutions"
+        },
+        {
+          "type": "paragraph",
+          "text": "Return to footnote 2 referrer"
+        },
+        {
+          "type": "paragraph",
+          "text": "When permitted under the institution’s risk appetite."
+        },
+        {
+          "type": "paragraph",
+          "text": "Return to footnote 3 referrer"
+        },
+        {
+          "type": "paragraph",
+          "text": "The term production environment should be understood as a generic term for the way in which a model or its outputs are accessible once it has been approved."
+        },
+        {
+          "type": "paragraph",
+          "text": "Return to footnote 4 referrer"
+        }
+      ]
+    }
+  ],
+  "title_normalized": "guideline e23 model risk management 2027",
+  "publication_type_normalized": "guideline",
+  "category_normalized": "sound_business_and_financial_practices",
+  "sector_normalized": [
+    "banks",
+    "foreign_bank_branches",
+    "life_insurance",
+    "pc_insurance",
+    "trust_and_loan_companies"
+  ],
+  "guideline_number_normalized": "E23",
+  "applies_to_banks": true,
+  "applies_to_trust_loan": true,
+  "applies_to_life_insurance": true,
+  "applies_to_pc_insurance": true,
+  "applies_to_foreign_bank": true,
+  "applies_to_foreign_insurance": false,
+  "applies_to_cooperative": false,
+  "applies_to_bank_holding": false,
+  "effective_date_sort_key": "2027-05-01",
+  "status_sort_key": 2,
+  "authority_sort_key": 100,
+  "bm25_text": "Guideline E-23 – Model Risk Management (2027) E-23 Guideline Sound Business and Financial Practices Banks Foreign Bank Branches Life Insurance and Fraternal Companies Property and Casualty Companies Trust and Loan Companies A. Overview A.1 Purpose A.2 Scope A.3 Application Model Model risk Residual model risk Model Risk Rating Model Lifecycle Model Risk Management (MRM) Framework Model Inventory Model Owner Model Developer Model Reviewer Model Approver Model User Model Stakeholder A.5 Outcomes and expectations B. Enterprise-wide model risk management B.1 Organizational enablement B.2 Model risk management framework B.3 Use of models C. Risk-based approach to model risk management C.1 Model identification C.2 Model risk rating C.3 Risk management intensity D. Model lifecycle management D.1 Policies, procedures, and controls Model design Model rationale Model data Model development Model review Model approval Model deployment Model monitoring Model decommission Appendix 1: Information tracking for models Footnotes",
+  "vector_text_prefix": "[OSFI Guideline E-23 | Sound Business and Financial Practices | Banks / Foreign Bank Branches / Life Insurance and Fraternal Companies | FINAL_FUTURE_EFFECTIVE | Effective 2027-05-01]",
+  "h1_title": "Guideline E-23 – Model Risk Management (2027)",
+  "regulator": "OSFI",
+  "regulator_acronym": "OSFI",
+  "jurisdiction": "Canada",
+  "short_title": "E-23",
+  "source_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/guideline-e-23-model-risk-management-2027"
+}

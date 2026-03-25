@@ -1,0 +1,245 @@
+{
+  "source_system": "osfi_guidance_library",
+  "library_row_title": "OSFI exempts uninsured mortgage straight switches from the prescribed MQR and implements portfolio LTI limits",
+  "library_row_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/osfi-exempts-uninsured-mortgage-straight-switches-prescribed-mqr-implements-portfolio-lti-limits",
+  "listing_date_raw": "November 21, 2024",
+  "listing_date_iso": "2024-11-21",
+  "listing_publication_type": "Letter",
+  "listing_category": "Sound Business and Financial Practices",
+  "listing_sector": [
+    "Banks",
+    "Foreign Bank Branches",
+    "Life Insurance and Fraternal Companies",
+    "Property and Casualty Companies",
+    "Trust and Loan Companies"
+  ],
+  "crawl_timestamp": "2026-03-11T00:00:00Z",
+  "detail_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/osfi-exempts-uninsured-mortgage-straight-switches-prescribed-mqr-implements-portfolio-lti-limits",
+  "canonical_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/osfi-exempts-uninsured-mortgage-straight-switches-prescribed-mqr-implements-portfolio-lti-limits",
+  "slug": "osfi-exempts-uninsured-mortgage-straight-switches-prescribed-mqr-implements-portfolio-lti-limits",
+  "title": "OSFI exempts uninsured mortgage straight switches from the prescribed MQR and implements portfolio LTI limits",
+  "publication_type": "Letter",
+  "category": "Sound Business and Financial Practices",
+  "document_date_raw": "November 21, 2024",
+  "document_date_iso": "2024-11-21",
+  "sector": [
+    "Banks",
+    "Foreign Bank Branches",
+    "Life Insurance and Fraternal Companies",
+    "Property and Casualty Companies",
+    "Trust and Loan Companies"
+  ],
+  "effective_date_text": "",
+  "guideline_number": "",
+  "date_modified_raw": "2024-11-21T12:00:00Z",
+  "generate_pdf_url": "https://www.osfi-bsif.gc.ca/en/print/pdf/node/2451",
+  "pdf_node_id": 2451,
+  "direct_pdf_url": null,
+  "has_table_of_contents": true,
+  "toc_entries": [],
+  "has_related_documents": true,
+  "related_document_links_raw": [
+    {
+      "title": "Minimum Qualifying Rate - Backgrounder",
+      "url": "https://www.osfi-bsif.gc.ca/en/news/backgrounder-minimum-qualifying-rate-mqr"
+    },
+    {
+      "title": "Minimum Qualifying Rate - Qualifying Rate Infosheet",
+      "url": "https://www.osfi-bsif.gc.ca/en/supervision/financial-institutions/banks/minimum-qualifying-rate-uninsured-mortgages"
+    },
+    {
+      "title": "Loan-to-income limit",
+      "url": "https://www.osfi-bsif.gc.ca/en/supervision/financial-institutions/banks/loan-income-limits-uninsured-mortgage-portfolios"
+    }
+  ],
+  "consultation_status_text": null,
+  "consultation_status_refers_to_version": null,
+  "page_language": "en",
+  "word_count_raw_body": 506,
+  "doc_id": "osfi.osfi-exempts-uninsured-mortgage-straight-switches-.transmittal",
+  "doc_family_id": "osfi.osfi-exempts-uninsured-mortgage-straight-switches-",
+  "version_id": "",
+  "version_label": "OSFI exempts uninsured mortgage straight switches from the p",
+  "version_sort_key": "",
+  "parent_doc_id": null,
+  "child_doc_ids": [],
+  "is_package_page": false,
+  "is_chapter_page": false,
+  "chapter_number": null,
+  "chapter_title": null,
+  "document_order_within_family": 0,
+  "supersedes_doc_id": null,
+  "superseded_by_doc_id": null,
+  "current_version_flag": true,
+  "status": "final_current",
+  "include_in_primary_corpus": false,
+  "include_in_support_corpus": true,
+  "include_in_context_corpus": false,
+  "effective_date_start": "2024-11-21",
+  "effective_date_end": null,
+  "effective_date_fye_split": false,
+  "effective_date_oct_fye": null,
+  "effective_date_dec_fye": null,
+  "is_future_effective": false,
+  "is_rescinded": false,
+  "is_draft_or_consultation": false,
+  "rescission_date": null,
+  "consultation_closing_date": null,
+  "as_of_applicability": "2026-03-23",
+  "rule_applied": "rule_5_final_current",
+  "authority_class": "official_support",
+  "authority_level": 60,
+  "nova_tier": 2,
+  "prudential_weight": 0.7,
+  "is_primary_normative": false,
+  "is_supporting_interpretive": true,
+  "is_context_only": false,
+  "document_class": "transmittal_letter",
+  "guidance_type_normalized": "letter",
+  "section_headings": [
+    {
+      "level": 2,
+      "text": "Footnotes",
+      "id": "h2-0"
+    }
+  ],
+  "heading_path": [
+    "OSFI exempts uninsured mortgage straight switches from the prescribed MQR and implements portfolio LTI limits"
+  ],
+  "toc_depth": 2,
+  "has_appendices": false,
+  "appendix_ids": [],
+  "has_tables": false,
+  "table_count": 0,
+  "has_footnotes": true,
+  "footnote_count": 1,
+  "inline_cross_references": [
+    "Guideline B-20"
+  ],
+  "quoted_external_references": [],
+  "raw_html_sha256": "322fa10042728667b860e1218be50f2b2265f62a98687e6e5d0a267b801893a4",
+  "raw_pdf_sha256": null,
+  "normalized_text_sha256": null,
+  "raw_html_path": "bronze/osfi/html/final_current/osfi-exempts-uninsured-mortgage-straight-switches-prescribed-mqr-implements-portfolio-lti-limits.html",
+  "normalized_md_path": "silver/osfi/md/final_current/osfi-exempts-uninsured-mortgage-straight-switches-prescribed-mqr-implements-portfolio-lti-limits.md",
+  "canonical_json_path": "silver/osfi/json/final_current/osfi-exempts-uninsured-mortgage-straight-switches-prescribed-mqr-implements-portfolio-lti-limits.json",
+  "content_source": "HTML",
+  "parser_version": "osfi-parser-v2.1.0",
+  "normalizer_version": "osfi-normalizer-v1.4.0",
+  "quality_score": 1.0,
+  "quality_flags": [],
+  "download_timestamp": "2026-03-11T00:00:00Z",
+  "enriched_timestamp": "2026-03-23T09:53:57.356602Z",
+  "sections": [
+    {
+      "heading": "",
+      "heading_level": 2,
+      "full_text": "  - Minimum Qualifying Rate - Backgrounder\n  - Minimum Qualifying Rate - Qualifying Rate Infosheet\n  - Loan-to-income limit\nTo: Federally regulated financial institutions\nEffective today, OSFI will no longer prescribe the minimum qualifying rate (MQR) that it expects federally regulated financial institutions (institutions) to apply when uninsured mortgage borrowers switch to a new institution at renewal.\nThis change applies only when transferring:\n  - An existing stand-alone Footnote 1 uninsured mortgage;\n  - from one federally regulated financial institution to another;\n  - with no increases in the remaining contractual mortgage amortization period or the loan amount Footnote 2 – commonly referred to as an uninsured “straight switch”.\nWith this change, OSFI is balancing its prudential mandate with the need to allow financial institutions to compete effectively and take reasonable risks.\nWhen considering an uninsured straight switch application, an institution should assess the loan like any other new origination and should continue to apply principles of sound residential mortgage underwriting set out in Guideline B-20. These expectations include due diligence on the borrower and assessment of their willingness and capacity to service their debt obligations. Debt service ratios should be calculated conservatively and appropriately stressed for varied financial and economic conditions, such as reduced income or higher interest rates. An institution should contemplate current and future conditions when it considers qualifying rates and make appropriate judgments, aligned with its risk appetite and Residential Mortgage Underwriting Policy (RMUP).\nEarlier this year, OSFI announced the introduction of loan-to-income (LTI) limits on the uninsured mortgage portfolios of institutions. These limits do not apply to individual borrowers or transactions. Instead, they will mitigate risks from high household indebtedness within institutions’ mortgage portfolios. Institutions are expected to adhere to LTI limits beginning in their fiscal Q1 2025. OSFI will closely monitor the implementation of the LTI limit framework and assess its effectiveness over time.\nOSFI constantly reviews its existing guidance and expectations to ensure they remain effective and fit-for-purpose. This helps ensure regulatory efforts are focused on key risks and regulatory burden is managed. The LTI limit framework and Superintendent-prescribed MQR for uninsured mortgages are both intended to reduce mortgage lending risks in Canada. Given the common purpose of these two measures, OSFI will consider the continued need for a Superintendent-prescribed MQR for uninsured mortgage originations following the full and successful implementation of the LTI limit framework.\n[Note: Footnotes Footnote 1 Stand-alone refers to uninsured residential mortgages (standard or collateral charge), outside of combined loan plans, that are amortizing and not readvanceable. Return to footnote 1 referrer Footnote 2 The unpaid principal balance may be increased by $3,000 to cover related transaction costs such as penalties or fees. Equity take out is not permitted. Return to footnote 2 referrer]",
+      "content": [
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Minimum Qualifying Rate - Backgrounder",
+            "Minimum Qualifying Rate - Qualifying Rate Infosheet",
+            "Loan-to-income limit"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "To: Federally regulated financial institutions"
+        },
+        {
+          "type": "paragraph",
+          "text": "Effective today, OSFI will no longer prescribe the minimum qualifying rate (MQR) that it expects federally regulated financial institutions (institutions) to apply when uninsured mortgage borrowers switch to a new institution at renewal."
+        },
+        {
+          "type": "paragraph",
+          "text": "This change applies only when transferring:"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "An existing stand-alone Footnote 1 uninsured mortgage;",
+            "from one federally regulated financial institution to another;",
+            "with no increases in the remaining contractual mortgage amortization period or the loan amount Footnote 2 – commonly referred to as an uninsured “straight switch”."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "With this change, OSFI is balancing its prudential mandate with the need to allow financial institutions to compete effectively and take reasonable risks."
+        },
+        {
+          "type": "paragraph",
+          "text": "When considering an uninsured straight switch application, an institution should assess the loan like any other new origination and should continue to apply principles of sound residential mortgage underwriting set out in Guideline B-20. These expectations include due diligence on the borrower and assessment of their willingness and capacity to service their debt obligations. Debt service ratios should be calculated conservatively and appropriately stressed for varied financial and economic conditions, such as reduced income or higher interest rates. An institution should contemplate current and future conditions when it considers qualifying rates and make appropriate judgments, aligned with its risk appetite and Residential Mortgage Underwriting Policy (RMUP)."
+        },
+        {
+          "type": "paragraph",
+          "text": "Earlier this year, OSFI announced the introduction of loan-to-income (LTI) limits on the uninsured mortgage portfolios of institutions. These limits do not apply to individual borrowers or transactions. Instead, they will mitigate risks from high household indebtedness within institutions’ mortgage portfolios. Institutions are expected to adhere to LTI limits beginning in their fiscal Q1 2025. OSFI will closely monitor the implementation of the LTI limit framework and assess its effectiveness over time."
+        },
+        {
+          "type": "paragraph",
+          "text": "OSFI constantly reviews its existing guidance and expectations to ensure they remain effective and fit-for-purpose. This helps ensure regulatory efforts are focused on key risks and regulatory burden is managed. The LTI limit framework and Superintendent-prescribed MQR for uninsured mortgages are both intended to reduce mortgage lending risks in Canada. Given the common purpose of these two measures, OSFI will consider the continued need for a Superintendent-prescribed MQR for uninsured mortgage originations following the full and successful implementation of the LTI limit framework."
+        },
+        {
+          "type": "footnote",
+          "text": "Footnotes Footnote 1 Stand-alone refers to uninsured residential mortgages (standard or collateral charge), outside of combined loan plans, that are amortizing and not readvanceable. Return to footnote 1 referrer Footnote 2 The unpaid principal balance may be increased by $3,000 to cover related transaction costs such as penalties or fees. Equity take out is not permitted. Return to footnote 2 referrer"
+        }
+      ]
+    },
+    {
+      "heading": "Footnotes",
+      "heading_level": 2,
+      "full_text": "Stand-alone refers to uninsured residential mortgages (standard or collateral charge), outside of combined loan plans, that are amortizing and not readvanceable.\nReturn to footnote 1 referrer\nThe unpaid principal balance may be increased by $3,000 to cover related transaction costs such as penalties or fees. Equity take out is not permitted.\nReturn to footnote 2 referrer",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Stand-alone refers to uninsured residential mortgages (standard or collateral charge), outside of combined loan plans, that are amortizing and not readvanceable."
+        },
+        {
+          "type": "paragraph",
+          "text": "Return to footnote 1 referrer"
+        },
+        {
+          "type": "paragraph",
+          "text": "The unpaid principal balance may be increased by $3,000 to cover related transaction costs such as penalties or fees. Equity take out is not permitted."
+        },
+        {
+          "type": "paragraph",
+          "text": "Return to footnote 2 referrer"
+        }
+      ]
+    }
+  ],
+  "title_normalized": "osfi exempts uninsured mortgage straight switches from the prescribed mqr and implements portfolio lti limits",
+  "publication_type_normalized": "letter",
+  "category_normalized": "sound_business_and_financial_practices",
+  "sector_normalized": [
+    "banks",
+    "foreign_bank_branches",
+    "life_insurance",
+    "pc_insurance",
+    "trust_and_loan_companies"
+  ],
+  "guideline_number_normalized": "",
+  "applies_to_banks": true,
+  "applies_to_trust_loan": true,
+  "applies_to_life_insurance": true,
+  "applies_to_pc_insurance": true,
+  "applies_to_foreign_bank": true,
+  "applies_to_foreign_insurance": false,
+  "applies_to_cooperative": false,
+  "applies_to_bank_holding": false,
+  "effective_date_sort_key": "2024-11-21",
+  "status_sort_key": 1,
+  "authority_sort_key": 60,
+  "bm25_text": "OSFI exempts uninsured mortgage straight switches from the prescribed MQR and implements portfolio LTI limits Letter Sound Business and Financial Practices Banks Foreign Bank Branches Life Insurance and Fraternal Companies Property and Casualty Companies Trust and Loan Companies Footnotes",
+  "vector_text_prefix": "[OSFI Letter  | Sound Business and Financial Practices | Banks / Foreign Bank Branches / Life Insurance and Fraternal Companies | FINAL_CURRENT | Effective 2024-11-21]",
+  "h1_title": "OSFI exempts uninsured mortgage straight switches from the prescribed MQR and implements portfolio LTI limits",
+  "regulator": "OSFI",
+  "regulator_acronym": "OSFI",
+  "jurisdiction": "Canada",
+  "short_title": "",
+  "source_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/osfi-exempts-uninsured-mortgage-straight-switches-prescribed-mqr-implements-portfolio-lti-limits"
+}

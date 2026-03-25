@@ -1,0 +1,235 @@
+{
+  "source_system": "osfi_guidance_library",
+  "library_row_title": "Life Insurance Capital Adequacy Test – Guideline (2025)",
+  "library_row_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/life-insurance-capital-adequacy-test-guideline-2025",
+  "listing_date_raw": "Issue date November 21, 2024",
+  "listing_date_iso": "",
+  "listing_publication_type": "Guideline",
+  "listing_category": "Capital Adequacy Requirements",
+  "listing_sector": [
+    "Life Insurance and Fraternal Companies"
+  ],
+  "crawl_timestamp": "2026-03-11T00:00:00Z",
+  "detail_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/life-insurance-capital-adequacy-test-guideline-2025",
+  "canonical_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/life-insurance-capital-adequacy-test-guideline-2025",
+  "slug": "life-insurance-capital-adequacy-test-guideline-2025",
+  "title": "Life Insurance Capital Adequacy Test – Guideline (2025)",
+  "publication_type": "Guideline",
+  "category": "Capital Adequacy Requirements",
+  "document_date_raw": "Issue date November 21, 2024",
+  "document_date_iso": "",
+  "sector": [
+    "Life Insurance and Fraternal Companies"
+  ],
+  "effective_date_text": "",
+  "guideline_number": "",
+  "date_modified_raw": "2025-01-01T12:00:00Z",
+  "generate_pdf_url": null,
+  "pdf_node_id": null,
+  "direct_pdf_url": "https://www.osfi-bsif.gc.ca/sites/default/files/documents/2025-licat-guideline-ligne-directrice-tsav-en.pdf",
+  "has_table_of_contents": true,
+  "toc_entries": [],
+  "has_related_documents": true,
+  "related_document_links_raw": [
+    {
+      "title": "Life Insurance Capital Adequacy Test – Backgrounder (2025)",
+      "url": "https://www.osfi-bsif.gc.ca/en/news/backgrounder-final-life-insurance-capital-adequacy-test-licat-guideline-2025"
+    },
+    {
+      "title": "Life Insurance Capital Adequacy Test – Letter (2025)",
+      "url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/life-insurance-capital-adequacy-test-2025-letter"
+    },
+    {
+      "title": "Life Insurance Capital Adequacy Test – Filing Instructions (2025)",
+      "url": "https://www.osfi-bsif.gc.ca/en/data-forms/reporting-returns/filing-financial-returns/financial-reporting-instructions/2025-life-insurance-capital-adequacy-test-filing-instructions-0"
+    }
+  ],
+  "consultation_status_text": null,
+  "consultation_status_refers_to_version": null,
+  "page_language": "en",
+  "word_count_raw_body": 390,
+  "doc_id": "osfi.licat.2025.package",
+  "doc_family_id": "osfi.licat",
+  "version_id": "2025",
+  "version_label": "Life Insurance Capital Adequacy Test – Guideline (2025)",
+  "version_sort_key": "2025-11",
+  "parent_doc_id": null,
+  "child_doc_ids": [
+    "osfi.licat.2025.chapter1.chapter",
+    "osfi.licat.2025.chapter2.chapter",
+    "osfi.licat.2025.chapter3.chapter",
+    "osfi.licat.2025.chapter4.chapter",
+    "osfi.licat.2025.chapter5.chapter",
+    "osfi.licat.2025.chapter6.chapter",
+    "osfi.licat.2025.chapter7.chapter",
+    "osfi.licat.2025.chapter8.chapter",
+    "osfi.licat.2025.chapter9.chapter",
+    "osfi.licat.2025.chapter10.chapter",
+    "osfi.licat.2025.chapter11.chapter",
+    "osfi.licat.2025.chapter12.chapter"
+  ],
+  "is_package_page": true,
+  "is_chapter_page": false,
+  "chapter_number": null,
+  "chapter_title": null,
+  "document_order_within_family": 0,
+  "supersedes_doc_id": null,
+  "superseded_by_doc_id": null,
+  "current_version_flag": true,
+  "status": "final_current",
+  "include_in_primary_corpus": true,
+  "include_in_support_corpus": false,
+  "include_in_context_corpus": false,
+  "effective_date_start": "2024-11-21",
+  "effective_date_end": null,
+  "effective_date_fye_split": false,
+  "effective_date_oct_fye": null,
+  "effective_date_dec_fye": null,
+  "is_future_effective": false,
+  "is_rescinded": false,
+  "is_draft_or_consultation": false,
+  "rescission_date": null,
+  "consultation_closing_date": null,
+  "as_of_applicability": "2026-03-23",
+  "rule_applied": "rule_5_final_current",
+  "authority_class": "primary_normative",
+  "authority_level": 100,
+  "nova_tier": 1,
+  "prudential_weight": 1.0,
+  "is_primary_normative": true,
+  "is_supporting_interpretive": false,
+  "is_context_only": false,
+  "document_class": "package_guideline",
+  "guidance_type_normalized": "guideline",
+  "section_headings": [
+    {
+      "level": 2,
+      "text": "Note",
+      "id": "h2-0"
+    },
+    {
+      "level": 2,
+      "text": "Footnotes",
+      "id": "h2-1"
+    }
+  ],
+  "heading_path": [
+    "Life Insurance Capital Adequacy Test – Guideline (2025)"
+  ],
+  "toc_depth": 2,
+  "has_appendices": false,
+  "appendix_ids": [],
+  "has_tables": false,
+  "table_count": 0,
+  "has_footnotes": true,
+  "footnote_count": 1,
+  "inline_cross_references": [
+    "Guideline A-4: Regulatory Capital and Internal Capital Targets provide th"
+  ],
+  "quoted_external_references": [],
+  "raw_html_sha256": "2876767b188a3c599d6e3bff66f4f90ff11011bf7a07febb6dabfe8845204ef5",
+  "raw_pdf_sha256": null,
+  "normalized_text_sha256": null,
+  "raw_html_path": "bronze/osfi/html/final_current/life-insurance-capital-adequacy-test-guideline-2025.html",
+  "normalized_md_path": "silver/osfi/md/final_current/life-insurance-capital-adequacy-test-guideline-2025.md",
+  "canonical_json_path": "silver/osfi/json/final_current/life-insurance-capital-adequacy-test-guideline-2025.json",
+  "content_source": "HTML",
+  "parser_version": "osfi-parser-v2.1.0",
+  "normalizer_version": "osfi-normalizer-v1.4.0",
+  "quality_score": 0.5,
+  "quality_flags": [
+    "thin_body_text"
+  ],
+  "download_timestamp": "2026-03-11T00:00:00Z",
+  "enriched_timestamp": "2026-03-23T09:53:54.607511Z",
+  "sections": [
+    {
+      "heading": "",
+      "heading_level": 2,
+      "full_text": "  - Life Insurance Capital Adequacy Test – Backgrounder (2025)\n  - Life Insurance Capital Adequacy Test – Letter (2025)\n  - Life Insurance Capital Adequacy Test – Filing Instructions (2025)",
+      "content": [
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Life Insurance Capital Adequacy Test – Backgrounder (2025)",
+            "Life Insurance Capital Adequacy Test – Letter (2025)",
+            "Life Insurance Capital Adequacy Test – Filing Instructions (2025)"
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "Note",
+      "heading_level": 2,
+      "full_text": "A Regulatory Notice on Adjustments to the Life Insurance Capital Adequacy Test – Guideline (2025) was published and became effective on May 22, 2025. These adjustments are expected to be incorporated in the next version of the LICAT guideline.\nSubsection 515(1), 992(1) and 608(1) of the Insurance Companies Act (ICA) requires federally regulated life insurance companies and societies, holding companies and companies operating in Canada on a branch basis, respectively, to maintain adequate capital or to maintain an adequate margin of assets in Canada over liabilities in Canada. Guideline A: Life Insurance Capital Adequacy Test is not made pursuant to subsections 515(2), 992(2) and 608(3) of the ICA. However, the guideline along with Guideline A-4: Regulatory Capital and Internal Capital Targets provide the framework within which the Superintendent assesses whether a life insurer Footnote 1 maintains adequate capital or an adequate margin pursuant to subsection 515(1), 992(1) and 608(1). Notwithstanding that a life insurer may meet these standards; the Superintendent may direct the life insurer to increase its capital under subsection 515(3), 992(3) or 608(4).\nThis guideline establishes standards, using a risk-based approach, for measuring specific life insurer risks and for aggregating the results to calculate the amount of a life insurer's regulatory required capital to support these risks. The guideline also defines and establishes criteria for determining the amount of qualifying regulatory available capital.\nThe Life Insurance Capital Adequacy Test is only one component of the required assets that foreign life insurers must maintain in Canada. Foreign life insurers must also vest assets in Canada per the ICA.\nLife insurers are required to apply this guideline for annual reporting periods beginning on or after January 1, 2025.\n[Note: Footnotes Footnote 1 For purposes of this guideline, \"life insurers\" or \"insurers\" refer to all federally regulated insurers, including Canadian branches of foreign life companies, fraternal benefit societies, regulated life insurance holding companies and non-operating life insurance companies. Return to footnote 1 referrer]",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "A Regulatory Notice on Adjustments to the Life Insurance Capital Adequacy Test – Guideline (2025) was published and became effective on May 22, 2025. These adjustments are expected to be incorporated in the next version of the LICAT guideline."
+        },
+        {
+          "type": "paragraph",
+          "text": "Subsection 515(1), 992(1) and 608(1) of the Insurance Companies Act (ICA) requires federally regulated life insurance companies and societies, holding companies and companies operating in Canada on a branch basis, respectively, to maintain adequate capital or to maintain an adequate margin of assets in Canada over liabilities in Canada. Guideline A: Life Insurance Capital Adequacy Test is not made pursuant to subsections 515(2), 992(2) and 608(3) of the ICA. However, the guideline along with Guideline A-4: Regulatory Capital and Internal Capital Targets provide the framework within which the Superintendent assesses whether a life insurer Footnote 1 maintains adequate capital or an adequate margin pursuant to subsection 515(1), 992(1) and 608(1). Notwithstanding that a life insurer may meet these standards; the Superintendent may direct the life insurer to increase its capital under subsection 515(3), 992(3) or 608(4)."
+        },
+        {
+          "type": "paragraph",
+          "text": "This guideline establishes standards, using a risk-based approach, for measuring specific life insurer risks and for aggregating the results to calculate the amount of a life insurer's regulatory required capital to support these risks. The guideline also defines and establishes criteria for determining the amount of qualifying regulatory available capital."
+        },
+        {
+          "type": "paragraph",
+          "text": "The Life Insurance Capital Adequacy Test is only one component of the required assets that foreign life insurers must maintain in Canada. Foreign life insurers must also vest assets in Canada per the ICA."
+        },
+        {
+          "type": "paragraph",
+          "text": "Life insurers are required to apply this guideline for annual reporting periods beginning on or after January 1, 2025."
+        },
+        {
+          "type": "footnote",
+          "text": "Footnotes Footnote 1 For purposes of this guideline, \"life insurers\" or \"insurers\" refer to all federally regulated insurers, including Canadian branches of foreign life companies, fraternal benefit societies, regulated life insurance holding companies and non-operating life insurance companies. Return to footnote 1 referrer"
+        }
+      ]
+    },
+    {
+      "heading": "Footnotes",
+      "heading_level": 2,
+      "full_text": "For purposes of this guideline, \"life insurers\" or \"insurers\" refer to all federally regulated insurers, including Canadian branches of foreign life companies, fraternal benefit societies, regulated life insurance holding companies and non-operating life insurance companies.\nReturn to footnote 1 referrer",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "For purposes of this guideline, \"life insurers\" or \"insurers\" refer to all federally regulated insurers, including Canadian branches of foreign life companies, fraternal benefit societies, regulated life insurance holding companies and non-operating life insurance companies."
+        },
+        {
+          "type": "paragraph",
+          "text": "Return to footnote 1 referrer"
+        }
+      ]
+    }
+  ],
+  "title_normalized": "life insurance capital adequacy test guideline 2025",
+  "publication_type_normalized": "guideline",
+  "category_normalized": "capital_adequacy_requirements",
+  "sector_normalized": [
+    "life_insurance"
+  ],
+  "guideline_number_normalized": "",
+  "applies_to_banks": false,
+  "applies_to_trust_loan": false,
+  "applies_to_life_insurance": true,
+  "applies_to_pc_insurance": false,
+  "applies_to_foreign_bank": false,
+  "applies_to_foreign_insurance": false,
+  "applies_to_cooperative": false,
+  "applies_to_bank_holding": false,
+  "effective_date_sort_key": "2024-11-21",
+  "status_sort_key": 1,
+  "authority_sort_key": 100,
+  "bm25_text": "Life Insurance Capital Adequacy Test – Guideline (2025) Guideline Capital Adequacy Requirements Life Insurance and Fraternal Companies Note Footnotes",
+  "vector_text_prefix": "[OSFI Guideline  | Capital Adequacy Requirements | Life Insurance and Fraternal Companies | FINAL_CURRENT | Effective 2024-11-21]",
+  "h1_title": "Life Insurance Capital Adequacy Test – Guideline (2025)",
+  "regulator": "OSFI",
+  "regulator_acronym": "OSFI",
+  "jurisdiction": "Canada",
+  "short_title": "",
+  "source_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/life-insurance-capital-adequacy-test-guideline-2025"
+}

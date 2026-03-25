@@ -1,0 +1,195 @@
+{
+  "source_system": "osfi_guidance_library",
+  "library_row_title": "Release of final 2023 liquidity returns and consultation on draft NCCF reporting instructions",
+  "library_row_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/release-final-2023-liquidity-returns-consultation-draft-nccf-reporting-instructions",
+  "listing_date_raw": "February 16, 2022",
+  "listing_date_iso": "2022-02-16",
+  "listing_publication_type": "Letter",
+  "listing_category": "",
+  "listing_sector": [
+    "Banks",
+    "Trust and Loan Companies"
+  ],
+  "crawl_timestamp": "2026-03-11T00:00:00Z",
+  "detail_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/release-final-2023-liquidity-returns-consultation-draft-nccf-reporting-instructions",
+  "canonical_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/release-final-2023-liquidity-returns-consultation-draft-nccf-reporting-instructions",
+  "slug": "release-final-2023-liquidity-returns-consultation-draft-nccf-reporting-instructions",
+  "title": "Release of final 2023 liquidity returns and consultation on draft NCCF reporting instructions",
+  "publication_type": "Letter",
+  "category": "",
+  "document_date_raw": "February 16, 2022",
+  "document_date_iso": "2022-02-16",
+  "sector": [
+    "Banks",
+    "Trust and Loan Companies"
+  ],
+  "effective_date_text": "",
+  "guideline_number": "",
+  "date_modified_raw": "2022-02-16T12:00:00Z",
+  "generate_pdf_url": "https://www.osfi-bsif.gc.ca/en/print/pdf/node/397",
+  "pdf_node_id": 397,
+  "direct_pdf_url": null,
+  "has_table_of_contents": true,
+  "toc_entries": [],
+  "has_related_documents": true,
+  "related_document_links_raw": [
+    {
+      "title": "Liquidity Adequacy Requirements (LAR) (2023) Chapter 4 – Net Cumulative Cash Flo",
+      "url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/liquidity-adequacy-requirements-lar-2023-chapter-4-net-cumulative-cash-flow"
+    },
+    {
+      "title": "Liquidity Adequacy Requirements (LAR) (2023) Chapter 5 – Operating Cash Flow Sta",
+      "url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/liquidity-adequacy-requirements-lar-2023-chapter-5-operating-cash-flow-statement"
+    },
+    {
+      "title": "Small and Medium-Sized Deposit-Taking Institutions (SMSBs) Capital and Liquidity",
+      "url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/small-medium-sized-deposit-taking-institutions-smsbs-capital-liquidity-requirements-guideline-2023"
+    }
+  ],
+  "consultation_status_text": null,
+  "consultation_status_refers_to_version": null,
+  "page_language": "en",
+  "word_count_raw_body": 240,
+  "doc_id": "osfi.release-final-liquidity-returns-consultation-draft.2023.transmittal",
+  "doc_family_id": "osfi.release-final-liquidity-returns-consultation-draft",
+  "version_id": "2023",
+  "version_label": "Release of final 2023 liquidity returns and consultation on ",
+  "version_sort_key": "2023-02",
+  "parent_doc_id": null,
+  "child_doc_ids": [],
+  "is_package_page": false,
+  "is_chapter_page": false,
+  "chapter_number": null,
+  "chapter_title": null,
+  "document_order_within_family": 0,
+  "supersedes_doc_id": null,
+  "superseded_by_doc_id": null,
+  "current_version_flag": false,
+  "status": "draft_or_consultation",
+  "include_in_primary_corpus": false,
+  "include_in_support_corpus": false,
+  "include_in_context_corpus": true,
+  "effective_date_start": "2022-02-16",
+  "effective_date_end": null,
+  "effective_date_fye_split": false,
+  "effective_date_oct_fye": null,
+  "effective_date_dec_fye": null,
+  "is_future_effective": false,
+  "is_rescinded": false,
+  "is_draft_or_consultation": true,
+  "rescission_date": null,
+  "consultation_closing_date": null,
+  "as_of_applicability": "2026-03-23",
+  "rule_applied": "rule_3_banner_different_version",
+  "authority_class": "excluded",
+  "authority_level": 0,
+  "nova_tier": 3,
+  "prudential_weight": 0.0,
+  "is_primary_normative": false,
+  "is_supporting_interpretive": false,
+  "is_context_only": true,
+  "document_class": "transmittal_letter",
+  "guidance_type_normalized": "letter",
+  "section_headings": [],
+  "heading_path": [
+    "Release of final 2023 liquidity returns and consultation on draft NCCF reporting instructions"
+  ],
+  "toc_depth": 0,
+  "has_appendices": false,
+  "appendix_ids": [],
+  "has_tables": false,
+  "table_count": 0,
+  "has_footnotes": false,
+  "footnote_count": 0,
+  "inline_cross_references": [],
+  "quoted_external_references": [],
+  "raw_html_sha256": "a87ca5a70916003f62c407b2a3ef1d9c6a38409d4151f13128d3af3b1ebca446",
+  "raw_pdf_sha256": null,
+  "normalized_text_sha256": null,
+  "raw_html_path": "bronze/osfi/html/draft/release-final-2023-liquidity-returns-consultation-draft-nccf-reporting-instructions.html",
+  "normalized_md_path": "silver/osfi/md/draft/release-final-2023-liquidity-returns-consultation-draft-nccf-reporting-instructions.md",
+  "canonical_json_path": "silver/osfi/json/draft/release-final-2023-liquidity-returns-consultation-draft-nccf-reporting-instructions.json",
+  "content_source": "HTML",
+  "parser_version": "osfi-parser-v2.1.0",
+  "normalizer_version": "osfi-normalizer-v1.4.0",
+  "quality_score": 0.5,
+  "quality_flags": [
+    "thin_body_text"
+  ],
+  "download_timestamp": "2026-03-11T00:00:00Z",
+  "enriched_timestamp": "2026-03-23T09:53:59.088754Z",
+  "sections": [
+    {
+      "heading": "",
+      "heading_level": 2,
+      "full_text": "  - Net cumulative cash flow reporting manual\n  - Liquidity Adequacy Requirements (LAR) (2023) Chapter 4 – Net Cumulative Cash Flow\n  - Liquidity Adequacy Requirements (LAR) (2023) Chapter 5 – Operating Cash Flow Statement\n  - Small and Medium-Sized Deposit-Taking Institutions (SMSBs) Capital and Liquidity Requirements – Guideline (2023)\nTo: Banks, Bank Holding Companies, Federally Regulated Trust and Loan Companies\nFollowing its January 31, 2022 release of revisions to the Liquidity Adequacy Requirements (LAR) Guideline, OSFI is releasing today final reporting templates for the Net Cumulative Cash Flow (NCCF), both the Comprehensive NCCF (for DSIBs and Category I SMSBs) and Streamlined NCCF (for Category II SMSBs), as well as the Operating Cash Flow Statement (for Category III SMSBs). OSFI is also releasing draft NCCF reporting instructions today for consultation. Feedback on the draft reporting instructions should be sent to OSFI by email at Consultations@osfi-bsif.gc.ca no later than March 31, 2022.\n  - Comprehensive NCCF Template (XLSX, 5.50 MB)\n  - Streamlined NCCF Template (XLSX, 871 KB)\n  - Operating Cash Flow Statement Template (XLSX, 52 KB)\n  - Draft – NCCF Reporting Instructions\nThe Comprehensive NCCF is scheduled to transition to XML filing format from the current ‘.xlsx’ filing format effective for the guideline’s implementation starting April 1, 2023. The Streamlined NCCF will transition to XML filing the following year. These transitions will support enhancements to OSFI’s data collection and analytics. OSFI will support this transition by providing clear specifications, guidance, and tools prior to implementation.",
+      "content": [
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Net cumulative cash flow reporting manual"
+          ]
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Liquidity Adequacy Requirements (LAR) (2023) Chapter 4 – Net Cumulative Cash Flow",
+            "Liquidity Adequacy Requirements (LAR) (2023) Chapter 5 – Operating Cash Flow Statement",
+            "Small and Medium-Sized Deposit-Taking Institutions (SMSBs) Capital and Liquidity Requirements – Guideline (2023)"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "To: Banks, Bank Holding Companies, Federally Regulated Trust and Loan Companies"
+        },
+        {
+          "type": "paragraph",
+          "text": "Following its January 31, 2022 release of revisions to the Liquidity Adequacy Requirements (LAR) Guideline, OSFI is releasing today final reporting templates for the Net Cumulative Cash Flow (NCCF), both the Comprehensive NCCF (for DSIBs and Category I SMSBs) and Streamlined NCCF (for Category II SMSBs), as well as the Operating Cash Flow Statement (for Category III SMSBs). OSFI is also releasing draft NCCF reporting instructions today for consultation. Feedback on the draft reporting instructions should be sent to OSFI by email at Consultations@osfi-bsif.gc.ca no later than March 31, 2022."
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Comprehensive NCCF Template (XLSX, 5.50 MB)",
+            "Streamlined NCCF Template (XLSX, 871 KB)",
+            "Operating Cash Flow Statement Template (XLSX, 52 KB)",
+            "Draft – NCCF Reporting Instructions"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "The Comprehensive NCCF is scheduled to transition to XML filing format from the current ‘.xlsx’ filing format effective for the guideline’s implementation starting April 1, 2023. The Streamlined NCCF will transition to XML filing the following year. These transitions will support enhancements to OSFI’s data collection and analytics. OSFI will support this transition by providing clear specifications, guidance, and tools prior to implementation."
+        }
+      ]
+    }
+  ],
+  "title_normalized": "release of final 2023 liquidity returns and consultation on draft nccf reporting instructions",
+  "publication_type_normalized": "letter",
+  "category_normalized": "",
+  "sector_normalized": [
+    "banks",
+    "trust_and_loan_companies"
+  ],
+  "guideline_number_normalized": "",
+  "applies_to_banks": true,
+  "applies_to_trust_loan": true,
+  "applies_to_life_insurance": false,
+  "applies_to_pc_insurance": false,
+  "applies_to_foreign_bank": false,
+  "applies_to_foreign_insurance": false,
+  "applies_to_cooperative": false,
+  "applies_to_bank_holding": false,
+  "effective_date_sort_key": "2022-02-16",
+  "status_sort_key": 4,
+  "authority_sort_key": 0,
+  "bm25_text": "Release of final 2023 liquidity returns and consultation on draft NCCF reporting instructions Letter Banks Trust and Loan Companies",
+  "vector_text_prefix": "[OSFI Letter  |  | Banks / Trust and Loan Companies | DRAFT_OR_CONSULTATION | Effective 2022-02-16]",
+  "h1_title": "Release of final 2023 liquidity returns and consultation on draft NCCF reporting instructions",
+  "regulator": "OSFI",
+  "regulator_acronym": "OSFI",
+  "jurisdiction": "Canada",
+  "short_title": "",
+  "source_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/release-final-2023-liquidity-returns-consultation-draft-nccf-reporting-instructions"
+}

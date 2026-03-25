@@ -1,0 +1,191 @@
+{
+  "source_system": "osfi_guidance_library",
+  "library_row_title": "Letter to industry on OSFI’s new operating model and structure",
+  "library_row_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/letter-industry-osfis-new-operating-model-structure",
+  "listing_date_raw": "June 2, 2025",
+  "listing_date_iso": "2025-06-02",
+  "listing_publication_type": "Letter",
+  "listing_category": "",
+  "listing_sector": [],
+  "crawl_timestamp": "2026-03-11T00:00:00Z",
+  "detail_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/letter-industry-osfis-new-operating-model-structure",
+  "canonical_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/letter-industry-osfis-new-operating-model-structure",
+  "slug": "letter-industry-osfis-new-operating-model-structure",
+  "title": "Letter to industry on OSFI’s new operating model and structure",
+  "publication_type": "Letter",
+  "category": "",
+  "document_date_raw": "June 2, 2025",
+  "document_date_iso": "2025-06-02",
+  "sector": [],
+  "effective_date_text": "",
+  "guideline_number": "",
+  "date_modified_raw": "2025-06-02T12:00:00Z",
+  "generate_pdf_url": "https://www.osfi-bsif.gc.ca/en/print/pdf/node/2720",
+  "pdf_node_id": 2720,
+  "direct_pdf_url": null,
+  "has_table_of_contents": true,
+  "toc_entries": [],
+  "has_related_documents": false,
+  "related_document_links_raw": [],
+  "consultation_status_text": null,
+  "consultation_status_refers_to_version": null,
+  "page_language": "en",
+  "word_count_raw_body": 434,
+  "doc_id": "osfi.letter-industry-osfis-new-operating-model-structur.transmittal",
+  "doc_family_id": "osfi.letter-industry-osfis-new-operating-model-structur",
+  "version_id": "",
+  "version_label": "Letter to industry on OSFI’s new operating model and structu",
+  "version_sort_key": "",
+  "parent_doc_id": null,
+  "child_doc_ids": [],
+  "is_package_page": false,
+  "is_chapter_page": false,
+  "chapter_number": null,
+  "chapter_title": null,
+  "document_order_within_family": 0,
+  "supersedes_doc_id": null,
+  "superseded_by_doc_id": null,
+  "current_version_flag": true,
+  "status": "final_current",
+  "include_in_primary_corpus": false,
+  "include_in_support_corpus": true,
+  "include_in_context_corpus": false,
+  "effective_date_start": "2025-06-02",
+  "effective_date_end": null,
+  "effective_date_fye_split": false,
+  "effective_date_oct_fye": null,
+  "effective_date_dec_fye": null,
+  "is_future_effective": false,
+  "is_rescinded": false,
+  "is_draft_or_consultation": false,
+  "rescission_date": null,
+  "consultation_closing_date": null,
+  "as_of_applicability": "2026-03-23",
+  "rule_applied": "rule_5_final_current",
+  "authority_class": "official_support",
+  "authority_level": 60,
+  "nova_tier": 2,
+  "prudential_weight": 0.7,
+  "is_primary_normative": false,
+  "is_supporting_interpretive": true,
+  "is_context_only": false,
+  "document_class": "transmittal_letter",
+  "guidance_type_normalized": "letter",
+  "section_headings": [],
+  "heading_path": [
+    "Letter to industry on OSFI’s new operating model and structure"
+  ],
+  "toc_depth": 0,
+  "has_appendices": false,
+  "appendix_ids": [],
+  "has_tables": false,
+  "table_count": 0,
+  "has_footnotes": false,
+  "footnote_count": 0,
+  "inline_cross_references": [],
+  "quoted_external_references": [],
+  "raw_html_sha256": "935dc7bfd000fa83f9ae39789594bb3cf65b8da195adc716e31fd9d73a57fb12",
+  "raw_pdf_sha256": null,
+  "normalized_text_sha256": null,
+  "raw_html_path": "bronze/osfi/html/final_current/letter-industry-osfis-new-operating-model-structure.html",
+  "normalized_md_path": "silver/osfi/md/final_current/letter-industry-osfis-new-operating-model-structure.md",
+  "canonical_json_path": "silver/osfi/json/final_current/letter-industry-osfis-new-operating-model-structure.json",
+  "content_source": "HTML",
+  "parser_version": "osfi-parser-v2.1.0",
+  "normalizer_version": "osfi-normalizer-v1.4.0",
+  "quality_score": 0.5,
+  "quality_flags": [
+    "thin_body_text"
+  ],
+  "download_timestamp": "2026-03-11T00:00:00Z",
+  "enriched_timestamp": "2026-03-23T09:53:53.295499Z",
+  "sections": [
+    {
+      "heading": "",
+      "heading_level": 2,
+      "full_text": "Today, we are advising our regulated entities of organizational changes at OSFI that came into effect on June 1, 2025.\nObjective\nWe have modestly adjusted OSFI’s organizational structure to position our institution for streamlined and more efficient operations. This structure will enable OSFI to intensify our focus on our core business – supervision, risk surveillance, and policy response – in an era of elevated uncertainty and under an expanded Integrity & Security mandate.\nThe new structure reduces OSFI to four sectors from six, each reporting to the Superintendent:\nThe Risk, Strategy and Policy (RSP) Sector combines the Strategy, Risk and Governance and Regulatory Response sectors and will be headed by Deputy Superintendent Angie Radiskovic.\nThis sector is dedicated to identifying and analysing OSFI’s external and internal risks. Deputy Superintendent Radiskovic is responsible for leading OSFI’s ongoing work to identify and analyse new and emerging risks. She will also oversee OSFI’s data environment, including applications of Artificial Intelligence and our Data Collection Modernization initiative. RSP is also responsible for OSFI’s strategic governance, planning and reporting functions as well as the finance division. It also includes OSFI’s policy division, which plays a critical role in OSFI’s risk response, liaising with partners, and supporting approvals and legislative reform.\nThe Integrity, National Security and Integrated Solutions (INSIS) Sector will be led by Deputy Superintendent Kathy Thompson.\nThis sector is responsible for building OSFI’s capabilities in the areas of national security and integrity and security risks, which are critical to executing successfully on our expanded mandate. It coordinates responses to issues touching on national security, in particular, foreign interference and malicious activity. The Integrated Solutions part of the sector is responsible for OSFI’s corporate services and will focus on reinvigorating our internal operating model.\nThe Supervision Sector continues to be led by Deputy Superintendent Ben Gully.\nThis sector leads the ongoing supervision of financial institutions and pension plans to determine whether they are complying with regulatory and supervisory requirements. It will continue to house the Supervision Institute. Included in this sector will be the Catastrophic Risk division which will focus on the financial risks posed by natural disasters; i.e., climate change and earthquakes.\nThe Office of the Chief Actuary (OCA) continues to be led by Chief Actuary Assia Billig.\nThe OCA is an independent unit that prepares actuarial valuations of social security programs and Government of Canada pensions and insurance plans, including the Canada Pension Plan, the Old Age Security Program, the Canada Student Financial Assistance Program, and federal pension plans.\nIf you have any questions, please do not hesitate to reach out to me.\nSincerely, Peter Routledge Superintendent",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Today, we are advising our regulated entities of organizational changes at OSFI that came into effect on June 1, 2025."
+        },
+        {
+          "type": "paragraph",
+          "text": "Objective"
+        },
+        {
+          "type": "paragraph",
+          "text": "We have modestly adjusted OSFI’s organizational structure to position our institution for streamlined and more efficient operations. This structure will enable OSFI to intensify our focus on our core business – supervision, risk surveillance, and policy response – in an era of elevated uncertainty and under an expanded Integrity & Security mandate."
+        },
+        {
+          "type": "paragraph",
+          "text": "The new structure reduces OSFI to four sectors from six, each reporting to the Superintendent:"
+        },
+        {
+          "type": "paragraph",
+          "text": "The Risk, Strategy and Policy (RSP) Sector combines the Strategy, Risk and Governance and Regulatory Response sectors and will be headed by Deputy Superintendent Angie Radiskovic."
+        },
+        {
+          "type": "paragraph",
+          "text": "This sector is dedicated to identifying and analysing OSFI’s external and internal risks. Deputy Superintendent Radiskovic is responsible for leading OSFI’s ongoing work to identify and analyse new and emerging risks. She will also oversee OSFI’s data environment, including applications of Artificial Intelligence and our Data Collection Modernization initiative. RSP is also responsible for OSFI’s strategic governance, planning and reporting functions as well as the finance division. It also includes OSFI’s policy division, which plays a critical role in OSFI’s risk response, liaising with partners, and supporting approvals and legislative reform."
+        },
+        {
+          "type": "paragraph",
+          "text": "The Integrity, National Security and Integrated Solutions (INSIS) Sector will be led by Deputy Superintendent Kathy Thompson."
+        },
+        {
+          "type": "paragraph",
+          "text": "This sector is responsible for building OSFI’s capabilities in the areas of national security and integrity and security risks, which are critical to executing successfully on our expanded mandate. It coordinates responses to issues touching on national security, in particular, foreign interference and malicious activity. The Integrated Solutions part of the sector is responsible for OSFI’s corporate services and will focus on reinvigorating our internal operating model."
+        },
+        {
+          "type": "paragraph",
+          "text": "The Supervision Sector continues to be led by Deputy Superintendent Ben Gully."
+        },
+        {
+          "type": "paragraph",
+          "text": "This sector leads the ongoing supervision of financial institutions and pension plans to determine whether they are complying with regulatory and supervisory requirements. It will continue to house the Supervision Institute. Included in this sector will be the Catastrophic Risk division which will focus on the financial risks posed by natural disasters; i.e., climate change and earthquakes."
+        },
+        {
+          "type": "paragraph",
+          "text": "The Office of the Chief Actuary (OCA) continues to be led by Chief Actuary Assia Billig."
+        },
+        {
+          "type": "paragraph",
+          "text": "The OCA is an independent unit that prepares actuarial valuations of social security programs and Government of Canada pensions and insurance plans, including the Canada Pension Plan, the Old Age Security Program, the Canada Student Financial Assistance Program, and federal pension plans."
+        },
+        {
+          "type": "paragraph",
+          "text": "If you have any questions, please do not hesitate to reach out to me."
+        },
+        {
+          "type": "paragraph",
+          "text": "Sincerely, Peter Routledge Superintendent"
+        }
+      ]
+    }
+  ],
+  "title_normalized": "letter to industry on osfis new operating model and structure",
+  "publication_type_normalized": "letter",
+  "category_normalized": "",
+  "sector_normalized": [],
+  "guideline_number_normalized": "",
+  "applies_to_banks": false,
+  "applies_to_trust_loan": false,
+  "applies_to_life_insurance": false,
+  "applies_to_pc_insurance": false,
+  "applies_to_foreign_bank": false,
+  "applies_to_foreign_insurance": false,
+  "applies_to_cooperative": false,
+  "applies_to_bank_holding": false,
+  "effective_date_sort_key": "2025-06-02",
+  "status_sort_key": 1,
+  "authority_sort_key": 60,
+  "bm25_text": "Letter to industry on OSFI’s new operating model and structure Letter",
+  "vector_text_prefix": "[OSFI Letter  |  |  | FINAL_CURRENT | Effective 2025-06-02]",
+  "h1_title": "Letter to industry on OSFI’s new operating model and structure",
+  "regulator": "OSFI",
+  "regulator_acronym": "OSFI",
+  "jurisdiction": "Canada",
+  "short_title": "",
+  "source_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/letter-industry-osfis-new-operating-model-structure"
+}

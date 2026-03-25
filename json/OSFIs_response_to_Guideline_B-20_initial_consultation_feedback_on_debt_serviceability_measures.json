@@ -1,0 +1,637 @@
+{
+  "source_system": "osfi_guidance_library",
+  "library_row_title": "OSFI’s response to Guideline B-20 initial consultation feedback on debt serviceability measures",
+  "library_row_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/osfis-response-guideline-b-20-initial-consultation-feedback-debt-serviceability-measures",
+  "listing_date_raw": "October 16, 2023",
+  "listing_date_iso": "2023-10-16",
+  "listing_publication_type": "Consultation response",
+  "listing_category": "Sound Business and Financial Practices",
+  "listing_sector": [
+    "Banks",
+    "Foreign Bank Branches",
+    "Trust and Loan Companies",
+    "Property and Casualty Companies",
+    "Life Insurance and Fraternal Companies"
+  ],
+  "crawl_timestamp": "2026-03-11T00:00:00Z",
+  "detail_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/osfis-response-guideline-b-20-initial-consultation-feedback-debt-serviceability-measures",
+  "canonical_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/osfis-response-guideline-b-20-initial-consultation-feedback-debt-serviceability-measures",
+  "slug": "osfis-response-guideline-b-20-initial-consultation-feedback-debt-serviceability-measures",
+  "title": "OSFI’s response to Guideline B-20 initial consultation feedback on debt serviceability measures",
+  "publication_type": "Consultation response",
+  "category": "Sound Business and Financial Practices",
+  "document_date_raw": "October 16, 2023",
+  "document_date_iso": "2023-10-16",
+  "sector": [
+    "Banks",
+    "Foreign Bank Branches",
+    "Trust and Loan Companies",
+    "Property and Casualty Companies",
+    "Life Insurance and Fraternal Companies"
+  ],
+  "effective_date_text": "",
+  "guideline_number": "B-20",
+  "date_modified_raw": "2023-10-16T12:00:00Z",
+  "generate_pdf_url": "https://www.osfi-bsif.gc.ca/en/print/pdf/node/1859",
+  "pdf_node_id": 1859,
+  "direct_pdf_url": null,
+  "has_table_of_contents": true,
+  "toc_entries": [],
+  "has_related_documents": false,
+  "related_document_links_raw": [],
+  "consultation_status_text": null,
+  "consultation_status_refers_to_version": null,
+  "page_language": "en",
+  "word_count_raw_body": 2309,
+  "doc_id": "osfi.b20.consultation",
+  "doc_family_id": "osfi.b20",
+  "version_id": "",
+  "version_label": "OSFI’s response to Guideline B-20 initial consultation feedb",
+  "version_sort_key": "",
+  "parent_doc_id": null,
+  "child_doc_ids": [],
+  "is_package_page": false,
+  "is_chapter_page": false,
+  "chapter_number": null,
+  "chapter_title": null,
+  "document_order_within_family": 0,
+  "supersedes_doc_id": null,
+  "superseded_by_doc_id": null,
+  "current_version_flag": true,
+  "status": "final_current",
+  "include_in_primary_corpus": false,
+  "include_in_support_corpus": false,
+  "include_in_context_corpus": true,
+  "effective_date_start": "2023-10-16",
+  "effective_date_end": null,
+  "effective_date_fye_split": false,
+  "effective_date_oct_fye": null,
+  "effective_date_dec_fye": null,
+  "is_future_effective": false,
+  "is_rescinded": false,
+  "is_draft_or_consultation": false,
+  "rescission_date": null,
+  "consultation_closing_date": null,
+  "as_of_applicability": "2026-03-23",
+  "rule_applied": "rule_5_final_current",
+  "authority_class": "contextual_summary",
+  "authority_level": 30,
+  "nova_tier": 2,
+  "prudential_weight": 0.4,
+  "is_primary_normative": false,
+  "is_supporting_interpretive": false,
+  "is_context_only": true,
+  "document_class": "consultation_response",
+  "guidance_type_normalized": "consultation_response",
+  "section_headings": [
+    {
+      "level": 4,
+      "text": "Feedback",
+      "id": "h4-0"
+    },
+    {
+      "level": 4,
+      "text": "Alternative proposals",
+      "id": "h4-1"
+    },
+    {
+      "level": 4,
+      "text": "OSFI response",
+      "id": "h4-2"
+    },
+    {
+      "level": 4,
+      "text": "Feedback",
+      "id": "h4-3"
+    },
+    {
+      "level": 4,
+      "text": "Alternative proposals",
+      "id": "h4-4"
+    },
+    {
+      "level": 4,
+      "text": "OSFI response",
+      "id": "h4-5"
+    },
+    {
+      "level": 4,
+      "text": "Feedback",
+      "id": "h4-6"
+    },
+    {
+      "level": 4,
+      "text": "Alternative proposals",
+      "id": "h4-7"
+    },
+    {
+      "level": 4,
+      "text": "OSFI response",
+      "id": "h4-8"
+    },
+    {
+      "level": 4,
+      "text": "Feedback",
+      "id": "h4-9"
+    },
+    {
+      "level": 4,
+      "text": "Alternative proposals",
+      "id": "h4-10"
+    },
+    {
+      "level": 4,
+      "text": "OSFI response",
+      "id": "h4-11"
+    },
+    {
+      "level": 4,
+      "text": "Feedback",
+      "id": "h4-12"
+    },
+    {
+      "level": 4,
+      "text": "Alternative proposals",
+      "id": "h4-13"
+    },
+    {
+      "level": 4,
+      "text": "OSFI response",
+      "id": "h4-14"
+    }
+  ],
+  "heading_path": [
+    "OSFI’s response to Guideline B-20 initial consultation feedback on debt serviceability measures"
+  ],
+  "toc_depth": 4,
+  "has_appendices": false,
+  "appendix_ids": [],
+  "has_tables": false,
+  "table_count": 0,
+  "has_footnotes": false,
+  "footnote_count": 0,
+  "inline_cross_references": [
+    "Guideline B-20 : Residential Mortgage Underwriting Practices and Procedure",
+    "Guideline B-20"
+  ],
+  "quoted_external_references": [],
+  "raw_html_sha256": "492157c4f26158f7bf566629b2ec32ad6bafe426b5ebf595de3172e217af6dce",
+  "raw_pdf_sha256": null,
+  "normalized_text_sha256": null,
+  "raw_html_path": "bronze/osfi/html/final_current/osfis-response-guideline-b-20-initial-consultation-feedback-debt-serviceability-measures.html",
+  "normalized_md_path": "silver/osfi/md/final_current/osfis-response-guideline-b-20-initial-consultation-feedback-debt-serviceability-measures.md",
+  "canonical_json_path": "silver/osfi/json/final_current/osfis-response-guideline-b-20-initial-consultation-feedback-debt-serviceability-measures.json",
+  "content_source": "HTML",
+  "parser_version": "osfi-parser-v2.1.0",
+  "normalizer_version": "osfi-normalizer-v1.4.0",
+  "quality_score": 1.0,
+  "quality_flags": [],
+  "download_timestamp": "2026-03-11T00:00:00Z",
+  "enriched_timestamp": "2026-03-23T09:53:58.132452Z",
+  "sections": [
+    {
+      "heading": "",
+      "heading_level": 2,
+      "full_text": "  - Clarification on the Treatment of Innovative Real Estate Secured Lending Products under Guideline B-20\nToday, the Office of the Superintendent of Financial Institutions (OSFI) published the results and next steps of its initial public consultation on Guideline B-20 : Residential Mortgage Underwriting Practices and Procedures , focused on debt serviceability measures.\nWe thank everyone who provided feedback to the consultative document issued in January 2023. A non-attributed summary of feedback and our responses are at the end of this document. We appreciate the breadth of feedback we received from a diverse range of stakeholders, from the financial, mortgage brokering and real estate sectors to members of the general public.\nThe majority of stakeholders agreed that risks to lenders arising from high household indebtedness are important. However, stakeholders were generally not supportive of additional debt serviceability measures. Many suggested alternative measures or revisions to our proposals, which we’ve carefully reviewed. A key concern raised was the disproportionate impact that new, industry-wide measures could have on smaller institutions with unique business models.\nAs we outlined in our consultation, the Minimum Qualifying Rate (MQR) has helped manage risks related to debt serviceability, especially as mortgage interest rates have risen sharply. As indicated, however, we believe additional measures are needed to mitigate the underlying vulnerability of a buildup in highly indebted borrowers.\nWe will therefore pursue targeted supervisory actions that will aim to limit FRFIs’ individual exposures to high household indebtedness over time. These actions will take into account the size, nature, complexity, and risk profile of each FRFI, balancing sound risk management against the need for FRFIs to compete effectively and take reasonable risks.\nAs indicated in our Semi-Annual Risk Outlook , we will continue reviewing our expectations relating to real estate secured lending through 2023 to 2024.",
+      "content": [
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Clarification on the Treatment of Innovative Real Estate Secured Lending Products under Guideline B-20"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Today, the Office of the Superintendent of Financial Institutions (OSFI) published the results and next steps of its initial public consultation on Guideline B-20 : Residential Mortgage Underwriting Practices and Procedures , focused on debt serviceability measures."
+        },
+        {
+          "type": "paragraph",
+          "text": "We thank everyone who provided feedback to the consultative document issued in January 2023. A non-attributed summary of feedback and our responses are at the end of this document. We appreciate the breadth of feedback we received from a diverse range of stakeholders, from the financial, mortgage brokering and real estate sectors to members of the general public."
+        },
+        {
+          "type": "paragraph",
+          "text": "The majority of stakeholders agreed that risks to lenders arising from high household indebtedness are important. However, stakeholders were generally not supportive of additional debt serviceability measures. Many suggested alternative measures or revisions to our proposals, which we’ve carefully reviewed. A key concern raised was the disproportionate impact that new, industry-wide measures could have on smaller institutions with unique business models."
+        },
+        {
+          "type": "paragraph",
+          "text": "As we outlined in our consultation, the Minimum Qualifying Rate (MQR) has helped manage risks related to debt serviceability, especially as mortgage interest rates have risen sharply. As indicated, however, we believe additional measures are needed to mitigate the underlying vulnerability of a buildup in highly indebted borrowers."
+        },
+        {
+          "type": "paragraph",
+          "text": "We will therefore pursue targeted supervisory actions that will aim to limit FRFIs’ individual exposures to high household indebtedness over time. These actions will take into account the size, nature, complexity, and risk profile of each FRFI, balancing sound risk management against the need for FRFIs to compete effectively and take reasonable risks."
+        },
+        {
+          "type": "paragraph",
+          "text": "As indicated in our Semi-Annual Risk Outlook , we will continue reviewing our expectations relating to real estate secured lending through 2023 to 2024."
+        }
+      ]
+    },
+    {
+      "heading": "Feedback",
+      "heading_level": 4,
+      "full_text": "Respondents were generally not supportive, indicating that proposed measures would be:\n  - Duplicative of existing tools (e.g., Gross Debt Service (GDS) and Total Debt Service (TDS) ratios).\n  - Insensitive to relevant debt service factors (e.g., interest rate, borrower assets).\n  - Disproportionately impactful on smaller lenders.\n  - Addressing trends that have already materialized and have since shifted.\n  - Weakly associated with default risk.\nDuplicative of existing tools (e.g., Gross Debt Service (GDS) and Total Debt Service (TDS) ratios).\nInsensitive to relevant debt service factors (e.g., interest rate, borrower assets).\nDisproportionately impactful on smaller lenders.\nAddressing trends that have already materialized and have since shifted.\nWeakly associated with default risk.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Respondents were generally not supportive, indicating that proposed measures would be:"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Duplicative of existing tools (e.g., Gross Debt Service (GDS) and Total Debt Service (TDS) ratios).",
+            "Insensitive to relevant debt service factors (e.g., interest rate, borrower assets).",
+            "Disproportionately impactful on smaller lenders.",
+            "Addressing trends that have already materialized and have since shifted.",
+            "Weakly associated with default risk."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Duplicative of existing tools (e.g., Gross Debt Service (GDS) and Total Debt Service (TDS) ratios)."
+        },
+        {
+          "type": "paragraph",
+          "text": "Insensitive to relevant debt service factors (e.g., interest rate, borrower assets)."
+        },
+        {
+          "type": "paragraph",
+          "text": "Disproportionately impactful on smaller lenders."
+        },
+        {
+          "type": "paragraph",
+          "text": "Addressing trends that have already materialized and have since shifted."
+        },
+        {
+          "type": "paragraph",
+          "text": "Weakly associated with default risk."
+        }
+      ]
+    },
+    {
+      "heading": "Alternative proposals",
+      "heading_level": 4,
+      "full_text": "Some respondents offered alternatives or implementation recommendations:\n  - Instead of implementing LTI/DTI restrictions, OSFI could monitor how LTI/DTI trends evolve with other incremental changes to the current regulatory framework. To facilitate this, industry could report LTI/DTI metrics.\n  - If adopted, OSFI should use a higher exception bucket than the one proposed (e.g., 30-33%) to lessen impact on first-time home buyers and potential migration of lending to unregulated lenders.\n  - Alternately, OSFI could place a limit on lenders’ total portfolio exposure to high LTI/DTI lending (e.g., 10%), with a higher limit for smaller lenders (e.g., 20%).\n  - Loan-to-value (LTV) should influence the thresholds and calibration for LTI, such that higher exception limits are allowed for lower LTV loans.\nInstead of implementing LTI/DTI restrictions, OSFI could monitor how LTI/DTI trends evolve with other incremental changes to the current regulatory framework. To facilitate this, industry could report LTI/DTI metrics.\nIf adopted, OSFI should use a higher exception bucket than the one proposed (e.g., 30-33%) to lessen impact on first-time home buyers and potential migration of lending to unregulated lenders.\nAlternately, OSFI could place a limit on lenders’ total portfolio exposure to high LTI/DTI lending (e.g., 10%), with a higher limit for smaller lenders (e.g., 20%).\nLoan-to-value (LTV) should influence the thresholds and calibration for LTI, such that higher exception limits are allowed for lower LTV loans.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Some respondents offered alternatives or implementation recommendations:"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Instead of implementing LTI/DTI restrictions, OSFI could monitor how LTI/DTI trends evolve with other incremental changes to the current regulatory framework. To facilitate this, industry could report LTI/DTI metrics.",
+            "If adopted, OSFI should use a higher exception bucket than the one proposed (e.g., 30-33%) to lessen impact on first-time home buyers and potential migration of lending to unregulated lenders.",
+            "Alternately, OSFI could place a limit on lenders’ total portfolio exposure to high LTI/DTI lending (e.g., 10%), with a higher limit for smaller lenders (e.g., 20%).",
+            "Loan-to-value (LTV) should influence the thresholds and calibration for LTI, such that higher exception limits are allowed for lower LTV loans."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Instead of implementing LTI/DTI restrictions, OSFI could monitor how LTI/DTI trends evolve with other incremental changes to the current regulatory framework. To facilitate this, industry could report LTI/DTI metrics."
+        },
+        {
+          "type": "paragraph",
+          "text": "If adopted, OSFI should use a higher exception bucket than the one proposed (e.g., 30-33%) to lessen impact on first-time home buyers and potential migration of lending to unregulated lenders."
+        },
+        {
+          "type": "paragraph",
+          "text": "Alternately, OSFI could place a limit on lenders’ total portfolio exposure to high LTI/DTI lending (e.g., 10%), with a higher limit for smaller lenders (e.g., 20%)."
+        },
+        {
+          "type": "paragraph",
+          "text": "Loan-to-value (LTV) should influence the thresholds and calibration for LTI, such that higher exception limits are allowed for lower LTV loans."
+        }
+      ]
+    },
+    {
+      "heading": "OSFI response",
+      "heading_level": 4,
+      "full_text": "We agree that debt service ratios (i.e., GDS and TDS), under certain conditions, can produce similar outcomes to LTI/DTI although they are focused on debt affordability as opposed to limiting exposure to high indebtedness. We also acknowledge that most lenders do not use LTI/DTI measures in underwriting.\nThe concern that LTI and DTI are less granular and insensitive to interest rates and other factors is, in our view, a possible benefit as they are conceptually straightforward. We regard LTI and DTI as simpler measures that could restrict high levels of household indebtedness at an aggregate or portfolio level, which mitigates debt serviceability risks by more directly addressing the underlying vulnerability. We consider a DTI (total indebtedness) restriction to be too complex to implement at this time. We also believe proportional implementation, versus a one-size-fits-all approach, would be most appropriate given differences in FRFIs’ business models.\nWe are aware that high LTI lending has recently declined as interest rates have risen. This is welcomed and expected. Our purpose is to examine the ongoing adequacy and durability of our regulatory framework, drawing on recent experience from the pandemic and approaches taken in other jurisdictions.\nWe appreciated lenders’ analysis on predictors of default and agree that credit score and other factors can be better predictors than high LTI or DTI. That said, high household indebtedness is still relevant to credit risk, the safety and soundness of FRFIs, and the overall stability of the financial system. In a benign, low interest rate environment, higher household debt levels are easier to service, and this can mask the true risk to borrowers and lenders until conditions change. Mortgage and other household indebtedness continued to build up in recent years despite existing measures.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "We agree that debt service ratios (i.e., GDS and TDS), under certain conditions, can produce similar outcomes to LTI/DTI although they are focused on debt affordability as opposed to limiting exposure to high indebtedness. We also acknowledge that most lenders do not use LTI/DTI measures in underwriting."
+        },
+        {
+          "type": "paragraph",
+          "text": "The concern that LTI and DTI are less granular and insensitive to interest rates and other factors is, in our view, a possible benefit as they are conceptually straightforward. We regard LTI and DTI as simpler measures that could restrict high levels of household indebtedness at an aggregate or portfolio level, which mitigates debt serviceability risks by more directly addressing the underlying vulnerability. We consider a DTI (total indebtedness) restriction to be too complex to implement at this time. We also believe proportional implementation, versus a one-size-fits-all approach, would be most appropriate given differences in FRFIs’ business models."
+        },
+        {
+          "type": "paragraph",
+          "text": "We are aware that high LTI lending has recently declined as interest rates have risen. This is welcomed and expected. Our purpose is to examine the ongoing adequacy and durability of our regulatory framework, drawing on recent experience from the pandemic and approaches taken in other jurisdictions."
+        },
+        {
+          "type": "paragraph",
+          "text": "We appreciated lenders’ analysis on predictors of default and agree that credit score and other factors can be better predictors than high LTI or DTI. That said, high household indebtedness is still relevant to credit risk, the safety and soundness of FRFIs, and the overall stability of the financial system. In a benign, low interest rate environment, higher household debt levels are easier to service, and this can mask the true risk to borrowers and lenders until conditions change. Mortgage and other household indebtedness continued to build up in recent years despite existing measures."
+        }
+      ]
+    },
+    {
+      "heading": "Feedback",
+      "heading_level": 4,
+      "full_text": "Respondents expressed mixed views:\n  - Support for a qualifying amortization limit.\n  - Majority opposition to regulatory limits and alignment with insured mortgage criteria.\n  - Desire to preserve lender-determined, risk-based limits and criteria for debt service coverage.\nSupport for a qualifying amortization limit.\nMajority opposition to regulatory limits and alignment with insured mortgage criteria.\nDesire to preserve lender-determined, risk-based limits and criteria for debt service coverage.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Respondents expressed mixed views:"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Support for a qualifying amortization limit.",
+            "Majority opposition to regulatory limits and alignment with insured mortgage criteria.",
+            "Desire to preserve lender-determined, risk-based limits and criteria for debt service coverage."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Support for a qualifying amortization limit."
+        },
+        {
+          "type": "paragraph",
+          "text": "Majority opposition to regulatory limits and alignment with insured mortgage criteria."
+        },
+        {
+          "type": "paragraph",
+          "text": "Desire to preserve lender-determined, risk-based limits and criteria for debt service coverage."
+        }
+      ]
+    },
+    {
+      "heading": "Alternative proposals",
+      "heading_level": 4,
+      "full_text": "Respondents’ proposals ranged from adopting clearer, more prescriptive GDS/TDS limits to more flexible approaches. In particular:\n  - OSFI should adopt the insured GDS/TDS limits (39%/44%), but only for prime, conforming uninsured borrowers. An exception bucket (e.g., 20%) on the flow of high GDS/TDS lending could accommodate borrowers with compensating attributes (e.g., higher credit scores).\n  - OSFI should adopt consistent formulas and definitions to insured GDS/TDS but recognize differences in risk between insured and uninsured markets in setting limits.\n  - Instead of prescriptive limits, OSFI should encourage principles-based tiering of GDS/TDS limits according to FRFIs’ individual risk appetites.\nOSFI should adopt the insured GDS/TDS limits (39%/44%), but only for prime, conforming uninsured borrowers. An exception bucket (e.g., 20%) on the flow of high GDS/TDS lending could accommodate borrowers with compensating attributes (e.g., higher credit scores).\nOSFI should adopt consistent formulas and definitions to insured GDS/TDS but recognize differences in risk between insured and uninsured markets in setting limits.\nInstead of prescriptive limits, OSFI should encourage principles-based tiering of GDS/TDS limits according to FRFIs’ individual risk appetites.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Respondents’ proposals ranged from adopting clearer, more prescriptive GDS/TDS limits to more flexible approaches. In particular:"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "OSFI should adopt the insured GDS/TDS limits (39%/44%), but only for prime, conforming uninsured borrowers. An exception bucket (e.g., 20%) on the flow of high GDS/TDS lending could accommodate borrowers with compensating attributes (e.g., higher credit scores).",
+            "OSFI should adopt consistent formulas and definitions to insured GDS/TDS but recognize differences in risk between insured and uninsured markets in setting limits.",
+            "Instead of prescriptive limits, OSFI should encourage principles-based tiering of GDS/TDS limits according to FRFIs’ individual risk appetites."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "OSFI should adopt the insured GDS/TDS limits (39%/44%), but only for prime, conforming uninsured borrowers. An exception bucket (e.g., 20%) on the flow of high GDS/TDS lending could accommodate borrowers with compensating attributes (e.g., higher credit scores)."
+        },
+        {
+          "type": "paragraph",
+          "text": "OSFI should adopt consistent formulas and definitions to insured GDS/TDS but recognize differences in risk between insured and uninsured markets in setting limits."
+        },
+        {
+          "type": "paragraph",
+          "text": "Instead of prescriptive limits, OSFI should encourage principles-based tiering of GDS/TDS limits according to FRFIs’ individual risk appetites."
+        }
+      ]
+    },
+    {
+      "heading": "OSFI response",
+      "heading_level": 4,
+      "full_text": "We believe there is merit in lenders applying an explicit, qualifying amortization limit and we will continue to evaluate this proposal. Such a limit would add more rigour to qualifying debt service calculations while still permitting lenders flexibility to offer a longer contractual amortization to some qualified borrowers.\nAfter careful consideration of stakeholder feedback, we agree that regulatory limits on debt service coverage should not be pursued. While such limits could result in greater consistency, they would remove too much risk-based decision-making and risk ownership from lenders. While clear limits apply to insured mortgages, under law, they generally serve other public policy objectives beyond prudential soundness and financial stability. A strengthened principles-based expectation could therefore be more suitable.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "We believe there is merit in lenders applying an explicit, qualifying amortization limit and we will continue to evaluate this proposal. Such a limit would add more rigour to qualifying debt service calculations while still permitting lenders flexibility to offer a longer contractual amortization to some qualified borrowers."
+        },
+        {
+          "type": "paragraph",
+          "text": "After careful consideration of stakeholder feedback, we agree that regulatory limits on debt service coverage should not be pursued. While such limits could result in greater consistency, they would remove too much risk-based decision-making and risk ownership from lenders. While clear limits apply to insured mortgages, under law, they generally serve other public policy objectives beyond prudential soundness and financial stability. A strengthened principles-based expectation could therefore be more suitable."
+        }
+      ]
+    },
+    {
+      "heading": "Feedback",
+      "heading_level": 4,
+      "full_text": "Respondents were generally not supportive of proposed MQR adaptations and similar tests of affordability. Concerns focused on negative impacts on other public policy objectives and unintended consequences.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Respondents were generally not supportive of proposed MQR adaptations and similar tests of affordability. Concerns focused on negative impacts on other public policy objectives and unintended consequences."
+        }
+      ]
+    },
+    {
+      "heading": "Alternative proposals",
+      "heading_level": 4,
+      "full_text": "Some stakeholders offered their own perspective on how the MQR, and similar tests could be adapted. For instance:\n  - MQR design should be more dynamic and encourage longer borrowing terms, or at least reduce incentives toward variable or adjustable-rate mortgages.\n  - Affordability tests should capture other, non-mortgage indebtedness.\n  - ‘Straight switch’ uninsured loan renewals with a new lender (i.e., loans with no increase to loan amount or amortization) should be exempted from the MQR.\nMQR design should be more dynamic and encourage longer borrowing terms, or at least reduce incentives toward variable or adjustable-rate mortgages.\nAffordability tests should capture other, non-mortgage indebtedness.\n‘Straight switch’ uninsured loan renewals with a new lender (i.e., loans with no increase to loan amount or amortization) should be exempted from the MQR.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Some stakeholders offered their own perspective on how the MQR, and similar tests could be adapted. For instance:"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "MQR design should be more dynamic and encourage longer borrowing terms, or at least reduce incentives toward variable or adjustable-rate mortgages.",
+            "Affordability tests should capture other, non-mortgage indebtedness.",
+            "‘Straight switch’ uninsured loan renewals with a new lender (i.e., loans with no increase to loan amount or amortization) should be exempted from the MQR."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "MQR design should be more dynamic and encourage longer borrowing terms, or at least reduce incentives toward variable or adjustable-rate mortgages."
+        },
+        {
+          "type": "paragraph",
+          "text": "Affordability tests should capture other, non-mortgage indebtedness."
+        },
+        {
+          "type": "paragraph",
+          "text": "‘Straight switch’ uninsured loan renewals with a new lender (i.e., loans with no increase to loan amount or amortization) should be exempted from the MQR."
+        }
+      ]
+    },
+    {
+      "heading": "OSFI response",
+      "heading_level": 4,
+      "full_text": "We appreciate the breadth of feedback on this measure. We will continue to reflect on how best to encourage lenders to apply more rigorous affordability tests, especially when higher risk attributes are present in a mortgage application. We should be able to observe variation in qualifying debt service ratios as evidence of this.\nEncouraging longer borrowing terms and payment stability through MQR design has merit from a risk perspective. This was reflected in an earlier iteration of the MQR, prior to 2018, that exempted fixed-rate loans with terms of five years or more. The trade-off with such an incentive is that longer-term, fixed rate products may not be the most appropriate choice for borrowers on other grounds than risk.\nWhen a borrower opts to switch lenders, a new loan is created. We therefore expect that the loan be fully underwritten, including application of the MQR for uninsured mortgages to assess debt affordability. This is because the new lender must do its own due diligence as it will own the credit risk for an uninsured loan. Insured borrowers, however, are exempt from the re-application of the MQR when switching lenders at renewal. This is because the borrower’s credit risk has been transferred for the life of the loan to the mortgage insurer. To avoid displacing uninsured borrowers at renewal, we do not expect that the MQR be applied again if renewal is with the same lender. This is justifiable on risk grounds, too, because the existing lender has already done their own due diligence. Exempting all ‘straight switch’ renewals from the MQR could cause lenders to compete for loans that do not meet OSFI’s expectations. We continue to monitor for evidence of uncompetitive rates for borrowers who may be unable to switch lenders, and we will take action if warranted. We also expect lenders to follow applicable law and guidance on consumer protection.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "We appreciate the breadth of feedback on this measure. We will continue to reflect on how best to encourage lenders to apply more rigorous affordability tests, especially when higher risk attributes are present in a mortgage application. We should be able to observe variation in qualifying debt service ratios as evidence of this."
+        },
+        {
+          "type": "paragraph",
+          "text": "Encouraging longer borrowing terms and payment stability through MQR design has merit from a risk perspective. This was reflected in an earlier iteration of the MQR, prior to 2018, that exempted fixed-rate loans with terms of five years or more. The trade-off with such an incentive is that longer-term, fixed rate products may not be the most appropriate choice for borrowers on other grounds than risk."
+        },
+        {
+          "type": "paragraph",
+          "text": "When a borrower opts to switch lenders, a new loan is created. We therefore expect that the loan be fully underwritten, including application of the MQR for uninsured mortgages to assess debt affordability. This is because the new lender must do its own due diligence as it will own the credit risk for an uninsured loan. Insured borrowers, however, are exempt from the re-application of the MQR when switching lenders at renewal. This is because the borrower’s credit risk has been transferred for the life of the loan to the mortgage insurer. To avoid displacing uninsured borrowers at renewal, we do not expect that the MQR be applied again if renewal is with the same lender. This is justifiable on risk grounds, too, because the existing lender has already done their own due diligence. Exempting all ‘straight switch’ renewals from the MQR could cause lenders to compete for loans that do not meet OSFI’s expectations. We continue to monitor for evidence of uncompetitive rates for borrowers who may be unable to switch lenders, and we will take action if warranted. We also expect lenders to follow applicable law and guidance on consumer protection."
+        }
+      ]
+    },
+    {
+      "heading": "Feedback",
+      "heading_level": 4,
+      "full_text": "Overall, respondents felt that:\n  - The joint impact of measures would negatively affect competitive pricing and access to mortgage credit and could result in leakage to the unregulated lending sector.\n  - If OSFI is contemplating multiple measures, these should be implemented incrementally and sequentially.\n  - In terms of sequencing, debt service coverage measures should be a priority, followed by adjustments to the MQR, and introducing an LTI limit as the last priority.\n  - Capital framework measures should not be considered.\nThe joint impact of measures would negatively affect competitive pricing and access to mortgage credit and could result in leakage to the unregulated lending sector.\nIf OSFI is contemplating multiple measures, these should be implemented incrementally and sequentially.\nIn terms of sequencing, debt service coverage measures should be a priority, followed by adjustments to the MQR, and introducing an LTI limit as the last priority.\nCapital framework measures should not be considered.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Overall, respondents felt that:"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "The joint impact of measures would negatively affect competitive pricing and access to mortgage credit and could result in leakage to the unregulated lending sector.",
+            "If OSFI is contemplating multiple measures, these should be implemented incrementally and sequentially.",
+            "In terms of sequencing, debt service coverage measures should be a priority, followed by adjustments to the MQR, and introducing an LTI limit as the last priority.",
+            "Capital framework measures should not be considered."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "The joint impact of measures would negatively affect competitive pricing and access to mortgage credit and could result in leakage to the unregulated lending sector."
+        },
+        {
+          "type": "paragraph",
+          "text": "If OSFI is contemplating multiple measures, these should be implemented incrementally and sequentially."
+        },
+        {
+          "type": "paragraph",
+          "text": "In terms of sequencing, debt service coverage measures should be a priority, followed by adjustments to the MQR, and introducing an LTI limit as the last priority."
+        },
+        {
+          "type": "paragraph",
+          "text": "Capital framework measures should not be considered."
+        }
+      ]
+    },
+    {
+      "heading": "Alternative proposals",
+      "heading_level": 4,
+      "full_text": "Some respondents felt OSFI could prioritize other measures, such as strengthening underwriting guidance on loan types with higher interest rate risk and focusing on prudential risks arising from non-mortgage consumer credit (e.g., credit cards, auto).",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Some respondents felt OSFI could prioritize other measures, such as strengthening underwriting guidance on loan types with higher interest rate risk and focusing on prudential risks arising from non-mortgage consumer credit (e.g., credit cards, auto)."
+        }
+      ]
+    },
+    {
+      "heading": "OSFI response",
+      "heading_level": 4,
+      "full_text": "We agree that the cumulative impact of multiple measures could create unintended, negative impacts. We will therefore sequence and prioritize our actions on debt serviceability.\nWe will provide FRFIs a sufficient implementation period to allow for necessary systems and internal process changes as a result of supervisory actions. Meanwhile, we will continue to study the merits of certain other debt serviceability measures addressed in this consultation as we complete our review of Guideline B-20 .\nWe currently have no plans to produce regulatory guidance on non-mortgage retail credit exposures. However, we agree that risk has increased in this space and warrants ongoing supervisory attention.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "We agree that the cumulative impact of multiple measures could create unintended, negative impacts. We will therefore sequence and prioritize our actions on debt serviceability."
+        },
+        {
+          "type": "paragraph",
+          "text": "We will provide FRFIs a sufficient implementation period to allow for necessary systems and internal process changes as a result of supervisory actions. Meanwhile, we will continue to study the merits of certain other debt serviceability measures addressed in this consultation as we complete our review of Guideline B-20 ."
+        },
+        {
+          "type": "paragraph",
+          "text": "We currently have no plans to produce regulatory guidance on non-mortgage retail credit exposures. However, we agree that risk has increased in this space and warrants ongoing supervisory attention."
+        }
+      ]
+    },
+    {
+      "heading": "Feedback",
+      "heading_level": 4,
+      "full_text": "Respondents raised other themes in their submissions, including:\n  - The importance of improved income verification in deterring mortgage misrepresentation.\n  - Inadequate housing supply and strong population growth as fundamental drivers of house prices and rising household debt.\n  - Geographic targeting of proposed measures to focus on the highest risk markets.\nThe importance of improved income verification in deterring mortgage misrepresentation.\nInadequate housing supply and strong population growth as fundamental drivers of house prices and rising household debt.\nGeographic targeting of proposed measures to focus on the highest risk markets.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Respondents raised other themes in their submissions, including:"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "The importance of improved income verification in deterring mortgage misrepresentation.",
+            "Inadequate housing supply and strong population growth as fundamental drivers of house prices and rising household debt.",
+            "Geographic targeting of proposed measures to focus on the highest risk markets."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "The importance of improved income verification in deterring mortgage misrepresentation."
+        },
+        {
+          "type": "paragraph",
+          "text": "Inadequate housing supply and strong population growth as fundamental drivers of house prices and rising household debt."
+        },
+        {
+          "type": "paragraph",
+          "text": "Geographic targeting of proposed measures to focus on the highest risk markets."
+        }
+      ]
+    },
+    {
+      "heading": "Alternative proposals",
+      "heading_level": 4,
+      "full_text": "OSFI should work with federal partners to allow independent income verification through the Canada Revenue Agency (CRA).\nOSFI could limit unintended impacts of its proposals by focusing them on higher risk markets, such as the Greater Toronto and Greater Vancouver areas.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "OSFI should work with federal partners to allow independent income verification through the Canada Revenue Agency (CRA)."
+        },
+        {
+          "type": "paragraph",
+          "text": "OSFI could limit unintended impacts of its proposals by focusing them on higher risk markets, such as the Greater Toronto and Greater Vancouver areas."
+        }
+      ]
+    },
+    {
+      "heading": "OSFI response",
+      "heading_level": 4,
+      "full_text": "We welcome any initiative that advances our B-20 expectation that FRFIs use income sources that are independently verifiable and difficult to falsify. We and our federal financial sector partners are aware of ongoing CRA efforts in this regard.\nWe believe that housing market imbalances are driven by both demand and supply-side factors. Adequate housing supply that keeps pace with demographic needs supports a stable, well-functioning mortgage market and the broader Canadian economy.\nWe are aware that housing-related risks are often more acute in large urban centres. However, we do not plan to pursue geography-based measures. This is because many housing-related vulnerabilities, triggers, and risks (e.g., rising rates, elevated household debt, inflating expenses) are common, regardless of geography. Additionally, some existing regulatory measures are automatically more binding on geographic areas that exhibit heightened risk attributes. Finally, such targeted measures are likely to result in leakage and risk migration to adjacent geographic areas.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "We welcome any initiative that advances our B-20 expectation that FRFIs use income sources that are independently verifiable and difficult to falsify. We and our federal financial sector partners are aware of ongoing CRA efforts in this regard."
+        },
+        {
+          "type": "paragraph",
+          "text": "We believe that housing market imbalances are driven by both demand and supply-side factors. Adequate housing supply that keeps pace with demographic needs supports a stable, well-functioning mortgage market and the broader Canadian economy."
+        },
+        {
+          "type": "paragraph",
+          "text": "We are aware that housing-related risks are often more acute in large urban centres. However, we do not plan to pursue geography-based measures. This is because many housing-related vulnerabilities, triggers, and risks (e.g., rising rates, elevated household debt, inflating expenses) are common, regardless of geography. Additionally, some existing regulatory measures are automatically more binding on geographic areas that exhibit heightened risk attributes. Finally, such targeted measures are likely to result in leakage and risk migration to adjacent geographic areas."
+        }
+      ]
+    }
+  ],
+  "title_normalized": "osfis response to guideline b20 initial consultation feedback on debt serviceability measures",
+  "publication_type_normalized": "consultation_response",
+  "category_normalized": "sound_business_and_financial_practices",
+  "sector_normalized": [
+    "banks",
+    "foreign_bank_branches",
+    "trust_and_loan_companies",
+    "pc_insurance",
+    "life_insurance"
+  ],
+  "guideline_number_normalized": "B20",
+  "applies_to_banks": true,
+  "applies_to_trust_loan": true,
+  "applies_to_life_insurance": true,
+  "applies_to_pc_insurance": true,
+  "applies_to_foreign_bank": true,
+  "applies_to_foreign_insurance": false,
+  "applies_to_cooperative": false,
+  "applies_to_bank_holding": false,
+  "effective_date_sort_key": "2023-10-16",
+  "status_sort_key": 1,
+  "authority_sort_key": 30,
+  "bm25_text": "OSFI’s response to Guideline B-20 initial consultation feedback on debt serviceability measures B-20 Consultation response Sound Business and Financial Practices Banks Foreign Bank Branches Trust and Loan Companies Property and Casualty Companies Life Insurance and Fraternal Companies Feedback Alternative proposals OSFI response Feedback Alternative proposals OSFI response Feedback Alternative proposals OSFI response Feedback Alternative proposals OSFI response Feedback Alternative proposals OSFI response",
+  "vector_text_prefix": "[OSFI Consultation response B-20 | Sound Business and Financial Practices | Banks / Foreign Bank Branches / Trust and Loan Companies | FINAL_CURRENT | Effective 2023-10-16]",
+  "h1_title": "OSFI’s response to Guideline B-20 initial consultation feedback on debt serviceability measures",
+  "regulator": "OSFI",
+  "regulator_acronym": "OSFI",
+  "jurisdiction": "Canada",
+  "short_title": "B-20",
+  "source_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/osfis-response-guideline-b-20-initial-consultation-feedback-debt-serviceability-measures"
+}

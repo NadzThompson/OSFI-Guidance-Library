@@ -1,0 +1,440 @@
+{
+  "source_system": "osfi_guidance_library",
+  "library_row_title": "Liquidity Adequacy Requirements (LAR) (2025) Chapter 5 – Operating Cash Flow Statement",
+  "library_row_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/liquidity-adequacy-requirements-lar-2025-chapter-5-operating-cash-flow-statement",
+  "listing_date_raw": "Effective Date April 1, 2025",
+  "listing_date_iso": "",
+  "listing_publication_type": "Guideline",
+  "listing_category": "Capital Adequacy Requirements",
+  "listing_sector": [
+    "Banks",
+    "Trust and Loan Companies"
+  ],
+  "crawl_timestamp": "2026-03-11T00:00:00Z",
+  "detail_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/liquidity-adequacy-requirements-lar-2025-chapter-5-operating-cash-flow-statement",
+  "canonical_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/liquidity-adequacy-requirements-lar-2025-chapter-5-operating-cash-flow-statement",
+  "slug": "liquidity-adequacy-requirements-lar-2025-chapter-5-operating-cash-flow-statement",
+  "title": "Liquidity Adequacy Requirements (LAR) (2025) Chapter 5 – Operating Cash Flow Statement",
+  "publication_type": "Guideline",
+  "category": "Capital Adequacy Requirements",
+  "document_date_raw": "Effective Date April 1, 2025",
+  "document_date_iso": "",
+  "sector": [
+    "Banks",
+    "Trust and Loan Companies"
+  ],
+  "effective_date_text": "Effective Date April 1, 2025",
+  "guideline_number": "LAR",
+  "date_modified_raw": "2024-11-21T12:00:00Z",
+  "generate_pdf_url": null,
+  "pdf_node_id": null,
+  "direct_pdf_url": null,
+  "has_table_of_contents": true,
+  "toc_entries": [],
+  "has_related_documents": true,
+  "related_document_links_raw": [
+    {
+      "title": "Liquidity Adequacy Requirements - Backgrounder (2025)",
+      "url": "https://www.osfi-bsif.gc.ca/en/news/backgrounder-liquidity-adequacy-requirements-guideline-2025"
+    },
+    {
+      "title": "Liquidity Adequacy Requirements - Letter (2025)",
+      "url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/liquidity-adequacy-requirements-guideline-2025-letter"
+    },
+    {
+      "title": "Small and Medium-Sized Deposit-Taking Institutions Capital and Liquidity Require",
+      "url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/small-medium-sized-deposit-taking-institutions-smsbs-capital-liquidity-requirements-guideline-2026"
+    },
+    {
+      "title": "Capital Adequacy Requirements – Guideline",
+      "url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/capital-adequacy-requirements-car-guideline-2026"
+    },
+    {
+      "title": "Leverage Requirements - Guideline",
+      "url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/leverage-requirements-guideline-2023"
+    },
+    {
+      "title": "Pillar 3 Disclosure Requirements",
+      "url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/pillar-3-disclosure-expectations"
+    }
+  ],
+  "consultation_status_text": null,
+  "consultation_status_refers_to_version": null,
+  "page_language": "en",
+  "word_count_raw_body": 2061,
+  "doc_id": "osfi.lar.2025.chapter5.chapter",
+  "doc_family_id": "osfi.lar",
+  "version_id": "2025",
+  "version_label": "LAR (2025)",
+  "version_sort_key": "2025-04",
+  "parent_doc_id": "osfi.lar.2025.package",
+  "child_doc_ids": [],
+  "is_package_page": false,
+  "is_chapter_page": true,
+  "chapter_number": 5,
+  "chapter_title": "Operating Cash Flow Statement",
+  "document_order_within_family": 5,
+  "supersedes_doc_id": null,
+  "superseded_by_doc_id": "osfi.lar.2026.chapter1.chapter",
+  "current_version_flag": false,
+  "status": "superseded",
+  "include_in_primary_corpus": true,
+  "include_in_support_corpus": false,
+  "include_in_context_corpus": false,
+  "effective_date_start": "2025-04-01",
+  "effective_date_end": null,
+  "effective_date_fye_split": false,
+  "effective_date_oct_fye": null,
+  "effective_date_dec_fye": null,
+  "is_future_effective": false,
+  "is_rescinded": false,
+  "is_draft_or_consultation": false,
+  "rescission_date": null,
+  "consultation_closing_date": null,
+  "as_of_applicability": "2026-03-23",
+  "rule_applied": "rule_7_superseded",
+  "authority_class": "primary_normative",
+  "authority_level": 100,
+  "nova_tier": 1,
+  "prudential_weight": 1.0,
+  "is_primary_normative": true,
+  "is_supporting_interpretive": false,
+  "is_context_only": false,
+  "document_class": "chapter_guideline",
+  "guidance_type_normalized": "guideline",
+  "section_headings": [
+    {
+      "level": 3,
+      "text": "5.1 Objective",
+      "id": "h3-0"
+    },
+    {
+      "level": 3,
+      "text": "5.2 Definition",
+      "id": "h3-1"
+    },
+    {
+      "level": 3,
+      "text": "Annex 1 – OCFS deposit run-off rates",
+      "id": "h3-2"
+    },
+    {
+      "level": 2,
+      "text": "Footnotes",
+      "id": "h2-3"
+    }
+  ],
+  "heading_path": [
+    "Liquidity Adequacy Requirements (LAR) (2025) Chapter 5 – Operating Cash Flow Statement"
+  ],
+  "toc_depth": 3,
+  "has_appendices": false,
+  "appendix_ids": [],
+  "has_tables": true,
+  "table_count": 2,
+  "has_footnotes": false,
+  "footnote_count": 0,
+  "inline_cross_references": [
+    "Guideline B-6 Liquidity Principles Footnote 1"
+  ],
+  "quoted_external_references": [],
+  "raw_html_sha256": "8e7e45f24e61535b4f878ebb78874695aa1ef507b0402e7af20ca1eb602e142e",
+  "raw_pdf_sha256": null,
+  "normalized_text_sha256": null,
+  "raw_html_path": "bronze/osfi/html/final_current/liquidity-adequacy-requirements-lar-2025-chapter-5-operating-cash-flow-statement.html",
+  "normalized_md_path": "silver/osfi/md/final_current/liquidity-adequacy-requirements-lar-2025-chapter-5-operating-cash-flow-statement.md",
+  "canonical_json_path": "silver/osfi/json/final_current/liquidity-adequacy-requirements-lar-2025-chapter-5-operating-cash-flow-statement.json",
+  "content_source": "HTML",
+  "parser_version": "osfi-parser-v2.1.0",
+  "normalizer_version": "osfi-normalizer-v1.4.0",
+  "quality_score": 1.0,
+  "quality_flags": [],
+  "download_timestamp": "2026-03-11T00:00:00Z",
+  "enriched_timestamp": "2026-03-23T09:53:55.185808Z",
+  "sections": [
+    {
+      "heading": "",
+      "heading_level": 2,
+      "full_text": "  - Liquidity Adequacy Requirements - Backgrounder (2025)\n  - Liquidity Adequacy Requirements - Letter (2025)\n  - Small and Medium-Sized Deposit-Taking Institutions Capital and Liquidity Requirements – Guideline\n  - Capital Adequacy Requirements – Guideline\n  - Leverage Requirements - Guideline\n  - Pillar 3 Disclosure Requirements",
+      "content": [
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Liquidity Adequacy Requirements - Backgrounder (2025)",
+            "Liquidity Adequacy Requirements - Letter (2025)",
+            "Small and Medium-Sized Deposit-Taking Institutions Capital and Liquidity Requirements – Guideline",
+            "Capital Adequacy Requirements – Guideline",
+            "Leverage Requirements - Guideline",
+            "Pillar 3 Disclosure Requirements"
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "5.1 Objective",
+      "heading_level": 3,
+      "full_text": "  1. The Operating Cash Flow Statement (OCFS) is used by OSFI as a supervisory tool to measure and monitor liquidity for Category III institutions, as defined in OSFI's Capital and Liquidity Requirements for Small and Medium-Sized Deposit-Taking Institutions Guideline, which are not subject to the other liquidity metrics specified in the LAR Guideline (i.e., the LCR (Chapter 2), the NSFR (Chapter 3), and NCCF (Chapter 4)). The OCFS is a simple cash flow forecasting measure that factors in limited behavioural aspects captured by prescribed inflow and outflow rates. The metric provides an indication of an institution's horizon of positive cash flow based on its cumulative stock of unencumbered liquid assets, contractual cash inflows, and contractual cash outflows. The metric extends to a one-year horizon.\n  2. The OCFS is not a regulatory standard and thus does not have a defined minimum required threshold. However, OSFI may, as necessary, require institutions to meet a supervisory-communicated, institution-specific OCFS level. In such instances, the supervisory-communicated, institution-specific OCFS level will be set by OSFI after considering the trend in financial market and institution-specific factors such as operating and management experience, strength of parent, earnings, diversification of assets, type of assets, inherent risk of a business model and risk appetite.\n  3. Where set by OSFI, a supervisory-communicated, institution-specific OCFS level will require the institution to maintain a positive level of cumulative liquid assets and net cash flows up to a certain point in time.\n  4. The OCFS is useful in assessing the potential liquidity gaps that would have to be funded or that could unduly strain the institution's liquidity position.\n  5. The OCFS will be supplemented by detailed supervisory assessment of an institution's liquidity risk management framework in line with OSFI's Guideline B-6 Liquidity Principles Footnote 1 .\nThe Operating Cash Flow Statement (OCFS) is used by OSFI as a supervisory tool to measure and monitor liquidity for Category III institutions, as defined in OSFI's Capital and Liquidity Requirements for Small and Medium-Sized Deposit-Taking Institutions Guideline, which are not subject to the other liquidity metrics specified in the LAR Guideline (i.e., the LCR (Chapter 2), the NSFR (Chapter 3), and NCCF (Chapter 4)). The OCFS is a simple cash flow forecasting measure that factors in limited behavioural aspects captured by prescribed inflow and outflow rates. The metric provides an indication of an institution's horizon of positive cash flow based on its cumulative stock of unencumbered liquid assets, contractual cash inflows, and contractual cash outflows. The metric extends to a one-year horizon.\nThe OCFS is not a regulatory standard and thus does not have a defined minimum required threshold. However, OSFI may, as necessary, require institutions to meet a supervisory-communicated, institution-specific OCFS level. In such instances, the supervisory-communicated, institution-specific OCFS level will be set by OSFI after considering the trend in financial market and institution-specific factors such as operating and management experience, strength of parent, earnings, diversification of assets, type of assets, inherent risk of a business model and risk appetite.\nWhere set by OSFI, a supervisory-communicated, institution-specific OCFS level will require the institution to maintain a positive level of cumulative liquid assets and net cash flows up to a certain point in time.\nThe OCFS is useful in assessing the potential liquidity gaps that would have to be funded or that could unduly strain the institution's liquidity position.\nThe OCFS will be supplemented by detailed supervisory assessment of an institution's liquidity risk management framework in line with OSFI's Guideline B-6 Liquidity Principles Footnote 1 .",
+      "content": [
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "The Operating Cash Flow Statement (OCFS) is used by OSFI as a supervisory tool to measure and monitor liquidity for Category III institutions, as defined in OSFI's Capital and Liquidity Requirements for Small and Medium-Sized Deposit-Taking Institutions Guideline, which are not subject to the other liquidity metrics specified in the LAR Guideline (i.e., the LCR (Chapter 2), the NSFR (Chapter 3), and NCCF (Chapter 4)). The OCFS is a simple cash flow forecasting measure that factors in limited behavioural aspects captured by prescribed inflow and outflow rates. The metric provides an indication of an institution's horizon of positive cash flow based on its cumulative stock of unencumbered liquid assets, contractual cash inflows, and contractual cash outflows. The metric extends to a one-year horizon.",
+            "The OCFS is not a regulatory standard and thus does not have a defined minimum required threshold. However, OSFI may, as necessary, require institutions to meet a supervisory-communicated, institution-specific OCFS level. In such instances, the supervisory-communicated, institution-specific OCFS level will be set by OSFI after considering the trend in financial market and institution-specific factors such as operating and management experience, strength of parent, earnings, diversification of assets, type of assets, inherent risk of a business model and risk appetite.",
+            "Where set by OSFI, a supervisory-communicated, institution-specific OCFS level will require the institution to maintain a positive level of cumulative liquid assets and net cash flows up to a certain point in time.",
+            "The OCFS is useful in assessing the potential liquidity gaps that would have to be funded or that could unduly strain the institution's liquidity position.",
+            "The OCFS will be supplemented by detailed supervisory assessment of an institution's liquidity risk management framework in line with OSFI's Guideline B-6 Liquidity Principles Footnote 1 ."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "The Operating Cash Flow Statement (OCFS) is used by OSFI as a supervisory tool to measure and monitor liquidity for Category III institutions, as defined in OSFI's Capital and Liquidity Requirements for Small and Medium-Sized Deposit-Taking Institutions Guideline, which are not subject to the other liquidity metrics specified in the LAR Guideline (i.e., the LCR (Chapter 2), the NSFR (Chapter 3), and NCCF (Chapter 4)). The OCFS is a simple cash flow forecasting measure that factors in limited behavioural aspects captured by prescribed inflow and outflow rates. The metric provides an indication of an institution's horizon of positive cash flow based on its cumulative stock of unencumbered liquid assets, contractual cash inflows, and contractual cash outflows. The metric extends to a one-year horizon."
+        },
+        {
+          "type": "paragraph",
+          "text": "The OCFS is not a regulatory standard and thus does not have a defined minimum required threshold. However, OSFI may, as necessary, require institutions to meet a supervisory-communicated, institution-specific OCFS level. In such instances, the supervisory-communicated, institution-specific OCFS level will be set by OSFI after considering the trend in financial market and institution-specific factors such as operating and management experience, strength of parent, earnings, diversification of assets, type of assets, inherent risk of a business model and risk appetite."
+        },
+        {
+          "type": "paragraph",
+          "text": "Where set by OSFI, a supervisory-communicated, institution-specific OCFS level will require the institution to maintain a positive level of cumulative liquid assets and net cash flows up to a certain point in time."
+        },
+        {
+          "type": "paragraph",
+          "text": "The OCFS is useful in assessing the potential liquidity gaps that would have to be funded or that could unduly strain the institution's liquidity position."
+        },
+        {
+          "type": "paragraph",
+          "text": "The OCFS will be supplemented by detailed supervisory assessment of an institution's liquidity risk management framework in line with OSFI's Guideline B-6 Liquidity Principles Footnote 1 ."
+        }
+      ]
+    },
+    {
+      "heading": "5.2 Definition",
+      "heading_level": 3,
+      "full_text": "  1. The OCFS is a liquidity horizon metric that measures an institution's liquid assets, operating cash inflows and cash outflows, and net cumulative cash flow over different periods within a 12-month time horizon. The time bands reported under the OCFS include weekly buckets for the first four weeks and monthly buckets for months 2 to month 12. OCFS (Weeks) = Liquid assets + Σ (Inflows – Outflows), Cumulative\n  2. Liquid assets are those assets that are unencumbered Footnote 2 , and that can be converted to cash at little or no loss of value in private markets. Liquid assets Footnote 3 include coins and banknotes, securities representing claims on or guaranteed by a sovereign issuer, securities of a provincial or territorial government, and deposits with other federally- or provincially-regulated financial institutions. Deposits with other financial institutions must be available on demand (or overnight) and not subject to constraints Footnote 4 on withdrawal.\n  3. For purposes of the OCFS, eligible liquid assets are not subject to haircuts.\n  4. Operating cash inflows include the institution's sources of income derived from its recurring operations. These would include fees collected for managing assets, from custody services, investment advice, interest on investments and loans as well as maturing investments and maturing loans (to the extent these loans would not be rolled over).\n  5. Cash outflows include operating expenses incurred to generate the institution's income as well as, for institutions that take deposits, a withdrawal of a portion of these deposits as outlined below. Expenses include non-payroll operating expenses (e.g., rent), payroll, interest payable and other operating expenses.\n  6. Deposits are to be classified as either demand or term deposits. The balance at maturity for term deposits and balance of demand deposits at the time of computation will be subject to an OSFI-prescribed retention rate. The retention rates will differ based on attributes of the deposit. More specifically, deposits will be classified as: retail and small business Footnote 5 customer deposits – insured; retail and small business customer deposits – uninsured; brokered deposits Footnote 6 ; and all other deposits.\n  7. Retention rates are factored in by applying a run-off rate to the balance of each category, as outlined in Annex 1, on a declining balance basis (example provided in the return instructions) for each period.\n  8. Term deposits will be subject to an assumed run-off at maturity, i.e., at maturity a portion is assumed to run-off and an outflow is recorded in the period while the remaining balance is expected to renew at the same tenor as the original deposit.\n  9. Where an institution has extraordinary items and other non-recurring items that it believes should be considered for inclusion in the OCFS calculation, the institution should first discuss these items with its OSFI Lead Supervisor prior to incorporating the item(s) as an operating cash inflow or operating cash outflow.\n  10. The sum of liquid asset holdings and net cash flows must be calculated and reported weekly for the first 4 weeks and then monthly for months 2 to 12.\nThe OCFS is a liquidity horizon metric that measures an institution's liquid assets, operating cash inflows and cash outflows, and net cumulative cash flow over different periods within a 12-month time horizon. The time bands reported under the OCFS include weekly buckets for the first four weeks and monthly buckets for months 2 to month 12.\nOCFS (Weeks) = Liquid assets + Σ (Inflows – Outflows), Cumulative\nLiquid assets are those assets that are unencumbered Footnote 2 , and that can be converted to cash at little or no loss of value in private markets. Liquid assets Footnote 3 include coins and banknotes, securities representing claims on or guaranteed by a sovereign issuer, securities of a provincial or territorial government, and deposits with other federally- or provincially-regulated financial institutions. Deposits with other financial institutions must be available on demand (or overnight) and not subject to constraints Footnote 4 on withdrawal.\nFor purposes of the OCFS, eligible liquid assets are not subject to haircuts.\nOperating cash inflows include the institution's sources of income derived from its recurring operations. These would include fees collected for managing assets, from custody services, investment advice, interest on investments and loans as well as maturing investments and maturing loans (to the extent these loans would not be rolled over).\nCash outflows include operating expenses incurred to generate the institution's income as well as, for institutions that take deposits, a withdrawal of a portion of these deposits as outlined below. Expenses include non-payroll operating expenses (e.g., rent), payroll, interest payable and other operating expenses.\nDeposits are to be classified as either demand or term deposits. The balance at maturity for term deposits and balance of demand deposits at the time of computation will be subject to an OSFI-prescribed retention rate. The retention rates will differ based on attributes of the deposit. More specifically, deposits will be classified as:\n  1. retail and small business Footnote 5 customer deposits – insured;\n  2. retail and small business customer deposits – uninsured;\n  3. brokered deposits Footnote 6 ; and\n  4. all other deposits.\nRetention rates are factored in by applying a run-off rate to the balance of each category, as outlined in Annex 1, on a declining balance basis (example provided in the return instructions) for each period.\nTerm deposits will be subject to an assumed run-off at maturity, i.e., at maturity a portion is assumed to run-off and an outflow is recorded in the period while the remaining balance is expected to renew at the same tenor as the original deposit.\nWhere an institution has extraordinary items and other non-recurring items that it believes should be considered for inclusion in the OCFS calculation, the institution should first discuss these items with its OSFI Lead Supervisor prior to incorporating the item(s) as an operating cash inflow or operating cash outflow.\nThe sum of liquid asset holdings and net cash flows must be calculated and reported weekly for the first 4 weeks and then monthly for months 2 to 12.",
+      "content": [
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "The OCFS is a liquidity horizon metric that measures an institution's liquid assets, operating cash inflows and cash outflows, and net cumulative cash flow over different periods within a 12-month time horizon. The time bands reported under the OCFS include weekly buckets for the first four weeks and monthly buckets for months 2 to month 12. OCFS (Weeks) = Liquid assets + Σ (Inflows – Outflows), Cumulative",
+            "Liquid assets are those assets that are unencumbered Footnote 2 , and that can be converted to cash at little or no loss of value in private markets. Liquid assets Footnote 3 include coins and banknotes, securities representing claims on or guaranteed by a sovereign issuer, securities of a provincial or territorial government, and deposits with other federally- or provincially-regulated financial institutions. Deposits with other financial institutions must be available on demand (or overnight) and not subject to constraints Footnote 4 on withdrawal.",
+            "For purposes of the OCFS, eligible liquid assets are not subject to haircuts.",
+            "Operating cash inflows include the institution's sources of income derived from its recurring operations. These would include fees collected for managing assets, from custody services, investment advice, interest on investments and loans as well as maturing investments and maturing loans (to the extent these loans would not be rolled over).",
+            "Cash outflows include operating expenses incurred to generate the institution's income as well as, for institutions that take deposits, a withdrawal of a portion of these deposits as outlined below. Expenses include non-payroll operating expenses (e.g., rent), payroll, interest payable and other operating expenses.",
+            "Deposits are to be classified as either demand or term deposits. The balance at maturity for term deposits and balance of demand deposits at the time of computation will be subject to an OSFI-prescribed retention rate. The retention rates will differ based on attributes of the deposit. More specifically, deposits will be classified as: retail and small business Footnote 5 customer deposits – insured; retail and small business customer deposits – uninsured; brokered deposits Footnote 6 ; and all other deposits.",
+            "Retention rates are factored in by applying a run-off rate to the balance of each category, as outlined in Annex 1, on a declining balance basis (example provided in the return instructions) for each period.",
+            "Term deposits will be subject to an assumed run-off at maturity, i.e., at maturity a portion is assumed to run-off and an outflow is recorded in the period while the remaining balance is expected to renew at the same tenor as the original deposit.",
+            "Where an institution has extraordinary items and other non-recurring items that it believes should be considered for inclusion in the OCFS calculation, the institution should first discuss these items with its OSFI Lead Supervisor prior to incorporating the item(s) as an operating cash inflow or operating cash outflow.",
+            "The sum of liquid asset holdings and net cash flows must be calculated and reported weekly for the first 4 weeks and then monthly for months 2 to 12."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "The OCFS is a liquidity horizon metric that measures an institution's liquid assets, operating cash inflows and cash outflows, and net cumulative cash flow over different periods within a 12-month time horizon. The time bands reported under the OCFS include weekly buckets for the first four weeks and monthly buckets for months 2 to month 12."
+        },
+        {
+          "type": "paragraph",
+          "text": "OCFS (Weeks) = Liquid assets + Σ (Inflows – Outflows), Cumulative"
+        },
+        {
+          "type": "paragraph",
+          "text": "Liquid assets are those assets that are unencumbered Footnote 2 , and that can be converted to cash at little or no loss of value in private markets. Liquid assets Footnote 3 include coins and banknotes, securities representing claims on or guaranteed by a sovereign issuer, securities of a provincial or territorial government, and deposits with other federally- or provincially-regulated financial institutions. Deposits with other financial institutions must be available on demand (or overnight) and not subject to constraints Footnote 4 on withdrawal."
+        },
+        {
+          "type": "paragraph",
+          "text": "For purposes of the OCFS, eligible liquid assets are not subject to haircuts."
+        },
+        {
+          "type": "paragraph",
+          "text": "Operating cash inflows include the institution's sources of income derived from its recurring operations. These would include fees collected for managing assets, from custody services, investment advice, interest on investments and loans as well as maturing investments and maturing loans (to the extent these loans would not be rolled over)."
+        },
+        {
+          "type": "paragraph",
+          "text": "Cash outflows include operating expenses incurred to generate the institution's income as well as, for institutions that take deposits, a withdrawal of a portion of these deposits as outlined below. Expenses include non-payroll operating expenses (e.g., rent), payroll, interest payable and other operating expenses."
+        },
+        {
+          "type": "paragraph",
+          "text": "Deposits are to be classified as either demand or term deposits. The balance at maturity for term deposits and balance of demand deposits at the time of computation will be subject to an OSFI-prescribed retention rate. The retention rates will differ based on attributes of the deposit. More specifically, deposits will be classified as:"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "retail and small business Footnote 5 customer deposits – insured;",
+            "retail and small business customer deposits – uninsured;",
+            "brokered deposits Footnote 6 ; and",
+            "all other deposits."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Retention rates are factored in by applying a run-off rate to the balance of each category, as outlined in Annex 1, on a declining balance basis (example provided in the return instructions) for each period."
+        },
+        {
+          "type": "paragraph",
+          "text": "Term deposits will be subject to an assumed run-off at maturity, i.e., at maturity a portion is assumed to run-off and an outflow is recorded in the period while the remaining balance is expected to renew at the same tenor as the original deposit."
+        },
+        {
+          "type": "paragraph",
+          "text": "Where an institution has extraordinary items and other non-recurring items that it believes should be considered for inclusion in the OCFS calculation, the institution should first discuss these items with its OSFI Lead Supervisor prior to incorporating the item(s) as an operating cash inflow or operating cash outflow."
+        },
+        {
+          "type": "paragraph",
+          "text": "The sum of liquid asset holdings and net cash flows must be calculated and reported weekly for the first 4 weeks and then monthly for months 2 to 12."
+        }
+      ]
+    },
+    {
+      "heading": "Annex 1 – OCFS deposit run-off rates",
+      "heading_level": 3,
+      "full_text": "Demand deposits | Weekly run-off rate | Monthly run-off rate\nRetail and small business deposits – insured | 1.25% | 1%\nRetail and small business deposits – uninsured | 2.5% | 5%\nBrokered deposits | 10% | 10%\nAll other deposits | 3% | 10%\nTerm deposits | Run-off rate at maturity\nRetail and small business deposits – insured | 5%\nRetail and small business deposits – uninsured | 7.5%\nBrokered deposits | 10%\nAll other deposits | 10%\nFootnotes Footnote 1 https://www.osfi-bsif.gc.ca/Eng/fi-if/rg-ro/gdn-ort/gl-ld/Pages/b6-2020.aspx . Return to footnote 1 Footnote 2 \"Unencumbered\" means free of legal, regulatory, contractual or other restriction on the ability of the institution to liquidate, sell, transfer, or assign the asset. Return to footnote 2 Footnote 3 Liquid assets for the purpose of the OCFS equate to Level 1 assets as described in the LCR (see LAR Chapter 2, paragraph 43). Securities guaranteed by the Canadian federal government (e.g. NHA MBS) can be counted towards the institution's stock of liquid assets, provided they are unencumbered. Return to footnote 3 Footnote 4 For example, deposits placed with another financial institution to access payment systems would not be considered free of constraints. Return to footnote 4 Footnote 5 Small business customers are defined in line with the definition of loans extended to small businesses. See OSFI's Capital Adequacy Requirements Guideline, Chapter 4, paragraph 83. Return to footnote 5 Footnote 6 Brokered deposits are deposits that are sourced though a third party, i.e., where the underlying customer does not directly place the deposit with the institution (or with the institution's parent). Return to footnote 6",
+      "content": [
+        {
+          "type": "table",
+          "caption": "",
+          "rows": [
+            [
+              "Demand deposits",
+              "Weekly run-off rate",
+              "Monthly run-off rate"
+            ],
+            [
+              "Retail and small business deposits – insured",
+              "1.25%",
+              "1%"
+            ],
+            [
+              "Retail and small business deposits – uninsured",
+              "2.5%",
+              "5%"
+            ],
+            [
+              "Brokered deposits",
+              "10%",
+              "10%"
+            ],
+            [
+              "All other deposits",
+              "3%",
+              "10%"
+            ]
+          ]
+        },
+        {
+          "type": "table",
+          "caption": "",
+          "rows": [
+            [
+              "Term deposits",
+              "Run-off rate at maturity"
+            ],
+            [
+              "Retail and small business deposits – insured",
+              "5%"
+            ],
+            [
+              "Retail and small business deposits – uninsured",
+              "7.5%"
+            ],
+            [
+              "Brokered deposits",
+              "10%"
+            ],
+            [
+              "All other deposits",
+              "10%"
+            ]
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Footnotes Footnote 1 https://www.osfi-bsif.gc.ca/Eng/fi-if/rg-ro/gdn-ort/gl-ld/Pages/b6-2020.aspx . Return to footnote 1 Footnote 2 \"Unencumbered\" means free of legal, regulatory, contractual or other restriction on the ability of the institution to liquidate, sell, transfer, or assign the asset. Return to footnote 2 Footnote 3 Liquid assets for the purpose of the OCFS equate to Level 1 assets as described in the LCR (see LAR Chapter 2, paragraph 43). Securities guaranteed by the Canadian federal government (e.g. NHA MBS) can be counted towards the institution's stock of liquid assets, provided they are unencumbered. Return to footnote 3 Footnote 4 For example, deposits placed with another financial institution to access payment systems would not be considered free of constraints. Return to footnote 4 Footnote 5 Small business customers are defined in line with the definition of loans extended to small businesses. See OSFI's Capital Adequacy Requirements Guideline, Chapter 4, paragraph 83. Return to footnote 5 Footnote 6 Brokered deposits are deposits that are sourced though a third party, i.e., where the underlying customer does not directly place the deposit with the institution (or with the institution's parent). Return to footnote 6"
+        }
+      ]
+    },
+    {
+      "heading": "Footnotes",
+      "heading_level": 2,
+      "full_text": "https://www.osfi-bsif.gc.ca/Eng/fi-if/rg-ro/gdn-ort/gl-ld/Pages/b6-2020.aspx .\nReturn to footnote 1\n\"Unencumbered\" means free of legal, regulatory, contractual or other restriction on the ability of the institution to liquidate, sell, transfer, or assign the asset.\nReturn to footnote 2\nLiquid assets for the purpose of the OCFS equate to Level 1 assets as described in the LCR (see LAR Chapter 2, paragraph 43). Securities guaranteed by the Canadian federal government (e.g. NHA MBS) can be counted towards the institution's stock of liquid assets, provided they are unencumbered.\nReturn to footnote 3\nFor example, deposits placed with another financial institution to access payment systems would not be considered free of constraints.\nReturn to footnote 4\nSmall business customers are defined in line with the definition of loans extended to small businesses. See OSFI's Capital Adequacy Requirements Guideline, Chapter 4, paragraph 83.\nReturn to footnote 5\nBrokered deposits are deposits that are sourced though a third party, i.e., where the underlying customer does not directly place the deposit with the institution (or with the institution's parent).\nReturn to footnote 6",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "https://www.osfi-bsif.gc.ca/Eng/fi-if/rg-ro/gdn-ort/gl-ld/Pages/b6-2020.aspx ."
+        },
+        {
+          "type": "paragraph",
+          "text": "Return to footnote 1"
+        },
+        {
+          "type": "paragraph",
+          "text": "\"Unencumbered\" means free of legal, regulatory, contractual or other restriction on the ability of the institution to liquidate, sell, transfer, or assign the asset."
+        },
+        {
+          "type": "paragraph",
+          "text": "Return to footnote 2"
+        },
+        {
+          "type": "paragraph",
+          "text": "Liquid assets for the purpose of the OCFS equate to Level 1 assets as described in the LCR (see LAR Chapter 2, paragraph 43). Securities guaranteed by the Canadian federal government (e.g. NHA MBS) can be counted towards the institution's stock of liquid assets, provided they are unencumbered."
+        },
+        {
+          "type": "paragraph",
+          "text": "Return to footnote 3"
+        },
+        {
+          "type": "paragraph",
+          "text": "For example, deposits placed with another financial institution to access payment systems would not be considered free of constraints."
+        },
+        {
+          "type": "paragraph",
+          "text": "Return to footnote 4"
+        },
+        {
+          "type": "paragraph",
+          "text": "Small business customers are defined in line with the definition of loans extended to small businesses. See OSFI's Capital Adequacy Requirements Guideline, Chapter 4, paragraph 83."
+        },
+        {
+          "type": "paragraph",
+          "text": "Return to footnote 5"
+        },
+        {
+          "type": "paragraph",
+          "text": "Brokered deposits are deposits that are sourced though a third party, i.e., where the underlying customer does not directly place the deposit with the institution (or with the institution's parent)."
+        },
+        {
+          "type": "paragraph",
+          "text": "Return to footnote 6"
+        }
+      ]
+    }
+  ],
+  "title_normalized": "liquidity adequacy requirements lar 2025 chapter 5 operating cash flow statement",
+  "publication_type_normalized": "guideline",
+  "category_normalized": "capital_adequacy_requirements",
+  "sector_normalized": [
+    "banks",
+    "trust_and_loan_companies"
+  ],
+  "guideline_number_normalized": "LAR",
+  "applies_to_banks": true,
+  "applies_to_trust_loan": true,
+  "applies_to_life_insurance": false,
+  "applies_to_pc_insurance": false,
+  "applies_to_foreign_bank": false,
+  "applies_to_foreign_insurance": false,
+  "applies_to_cooperative": false,
+  "applies_to_bank_holding": false,
+  "effective_date_sort_key": "2025-04-01",
+  "status_sort_key": 1,
+  "authority_sort_key": 100,
+  "bm25_text": "Liquidity Adequacy Requirements (LAR) (2025) Chapter 5 – Operating Cash Flow Statement LAR Guideline Capital Adequacy Requirements Banks Trust and Loan Companies 5.1 Objective 5.2 Definition Annex 1 – OCFS deposit run-off rates Footnotes",
+  "vector_text_prefix": "[OSFI Guideline LAR | Capital Adequacy Requirements | Banks / Trust and Loan Companies | FINAL_CURRENT | Effective 2025-04-01]",
+  "h1_title": "Liquidity Adequacy Requirements (LAR) (2025) Chapter 5 – Operating Cash Flow Statement",
+  "regulator": "OSFI",
+  "regulator_acronym": "OSFI",
+  "jurisdiction": "Canada",
+  "short_title": "LAR",
+  "source_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/liquidity-adequacy-requirements-lar-2025-chapter-5-operating-cash-flow-statement"
+}

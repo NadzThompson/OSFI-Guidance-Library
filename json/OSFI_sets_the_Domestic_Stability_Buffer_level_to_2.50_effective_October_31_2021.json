@@ -1,0 +1,169 @@
+{
+  "source_system": "osfi_guidance_library",
+  "library_row_title": "OSFI sets the Domestic Stability Buffer level to 2.50% effective October 31, 2021",
+  "library_row_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/osfi-sets-domestic-stability-buffer-level-250-effective-october-31-2021",
+  "listing_date_raw": "June 17, 2021",
+  "listing_date_iso": "2021-06-17",
+  "listing_publication_type": "Letter",
+  "listing_category": "",
+  "listing_sector": [
+    "Banks"
+  ],
+  "crawl_timestamp": "2026-03-11T00:00:00Z",
+  "detail_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/osfi-sets-domestic-stability-buffer-level-250-effective-october-31-2021",
+  "canonical_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/osfi-sets-domestic-stability-buffer-level-250-effective-october-31-2021",
+  "slug": "osfi-sets-domestic-stability-buffer-level-250-effective-october-31-2021",
+  "title": "OSFI sets the Domestic Stability Buffer level to 2.50% effective October 31, 2021",
+  "publication_type": "Letter",
+  "category": "",
+  "document_date_raw": "June 17, 2021",
+  "document_date_iso": "2021-06-17",
+  "sector": [
+    "Banks"
+  ],
+  "effective_date_text": "",
+  "guideline_number": "",
+  "date_modified_raw": "2021-06-17T12:00:00Z",
+  "generate_pdf_url": "https://www.osfi-bsif.gc.ca/en/print/pdf/node/443",
+  "pdf_node_id": 443,
+  "direct_pdf_url": null,
+  "has_table_of_contents": true,
+  "toc_entries": [],
+  "has_related_documents": false,
+  "related_document_links_raw": [],
+  "consultation_status_text": null,
+  "consultation_status_refers_to_version": null,
+  "page_language": "en",
+  "word_count_raw_body": 321,
+  "doc_id": "osfi.dsb.2021.transmittal",
+  "doc_family_id": "osfi.dsb",
+  "version_id": "2021",
+  "version_label": "OSFI sets the Domestic Stability Buffer level to 2.50% effec",
+  "version_sort_key": "2021-06",
+  "parent_doc_id": null,
+  "child_doc_ids": [],
+  "is_package_page": false,
+  "is_chapter_page": false,
+  "chapter_number": null,
+  "chapter_title": null,
+  "document_order_within_family": 0,
+  "supersedes_doc_id": null,
+  "superseded_by_doc_id": "osfi.dsb.2025.transmittal",
+  "current_version_flag": false,
+  "status": "superseded",
+  "include_in_primary_corpus": false,
+  "include_in_support_corpus": true,
+  "include_in_context_corpus": false,
+  "effective_date_start": "2021-06-17",
+  "effective_date_end": null,
+  "effective_date_fye_split": false,
+  "effective_date_oct_fye": null,
+  "effective_date_dec_fye": null,
+  "is_future_effective": false,
+  "is_rescinded": false,
+  "is_draft_or_consultation": false,
+  "rescission_date": null,
+  "consultation_closing_date": null,
+  "as_of_applicability": "2026-03-23",
+  "rule_applied": "rule_7_superseded",
+  "authority_class": "official_support",
+  "authority_level": 60,
+  "nova_tier": 2,
+  "prudential_weight": 0.7,
+  "is_primary_normative": false,
+  "is_supporting_interpretive": true,
+  "is_context_only": false,
+  "document_class": "transmittal_letter",
+  "guidance_type_normalized": "letter",
+  "section_headings": [],
+  "heading_path": [
+    "OSFI sets the Domestic Stability Buffer level to 2.50% effective October 31, 2021"
+  ],
+  "toc_depth": 0,
+  "has_appendices": false,
+  "appendix_ids": [],
+  "has_tables": false,
+  "table_count": 0,
+  "has_footnotes": false,
+  "footnote_count": 0,
+  "inline_cross_references": [],
+  "quoted_external_references": [],
+  "raw_html_sha256": "d731f8f3c4967479bcec0e2a4f77cacd69205d1ed4ec09a5e2ad29c69577d1be",
+  "raw_pdf_sha256": null,
+  "normalized_text_sha256": null,
+  "raw_html_path": "bronze/osfi/html/final_current/osfi-sets-domestic-stability-buffer-level-250-effective-october-31-2021.html",
+  "normalized_md_path": "silver/osfi/md/final_current/osfi-sets-domestic-stability-buffer-level-250-effective-october-31-2021.md",
+  "canonical_json_path": "silver/osfi/json/final_current/osfi-sets-domestic-stability-buffer-level-250-effective-october-31-2021.json",
+  "content_source": "HTML",
+  "parser_version": "osfi-parser-v2.1.0",
+  "normalizer_version": "osfi-normalizer-v1.4.0",
+  "quality_score": 0.5,
+  "quality_flags": [
+    "thin_body_text"
+  ],
+  "download_timestamp": "2026-03-11T00:00:00Z",
+  "enriched_timestamp": "2026-03-23T09:53:57.887256Z",
+  "sections": [
+    {
+      "heading": "",
+      "heading_level": 2,
+      "full_text": "To: Domestic Systemically Important Banks (D-SIBs)\nThe purpose of this letter is to inform you that, following its semi-annual review, OSFI is setting the level of the Domestic Stability Buffer to 2.50% of total risk-weighted assets effective October 31, 2021, as calculated under the Capital Adequacy Requirements (CAR) Guideline.\nOn March 13, 2020, OSFI communicated its decision to set the buffer at 1.00% in response to the challenges posed by COVID-19 and prevailing market conditions. OSFI indicated that no increases to the buffer would take effect for at least 18 months from that date. On both June 23, 2020 and December 8, 2020, as part of the scheduled semi-annual reviews, OSFI announced that it would maintain the buffer at 1.00%.\nThe Domestic Stability Buffer supports an effective capital regime where capital is set aside in response to the vulnerabilities in the financial system, while still providing banks with capacity to lend and support economic recovery.\nThe Domestic Stability Buffer contributes to Domestic Systemically Important Banks' (D-SIBs) resilience to key vulnerabilities and system-wide risks, thereby contributing to financial stability. The March 2020 reduction of the buffer was effective in responding to the disruption associated with the pandemic. Since that time, the D-SIBs have demonstrated resilience and continued lending to credit-worthy households and businesses. Today’s decision to increase the buffer to 2.50% reflects OSFI’s assessment that key vulnerabilities are increasing and remain elevated while economic and financial market conditions have improved from the stressed levels observed through the pandemic.\nThe Domestic Stability Buffer applies only to those federally regulated financial institutions designated as Domestic Systemically Important Banks (D-SIBs) The following federally regulated financial institutions are designated as Domestic Systemically Important Banks: Bank of Montreal, Bank of Nova Scotia, Canadian Imperial Bank of Commerce, National Bank of Canada, Royal Bank of Canada, and Toronto-Dominion Bank. .\nThe Domestic Stability Buffer level will be set to 2.50 % of risk-weighted assets effective October 31, 2021.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "To: Domestic Systemically Important Banks (D-SIBs)"
+        },
+        {
+          "type": "paragraph",
+          "text": "The purpose of this letter is to inform you that, following its semi-annual review, OSFI is setting the level of the Domestic Stability Buffer to 2.50% of total risk-weighted assets effective October 31, 2021, as calculated under the Capital Adequacy Requirements (CAR) Guideline."
+        },
+        {
+          "type": "paragraph",
+          "text": "On March 13, 2020, OSFI communicated its decision to set the buffer at 1.00% in response to the challenges posed by COVID-19 and prevailing market conditions. OSFI indicated that no increases to the buffer would take effect for at least 18 months from that date. On both June 23, 2020 and December 8, 2020, as part of the scheduled semi-annual reviews, OSFI announced that it would maintain the buffer at 1.00%."
+        },
+        {
+          "type": "paragraph",
+          "text": "The Domestic Stability Buffer supports an effective capital regime where capital is set aside in response to the vulnerabilities in the financial system, while still providing banks with capacity to lend and support economic recovery."
+        },
+        {
+          "type": "paragraph",
+          "text": "The Domestic Stability Buffer contributes to Domestic Systemically Important Banks' (D-SIBs) resilience to key vulnerabilities and system-wide risks, thereby contributing to financial stability. The March 2020 reduction of the buffer was effective in responding to the disruption associated with the pandemic. Since that time, the D-SIBs have demonstrated resilience and continued lending to credit-worthy households and businesses. Today’s decision to increase the buffer to 2.50% reflects OSFI’s assessment that key vulnerabilities are increasing and remain elevated while economic and financial market conditions have improved from the stressed levels observed through the pandemic."
+        },
+        {
+          "type": "paragraph",
+          "text": "The Domestic Stability Buffer applies only to those federally regulated financial institutions designated as Domestic Systemically Important Banks (D-SIBs) The following federally regulated financial institutions are designated as Domestic Systemically Important Banks: Bank of Montreal, Bank of Nova Scotia, Canadian Imperial Bank of Commerce, National Bank of Canada, Royal Bank of Canada, and Toronto-Dominion Bank. ."
+        },
+        {
+          "type": "paragraph",
+          "text": "The Domestic Stability Buffer level will be set to 2.50 % of risk-weighted assets effective October 31, 2021."
+        }
+      ]
+    }
+  ],
+  "title_normalized": "osfi sets the domestic stability buffer level to 250 effective october 31 2021",
+  "publication_type_normalized": "letter",
+  "category_normalized": "",
+  "sector_normalized": [
+    "banks"
+  ],
+  "guideline_number_normalized": "",
+  "applies_to_banks": true,
+  "applies_to_trust_loan": false,
+  "applies_to_life_insurance": false,
+  "applies_to_pc_insurance": false,
+  "applies_to_foreign_bank": false,
+  "applies_to_foreign_insurance": false,
+  "applies_to_cooperative": false,
+  "applies_to_bank_holding": false,
+  "effective_date_sort_key": "2021-06-17",
+  "status_sort_key": 1,
+  "authority_sort_key": 60,
+  "bm25_text": "OSFI sets the Domestic Stability Buffer level to 2.50% effective October 31, 2021 Letter Banks",
+  "vector_text_prefix": "[OSFI Letter  |  | Banks | FINAL_CURRENT | Effective 2021-06-17]",
+  "h1_title": "OSFI sets the Domestic Stability Buffer level to 2.50% effective October 31, 2021",
+  "regulator": "OSFI",
+  "regulator_acronym": "OSFI",
+  "jurisdiction": "Canada",
+  "short_title": "",
+  "source_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/osfi-sets-domestic-stability-buffer-level-250-effective-october-31-2021"
+}

@@ -1,0 +1,949 @@
+{
+  "source_system": "osfi_guidance_library",
+  "library_row_title": "Life Insurance Capital Adequacy Test (2025) – Chapter 9 Participating and Adjustable Products",
+  "library_row_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/life-insurance-capital-adequacy-test-2025-chapter-9-participating-adjustable-products",
+  "listing_date_raw": "Issue date November 21, 2024",
+  "listing_date_iso": "",
+  "listing_publication_type": "Guideline",
+  "listing_category": "Capital Adequacy Requirements",
+  "listing_sector": [
+    "Life Insurance and Fraternal Companies"
+  ],
+  "crawl_timestamp": "2026-03-11T00:00:00Z",
+  "detail_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/life-insurance-capital-adequacy-test-2025-chapter-9-participating-adjustable-products",
+  "canonical_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/life-insurance-capital-adequacy-test-2025-chapter-9-participating-adjustable-products",
+  "slug": "life-insurance-capital-adequacy-test-2025-chapter-9-participating-adjustable-products",
+  "title": "Life Insurance Capital Adequacy Test (2025) – Chapter 9 Participating and Adjustable Products",
+  "publication_type": "Guideline",
+  "category": "Capital Adequacy Requirements",
+  "document_date_raw": "Issue date November 21, 2024",
+  "document_date_iso": "",
+  "sector": [
+    "Life Insurance and Fraternal Companies"
+  ],
+  "effective_date_text": "",
+  "guideline_number": "",
+  "date_modified_raw": "2025-01-01T12:00:00Z",
+  "generate_pdf_url": null,
+  "pdf_node_id": null,
+  "direct_pdf_url": "https://www.osfi-bsif.gc.ca/sites/default/files/documents/2025-licat-guideline-ligne-directrice-tsav-en.pdf",
+  "has_table_of_contents": true,
+  "toc_entries": [],
+  "has_related_documents": true,
+  "related_document_links_raw": [
+    {
+      "title": "Life Insurance Capital Adequacy Test – Backgrounder (2025)",
+      "url": "https://www.osfi-bsif.gc.ca/en/news/backgrounder-final-life-insurance-capital-adequacy-test-licat-guideline-2025"
+    },
+    {
+      "title": "Life Insurance Capital Adequacy Test – Letter (2025)",
+      "url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/life-insurance-capital-adequacy-test-2025-letter"
+    },
+    {
+      "title": "Life Insurance Capital Adequacy Test – Filing Instructions (2025)",
+      "url": "https://www.osfi-bsif.gc.ca/en/data-forms/reporting-returns/filing-financial-returns/financial-reporting-instructions/2025-life-insurance-capital-adequacy-test-filing-instructions-0"
+    }
+  ],
+  "consultation_status_text": null,
+  "consultation_status_refers_to_version": null,
+  "page_language": "en",
+  "word_count_raw_body": 5287,
+  "doc_id": "osfi.licat.2025.chapter9.chapter",
+  "doc_family_id": "osfi.licat",
+  "version_id": "2025",
+  "version_label": "Life Insurance Capital Adequacy Test (2025) – Chapter 9 Part",
+  "version_sort_key": "2025-11",
+  "parent_doc_id": "osfi.licat.2025.package",
+  "child_doc_ids": [],
+  "is_package_page": false,
+  "is_chapter_page": true,
+  "chapter_number": 9,
+  "chapter_title": null,
+  "document_order_within_family": 9,
+  "supersedes_doc_id": null,
+  "superseded_by_doc_id": null,
+  "current_version_flag": true,
+  "status": "final_current",
+  "include_in_primary_corpus": true,
+  "include_in_support_corpus": false,
+  "include_in_context_corpus": false,
+  "effective_date_start": "2024-11-21",
+  "effective_date_end": null,
+  "effective_date_fye_split": false,
+  "effective_date_oct_fye": null,
+  "effective_date_dec_fye": null,
+  "is_future_effective": false,
+  "is_rescinded": false,
+  "is_draft_or_consultation": false,
+  "rescission_date": null,
+  "consultation_closing_date": null,
+  "as_of_applicability": "2026-03-23",
+  "rule_applied": "rule_5_final_current",
+  "authority_class": "primary_normative",
+  "authority_level": 100,
+  "nova_tier": 1,
+  "prudential_weight": 1.0,
+  "is_primary_normative": true,
+  "is_supporting_interpretive": false,
+  "is_context_only": false,
+  "document_class": "chapter_guideline",
+  "guidance_type_normalized": "guideline",
+  "section_headings": [
+    {
+      "level": 2,
+      "text": "Note",
+      "id": "h2-0"
+    },
+    {
+      "level": 3,
+      "text": "9.1.1. Conditions for the par credit",
+      "id": "h3-1"
+    },
+    {
+      "level": 3,
+      "text": "9.1.2. Calculation of the par credit for a block",
+      "id": "h3-2"
+    },
+    {
+      "level": 4,
+      "text": "Example: Par credit",
+      "id": "h4-3"
+    },
+    {
+      "level": 3,
+      "text": "9.2.1. Conditions for the adjustable credit",
+      "id": "h3-4"
+    },
+    {
+      "level": 3,
+      "text": "9.2.2. Calculation of the adjustable credit",
+      "id": "h3-5"
+    },
+    {
+      "level": 4,
+      "text": "Example: Adjustable credit",
+      "id": "h4-6"
+    },
+    {
+      "level": 2,
+      "text": "9.3. Participating products that are contractually adjustable",
+      "id": "h2-7"
+    },
+    {
+      "level": 2,
+      "text": "Footnotes",
+      "id": "h2-8"
+    }
+  ],
+  "heading_path": [
+    "Life Insurance Capital Adequacy Test (2025) – Chapter 9 Participating and Adjustable Products"
+  ],
+  "toc_depth": 4,
+  "has_appendices": false,
+  "appendix_ids": [],
+  "has_tables": true,
+  "table_count": 5,
+  "has_footnotes": true,
+  "footnote_count": 1,
+  "inline_cross_references": [],
+  "quoted_external_references": [],
+  "raw_html_sha256": "b6067151f567078c6b1bf9e6b77863b72f49e619c6695f7aeba176535103b9a4",
+  "raw_pdf_sha256": null,
+  "normalized_text_sha256": null,
+  "raw_html_path": "bronze/osfi/html/final_current/life-insurance-capital-adequacy-test-2025-chapter-9-participating-adjustable-products.html",
+  "normalized_md_path": "silver/osfi/md/final_current/life-insurance-capital-adequacy-test-2025-chapter-9-participating-adjustable-products.md",
+  "canonical_json_path": "silver/osfi/json/final_current/life-insurance-capital-adequacy-test-2025-chapter-9-participating-adjustable-products.json",
+  "content_source": "HTML",
+  "parser_version": "osfi-parser-v2.1.0",
+  "normalizer_version": "osfi-normalizer-v1.4.0",
+  "quality_score": 1.0,
+  "quality_flags": [],
+  "download_timestamp": "2026-03-11T00:00:00Z",
+  "enriched_timestamp": "2026-03-23T09:53:54.217734Z",
+  "sections": [
+    {
+      "heading": "",
+      "heading_level": 2,
+      "full_text": "  - Life Insurance Capital Adequacy Test – Backgrounder (2025)\n  - Life Insurance Capital Adequacy Test – Letter (2025)\n  - Life Insurance Capital Adequacy Test – Filing Instructions (2025)",
+      "content": [
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Life Insurance Capital Adequacy Test – Backgrounder (2025)",
+            "Life Insurance Capital Adequacy Test – Letter (2025)",
+            "Life Insurance Capital Adequacy Test – Filing Instructions (2025)"
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "Note",
+      "heading_level": 2,
+      "full_text": "A Regulatory Notice on Adjustments to the Life Insurance Capital Adequacy Test – Guideline (2025) was published and became effective on May 22, 2025. These adjustments are expected to be incorporated in the next version of the LICAT guideline.\nRequired capital components for participating and adjustable products are calculated in the prior chapters as if the products were non-participating and non-adjustable. However, participating and adjustable policies allow insurers to share risk with policyholders through discretionary benefits. Therefore, insurers may include credits for participating products (par credit) and for contractually adjustable policies (adjustable credit) in the calculation of the Base Solvency Buffer provided certain conditions are met.\nAn insurer should calculate the credit for participating products by geographic region. However, if not all participating products within a region are homogeneous with respect to the risks that are passed through to policyholders via reductions in dividends, it will be necessary for the insurer to partition its participating business within the region into separate blocks that are homogeneous with respect to the risks passed through to policyholders. Footnote 1 A partitioned block may contain assets and liabilities whose risks are not passed through to policyholders (e.g. risk adjustments, policy loans, amounts on deposit). A standalone capital requirement net of par credit is calculated for each participating block.\nThe adjustable credit is calculated for each adjustable product within a geographic region.\nA non-trivial reduction in dividends or significant adjustments made to adjustable features may result in other adverse impacts (second-order effects) due to lapses, anti-selection, unit expense increases or legal action undertaken by policyholders. Such second-order effects should not be reflected in cash flows when calculating the credit for participating and adjustable products.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "A Regulatory Notice on Adjustments to the Life Insurance Capital Adequacy Test – Guideline (2025) was published and became effective on May 22, 2025. These adjustments are expected to be incorporated in the next version of the LICAT guideline."
+        },
+        {
+          "type": "paragraph",
+          "text": "Required capital components for participating and adjustable products are calculated in the prior chapters as if the products were non-participating and non-adjustable. However, participating and adjustable policies allow insurers to share risk with policyholders through discretionary benefits. Therefore, insurers may include credits for participating products (par credit) and for contractually adjustable policies (adjustable credit) in the calculation of the Base Solvency Buffer provided certain conditions are met."
+        },
+        {
+          "type": "paragraph",
+          "text": "An insurer should calculate the credit for participating products by geographic region. However, if not all participating products within a region are homogeneous with respect to the risks that are passed through to policyholders via reductions in dividends, it will be necessary for the insurer to partition its participating business within the region into separate blocks that are homogeneous with respect to the risks passed through to policyholders. Footnote 1 A partitioned block may contain assets and liabilities whose risks are not passed through to policyholders (e.g. risk adjustments, policy loans, amounts on deposit). A standalone capital requirement net of par credit is calculated for each participating block."
+        },
+        {
+          "type": "paragraph",
+          "text": "The adjustable credit is calculated for each adjustable product within a geographic region."
+        },
+        {
+          "type": "paragraph",
+          "text": "A non-trivial reduction in dividends or significant adjustments made to adjustable features may result in other adverse impacts (second-order effects) due to lapses, anti-selection, unit expense increases or legal action undertaken by policyholders. Such second-order effects should not be reflected in cash flows when calculating the credit for participating and adjustable products."
+        }
+      ]
+    },
+    {
+      "heading": "9.1.1. Conditions for the par credit",
+      "heading_level": 3,
+      "full_text": "A par credit may be used to reduce the required capital for a block of participating policies provided that the experience with respect to specified risk elements is incorporated into the annual dividend adjustment process in a consistent manner from year to year. A par credit may be taken for the block only if the following three criteria are met:\n  1. The insurer's participating dividend policy must be publicly disclosed and must make clear that policyholder dividends are not guaranteed and will be adjusted to reflect actual experience. The insurer should publicly disclose the elements of actual experience that are incorporated in the annual dividend adjustment process. Insurers should disclose all material elements and indicate whether and how the risks are passed through to the policyholders (e.g., investment income, asset defaults, mortality, lapses and expenses).\n  2. The insurer should regularly (at least once a year) review the policyholder dividend scale in relation to the actual experience of the participating account (i.e., including all blocks of business). The insurer should be able to demonstrate to the satisfaction of OSFI which individual elements of actual experience, to the extent that they were not anticipated in the current dividend scale, have been passed through in the annual dividend adjustment. Furthermore, the insurer should be able to demonstrate that shortfalls in actual overall experience, to the extent that they are not fully absorbed by any additional positive reserves or other similar experience levelling mechanisms Footnote 2 , are recovered Footnote 3 on a present value basis through level or declining reductions in the dividend scale Footnote 4 . The dividend scale reductions required to effect recovery must be made within two years from when the shortfall occurs.\n  3. The insurer should be able to demonstrate to OSFI that it follows the dividend policy and practices referred to above.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "A par credit may be used to reduce the required capital for a block of participating policies provided that the experience with respect to specified risk elements is incorporated into the annual dividend adjustment process in a consistent manner from year to year. A par credit may be taken for the block only if the following three criteria are met:"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "The insurer's participating dividend policy must be publicly disclosed and must make clear that policyholder dividends are not guaranteed and will be adjusted to reflect actual experience. The insurer should publicly disclose the elements of actual experience that are incorporated in the annual dividend adjustment process. Insurers should disclose all material elements and indicate whether and how the risks are passed through to the policyholders (e.g., investment income, asset defaults, mortality, lapses and expenses).",
+            "The insurer should regularly (at least once a year) review the policyholder dividend scale in relation to the actual experience of the participating account (i.e., including all blocks of business). The insurer should be able to demonstrate to the satisfaction of OSFI which individual elements of actual experience, to the extent that they were not anticipated in the current dividend scale, have been passed through in the annual dividend adjustment. Furthermore, the insurer should be able to demonstrate that shortfalls in actual overall experience, to the extent that they are not fully absorbed by any additional positive reserves or other similar experience levelling mechanisms Footnote 2 , are recovered Footnote 3 on a present value basis through level or declining reductions in the dividend scale Footnote 4 . The dividend scale reductions required to effect recovery must be made within two years from when the shortfall occurs.",
+            "The insurer should be able to demonstrate to OSFI that it follows the dividend policy and practices referred to above."
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "9.1.2. Calculation of the par credit for a block",
+      "heading_level": 3,
+      "full_text": "The par credit for a qualifying block of par business takes into account the present value of restated dividend cash flows. The par credit CP i for the block that is used to calculate the Base Solvency Buffer (q.v. section 11.3) is given by Footnote 5 :\nCP i = min [ K i − K i reduced interest + ( 1 − IRR ¯ i par max ( C ¯ i adverse , IRR ¯ i par ) ) C i initial , K i − K i floor ]\nwhere:\n  - C i initial is 75% of the present value of restated dividend cash flows for the block used in the interest rate risk calculation (q.v. section 5.1.3.3), discounted using the Initial Scenario Discount Rates in section 5.1.1\n  - C ¯ i adverse is defined by: C ¯ i adverse = 1 6 ∑ q = 1 6 C i adverse in quarter q which represents the six-quarter rolling average of C i adverse taken over the current quarter and the previous five quarters. For each quarter, the quantity C i adverse is equal to 75% of the present value of restated dividend cash flows for the block used in the interest rate risk calculation, discounted using the rates under the most adverse scenario that determines the requirement for interest rate risk in that quarter Footnote 6\n  - IRR ¯ i par is the interest rate risk requirement (q.v. section 5.1.2.3) for the block\n  - K i is the adjusted diversified requirement K for the block (q.v. section 11.2)\n  - K i reduced interest is the adjusted diversified requirement K for all risks in the block, with the interest rate risk component reduced. This quantity is calculated by setting the interest rate risk component of the block to max ( IRR ¯ i par − C ¯ i adverse , 0 ) , and leaving all other risk components unchanged.\n  - K i floor is the minimum adjusted diversified requirement for the block. This quantity is calculated by aggregating, within the calculation of K Footnote 7 : 100% of the requirements for all risks in the block that cannot be passed through to policyholders by making adjustments to the dividend scale Footnote 8 5% of the interest rate risk requirement for the block, if interest rate risk can be passed through to policyholders by making adjustments to the dividend scale 30% of all other risk components that can be passed through to policyholders by making adjustments to the dividend scale.\nC ¯ i adverse = 1 6 ∑ q = 1 6 C i adverse in quarter q\nwhich represents the six-quarter rolling average of C i adverse taken over the current quarter and the previous five quarters. For each quarter, the quantity C i adverse is equal to 75% of the present value of restated dividend cash flows for the block used in the interest rate risk calculation, discounted using the rates under the most adverse scenario that determines the requirement for interest rate risk in that quarter Footnote 6\n  1. 100% of the requirements for all risks in the block that cannot be passed through to policyholders by making adjustments to the dividend scale Footnote 8\n  2. 5% of the interest rate risk requirement for the block, if interest rate risk can be passed through to policyholders by making adjustments to the dividend scale\n  3. 30% of all other risk components that can be passed through to policyholders by making adjustments to the dividend scale.\nFor a block that has assets and liabilities for which interest rate risk is passed through to policyholders, and other assets and liabilities for which interest rate risk is not passed through to policyholders, the combined amount for i) and ii) above that should be used for the interest rate risk requirement in calculating K i floor is:\n100 % × IRR ¯ i par npt + 5 % × max ( IRR ¯ i par − IRR ¯ i par npt , 0 )\nWhere IRR i par npt is as defined in section 5.1.2.3.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "The par credit for a qualifying block of par business takes into account the present value of restated dividend cash flows. The par credit CP i for the block that is used to calculate the Base Solvency Buffer (q.v. section 11.3) is given by Footnote 5 :"
+        },
+        {
+          "type": "paragraph",
+          "text": "CP i = min [ K i − K i reduced interest + ( 1 − IRR ¯ i par max ( C ¯ i adverse , IRR ¯ i par ) ) C i initial , K i − K i floor ]"
+        },
+        {
+          "type": "paragraph",
+          "text": "where:"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "C i initial is 75% of the present value of restated dividend cash flows for the block used in the interest rate risk calculation (q.v. section 5.1.3.3), discounted using the Initial Scenario Discount Rates in section 5.1.1",
+            "C ¯ i adverse is defined by: C ¯ i adverse = 1 6 ∑ q = 1 6 C i adverse in quarter q which represents the six-quarter rolling average of C i adverse taken over the current quarter and the previous five quarters. For each quarter, the quantity C i adverse is equal to 75% of the present value of restated dividend cash flows for the block used in the interest rate risk calculation, discounted using the rates under the most adverse scenario that determines the requirement for interest rate risk in that quarter Footnote 6",
+            "IRR ¯ i par is the interest rate risk requirement (q.v. section 5.1.2.3) for the block",
+            "K i is the adjusted diversified requirement K for the block (q.v. section 11.2)",
+            "K i reduced interest is the adjusted diversified requirement K for all risks in the block, with the interest rate risk component reduced. This quantity is calculated by setting the interest rate risk component of the block to max ( IRR ¯ i par − C ¯ i adverse , 0 ) , and leaving all other risk components unchanged.",
+            "K i floor is the minimum adjusted diversified requirement for the block. This quantity is calculated by aggregating, within the calculation of K Footnote 7 : 100% of the requirements for all risks in the block that cannot be passed through to policyholders by making adjustments to the dividend scale Footnote 8 5% of the interest rate risk requirement for the block, if interest rate risk can be passed through to policyholders by making adjustments to the dividend scale 30% of all other risk components that can be passed through to policyholders by making adjustments to the dividend scale."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "C ¯ i adverse = 1 6 ∑ q = 1 6 C i adverse in quarter q"
+        },
+        {
+          "type": "paragraph",
+          "text": "which represents the six-quarter rolling average of C i adverse taken over the current quarter and the previous five quarters. For each quarter, the quantity C i adverse is equal to 75% of the present value of restated dividend cash flows for the block used in the interest rate risk calculation, discounted using the rates under the most adverse scenario that determines the requirement for interest rate risk in that quarter Footnote 6"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "100% of the requirements for all risks in the block that cannot be passed through to policyholders by making adjustments to the dividend scale Footnote 8",
+            "5% of the interest rate risk requirement for the block, if interest rate risk can be passed through to policyholders by making adjustments to the dividend scale",
+            "30% of all other risk components that can be passed through to policyholders by making adjustments to the dividend scale."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "For a block that has assets and liabilities for which interest rate risk is passed through to policyholders, and other assets and liabilities for which interest rate risk is not passed through to policyholders, the combined amount for i) and ii) above that should be used for the interest rate risk requirement in calculating K i floor is:"
+        },
+        {
+          "type": "paragraph",
+          "text": "100 % × IRR ¯ i par npt + 5 % × max ( IRR ¯ i par − IRR ¯ i par npt , 0 )"
+        },
+        {
+          "type": "paragraph",
+          "text": "Where IRR i par npt is as defined in section 5.1.2.3."
+        }
+      ]
+    },
+    {
+      "heading": "Example: Par credit",
+      "heading_level": 4,
+      "full_text": "Suppose that a participating block of business has the following risk components, and that the interest rate risk component has remained level over the previous five quarters:\nTable: Life insurance risk component calculation (before diversification adjustment)\nLife insurance risk | Gross component ( IR i ) | Level and trend components ( LT i ) | IR i − 0.5 × LT i\nMortality | 750,000 | 300,000 | 600,000\nLongevity | 0 | 0 | 0\nMorbidity incidence | 0 | 0 | 0\nMorbidity termination | 0 | 0 | 0\nLapse sensitive | 500,000 | 200,000 | 400,000\nLapse supported | 0 | 0 | 0\nLapse sensitive: seg. fund guarantee | 0 | 0 | 0\nLapse supported: seg. fund guarantee | 0 | 0 | 0\nExpense | 50,000 | 0 | 50,000\nTotals | 1,300,000 | 500,000 | N/A\nTable: Other risk component calculation (before diversification adjustment)\nOther risks | Component\nCredit risk | 300,000\nInterest rate risk ( IRR ) | 400,000\nOther market risks | 250,000\nProperty and casualty risk | 0\nSuppose further that, in the current quarter and previous five quarters, the present value of restated dividends for the block under the initial scenario is 800,000, and that this present value moves to 1,200,000 under the adverse scenario that determines the requirement for interest rate risk. The quantity C initial for the block is therefore 75% × 800,000 = 600,000, and C ¯ adverse is 75% × 1,200,000 = 900,000. Finally, suppose that all risks associated with the block except mortality risk are passed through to policyholders through dividend adjustments.\nThe requirement K for this block is equal to 1,913,436 (the intermediate quantities in the calculation are I = 832,166, D = 1,544,525, and U = 2,250,000; refer to section 11.2.4 for an example that shows the steps in the calculation of K ). Since IRR ¯ < C ¯ adverse for the block, the requirement K reduced interest is the requirement K for the block recalculated using an interest rate risk requirement of 0, and is equal to 1,565,813 ( I = 832,166, D = 1,205,277, U = 1,850,000). The potential credit as a function of the dividend absorption capacity is therefore:\n1,913,436 − 1,565,813 + ( 1 − 400,000 900,000 ) × 600,000 = 680,956\nSince all risks except for mortality risk are passed through to policyholders, the requirement K floor for the block is calculated using 100% of the requirement for mortality risk, 5% of the requirement for interest rate risk, and 30% of the requirements for all other risks:\nTable: Life insurance risk component calculation (after diversification adjustment)\nLife insurance risk | Gross component ( IR i ) | Level and trend components ( LT i ) | IR i − 0.5 × LT i\nMortality | 750,000 | 300,000 | 600,000\nLongevity | 0 | 0 | 0\nMorbidity incidence | 0 | 0 | 0\nMorbidity termination | 0 | 0 | 0\nLapse sensitive | 150,000 | 60,000 | 120,000\nLapse supported | 0 | 0 | 0\nLapse sensitive: seg. fund guarantee | 0 | 0 | 0\nLapse supported: seg. fund guarantee | 0 | 0 | 0\nExpense | 15,000 | 0 | 15,000\nTotals | 915,000 | 360,000 | N/A\nTable: Other risk component calculation (after diversification adjustment)\nOther risks | Component\nCredit risk | 90,000\nInterest rate risk ( IRR ¯ ) | 20,000\nOther market risks | 75,000\nProperty and casualty risk | 0\nThe value of K floor is therefore 972,406 ( I = 649,173, D = 758,780, U = 1,100,000), and the maximum credit as a function of the requirements above the LICAT floors is:\n1,913,436 − 972,406 = 941,030\nThe par credit CP for the block is equal to the lower of the two amounts, which is 680,956.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Suppose that a participating block of business has the following risk components, and that the interest rate risk component has remained level over the previous five quarters:"
+        },
+        {
+          "type": "table",
+          "caption": "Life insurance risk component calculation (before diversification adjustment)",
+          "rows": [
+            [
+              "Life insurance risk",
+              "Gross component ( IR i )",
+              "Level and trend components ( LT i )",
+              "IR i − 0.5 × LT i"
+            ],
+            [
+              "Mortality",
+              "750,000",
+              "300,000",
+              "600,000"
+            ],
+            [
+              "Longevity",
+              "0",
+              "0",
+              "0"
+            ],
+            [
+              "Morbidity incidence",
+              "0",
+              "0",
+              "0"
+            ],
+            [
+              "Morbidity termination",
+              "0",
+              "0",
+              "0"
+            ],
+            [
+              "Lapse sensitive",
+              "500,000",
+              "200,000",
+              "400,000"
+            ],
+            [
+              "Lapse supported",
+              "0",
+              "0",
+              "0"
+            ],
+            [
+              "Lapse sensitive: seg. fund guarantee",
+              "0",
+              "0",
+              "0"
+            ],
+            [
+              "Lapse supported: seg. fund guarantee",
+              "0",
+              "0",
+              "0"
+            ],
+            [
+              "Expense",
+              "50,000",
+              "0",
+              "50,000"
+            ],
+            [
+              "Totals",
+              "1,300,000",
+              "500,000",
+              "N/A"
+            ]
+          ]
+        },
+        {
+          "type": "table",
+          "caption": "Other risk component calculation (before diversification adjustment)",
+          "rows": [
+            [
+              "Other risks",
+              "Component"
+            ],
+            [
+              "Credit risk",
+              "300,000"
+            ],
+            [
+              "Interest rate risk ( IRR )",
+              "400,000"
+            ],
+            [
+              "Other market risks",
+              "250,000"
+            ],
+            [
+              "Property and casualty risk",
+              "0"
+            ]
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Suppose further that, in the current quarter and previous five quarters, the present value of restated dividends for the block under the initial scenario is 800,000, and that this present value moves to 1,200,000 under the adverse scenario that determines the requirement for interest rate risk. The quantity C initial for the block is therefore 75% × 800,000 = 600,000, and C ¯ adverse is 75% × 1,200,000 = 900,000. Finally, suppose that all risks associated with the block except mortality risk are passed through to policyholders through dividend adjustments."
+        },
+        {
+          "type": "paragraph",
+          "text": "The requirement K for this block is equal to 1,913,436 (the intermediate quantities in the calculation are I = 832,166, D = 1,544,525, and U = 2,250,000; refer to section 11.2.4 for an example that shows the steps in the calculation of K ). Since IRR ¯ < C ¯ adverse for the block, the requirement K reduced interest is the requirement K for the block recalculated using an interest rate risk requirement of 0, and is equal to 1,565,813 ( I = 832,166, D = 1,205,277, U = 1,850,000). The potential credit as a function of the dividend absorption capacity is therefore:"
+        },
+        {
+          "type": "paragraph",
+          "text": "1,913,436 − 1,565,813 + ( 1 − 400,000 900,000 ) × 600,000 = 680,956"
+        },
+        {
+          "type": "paragraph",
+          "text": "Since all risks except for mortality risk are passed through to policyholders, the requirement K floor for the block is calculated using 100% of the requirement for mortality risk, 5% of the requirement for interest rate risk, and 30% of the requirements for all other risks:"
+        },
+        {
+          "type": "table",
+          "caption": "Life insurance risk component calculation (after diversification adjustment)",
+          "rows": [
+            [
+              "Life insurance risk",
+              "Gross component ( IR i )",
+              "Level and trend components ( LT i )",
+              "IR i − 0.5 × LT i"
+            ],
+            [
+              "Mortality",
+              "750,000",
+              "300,000",
+              "600,000"
+            ],
+            [
+              "Longevity",
+              "0",
+              "0",
+              "0"
+            ],
+            [
+              "Morbidity incidence",
+              "0",
+              "0",
+              "0"
+            ],
+            [
+              "Morbidity termination",
+              "0",
+              "0",
+              "0"
+            ],
+            [
+              "Lapse sensitive",
+              "150,000",
+              "60,000",
+              "120,000"
+            ],
+            [
+              "Lapse supported",
+              "0",
+              "0",
+              "0"
+            ],
+            [
+              "Lapse sensitive: seg. fund guarantee",
+              "0",
+              "0",
+              "0"
+            ],
+            [
+              "Lapse supported: seg. fund guarantee",
+              "0",
+              "0",
+              "0"
+            ],
+            [
+              "Expense",
+              "15,000",
+              "0",
+              "15,000"
+            ],
+            [
+              "Totals",
+              "915,000",
+              "360,000",
+              "N/A"
+            ]
+          ]
+        },
+        {
+          "type": "table",
+          "caption": "Other risk component calculation (after diversification adjustment)",
+          "rows": [
+            [
+              "Other risks",
+              "Component"
+            ],
+            [
+              "Credit risk",
+              "90,000"
+            ],
+            [
+              "Interest rate risk ( IRR ¯ )",
+              "20,000"
+            ],
+            [
+              "Other market risks",
+              "75,000"
+            ],
+            [
+              "Property and casualty risk",
+              "0"
+            ]
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "The value of K floor is therefore 972,406 ( I = 649,173, D = 758,780, U = 1,100,000), and the maximum credit as a function of the requirements above the LICAT floors is:"
+        },
+        {
+          "type": "paragraph",
+          "text": "1,913,436 − 972,406 = 941,030"
+        },
+        {
+          "type": "paragraph",
+          "text": "The par credit CP for the block is equal to the lower of the two amounts, which is 680,956."
+        }
+      ]
+    },
+    {
+      "heading": "9.2.1. Conditions for the adjustable credit",
+      "heading_level": 3,
+      "full_text": "Products that are contractually adjustable qualify for a credit if all of the following conditions are met:\n  1. Contractual adjustability is at the sole discretion of the insurer.\n  2. All adjustable features associated with the products (e.g. premiums, fees and benefits) have been explicitly disclosed in the contract.\n  3. The insurer should regularly (at least once a year) review the product's experience and consider its potential impact on adjustments. Although the review and resulting adjustments may be for the most part forward-looking, the insurer should be able to demonstrate to the satisfaction of OSFI which individual elements of actual experience are considered in the review process.\n  4. The adjustability is reasonably flexible, and the insurer has tested the reasonable flexibility of the adjustable features in pricing the policy or subsequent to pricing the product. The test should demonstrate that the insurer is able to recuperate at least half of any unexpected insurance risk losses (defined as the product's marginal capital requirement for insurance risks minus its Surplus Allowance related to insurance risks) by comparing the price with and without future adjustments. Tests of adjustability may not take into consideration amounts recoverable through arrangements that are accorded a separate credit in the insurance risk components, such as hold harmless agreements, deposits made by policyholders or claims fluctuation reserves. The tests should be documented and available for review by OSFI on request, and should demonstrate, to the satisfaction of OSFI, that these conditions are met.\n  5. If an insurer takes credit for an adjustable feature, the insurer should have a documented internal policy on how it makes adjustments and the key considerations in making adjustments, including the consideration given to losses or shortfalls in actual overall experience. Any credit taken must be calculated consistently with the manner stated in the internal policy, and must reflect policies that, if followed, would reduce or restrict the adjustability otherwise permitted in the contract.\n  6. The insurer should be able to demonstrate to OSFI that it follows the adjustment policy and practices referred to above.\nA product that is only adjustable up to a certain age or has a one-time adjustment may be considered adjustable provided that it meets all other conditions. A credit may not be taken for an adjustment that is no longer available (e.g., used up or expired), or that the insurer would not exercise, according to its policy or past practices, in the event of adverse experience or loss.\nA product that is adjustable at the discretion of the insurer but that is also subject to third-party (e.g. regulatory) approval will be considered a qualifying adjustable product; however, such a product will receive a lower credit than other qualifying adjustable products that do not require third-party approval.\nA product with a solvency maintenance clause (e.g. certain non-participating products issued by fraternal benefit societies) may be considered a qualifying adjustable product provided that it meets all other conditions.\nA product with adjustable features that are not at the discretion of the insurer (such as formula or index based adjustments) is treated as non-adjustable business. Footnote 9",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Products that are contractually adjustable qualify for a credit if all of the following conditions are met:"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "Contractual adjustability is at the sole discretion of the insurer.",
+            "All adjustable features associated with the products (e.g. premiums, fees and benefits) have been explicitly disclosed in the contract.",
+            "The insurer should regularly (at least once a year) review the product's experience and consider its potential impact on adjustments. Although the review and resulting adjustments may be for the most part forward-looking, the insurer should be able to demonstrate to the satisfaction of OSFI which individual elements of actual experience are considered in the review process.",
+            "The adjustability is reasonably flexible, and the insurer has tested the reasonable flexibility of the adjustable features in pricing the policy or subsequent to pricing the product. The test should demonstrate that the insurer is able to recuperate at least half of any unexpected insurance risk losses (defined as the product's marginal capital requirement for insurance risks minus its Surplus Allowance related to insurance risks) by comparing the price with and without future adjustments. Tests of adjustability may not take into consideration amounts recoverable through arrangements that are accorded a separate credit in the insurance risk components, such as hold harmless agreements, deposits made by policyholders or claims fluctuation reserves. The tests should be documented and available for review by OSFI on request, and should demonstrate, to the satisfaction of OSFI, that these conditions are met.",
+            "If an insurer takes credit for an adjustable feature, the insurer should have a documented internal policy on how it makes adjustments and the key considerations in making adjustments, including the consideration given to losses or shortfalls in actual overall experience. Any credit taken must be calculated consistently with the manner stated in the internal policy, and must reflect policies that, if followed, would reduce or restrict the adjustability otherwise permitted in the contract.",
+            "The insurer should be able to demonstrate to OSFI that it follows the adjustment policy and practices referred to above."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "A product that is only adjustable up to a certain age or has a one-time adjustment may be considered adjustable provided that it meets all other conditions. A credit may not be taken for an adjustment that is no longer available (e.g., used up or expired), or that the insurer would not exercise, according to its policy or past practices, in the event of adverse experience or loss."
+        },
+        {
+          "type": "paragraph",
+          "text": "A product that is adjustable at the discretion of the insurer but that is also subject to third-party (e.g. regulatory) approval will be considered a qualifying adjustable product; however, such a product will receive a lower credit than other qualifying adjustable products that do not require third-party approval."
+        },
+        {
+          "type": "paragraph",
+          "text": "A product with a solvency maintenance clause (e.g. certain non-participating products issued by fraternal benefit societies) may be considered a qualifying adjustable product provided that it meets all other conditions."
+        },
+        {
+          "type": "paragraph",
+          "text": "A product with adjustable features that are not at the discretion of the insurer (such as formula or index based adjustments) is treated as non-adjustable business. Footnote 9"
+        }
+      ]
+    },
+    {
+      "heading": "9.2.2. Calculation of the adjustable credit",
+      "heading_level": 3,
+      "full_text": "The gross adjustable credit C j is calculated for two categories of qualifying products where there are contractually adjustable liability cash flows:\n  1. Products adjustable at the sole discretion of the insurer and that do not require third-party approval, and\n  2. Products adjustable at the sole discretion of the insurer and that do require third-party approval.\nThe gross adjustable credit is equal to the difference between non-adjusted cash flows and adjusted cash flows discounted using the Initial Scenario Discount Rates specified in section 5.1.1. For each adjustable feature within a contract, adjusted cash flows are based on the maximum possible adjustment for the contract within the contract boundary, up to a limit. The limit for each adjustable feature is set depending on whether adjustments to the feature require third-party approval or not.\nFor products with adjustable features that do not require third-party approval, the increases or decreases for each feature recognized in adjusted cash flows are capped at 50% of the feature's current level, phased-in on a straight line basis over a period of five years (i.e. 10% per year). Footnote 10 For products with adjustable features that do require third-party approval, the increases or decreases for each feature recognized in adjusted cash flows are capped at 30% of the current level, phased-in on a straight line basis over a period of five years after a delay period of two years (i.e. adjustments of 6% per year occur after a waiting period of two years). Footnote 11\nOnce the gross adjustable credit C j for a product has been calculated, the adjustable credit CA j for the product used to calculate the Base Solvency Buffer (q.v. section 11.3) is given by Footnote 12 :\nCA j = min [ C j , 0.7 × ( K non-par − K non-par excluding adjustable product j ) ]\nwhere:\n  - K non-par is the requirement K (q.v. section 11.2) calculated for the non-participating block, and\n  - K non-par excluding adjustable product j is the requirement Footnote 13 K for the non-participating block recalculated excluding the requirements for all of the qualifying adjustable product's insurance risks.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "The gross adjustable credit C j is calculated for two categories of qualifying products where there are contractually adjustable liability cash flows:"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "Products adjustable at the sole discretion of the insurer and that do not require third-party approval, and",
+            "Products adjustable at the sole discretion of the insurer and that do require third-party approval."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "The gross adjustable credit is equal to the difference between non-adjusted cash flows and adjusted cash flows discounted using the Initial Scenario Discount Rates specified in section 5.1.1. For each adjustable feature within a contract, adjusted cash flows are based on the maximum possible adjustment for the contract within the contract boundary, up to a limit. The limit for each adjustable feature is set depending on whether adjustments to the feature require third-party approval or not."
+        },
+        {
+          "type": "paragraph",
+          "text": "For products with adjustable features that do not require third-party approval, the increases or decreases for each feature recognized in adjusted cash flows are capped at 50% of the feature's current level, phased-in on a straight line basis over a period of five years (i.e. 10% per year). Footnote 10 For products with adjustable features that do require third-party approval, the increases or decreases for each feature recognized in adjusted cash flows are capped at 30% of the current level, phased-in on a straight line basis over a period of five years after a delay period of two years (i.e. adjustments of 6% per year occur after a waiting period of two years). Footnote 11"
+        },
+        {
+          "type": "paragraph",
+          "text": "Once the gross adjustable credit C j for a product has been calculated, the adjustable credit CA j for the product used to calculate the Base Solvency Buffer (q.v. section 11.3) is given by Footnote 12 :"
+        },
+        {
+          "type": "paragraph",
+          "text": "CA j = min [ C j , 0.7 × ( K non-par − K non-par excluding adjustable product j ) ]"
+        },
+        {
+          "type": "paragraph",
+          "text": "where:"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "K non-par is the requirement K (q.v. section 11.2) calculated for the non-participating block, and",
+            "K non-par excluding adjustable product j is the requirement Footnote 13 K for the non-participating block recalculated excluding the requirements for all of the qualifying adjustable product's insurance risks."
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "Example: Adjustable credit",
+      "heading_level": 4,
+      "full_text": "This example builds on the example presented at the end of section 11.2.4, where the requirement K non-par for a non-participating block of business within a geographic region is determined to be 1,982,800. If this block contains an adjustable product, in order to determine the adjustable credit for the product it is necessary to calculate the gross adjustable credit C , and to recalculate the block's insurance components with insurance risks related to the adjustable product excluded. Suppose that the gross adjustable credit is equal to 250,000, and that when the adjustable product's insurance risks are removed from the non-participating block, the block's recalculated insurance risk components are as follows:\nTable: Life insurance risk component calculation (after removing adjustable products)\nLife insurance risk | Gross component ( IR i ) excluding adjustable product | Level and trend components ( LT i ) excluding adjustable product | IR i − 0.5 × LT i\nMortality | 800,000 | 500,000 | 550,000\nLongevity | 3,000 | 3,000 | 1,500\nMorbidity incidence | 50,000 | 10,000 | 45,000\nMorbidity termination | 2,500 | 1,000 | 2,000\nLapse sensitive | 200,000 | 90,000 | 155,000\nLapse supported | 100,000 | 40,000 | 80,000\nLapse sensitive: seg. fund guarantee | 200,000 | 0 | 200,000\nLapse supported: seg. fund guarantee | 400,000 | 0 | 400,000\nExpense | 7,500 | 0 | 7,500\nTotals | 1,763,000 | 644,000 | N/A\nThe recalculation of the components I , D , U and K for the block then proceed as follows:\nI = ∑ i , j = 1 9 ρ i j × ( IR i − 0.5 × LT i ) × ( IR j − 0.5 × LT j ) + PC = 820,668 + 25,000 = 845,668\nA = 200,000 + 75,000 = 275,000 (unchanged)\nD = A 2 + AI + I 2 = 1,011,602\nU = ∑ i = 1 9 IR i + PC + A = 1,763,000 + 25,000 + 275,000 = 2,063,000\nLT = 644,000\nK non-par excluding adjustable product = 4 5 U + 1 10 LT + max ( 14 U − 7 LT − 62 D 60 + 2 D 2 2 U − LT , 0 ) = 1,714,800\nThe adjustable credit for the product is then:\nCA = min [ 250,000 , 0.7 × ( 1,982,800 − 1,714,800 ) ] = 187,600",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "This example builds on the example presented at the end of section 11.2.4, where the requirement K non-par for a non-participating block of business within a geographic region is determined to be 1,982,800. If this block contains an adjustable product, in order to determine the adjustable credit for the product it is necessary to calculate the gross adjustable credit C , and to recalculate the block's insurance components with insurance risks related to the adjustable product excluded. Suppose that the gross adjustable credit is equal to 250,000, and that when the adjustable product's insurance risks are removed from the non-participating block, the block's recalculated insurance risk components are as follows:"
+        },
+        {
+          "type": "table",
+          "caption": "Life insurance risk component calculation (after removing adjustable products)",
+          "rows": [
+            [
+              "Life insurance risk",
+              "Gross component ( IR i ) excluding adjustable product",
+              "Level and trend components ( LT i ) excluding adjustable product",
+              "IR i − 0.5 × LT i"
+            ],
+            [
+              "Mortality",
+              "800,000",
+              "500,000",
+              "550,000"
+            ],
+            [
+              "Longevity",
+              "3,000",
+              "3,000",
+              "1,500"
+            ],
+            [
+              "Morbidity incidence",
+              "50,000",
+              "10,000",
+              "45,000"
+            ],
+            [
+              "Morbidity termination",
+              "2,500",
+              "1,000",
+              "2,000"
+            ],
+            [
+              "Lapse sensitive",
+              "200,000",
+              "90,000",
+              "155,000"
+            ],
+            [
+              "Lapse supported",
+              "100,000",
+              "40,000",
+              "80,000"
+            ],
+            [
+              "Lapse sensitive: seg. fund guarantee",
+              "200,000",
+              "0",
+              "200,000"
+            ],
+            [
+              "Lapse supported: seg. fund guarantee",
+              "400,000",
+              "0",
+              "400,000"
+            ],
+            [
+              "Expense",
+              "7,500",
+              "0",
+              "7,500"
+            ],
+            [
+              "Totals",
+              "1,763,000",
+              "644,000",
+              "N/A"
+            ]
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "The recalculation of the components I , D , U and K for the block then proceed as follows:"
+        },
+        {
+          "type": "paragraph",
+          "text": "I = ∑ i , j = 1 9 ρ i j × ( IR i − 0.5 × LT i ) × ( IR j − 0.5 × LT j ) + PC = 820,668 + 25,000 = 845,668"
+        },
+        {
+          "type": "paragraph",
+          "text": "A = 200,000 + 75,000 = 275,000 (unchanged)"
+        },
+        {
+          "type": "paragraph",
+          "text": "D = A 2 + AI + I 2 = 1,011,602"
+        },
+        {
+          "type": "paragraph",
+          "text": "U = ∑ i = 1 9 IR i + PC + A = 1,763,000 + 25,000 + 275,000 = 2,063,000"
+        },
+        {
+          "type": "paragraph",
+          "text": "LT = 644,000"
+        },
+        {
+          "type": "paragraph",
+          "text": "K non-par excluding adjustable product = 4 5 U + 1 10 LT + max ( 14 U − 7 LT − 62 D 60 + 2 D 2 2 U − LT , 0 ) = 1,714,800"
+        },
+        {
+          "type": "paragraph",
+          "text": "The adjustable credit for the product is then:"
+        },
+        {
+          "type": "paragraph",
+          "text": "CA = min [ 250,000 , 0.7 × ( 1,982,800 − 1,714,800 ) ] = 187,600"
+        }
+      ]
+    },
+    {
+      "heading": "9.3. Participating products that are contractually adjustable",
+      "heading_level": 2,
+      "full_text": "Where a product is both participating and has an adjustable feature that is able to pass through losses or reflect adverse experience arising from all risks, an insurer may take a simultaneous credit for participating and adjustable features as specified below. In order for an insurer to take credit for participating and adjustable features simultaneously, the product must meet all of the conditions for participating products specified in section 9.1.1 and all of the conditions for adjustable products specified in section 9.2.1, and the insurer should have sole discretion to exercise the adjustable feature without third-party approval to recover losses or reflect adverse experience that occurs for any reason (i.e. adjustability must not be confined to specific risks). If the participating product has an adjustable feature that is not able to pass through losses or reflect adverse experience for all risks, the credit in this section is not available. For such a product, the insurer has the option to apply either the par credit or the adjustable credit, but not both.\nIf a product is eligible for both credits, the adjustable credit for the product should be recalculated using the methodology for participating products in section 9.1. The revised adjustable credit is:\nCA = min [ K − K reduced interest + ( 1 − IRR ¯ max ( C ¯ adverse , IRR ¯ ) ) C initial , K − K floor adj ]\nwhere:\n  - K , K reduced interest , and IRR ¯ have the same definitions as in section 9.1.2\n  - C initial is the gross adjustable credit defined in section 9.2.2\n  - C ¯ adverse is the six-month rolling average, taken over the current quarter and previous five quarters, of the gross adjustable credit modified so that in each quarter it is discounted using the rates under the most adverse scenario that determines the requirement for interest rate risk in that quarter, instead of the initial scenario Footnote 6\n  - K floor adj is calculated by aggregating, within the calculation of K : 30% of all insurance risk components for the block, and 100% of all other risk components for the block\n  - 30% of all insurance risk components for the block, and\n  - 100% of all other risk components for the block\nThe aggregate credit for the product is then equal to:\nmin ( CP + CA , K − K floor global )\nwhere:\n  - CP is the participating credit for the product\n  - CA is the recalculated adjustable credit for the product\n  - K is the adjusted diversified requirement for the block\n  - K floor global is calculated by aggregating, within the calculation of K : 5% of the interest rate risk component for the block, and 30% of all other risk components for the block\n  - 5% of the interest rate risk component for the block, and\n  - 30% of all other risk components for the block\n[Note: Footnotes Footnote 1 Assets and liabilities whose risks are not passed through to policyholders that are commingled and support multiple participating blocks within a geographic region should be allocated proportionally to particular participating blocks. Return to footnote 1 referrer Footnote 2 A DSR or similar experience levelling mechanism ceases to be available to absorb experience shortfalls when it has been reduced to zero or has become negative. Negative DSRs and similar experience levelling mechanisms, if material, are considered to be experience shortfalls that must be recovered through dividend reductions, and are subject to the same requirements as for recovery of other experience shortfalls (i.e. dividend reductions to effect recovery of a material negative DSR must be made within two years from when the negative reserve becomes material). The materiality of a negative DSR or similar experience levelling mechanism should be assessed taking into consideration all relevant par-related OSFI guidance, and the insurer's internal par management policies. Negative DSRs and negative reserves resulting from similar experience levelling mechanisms are deducted from Tier 1 (q.v. section 2.1.2.10) irrespective of materiality. In applying these requirements, an insurer may elect to use either DSRs resulting from actual experience within each participating block, or the total DSR reported on the financial statements for each participating block. Once this choice has been made, it should be applied consistently throughout the LICAT guideline and in subsequent quarters, and should be used consistently for all of the participating blocks of an insurer. Return to footnote 2 referrer Footnote 3 The recovery of shortfalls must be demonstrated based on reductions in the dividend scale compared to what would have been paid taking into account all of the elements, and only those elements, that are passed through to policyholders. Return to footnote 3 referrer Footnote 4 Reductions in the dividend scale must be level or must represent front-loaded or accelerated experience recovery. Reductions in terminal dividends, where there are no periodic dividends, are considered to be level reductions in the dividend scale. Return to footnote 4 referrer Footnote 5 In cases where a participating block spans more than one geographic region, the following adjustments should be made to the par credit formula: All K terms are the sum of the adjusted diversified requirements taken over all applicable geographic regions, IRR ¯ i par is the interest rate risk requirement only for the geographic region in which dividends are payable, and The term K i reduced interest is reduced only for the interest rate risk component for the geographic region in which dividends are payable. Return to footnote 5 referrer Footnote 6 For a new participating block, no averaging should be used in the first quarter that it is reported. For the second quarter, C ¯ i adverse for the block should be calculated using half of the sum of C i adverse for the first and second quarters. For the third quarter, the average is one third of the sum of C i adverse for the first, second, and third quarters. The averaging should continue in this manner until the block is reported for six quarters. Return to footnote 6 referrer Footnote 7 For insurance risks, the percentage factors below are applied to the intermediate quantities IR i and LT i used to calculate K . Return to footnote 7 referrer Footnote 8 These include requirements for credit and market risks related to all assets whose returns are not passed through to policyholders. If the block contains assets/liabilities whose risks are not passed through to policyholders, and these assets/liabilities are commingled with assets/liabilities whose risks are passed through to policyholders, then the requirements for credit and market risks, other than interest rate risk, for the non-pass through assets/liabilities should be determined using proportional allocation. Return to footnote 8 referrer Footnote 9 It is possible, for example, that a product with a formula or an index based adjustment to have other contractually adjustable features that are at the sole discretion of management such as cost of insurance (COI) charges. In such a case, only the contractually adjustable features that are at the sole discretion of management are treated as adjustable for the calculation of the credit. Return to footnote 9 referrer Footnote 10 An insurer may instead cap the adjustments at 25% of the feature's current level starting after one year. Return to footnote 10 referrer Footnote 11 An insurer may instead cap the adjustments at 10% of the feature's current level starting after one year. Return to footnote 11 referrer Footnote 12 In cases where an adjustable block spans more than one geographic region, both K terms in the adjustable credit formula should be replaced with the sum of the adjusted diversified requirements taken over all applicable geographic regions. Return to footnote 12 referrer Footnote 13 An approximation may be used under section 1.4.5. Return to footnote 13 referrer]",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Where a product is both participating and has an adjustable feature that is able to pass through losses or reflect adverse experience arising from all risks, an insurer may take a simultaneous credit for participating and adjustable features as specified below. In order for an insurer to take credit for participating and adjustable features simultaneously, the product must meet all of the conditions for participating products specified in section 9.1.1 and all of the conditions for adjustable products specified in section 9.2.1, and the insurer should have sole discretion to exercise the adjustable feature without third-party approval to recover losses or reflect adverse experience that occurs for any reason (i.e. adjustability must not be confined to specific risks). If the participating product has an adjustable feature that is not able to pass through losses or reflect adverse experience for all risks, the credit in this section is not available. For such a product, the insurer has the option to apply either the par credit or the adjustable credit, but not both."
+        },
+        {
+          "type": "paragraph",
+          "text": "If a product is eligible for both credits, the adjustable credit for the product should be recalculated using the methodology for participating products in section 9.1. The revised adjustable credit is:"
+        },
+        {
+          "type": "paragraph",
+          "text": "CA = min [ K − K reduced interest + ( 1 − IRR ¯ max ( C ¯ adverse , IRR ¯ ) ) C initial , K − K floor adj ]"
+        },
+        {
+          "type": "paragraph",
+          "text": "where:"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "K , K reduced interest , and IRR ¯ have the same definitions as in section 9.1.2",
+            "C initial is the gross adjustable credit defined in section 9.2.2",
+            "C ¯ adverse is the six-month rolling average, taken over the current quarter and previous five quarters, of the gross adjustable credit modified so that in each quarter it is discounted using the rates under the most adverse scenario that determines the requirement for interest rate risk in that quarter, instead of the initial scenario Footnote 6",
+            "K floor adj is calculated by aggregating, within the calculation of K : 30% of all insurance risk components for the block, and 100% of all other risk components for the block"
+          ]
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "30% of all insurance risk components for the block, and",
+            "100% of all other risk components for the block"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "The aggregate credit for the product is then equal to:"
+        },
+        {
+          "type": "paragraph",
+          "text": "min ( CP + CA , K − K floor global )"
+        },
+        {
+          "type": "paragraph",
+          "text": "where:"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "CP is the participating credit for the product",
+            "CA is the recalculated adjustable credit for the product",
+            "K is the adjusted diversified requirement for the block",
+            "K floor global is calculated by aggregating, within the calculation of K : 5% of the interest rate risk component for the block, and 30% of all other risk components for the block"
+          ]
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "5% of the interest rate risk component for the block, and",
+            "30% of all other risk components for the block"
+          ]
+        },
+        {
+          "type": "footnote",
+          "text": "Footnotes Footnote 1 Assets and liabilities whose risks are not passed through to policyholders that are commingled and support multiple participating blocks within a geographic region should be allocated proportionally to particular participating blocks. Return to footnote 1 referrer Footnote 2 A DSR or similar experience levelling mechanism ceases to be available to absorb experience shortfalls when it has been reduced to zero or has become negative. Negative DSRs and similar experience levelling mechanisms, if material, are considered to be experience shortfalls that must be recovered through dividend reductions, and are subject to the same requirements as for recovery of other experience shortfalls (i.e. dividend reductions to effect recovery of a material negative DSR must be made within two years from when the negative reserve becomes material). The materiality of a negative DSR or similar experience levelling mechanism should be assessed taking into consideration all relevant par-related OSFI guidance, and the insurer's internal par management policies. Negative DSRs and negative reserves resulting from similar experience levelling mechanisms are deducted from Tier 1 (q.v. section 2.1.2.10) irrespective of materiality. In applying these requirements, an insurer may elect to use either DSRs resulting from actual experience within each participating block, or the total DSR reported on the financial statements for each participating block. Once this choice has been made, it should be applied consistently throughout the LICAT guideline and in subsequent quarters, and should be used consistently for all of the participating blocks of an insurer. Return to footnote 2 referrer Footnote 3 The recovery of shortfalls must be demonstrated based on reductions in the dividend scale compared to what would have been paid taking into account all of the elements, and only those elements, that are passed through to policyholders. Return to footnote 3 referrer Footnote 4 Reductions in the dividend scale must be level or must represent front-loaded or accelerated experience recovery. Reductions in terminal dividends, where there are no periodic dividends, are considered to be level reductions in the dividend scale. Return to footnote 4 referrer Footnote 5 In cases where a participating block spans more than one geographic region, the following adjustments should be made to the par credit formula: All K terms are the sum of the adjusted diversified requirements taken over all applicable geographic regions, IRR ¯ i par is the interest rate risk requirement only for the geographic region in which dividends are payable, and The term K i reduced interest is reduced only for the interest rate risk component for the geographic region in which dividends are payable. Return to footnote 5 referrer Footnote 6 For a new participating block, no averaging should be used in the first quarter that it is reported. For the second quarter, C ¯ i adverse for the block should be calculated using half of the sum of C i adverse for the first and second quarters. For the third quarter, the average is one third of the sum of C i adverse for the first, second, and third quarters. The averaging should continue in this manner until the block is reported for six quarters. Return to footnote 6 referrer Footnote 7 For insurance risks, the percentage factors below are applied to the intermediate quantities IR i and LT i used to calculate K . Return to footnote 7 referrer Footnote 8 These include requirements for credit and market risks related to all assets whose returns are not passed through to policyholders. If the block contains assets/liabilities whose risks are not passed through to policyholders, and these assets/liabilities are commingled with assets/liabilities whose risks are passed through to policyholders, then the requirements for credit and market risks, other than interest rate risk, for the non-pass through assets/liabilities should be determined using proportional allocation. Return to footnote 8 referrer Footnote 9 It is possible, for example, that a product with a formula or an index based adjustment to have other contractually adjustable features that are at the sole discretion of management such as cost of insurance (COI) charges. In such a case, only the contractually adjustable features that are at the sole discretion of management are treated as adjustable for the calculation of the credit. Return to footnote 9 referrer Footnote 10 An insurer may instead cap the adjustments at 25% of the feature's current level starting after one year. Return to footnote 10 referrer Footnote 11 An insurer may instead cap the adjustments at 10% of the feature's current level starting after one year. Return to footnote 11 referrer Footnote 12 In cases where an adjustable block spans more than one geographic region, both K terms in the adjustable credit formula should be replaced with the sum of the adjusted diversified requirements taken over all applicable geographic regions. Return to footnote 12 referrer Footnote 13 An approximation may be used under section 1.4.5. Return to footnote 13 referrer"
+        }
+      ]
+    },
+    {
+      "heading": "Footnotes",
+      "heading_level": 2,
+      "full_text": "Assets and liabilities whose risks are not passed through to policyholders that are commingled and support multiple participating blocks within a geographic region should be allocated proportionally to particular participating blocks.\nReturn to footnote 1 referrer\nA DSR or similar experience levelling mechanism ceases to be available to absorb experience shortfalls when it has been reduced to zero or has become negative. Negative DSRs and similar experience levelling mechanisms, if material, are considered to be experience shortfalls that must be recovered through dividend reductions, and are subject to the same requirements as for recovery of other experience shortfalls (i.e. dividend reductions to effect recovery of a material negative DSR must be made within two years from when the negative reserve becomes material). The materiality of a negative DSR or similar experience levelling mechanism should be assessed taking into consideration all relevant par-related OSFI guidance, and the insurer's internal par management policies. Negative DSRs and negative reserves resulting from similar experience levelling mechanisms are deducted from Tier 1 (q.v. section 2.1.2.10) irrespective of materiality. In applying these requirements, an insurer may elect to use either DSRs resulting from actual experience within each participating block, or the total DSR reported on the financial statements for each participating block. Once this choice has been made, it should be applied consistently throughout the LICAT guideline and in subsequent quarters, and should be used consistently for all of the participating blocks of an insurer.\nReturn to footnote 2 referrer\nThe recovery of shortfalls must be demonstrated based on reductions in the dividend scale compared to what would have been paid taking into account all of the elements, and only those elements, that are passed through to policyholders.\nReturn to footnote 3 referrer\nReductions in the dividend scale must be level or must represent front-loaded or accelerated experience recovery. Reductions in terminal dividends, where there are no periodic dividends, are considered to be level reductions in the dividend scale.\nReturn to footnote 4 referrer\nIn cases where a participating block spans more than one geographic region, the following adjustments should be made to the par credit formula:\n  1. All K terms are the sum of the adjusted diversified requirements taken over all applicable geographic regions,\n  2. IRR ¯ i par is the interest rate risk requirement only for the geographic region in which dividends are payable, and\n  3. The term K i reduced interest is reduced only for the interest rate risk component for the geographic region in which dividends are payable.\nReturn to footnote 5 referrer\nFor a new participating block, no averaging should be used in the first quarter that it is reported. For the second quarter, C ¯ i adverse for the block should be calculated using half of the sum of C i adverse for the first and second quarters. For the third quarter, the average is one third of the sum of C i adverse for the first, second, and third quarters. The averaging should continue in this manner until the block is reported for six quarters.\nReturn to footnote 6 referrer\nFor insurance risks, the percentage factors below are applied to the intermediate quantities IR i and LT i used to calculate K .\nReturn to footnote 7 referrer\nThese include requirements for credit and market risks related to all assets whose returns are not passed through to policyholders. If the block contains assets/liabilities whose risks are not passed through to policyholders, and these assets/liabilities are commingled with assets/liabilities whose risks are passed through to policyholders, then the requirements for credit and market risks, other than interest rate risk, for the non-pass through assets/liabilities should be determined using proportional allocation.\nReturn to footnote 8 referrer\nIt is possible, for example, that a product with a formula or an index based adjustment to have other contractually adjustable features that are at the sole discretion of management such as cost of insurance (COI) charges. In such a case, only the contractually adjustable features that are at the sole discretion of management are treated as adjustable for the calculation of the credit.\nReturn to footnote 9 referrer\nAn insurer may instead cap the adjustments at 25% of the feature's current level starting after one year.\nReturn to footnote 10 referrer\nAn insurer may instead cap the adjustments at 10% of the feature's current level starting after one year.\nReturn to footnote 11 referrer\nIn cases where an adjustable block spans more than one geographic region, both K terms in the adjustable credit formula should be replaced with the sum of the adjusted diversified requirements taken over all applicable geographic regions.\nReturn to footnote 12 referrer\nAn approximation may be used under section 1.4.5.\nReturn to footnote 13 referrer",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Assets and liabilities whose risks are not passed through to policyholders that are commingled and support multiple participating blocks within a geographic region should be allocated proportionally to particular participating blocks."
+        },
+        {
+          "type": "paragraph",
+          "text": "Return to footnote 1 referrer"
+        },
+        {
+          "type": "paragraph",
+          "text": "A DSR or similar experience levelling mechanism ceases to be available to absorb experience shortfalls when it has been reduced to zero or has become negative. Negative DSRs and similar experience levelling mechanisms, if material, are considered to be experience shortfalls that must be recovered through dividend reductions, and are subject to the same requirements as for recovery of other experience shortfalls (i.e. dividend reductions to effect recovery of a material negative DSR must be made within two years from when the negative reserve becomes material). The materiality of a negative DSR or similar experience levelling mechanism should be assessed taking into consideration all relevant par-related OSFI guidance, and the insurer's internal par management policies. Negative DSRs and negative reserves resulting from similar experience levelling mechanisms are deducted from Tier 1 (q.v. section 2.1.2.10) irrespective of materiality. In applying these requirements, an insurer may elect to use either DSRs resulting from actual experience within each participating block, or the total DSR reported on the financial statements for each participating block. Once this choice has been made, it should be applied consistently throughout the LICAT guideline and in subsequent quarters, and should be used consistently for all of the participating blocks of an insurer."
+        },
+        {
+          "type": "paragraph",
+          "text": "Return to footnote 2 referrer"
+        },
+        {
+          "type": "paragraph",
+          "text": "The recovery of shortfalls must be demonstrated based on reductions in the dividend scale compared to what would have been paid taking into account all of the elements, and only those elements, that are passed through to policyholders."
+        },
+        {
+          "type": "paragraph",
+          "text": "Return to footnote 3 referrer"
+        },
+        {
+          "type": "paragraph",
+          "text": "Reductions in the dividend scale must be level or must represent front-loaded or accelerated experience recovery. Reductions in terminal dividends, where there are no periodic dividends, are considered to be level reductions in the dividend scale."
+        },
+        {
+          "type": "paragraph",
+          "text": "Return to footnote 4 referrer"
+        },
+        {
+          "type": "paragraph",
+          "text": "In cases where a participating block spans more than one geographic region, the following adjustments should be made to the par credit formula:"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "All K terms are the sum of the adjusted diversified requirements taken over all applicable geographic regions,",
+            "IRR ¯ i par is the interest rate risk requirement only for the geographic region in which dividends are payable, and",
+            "The term K i reduced interest is reduced only for the interest rate risk component for the geographic region in which dividends are payable."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Return to footnote 5 referrer"
+        },
+        {
+          "type": "paragraph",
+          "text": "For a new participating block, no averaging should be used in the first quarter that it is reported. For the second quarter, C ¯ i adverse for the block should be calculated using half of the sum of C i adverse for the first and second quarters. For the third quarter, the average is one third of the sum of C i adverse for the first, second, and third quarters. The averaging should continue in this manner until the block is reported for six quarters."
+        },
+        {
+          "type": "paragraph",
+          "text": "Return to footnote 6 referrer"
+        },
+        {
+          "type": "paragraph",
+          "text": "For insurance risks, the percentage factors below are applied to the intermediate quantities IR i and LT i used to calculate K ."
+        },
+        {
+          "type": "paragraph",
+          "text": "Return to footnote 7 referrer"
+        },
+        {
+          "type": "paragraph",
+          "text": "These include requirements for credit and market risks related to all assets whose returns are not passed through to policyholders. If the block contains assets/liabilities whose risks are not passed through to policyholders, and these assets/liabilities are commingled with assets/liabilities whose risks are passed through to policyholders, then the requirements for credit and market risks, other than interest rate risk, for the non-pass through assets/liabilities should be determined using proportional allocation."
+        },
+        {
+          "type": "paragraph",
+          "text": "Return to footnote 8 referrer"
+        },
+        {
+          "type": "paragraph",
+          "text": "It is possible, for example, that a product with a formula or an index based adjustment to have other contractually adjustable features that are at the sole discretion of management such as cost of insurance (COI) charges. In such a case, only the contractually adjustable features that are at the sole discretion of management are treated as adjustable for the calculation of the credit."
+        },
+        {
+          "type": "paragraph",
+          "text": "Return to footnote 9 referrer"
+        },
+        {
+          "type": "paragraph",
+          "text": "An insurer may instead cap the adjustments at 25% of the feature's current level starting after one year."
+        },
+        {
+          "type": "paragraph",
+          "text": "Return to footnote 10 referrer"
+        },
+        {
+          "type": "paragraph",
+          "text": "An insurer may instead cap the adjustments at 10% of the feature's current level starting after one year."
+        },
+        {
+          "type": "paragraph",
+          "text": "Return to footnote 11 referrer"
+        },
+        {
+          "type": "paragraph",
+          "text": "In cases where an adjustable block spans more than one geographic region, both K terms in the adjustable credit formula should be replaced with the sum of the adjusted diversified requirements taken over all applicable geographic regions."
+        },
+        {
+          "type": "paragraph",
+          "text": "Return to footnote 12 referrer"
+        },
+        {
+          "type": "paragraph",
+          "text": "An approximation may be used under section 1.4.5."
+        },
+        {
+          "type": "paragraph",
+          "text": "Return to footnote 13 referrer"
+        }
+      ]
+    }
+  ],
+  "title_normalized": "life insurance capital adequacy test 2025 chapter 9 participating and adjustable products",
+  "publication_type_normalized": "guideline",
+  "category_normalized": "capital_adequacy_requirements",
+  "sector_normalized": [
+    "life_insurance"
+  ],
+  "guideline_number_normalized": "",
+  "applies_to_banks": false,
+  "applies_to_trust_loan": false,
+  "applies_to_life_insurance": true,
+  "applies_to_pc_insurance": false,
+  "applies_to_foreign_bank": false,
+  "applies_to_foreign_insurance": false,
+  "applies_to_cooperative": false,
+  "applies_to_bank_holding": false,
+  "effective_date_sort_key": "2024-11-21",
+  "status_sort_key": 1,
+  "authority_sort_key": 100,
+  "bm25_text": "Life Insurance Capital Adequacy Test (2025) – Chapter 9 Participating and Adjustable Products Guideline Capital Adequacy Requirements Life Insurance and Fraternal Companies Note 9.1.1. Conditions for the par credit 9.1.2. Calculation of the par credit for a block Example: Par credit 9.2.1. Conditions for the adjustable credit 9.2.2. Calculation of the adjustable credit Example: Adjustable credit 9.3. Participating products that are contractually adjustable Footnotes",
+  "vector_text_prefix": "[OSFI Guideline  | Capital Adequacy Requirements | Life Insurance and Fraternal Companies | FINAL_CURRENT | Effective 2024-11-21]",
+  "h1_title": "Life Insurance Capital Adequacy Test (2025) – Chapter 9 Participating and Adjustable Products",
+  "regulator": "OSFI",
+  "regulator_acronym": "OSFI",
+  "jurisdiction": "Canada",
+  "short_title": "",
+  "source_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/life-insurance-capital-adequacy-test-2025-chapter-9-participating-adjustable-products"
+}

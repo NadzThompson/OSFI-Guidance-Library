@@ -1,0 +1,361 @@
+{
+  "source_system": "osfi_guidance_library",
+  "library_row_title": "Reinforcing residential mortgage risk management practices",
+  "library_row_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/reinforcing-residential-mortgage-risk-management-practices",
+  "listing_date_raw": "March 11, 2024",
+  "listing_date_iso": "2024-03-11",
+  "listing_publication_type": "Regulatory notice",
+  "listing_category": "Sound Business and Financial Practices",
+  "listing_sector": [
+    "Banks",
+    "Foreign Bank Branches",
+    "Life Insurance and Fraternal Companies",
+    "Property and Casualty Companies",
+    "Trust and Loan Companies"
+  ],
+  "crawl_timestamp": "2026-03-11T00:00:00Z",
+  "detail_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/reinforcing-residential-mortgage-risk-management-practices",
+  "canonical_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/reinforcing-residential-mortgage-risk-management-practices",
+  "slug": "reinforcing-residential-mortgage-risk-management-practices",
+  "title": "Reinforcing residential mortgage risk management practices",
+  "publication_type": "Regulatory notice",
+  "category": "Sound Business and Financial Practices",
+  "document_date_raw": "March 11, 2024",
+  "document_date_iso": "2024-03-11",
+  "sector": [
+    "Banks",
+    "Foreign Bank Branches",
+    "Life Insurance and Fraternal Companies",
+    "Property and Casualty Companies",
+    "Trust and Loan Companies"
+  ],
+  "effective_date_text": "",
+  "guideline_number": "",
+  "date_modified_raw": "2024-03-11T12:00:00Z",
+  "generate_pdf_url": "https://www.osfi-bsif.gc.ca/en/print/pdf/node/2129",
+  "pdf_node_id": 2129,
+  "direct_pdf_url": null,
+  "has_table_of_contents": true,
+  "toc_entries": [],
+  "has_related_documents": false,
+  "related_document_links_raw": [],
+  "consultation_status_text": null,
+  "consultation_status_refers_to_version": null,
+  "page_language": "en",
+  "word_count_raw_body": 1093,
+  "doc_id": "osfi.reinforcing-residential-mortgage-risk-management-p.regulatory",
+  "doc_family_id": "osfi.reinforcing-residential-mortgage-risk-management-p",
+  "version_id": "",
+  "version_label": "Reinforcing residential mortgage risk management practices",
+  "version_sort_key": "",
+  "parent_doc_id": null,
+  "child_doc_ids": [],
+  "is_package_page": false,
+  "is_chapter_page": false,
+  "chapter_number": null,
+  "chapter_title": null,
+  "document_order_within_family": 0,
+  "supersedes_doc_id": null,
+  "superseded_by_doc_id": null,
+  "current_version_flag": true,
+  "status": "final_current",
+  "include_in_primary_corpus": true,
+  "include_in_support_corpus": false,
+  "include_in_context_corpus": false,
+  "effective_date_start": "2024-03-11",
+  "effective_date_end": null,
+  "effective_date_fye_split": false,
+  "effective_date_oct_fye": null,
+  "effective_date_dec_fye": null,
+  "is_future_effective": false,
+  "is_rescinded": false,
+  "is_draft_or_consultation": false,
+  "rescission_date": null,
+  "consultation_closing_date": null,
+  "as_of_applicability": "2026-03-23",
+  "rule_applied": "rule_5_final_current",
+  "authority_class": "primary_normative",
+  "authority_level": 100,
+  "nova_tier": 1,
+  "prudential_weight": 1.0,
+  "is_primary_normative": true,
+  "is_supporting_interpretive": false,
+  "is_context_only": false,
+  "document_class": "regulatory_notice",
+  "guidance_type_normalized": "regulatory_notice",
+  "section_headings": [
+    {
+      "level": 2,
+      "text": "1. Purpose and scope",
+      "id": "h2-0"
+    },
+    {
+      "level": 2,
+      "text": "2. Background",
+      "id": "h2-1"
+    },
+    {
+      "level": 3,
+      "text": "3.1 Sound loan servicing policies, systems, processes, and controls",
+      "id": "h3-2"
+    },
+    {
+      "level": 3,
+      "text": "3.2 Proactive and sustainable management of vulnerable accounts",
+      "id": "h3-3"
+    },
+    {
+      "level": 2,
+      "text": "4. Sound credit loss provisioning",
+      "id": "h2-4"
+    },
+    {
+      "level": 3,
+      "text": "5.1 Careful verification of income",
+      "id": "h3-5"
+    },
+    {
+      "level": 3,
+      "text": "5.2 Careful consideration of higher risk mortgage products",
+      "id": "h3-6"
+    }
+  ],
+  "heading_path": [
+    "Reinforcing residential mortgage risk management practices"
+  ],
+  "toc_depth": 3,
+  "has_appendices": false,
+  "appendix_ids": [],
+  "has_tables": false,
+  "table_count": 0,
+  "has_footnotes": false,
+  "footnote_count": 0,
+  "inline_cross_references": [
+    "Guideline B-20: Residential mortgage underwriting practices and procedures"
+  ],
+  "quoted_external_references": [],
+  "raw_html_sha256": "60cddbc2234bc1ef9a61bcb73ab792482c9076db11cf91f0e0bb20e793a568b1",
+  "raw_pdf_sha256": null,
+  "normalized_text_sha256": null,
+  "raw_html_path": "bronze/osfi/html/final_current/reinforcing-residential-mortgage-risk-management-practices.html",
+  "normalized_md_path": "silver/osfi/md/final_current/reinforcing-residential-mortgage-risk-management-practices.md",
+  "canonical_json_path": "silver/osfi/json/final_current/reinforcing-residential-mortgage-risk-management-practices.json",
+  "content_source": "HTML",
+  "parser_version": "osfi-parser-v2.1.0",
+  "normalizer_version": "osfi-normalizer-v1.4.0",
+  "quality_score": 1.0,
+  "quality_flags": [],
+  "download_timestamp": "2026-03-11T00:00:00Z",
+  "enriched_timestamp": "2026-03-23T09:53:59.012375Z",
+  "sections": [
+    {
+      "heading": "1. Purpose and scope",
+      "heading_level": 2,
+      "full_text": "This Regulatory Notice applies to all federally regulated financial institutions and is effective immediately. It responds to the heightened risk environment for real estate secured lending (RESL) by reinforcing expectations on sound residential mortgage account and portfolio management practices.\nIt is informed by and supports ongoing monitoring and supervision of key RESL risks. Institutions should apply this Notice alongside Guideline B-20: Residential mortgage underwriting practices and procedures , particularly income verification and higher risk mortgage products, such as variable-rate mortgages with fixed payments, and IFRS 9 Guideline (Financial Instruments and Disclosures), as relating to significant increases in credit risk and lifetime loss provisions.\nInstitutions should:\n  - Proactively identify and address vulnerable accounts, portfolio segments and concentrations.\n  - Ensure forward-looking credit risk measurement, modelling, and stress testing to estimate potential losses.\n  - Apply timely recognition of expected and unexpected losses due to account vulnerabilities or adverse shifts in the risk environment.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "This Regulatory Notice applies to all federally regulated financial institutions and is effective immediately. It responds to the heightened risk environment for real estate secured lending (RESL) by reinforcing expectations on sound residential mortgage account and portfolio management practices."
+        },
+        {
+          "type": "paragraph",
+          "text": "It is informed by and supports ongoing monitoring and supervision of key RESL risks. Institutions should apply this Notice alongside Guideline B-20: Residential mortgage underwriting practices and procedures , particularly income verification and higher risk mortgage products, such as variable-rate mortgages with fixed payments, and IFRS 9 Guideline (Financial Instruments and Disclosures), as relating to significant increases in credit risk and lifetime loss provisions."
+        },
+        {
+          "type": "paragraph",
+          "text": "Institutions should:"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Proactively identify and address vulnerable accounts, portfolio segments and concentrations.",
+            "Ensure forward-looking credit risk measurement, modelling, and stress testing to estimate potential losses.",
+            "Apply timely recognition of expected and unexpected losses due to account vulnerabilities or adverse shifts in the risk environment."
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "2. Background",
+      "heading_level": 2,
+      "full_text": "High household debt, inflation, and higher interest rates have led to increased RESL risks. Many borrowers are already facing higher regular mortgage payments. Others will face payment shock at renewal or sooner in an effort to return to their original contractual amortization.\nThese risks can lead to more defaults and are particularly acute for borrowers with higher risk mortgage products, such as variable-rate mortgages with fixed payments.\nResidential mortgage underwriting also faces the risk of fraud and misrepresentation. If not managed responsibly, this risk could lead to unexpectedly elevated credit losses.\nRecognition of increased RESL risks was communicated in the 2023-24 Annual Risk Outlook and the Semi-Annual Update . These risks also informed recent updates to the capital guidelines , including revisions to the Capital Adequacy Requirements, requiring institutions to hold more capital for mortgages where payments do not cover the interest portion of the loan.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "High household debt, inflation, and higher interest rates have led to increased RESL risks. Many borrowers are already facing higher regular mortgage payments. Others will face payment shock at renewal or sooner in an effort to return to their original contractual amortization."
+        },
+        {
+          "type": "paragraph",
+          "text": "These risks can lead to more defaults and are particularly acute for borrowers with higher risk mortgage products, such as variable-rate mortgages with fixed payments."
+        },
+        {
+          "type": "paragraph",
+          "text": "Residential mortgage underwriting also faces the risk of fraud and misrepresentation. If not managed responsibly, this risk could lead to unexpectedly elevated credit losses."
+        },
+        {
+          "type": "paragraph",
+          "text": "Recognition of increased RESL risks was communicated in the 2023-24 Annual Risk Outlook and the Semi-Annual Update . These risks also informed recent updates to the capital guidelines , including revisions to the Capital Adequacy Requirements, requiring institutions to hold more capital for mortgages where payments do not cover the interest portion of the loan."
+        }
+      ]
+    },
+    {
+      "heading": "3.1 Sound loan servicing policies, systems, processes, and controls",
+      "heading_level": 3,
+      "full_text": "Institutions should have:\n  - Effective policies to manage risk in their loan servicing function , addressing account- and portfolio-level risks This may comprise one or more documents, including the institution’s residential mortgage underwriting policies focused on loan origination, underwriting and acquisition described in OSFI <a data-entity-substitution=\"canonical\" data-entity-type=\"node\" data-entity-uuid=\"ded06208-6c18-464a-87f0-0190ca05a44c\" href=\"/node/574\">Guideline B-20</a>. and aligned with broader risk governance and risk appetite.\n  - Robust monitoring systems to support early detection and management of vulnerable accounts and portfolio segments, including residential mortgage underwriting policy exceptions, across relevant risk dimension (for example, borrower, property, product, origination channel, local market, and broader economic indicators).\n  - Risk data that are refreshed regularly and are reflective of the current risk environment.\n  - Detailed portfolio limit structure and segmentation , recognizing elevated and layered risks and risk concentrations.\n  - Realistic limit calibration that considers actual loan utilization, stress testing, scenario analyses, and shifts in the external environment.\n  - Informed credit risk management that incorporates ongoing credit risk measurement, modelling, and stress testing to inform account and portfolio management actions, including portfolio concentration limits and buffers to absorb potential losses.\n  - An independent loan review function that enables ongoing assessment of credit risk management processes, helping identify vulnerable accounts and portfolio segments and gaps in account management, underwriting, and compliance. While practices will vary, the loan review function should be as independent as possible from the origination and underwriting functions. Where this is not practical, appropriate safeguards should be established to allow the loan review function to provide an objective assessment.\n  - Timely, comprehensive, and actionable reporting to board and senior management on account- and portfolio-level risks with processes to ensure appropriate follow-up measures.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Institutions should have:"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Effective policies to manage risk in their loan servicing function , addressing account- and portfolio-level risks This may comprise one or more documents, including the institution’s residential mortgage underwriting policies focused on loan origination, underwriting and acquisition described in OSFI <a data-entity-substitution=\"canonical\" data-entity-type=\"node\" data-entity-uuid=\"ded06208-6c18-464a-87f0-0190ca05a44c\" href=\"/node/574\">Guideline B-20</a>. and aligned with broader risk governance and risk appetite.",
+            "Robust monitoring systems to support early detection and management of vulnerable accounts and portfolio segments, including residential mortgage underwriting policy exceptions, across relevant risk dimension (for example, borrower, property, product, origination channel, local market, and broader economic indicators).",
+            "Risk data that are refreshed regularly and are reflective of the current risk environment.",
+            "Detailed portfolio limit structure and segmentation , recognizing elevated and layered risks and risk concentrations.",
+            "Realistic limit calibration that considers actual loan utilization, stress testing, scenario analyses, and shifts in the external environment.",
+            "Informed credit risk management that incorporates ongoing credit risk measurement, modelling, and stress testing to inform account and portfolio management actions, including portfolio concentration limits and buffers to absorb potential losses.",
+            "An independent loan review function that enables ongoing assessment of credit risk management processes, helping identify vulnerable accounts and portfolio segments and gaps in account management, underwriting, and compliance. While practices will vary, the loan review function should be as independent as possible from the origination and underwriting functions. Where this is not practical, appropriate safeguards should be established to allow the loan review function to provide an objective assessment.",
+            "Timely, comprehensive, and actionable reporting to board and senior management on account- and portfolio-level risks with processes to ensure appropriate follow-up measures."
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "3.2 Proactive and sustainable management of vulnerable accounts",
+      "heading_level": 3,
+      "full_text": "Institutions should undertake:\n  - Early and proactive engagement with vulnerable borrowers on potential forbearance actions, including the range of temporary or permanent concessions institutions may grant in different situations of financial difficulty. Forbearance is a temporary or permanent concession granted to a borrower for reasons of financial difficulty that would not otherwise be considered by the lender on market terms.\n  - Identification and management of vulnerable accounts , guided by relevant thresholds (for example, near-term maturity, variable-rate mortgages with fixed payments, trigger rate/point, and early-stage delinquency).\n  - Prudent forbearance assessments of borrower ability to repay the loan in a reasonable period. Concessions should be structured appropriately, avoid masking financial distress, be subject to clearly defined policy limits, and be reviewed in line with risk appetite.\n  - Judicious and fair application of forbearance in adherence to the Financial Consumer Agency of Canada’s Guideline on Existing Mortgage Loans in Exceptional Circumstances .\nInstitutions should have:\n  - Forbearance practices that support sustainable debt serviceability and minimize potential for longer-term financial shocks at the account and portfolio level. Appropriate forbearance should preserve the institution’s financial resilience and reputation.\n  - An adequately resourced and scalable default management and collections function to respond to cyclical increases in vulnerable accounts and potential defaulted loans.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Institutions should undertake:"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Early and proactive engagement with vulnerable borrowers on potential forbearance actions, including the range of temporary or permanent concessions institutions may grant in different situations of financial difficulty. Forbearance is a temporary or permanent concession granted to a borrower for reasons of financial difficulty that would not otherwise be considered by the lender on market terms.",
+            "Identification and management of vulnerable accounts , guided by relevant thresholds (for example, near-term maturity, variable-rate mortgages with fixed payments, trigger rate/point, and early-stage delinquency).",
+            "Prudent forbearance assessments of borrower ability to repay the loan in a reasonable period. Concessions should be structured appropriately, avoid masking financial distress, be subject to clearly defined policy limits, and be reviewed in line with risk appetite.",
+            "Judicious and fair application of forbearance in adherence to the Financial Consumer Agency of Canada’s Guideline on Existing Mortgage Loans in Exceptional Circumstances ."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Institutions should have:"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Forbearance practices that support sustainable debt serviceability and minimize potential for longer-term financial shocks at the account and portfolio level. Appropriate forbearance should preserve the institution’s financial resilience and reputation.",
+            "An adequately resourced and scalable default management and collections function to respond to cyclical increases in vulnerable accounts and potential defaulted loans."
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "4. Sound credit loss provisioning",
+      "heading_level": 2,
+      "full_text": "Institutions should ensure:\n  - Forward-looking information is captured through expected credit losses modelling adjustments. Experienced credit judgement should be applied to adjust modelled outputs when risk factors are not adequately captured in risk ratings and modelling processes.\n  - Timely, complete recognition and appropriate disclosure of increased credit risk , at either the account or portfolio level, following a thorough analysis of the institution’s exposure.\n  - More in-depth analysis of increased credit risk , particularly of vulnerable account segments, including identifying and analyzing: layered risks to isolate higher-risk portfolio segments; accounts with extended or negative amortization; and near-term (less than two years) and mid-term (two years and beyond) payment shock and delinquency projections.\n  - Timely and complete recognition of potential losses arising from any loan modifications (for example, forbearance and other concessions).\n  - Extended or negative amortization are considered relevant determinants of a significant increase in credit risk , driving additional provisions as appropriate.\n  - layered risks to isolate higher-risk portfolio segments;\n  - accounts with extended or negative amortization; and\n  - near-term (less than two years) and mid-term (two years and beyond) payment shock and delinquency projections.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Institutions should ensure:"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Forward-looking information is captured through expected credit losses modelling adjustments. Experienced credit judgement should be applied to adjust modelled outputs when risk factors are not adequately captured in risk ratings and modelling processes.",
+            "Timely, complete recognition and appropriate disclosure of increased credit risk , at either the account or portfolio level, following a thorough analysis of the institution’s exposure.",
+            "More in-depth analysis of increased credit risk , particularly of vulnerable account segments, including identifying and analyzing: layered risks to isolate higher-risk portfolio segments; accounts with extended or negative amortization; and near-term (less than two years) and mid-term (two years and beyond) payment shock and delinquency projections.",
+            "Timely and complete recognition of potential losses arising from any loan modifications (for example, forbearance and other concessions).",
+            "Extended or negative amortization are considered relevant determinants of a significant increase in credit risk , driving additional provisions as appropriate."
+          ]
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "layered risks to isolate higher-risk portfolio segments;",
+            "accounts with extended or negative amortization; and",
+            "near-term (less than two years) and mid-term (two years and beyond) payment shock and delinquency projections."
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "5.1 Careful verification of income",
+      "heading_level": 3,
+      "full_text": "Institutions should ensure:\n  - Rigorous practices for the verification of borrower income , including considering income sustainability, borrower resiliency, and fraud or misrepresentation.\n  - Thorough due diligence and the application of appropriate expertise vis-à-vis foreign income , including consideration of foreign expenses or liabilities.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Institutions should ensure:"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Rigorous practices for the verification of borrower income , including considering income sustainability, borrower resiliency, and fraud or misrepresentation.",
+            "Thorough due diligence and the application of appropriate expertise vis-à-vis foreign income , including consideration of foreign expenses or liabilities."
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "5.2 Careful consideration of higher risk mortgage products",
+      "heading_level": 3,
+      "full_text": "Institutions should:\n  - Assess the borrower’s capacity and willingness to recognize and manage interest-rate risk , such as increased regular payments or a lump sum payment.\n  - Take into account amortization risk , including potential for temporarily extended or negative amortization, and have processes for early identification and mitigation.\n  - Ensure product selection decisions comply with consumer protections , including any applicable financial consumer protection law and the Financial Consumer Agency of Canada’s Guideline on Appropriate Products and Services for Banks and Authorized Foreign Banks .",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Institutions should:"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Assess the borrower’s capacity and willingness to recognize and manage interest-rate risk , such as increased regular payments or a lump sum payment.",
+            "Take into account amortization risk , including potential for temporarily extended or negative amortization, and have processes for early identification and mitigation.",
+            "Ensure product selection decisions comply with consumer protections , including any applicable financial consumer protection law and the Financial Consumer Agency of Canada’s Guideline on Appropriate Products and Services for Banks and Authorized Foreign Banks ."
+          ]
+        }
+      ]
+    }
+  ],
+  "title_normalized": "reinforcing residential mortgage risk management practices",
+  "publication_type_normalized": "regulatory_notice",
+  "category_normalized": "sound_business_and_financial_practices",
+  "sector_normalized": [
+    "banks",
+    "foreign_bank_branches",
+    "life_insurance",
+    "pc_insurance",
+    "trust_and_loan_companies"
+  ],
+  "guideline_number_normalized": "",
+  "applies_to_banks": true,
+  "applies_to_trust_loan": true,
+  "applies_to_life_insurance": true,
+  "applies_to_pc_insurance": true,
+  "applies_to_foreign_bank": true,
+  "applies_to_foreign_insurance": false,
+  "applies_to_cooperative": false,
+  "applies_to_bank_holding": false,
+  "effective_date_sort_key": "2024-03-11",
+  "status_sort_key": 1,
+  "authority_sort_key": 100,
+  "bm25_text": "Reinforcing residential mortgage risk management practices Regulatory notice Sound Business and Financial Practices Banks Foreign Bank Branches Life Insurance and Fraternal Companies Property and Casualty Companies Trust and Loan Companies 1. Purpose and scope 2. Background 3.1 Sound loan servicing policies, systems, processes, and controls 3.2 Proactive and sustainable management of vulnerable accounts 4. Sound credit loss provisioning 5.1 Careful verification of income 5.2 Careful consideration of higher risk mortgage products",
+  "vector_text_prefix": "[OSFI Regulatory notice  | Sound Business and Financial Practices | Banks / Foreign Bank Branches / Life Insurance and Fraternal Companies | FINAL_CURRENT | Effective 2024-03-11]",
+  "h1_title": "Reinforcing residential mortgage risk management practices",
+  "regulator": "OSFI",
+  "regulator_acronym": "OSFI",
+  "jurisdiction": "Canada",
+  "short_title": "",
+  "source_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/reinforcing-residential-mortgage-risk-management-practices"
+}

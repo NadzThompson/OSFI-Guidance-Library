@@ -1,0 +1,14 @@
+# Zip files
+*.zip
+
+# Temporary/binary files
+ziOHw7O8
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# OS files
+.DS_Store
+Thumbs.db

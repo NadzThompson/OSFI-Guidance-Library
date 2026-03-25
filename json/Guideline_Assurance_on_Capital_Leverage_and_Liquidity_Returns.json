@@ -1,0 +1,380 @@
+{
+  "source_system": "osfi_guidance_library",
+  "library_row_title": "Guideline: Assurance on Capital, Leverage and Liquidity Returns",
+  "library_row_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/guideline-assurance-capital-leverage-liquidity-returns",
+  "listing_date_raw": "November 7, 2022",
+  "listing_date_iso": "2022-11-07",
+  "listing_publication_type": "Letter",
+  "listing_category": "Accounting and Disclosure",
+  "listing_sector": [
+    "Banks",
+    "Life Insurance and Fraternal Companies",
+    "Property and Casualty Companies",
+    "Trust and Loan Companies"
+  ],
+  "crawl_timestamp": "2026-03-11T00:00:00Z",
+  "detail_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/guideline-assurance-capital-leverage-liquidity-returns",
+  "canonical_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/guideline-assurance-capital-leverage-liquidity-returns",
+  "slug": "guideline-assurance-capital-leverage-liquidity-returns",
+  "title": "Guideline: Assurance on Capital, Leverage and Liquidity Returns",
+  "publication_type": "Letter",
+  "category": "Accounting and Disclosure",
+  "document_date_raw": "November 7, 2022",
+  "document_date_iso": "2022-11-07",
+  "sector": [
+    "Banks",
+    "Life Insurance and Fraternal Companies",
+    "Property and Casualty Companies",
+    "Trust and Loan Companies"
+  ],
+  "effective_date_text": "",
+  "guideline_number": "",
+  "date_modified_raw": "2022-11-07T12:00:00Z",
+  "generate_pdf_url": "https://www.osfi-bsif.gc.ca/en/print/pdf/node/335",
+  "pdf_node_id": 335,
+  "direct_pdf_url": "https://www.osfi-bsif.gc.ca/sites/default/files/documents/accrsk_EN.pdf",
+  "has_table_of_contents": true,
+  "toc_entries": [],
+  "has_related_documents": false,
+  "related_document_links_raw": [],
+  "consultation_status_text": null,
+  "consultation_status_refers_to_version": null,
+  "page_language": "en",
+  "word_count_raw_body": 1147,
+  "doc_id": "osfi.guideline-assurance-capital-leverage-liquidity-ret.transmittal",
+  "doc_family_id": "osfi.guideline-assurance-capital-leverage-liquidity-ret",
+  "version_id": "",
+  "version_label": "Guideline: Assurance on Capital, Leverage and Liquidity Retu",
+  "version_sort_key": "",
+  "parent_doc_id": null,
+  "child_doc_ids": [],
+  "is_package_page": false,
+  "is_chapter_page": false,
+  "chapter_number": null,
+  "chapter_title": null,
+  "document_order_within_family": 0,
+  "supersedes_doc_id": null,
+  "superseded_by_doc_id": null,
+  "current_version_flag": true,
+  "status": "final_current",
+  "include_in_primary_corpus": false,
+  "include_in_support_corpus": true,
+  "include_in_context_corpus": false,
+  "effective_date_start": "2022-11-07",
+  "effective_date_end": null,
+  "effective_date_fye_split": false,
+  "effective_date_oct_fye": null,
+  "effective_date_dec_fye": null,
+  "is_future_effective": false,
+  "is_rescinded": false,
+  "is_draft_or_consultation": false,
+  "rescission_date": null,
+  "consultation_closing_date": null,
+  "as_of_applicability": "2026-03-23",
+  "rule_applied": "rule_5_final_current",
+  "authority_class": "official_support",
+  "authority_level": 60,
+  "nova_tier": 2,
+  "prudential_weight": 0.7,
+  "is_primary_normative": false,
+  "is_supporting_interpretive": true,
+  "is_context_only": false,
+  "document_class": "transmittal_letter",
+  "guidance_type_normalized": "letter",
+  "section_headings": [
+    {
+      "level": 2,
+      "text": "Summary of Respondent Feedback on OSFI’s Draft Guideline, Assurance on Capital, Leverage and Liquidity Returns",
+      "id": "h2-0"
+    },
+    {
+      "level": 3,
+      "text": "Fully Accepted",
+      "id": "h3-1"
+    },
+    {
+      "level": 3,
+      "text": "Partially Accepted",
+      "id": "h3-2"
+    },
+    {
+      "level": 3,
+      "text": "Retained Original Position",
+      "id": "h3-3"
+    }
+  ],
+  "heading_path": [
+    "Guideline: Assurance on Capital, Leverage and Liquidity Returns"
+  ],
+  "toc_depth": 3,
+  "has_appendices": false,
+  "appendix_ids": [],
+  "has_tables": true,
+  "table_count": 3,
+  "has_footnotes": false,
+  "footnote_count": 0,
+  "inline_cross_references": [],
+  "quoted_external_references": [],
+  "raw_html_sha256": "7574d5531f7c70d31a2781ded36cb5526c7179319c4182497c3b89871d870bcd",
+  "raw_pdf_sha256": null,
+  "normalized_text_sha256": null,
+  "raw_html_path": "bronze/osfi/html/final_current/guideline-assurance-capital-leverage-liquidity-returns.html",
+  "normalized_md_path": "silver/osfi/md/final_current/guideline-assurance-capital-leverage-liquidity-returns.md",
+  "canonical_json_path": "silver/osfi/json/final_current/guideline-assurance-capital-leverage-liquidity-returns.json",
+  "content_source": "HTML",
+  "parser_version": "osfi-parser-v2.1.0",
+  "normalizer_version": "osfi-normalizer-v1.4.0",
+  "quality_score": 1.0,
+  "quality_flags": [],
+  "download_timestamp": "2026-03-11T00:00:00Z",
+  "enriched_timestamp": "2026-03-23T09:53:52.033856Z",
+  "sections": [
+    {
+      "heading": "",
+      "heading_level": 2,
+      "full_text": "  - OSFI issues new guideline for assurance on capital, leverage and liquidity returns\n  - Assurance on Capital, Leverage and Liquidity Returns - A Discussion Paper (PDF, 5.5 MB)\n  - Assurance on Capital, Leverage and Liquidity Returns - Guideline (2022)\nTo: Federally Regulated Financial Institutions\nThe Office of the Superintendent of Financial Institutions (OSFI) is issuing the Assurance on Capital, Leverage and Liquidity Returns ​ Guideline, following a public consultation on a Discussion Paper in April 2021 and a Draft Guideline in March 2022.\nRegulatory returns are key contributors to the assessment of safety and soundness of a federally regulated financial institution (FRFI). This guideline enhances and aligns assurance expectations on regulatory returns across all FRFIs.\nIn developing the Guideline, OSFI considered the range of feedback received during the consultation process and made adjustments where deemed appropriate.​\nOSFI thanks all stakeholders who provided feedback. The Annex below provides a non-attributed summary of the main feedback and an explanation of how that feedback has been addressed.\nAny questions on the Guideline may be addressed by email to Assurance@osfi-bsif.gc.ca .\nSincerely,\nTolga Yalkin Assistant Superintendent, Policy Innovation and Stakeholder Affairs",
+      "content": [
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "OSFI issues new guideline for assurance on capital, leverage and liquidity returns",
+            "Assurance on Capital, Leverage and Liquidity Returns - A Discussion Paper (PDF, 5.5 MB)",
+            "Assurance on Capital, Leverage and Liquidity Returns - Guideline (2022)"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "To: Federally Regulated Financial Institutions"
+        },
+        {
+          "type": "paragraph",
+          "text": "The Office of the Superintendent of Financial Institutions (OSFI) is issuing the Assurance on Capital, Leverage and Liquidity Returns ​ Guideline, following a public consultation on a Discussion Paper in April 2021 and a Draft Guideline in March 2022."
+        },
+        {
+          "type": "paragraph",
+          "text": "Regulatory returns are key contributors to the assessment of safety and soundness of a federally regulated financial institution (FRFI). This guideline enhances and aligns assurance expectations on regulatory returns across all FRFIs."
+        },
+        {
+          "type": "paragraph",
+          "text": "In developing the Guideline, OSFI considered the range of feedback received during the consultation process and made adjustments where deemed appropriate.​"
+        },
+        {
+          "type": "paragraph",
+          "text": "OSFI thanks all stakeholders who provided feedback. The Annex below provides a non-attributed summary of the main feedback and an explanation of how that feedback has been addressed."
+        },
+        {
+          "type": "paragraph",
+          "text": "Any questions on the Guideline may be addressed by email to Assurance@osfi-bsif.gc.ca ."
+        },
+        {
+          "type": "paragraph",
+          "text": "Sincerely,"
+        },
+        {
+          "type": "paragraph",
+          "text": "Tolga Yalkin Assistant Superintendent, Policy Innovation and Stakeholder Affairs"
+        }
+      ]
+    },
+    {
+      "heading": "Summary of Respondent Feedback on OSFI’s Draft Guideline, Assurance on Capital, Leverage and Liquidity Returns",
+      "heading_level": 2,
+      "full_text": "OSFI received feedback on the Draft Guideline from 12 respondents, including FRFIs, audit firms, industry, and professional associations. The summary of feedback below reflects those issues raised by a large number of respondents.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "OSFI received feedback on the Draft Guideline from 12 respondents, including FRFIs, audit firms, industry, and professional associations. The summary of feedback below reflects those issues raised by a large number of respondents."
+        }
+      ]
+    },
+    {
+      "heading": "Fully Accepted",
+      "heading_level": 3,
+      "full_text": "Feedback | OSFI Response\nSequencing\nRespondents emphasized the need for management attestations to precede internal and external audits. | FRFIs have flexibility in defining the sequence to fulfill their regulatory assurance responsibilities. The revised effective dates allow management attestations to precede audits.\nScope\nRespondents requested that the assurance be required at a consolidated level. | The assurance requirements will be applicable at the consolidated level.\nClarifications\nRespondents requested clarification on: whether external audit assurance is expected at a level lower than the numerator/denominator (i.e., material risk components); the level of independence required in the management attestation process; the scope of external audit assurance with respect to models; the appropriate level of materiality for the assurance requirements; the form of audit report/opinion to be provided; and the need for, and timing of, internal audit assurance requirements. | The Guideline clarifies that: an external audit opinion is required on the numerator and denominator of the key regulatory ratios; management attestation should be performed by an individual not directly involved in the preparation of the returns, and who has the appropriate authority, knowledge, and expertise; external auditors are expected to opine on whether model implementation, where applicable, is consistent with OSFI-approved models; external auditors are expected to determine an appropriate, risk-based level of materiality based on their professional judgment; external auditors are expected to select the appropriate report based on their professional judgment; and an internal audit opinion provides an important element of assurance over the controls related to regulatory returns. The first internal audit opinion may be provided between the fiscal 2023 and 2025 reporting timelines.\nRespondents requested clarification on:\n  1. whether external audit assurance is expected at a level lower than the numerator/denominator (i.e., material risk components);\n  2. the level of independence required in the management attestation process;\n  3. the scope of external audit assurance with respect to models;\n  4. the appropriate level of materiality for the assurance requirements;\n  5. the form of audit report/opinion to be provided; and\n  6. the need for, and timing of, internal audit assurance requirements.\nThe Guideline clarifies that:\n  1. an external audit opinion is required on the numerator and denominator of the key regulatory ratios;\n  2. management attestation should be performed by an individual not directly involved in the preparation of the returns, and who has the appropriate authority, knowledge, and expertise;\n  3. external auditors are expected to opine on whether model implementation, where applicable, is consistent with OSFI-approved models;\n  4. external auditors are expected to determine an appropriate, risk-based level of materiality based on their professional judgment;\n  5. external auditors are expected to select the appropriate report based on their professional judgment; and\n  6. an internal audit opinion provides an important element of assurance over the controls related to regulatory returns. The first internal audit opinion may be provided between the fiscal 2023 and 2025 reporting timelines.",
+      "content": [
+        {
+          "type": "table",
+          "caption": "",
+          "rows": [
+            [
+              "Feedback",
+              "OSFI Response"
+            ],
+            [
+              "Sequencing"
+            ],
+            [
+              "Respondents emphasized the need for management attestations to precede internal and external audits.",
+              "FRFIs have flexibility in defining the sequence to fulfill their regulatory assurance responsibilities. The revised effective dates allow management attestations to precede audits."
+            ],
+            [
+              "Scope"
+            ],
+            [
+              "Respondents requested that the assurance be required at a consolidated level.",
+              "The assurance requirements will be applicable at the consolidated level."
+            ],
+            [
+              "Clarifications"
+            ],
+            [
+              "Respondents requested clarification on: whether external audit assurance is expected at a level lower than the numerator/denominator (i.e., material risk components); the level of independence required in the management attestation process; the scope of external audit assurance with respect to models; the appropriate level of materiality for the assurance requirements; the form of audit report/opinion to be provided; and the need for, and timing of, internal audit assurance requirements.",
+              "The Guideline clarifies that: an external audit opinion is required on the numerator and denominator of the key regulatory ratios; management attestation should be performed by an individual not directly involved in the preparation of the returns, and who has the appropriate authority, knowledge, and expertise; external auditors are expected to opine on whether model implementation, where applicable, is consistent with OSFI-approved models; external auditors are expected to determine an appropriate, risk-based level of materiality based on their professional judgment; external auditors are expected to select the appropriate report based on their professional judgment; and an internal audit opinion provides an important element of assurance over the controls related to regulatory returns. The first internal audit opinion may be provided between the fiscal 2023 and 2025 reporting timelines."
+            ]
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Respondents requested clarification on:"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "whether external audit assurance is expected at a level lower than the numerator/denominator (i.e., material risk components);",
+            "the level of independence required in the management attestation process;",
+            "the scope of external audit assurance with respect to models;",
+            "the appropriate level of materiality for the assurance requirements;",
+            "the form of audit report/opinion to be provided; and",
+            "the need for, and timing of, internal audit assurance requirements."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "The Guideline clarifies that:"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "an external audit opinion is required on the numerator and denominator of the key regulatory ratios;",
+            "management attestation should be performed by an individual not directly involved in the preparation of the returns, and who has the appropriate authority, knowledge, and expertise;",
+            "external auditors are expected to opine on whether model implementation, where applicable, is consistent with OSFI-approved models;",
+            "external auditors are expected to determine an appropriate, risk-based level of materiality based on their professional judgment;",
+            "external auditors are expected to select the appropriate report based on their professional judgment; and",
+            "an internal audit opinion provides an important element of assurance over the controls related to regulatory returns. The first internal audit opinion may be provided between the fiscal 2023 and 2025 reporting timelines."
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "Partially Accepted",
+      "heading_level": 3,
+      "full_text": "Feedback | OSFI Response\nEffective Dates\nRespondents requested a further deferral of the effective dates to have sufficient time to prepare the internal processes and oversight necessary to meet the assurance requirements. | OSFI is deferring external audit requirements to 2025. The effective dates are as follows: All management attestations to be effective beginning in fiscal 2024; All internal audit assurance requirements to be effective beginning in fiscal 2023, and to be provided at a minimum once every three years; and All external audit assurance requirements to be effective beginning in fiscal 2025.\nProportionality\nSmall- and Medium-sized Deposit-taking Institutions (SMSBs) requested additional time to prepare the internal processes and oversight necessary to meet the assurance requirements, including an additional year after Systemically Important Banks (SIBs). | OSFI appreciates the constraints for small- and medium-sized institutions and is deferring the external audit requirements to 2025. This aligns the requirements across the industry as the risks related to liquidity, leverage, and capital returns are equally relevant to all industry participants.\nLiquidity\nRespondents requested phasing in liquidity returns to allow more time to prepare internal processes over liquidity metrics. | To allow more time, the external audit requirements for the liquidity returns have been deferred until fiscal 2025.\nOSFI is deferring external audit requirements to 2025. The effective dates are as follows:\n  - All management attestations to be effective beginning in fiscal 2024;\n  - All internal audit assurance requirements to be effective beginning in fiscal 2023, and to be provided at a minimum once every three years; and\n  - All external audit assurance requirements to be effective beginning in fiscal 2025.",
+      "content": [
+        {
+          "type": "table",
+          "caption": "",
+          "rows": [
+            [
+              "Feedback",
+              "OSFI Response"
+            ],
+            [
+              "Effective Dates"
+            ],
+            [
+              "Respondents requested a further deferral of the effective dates to have sufficient time to prepare the internal processes and oversight necessary to meet the assurance requirements.",
+              "OSFI is deferring external audit requirements to 2025. The effective dates are as follows: All management attestations to be effective beginning in fiscal 2024; All internal audit assurance requirements to be effective beginning in fiscal 2023, and to be provided at a minimum once every three years; and All external audit assurance requirements to be effective beginning in fiscal 2025."
+            ],
+            [
+              "Proportionality"
+            ],
+            [
+              "Small- and Medium-sized Deposit-taking Institutions (SMSBs) requested additional time to prepare the internal processes and oversight necessary to meet the assurance requirements, including an additional year after Systemically Important Banks (SIBs).",
+              "OSFI appreciates the constraints for small- and medium-sized institutions and is deferring the external audit requirements to 2025. This aligns the requirements across the industry as the risks related to liquidity, leverage, and capital returns are equally relevant to all industry participants."
+            ],
+            [
+              "Liquidity"
+            ],
+            [
+              "Respondents requested phasing in liquidity returns to allow more time to prepare internal processes over liquidity metrics.",
+              "To allow more time, the external audit requirements for the liquidity returns have been deferred until fiscal 2025."
+            ]
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "OSFI is deferring external audit requirements to 2025. The effective dates are as follows:"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "All management attestations to be effective beginning in fiscal 2024;",
+            "All internal audit assurance requirements to be effective beginning in fiscal 2023, and to be provided at a minimum once every three years; and",
+            "All external audit assurance requirements to be effective beginning in fiscal 2025."
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "Retained Original Position",
+      "heading_level": 3,
+      "full_text": "Feedback | OSFI Response\nExternal Audit Assurance\nRespondents commented that examining the regulatory ratio’s numerator and denominator separately is feasible but may increase the scope and cost of the audit. | OSFI continues to believe that it is important to assess the numerator and denominator separately to prevent potential offsetting errors that may be undetected.\nFrequency of external audits\nRespondents requested OSFI consider external audits to be conducted on a three-year cycle. | An independent external audit opinion is an important element of assurance over regulatory returns and OSFI expects Insurers, SIBs, and Category 1 SMSBs See OSFI’s Guideline, <a href=\"/node/638\">Small and Medium-Sized Deposit-Taking Institutions (SMSBs) Capital and Liquidity Requirements</a>, for categorizations of SMSBs. to provide them annually. In consideration of resource constraints, Category II and III SMSBs may provide their external audit opinions biennially.\nFiling requirements\nRespondents requested OSFI consider non fiscal year-end audits to alleviate resource constraints at year-end. | As regulatory returns are based on financial returns, it is important that regulatory audits be conducted in the same period as financial audits. Assurance audit opinions are due within 90 days of fiscal year-end.",
+      "content": [
+        {
+          "type": "table",
+          "caption": "",
+          "rows": [
+            [
+              "Feedback",
+              "OSFI Response"
+            ],
+            [
+              "External Audit Assurance"
+            ],
+            [
+              "Respondents commented that examining the regulatory ratio’s numerator and denominator separately is feasible but may increase the scope and cost of the audit.",
+              "OSFI continues to believe that it is important to assess the numerator and denominator separately to prevent potential offsetting errors that may be undetected."
+            ],
+            [
+              "Frequency of external audits"
+            ],
+            [
+              "Respondents requested OSFI consider external audits to be conducted on a three-year cycle.",
+              "An independent external audit opinion is an important element of assurance over regulatory returns and OSFI expects Insurers, SIBs, and Category 1 SMSBs See OSFI’s Guideline, <a href=\"/node/638\">Small and Medium-Sized Deposit-Taking Institutions (SMSBs) Capital and Liquidity Requirements</a>, for categorizations of SMSBs. to provide them annually. In consideration of resource constraints, Category II and III SMSBs may provide their external audit opinions biennially."
+            ],
+            [
+              "Filing requirements"
+            ],
+            [
+              "Respondents requested OSFI consider non fiscal year-end audits to alleviate resource constraints at year-end.",
+              "As regulatory returns are based on financial returns, it is important that regulatory audits be conducted in the same period as financial audits. Assurance audit opinions are due within 90 days of fiscal year-end."
+            ]
+          ]
+        }
+      ]
+    }
+  ],
+  "title_normalized": "guideline assurance on capital leverage and liquidity returns",
+  "publication_type_normalized": "letter",
+  "category_normalized": "accounting_and_disclosure",
+  "sector_normalized": [
+    "banks",
+    "life_insurance",
+    "pc_insurance",
+    "trust_and_loan_companies"
+  ],
+  "guideline_number_normalized": "",
+  "applies_to_banks": true,
+  "applies_to_trust_loan": true,
+  "applies_to_life_insurance": true,
+  "applies_to_pc_insurance": true,
+  "applies_to_foreign_bank": false,
+  "applies_to_foreign_insurance": false,
+  "applies_to_cooperative": false,
+  "applies_to_bank_holding": false,
+  "effective_date_sort_key": "2022-11-07",
+  "status_sort_key": 1,
+  "authority_sort_key": 60,
+  "bm25_text": "Guideline: Assurance on Capital, Leverage and Liquidity Returns Letter Accounting and Disclosure Banks Life Insurance and Fraternal Companies Property and Casualty Companies Trust and Loan Companies Summary of Respondent Feedback on OSFI’s Draft Guideline, Assurance on Capital, Leverage and Liquidity Returns Fully Accepted Partially Accepted Retained Original Position",
+  "vector_text_prefix": "[OSFI Letter  | Accounting and Disclosure | Banks / Life Insurance and Fraternal Companies / Property and Casualty Companies | FINAL_CURRENT | Effective 2022-11-07]",
+  "h1_title": "Guideline: Assurance on Capital, Leverage and Liquidity Returns",
+  "regulator": "OSFI",
+  "regulator_acronym": "OSFI",
+  "jurisdiction": "Canada",
+  "short_title": "",
+  "source_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/guideline-assurance-capital-leverage-liquidity-returns"
+}

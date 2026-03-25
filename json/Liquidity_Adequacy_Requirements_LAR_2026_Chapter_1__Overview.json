@@ -1,0 +1,577 @@
+{
+  "source_system": "osfi_guidance_library",
+  "library_row_title": "Liquidity Adequacy Requirements (LAR) (2026) Chapter 1 – Overview",
+  "library_row_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/liquidity-adequacy-requirements-lar-2026-chapter-1-overview",
+  "listing_date_raw": "Effective Date May 1, 2026",
+  "listing_date_iso": "",
+  "listing_publication_type": "Guideline",
+  "listing_category": "Capital Adequacy Requirements",
+  "listing_sector": [
+    "Banks",
+    "Trust and Loan Companies"
+  ],
+  "crawl_timestamp": "2026-03-11T00:00:00Z",
+  "detail_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/liquidity-adequacy-requirements-lar-2026-chapter-1-overview",
+  "canonical_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/liquidity-adequacy-requirements-lar-2026-chapter-1-overview",
+  "slug": "liquidity-adequacy-requirements-lar-2026-chapter-1-overview",
+  "title": "Liquidity Adequacy Requirements (LAR) (2026) Chapter 1 – Overview",
+  "publication_type": "Guideline",
+  "category": "Capital Adequacy Requirements",
+  "document_date_raw": "Effective Date May 1, 2026",
+  "document_date_iso": "",
+  "sector": [
+    "Banks",
+    "Trust and Loan Companies"
+  ],
+  "effective_date_text": "Effective Date May 1, 2026",
+  "guideline_number": "LAR",
+  "date_modified_raw": "2026-01-29T12:00:00Z",
+  "generate_pdf_url": "https://www.osfi-bsif.gc.ca/en/print/pdf/node/3122",
+  "pdf_node_id": 3122,
+  "direct_pdf_url": null,
+  "has_table_of_contents": true,
+  "toc_entries": [],
+  "has_related_documents": true,
+  "related_document_links_raw": [
+    {
+      "title": "Backgrounder: Final Liquidity Adequacy Requirements Guideline (2026)",
+      "url": "https://www.osfi-bsif.gc.ca/en/news/backgrounder-final-liquidity-adequacy-requirements-guideline-2026"
+    },
+    {
+      "title": "Liquidity Adequacy Requirements Guideline (2026) - Letter",
+      "url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/liquidity-adequacy-requirements-guideline-2026-letter"
+    },
+    {
+      "title": "Summary of stakeholder comments and our responses for the Liquidity Adequacy Req",
+      "url": "https://www.osfi-bsif.gc.ca/en/consultations/consultation-summaries/summary-stakeholder-comments-our-responses-liquidity-adequacy-requirements-guideline-2026"
+    }
+  ],
+  "consultation_status_text": null,
+  "consultation_status_refers_to_version": null,
+  "page_language": "en",
+  "word_count_raw_body": 5399,
+  "doc_id": "osfi.lar.2026.chapter1.chapter",
+  "doc_family_id": "osfi.lar",
+  "version_id": "2026",
+  "version_label": "LAR (2026)",
+  "version_sort_key": "2026-05",
+  "parent_doc_id": "osfi.lar.2026.package",
+  "child_doc_ids": [],
+  "is_package_page": false,
+  "is_chapter_page": true,
+  "chapter_number": 1,
+  "chapter_title": "Overview",
+  "document_order_within_family": 1,
+  "supersedes_doc_id": "osfi.lar.2025.chapter7.chapter",
+  "superseded_by_doc_id": null,
+  "current_version_flag": true,
+  "status": "final_future_effective",
+  "include_in_primary_corpus": true,
+  "include_in_support_corpus": false,
+  "include_in_context_corpus": false,
+  "effective_date_start": "2026-05-01",
+  "effective_date_end": null,
+  "effective_date_fye_split": false,
+  "effective_date_oct_fye": null,
+  "effective_date_dec_fye": null,
+  "is_future_effective": true,
+  "is_rescinded": false,
+  "is_draft_or_consultation": false,
+  "rescission_date": null,
+  "consultation_closing_date": null,
+  "as_of_applicability": "2026-03-23",
+  "rule_applied": "rule_4_future_effective",
+  "authority_class": "primary_normative",
+  "authority_level": 100,
+  "nova_tier": 1,
+  "prudential_weight": 1.0,
+  "is_primary_normative": true,
+  "is_supporting_interpretive": false,
+  "is_context_only": false,
+  "document_class": "chapter_guideline",
+  "guidance_type_normalized": "guideline",
+  "section_headings": [
+    {
+      "level": 3,
+      "text": "1.1 Objective",
+      "id": "h3-0"
+    },
+    {
+      "level": 3,
+      "text": "1.2 Scope of application",
+      "id": "h3-1"
+    },
+    {
+      "level": 3,
+      "text": "1.3 Overview of the individual liquidity metrics",
+      "id": "h3-2"
+    },
+    {
+      "level": 3,
+      "text": "1.4 Requirements associated with the metrics",
+      "id": "h3-3"
+    },
+    {
+      "level": 3,
+      "text": "1.5 Frequency of calculation and regulatory reporting timeline",
+      "id": "h3-4"
+    },
+    {
+      "level": 2,
+      "text": "Footnotes",
+      "id": "h2-5"
+    }
+  ],
+  "heading_path": [
+    "Liquidity Adequacy Requirements (LAR) (2026) Chapter 1 – Overview"
+  ],
+  "toc_depth": 3,
+  "has_appendices": false,
+  "appendix_ids": [],
+  "has_tables": false,
+  "table_count": 0,
+  "has_footnotes": true,
+  "footnote_count": 1,
+  "inline_cross_references": [
+    "Guideline B-6: Liquidity Principles Footnote 3",
+    "Guideline B-6",
+    "Guideline B-6: Liquidity Principles"
+  ],
+  "quoted_external_references": [
+    "Basel Committee on Banking Supervision's (BCBS) Basel III liquidity framework",
+    "BCBS Sound Principles Footnote 2 and OSFI's Guideline B-6: Liquidity Principles Foot",
+    "BCBS's Sound Principles and Principle 4 of OSFI's Guideline B-6: Liquidity Principle",
+    "BCBS's Sound Principles and OSFI's Guideline B-6: Liquidity Principles",
+    "BCBS that institutions are expected to use their stock of HQLA",
+    "Basel Committee on Banking Supervision (BCBS) - Principles for Sound Liquidity Risk Management"
+  ],
+  "raw_html_sha256": "c3d7ebc28f8b07e7cadc7e0ba93997b2de54a8cdb28f5d00326c4447c1bc21c3",
+  "raw_pdf_sha256": null,
+  "normalized_text_sha256": null,
+  "raw_html_path": "bronze/osfi/html/final_future/liquidity-adequacy-requirements-lar-2026-chapter-1-overview.html",
+  "normalized_md_path": "silver/osfi/md/final_future/liquidity-adequacy-requirements-lar-2026-chapter-1-overview.md",
+  "canonical_json_path": "silver/osfi/json/final_future/liquidity-adequacy-requirements-lar-2026-chapter-1-overview.json",
+  "content_source": "HTML",
+  "parser_version": "osfi-parser-v2.1.0",
+  "normalizer_version": "osfi-normalizer-v1.4.0",
+  "quality_score": 1.0,
+  "quality_flags": [],
+  "download_timestamp": "2026-03-11T00:00:00Z",
+  "enriched_timestamp": "2026-03-23T09:53:55.322525Z",
+  "sections": [
+    {
+      "heading": "",
+      "heading_level": 2,
+      "full_text": "  - Backgrounder: Final Liquidity Adequacy Requirements Guideline (2026)\n  - Liquidity Adequacy Requirements Guideline (2026) - Letter\n  - Summary of stakeholder comments and our responses for the Liquidity Adequacy Requirements Guideline (2026)",
+      "content": [
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Backgrounder: Final Liquidity Adequacy Requirements Guideline (2026)",
+            "Liquidity Adequacy Requirements Guideline (2026) - Letter",
+            "Summary of stakeholder comments and our responses for the Liquidity Adequacy Requirements Guideline (2026)"
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "1.1 Objective",
+      "heading_level": 3,
+      "full_text": "  1. Outlined below is an overview of liquidity adequacy requirements for banks, federally regulated trust or loan companies, and for bank holding companies incorporated or formed under Part XV of the Bank Act , collectively referred to as \"institutions\".\n  2. Parts of this guideline draw on the Basel Committee on Banking Supervision's (BCBS) Basel III liquidity framework, which encompasses Basel III: The Liquidity Coverage Ratio and liquidity risk monitoring tools – published in January 2013, Basel III: the Net Stable Funding Ratio – published in October 2014, and Monitoring tools for intraday liquidity management – published in April 2013. For reference, the Basel text paragraph numbers that are associated with the text appearing in this guideline are indicated in square brackets at the end of each paragraph Footnote 1 .\n  3. This guideline contains the methodologies underpinning a series of liquidity metrics that are used by OSFI to assess the liquidity adequacy of an institution. OSFI will evaluate the performance of an institution's liquidity metrics both as a package and individually when determining its overall assessment of an institution's liquidity adequacy. In addition, the liquidity metrics presented in this guideline will be supplemented by detailed supervisory assessments of other aspects of an institution's liquidity risk management framework in line with the BCBS Sound Principles Footnote 2 and OSFI's Guideline B-6: Liquidity Principles Footnote 3 . This is to ensure that the aspects of the OSFI's liquidity guidelines are well engrained in institutions' internal practices; for example that institutions should consider liquidity costs, benefits and risks in their internal pricing, in line with OSFI Principle 10 in Guideline B-6.\nOutlined below is an overview of liquidity adequacy requirements for banks, federally regulated trust or loan companies, and for bank holding companies incorporated or formed under Part XV of the Bank Act , collectively referred to as \"institutions\".\nParts of this guideline draw on the Basel Committee on Banking Supervision's (BCBS) Basel III liquidity framework, which encompasses Basel III: The Liquidity Coverage Ratio and liquidity risk monitoring tools – published in January 2013, Basel III: the Net Stable Funding Ratio – published in October 2014, and Monitoring tools for intraday liquidity management – published in April 2013. For reference, the Basel text paragraph numbers that are associated with the text appearing in this guideline are indicated in square brackets at the end of each paragraph Footnote 1 .\nThis guideline contains the methodologies underpinning a series of liquidity metrics that are used by OSFI to assess the liquidity adequacy of an institution. OSFI will evaluate the performance of an institution's liquidity metrics both as a package and individually when determining its overall assessment of an institution's liquidity adequacy. In addition, the liquidity metrics presented in this guideline will be supplemented by detailed supervisory assessments of other aspects of an institution's liquidity risk management framework in line with the BCBS Sound Principles Footnote 2 and OSFI's Guideline B-6: Liquidity Principles Footnote 3 . This is to ensure that the aspects of the OSFI's liquidity guidelines are well engrained in institutions' internal practices; for example that institutions should consider liquidity costs, benefits and risks in their internal pricing, in line with OSFI Principle 10 in Guideline B-6.",
+      "content": [
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "Outlined below is an overview of liquidity adequacy requirements for banks, federally regulated trust or loan companies, and for bank holding companies incorporated or formed under Part XV of the Bank Act , collectively referred to as \"institutions\".",
+            "Parts of this guideline draw on the Basel Committee on Banking Supervision's (BCBS) Basel III liquidity framework, which encompasses Basel III: The Liquidity Coverage Ratio and liquidity risk monitoring tools – published in January 2013, Basel III: the Net Stable Funding Ratio – published in October 2014, and Monitoring tools for intraday liquidity management – published in April 2013. For reference, the Basel text paragraph numbers that are associated with the text appearing in this guideline are indicated in square brackets at the end of each paragraph Footnote 1 .",
+            "This guideline contains the methodologies underpinning a series of liquidity metrics that are used by OSFI to assess the liquidity adequacy of an institution. OSFI will evaluate the performance of an institution's liquidity metrics both as a package and individually when determining its overall assessment of an institution's liquidity adequacy. In addition, the liquidity metrics presented in this guideline will be supplemented by detailed supervisory assessments of other aspects of an institution's liquidity risk management framework in line with the BCBS Sound Principles Footnote 2 and OSFI's Guideline B-6: Liquidity Principles Footnote 3 . This is to ensure that the aspects of the OSFI's liquidity guidelines are well engrained in institutions' internal practices; for example that institutions should consider liquidity costs, benefits and risks in their internal pricing, in line with OSFI Principle 10 in Guideline B-6."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Outlined below is an overview of liquidity adequacy requirements for banks, federally regulated trust or loan companies, and for bank holding companies incorporated or formed under Part XV of the Bank Act , collectively referred to as \"institutions\"."
+        },
+        {
+          "type": "paragraph",
+          "text": "Parts of this guideline draw on the Basel Committee on Banking Supervision's (BCBS) Basel III liquidity framework, which encompasses Basel III: The Liquidity Coverage Ratio and liquidity risk monitoring tools – published in January 2013, Basel III: the Net Stable Funding Ratio – published in October 2014, and Monitoring tools for intraday liquidity management – published in April 2013. For reference, the Basel text paragraph numbers that are associated with the text appearing in this guideline are indicated in square brackets at the end of each paragraph Footnote 1 ."
+        },
+        {
+          "type": "paragraph",
+          "text": "This guideline contains the methodologies underpinning a series of liquidity metrics that are used by OSFI to assess the liquidity adequacy of an institution. OSFI will evaluate the performance of an institution's liquidity metrics both as a package and individually when determining its overall assessment of an institution's liquidity adequacy. In addition, the liquidity metrics presented in this guideline will be supplemented by detailed supervisory assessments of other aspects of an institution's liquidity risk management framework in line with the BCBS Sound Principles Footnote 2 and OSFI's Guideline B-6: Liquidity Principles Footnote 3 . This is to ensure that the aspects of the OSFI's liquidity guidelines are well engrained in institutions' internal practices; for example that institutions should consider liquidity costs, benefits and risks in their internal pricing, in line with OSFI Principle 10 in Guideline B-6."
+        }
+      ]
+    },
+    {
+      "heading": "1.2 Scope of application",
+      "heading_level": 3,
+      "full_text": "  1. The scope of application of individual liquidity metrics differs whether an institution is a Domestic Systemically Important Bank (DSIB) or a Small and Medium-Sized Deposit Taking Institution (SMSB). Moreover, SMSBs are further segmented according to the methodology described in the Guideline Capital and Liquidity Requirements for Small and Medium-Sized Deposit-Taking Institutions. The intraday liquidity monitoring tools outlined in Chapter 7 segment institutions based on whether or not they are direct clearers in Canada’s large value payment system Lynx. Many of the monitoring tools in the guideline apply to all institutions, both direct and non-direct clearers, but only direct clearers are required to submit regulatory reporting for intraday liquidity risk. The liquidity standards, supervisory tools and monitoring tools outlined in this guideline apply on a consolidated basis and apply to all federally regulated financial institutions unless otherwise noted in the OSFI Notes box below. The consolidated entity includes all subsidiaries and branches except insurance subsidiaries, as set out in Section 1.1 of OSFI’s Capital Adequacy Requirements (CAR) Guideline Footnote 4 .\nOSFI Notes\nCertain direct and indirect subsidiaries of OSFI-regulated deposit-taking institutions that are themselves OSFI-regulated deposit-taking institutions may be exempted from adhering to certain liquidity requirements outlined in this guideline on a sub-consolidated basis. This would include instances where the subsidiary is itself the parent of other subsidiaries. Specifically:\n  1. Where the ultimate Canadian parent of such a subsidiary is a Global or Domestic Systemically Important Bank (GSIB or DSIB): The LCR standard is applicable to the subsidiary; The NCCF is not applicable to the subsidiary (i.e. the subsidiary does not need to report or separately adhere to the NCCF requirements); The NSFR is not applicable to the subsidiary; The liquidity monitoring tools outlined in Chapter 6 are not applicable to the subsidiary.\n  2. Where the ultimate Canadian parent of such a subsidiary is not a GSIB or DSIB: The LCR is not applicable to the subsidiary; The NCCF is not applicable to the subsidiary; The NSFR is not applicable to the subsidiary; The liquidity monitoring tools outlined in Chapter 6 are not applicable to the subsidiary.\n  - The LCR standard is applicable to the subsidiary;\n  - The NCCF is not applicable to the subsidiary (i.e. the subsidiary does not need to report or separately adhere to the NCCF requirements);\n  - The NSFR is not applicable to the subsidiary;\n  - The liquidity monitoring tools outlined in Chapter 6 are not applicable to the subsidiary.\n  - The LCR is not applicable to the subsidiary;\n  - The NCCF is not applicable to the subsidiary;\n  - The NSFR is not applicable to the subsidiary;\n  - The liquidity monitoring tools outlined in Chapter 6 are not applicable to the subsidiary.\nIn both a) and b) above, in order to be exempted, the subsidiary must operate strictly in Canada and such operations must be primarily Canadian dollar-related.\nIn addition, this exemption will only apply where the OSFI-regulated parent of such an exempted subsidiary institution complies with the requirements outlined in paragraph 5 below, in particular the need to demonstrate that systems are in place to show the cash flow profiles of such legal entities and that such information can be provided to OSFI upon request.\nOn an exception basis, OSFI may nonetheless require an otherwise exempted subsidiary to comply with provisions of the LAR Guideline (e.g. based on size or business model). In such cases, OSFI would notify the affected institution and provide sufficient lead-time for implementation of the relevant liquidity requirements.\n  1. Regardless of the scope of application of the individual metrics, in keeping with Principle 6 of the BCBS's Sound Principles and Principle 4 of OSFI's Guideline B-6: Liquidity Principles, an institution should actively monitor and control liquidity risk exposures and funding needs at the level of individual legal entities, foreign branches and subsidiaries, and the group as a whole, taking into account legal, regulatory and operational limitations to the transferability of liquidity. [Basel Framework, LCR 10.3]\nRegardless of the scope of application of the individual metrics, in keeping with Principle 6 of the BCBS's Sound Principles and Principle 4 of OSFI's Guideline B-6: Liquidity Principles, an institution should actively monitor and control liquidity risk exposures and funding needs at the level of individual legal entities, foreign branches and subsidiaries, and the group as a whole, taking into account legal, regulatory and operational limitations to the transferability of liquidity. [Basel Framework, LCR 10.3]",
+      "content": [
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "The scope of application of individual liquidity metrics differs whether an institution is a Domestic Systemically Important Bank (DSIB) or a Small and Medium-Sized Deposit Taking Institution (SMSB). Moreover, SMSBs are further segmented according to the methodology described in the Guideline Capital and Liquidity Requirements for Small and Medium-Sized Deposit-Taking Institutions. The intraday liquidity monitoring tools outlined in Chapter 7 segment institutions based on whether or not they are direct clearers in Canada’s large value payment system Lynx. Many of the monitoring tools in the guideline apply to all institutions, both direct and non-direct clearers, but only direct clearers are required to submit regulatory reporting for intraday liquidity risk. The liquidity standards, supervisory tools and monitoring tools outlined in this guideline apply on a consolidated basis and apply to all federally regulated financial institutions unless otherwise noted in the OSFI Notes box below. The consolidated entity includes all subsidiaries and branches except insurance subsidiaries, as set out in Section 1.1 of OSFI’s Capital Adequacy Requirements (CAR) Guideline Footnote 4 ."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "OSFI Notes"
+        },
+        {
+          "type": "paragraph",
+          "text": "Certain direct and indirect subsidiaries of OSFI-regulated deposit-taking institutions that are themselves OSFI-regulated deposit-taking institutions may be exempted from adhering to certain liquidity requirements outlined in this guideline on a sub-consolidated basis. This would include instances where the subsidiary is itself the parent of other subsidiaries. Specifically:"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "Where the ultimate Canadian parent of such a subsidiary is a Global or Domestic Systemically Important Bank (GSIB or DSIB): The LCR standard is applicable to the subsidiary; The NCCF is not applicable to the subsidiary (i.e. the subsidiary does not need to report or separately adhere to the NCCF requirements); The NSFR is not applicable to the subsidiary; The liquidity monitoring tools outlined in Chapter 6 are not applicable to the subsidiary.",
+            "Where the ultimate Canadian parent of such a subsidiary is not a GSIB or DSIB: The LCR is not applicable to the subsidiary; The NCCF is not applicable to the subsidiary; The NSFR is not applicable to the subsidiary; The liquidity monitoring tools outlined in Chapter 6 are not applicable to the subsidiary."
+          ]
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "The LCR standard is applicable to the subsidiary;",
+            "The NCCF is not applicable to the subsidiary (i.e. the subsidiary does not need to report or separately adhere to the NCCF requirements);",
+            "The NSFR is not applicable to the subsidiary;",
+            "The liquidity monitoring tools outlined in Chapter 6 are not applicable to the subsidiary."
+          ]
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "The LCR is not applicable to the subsidiary;",
+            "The NCCF is not applicable to the subsidiary;",
+            "The NSFR is not applicable to the subsidiary;",
+            "The liquidity monitoring tools outlined in Chapter 6 are not applicable to the subsidiary."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "In both a) and b) above, in order to be exempted, the subsidiary must operate strictly in Canada and such operations must be primarily Canadian dollar-related."
+        },
+        {
+          "type": "paragraph",
+          "text": "In addition, this exemption will only apply where the OSFI-regulated parent of such an exempted subsidiary institution complies with the requirements outlined in paragraph 5 below, in particular the need to demonstrate that systems are in place to show the cash flow profiles of such legal entities and that such information can be provided to OSFI upon request."
+        },
+        {
+          "type": "paragraph",
+          "text": "On an exception basis, OSFI may nonetheless require an otherwise exempted subsidiary to comply with provisions of the LAR Guideline (e.g. based on size or business model). In such cases, OSFI would notify the affected institution and provide sufficient lead-time for implementation of the relevant liquidity requirements."
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "Regardless of the scope of application of the individual metrics, in keeping with Principle 6 of the BCBS's Sound Principles and Principle 4 of OSFI's Guideline B-6: Liquidity Principles, an institution should actively monitor and control liquidity risk exposures and funding needs at the level of individual legal entities, foreign branches and subsidiaries, and the group as a whole, taking into account legal, regulatory and operational limitations to the transferability of liquidity. [Basel Framework, LCR 10.3]"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Regardless of the scope of application of the individual metrics, in keeping with Principle 6 of the BCBS's Sound Principles and Principle 4 of OSFI's Guideline B-6: Liquidity Principles, an institution should actively monitor and control liquidity risk exposures and funding needs at the level of individual legal entities, foreign branches and subsidiaries, and the group as a whole, taking into account legal, regulatory and operational limitations to the transferability of liquidity. [Basel Framework, LCR 10.3]"
+        }
+      ]
+    },
+    {
+      "heading": "1.3 Overview of the individual liquidity metrics",
+      "heading_level": 3,
+      "full_text": "  1. This guideline covers multiple quantitative liquidity measures including the Liquidity Coverage Ratio (LCR) and the Net Stable Funding Ratio (NSFR) standards, the Net Cumulative Cash Flow (NCCF) and Operating Cash Flow Statement (OCFS) supervisory tools, and a suite of additional liquidity monitoring tools, including a set of intraday liquidity monitoring tools. Each of these liquidity measures offers a different perspective on the liquidity adequacy of an institution as no one measure can, on its own, present a comprehensive assessment of an institution’s liquidity adequacy.\n  2. The Liquidity Coverage Ratio is a standard that aims to ensure that an institution has an adequate stock of unencumbered high-quality liquid assets (HQLA) that consists of cash or assets that can be converted into cash at little or no loss of value in private markets, to meet its liquidity needs for a 30 calendar day liquidity stress scenario. At a minimum, the stock of unencumbered HQLA should enable the institution to survive until Day 30 of the stress scenario, by which time it is assumed that appropriate corrective actions can be taken by management and supervisors, or that the institution can be resolved in an orderly way. Furthermore, it gives the central bank additional time to take appropriate measures, should they be regarded as necessary.\n  3. The Net Stable Funding Ratio is a standard that requires institutions to maintain a stable funding profile in relation to the composition of their assets and off-balance sheet activities. A sustainable funding structure is intended to reduce the likelihood that disruptions to an institution's regular sources of funding will erode its liquidity position in a way that would increase the risk of its failure and potentially lead to broader systemic stress. The NSFR aims to limit over-reliance on short-term wholesale funding, encourages better assessment of funding risk across all on- and off-balance sheet items, and promotes funding stability. In addition, the NSFR approach offsets incentives for institutions to fund their stock of liquid assets with short-term funds that mature just outside the LCR's 30-day horizon. [Basel Framework, NSF 20.1]\n  4. The Net Cumulative Cash Flow (NCCF) is a supervisory tool that measures an institution's cash flows beyond the 30 day horizon in order to capture the risk posed by funding mismatches between assets and liabilities, after the application of assumptions around the functioning of assets and modified liabilities (i.e. where rollover of certain liabilities is permitted). The NCCF measures an institution's cash flow horizon both on the basis of the consolidated balance sheet as well as by major individual balance sheets and components. The metric helps identify gaps between contractual inflows and outflows for various time bands over and up to a 12 month time horizon, which indicate potential liquidity shortfalls an institution may need to address.\n  5. The Operating Cash Flow Statement (OCFS ) is a cash flow forecasting supervisory tool that factors in limited behavioural aspects captured by prescribed inflow and outflow rates. The metric provides data on an institution's stock of unencumbered liquid assets, contractual cash inflows, and contractual cash outflows over a one year horizon.\n  6. A suite of additional liquidity monitoring tools, discussed in paragraphs 12 to 19, are utilized to capture specific information related to an institution's cash flows, balance sheet structure, available unencumbered collateral, and certain market indicators as well as an institution's intraday liquidity positions.\n  7. The contractual maturity mismatch profile identifies the gaps between the contractual inflows and outflows of liquidity for defined time bands. These maturity gaps indicate how much liquidity an institution would potentially need to raise in each of these time bands if all outflows occurred at the earliest possible date. The NCCF, as described above and outlined in Chapter 4, provides such a maturity mismatch metric. This metric provides insight into the extent to which the institution relies on maturity transformation under its current contracts. [Basel Framework, SRP 50.6]\n  8. The concentration of funding metrics are meant to identify those sources of wholesale funding that are of such significance that withdrawal of this funding could trigger liquidity concerns. The metric thus encourages the diversification of funding sources as recommended in the BCBS's Sound Principles and OSFI's Guideline B-6: Liquidity Principles. [Basel Framework, SRP 50.14]\n  9. Metrics related to available unencumbered assets provide data on the quantity and key characteristics, including currency denomination and location, of institutions' available unencumbered assets. These assets have the potential to be used as collateral to raise additional HQLA or secured funding in secondary markets or are eligible at central banks and as such may potentially be additional sources of liquidity for the institution. [Basel Framework, SRP 50.27]\n  10. The LCR by significant currency metric allows both the institution and OSFI to track potential currency mismatch issues that could arise. A currency is considered \"significant\" if the aggregate liabilities denominated in that currency amount to 5% or more of the institution's total liabilities. [Basel Framework, SRP 50.35, 50.37]\n  11. The market-related monitoring tools provide OSFI with high frequency market data with little or no time lag which can be used as early warning indicators in monitoring potential liquidity difficulties at institutions. This includes the monitoring of data at the market-wide, financial sector, and institution-specific levels to focus on potential liquidity difficulties. [Basel Framework, SRP 50.40, 50.41]\n  12. The Liquidity Activity Monitor (LAM) provides OSFI with timely balances of key accounts for select institutions, as determined by OSFI.\n  13. Forecast of operational expenses and non-interest income will supplement other liquidity monitoring tools of non-DSIBs and help anticipate cash flows that may become relevant in a stress environment due to timing mismatches. Operational expenses and non-interest income forecasts do not flow into the calculation of the liquidity metrics (i.e., will be reported “below the line”) and as such will not impact the calculation of the LCR’s net outflows or the NCCF’s survival horizon. Nonetheless, non-DSIBs are expected to build up their forecasting capabilities such that a fair estimate of these amounts and their timing of occurrence can be projected for various time bands.\n  14. The intraday liquidity monitoring tools enable OSFI to better monitor an institution’s management of intraday liquidity risk and its ability to meet payment and settlement obligations on a timely basis. Over time, the tools will also provide OSFI with a better understanding of institutions' payment and settlement behaviour.\nThis guideline covers multiple quantitative liquidity measures including the Liquidity Coverage Ratio (LCR) and the Net Stable Funding Ratio (NSFR) standards, the Net Cumulative Cash Flow (NCCF) and Operating Cash Flow Statement (OCFS) supervisory tools, and a suite of additional liquidity monitoring tools, including a set of intraday liquidity monitoring tools. Each of these liquidity measures offers a different perspective on the liquidity adequacy of an institution as no one measure can, on its own, present a comprehensive assessment of an institution’s liquidity adequacy.\nThe Liquidity Coverage Ratio is a standard that aims to ensure that an institution has an adequate stock of unencumbered high-quality liquid assets (HQLA) that consists of cash or assets that can be converted into cash at little or no loss of value in private markets, to meet its liquidity needs for a 30 calendar day liquidity stress scenario. At a minimum, the stock of unencumbered HQLA should enable the institution to survive until Day 30 of the stress scenario, by which time it is assumed that appropriate corrective actions can be taken by management and supervisors, or that the institution can be resolved in an orderly way. Furthermore, it gives the central bank additional time to take appropriate measures, should they be regarded as necessary.\nThe Net Stable Funding Ratio is a standard that requires institutions to maintain a stable funding profile in relation to the composition of their assets and off-balance sheet activities. A sustainable funding structure is intended to reduce the likelihood that disruptions to an institution's regular sources of funding will erode its liquidity position in a way that would increase the risk of its failure and potentially lead to broader systemic stress. The NSFR aims to limit over-reliance on short-term wholesale funding, encourages better assessment of funding risk across all on- and off-balance sheet items, and promotes funding stability. In addition, the NSFR approach offsets incentives for institutions to fund their stock of liquid assets with short-term funds that mature just outside the LCR's 30-day horizon. [Basel Framework, NSF 20.1]\nThe Net Cumulative Cash Flow (NCCF) is a supervisory tool that measures an institution's cash flows beyond the 30 day horizon in order to capture the risk posed by funding mismatches between assets and liabilities, after the application of assumptions around the functioning of assets and modified liabilities (i.e. where rollover of certain liabilities is permitted). The NCCF measures an institution's cash flow horizon both on the basis of the consolidated balance sheet as well as by major individual balance sheets and components. The metric helps identify gaps between contractual inflows and outflows for various time bands over and up to a 12 month time horizon, which indicate potential liquidity shortfalls an institution may need to address.\nThe Operating Cash Flow Statement (OCFS ) is a cash flow forecasting supervisory tool that factors in limited behavioural aspects captured by prescribed inflow and outflow rates. The metric provides data on an institution's stock of unencumbered liquid assets, contractual cash inflows, and contractual cash outflows over a one year horizon.\nA suite of additional liquidity monitoring tools, discussed in paragraphs 12 to 19, are utilized to capture specific information related to an institution's cash flows, balance sheet structure, available unencumbered collateral, and certain market indicators as well as an institution's intraday liquidity positions.\nThe contractual maturity mismatch profile identifies the gaps between the contractual inflows and outflows of liquidity for defined time bands. These maturity gaps indicate how much liquidity an institution would potentially need to raise in each of these time bands if all outflows occurred at the earliest possible date. The NCCF, as described above and outlined in Chapter 4, provides such a maturity mismatch metric. This metric provides insight into the extent to which the institution relies on maturity transformation under its current contracts. [Basel Framework, SRP 50.6]\nThe concentration of funding metrics are meant to identify those sources of wholesale funding that are of such significance that withdrawal of this funding could trigger liquidity concerns. The metric thus encourages the diversification of funding sources as recommended in the BCBS's Sound Principles and OSFI's Guideline B-6: Liquidity Principles. [Basel Framework, SRP 50.14]\nMetrics related to available unencumbered assets provide data on the quantity and key characteristics, including currency denomination and location, of institutions' available unencumbered assets. These assets have the potential to be used as collateral to raise additional HQLA or secured funding in secondary markets or are eligible at central banks and as such may potentially be additional sources of liquidity for the institution. [Basel Framework, SRP 50.27]\nThe LCR by significant currency metric allows both the institution and OSFI to track potential currency mismatch issues that could arise. A currency is considered \"significant\" if the aggregate liabilities denominated in that currency amount to 5% or more of the institution's total liabilities. [Basel Framework, SRP 50.35, 50.37]\nThe market-related monitoring tools provide OSFI with high frequency market data with little or no time lag which can be used as early warning indicators in monitoring potential liquidity difficulties at institutions. This includes the monitoring of data at the market-wide, financial sector, and institution-specific levels to focus on potential liquidity difficulties. [Basel Framework, SRP 50.40, 50.41]\nThe Liquidity Activity Monitor (LAM) provides OSFI with timely balances of key accounts for select institutions, as determined by OSFI.\nForecast of operational expenses and non-interest income will supplement other liquidity monitoring tools of non-DSIBs and help anticipate cash flows that may become relevant in a stress environment due to timing mismatches. Operational expenses and non-interest income forecasts do not flow into the calculation of the liquidity metrics (i.e., will be reported “below the line”) and as such will not impact the calculation of the LCR’s net outflows or the NCCF’s survival horizon. Nonetheless, non-DSIBs are expected to build up their forecasting capabilities such that a fair estimate of these amounts and their timing of occurrence can be projected for various time bands.",
+      "content": [
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "This guideline covers multiple quantitative liquidity measures including the Liquidity Coverage Ratio (LCR) and the Net Stable Funding Ratio (NSFR) standards, the Net Cumulative Cash Flow (NCCF) and Operating Cash Flow Statement (OCFS) supervisory tools, and a suite of additional liquidity monitoring tools, including a set of intraday liquidity monitoring tools. Each of these liquidity measures offers a different perspective on the liquidity adequacy of an institution as no one measure can, on its own, present a comprehensive assessment of an institution’s liquidity adequacy.",
+            "The Liquidity Coverage Ratio is a standard that aims to ensure that an institution has an adequate stock of unencumbered high-quality liquid assets (HQLA) that consists of cash or assets that can be converted into cash at little or no loss of value in private markets, to meet its liquidity needs for a 30 calendar day liquidity stress scenario. At a minimum, the stock of unencumbered HQLA should enable the institution to survive until Day 30 of the stress scenario, by which time it is assumed that appropriate corrective actions can be taken by management and supervisors, or that the institution can be resolved in an orderly way. Furthermore, it gives the central bank additional time to take appropriate measures, should they be regarded as necessary.",
+            "The Net Stable Funding Ratio is a standard that requires institutions to maintain a stable funding profile in relation to the composition of their assets and off-balance sheet activities. A sustainable funding structure is intended to reduce the likelihood that disruptions to an institution's regular sources of funding will erode its liquidity position in a way that would increase the risk of its failure and potentially lead to broader systemic stress. The NSFR aims to limit over-reliance on short-term wholesale funding, encourages better assessment of funding risk across all on- and off-balance sheet items, and promotes funding stability. In addition, the NSFR approach offsets incentives for institutions to fund their stock of liquid assets with short-term funds that mature just outside the LCR's 30-day horizon. [Basel Framework, NSF 20.1]",
+            "The Net Cumulative Cash Flow (NCCF) is a supervisory tool that measures an institution's cash flows beyond the 30 day horizon in order to capture the risk posed by funding mismatches between assets and liabilities, after the application of assumptions around the functioning of assets and modified liabilities (i.e. where rollover of certain liabilities is permitted). The NCCF measures an institution's cash flow horizon both on the basis of the consolidated balance sheet as well as by major individual balance sheets and components. The metric helps identify gaps between contractual inflows and outflows for various time bands over and up to a 12 month time horizon, which indicate potential liquidity shortfalls an institution may need to address.",
+            "The Operating Cash Flow Statement (OCFS ) is a cash flow forecasting supervisory tool that factors in limited behavioural aspects captured by prescribed inflow and outflow rates. The metric provides data on an institution's stock of unencumbered liquid assets, contractual cash inflows, and contractual cash outflows over a one year horizon.",
+            "A suite of additional liquidity monitoring tools, discussed in paragraphs 12 to 19, are utilized to capture specific information related to an institution's cash flows, balance sheet structure, available unencumbered collateral, and certain market indicators as well as an institution's intraday liquidity positions.",
+            "The contractual maturity mismatch profile identifies the gaps between the contractual inflows and outflows of liquidity for defined time bands. These maturity gaps indicate how much liquidity an institution would potentially need to raise in each of these time bands if all outflows occurred at the earliest possible date. The NCCF, as described above and outlined in Chapter 4, provides such a maturity mismatch metric. This metric provides insight into the extent to which the institution relies on maturity transformation under its current contracts. [Basel Framework, SRP 50.6]",
+            "The concentration of funding metrics are meant to identify those sources of wholesale funding that are of such significance that withdrawal of this funding could trigger liquidity concerns. The metric thus encourages the diversification of funding sources as recommended in the BCBS's Sound Principles and OSFI's Guideline B-6: Liquidity Principles. [Basel Framework, SRP 50.14]",
+            "Metrics related to available unencumbered assets provide data on the quantity and key characteristics, including currency denomination and location, of institutions' available unencumbered assets. These assets have the potential to be used as collateral to raise additional HQLA or secured funding in secondary markets or are eligible at central banks and as such may potentially be additional sources of liquidity for the institution. [Basel Framework, SRP 50.27]",
+            "The LCR by significant currency metric allows both the institution and OSFI to track potential currency mismatch issues that could arise. A currency is considered \"significant\" if the aggregate liabilities denominated in that currency amount to 5% or more of the institution's total liabilities. [Basel Framework, SRP 50.35, 50.37]",
+            "The market-related monitoring tools provide OSFI with high frequency market data with little or no time lag which can be used as early warning indicators in monitoring potential liquidity difficulties at institutions. This includes the monitoring of data at the market-wide, financial sector, and institution-specific levels to focus on potential liquidity difficulties. [Basel Framework, SRP 50.40, 50.41]",
+            "The Liquidity Activity Monitor (LAM) provides OSFI with timely balances of key accounts for select institutions, as determined by OSFI.",
+            "Forecast of operational expenses and non-interest income will supplement other liquidity monitoring tools of non-DSIBs and help anticipate cash flows that may become relevant in a stress environment due to timing mismatches. Operational expenses and non-interest income forecasts do not flow into the calculation of the liquidity metrics (i.e., will be reported “below the line”) and as such will not impact the calculation of the LCR’s net outflows or the NCCF’s survival horizon. Nonetheless, non-DSIBs are expected to build up their forecasting capabilities such that a fair estimate of these amounts and their timing of occurrence can be projected for various time bands.",
+            "The intraday liquidity monitoring tools enable OSFI to better monitor an institution’s management of intraday liquidity risk and its ability to meet payment and settlement obligations on a timely basis. Over time, the tools will also provide OSFI with a better understanding of institutions' payment and settlement behaviour."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "This guideline covers multiple quantitative liquidity measures including the Liquidity Coverage Ratio (LCR) and the Net Stable Funding Ratio (NSFR) standards, the Net Cumulative Cash Flow (NCCF) and Operating Cash Flow Statement (OCFS) supervisory tools, and a suite of additional liquidity monitoring tools, including a set of intraday liquidity monitoring tools. Each of these liquidity measures offers a different perspective on the liquidity adequacy of an institution as no one measure can, on its own, present a comprehensive assessment of an institution’s liquidity adequacy."
+        },
+        {
+          "type": "paragraph",
+          "text": "The Liquidity Coverage Ratio is a standard that aims to ensure that an institution has an adequate stock of unencumbered high-quality liquid assets (HQLA) that consists of cash or assets that can be converted into cash at little or no loss of value in private markets, to meet its liquidity needs for a 30 calendar day liquidity stress scenario. At a minimum, the stock of unencumbered HQLA should enable the institution to survive until Day 30 of the stress scenario, by which time it is assumed that appropriate corrective actions can be taken by management and supervisors, or that the institution can be resolved in an orderly way. Furthermore, it gives the central bank additional time to take appropriate measures, should they be regarded as necessary."
+        },
+        {
+          "type": "paragraph",
+          "text": "The Net Stable Funding Ratio is a standard that requires institutions to maintain a stable funding profile in relation to the composition of their assets and off-balance sheet activities. A sustainable funding structure is intended to reduce the likelihood that disruptions to an institution's regular sources of funding will erode its liquidity position in a way that would increase the risk of its failure and potentially lead to broader systemic stress. The NSFR aims to limit over-reliance on short-term wholesale funding, encourages better assessment of funding risk across all on- and off-balance sheet items, and promotes funding stability. In addition, the NSFR approach offsets incentives for institutions to fund their stock of liquid assets with short-term funds that mature just outside the LCR's 30-day horizon. [Basel Framework, NSF 20.1]"
+        },
+        {
+          "type": "paragraph",
+          "text": "The Net Cumulative Cash Flow (NCCF) is a supervisory tool that measures an institution's cash flows beyond the 30 day horizon in order to capture the risk posed by funding mismatches between assets and liabilities, after the application of assumptions around the functioning of assets and modified liabilities (i.e. where rollover of certain liabilities is permitted). The NCCF measures an institution's cash flow horizon both on the basis of the consolidated balance sheet as well as by major individual balance sheets and components. The metric helps identify gaps between contractual inflows and outflows for various time bands over and up to a 12 month time horizon, which indicate potential liquidity shortfalls an institution may need to address."
+        },
+        {
+          "type": "paragraph",
+          "text": "The Operating Cash Flow Statement (OCFS ) is a cash flow forecasting supervisory tool that factors in limited behavioural aspects captured by prescribed inflow and outflow rates. The metric provides data on an institution's stock of unencumbered liquid assets, contractual cash inflows, and contractual cash outflows over a one year horizon."
+        },
+        {
+          "type": "paragraph",
+          "text": "A suite of additional liquidity monitoring tools, discussed in paragraphs 12 to 19, are utilized to capture specific information related to an institution's cash flows, balance sheet structure, available unencumbered collateral, and certain market indicators as well as an institution's intraday liquidity positions."
+        },
+        {
+          "type": "paragraph",
+          "text": "The contractual maturity mismatch profile identifies the gaps between the contractual inflows and outflows of liquidity for defined time bands. These maturity gaps indicate how much liquidity an institution would potentially need to raise in each of these time bands if all outflows occurred at the earliest possible date. The NCCF, as described above and outlined in Chapter 4, provides such a maturity mismatch metric. This metric provides insight into the extent to which the institution relies on maturity transformation under its current contracts. [Basel Framework, SRP 50.6]"
+        },
+        {
+          "type": "paragraph",
+          "text": "The concentration of funding metrics are meant to identify those sources of wholesale funding that are of such significance that withdrawal of this funding could trigger liquidity concerns. The metric thus encourages the diversification of funding sources as recommended in the BCBS's Sound Principles and OSFI's Guideline B-6: Liquidity Principles. [Basel Framework, SRP 50.14]"
+        },
+        {
+          "type": "paragraph",
+          "text": "Metrics related to available unencumbered assets provide data on the quantity and key characteristics, including currency denomination and location, of institutions' available unencumbered assets. These assets have the potential to be used as collateral to raise additional HQLA or secured funding in secondary markets or are eligible at central banks and as such may potentially be additional sources of liquidity for the institution. [Basel Framework, SRP 50.27]"
+        },
+        {
+          "type": "paragraph",
+          "text": "The LCR by significant currency metric allows both the institution and OSFI to track potential currency mismatch issues that could arise. A currency is considered \"significant\" if the aggregate liabilities denominated in that currency amount to 5% or more of the institution's total liabilities. [Basel Framework, SRP 50.35, 50.37]"
+        },
+        {
+          "type": "paragraph",
+          "text": "The market-related monitoring tools provide OSFI with high frequency market data with little or no time lag which can be used as early warning indicators in monitoring potential liquidity difficulties at institutions. This includes the monitoring of data at the market-wide, financial sector, and institution-specific levels to focus on potential liquidity difficulties. [Basel Framework, SRP 50.40, 50.41]"
+        },
+        {
+          "type": "paragraph",
+          "text": "The Liquidity Activity Monitor (LAM) provides OSFI with timely balances of key accounts for select institutions, as determined by OSFI."
+        },
+        {
+          "type": "paragraph",
+          "text": "Forecast of operational expenses and non-interest income will supplement other liquidity monitoring tools of non-DSIBs and help anticipate cash flows that may become relevant in a stress environment due to timing mismatches. Operational expenses and non-interest income forecasts do not flow into the calculation of the liquidity metrics (i.e., will be reported “below the line”) and as such will not impact the calculation of the LCR’s net outflows or the NCCF’s survival horizon. Nonetheless, non-DSIBs are expected to build up their forecasting capabilities such that a fair estimate of these amounts and their timing of occurrence can be projected for various time bands."
+        }
+      ]
+    },
+    {
+      "heading": "1.4 Requirements associated with the metrics",
+      "heading_level": 3,
+      "full_text": "  1. The LCR requires that, absent a situation of financial stress, the value of the ratio be no lower than 100% (i.e. the stock of HQLA should at least equal total net cash outflows over a 30 day horizon). Institutions subject to the LCR are expected to meet this requirement continuously and hold a stock of unencumbered HQLA as a defense against the potential onset of liquidity stress. During a period of financial stress, however, OSFI reaffirms the view of the BCBS that institutions are expected to use their stock of HQLA, thereby falling below 100%, as maintaining the LCR at 100% under such circumstances could produce undue negative effects on the institution and other market participants. OSFI will subsequently assess this situation and will adjust its response flexibly according to the circumstances, as described in Chapter 2, paragraph 6. [Basel Framework, LCR 20.5]\n  2. The NSFR is defined as the amount of available stable funding relative to the amount of required stable funding. Institutions subject to the NSFR should maintain a ratio equal to at least 100% on an ongoing basis.\n  3. The suite of liquidity monitoring tools described in paragraphs 12 to 18 are not standards and thus do not have defined minimum required thresholds. However, OSFI reserves the right to set supervisory requirements for any of the suite of liquidity tools, including the set of intraday liquidity tools, as required. OSFI could, for example, consider setting minimum requirements for the LCR by significant currency measure on an institution-specific basis based on an evaluation of the institution's ability to raise funds in foreign currency markets and the ability to transfer a liquidity surplus from one currency to another and across jurisdictions and legal entities. As a general rule, the LCR by significant currency ratio should be higher for currencies in which OSFI evaluates an institution's ability to raise funds in foreign currency markets or the ability to transfer a liquidity surplus from one currency to another and across jurisdictions and legal entities to be limited. [Basel Framework, SRP 50.38]\nThe LCR requires that, absent a situation of financial stress, the value of the ratio be no lower than 100% (i.e. the stock of HQLA should at least equal total net cash outflows over a 30 day horizon). Institutions subject to the LCR are expected to meet this requirement continuously and hold a stock of unencumbered HQLA as a defense against the potential onset of liquidity stress. During a period of financial stress, however, OSFI reaffirms the view of the BCBS that institutions are expected to use their stock of HQLA, thereby falling below 100%, as maintaining the LCR at 100% under such circumstances could produce undue negative effects on the institution and other market participants. OSFI will subsequently assess this situation and will adjust its response flexibly according to the circumstances, as described in Chapter 2, paragraph 6. [Basel Framework, LCR 20.5]\nThe NSFR is defined as the amount of available stable funding relative to the amount of required stable funding. Institutions subject to the NSFR should maintain a ratio equal to at least 100% on an ongoing basis.\nThe suite of liquidity monitoring tools described in paragraphs 12 to 18 are not standards and thus do not have defined minimum required thresholds. However, OSFI reserves the right to set supervisory requirements for any of the suite of liquidity tools, including the set of intraday liquidity tools, as required. OSFI could, for example, consider setting minimum requirements for the LCR by significant currency measure on an institution-specific basis based on an evaluation of the institution's ability to raise funds in foreign currency markets and the ability to transfer a liquidity surplus from one currency to another and across jurisdictions and legal entities. As a general rule, the LCR by significant currency ratio should be higher for currencies in which OSFI evaluates an institution's ability to raise funds in foreign currency markets or the ability to transfer a liquidity surplus from one currency to another and across jurisdictions and legal entities to be limited. [Basel Framework, SRP 50.38]",
+      "content": [
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "The LCR requires that, absent a situation of financial stress, the value of the ratio be no lower than 100% (i.e. the stock of HQLA should at least equal total net cash outflows over a 30 day horizon). Institutions subject to the LCR are expected to meet this requirement continuously and hold a stock of unencumbered HQLA as a defense against the potential onset of liquidity stress. During a period of financial stress, however, OSFI reaffirms the view of the BCBS that institutions are expected to use their stock of HQLA, thereby falling below 100%, as maintaining the LCR at 100% under such circumstances could produce undue negative effects on the institution and other market participants. OSFI will subsequently assess this situation and will adjust its response flexibly according to the circumstances, as described in Chapter 2, paragraph 6. [Basel Framework, LCR 20.5]",
+            "The NSFR is defined as the amount of available stable funding relative to the amount of required stable funding. Institutions subject to the NSFR should maintain a ratio equal to at least 100% on an ongoing basis.",
+            "The suite of liquidity monitoring tools described in paragraphs 12 to 18 are not standards and thus do not have defined minimum required thresholds. However, OSFI reserves the right to set supervisory requirements for any of the suite of liquidity tools, including the set of intraday liquidity tools, as required. OSFI could, for example, consider setting minimum requirements for the LCR by significant currency measure on an institution-specific basis based on an evaluation of the institution's ability to raise funds in foreign currency markets and the ability to transfer a liquidity surplus from one currency to another and across jurisdictions and legal entities. As a general rule, the LCR by significant currency ratio should be higher for currencies in which OSFI evaluates an institution's ability to raise funds in foreign currency markets or the ability to transfer a liquidity surplus from one currency to another and across jurisdictions and legal entities to be limited. [Basel Framework, SRP 50.38]"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "The LCR requires that, absent a situation of financial stress, the value of the ratio be no lower than 100% (i.e. the stock of HQLA should at least equal total net cash outflows over a 30 day horizon). Institutions subject to the LCR are expected to meet this requirement continuously and hold a stock of unencumbered HQLA as a defense against the potential onset of liquidity stress. During a period of financial stress, however, OSFI reaffirms the view of the BCBS that institutions are expected to use their stock of HQLA, thereby falling below 100%, as maintaining the LCR at 100% under such circumstances could produce undue negative effects on the institution and other market participants. OSFI will subsequently assess this situation and will adjust its response flexibly according to the circumstances, as described in Chapter 2, paragraph 6. [Basel Framework, LCR 20.5]"
+        },
+        {
+          "type": "paragraph",
+          "text": "The NSFR is defined as the amount of available stable funding relative to the amount of required stable funding. Institutions subject to the NSFR should maintain a ratio equal to at least 100% on an ongoing basis."
+        },
+        {
+          "type": "paragraph",
+          "text": "The suite of liquidity monitoring tools described in paragraphs 12 to 18 are not standards and thus do not have defined minimum required thresholds. However, OSFI reserves the right to set supervisory requirements for any of the suite of liquidity tools, including the set of intraday liquidity tools, as required. OSFI could, for example, consider setting minimum requirements for the LCR by significant currency measure on an institution-specific basis based on an evaluation of the institution's ability to raise funds in foreign currency markets and the ability to transfer a liquidity surplus from one currency to another and across jurisdictions and legal entities. As a general rule, the LCR by significant currency ratio should be higher for currencies in which OSFI evaluates an institution's ability to raise funds in foreign currency markets or the ability to transfer a liquidity surplus from one currency to another and across jurisdictions and legal entities to be limited. [Basel Framework, SRP 50.38]"
+        }
+      ]
+    },
+    {
+      "heading": "1.5 Frequency of calculation and regulatory reporting timeline",
+      "heading_level": 3,
+      "full_text": "  1. Each institution should use the applicable metrics on an ongoing basis to help monitor and control its liquidity risk. The time lag in reporting for each metric, as outlined below, should be considered the maximum time lag under normal conditions. OSFI reserves the right to accelerate the time lag in reporting where circumstances warrant (e.g. in market-wide or idiosyncratic stress). The ability to report on an accelerated timeline should be routinely tested along-side the contingency funding plan. Operational capacity may also be tested periodically by OSFI Supervision.\n  2. The LCR should be reported to OSFI monthly. DSIBs should have the operational capacity to increase the reporting frequency to weekly or even daily in stressed situations at OSFI’s discretion, whereas non-DSIBs should have the operational capacity to increase the frequency of LCR return reporting to weekly, at OSFI’s discretion. The time lag in reporting should not surpass 14 calendar days for regular monthly reporting and three business days for reporting in stress situations [Basel Framework, LCR 20.7]\nEach institution should use the applicable metrics on an ongoing basis to help monitor and control its liquidity risk. The time lag in reporting for each metric, as outlined below, should be considered the maximum time lag under normal conditions. OSFI reserves the right to accelerate the time lag in reporting where circumstances warrant (e.g. in market-wide or idiosyncratic stress). The ability to report on an accelerated timeline should be routinely tested along-side the contingency funding plan. Operational capacity may also be tested periodically by OSFI Supervision.\nThe LCR should be reported to OSFI monthly. DSIBs should have the operational capacity to increase the reporting frequency to weekly or even daily in stressed situations at OSFI’s discretion, whereas non-DSIBs should have the operational capacity to increase the frequency of LCR return reporting to weekly, at OSFI’s discretion. The time lag in reporting should not surpass 14 calendar days for regular monthly reporting and three business days for reporting in stress situations [Basel Framework, LCR 20.7]\nOSFI Notes\nOSFI acknowledges that intra-period reporting may not be subject to the same rigour and control infrastructure as that of month-end and quarter-end reporting. Institutions should nonetheless have a framework in place that outlines their process to report intra-period LCRs. That process should regularly be tested to ensure it produces reasonable estimates in the three business day reporting time lag.\n  1. Institutions should notify OSFI immediately if their LCR has fallen, or is expected to fall, below 100%. [Basel Framework, LCR 20.8]\n  2. The NSFR should be reported to OSFI quarterly. The time lag in reporting should not surpass 30 calendar days. [Basel Framework, NSF 20.3]\n  3. Institutions should notify OSFI immediately if their NSFR has fallen, or is expected to fall, below 100%.\n  4. The NCCF should be reported to OSFI monthly. DSIBs should have the operational capacity to increase the frequency to weekly or even daily in stressed situations at OSFI’s discretion, whereas non-DSIBs should have the operational capacity to increase the frequency of NCCF return reporting to weekly, at OSFI’s discretion. Operational expenses and non-interest income described in paragraph 18 are to be reported together with the NCCF return. The time lag in reporting should not surpass 14 calendar days for regular monthly reporting and three business days for reporting in stress situations.\nInstitutions should notify OSFI immediately if their LCR has fallen, or is expected to fall, below 100%. [Basel Framework, LCR 20.8]\nThe NSFR should be reported to OSFI quarterly. The time lag in reporting should not surpass 30 calendar days. [Basel Framework, NSF 20.3]\nInstitutions should notify OSFI immediately if their NSFR has fallen, or is expected to fall, below 100%.\nThe NCCF should be reported to OSFI monthly. DSIBs should have the operational capacity to increase the frequency to weekly or even daily in stressed situations at OSFI’s discretion, whereas non-DSIBs should have the operational capacity to increase the frequency of NCCF return reporting to weekly, at OSFI’s discretion. Operational expenses and non-interest income described in paragraph 18 are to be reported together with the NCCF return. The time lag in reporting should not surpass 14 calendar days for regular monthly reporting and three business days for reporting in stress situations.\nOSFI Notes\nOSFI acknowledges that intra-period reporting may not be subject to the same rigour and control infrastructure as that of month-end and quarter-end reporting. Institutions should nonetheless have a framework in place that outlines their process to report intra-period NCCFs. That process should regularly be tested to ensure it produces reasonable estimates in the three business day reporting time lag.\n  1. Institutions should notify OSFI immediately if their NCCF has fallen, or is expected to fall, below the supervisory-communicated level.\n  2. The OCFS should be reported to OSFI monthly. The time lag in reporting should not surpass 14 calendar days.\n  3. Institutions should notify OSFI immediately if their OCFS level has fallen, or is expected to fall, below the supervisory-communicated level.\n  4. The concentration of funding, available unencumbered assets and LCR by significant currency monitoring metrics should be reported to OSFI monthly. The time lag in reporting should not surpass 14 calendar days for regular monthly reporting and 3 business days for reporting in stress situations.\nInstitutions should notify OSFI immediately if their NCCF has fallen, or is expected to fall, below the supervisory-communicated level.\nThe OCFS should be reported to OSFI monthly. The time lag in reporting should not surpass 14 calendar days.\nInstitutions should notify OSFI immediately if their OCFS level has fallen, or is expected to fall, below the supervisory-communicated level.\nThe concentration of funding, available unencumbered assets and LCR by significant currency monitoring metrics should be reported to OSFI monthly. The time lag in reporting should not surpass 14 calendar days for regular monthly reporting and 3 business days for reporting in stress situations.\nOSFI Notes\nOSFI will not require separate reporting of data related to the concentration of funding and available unencumbered assets monitoring tools. Rather, OSFI will utilize information submitted as part of other aspects of regulatory reporting (e.g. NCCF, H4 return, etc.) to assess the information elements requested under these monitoring tools.\n  1. Institution-specific information related to the market-related monitoring tools should be provided to OSFI on a weekly basis. The time lag in reporting should not surpass three business days.\n  2. For institutions asked to report the LAM, balances should be measured and reported on a timely basis (next day) and provided to OSFI as frequently as requested (up to daily). For select balances at institutions experiencing liquidity stress, OSFI may request intraday reporting through the LAM (up to three times per day) on a best efforts basis.\n  3. For institutions that are direct clearers of Lynx, the information contained in the monitoring tools for intraday liquidity management should be reported to OSFI on a monthly basis. The time lag in reporting should not surpass 14 calendar days. These institutions should have the operational capacity to increase the frequency to weekly or even daily in stressed situations at OSFI’s discretion.\nInstitution-specific information related to the market-related monitoring tools should be provided to OSFI on a weekly basis. The time lag in reporting should not surpass three business days.\nFor institutions asked to report the LAM, balances should be measured and reported on a timely basis (next day) and provided to OSFI as frequently as requested (up to daily). For select balances at institutions experiencing liquidity stress, OSFI may request intraday reporting through the LAM (up to three times per day) on a best efforts basis.\n[Note: Footnotes Footnote 1 Following the format: [Basel Framework, XXX yy.zz]. Return to footnote 1 referrer Footnote 2 Basel Committee on Banking Supervision (BCBS) - Principles for Sound Liquidity Risk Management and Supervision Return to footnote 2 referrer Footnote 3 Liquidity Principles – Guideline (2020) Return to footnote 3 referrer Footnote 4 Capital Adequacy Requirements (CAR) - Chapter 1 – Overview of Risk-based Capital Requirements Return to footnote 4 referrer]",
+      "content": [
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "Each institution should use the applicable metrics on an ongoing basis to help monitor and control its liquidity risk. The time lag in reporting for each metric, as outlined below, should be considered the maximum time lag under normal conditions. OSFI reserves the right to accelerate the time lag in reporting where circumstances warrant (e.g. in market-wide or idiosyncratic stress). The ability to report on an accelerated timeline should be routinely tested along-side the contingency funding plan. Operational capacity may also be tested periodically by OSFI Supervision.",
+            "The LCR should be reported to OSFI monthly. DSIBs should have the operational capacity to increase the reporting frequency to weekly or even daily in stressed situations at OSFI’s discretion, whereas non-DSIBs should have the operational capacity to increase the frequency of LCR return reporting to weekly, at OSFI’s discretion. The time lag in reporting should not surpass 14 calendar days for regular monthly reporting and three business days for reporting in stress situations [Basel Framework, LCR 20.7]"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Each institution should use the applicable metrics on an ongoing basis to help monitor and control its liquidity risk. The time lag in reporting for each metric, as outlined below, should be considered the maximum time lag under normal conditions. OSFI reserves the right to accelerate the time lag in reporting where circumstances warrant (e.g. in market-wide or idiosyncratic stress). The ability to report on an accelerated timeline should be routinely tested along-side the contingency funding plan. Operational capacity may also be tested periodically by OSFI Supervision."
+        },
+        {
+          "type": "paragraph",
+          "text": "The LCR should be reported to OSFI monthly. DSIBs should have the operational capacity to increase the reporting frequency to weekly or even daily in stressed situations at OSFI’s discretion, whereas non-DSIBs should have the operational capacity to increase the frequency of LCR return reporting to weekly, at OSFI’s discretion. The time lag in reporting should not surpass 14 calendar days for regular monthly reporting and three business days for reporting in stress situations [Basel Framework, LCR 20.7]"
+        },
+        {
+          "type": "paragraph",
+          "text": "OSFI Notes"
+        },
+        {
+          "type": "paragraph",
+          "text": "OSFI acknowledges that intra-period reporting may not be subject to the same rigour and control infrastructure as that of month-end and quarter-end reporting. Institutions should nonetheless have a framework in place that outlines their process to report intra-period LCRs. That process should regularly be tested to ensure it produces reasonable estimates in the three business day reporting time lag."
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "Institutions should notify OSFI immediately if their LCR has fallen, or is expected to fall, below 100%. [Basel Framework, LCR 20.8]",
+            "The NSFR should be reported to OSFI quarterly. The time lag in reporting should not surpass 30 calendar days. [Basel Framework, NSF 20.3]",
+            "Institutions should notify OSFI immediately if their NSFR has fallen, or is expected to fall, below 100%.",
+            "The NCCF should be reported to OSFI monthly. DSIBs should have the operational capacity to increase the frequency to weekly or even daily in stressed situations at OSFI’s discretion, whereas non-DSIBs should have the operational capacity to increase the frequency of NCCF return reporting to weekly, at OSFI’s discretion. Operational expenses and non-interest income described in paragraph 18 are to be reported together with the NCCF return. The time lag in reporting should not surpass 14 calendar days for regular monthly reporting and three business days for reporting in stress situations."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Institutions should notify OSFI immediately if their LCR has fallen, or is expected to fall, below 100%. [Basel Framework, LCR 20.8]"
+        },
+        {
+          "type": "paragraph",
+          "text": "The NSFR should be reported to OSFI quarterly. The time lag in reporting should not surpass 30 calendar days. [Basel Framework, NSF 20.3]"
+        },
+        {
+          "type": "paragraph",
+          "text": "Institutions should notify OSFI immediately if their NSFR has fallen, or is expected to fall, below 100%."
+        },
+        {
+          "type": "paragraph",
+          "text": "The NCCF should be reported to OSFI monthly. DSIBs should have the operational capacity to increase the frequency to weekly or even daily in stressed situations at OSFI’s discretion, whereas non-DSIBs should have the operational capacity to increase the frequency of NCCF return reporting to weekly, at OSFI’s discretion. Operational expenses and non-interest income described in paragraph 18 are to be reported together with the NCCF return. The time lag in reporting should not surpass 14 calendar days for regular monthly reporting and three business days for reporting in stress situations."
+        },
+        {
+          "type": "paragraph",
+          "text": "OSFI Notes"
+        },
+        {
+          "type": "paragraph",
+          "text": "OSFI acknowledges that intra-period reporting may not be subject to the same rigour and control infrastructure as that of month-end and quarter-end reporting. Institutions should nonetheless have a framework in place that outlines their process to report intra-period NCCFs. That process should regularly be tested to ensure it produces reasonable estimates in the three business day reporting time lag."
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "Institutions should notify OSFI immediately if their NCCF has fallen, or is expected to fall, below the supervisory-communicated level.",
+            "The OCFS should be reported to OSFI monthly. The time lag in reporting should not surpass 14 calendar days.",
+            "Institutions should notify OSFI immediately if their OCFS level has fallen, or is expected to fall, below the supervisory-communicated level.",
+            "The concentration of funding, available unencumbered assets and LCR by significant currency monitoring metrics should be reported to OSFI monthly. The time lag in reporting should not surpass 14 calendar days for regular monthly reporting and 3 business days for reporting in stress situations."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Institutions should notify OSFI immediately if their NCCF has fallen, or is expected to fall, below the supervisory-communicated level."
+        },
+        {
+          "type": "paragraph",
+          "text": "The OCFS should be reported to OSFI monthly. The time lag in reporting should not surpass 14 calendar days."
+        },
+        {
+          "type": "paragraph",
+          "text": "Institutions should notify OSFI immediately if their OCFS level has fallen, or is expected to fall, below the supervisory-communicated level."
+        },
+        {
+          "type": "paragraph",
+          "text": "The concentration of funding, available unencumbered assets and LCR by significant currency monitoring metrics should be reported to OSFI monthly. The time lag in reporting should not surpass 14 calendar days for regular monthly reporting and 3 business days for reporting in stress situations."
+        },
+        {
+          "type": "paragraph",
+          "text": "OSFI Notes"
+        },
+        {
+          "type": "paragraph",
+          "text": "OSFI will not require separate reporting of data related to the concentration of funding and available unencumbered assets monitoring tools. Rather, OSFI will utilize information submitted as part of other aspects of regulatory reporting (e.g. NCCF, H4 return, etc.) to assess the information elements requested under these monitoring tools."
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "Institution-specific information related to the market-related monitoring tools should be provided to OSFI on a weekly basis. The time lag in reporting should not surpass three business days.",
+            "For institutions asked to report the LAM, balances should be measured and reported on a timely basis (next day) and provided to OSFI as frequently as requested (up to daily). For select balances at institutions experiencing liquidity stress, OSFI may request intraday reporting through the LAM (up to three times per day) on a best efforts basis.",
+            "For institutions that are direct clearers of Lynx, the information contained in the monitoring tools for intraday liquidity management should be reported to OSFI on a monthly basis. The time lag in reporting should not surpass 14 calendar days. These institutions should have the operational capacity to increase the frequency to weekly or even daily in stressed situations at OSFI’s discretion."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Institution-specific information related to the market-related monitoring tools should be provided to OSFI on a weekly basis. The time lag in reporting should not surpass three business days."
+        },
+        {
+          "type": "paragraph",
+          "text": "For institutions asked to report the LAM, balances should be measured and reported on a timely basis (next day) and provided to OSFI as frequently as requested (up to daily). For select balances at institutions experiencing liquidity stress, OSFI may request intraday reporting through the LAM (up to three times per day) on a best efforts basis."
+        },
+        {
+          "type": "footnote",
+          "text": "Footnotes Footnote 1 Following the format: [Basel Framework, XXX yy.zz]. Return to footnote 1 referrer Footnote 2 Basel Committee on Banking Supervision (BCBS) - Principles for Sound Liquidity Risk Management and Supervision Return to footnote 2 referrer Footnote 3 Liquidity Principles – Guideline (2020) Return to footnote 3 referrer Footnote 4 Capital Adequacy Requirements (CAR) - Chapter 1 – Overview of Risk-based Capital Requirements Return to footnote 4 referrer"
+        }
+      ]
+    },
+    {
+      "heading": "Footnotes",
+      "heading_level": 2,
+      "full_text": "Footnote 1\nFollowing the format: [Basel Framework, XXX yy.zz].\nReturn to footnote 1 referrer\nBasel Committee on Banking Supervision (BCBS) - Principles for Sound Liquidity Risk Management and Supervision\nReturn to footnote 2 referrer\nLiquidity Principles – Guideline (2020)\nReturn to footnote 3 referrer\nCapital Adequacy Requirements (CAR) - Chapter 1 – Overview of Risk-based Capital Requirements\nReturn to footnote 4 referrer",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Footnote 1"
+        },
+        {
+          "type": "paragraph",
+          "text": "Following the format: [Basel Framework, XXX yy.zz]."
+        },
+        {
+          "type": "paragraph",
+          "text": "Return to footnote 1 referrer"
+        },
+        {
+          "type": "paragraph",
+          "text": "Basel Committee on Banking Supervision (BCBS) - Principles for Sound Liquidity Risk Management and Supervision"
+        },
+        {
+          "type": "paragraph",
+          "text": "Return to footnote 2 referrer"
+        },
+        {
+          "type": "paragraph",
+          "text": "Liquidity Principles – Guideline (2020)"
+        },
+        {
+          "type": "paragraph",
+          "text": "Return to footnote 3 referrer"
+        },
+        {
+          "type": "paragraph",
+          "text": "Capital Adequacy Requirements (CAR) - Chapter 1 – Overview of Risk-based Capital Requirements"
+        },
+        {
+          "type": "paragraph",
+          "text": "Return to footnote 4 referrer"
+        }
+      ]
+    }
+  ],
+  "title_normalized": "liquidity adequacy requirements lar 2026 chapter 1 overview",
+  "publication_type_normalized": "guideline",
+  "category_normalized": "capital_adequacy_requirements",
+  "sector_normalized": [
+    "banks",
+    "trust_and_loan_companies"
+  ],
+  "guideline_number_normalized": "LAR",
+  "applies_to_banks": true,
+  "applies_to_trust_loan": true,
+  "applies_to_life_insurance": false,
+  "applies_to_pc_insurance": false,
+  "applies_to_foreign_bank": false,
+  "applies_to_foreign_insurance": false,
+  "applies_to_cooperative": false,
+  "applies_to_bank_holding": false,
+  "effective_date_sort_key": "2026-05-01",
+  "status_sort_key": 2,
+  "authority_sort_key": 100,
+  "bm25_text": "Liquidity Adequacy Requirements (LAR) (2026) Chapter 1 – Overview LAR Guideline Capital Adequacy Requirements Banks Trust and Loan Companies 1.1 Objective 1.2 Scope of application 1.3 Overview of the individual liquidity metrics 1.4 Requirements associated with the metrics 1.5 Frequency of calculation and regulatory reporting timeline Footnotes",
+  "vector_text_prefix": "[OSFI Guideline LAR | Capital Adequacy Requirements | Banks / Trust and Loan Companies | FINAL_FUTURE_EFFECTIVE | Effective 2026-05-01]",
+  "h1_title": "Liquidity Adequacy Requirements (LAR) (2026) Chapter 1 – Overview",
+  "regulator": "OSFI",
+  "regulator_acronym": "OSFI",
+  "jurisdiction": "Canada",
+  "short_title": "LAR",
+  "source_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/liquidity-adequacy-requirements-lar-2026-chapter-1-overview"
+}

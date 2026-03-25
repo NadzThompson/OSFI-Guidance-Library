@@ -1,0 +1,196 @@
+{
+  "source_system": "osfi_guidance_library",
+  "library_row_title": "Regulatory Notice on Culture Risk Management – letter",
+  "library_row_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/regulatory-notice-culture-risk-management-letter",
+  "listing_date_raw": "November 21, 2024",
+  "listing_date_iso": "2024-11-21",
+  "listing_publication_type": "Letter",
+  "listing_category": "Sound Business and Financial Practices",
+  "listing_sector": [
+    "Banks",
+    "Foreign Bank Branches",
+    "Life Insurance and Fraternal Companies",
+    "Property and Casualty Companies",
+    "Trust and Loan Companies"
+  ],
+  "crawl_timestamp": "2026-03-11T00:00:00Z",
+  "detail_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/regulatory-notice-culture-risk-management-letter",
+  "canonical_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/regulatory-notice-culture-risk-management-letter",
+  "slug": "regulatory-notice-culture-risk-management-letter",
+  "title": "Regulatory Notice on Culture Risk Management – letter",
+  "publication_type": "Letter",
+  "category": "Sound Business and Financial Practices",
+  "document_date_raw": "November 21, 2024",
+  "document_date_iso": "2024-11-21",
+  "sector": [
+    "Banks",
+    "Foreign Bank Branches",
+    "Life Insurance and Fraternal Companies",
+    "Property and Casualty Companies",
+    "Trust and Loan Companies"
+  ],
+  "effective_date_text": "",
+  "guideline_number": "",
+  "date_modified_raw": "2024-11-21T12:00:00Z",
+  "generate_pdf_url": "https://www.osfi-bsif.gc.ca/en/print/pdf/node/2443",
+  "pdf_node_id": 2443,
+  "direct_pdf_url": null,
+  "has_table_of_contents": true,
+  "toc_entries": [],
+  "has_related_documents": true,
+  "related_document_links_raw": [
+    {
+      "title": "OSFI’s response to draft guideline Culture and Behaviour Risk - Management Feedb",
+      "url": "https://www.osfi-bsif.gc.ca/en/consultations/consultation-summaries/osfis-response-draft-guideline-culture-behaviour-risk-management-feedback"
+    },
+    {
+      "title": "Backgrounder: Culture Risk Management – Regulatory Notice",
+      "url": "https://www.osfi-bsif.gc.ca/en/news/backgrounder-culture-risk-management-regulatory-notice"
+    },
+    {
+      "title": "Regulatory Notice - Culture Risk Management",
+      "url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/regulatory-notice-culture-risk-management"
+    }
+  ],
+  "consultation_status_text": null,
+  "consultation_status_refers_to_version": null,
+  "page_language": "en",
+  "word_count_raw_body": 151,
+  "doc_id": "osfi.regulatory-notice-culture-risk-management.transmittal",
+  "doc_family_id": "osfi.regulatory-notice-culture-risk-management",
+  "version_id": "",
+  "version_label": "Regulatory Notice on Culture Risk Management – letter",
+  "version_sort_key": "",
+  "parent_doc_id": null,
+  "child_doc_ids": [],
+  "is_package_page": false,
+  "is_chapter_page": false,
+  "chapter_number": null,
+  "chapter_title": null,
+  "document_order_within_family": 0,
+  "supersedes_doc_id": null,
+  "superseded_by_doc_id": null,
+  "current_version_flag": true,
+  "status": "final_current",
+  "include_in_primary_corpus": false,
+  "include_in_support_corpus": true,
+  "include_in_context_corpus": false,
+  "effective_date_start": "2024-11-21",
+  "effective_date_end": null,
+  "effective_date_fye_split": false,
+  "effective_date_oct_fye": null,
+  "effective_date_dec_fye": null,
+  "is_future_effective": false,
+  "is_rescinded": false,
+  "is_draft_or_consultation": false,
+  "rescission_date": null,
+  "consultation_closing_date": null,
+  "as_of_applicability": "2026-03-23",
+  "rule_applied": "rule_5_final_current",
+  "authority_class": "official_support",
+  "authority_level": 60,
+  "nova_tier": 2,
+  "prudential_weight": 0.7,
+  "is_primary_normative": false,
+  "is_supporting_interpretive": true,
+  "is_context_only": false,
+  "document_class": "transmittal_letter",
+  "guidance_type_normalized": "letter",
+  "section_headings": [],
+  "heading_path": [
+    "Regulatory Notice on Culture Risk Management – letter"
+  ],
+  "toc_depth": 0,
+  "has_appendices": false,
+  "appendix_ids": [],
+  "has_tables": false,
+  "table_count": 0,
+  "has_footnotes": false,
+  "footnote_count": 0,
+  "inline_cross_references": [],
+  "quoted_external_references": [],
+  "raw_html_sha256": "7af465eb01755ed83c9967119e3b3409db8a139bc960780e4536cdbd3ad155f5",
+  "raw_pdf_sha256": null,
+  "normalized_text_sha256": null,
+  "raw_html_path": "bronze/osfi/html/final_current/regulatory-notice-culture-risk-management-letter.html",
+  "normalized_md_path": "silver/osfi/md/final_current/regulatory-notice-culture-risk-management-letter.md",
+  "canonical_json_path": "silver/osfi/json/final_current/regulatory-notice-culture-risk-management-letter.json",
+  "content_source": "HTML",
+  "parser_version": "osfi-parser-v2.1.0",
+  "normalizer_version": "osfi-normalizer-v1.4.0",
+  "quality_score": 0.5,
+  "quality_flags": [
+    "thin_body_text"
+  ],
+  "download_timestamp": "2026-03-11T00:00:00Z",
+  "enriched_timestamp": "2026-03-23T09:53:58.925029Z",
+  "sections": [
+    {
+      "heading": "",
+      "heading_level": 2,
+      "full_text": "  - OSFI’s response to draft guideline Culture and Behaviour Risk - Management Feedback\n  - Backgrounder: Culture Risk Management – Regulatory Notice\n  - Regulatory Notice - Culture Risk Management\nToday, OSFI released a regulatory notice on Culture Risk Management. It is effective immediately. It replaces and supersedes the draft Culture and Behaviour Risk Guideline we had previously published.\nThe regulatory notice reflects feedback from our public consultation on the draft guideline, adopting a flexible, principled-based approach and streamlining and simplifying expectations. In doing so, it focuses expectations around:\n  - Governance of culture risk.\n  - Fostering a desired culture.\n  - Enterprise-wide culture management.\nWe understand that institutions have unique cultures and there are varying approaches to managing culture risks. We expect that industry practices will evolve and mature over time. In lieu of a self-assessment tool, we have appended a set of questions for institutions to consider in their management of culture risks.",
+      "content": [
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "OSFI’s response to draft guideline Culture and Behaviour Risk - Management Feedback",
+            "Backgrounder: Culture Risk Management – Regulatory Notice",
+            "Regulatory Notice - Culture Risk Management"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Today, OSFI released a regulatory notice on Culture Risk Management. It is effective immediately. It replaces and supersedes the draft Culture and Behaviour Risk Guideline we had previously published."
+        },
+        {
+          "type": "paragraph",
+          "text": "The regulatory notice reflects feedback from our public consultation on the draft guideline, adopting a flexible, principled-based approach and streamlining and simplifying expectations. In doing so, it focuses expectations around:"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Governance of culture risk.",
+            "Fostering a desired culture.",
+            "Enterprise-wide culture management."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "We understand that institutions have unique cultures and there are varying approaches to managing culture risks. We expect that industry practices will evolve and mature over time. In lieu of a self-assessment tool, we have appended a set of questions for institutions to consider in their management of culture risks."
+        }
+      ]
+    }
+  ],
+  "title_normalized": "regulatory notice on culture risk management letter",
+  "publication_type_normalized": "letter",
+  "category_normalized": "sound_business_and_financial_practices",
+  "sector_normalized": [
+    "banks",
+    "foreign_bank_branches",
+    "life_insurance",
+    "pc_insurance",
+    "trust_and_loan_companies"
+  ],
+  "guideline_number_normalized": "",
+  "applies_to_banks": true,
+  "applies_to_trust_loan": true,
+  "applies_to_life_insurance": true,
+  "applies_to_pc_insurance": true,
+  "applies_to_foreign_bank": true,
+  "applies_to_foreign_insurance": false,
+  "applies_to_cooperative": false,
+  "applies_to_bank_holding": false,
+  "effective_date_sort_key": "2024-11-21",
+  "status_sort_key": 1,
+  "authority_sort_key": 60,
+  "bm25_text": "Regulatory Notice on Culture Risk Management – letter Letter Sound Business and Financial Practices Banks Foreign Bank Branches Life Insurance and Fraternal Companies Property and Casualty Companies Trust and Loan Companies",
+  "vector_text_prefix": "[OSFI Letter  | Sound Business and Financial Practices | Banks / Foreign Bank Branches / Life Insurance and Fraternal Companies | FINAL_CURRENT | Effective 2024-11-21]",
+  "h1_title": "Regulatory Notice on Culture Risk Management – letter",
+  "regulator": "OSFI",
+  "regulator_acronym": "OSFI",
+  "jurisdiction": "Canada",
+  "short_title": "",
+  "source_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/regulatory-notice-culture-risk-management-letter"
+}

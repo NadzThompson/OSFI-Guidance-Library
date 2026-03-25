@@ -1,0 +1,264 @@
+{
+  "source_system": "osfi_guidance_library",
+  "library_row_title": "Progress update on the Data Collection Modernization (DCM) initiative and upcoming opportunity to engage the industry",
+  "library_row_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/progress-update-data-collection-modernization-dcm-initiative-upcoming-opportunity-engage-industry",
+  "listing_date_raw": "June 19, 2024",
+  "listing_date_iso": "2024-06-19",
+  "listing_publication_type": "Letter",
+  "listing_category": "Supervisory Advisories",
+  "listing_sector": [
+    "Bank Holding Companies",
+    "Banks",
+    "Foreign Bank Branches",
+    "Foreign Insurance Branches",
+    "Life Insurance and Fraternal Companies",
+    "Property and Casualty Companies",
+    "Trust and Loan Companies"
+  ],
+  "crawl_timestamp": "2026-03-11T00:00:00Z",
+  "detail_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/progress-update-data-collection-modernization-dcm-initiative-upcoming-opportunity-engage-industry",
+  "canonical_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/progress-update-data-collection-modernization-dcm-initiative-upcoming-opportunity-engage-industry",
+  "slug": "progress-update-data-collection-modernization-dcm-initiative-upcoming-opportunity-engage-industry",
+  "title": "Progress update on the Data Collection Modernization (DCM) initiative and upcoming opportunity to engage the industry",
+  "publication_type": "Letter",
+  "category": "Supervisory Advisories",
+  "document_date_raw": "June 19, 2024",
+  "document_date_iso": "2024-06-19",
+  "sector": [
+    "Bank Holding Companies",
+    "Banks",
+    "Foreign Bank Branches",
+    "Foreign Insurance Branches",
+    "Life Insurance and Fraternal Companies",
+    "Property and Casualty Companies",
+    "Trust and Loan Companies"
+  ],
+  "effective_date_text": "",
+  "guideline_number": "",
+  "date_modified_raw": "2024-06-19T12:00:00Z",
+  "generate_pdf_url": "https://www.osfi-bsif.gc.ca/en/print/pdf/node/2314",
+  "pdf_node_id": 2314,
+  "direct_pdf_url": null,
+  "has_table_of_contents": true,
+  "toc_entries": [],
+  "has_related_documents": false,
+  "related_document_links_raw": [],
+  "consultation_status_text": null,
+  "consultation_status_refers_to_version": null,
+  "page_language": "en",
+  "word_count_raw_body": 429,
+  "doc_id": "osfi.progress-update-data-collection-modernization-dcm-.transmittal",
+  "doc_family_id": "osfi.progress-update-data-collection-modernization-dcm-",
+  "version_id": "",
+  "version_label": "Progress update on the Data Collection Modernization (DCM) i",
+  "version_sort_key": "",
+  "parent_doc_id": null,
+  "child_doc_ids": [],
+  "is_package_page": false,
+  "is_chapter_page": false,
+  "chapter_number": null,
+  "chapter_title": null,
+  "document_order_within_family": 0,
+  "supersedes_doc_id": null,
+  "superseded_by_doc_id": null,
+  "current_version_flag": true,
+  "status": "final_current",
+  "include_in_primary_corpus": false,
+  "include_in_support_corpus": true,
+  "include_in_context_corpus": false,
+  "effective_date_start": "2024-06-19",
+  "effective_date_end": null,
+  "effective_date_fye_split": false,
+  "effective_date_oct_fye": null,
+  "effective_date_dec_fye": null,
+  "is_future_effective": false,
+  "is_rescinded": false,
+  "is_draft_or_consultation": false,
+  "rescission_date": null,
+  "consultation_closing_date": null,
+  "as_of_applicability": "2026-03-23",
+  "rule_applied": "rule_5_final_current",
+  "authority_class": "official_support",
+  "authority_level": 60,
+  "nova_tier": 2,
+  "prudential_weight": 0.7,
+  "is_primary_normative": false,
+  "is_supporting_interpretive": true,
+  "is_context_only": false,
+  "document_class": "transmittal_letter",
+  "guidance_type_normalized": "letter",
+  "section_headings": [
+    {
+      "level": 3,
+      "text": "Data",
+      "id": "h3-0"
+    },
+    {
+      "level": 3,
+      "text": "Technology",
+      "id": "h3-1"
+    },
+    {
+      "level": 2,
+      "text": "Where we are going next",
+      "id": "h2-2"
+    }
+  ],
+  "heading_path": [
+    "Progress update on the Data Collection Modernization (DCM) initiative and upcoming opportunity to engage the industry"
+  ],
+  "toc_depth": 3,
+  "has_appendices": false,
+  "appendix_ids": [],
+  "has_tables": false,
+  "table_count": 0,
+  "has_footnotes": false,
+  "footnote_count": 0,
+  "inline_cross_references": [],
+  "quoted_external_references": [],
+  "raw_html_sha256": "7e8a618332506a6f3a66ffb57688cbcd51053c2d9ea53c77715b56d34b30f172",
+  "raw_pdf_sha256": null,
+  "normalized_text_sha256": null,
+  "raw_html_path": "bronze/osfi/html/final_current/progress-update-data-collection-modernization-dcm-initiative-upcoming-opportunity-engage-industry.html",
+  "normalized_md_path": "silver/osfi/md/final_current/progress-update-data-collection-modernization-dcm-initiative-upcoming-opportunity-engage-industry.md",
+  "canonical_json_path": "silver/osfi/json/final_current/progress-update-data-collection-modernization-dcm-initiative-upcoming-opportunity-engage-industry.json",
+  "content_source": "HTML",
+  "parser_version": "osfi-parser-v2.1.0",
+  "normalizer_version": "osfi-normalizer-v1.4.0",
+  "quality_score": 0.5,
+  "quality_flags": [
+    "thin_body_text"
+  ],
+  "download_timestamp": "2026-03-11T00:00:00Z",
+  "enriched_timestamp": "2026-03-23T09:53:58.733212Z",
+  "sections": [
+    {
+      "heading": "",
+      "heading_level": 2,
+      "full_text": "  - Modernizing how we collect data from institutions\n  - Data Collection Modernization (DCM) Initiative launch and participation in the industry questionnaire (open until July 28, 2023)\nA year ago, we launched a multi-year initiative, with the Bank of Canada and Canada Deposit Insurance Corporation, to modernize data collection for federally regulated financial institutions (institutions), including banks and insurers, and federally regulated pension plans (plans).\nAs noted in communications shared with industry in June 2023 and November 2023, the DCM initiative is about getting timely, trustworthy, relevant, and high-quality data using a modern and scalable technology platform.\nSince the launch of the DCM initiative in May 2023, we dedicated efforts to:\n  - understanding the current state of the regulatory data collected (returns and ad-hoc data calls) to identify high-value vs. low-value data sets, information gaps, and opportunities to enhance and or rationalize data.\n  - initiating the multi-step procurement process to acquire the right resources and optimal vendor software solution for replacing the current Regulatory Reporting System (RRS) platform and address user experience pain points.",
+      "content": [
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Modernizing how we collect data from institutions",
+            "Data Collection Modernization (DCM) Initiative launch and participation in the industry questionnaire (open until July 28, 2023)"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "A year ago, we launched a multi-year initiative, with the Bank of Canada and Canada Deposit Insurance Corporation, to modernize data collection for federally regulated financial institutions (institutions), including banks and insurers, and federally regulated pension plans (plans)."
+        },
+        {
+          "type": "paragraph",
+          "text": "As noted in communications shared with industry in June 2023 and November 2023, the DCM initiative is about getting timely, trustworthy, relevant, and high-quality data using a modern and scalable technology platform."
+        },
+        {
+          "type": "paragraph",
+          "text": "Since the launch of the DCM initiative in May 2023, we dedicated efforts to:"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "understanding the current state of the regulatory data collected (returns and ad-hoc data calls) to identify high-value vs. low-value data sets, information gaps, and opportunities to enhance and or rationalize data.",
+            "initiating the multi-step procurement process to acquire the right resources and optimal vendor software solution for replacing the current Regulatory Reporting System (RRS) platform and address user experience pain points."
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "Data",
+      "heading_level": 3,
+      "full_text": "We completed the current state data assessment. Insights from this assessment signal the following thematic opportunities to modernize regulatory data collection:\n  - improve data quality, including data accuracy, and use clear data definitions and rules\n  - increase granular data collection and reporting frequency, where appropriate\nThese opportunities will guide future regulatory data efforts between the tri-agencies and industry, specifically around enhancing data needs for financial and non-financial risk analyses, notably in the banking and insurance sectors. By fall 2024, we will share details on the assessment of our regulatory data needs. As more relevant data becomes available for use, we could start to see less reliance on ad hoc data calls and legacy returns. Over time, we expect this could help decrease industry data burden.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "We completed the current state data assessment. Insights from this assessment signal the following thematic opportunities to modernize regulatory data collection:"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "improve data quality, including data accuracy, and use clear data definitions and rules",
+            "increase granular data collection and reporting frequency, where appropriate"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "These opportunities will guide future regulatory data efforts between the tri-agencies and industry, specifically around enhancing data needs for financial and non-financial risk analyses, notably in the banking and insurance sectors. By fall 2024, we will share details on the assessment of our regulatory data needs. As more relevant data becomes available for use, we could start to see less reliance on ad hoc data calls and legacy returns. Over time, we expect this could help decrease industry data burden."
+        }
+      ]
+    },
+    {
+      "heading": "Technology",
+      "heading_level": 3,
+      "full_text": "We identified a qualified pool of software vendors and system integrators, and they are participating in the “review and refine requirements” procurement stage to define the requirements for a new solution. By early 2025, our goal is to award a contract to a software vendor and a system integrator to initiate planning and implementation.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "We identified a qualified pool of software vendors and system integrators, and they are participating in the “review and refine requirements” procurement stage to define the requirements for a new solution. By early 2025, our goal is to award a contract to a software vendor and a system integrator to initiate planning and implementation."
+        }
+      ]
+    },
+    {
+      "heading": "Where we are going next",
+      "heading_level": 2,
+      "full_text": "This fall, we will share with the industry details around the data aspects of the DCM initiative relevant for regulated filers and invite the industry to engage via industry forums.\nWe look forward to collaborating with you on this critical initiative.\nPlease share this letter with the senior leader(s) responsible for regulatory data creation and reporting in your organization. Please reach out to Shaheena.Mukhi@osfi-bsif.gc.ca or email dcm-mcd@osfi-bsif.gc.ca with comments or questions.\nRegards,\nAndrew Miller, Chief Data Officer",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "This fall, we will share with the industry details around the data aspects of the DCM initiative relevant for regulated filers and invite the industry to engage via industry forums."
+        },
+        {
+          "type": "paragraph",
+          "text": "We look forward to collaborating with you on this critical initiative."
+        },
+        {
+          "type": "paragraph",
+          "text": "Please share this letter with the senior leader(s) responsible for regulatory data creation and reporting in your organization. Please reach out to Shaheena.Mukhi@osfi-bsif.gc.ca or email dcm-mcd@osfi-bsif.gc.ca with comments or questions."
+        },
+        {
+          "type": "paragraph",
+          "text": "Regards,"
+        },
+        {
+          "type": "paragraph",
+          "text": "Andrew Miller, Chief Data Officer"
+        }
+      ]
+    }
+  ],
+  "title_normalized": "progress update on the data collection modernization dcm initiative and upcoming opportunity to engage the industry",
+  "publication_type_normalized": "letter",
+  "category_normalized": "supervisory_advisories",
+  "sector_normalized": [
+    "bank_holding_companies",
+    "banks",
+    "foreign_bank_branches",
+    "foreign_insurance_branches",
+    "life_insurance",
+    "pc_insurance",
+    "trust_and_loan_companies"
+  ],
+  "guideline_number_normalized": "",
+  "applies_to_banks": true,
+  "applies_to_trust_loan": true,
+  "applies_to_life_insurance": true,
+  "applies_to_pc_insurance": true,
+  "applies_to_foreign_bank": true,
+  "applies_to_foreign_insurance": true,
+  "applies_to_cooperative": false,
+  "applies_to_bank_holding": true,
+  "effective_date_sort_key": "2024-06-19",
+  "status_sort_key": 1,
+  "authority_sort_key": 60,
+  "bm25_text": "Progress update on the Data Collection Modernization (DCM) initiative and upcoming opportunity to engage the industry Letter Supervisory Advisories Bank Holding Companies Banks Foreign Bank Branches Foreign Insurance Branches Life Insurance and Fraternal Companies Property and Casualty Companies Trust and Loan Companies Data Technology Where we are going next",
+  "vector_text_prefix": "[OSFI Letter  | Supervisory Advisories | Bank Holding Companies / Banks / Foreign Bank Branches | FINAL_CURRENT | Effective 2024-06-19]",
+  "h1_title": "Progress update on the Data Collection Modernization (DCM) initiative and upcoming opportunity to engage the industry",
+  "regulator": "OSFI",
+  "regulator_acronym": "OSFI",
+  "jurisdiction": "Canada",
+  "short_title": "",
+  "source_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/progress-update-data-collection-modernization-dcm-initiative-upcoming-opportunity-engage-industry"
+}

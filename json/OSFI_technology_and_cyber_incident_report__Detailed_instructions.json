@@ -1,0 +1,725 @@
+{
+  "source_system": "osfi_guidance_library",
+  "library_row_title": "OSFI technology and cyber incident report – Detailed instructions",
+  "library_row_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/osfi-technology-cyber-incident-report-detailed-instructions",
+  "listing_date_raw": "January 15, 2025",
+  "listing_date_iso": "2025-01-15",
+  "listing_publication_type": "Instructions",
+  "listing_category": "",
+  "listing_sector": [
+    "Banks",
+    "Foreign Bank Branches",
+    "Life Insurance and Fraternal Companies",
+    "Property and Casualty Companies",
+    "Trust and Loan Companies"
+  ],
+  "crawl_timestamp": "2026-03-11T00:00:00Z",
+  "detail_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/osfi-technology-cyber-incident-report-detailed-instructions",
+  "canonical_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/osfi-technology-cyber-incident-report-detailed-instructions",
+  "slug": "osfi-technology-cyber-incident-report-detailed-instructions",
+  "title": "OSFI technology and cyber incident report – Detailed instructions",
+  "publication_type": "Instructions",
+  "category": "",
+  "document_date_raw": "January 15, 2025",
+  "document_date_iso": "2025-01-15",
+  "sector": [
+    "Banks",
+    "Foreign Bank Branches",
+    "Life Insurance and Fraternal Companies",
+    "Property and Casualty Companies",
+    "Trust and Loan Companies"
+  ],
+  "effective_date_text": "",
+  "guideline_number": "",
+  "date_modified_raw": "2025-01-15T12:00:00Z",
+  "generate_pdf_url": "https://www.osfi-bsif.gc.ca/en/print/pdf/node/2561",
+  "pdf_node_id": 2561,
+  "direct_pdf_url": "https://www.osfi-bsif.gc.ca/sites/default/files/documents/tech-cyber-incident-form-formulaire-en_0.pdf",
+  "has_table_of_contents": true,
+  "toc_entries": [],
+  "has_related_documents": false,
+  "related_document_links_raw": [],
+  "consultation_status_text": null,
+  "consultation_status_refers_to_version": null,
+  "page_language": "en",
+  "word_count_raw_body": 3738,
+  "doc_id": "osfi.osfi-technology-cyber-incident-report-detailed-ins.instructions",
+  "doc_family_id": "osfi.osfi-technology-cyber-incident-report-detailed-ins",
+  "version_id": "",
+  "version_label": "OSFI technology and cyber incident report – Detailed instruc",
+  "version_sort_key": "",
+  "parent_doc_id": null,
+  "child_doc_ids": [],
+  "is_package_page": false,
+  "is_chapter_page": false,
+  "chapter_number": null,
+  "chapter_title": null,
+  "document_order_within_family": 0,
+  "supersedes_doc_id": null,
+  "superseded_by_doc_id": null,
+  "current_version_flag": true,
+  "status": "final_current",
+  "include_in_primary_corpus": true,
+  "include_in_support_corpus": false,
+  "include_in_context_corpus": false,
+  "effective_date_start": "2025-01-15",
+  "effective_date_end": null,
+  "effective_date_fye_split": false,
+  "effective_date_oct_fye": null,
+  "effective_date_dec_fye": null,
+  "is_future_effective": false,
+  "is_rescinded": false,
+  "is_draft_or_consultation": false,
+  "rescission_date": null,
+  "consultation_closing_date": null,
+  "as_of_applicability": "2026-03-23",
+  "rule_applied": "rule_5_final_current",
+  "authority_class": "primary_normative",
+  "authority_level": 90,
+  "nova_tier": 1,
+  "prudential_weight": 1.0,
+  "is_primary_normative": true,
+  "is_supporting_interpretive": false,
+  "is_context_only": false,
+  "document_class": "instructions",
+  "guidance_type_normalized": "instructions",
+  "section_headings": [
+    {
+      "level": 2,
+      "text": "General instructions",
+      "id": "h2-0"
+    },
+    {
+      "level": 3,
+      "text": "Incident information",
+      "id": "h3-1"
+    },
+    {
+      "level": 3,
+      "text": "Site location and lines of business affected",
+      "id": "h3-2"
+    },
+    {
+      "level": 3,
+      "text": "Incident details",
+      "id": "h3-3"
+    },
+    {
+      "level": 3,
+      "text": "Cyber threat actor details",
+      "id": "h3-4"
+    },
+    {
+      "level": 3,
+      "text": "Internal and external notifications",
+      "id": "h3-5"
+    },
+    {
+      "level": 2,
+      "text": "Footnotes",
+      "id": "h2-6"
+    }
+  ],
+  "heading_path": [
+    "OSFI technology and cyber incident report – Detailed instructions"
+  ],
+  "toc_depth": 3,
+  "has_appendices": false,
+  "appendix_ids": [],
+  "has_tables": true,
+  "table_count": 5,
+  "has_footnotes": true,
+  "footnote_count": 1,
+  "inline_cross_references": [],
+  "quoted_external_references": [],
+  "raw_html_sha256": "f0d8b6ef37ff44257f918d31ed621ed2c0983af3f3d020ee8df426f0c74b0a5a",
+  "raw_pdf_sha256": null,
+  "normalized_text_sha256": null,
+  "raw_html_path": "bronze/osfi/html/final_current/osfi-technology-cyber-incident-report-detailed-instructions.html",
+  "normalized_md_path": "silver/osfi/md/final_current/osfi-technology-cyber-incident-report-detailed-instructions.md",
+  "canonical_json_path": "silver/osfi/json/final_current/osfi-technology-cyber-incident-report-detailed-instructions.json",
+  "content_source": "HTML",
+  "parser_version": "osfi-parser-v2.1.0",
+  "normalizer_version": "osfi-normalizer-v1.4.0",
+  "quality_score": 1.0,
+  "quality_flags": [],
+  "download_timestamp": "2026-03-11T00:00:00Z",
+  "enriched_timestamp": "2026-03-23T09:53:57.912710Z",
+  "sections": [
+    {
+      "heading": "",
+      "heading_level": 2,
+      "full_text": "  - OSFI Technology and Cyber Incident Reporting Form (PDF, 133 KB)",
+      "content": [
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "OSFI Technology and Cyber Incident Reporting Form (PDF, 133 KB)"
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "General instructions",
+      "heading_level": 2,
+      "full_text": "As per our Technology and Cyber Security Incident Advisory, institutions must report a technology or cyber security incident within 24 hours, or sooner if possible. A list of reporting criteria is available within the Advisory.\nMandatory fields must be completed at a minimum for initial reporting of active/ongoing incidents. Other fields can be completed in subsequent updates when the information becomes available. Mandatory fields are identified with an asterisk (*). For resolved incidents please provide as much information as available.\nInformation provided can be best estimates, including financial or customer impact, and may not be definitive at the time of reporting. Information provided can also be updated in the post-incident report.\nUntil the incident is resolved, we expect institutions to provide situation updates, including any short term and long-term remediation action plans and timelines.\nDepending on the severity, impact, and velocity of the incident, we may recommend methods and frequency of subsequent updates.\nInstitutions should submit their incident report to the Technology Risk Division at TRD-DRT@osfi-bsif.gc.ca and their lead supervisor.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "As per our Technology and Cyber Security Incident Advisory, institutions must report a technology or cyber security incident within 24 hours, or sooner if possible. A list of reporting criteria is available within the Advisory."
+        },
+        {
+          "type": "paragraph",
+          "text": "Mandatory fields must be completed at a minimum for initial reporting of active/ongoing incidents. Other fields can be completed in subsequent updates when the information becomes available. Mandatory fields are identified with an asterisk (*). For resolved incidents please provide as much information as available."
+        },
+        {
+          "type": "paragraph",
+          "text": "Information provided can be best estimates, including financial or customer impact, and may not be definitive at the time of reporting. Information provided can also be updated in the post-incident report."
+        },
+        {
+          "type": "paragraph",
+          "text": "Until the incident is resolved, we expect institutions to provide situation updates, including any short term and long-term remediation action plans and timelines."
+        },
+        {
+          "type": "paragraph",
+          "text": "Depending on the severity, impact, and velocity of the incident, we may recommend methods and frequency of subsequent updates."
+        },
+        {
+          "type": "paragraph",
+          "text": "Institutions should submit their incident report to the Technology Risk Division at TRD-DRT@osfi-bsif.gc.ca and their lead supervisor."
+        }
+      ]
+    },
+    {
+      "heading": "Incident information",
+      "heading_level": 3,
+      "full_text": "Institution name Footnote * | Record the legal name of the Federally Regulated Financial Institution.\nIncident name or identifier | Record the identifier used internally by federally regulated financial institutions to identify the incident. For example: INC000001 CIRT-MAJ-001 Cyber incident 2024-941 – Account Takeover\nIncident report type Footnote * | The initial submission is the first report submitted by the institution. Once the initial report has been submitted, all subsequent reports should be considered as updates. For updated reports, the same incident name or identifier can be used.\nIncident status Footnote * | An active incident is an incident that is currently ongoing and requires containment or recovery efforts that are not yet effectively implemented. Active incident reports should have as much detail as possible in the incident description field to minimize information requests. Active incidents require regular updates until they have been resolved and closed. A resolved incident is one that has been fully addressed, with all necessary actions taken to mitigate its impact and restore normal operations.\nDate, time and time zone the incident occurred | The actual date and time of the incident occurrence, either at the institution or at a third-party. Once the date has been selected, please enter the time and time zone in the designated fields. Please note that the time should be entered in a 24-hour format (YYYY-MM-DD HH:mm).\nDate, time and time zone the incident was detected | The actual date and time of the incident detection, either by institution or by a third-party. Once the date has been selected, please enter the time and time zone in the designated fields. Please note that the time should be entered in a 24-hour format (YYYY-MM-DD HH:mm).\nRecord the identifier used internally by federally regulated financial institutions to identify the incident.\nFor example:\n  - INC000001\n  - CIRT-MAJ-001\n  - Cyber incident 2024-941 – Account Takeover\nThe initial submission is the first report submitted by the institution. Once the initial report has been submitted, all subsequent reports should be considered as updates.\nFor updated reports, the same incident name or identifier can be used.\nAn active incident is an incident that is currently ongoing and requires containment or recovery efforts that are not yet effectively implemented. Active incident reports should have as much detail as possible in the incident description field to minimize information requests. Active incidents require regular updates until they have been resolved and closed.\nA resolved incident is one that has been fully addressed, with all necessary actions taken to mitigate its impact and restore normal operations.",
+      "content": [
+        {
+          "type": "table",
+          "caption": "",
+          "rows": [
+            [
+              "Institution name Footnote *",
+              "Record the legal name of the Federally Regulated Financial Institution."
+            ],
+            [
+              "Incident name or identifier",
+              "Record the identifier used internally by federally regulated financial institutions to identify the incident. For example: INC000001 CIRT-MAJ-001 Cyber incident 2024-941 – Account Takeover"
+            ],
+            [
+              "Incident report type Footnote *",
+              "The initial submission is the first report submitted by the institution. Once the initial report has been submitted, all subsequent reports should be considered as updates. For updated reports, the same incident name or identifier can be used."
+            ],
+            [
+              "Incident status Footnote *",
+              "An active incident is an incident that is currently ongoing and requires containment or recovery efforts that are not yet effectively implemented. Active incident reports should have as much detail as possible in the incident description field to minimize information requests. Active incidents require regular updates until they have been resolved and closed. A resolved incident is one that has been fully addressed, with all necessary actions taken to mitigate its impact and restore normal operations."
+            ],
+            [
+              "Date, time and time zone the incident occurred",
+              "The actual date and time of the incident occurrence, either at the institution or at a third-party. Once the date has been selected, please enter the time and time zone in the designated fields. Please note that the time should be entered in a 24-hour format (YYYY-MM-DD HH:mm)."
+            ],
+            [
+              "Date, time and time zone the incident was detected",
+              "The actual date and time of the incident detection, either by institution or by a third-party. Once the date has been selected, please enter the time and time zone in the designated fields. Please note that the time should be entered in a 24-hour format (YYYY-MM-DD HH:mm)."
+            ]
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Record the identifier used internally by federally regulated financial institutions to identify the incident."
+        },
+        {
+          "type": "paragraph",
+          "text": "For example:"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "INC000001",
+            "CIRT-MAJ-001",
+            "Cyber incident 2024-941 – Account Takeover"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "The initial submission is the first report submitted by the institution. Once the initial report has been submitted, all subsequent reports should be considered as updates."
+        },
+        {
+          "type": "paragraph",
+          "text": "For updated reports, the same incident name or identifier can be used."
+        },
+        {
+          "type": "paragraph",
+          "text": "An active incident is an incident that is currently ongoing and requires containment or recovery efforts that are not yet effectively implemented. Active incident reports should have as much detail as possible in the incident description field to minimize information requests. Active incidents require regular updates until they have been resolved and closed."
+        },
+        {
+          "type": "paragraph",
+          "text": "A resolved incident is one that has been fully addressed, with all necessary actions taken to mitigate its impact and restore normal operations."
+        }
+      ]
+    },
+    {
+      "heading": "Site location and lines of business affected",
+      "heading_level": 3,
+      "full_text": "Where did the incident occur? Footnote * | Select from the drop-down list the most appropriate entity where the incident occurred. If the incident took place at: a subsidiary or joint venture partner choose “Institution-Subsidiary” an institution’s foreign branch, choose “Institution” a third-party’s subcontractor or fourth party choose “Subcontractor” If “other” is selected, please provide details in the next field.\nThird-party, subcontractor, or other details | If the incident originated at a third party or subcontractor, indicate their full legal name.\nBusiness line and service identification | A business line refers to a specific area of operation. For example: retail banking capital markets credit assessment online services payment and settlement wealth management insurance underwriting claims settlement human resource reinsurance corporate accounting customer service Indicate all business lines or services impacted, separated with a comma, and avoid acronyms.\nGeographic site or locale affected | If the incident has an impact beyond a single location, provide a list of affected locations or descriptions of the geographical extent of the incident. Also include the names of the countries or jurisdictions that have been affected. Enter the affected sites or locale affected (for example, city, province or state, country, world-wide.\nTechnology assets affected | A technology asset is a tangible (for example, hardware, infrastructure) or intangible (for example, software, data, information) item that facilitates the delivery of technology services. Please indicate the names of the technology assets affected and indicate whether it is a critical asset. If the function is not apparent from the name, provide a brief description. Expand all acronyms.\nSelect from the drop-down list the most appropriate entity where the incident occurred. If the incident took place at:\n  - a subsidiary or joint venture partner choose “Institution-Subsidiary”\n  - an institution’s foreign branch, choose “Institution”\n  - a third-party’s subcontractor or fourth party choose “Subcontractor”\nIf “other” is selected, please provide details in the next field.\nA business line refers to a specific area of operation.\nFor example:\n  - retail banking\n  - capital markets\n  - credit assessment\n  - online services\n  - payment and settlement\n  - wealth management\n  - insurance underwriting\n  - claims settlement\n  - human resource\n  - reinsurance\n  - corporate accounting\n  - customer service\nIndicate all business lines or services impacted, separated with a comma, and avoid acronyms.\nIf the incident has an impact beyond a single location, provide a list of affected locations or descriptions of the geographical extent of the incident. Also include the names of the countries or jurisdictions that have been affected.\nEnter the affected sites or locale affected (for example, city, province or state, country, world-wide.\nA technology asset is a tangible (for example, hardware, infrastructure) or intangible (for example, software, data, information) item that facilitates the delivery of technology services.\nPlease indicate the names of the technology assets affected and indicate whether it is a critical asset. If the function is not apparent from the name, provide a brief description. Expand all acronyms.",
+      "content": [
+        {
+          "type": "table",
+          "caption": "",
+          "rows": [
+            [
+              "Where did the incident occur? Footnote *",
+              "Select from the drop-down list the most appropriate entity where the incident occurred. If the incident took place at: a subsidiary or joint venture partner choose “Institution-Subsidiary” an institution’s foreign branch, choose “Institution” a third-party’s subcontractor or fourth party choose “Subcontractor” If “other” is selected, please provide details in the next field."
+            ],
+            [
+              "Third-party, subcontractor, or other details",
+              "If the incident originated at a third party or subcontractor, indicate their full legal name."
+            ],
+            [
+              "Business line and service identification",
+              "A business line refers to a specific area of operation. For example: retail banking capital markets credit assessment online services payment and settlement wealth management insurance underwriting claims settlement human resource reinsurance corporate accounting customer service Indicate all business lines or services impacted, separated with a comma, and avoid acronyms."
+            ],
+            [
+              "Geographic site or locale affected",
+              "If the incident has an impact beyond a single location, provide a list of affected locations or descriptions of the geographical extent of the incident. Also include the names of the countries or jurisdictions that have been affected. Enter the affected sites or locale affected (for example, city, province or state, country, world-wide."
+            ],
+            [
+              "Technology assets affected",
+              "A technology asset is a tangible (for example, hardware, infrastructure) or intangible (for example, software, data, information) item that facilitates the delivery of technology services. Please indicate the names of the technology assets affected and indicate whether it is a critical asset. If the function is not apparent from the name, provide a brief description. Expand all acronyms."
+            ]
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Select from the drop-down list the most appropriate entity where the incident occurred. If the incident took place at:"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "a subsidiary or joint venture partner choose “Institution-Subsidiary”",
+            "an institution’s foreign branch, choose “Institution”",
+            "a third-party’s subcontractor or fourth party choose “Subcontractor”"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "If “other” is selected, please provide details in the next field."
+        },
+        {
+          "type": "paragraph",
+          "text": "A business line refers to a specific area of operation."
+        },
+        {
+          "type": "paragraph",
+          "text": "For example:"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "retail banking",
+            "capital markets",
+            "credit assessment",
+            "online services",
+            "payment and settlement",
+            "wealth management",
+            "insurance underwriting",
+            "claims settlement",
+            "human resource",
+            "reinsurance",
+            "corporate accounting",
+            "customer service"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Indicate all business lines or services impacted, separated with a comma, and avoid acronyms."
+        },
+        {
+          "type": "paragraph",
+          "text": "If the incident has an impact beyond a single location, provide a list of affected locations or descriptions of the geographical extent of the incident. Also include the names of the countries or jurisdictions that have been affected."
+        },
+        {
+          "type": "paragraph",
+          "text": "Enter the affected sites or locale affected (for example, city, province or state, country, world-wide."
+        },
+        {
+          "type": "paragraph",
+          "text": "A technology asset is a tangible (for example, hardware, infrastructure) or intangible (for example, software, data, information) item that facilitates the delivery of technology services."
+        },
+        {
+          "type": "paragraph",
+          "text": "Please indicate the names of the technology assets affected and indicate whether it is a critical asset. If the function is not apparent from the name, provide a brief description. Expand all acronyms."
+        }
+      ]
+    },
+    {
+      "heading": "Incident details",
+      "heading_level": 3,
+      "full_text": "Incident category Footnote * | A technology incident is any disruption or failure of technology assets that affects business operations or services. A cyber incident is any incident involving unauthorized access or malicious activity targeting information systems, data, or networks, often with the intent to steal, disrupt, or damage technology assets.\nIncident result | The incident result is the outcome or adverse impact of the incident on the organization’s technology assets and operations. This reflects how the incident affected the confidentiality, availability, or integrity of services, systems, or data. A “compromise” is an incident result when data, systems, or users are compromised because of data exposure, account takeover, or privileged access to systems gained by unauthorized entities for example. A “degradation” is an incident result when a service or application operates at diminished capacity, such as slow responses to queries or delays in processing. An \"outage\" is an incident result when a service or function is unavailable or offline.\nIncident type | An incident type describes how a technology asset has been determined and observed to be deteriorated. An incident type can also indicate a threat vector or attack technique, such as phishing and malware, used by a threat actor which leads to an incident result (degradation, outage, or compromise). Select the best match from the list below. Account takeover An incident where an unauthorized party gains access to a user or customer account. Application issue Flaws or failures in software application layer that have resulted in performance issues, vulnerabilities, or other operational problems. Data loss or exposure The unauthorized access, disclosure, misuse, or destruction of information, often resulting in a breach of privacy or loss of critical data. Denial of service The unavailability of a service or application due to overwhelming traffic from coordinated and possibly multiple malicious sources. Infrastructure issue Flaws and failures within an underlying infrastructure technology system adversely affecting operational functionality. For example, failures in servers or network, hardware, operating systems, virtualization, middleware, database, and data centres causing degradation and outage. Malware or ransomware An incident involving the use of malicious software designed to damage, disrupt, or gain unauthorized access to technology assets such as viruses, trojans, worms, and ransomware. Phishing A deceptive attempt, usually through email, to trick individuals into revealing sensitive information, such as passwords or credit card numbers, by impersonating a trustworthy entity. Unauthorized access When a malicious entity gains access to an internal system or data. This can include threat actors gaining access to a database or client computer. Other Provide details in the incident description field below.\nIncident severity or priority Footnote * | The severity or priority levels represent the incident classification levels based on the potential impact of the incident. Institutions should use their internal assessment processes to ascertain the potential impact, with Severity 1, Priority 1, or Critical being the highest level of impact. If internal categories exceed the 4 tiers, select an option as close to the level as possible.\nIncident description Footnote * | The incident description should provide any additional information that is not captured in the previous fields and provide more context surrounding the incident, its detection, impacts, affected internal and external parties, planned remedial actions, and lessons learned. Information can include incident details, such as: detection method known direct and indirect impacts affected internal and external parties actions completed and pending estimated timelines to resolve incident or to implement enhancements or controls any planned or implemented workarounds in place for active incidents.\nBreach of recovery point objective (RPO) or recovery time objective (RTO) | RTO refers to the maximum allowable time to restore systems, services, or data following an incident. RPO refers to the maximum amount of data loss that can be tolerated, measured in time. It defines the point in time to which data must be restored after an incident. If “under assessment” is selected during an initial report, please confirm RTO/RPO breach in a subsequent update.\nActivation of business continuity plans (BCPs) or disaster recovery plans (DRPs) | BCPs are the procedures to maintain essential operations during and after an incident, disruption, or crisis. DRPs are a set of policies and procedures for restoring systems and data after a disaster or major incident. If “under assessment” is selected during an initial report, please confirm BCP/DRP activation in a subsequent update.\nImpact scope – Service delivery | If the incident has impacted the ability to deliver a service, select the level of impact identified by the institution from the drop-down list. The rating is from none through low, moderate, high to critical. If service delivery impact is under assessment, please provide the assessed rating in a subsequent update.\nImpact scope – (Loss of) Sensitive information | If the incident includes exposure or loss of sensitive data, select the level of impact identified by the institution from the drop-down list. The rating is from none through low, moderate, high to critical. If sensitive data impact is under assessment, please provide assessed rating in a subsequent update.\nImpact scope – Media or public sentiment | Describe any reporting, statements or sentiment arising from mainstream or social media channels. Enter the current level of media or public discourse resulting from the incident.\nEstimated financial impact or financial risk (in CAD) | This represents the estimated total cost for the incident response effort, plus remediation (including remediation for clients). If financial impact is under assessment, please provide the estimated cost in a subsequent update.\nEstimated number of impacted users, clients, or transactions | Provide the estimated number of employees, clients, or transactions impacted by the incident.\nEstimated recovery timeframe | If the incident is ongoing or still active, please provide best estimate of date and time when the incident will be resolved or is expected to be resolved.\nIncident duration | Please provide the total duration for resolved incidents. This should be measured from the incident occurrence to the return to normal operations. Indicate the time in units of days, hours, and minutes.\nIncident recurrence | If the incident is related to a previous incident, please provide the reference(s) to the previously reported incident(s). If incident recurrence relation is under assessment, please provide assessment result in a subsequent update.\nIncident root cause | The root cause of an incident is the underlying factor that must be addressed to prevent a reoccurrence of the chain of events that led to the incident. If the root cause is known at the time of reporting, select the appropriate one. Provide additional details including (but not limited to): cause of the issue, failed controls resulting in the incident, and planned improvements to prevent incident reoccurrence in the root cause description field. If the root cause is under assessment, provide the root cause information in subsequent updates or in the post-incident report submission. The incident root cause descriptions are as follows: Capacity management Issues arising from systems being overwhelmed due to excessive, non-malicious, user demand or IT resource (for example, memory, CPU, virtualizations, servers, storage etc.) limitations. Configuration error Incidents resulting from incorrect or improper settings within technology assets. Deficient process Issues arising from inadequate or inefficient procedures, steps, instructions, or workflows. Design flaw Problems originating from flaws or weaknesses in the architectural design of technology solutions. Facilities or physical security Incidents stemming from unauthorized access or physical breaches of secure locations (for example, data center, server rooms, offices, housing critical technology assets.) Failed redundancy Incidents occurring when backup or redundancy mechanisms, such as failover to an alternate site, fail to provide continuity during system disruptions. Faulty equipment Technology asset failures due to malfunctioning hardware or software components. Human error Incidents caused by mistakes or oversight made by individuals while using technology. Natural disaster Incidents caused by extreme natural events like earthquakes, floods, or hurricanes disrupting hardware and infrastructure. Outdated technology asset Incidents arising from using outdated or unsupported technology assets, leaving systems vulnerable to threats. Process execution error Incidents triggered by mistakes or inaccuracies during the execution of processes, such as change procedure execution. Social engineering Incidents where attackers manipulate people using social engineering techniques, to gain unauthorized access or information. Technology asset vulnerability Incidents resulting from malicious actors taking advantage of weaknesses or vulnerabilities, including zero days, in systems. Other Please ensure that a description is provided. Under assessment If “under assessment” is selected during an initial report, please confirm the root cause in a subsequent update.\nA technology incident is any disruption or failure of technology assets that affects business operations or services.\nA cyber incident is any incident involving unauthorized access or malicious activity targeting information systems, data, or networks, often with the intent to steal, disrupt, or damage technology assets.\nThe incident result is the outcome or adverse impact of the incident on the organization’s technology assets and operations. This reflects how the incident affected the confidentiality, availability, or integrity of services, systems, or data.\nA “compromise” is an incident result when data, systems, or users are compromised because of data exposure, account takeover, or privileged access to systems gained by unauthorized entities for example.\nA “degradation” is an incident result when a service or application operates at diminished capacity, such as slow responses to queries or delays in processing.\nAn \"outage\" is an incident result when a service or function is unavailable or offline.\nAn incident type describes how a technology asset has been determined and observed to be deteriorated.\nAn incident type can also indicate a threat vector or attack technique, such as phishing and malware, used by a threat actor which leads to an incident result (degradation, outage, or compromise).\nSelect the best match from the list below.\nThe severity or priority levels represent the incident classification levels based on the potential impact of the incident.\nInstitutions should use their internal assessment processes to ascertain the potential impact, with Severity 1, Priority 1, or Critical being the highest level of impact. If internal categories exceed the 4 tiers, select an option as close to the level as possible.\nThe incident description should provide any additional information that is not captured in the previous fields and provide more context surrounding the incident, its detection, impacts, affected internal and external parties, planned remedial actions, and lessons learned.\nInformation can include incident details, such as:\n  - detection method\n  - known direct and indirect impacts\n  - affected internal and external parties\n  - actions completed and pending\n  - estimated timelines to resolve incident or to implement enhancements or controls\n  - any planned or implemented workarounds in place for active incidents.\nRTO refers to the maximum allowable time to restore systems, services, or data following an incident.\nRPO refers to the maximum amount of data loss that can be tolerated, measured in time. It defines the point in time to which data must be restored after an incident.\nIf “under assessment” is selected during an initial report, please confirm RTO/RPO breach in a subsequent update.\nBCPs are the procedures to maintain essential operations during and after an incident, disruption, or crisis.\nDRPs are a set of policies and procedures for restoring systems and data after a disaster or major incident.\nIf “under assessment” is selected during an initial report, please confirm BCP/DRP activation in a subsequent update.\nIf the incident has impacted the ability to deliver a service, select the level of impact identified by the institution from the drop-down list. The rating is from none through low, moderate, high to critical.\nIf service delivery impact is under assessment, please provide the assessed rating in a subsequent update.\nIf the incident includes exposure or loss of sensitive data, select the level of impact identified by the institution from the drop-down list. The rating is from none through low, moderate, high to critical.\nIf sensitive data impact is under assessment, please provide assessed rating in a subsequent update.\nDescribe any reporting, statements or sentiment arising from mainstream or social media channels.\nEnter the current level of media or public discourse resulting from the incident.\nThis represents the estimated total cost for the incident response effort, plus remediation (including remediation for clients).\nIf financial impact is under assessment, please provide the estimated cost in a subsequent update.\nIf the incident is related to a previous incident, please provide the reference(s) to the previously reported incident(s).\nIf incident recurrence relation is under assessment, please provide assessment result in a subsequent update.\nThe root cause of an incident is the underlying factor that must be addressed to prevent a reoccurrence of the chain of events that led to the incident. If the root cause is known at the time of reporting, select the appropriate one.\nProvide additional details including (but not limited to): cause of the issue, failed controls resulting in the incident, and planned improvements to prevent incident reoccurrence in the root cause description field.\nIf the root cause is under assessment, provide the root cause information in subsequent updates or in the post-incident report submission.\nThe incident root cause descriptions are as follows:",
+      "content": [
+        {
+          "type": "table",
+          "caption": "",
+          "rows": [
+            [
+              "Incident category Footnote *",
+              "A technology incident is any disruption or failure of technology assets that affects business operations or services. A cyber incident is any incident involving unauthorized access or malicious activity targeting information systems, data, or networks, often with the intent to steal, disrupt, or damage technology assets."
+            ],
+            [
+              "Incident result",
+              "The incident result is the outcome or adverse impact of the incident on the organization’s technology assets and operations. This reflects how the incident affected the confidentiality, availability, or integrity of services, systems, or data. A “compromise” is an incident result when data, systems, or users are compromised because of data exposure, account takeover, or privileged access to systems gained by unauthorized entities for example. A “degradation” is an incident result when a service or application operates at diminished capacity, such as slow responses to queries or delays in processing. An \"outage\" is an incident result when a service or function is unavailable or offline."
+            ],
+            [
+              "Incident type",
+              "An incident type describes how a technology asset has been determined and observed to be deteriorated. An incident type can also indicate a threat vector or attack technique, such as phishing and malware, used by a threat actor which leads to an incident result (degradation, outage, or compromise). Select the best match from the list below. Account takeover An incident where an unauthorized party gains access to a user or customer account. Application issue Flaws or failures in software application layer that have resulted in performance issues, vulnerabilities, or other operational problems. Data loss or exposure The unauthorized access, disclosure, misuse, or destruction of information, often resulting in a breach of privacy or loss of critical data. Denial of service The unavailability of a service or application due to overwhelming traffic from coordinated and possibly multiple malicious sources. Infrastructure issue Flaws and failures within an underlying infrastructure technology system adversely affecting operational functionality. For example, failures in servers or network, hardware, operating systems, virtualization, middleware, database, and data centres causing degradation and outage. Malware or ransomware An incident involving the use of malicious software designed to damage, disrupt, or gain unauthorized access to technology assets such as viruses, trojans, worms, and ransomware. Phishing A deceptive attempt, usually through email, to trick individuals into revealing sensitive information, such as passwords or credit card numbers, by impersonating a trustworthy entity. Unauthorized access When a malicious entity gains access to an internal system or data. This can include threat actors gaining access to a database or client computer. Other Provide details in the incident description field below."
+            ],
+            [
+              "Incident severity or priority Footnote *",
+              "The severity or priority levels represent the incident classification levels based on the potential impact of the incident. Institutions should use their internal assessment processes to ascertain the potential impact, with Severity 1, Priority 1, or Critical being the highest level of impact. If internal categories exceed the 4 tiers, select an option as close to the level as possible."
+            ],
+            [
+              "Incident description Footnote *",
+              "The incident description should provide any additional information that is not captured in the previous fields and provide more context surrounding the incident, its detection, impacts, affected internal and external parties, planned remedial actions, and lessons learned. Information can include incident details, such as: detection method known direct and indirect impacts affected internal and external parties actions completed and pending estimated timelines to resolve incident or to implement enhancements or controls any planned or implemented workarounds in place for active incidents."
+            ],
+            [
+              "Breach of recovery point objective (RPO) or recovery time objective (RTO)",
+              "RTO refers to the maximum allowable time to restore systems, services, or data following an incident. RPO refers to the maximum amount of data loss that can be tolerated, measured in time. It defines the point in time to which data must be restored after an incident. If “under assessment” is selected during an initial report, please confirm RTO/RPO breach in a subsequent update."
+            ],
+            [
+              "Activation of business continuity plans (BCPs) or disaster recovery plans (DRPs)",
+              "BCPs are the procedures to maintain essential operations during and after an incident, disruption, or crisis. DRPs are a set of policies and procedures for restoring systems and data after a disaster or major incident. If “under assessment” is selected during an initial report, please confirm BCP/DRP activation in a subsequent update."
+            ],
+            [
+              "Impact scope – Service delivery",
+              "If the incident has impacted the ability to deliver a service, select the level of impact identified by the institution from the drop-down list. The rating is from none through low, moderate, high to critical. If service delivery impact is under assessment, please provide the assessed rating in a subsequent update."
+            ],
+            [
+              "Impact scope – (Loss of) Sensitive information",
+              "If the incident includes exposure or loss of sensitive data, select the level of impact identified by the institution from the drop-down list. The rating is from none through low, moderate, high to critical. If sensitive data impact is under assessment, please provide assessed rating in a subsequent update."
+            ],
+            [
+              "Impact scope – Media or public sentiment",
+              "Describe any reporting, statements or sentiment arising from mainstream or social media channels. Enter the current level of media or public discourse resulting from the incident."
+            ],
+            [
+              "Estimated financial impact or financial risk (in CAD)",
+              "This represents the estimated total cost for the incident response effort, plus remediation (including remediation for clients). If financial impact is under assessment, please provide the estimated cost in a subsequent update."
+            ],
+            [
+              "Estimated number of impacted users, clients, or transactions",
+              "Provide the estimated number of employees, clients, or transactions impacted by the incident."
+            ],
+            [
+              "Estimated recovery timeframe",
+              "If the incident is ongoing or still active, please provide best estimate of date and time when the incident will be resolved or is expected to be resolved."
+            ],
+            [
+              "Incident duration",
+              "Please provide the total duration for resolved incidents. This should be measured from the incident occurrence to the return to normal operations. Indicate the time in units of days, hours, and minutes."
+            ],
+            [
+              "Incident recurrence",
+              "If the incident is related to a previous incident, please provide the reference(s) to the previously reported incident(s). If incident recurrence relation is under assessment, please provide assessment result in a subsequent update."
+            ],
+            [
+              "Incident root cause",
+              "The root cause of an incident is the underlying factor that must be addressed to prevent a reoccurrence of the chain of events that led to the incident. If the root cause is known at the time of reporting, select the appropriate one. Provide additional details including (but not limited to): cause of the issue, failed controls resulting in the incident, and planned improvements to prevent incident reoccurrence in the root cause description field. If the root cause is under assessment, provide the root cause information in subsequent updates or in the post-incident report submission. The incident root cause descriptions are as follows: Capacity management Issues arising from systems being overwhelmed due to excessive, non-malicious, user demand or IT resource (for example, memory, CPU, virtualizations, servers, storage etc.) limitations. Configuration error Incidents resulting from incorrect or improper settings within technology assets. Deficient process Issues arising from inadequate or inefficient procedures, steps, instructions, or workflows. Design flaw Problems originating from flaws or weaknesses in the architectural design of technology solutions. Facilities or physical security Incidents stemming from unauthorized access or physical breaches of secure locations (for example, data center, server rooms, offices, housing critical technology assets.) Failed redundancy Incidents occurring when backup or redundancy mechanisms, such as failover to an alternate site, fail to provide continuity during system disruptions. Faulty equipment Technology asset failures due to malfunctioning hardware or software components. Human error Incidents caused by mistakes or oversight made by individuals while using technology. Natural disaster Incidents caused by extreme natural events like earthquakes, floods, or hurricanes disrupting hardware and infrastructure. Outdated technology asset Incidents arising from using outdated or unsupported technology assets, leaving systems vulnerable to threats. Process execution error Incidents triggered by mistakes or inaccuracies during the execution of processes, such as change procedure execution. Social engineering Incidents where attackers manipulate people using social engineering techniques, to gain unauthorized access or information. Technology asset vulnerability Incidents resulting from malicious actors taking advantage of weaknesses or vulnerabilities, including zero days, in systems. Other Please ensure that a description is provided. Under assessment If “under assessment” is selected during an initial report, please confirm the root cause in a subsequent update."
+            ]
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "A technology incident is any disruption or failure of technology assets that affects business operations or services."
+        },
+        {
+          "type": "paragraph",
+          "text": "A cyber incident is any incident involving unauthorized access or malicious activity targeting information systems, data, or networks, often with the intent to steal, disrupt, or damage technology assets."
+        },
+        {
+          "type": "paragraph",
+          "text": "The incident result is the outcome or adverse impact of the incident on the organization’s technology assets and operations. This reflects how the incident affected the confidentiality, availability, or integrity of services, systems, or data."
+        },
+        {
+          "type": "paragraph",
+          "text": "A “compromise” is an incident result when data, systems, or users are compromised because of data exposure, account takeover, or privileged access to systems gained by unauthorized entities for example."
+        },
+        {
+          "type": "paragraph",
+          "text": "A “degradation” is an incident result when a service or application operates at diminished capacity, such as slow responses to queries or delays in processing."
+        },
+        {
+          "type": "paragraph",
+          "text": "An \"outage\" is an incident result when a service or function is unavailable or offline."
+        },
+        {
+          "type": "paragraph",
+          "text": "An incident type describes how a technology asset has been determined and observed to be deteriorated."
+        },
+        {
+          "type": "paragraph",
+          "text": "An incident type can also indicate a threat vector or attack technique, such as phishing and malware, used by a threat actor which leads to an incident result (degradation, outage, or compromise)."
+        },
+        {
+          "type": "paragraph",
+          "text": "Select the best match from the list below."
+        },
+        {
+          "type": "paragraph",
+          "text": "The severity or priority levels represent the incident classification levels based on the potential impact of the incident."
+        },
+        {
+          "type": "paragraph",
+          "text": "Institutions should use their internal assessment processes to ascertain the potential impact, with Severity 1, Priority 1, or Critical being the highest level of impact. If internal categories exceed the 4 tiers, select an option as close to the level as possible."
+        },
+        {
+          "type": "paragraph",
+          "text": "The incident description should provide any additional information that is not captured in the previous fields and provide more context surrounding the incident, its detection, impacts, affected internal and external parties, planned remedial actions, and lessons learned."
+        },
+        {
+          "type": "paragraph",
+          "text": "Information can include incident details, such as:"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "detection method",
+            "known direct and indirect impacts",
+            "affected internal and external parties",
+            "actions completed and pending",
+            "estimated timelines to resolve incident or to implement enhancements or controls",
+            "any planned or implemented workarounds in place for active incidents."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "RTO refers to the maximum allowable time to restore systems, services, or data following an incident."
+        },
+        {
+          "type": "paragraph",
+          "text": "RPO refers to the maximum amount of data loss that can be tolerated, measured in time. It defines the point in time to which data must be restored after an incident."
+        },
+        {
+          "type": "paragraph",
+          "text": "If “under assessment” is selected during an initial report, please confirm RTO/RPO breach in a subsequent update."
+        },
+        {
+          "type": "paragraph",
+          "text": "BCPs are the procedures to maintain essential operations during and after an incident, disruption, or crisis."
+        },
+        {
+          "type": "paragraph",
+          "text": "DRPs are a set of policies and procedures for restoring systems and data after a disaster or major incident."
+        },
+        {
+          "type": "paragraph",
+          "text": "If “under assessment” is selected during an initial report, please confirm BCP/DRP activation in a subsequent update."
+        },
+        {
+          "type": "paragraph",
+          "text": "If the incident has impacted the ability to deliver a service, select the level of impact identified by the institution from the drop-down list. The rating is from none through low, moderate, high to critical."
+        },
+        {
+          "type": "paragraph",
+          "text": "If service delivery impact is under assessment, please provide the assessed rating in a subsequent update."
+        },
+        {
+          "type": "paragraph",
+          "text": "If the incident includes exposure or loss of sensitive data, select the level of impact identified by the institution from the drop-down list. The rating is from none through low, moderate, high to critical."
+        },
+        {
+          "type": "paragraph",
+          "text": "If sensitive data impact is under assessment, please provide assessed rating in a subsequent update."
+        },
+        {
+          "type": "paragraph",
+          "text": "Describe any reporting, statements or sentiment arising from mainstream or social media channels."
+        },
+        {
+          "type": "paragraph",
+          "text": "Enter the current level of media or public discourse resulting from the incident."
+        },
+        {
+          "type": "paragraph",
+          "text": "This represents the estimated total cost for the incident response effort, plus remediation (including remediation for clients)."
+        },
+        {
+          "type": "paragraph",
+          "text": "If financial impact is under assessment, please provide the estimated cost in a subsequent update."
+        },
+        {
+          "type": "paragraph",
+          "text": "If the incident is related to a previous incident, please provide the reference(s) to the previously reported incident(s)."
+        },
+        {
+          "type": "paragraph",
+          "text": "If incident recurrence relation is under assessment, please provide assessment result in a subsequent update."
+        },
+        {
+          "type": "paragraph",
+          "text": "The root cause of an incident is the underlying factor that must be addressed to prevent a reoccurrence of the chain of events that led to the incident. If the root cause is known at the time of reporting, select the appropriate one."
+        },
+        {
+          "type": "paragraph",
+          "text": "Provide additional details including (but not limited to): cause of the issue, failed controls resulting in the incident, and planned improvements to prevent incident reoccurrence in the root cause description field."
+        },
+        {
+          "type": "paragraph",
+          "text": "If the root cause is under assessment, provide the root cause information in subsequent updates or in the post-incident report submission."
+        },
+        {
+          "type": "paragraph",
+          "text": "The incident root cause descriptions are as follows:"
+        }
+      ]
+    },
+    {
+      "heading": "Cyber threat actor details",
+      "heading_level": 3,
+      "full_text": "Threat-actor tactics, techniques, and procedures (TTP) (cyber incidents) | TTPs describe the behavior of a threat actor. A tactic describes a threat actor behavior at the highest-level. Techniques give a more detailed description of it, and procedures are the lowest level detailed actionable steps. Where applicable, include known details about the threat actor’s behavior, including vulnerabilities exploited and threat-actor attribution.\nIndicators of compromise (IoC)– Hash, URL, email, IP, etc. | Indicators of compromise are essentially evidence or trace of malicious activities or behaviour left behind by a threat-actor. Where applicable, provide any known technical or non-technical indicators, including any references (for example, NVD, CVE) to exploited vulnerability. These could include unusual actions, IP addresses, URLs, mail header fields or file hashes. For example: unusual or unknown login location or login time Hxxps://malicious.url.example/page.asp CVE-2024-01283 IPv4 or IPv6 address badsender@malicious.domain[.]example 44d88612fea8a8f36de82e1278abb02f\nTTPs describe the behavior of a threat actor. A tactic describes a threat actor behavior at the highest-level. Techniques give a more detailed description of it, and procedures are the lowest level detailed actionable steps.\nWhere applicable, include known details about the threat actor’s behavior, including vulnerabilities exploited and threat-actor attribution.\nIndicators of compromise are essentially evidence or trace of malicious activities or behaviour left behind by a threat-actor.\nWhere applicable, provide any known technical or non-technical indicators, including any references (for example, NVD, CVE) to exploited vulnerability.\nThese could include unusual actions, IP addresses, URLs, mail header fields or file hashes.\nFor example:\n  - unusual or unknown login location or login time\n  - Hxxps://malicious.url.example/page.asp\n  - CVE-2024-01283\n  - IPv4 or IPv6 address\n  - badsender@malicious.domain[.]example\n  - 44d88612fea8a8f36de82e1278abb02f",
+      "content": [
+        {
+          "type": "table",
+          "caption": "",
+          "rows": [
+            [
+              "Threat-actor tactics, techniques, and procedures (TTP) (cyber incidents)",
+              "TTPs describe the behavior of a threat actor. A tactic describes a threat actor behavior at the highest-level. Techniques give a more detailed description of it, and procedures are the lowest level detailed actionable steps. Where applicable, include known details about the threat actor’s behavior, including vulnerabilities exploited and threat-actor attribution."
+            ],
+            [
+              "Indicators of compromise (IoC)– Hash, URL, email, IP, etc.",
+              "Indicators of compromise are essentially evidence or trace of malicious activities or behaviour left behind by a threat-actor. Where applicable, provide any known technical or non-technical indicators, including any references (for example, NVD, CVE) to exploited vulnerability. These could include unusual actions, IP addresses, URLs, mail header fields or file hashes. For example: unusual or unknown login location or login time Hxxps://malicious.url.example/page.asp CVE-2024-01283 IPv4 or IPv6 address badsender@malicious.domain[.]example 44d88612fea8a8f36de82e1278abb02f"
+            ]
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "TTPs describe the behavior of a threat actor. A tactic describes a threat actor behavior at the highest-level. Techniques give a more detailed description of it, and procedures are the lowest level detailed actionable steps."
+        },
+        {
+          "type": "paragraph",
+          "text": "Where applicable, include known details about the threat actor’s behavior, including vulnerabilities exploited and threat-actor attribution."
+        },
+        {
+          "type": "paragraph",
+          "text": "Indicators of compromise are essentially evidence or trace of malicious activities or behaviour left behind by a threat-actor."
+        },
+        {
+          "type": "paragraph",
+          "text": "Where applicable, provide any known technical or non-technical indicators, including any references (for example, NVD, CVE) to exploited vulnerability."
+        },
+        {
+          "type": "paragraph",
+          "text": "These could include unusual actions, IP addresses, URLs, mail header fields or file hashes."
+        },
+        {
+          "type": "paragraph",
+          "text": "For example:"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "unusual or unknown login location or login time",
+            "Hxxps://malicious.url.example/page.asp",
+            "CVE-2024-01283",
+            "IPv4 or IPv6 address",
+            "badsender@malicious.domain[.]example",
+            "44d88612fea8a8f36de82e1278abb02f"
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "Internal and external notifications",
+      "heading_level": 3,
+      "full_text": "Senior management notification | Select from the drop-down list whether senior management (executives, board members, etc.) have been notified of the incident. If the senior management has been notified enter the actual date and time of notification. Once the date has been selected, please enter the time and time zone in the designated fields. Please note that the time should be entered in a 24-hour format (YYYY-MM-DD HH:mm).\nOther regulatory or supervisory notification | Enter the name(s) of the notified regulatory or supervisory entity within the free-text field.\nLaw enforcement or security agency notification | Enter the name(s) of the notified law enforcement or security agency within the free-text field.\nCyber insurance notification or claim submission | Indicate whether insurance or cyber-insurance providers have been notified or a claim has been filed as a result of the incident.\nSelect from the drop-down list whether senior management (executives, board members, etc.) have been notified of the incident.\nIf the senior management has been notified enter the actual date and time of notification. Once the date has been selected, please enter the time and time zone in the designated fields. Please note that the time should be entered in a 24-hour format (YYYY-MM-DD HH:mm).\n[Note: Footnotes Footnote * Mandatory field Return to footnote * referrer]",
+      "content": [
+        {
+          "type": "table",
+          "caption": "",
+          "rows": [
+            [
+              "Senior management notification",
+              "Select from the drop-down list whether senior management (executives, board members, etc.) have been notified of the incident. If the senior management has been notified enter the actual date and time of notification. Once the date has been selected, please enter the time and time zone in the designated fields. Please note that the time should be entered in a 24-hour format (YYYY-MM-DD HH:mm)."
+            ],
+            [
+              "Other regulatory or supervisory notification",
+              "Enter the name(s) of the notified regulatory or supervisory entity within the free-text field."
+            ],
+            [
+              "Law enforcement or security agency notification",
+              "Enter the name(s) of the notified law enforcement or security agency within the free-text field."
+            ],
+            [
+              "Cyber insurance notification or claim submission",
+              "Indicate whether insurance or cyber-insurance providers have been notified or a claim has been filed as a result of the incident."
+            ]
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Select from the drop-down list whether senior management (executives, board members, etc.) have been notified of the incident."
+        },
+        {
+          "type": "paragraph",
+          "text": "If the senior management has been notified enter the actual date and time of notification. Once the date has been selected, please enter the time and time zone in the designated fields. Please note that the time should be entered in a 24-hour format (YYYY-MM-DD HH:mm)."
+        },
+        {
+          "type": "footnote",
+          "text": "Footnotes Footnote * Mandatory field Return to footnote * referrer"
+        }
+      ]
+    },
+    {
+      "heading": "Footnotes",
+      "heading_level": 2,
+      "full_text": "Mandatory field\nReturn to footnote * referrer",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Mandatory field"
+        },
+        {
+          "type": "paragraph",
+          "text": "Return to footnote * referrer"
+        }
+      ]
+    }
+  ],
+  "title_normalized": "osfi technology and cyber incident report detailed instructions",
+  "publication_type_normalized": "instructions",
+  "category_normalized": "",
+  "sector_normalized": [
+    "banks",
+    "foreign_bank_branches",
+    "life_insurance",
+    "pc_insurance",
+    "trust_and_loan_companies"
+  ],
+  "guideline_number_normalized": "",
+  "applies_to_banks": true,
+  "applies_to_trust_loan": true,
+  "applies_to_life_insurance": true,
+  "applies_to_pc_insurance": true,
+  "applies_to_foreign_bank": true,
+  "applies_to_foreign_insurance": false,
+  "applies_to_cooperative": false,
+  "applies_to_bank_holding": false,
+  "effective_date_sort_key": "2025-01-15",
+  "status_sort_key": 1,
+  "authority_sort_key": 90,
+  "bm25_text": "OSFI technology and cyber incident report – Detailed instructions Instructions Banks Foreign Bank Branches Life Insurance and Fraternal Companies Property and Casualty Companies Trust and Loan Companies General instructions Incident information Site location and lines of business affected Incident details Cyber threat actor details Internal and external notifications Footnotes",
+  "vector_text_prefix": "[OSFI Instructions  |  | Banks / Foreign Bank Branches / Life Insurance and Fraternal Companies | FINAL_CURRENT | Effective 2025-01-15]",
+  "h1_title": "OSFI technology and cyber incident report – Detailed instructions",
+  "regulator": "OSFI",
+  "regulator_acronym": "OSFI",
+  "jurisdiction": "Canada",
+  "short_title": "",
+  "source_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/osfi-technology-cyber-incident-report-detailed-instructions"
+}

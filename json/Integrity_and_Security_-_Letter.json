@@ -1,0 +1,214 @@
+{
+  "source_system": "osfi_guidance_library",
+  "library_row_title": "Integrity and Security - Letter",
+  "library_row_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/integrity-security-letter",
+  "listing_date_raw": "January 31, 2024",
+  "listing_date_iso": "2024-01-31",
+  "listing_publication_type": "Letter",
+  "listing_category": "Sound Business and Financial Practices",
+  "listing_sector": [
+    "Banks",
+    "Cooperative Credit Associations",
+    "Foreign Bank Branches",
+    "Foreign Insurance Branches",
+    "Life Insurance and Fraternal Companies",
+    "Property and Casualty Companies",
+    "Trust and Loan Companies"
+  ],
+  "crawl_timestamp": "2026-03-11T00:00:00Z",
+  "detail_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/integrity-security-letter",
+  "canonical_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/integrity-security-letter",
+  "slug": "integrity-security-letter",
+  "title": "Integrity and Security - Letter",
+  "publication_type": "Letter",
+  "category": "Sound Business and Financial Practices",
+  "document_date_raw": "January 31, 2024",
+  "document_date_iso": "2024-01-31",
+  "sector": [
+    "Banks",
+    "Cooperative Credit Associations",
+    "Foreign Bank Branches",
+    "Foreign Insurance Branches",
+    "Life Insurance and Fraternal Companies",
+    "Property and Casualty Companies",
+    "Trust and Loan Companies"
+  ],
+  "effective_date_text": "",
+  "guideline_number": "",
+  "date_modified_raw": "2024-01-31T12:00:00Z",
+  "generate_pdf_url": "https://www.osfi-bsif.gc.ca/en/print/pdf/node/2065",
+  "pdf_node_id": 2065,
+  "direct_pdf_url": null,
+  "has_table_of_contents": true,
+  "toc_entries": [],
+  "has_related_documents": false,
+  "related_document_links_raw": [],
+  "consultation_status_text": null,
+  "consultation_status_refers_to_version": null,
+  "page_language": "en",
+  "word_count_raw_body": 343,
+  "doc_id": "osfi.integrity-security.transmittal",
+  "doc_family_id": "osfi.integrity-security",
+  "version_id": "",
+  "version_label": "Integrity and Security - Letter",
+  "version_sort_key": "",
+  "parent_doc_id": null,
+  "child_doc_ids": [],
+  "is_package_page": false,
+  "is_chapter_page": false,
+  "chapter_number": null,
+  "chapter_title": null,
+  "document_order_within_family": 0,
+  "supersedes_doc_id": null,
+  "superseded_by_doc_id": null,
+  "current_version_flag": true,
+  "status": "final_current",
+  "include_in_primary_corpus": false,
+  "include_in_support_corpus": true,
+  "include_in_context_corpus": false,
+  "effective_date_start": "2024-01-31",
+  "effective_date_end": null,
+  "effective_date_fye_split": false,
+  "effective_date_oct_fye": null,
+  "effective_date_dec_fye": null,
+  "is_future_effective": false,
+  "is_rescinded": false,
+  "is_draft_or_consultation": false,
+  "rescission_date": null,
+  "consultation_closing_date": null,
+  "as_of_applicability": "2026-03-23",
+  "rule_applied": "rule_5_final_current",
+  "authority_class": "official_support",
+  "authority_level": 60,
+  "nova_tier": 2,
+  "prudential_weight": 0.7,
+  "is_primary_normative": false,
+  "is_supporting_interpretive": true,
+  "is_context_only": false,
+  "document_class": "transmittal_letter",
+  "guidance_type_normalized": "letter",
+  "section_headings": [],
+  "heading_path": [
+    "Integrity and Security - Letter"
+  ],
+  "toc_depth": 0,
+  "has_appendices": false,
+  "appendix_ids": [],
+  "has_tables": false,
+  "table_count": 0,
+  "has_footnotes": false,
+  "footnote_count": 0,
+  "inline_cross_references": [],
+  "quoted_external_references": [],
+  "raw_html_sha256": "bb185430aeef66059be7c69235abdcc56a075fe0877d82c7cb1c410bf32c631e",
+  "raw_pdf_sha256": null,
+  "normalized_text_sha256": null,
+  "raw_html_path": "bronze/osfi/html/final_current/integrity-security-letter.html",
+  "normalized_md_path": "silver/osfi/md/final_current/integrity-security-letter.md",
+  "canonical_json_path": "silver/osfi/json/final_current/integrity-security-letter.json",
+  "content_source": "HTML",
+  "parser_version": "osfi-parser-v2.1.0",
+  "normalizer_version": "osfi-normalizer-v1.4.0",
+  "quality_score": 0.5,
+  "quality_flags": [
+    "thin_body_text"
+  ],
+  "download_timestamp": "2026-03-11T00:00:00Z",
+  "enriched_timestamp": "2026-03-23T09:53:52.507921Z",
+  "sections": [
+    {
+      "heading": "",
+      "heading_level": 2,
+      "full_text": "  - OSFI releases final Integrity and Security Guideline\n  - OSFI’s response to the draft Integrity and Security Guideline consultation feedback\n  - Integrity and Security - Guideline\nToday, the Office of the Superintendent of Financial Institutions (OSFI) published the final Integrity and Security Guideline .\nPublic confidence in the Canadian financial system depends on federally regulated financial institutions (FRFIs) acting with integrity and securing themselves against diverse threats, including foreign interference.\nThis final guideline reflects feedback received through public consultation. You can find a non-attributed summary of this feedback and our responses here: OSFI’s response to the draft Integrity and Security Guideline consultation feedback .\nImplementation will occur in phases:\n  - Now: Observe expectation to notify us of reports to law enforcement or the Canadian Security Intelligence Service (CSIS)\n  - By July 31, 2024 : Submit a comprehensive action plan for OSFI’s review, on new and expanded expectations, which includes interim deliverables to achieve compliance.\n  - By January 31, 2025 : Observe all new or expanded expectations except on background checks\n  - By July 31, 2025 : Observe new expectations on background checks\nYou should continue to observe expectations in all existing guidelines currently in effect. For guidelines currently in draft, refer to the timelines set out in them once finalized.\nThe Appendix to the Integrity and Security Guideline sets out a summary of new and expanded expectations as well as any corresponding draft and current guidelines.\nWe are required by law to report annually to the Minister of Finance on the existence and adequacy of policies and procedures protecting against threats to integrity or security. To support this, we have sent an information request and instructions that you are to return to us by April 2, 2024 .\nUse this email IS@osfi-bsif.gc.ca to notify us of reports to law enforcement or CSIS.\nWe are committed to continuing to evolve expectations relating to integrity and security. We welcome your ongoing input to help us enhance and refine our approach. Feel free to share it at any time, including using this email address IS@osfi-bsif.gc.ca .",
+      "content": [
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "OSFI releases final Integrity and Security Guideline",
+            "OSFI’s response to the draft Integrity and Security Guideline consultation feedback",
+            "Integrity and Security - Guideline"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Today, the Office of the Superintendent of Financial Institutions (OSFI) published the final Integrity and Security Guideline ."
+        },
+        {
+          "type": "paragraph",
+          "text": "Public confidence in the Canadian financial system depends on federally regulated financial institutions (FRFIs) acting with integrity and securing themselves against diverse threats, including foreign interference."
+        },
+        {
+          "type": "paragraph",
+          "text": "This final guideline reflects feedback received through public consultation. You can find a non-attributed summary of this feedback and our responses here: OSFI’s response to the draft Integrity and Security Guideline consultation feedback ."
+        },
+        {
+          "type": "paragraph",
+          "text": "Implementation will occur in phases:"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Now: Observe expectation to notify us of reports to law enforcement or the Canadian Security Intelligence Service (CSIS)",
+            "By July 31, 2024 : Submit a comprehensive action plan for OSFI’s review, on new and expanded expectations, which includes interim deliverables to achieve compliance.",
+            "By January 31, 2025 : Observe all new or expanded expectations except on background checks",
+            "By July 31, 2025 : Observe new expectations on background checks"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "You should continue to observe expectations in all existing guidelines currently in effect. For guidelines currently in draft, refer to the timelines set out in them once finalized."
+        },
+        {
+          "type": "paragraph",
+          "text": "The Appendix to the Integrity and Security Guideline sets out a summary of new and expanded expectations as well as any corresponding draft and current guidelines."
+        },
+        {
+          "type": "paragraph",
+          "text": "We are required by law to report annually to the Minister of Finance on the existence and adequacy of policies and procedures protecting against threats to integrity or security. To support this, we have sent an information request and instructions that you are to return to us by April 2, 2024 ."
+        },
+        {
+          "type": "paragraph",
+          "text": "Use this email IS@osfi-bsif.gc.ca to notify us of reports to law enforcement or CSIS."
+        },
+        {
+          "type": "paragraph",
+          "text": "We are committed to continuing to evolve expectations relating to integrity and security. We welcome your ongoing input to help us enhance and refine our approach. Feel free to share it at any time, including using this email address IS@osfi-bsif.gc.ca ."
+        }
+      ]
+    }
+  ],
+  "title_normalized": "integrity and security letter",
+  "publication_type_normalized": "letter",
+  "category_normalized": "sound_business_and_financial_practices",
+  "sector_normalized": [
+    "banks",
+    "cooperative_credit",
+    "foreign_bank_branches",
+    "foreign_insurance_branches",
+    "life_insurance",
+    "pc_insurance",
+    "trust_and_loan_companies"
+  ],
+  "guideline_number_normalized": "",
+  "applies_to_banks": true,
+  "applies_to_trust_loan": true,
+  "applies_to_life_insurance": true,
+  "applies_to_pc_insurance": true,
+  "applies_to_foreign_bank": true,
+  "applies_to_foreign_insurance": true,
+  "applies_to_cooperative": true,
+  "applies_to_bank_holding": false,
+  "effective_date_sort_key": "2024-01-31",
+  "status_sort_key": 1,
+  "authority_sort_key": 60,
+  "bm25_text": "Integrity and Security - Letter Letter Sound Business and Financial Practices Banks Cooperative Credit Associations Foreign Bank Branches Foreign Insurance Branches Life Insurance and Fraternal Companies Property and Casualty Companies Trust and Loan Companies",
+  "vector_text_prefix": "[OSFI Letter  | Sound Business and Financial Practices | Banks / Cooperative Credit Associations / Foreign Bank Branches | FINAL_CURRENT | Effective 2024-01-31]",
+  "h1_title": "Integrity and Security - Letter",
+  "regulator": "OSFI",
+  "regulator_acronym": "OSFI",
+  "jurisdiction": "Canada",
+  "short_title": "",
+  "source_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/integrity-security-letter"
+}

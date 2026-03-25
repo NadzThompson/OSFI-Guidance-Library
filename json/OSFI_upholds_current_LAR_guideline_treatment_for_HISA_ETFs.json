@@ -1,0 +1,276 @@
+{
+  "source_system": "osfi_guidance_library",
+  "library_row_title": "OSFI upholds current LAR guideline treatment for HISA ETFs",
+  "library_row_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/osfi-upholds-current-lar-guideline-treatment-hisa-etfs",
+  "listing_date_raw": "October 31, 2023",
+  "listing_date_iso": "2023-10-31",
+  "listing_publication_type": "Letter",
+  "listing_category": "Capital Adequacy Requirements",
+  "listing_sector": [
+    "Banks",
+    "Foreign Bank Branches",
+    "Trust and Loan Companies"
+  ],
+  "crawl_timestamp": "2026-03-11T00:00:00Z",
+  "detail_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/osfi-upholds-current-lar-guideline-treatment-hisa-etfs",
+  "canonical_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/osfi-upholds-current-lar-guideline-treatment-hisa-etfs",
+  "slug": "osfi-upholds-current-lar-guideline-treatment-hisa-etfs",
+  "title": "OSFI upholds current LAR guideline treatment for HISA ETFs",
+  "publication_type": "Letter",
+  "category": "Capital Adequacy Requirements",
+  "document_date_raw": "October 31, 2023",
+  "document_date_iso": "2023-10-31",
+  "sector": [
+    "Banks",
+    "Foreign Bank Branches",
+    "Trust and Loan Companies"
+  ],
+  "effective_date_text": "",
+  "guideline_number": "LAR",
+  "date_modified_raw": "2023-10-31T12:00:00Z",
+  "generate_pdf_url": "https://www.osfi-bsif.gc.ca/en/print/pdf/node/1891",
+  "pdf_node_id": 1891,
+  "direct_pdf_url": null,
+  "has_table_of_contents": true,
+  "toc_entries": [],
+  "has_related_documents": false,
+  "related_document_links_raw": [],
+  "consultation_status_text": null,
+  "consultation_status_refers_to_version": null,
+  "page_language": "en",
+  "word_count_raw_body": 1259,
+  "doc_id": "osfi.osfi-upholds-current-lar-guideline-treatment-hisa-.transmittal",
+  "doc_family_id": "osfi.osfi-upholds-current-lar-guideline-treatment-hisa-",
+  "version_id": "",
+  "version_label": "OSFI upholds current LAR guideline treatment for HISA ETFs",
+  "version_sort_key": "",
+  "parent_doc_id": null,
+  "child_doc_ids": [],
+  "is_package_page": false,
+  "is_chapter_page": false,
+  "chapter_number": null,
+  "chapter_title": null,
+  "document_order_within_family": 0,
+  "supersedes_doc_id": null,
+  "superseded_by_doc_id": null,
+  "current_version_flag": true,
+  "status": "final_current",
+  "include_in_primary_corpus": false,
+  "include_in_support_corpus": true,
+  "include_in_context_corpus": false,
+  "effective_date_start": "2023-10-31",
+  "effective_date_end": null,
+  "effective_date_fye_split": false,
+  "effective_date_oct_fye": null,
+  "effective_date_dec_fye": null,
+  "is_future_effective": false,
+  "is_rescinded": false,
+  "is_draft_or_consultation": false,
+  "rescission_date": null,
+  "consultation_closing_date": null,
+  "as_of_applicability": "2026-03-23",
+  "rule_applied": "rule_5_final_current",
+  "authority_class": "official_support",
+  "authority_level": 60,
+  "nova_tier": 2,
+  "prudential_weight": 0.7,
+  "is_primary_normative": false,
+  "is_supporting_interpretive": true,
+  "is_context_only": false,
+  "document_class": "transmittal_letter",
+  "guidance_type_normalized": "letter",
+  "section_headings": [
+    {
+      "level": 2,
+      "text": "Appendix 1: Summary of public consultation comments and OSFI responses",
+      "id": "h2-0"
+    }
+  ],
+  "heading_path": [
+    "OSFI upholds current LAR guideline treatment for HISA ETFs"
+  ],
+  "toc_depth": 2,
+  "has_appendices": true,
+  "appendix_ids": [
+    "Appendix 1"
+  ],
+  "has_tables": true,
+  "table_count": 2,
+  "has_footnotes": false,
+  "footnote_count": 0,
+  "inline_cross_references": [],
+  "quoted_external_references": [],
+  "raw_html_sha256": "7deb75c9780ecbad42619f0f1e332e4120d1f3b777e195d2e0a7e234bacc606c",
+  "raw_pdf_sha256": null,
+  "normalized_text_sha256": null,
+  "raw_html_path": "bronze/osfi/html/final_current/osfi-upholds-current-lar-guideline-treatment-hisa-etfs.html",
+  "normalized_md_path": "silver/osfi/md/final_current/osfi-upholds-current-lar-guideline-treatment-hisa-etfs.md",
+  "canonical_json_path": "silver/osfi/json/final_current/osfi-upholds-current-lar-guideline-treatment-hisa-etfs.json",
+  "content_source": "HTML",
+  "parser_version": "osfi-parser-v2.1.0",
+  "normalizer_version": "osfi-normalizer-v1.4.0",
+  "quality_score": 1.0,
+  "quality_flags": [],
+  "download_timestamp": "2026-03-11T00:00:00Z",
+  "enriched_timestamp": "2026-03-23T09:53:57.971149Z",
+  "sections": [
+    {
+      "heading": "",
+      "heading_level": 2,
+      "full_text": "To: Deposit-taking institutions (DTIs)\nToday, the Office of the Superintendent of Financial Institutions (OSFI) announced its decision regarding the May 2023 public consultation on the Liquidity Adequacy Requirements Guideline (LAR) review for wholesale funding sources with retail-like characteristics, specifically high-interest savings account exchange traded funds (HISA ETFs). HISA ETFs, which blend characteristics of a savings account with an exchange-traded fund, have become popular among fund management companies, retail investors, and deposit-taking institutions (DTIs) in recent years.\nOSFI has determined that the current treatment, characterized in the LAR guideline as “unsecure wholesale funding by other legal entity customers” remains appropriate for this type of product. Basel III banking principles call on regulators to ensure sufficient liquidity buffers for unsecured wholesale funding. Despite some retail-like characteristics, the wholesale funding products OSFI analyzed during our consultation are held directly by fund managers for purposes that are not specifically operational. Accordingly, OSFI’s LAR guideline specifies a run-off factor of 100% for these products.\nAs a result, any DTIs exposed to such funding must hold sufficient high quality liquid assets, such as government bonds, to support all HISA ETF balances that can be withdrawn within 30 days. All DTIs should transition measurement and reporting to the run-off treatment specified by paragraph 89, Chapter 2 of the LAR guideline by January 31, 2024, if they are not already so doing. In addition, changes for public disclosure of the Liquidity Coverage Ratio (LCR) should also be calculated retrospectively to the start of the quarter to account for daily fluctuations in the ratio (to November 1 for DTIs with an October 31 year-end).\nThis decision follows a comprehensive review of over 175 submissions received from a variety of stakeholders, including retail investors, DTIs, and ETF management companies.\nOSFI acknowledges that product design features and contractual mitigants are in place to reduce risks to participating DTIs. However, it is important to note that the DTIs’ relationships are with ETF funds and not with retail unitholders. Regardless of contractual relationships, ETF providers may not have access to adequate liquidity and would likely act swiftly during periods of stress to ensure their clients’ best interests. To maintain a framework that promotes sound risk management in line with its mandate, OSFI decided to maintain the treatment outlined in the current LAR guideline (paragraph 89, Chapter 2).\nAppendix 1 provides a summary of consultation comments received during the public consultation, as well as OSFI’s responses. After careful consideration, OSFI believes maintaining the current LAR treatment represents the most principled and appropriate stance for these products to uphold financial stability.\nSincerely,\nAmar Munipalle Executive Director, Risk Advisory Hub Supervision Sector",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "To: Deposit-taking institutions (DTIs)"
+        },
+        {
+          "type": "paragraph",
+          "text": "Today, the Office of the Superintendent of Financial Institutions (OSFI) announced its decision regarding the May 2023 public consultation on the Liquidity Adequacy Requirements Guideline (LAR) review for wholesale funding sources with retail-like characteristics, specifically high-interest savings account exchange traded funds (HISA ETFs). HISA ETFs, which blend characteristics of a savings account with an exchange-traded fund, have become popular among fund management companies, retail investors, and deposit-taking institutions (DTIs) in recent years."
+        },
+        {
+          "type": "paragraph",
+          "text": "OSFI has determined that the current treatment, characterized in the LAR guideline as “unsecure wholesale funding by other legal entity customers” remains appropriate for this type of product. Basel III banking principles call on regulators to ensure sufficient liquidity buffers for unsecured wholesale funding. Despite some retail-like characteristics, the wholesale funding products OSFI analyzed during our consultation are held directly by fund managers for purposes that are not specifically operational. Accordingly, OSFI’s LAR guideline specifies a run-off factor of 100% for these products."
+        },
+        {
+          "type": "paragraph",
+          "text": "As a result, any DTIs exposed to such funding must hold sufficient high quality liquid assets, such as government bonds, to support all HISA ETF balances that can be withdrawn within 30 days. All DTIs should transition measurement and reporting to the run-off treatment specified by paragraph 89, Chapter 2 of the LAR guideline by January 31, 2024, if they are not already so doing. In addition, changes for public disclosure of the Liquidity Coverage Ratio (LCR) should also be calculated retrospectively to the start of the quarter to account for daily fluctuations in the ratio (to November 1 for DTIs with an October 31 year-end)."
+        },
+        {
+          "type": "paragraph",
+          "text": "This decision follows a comprehensive review of over 175 submissions received from a variety of stakeholders, including retail investors, DTIs, and ETF management companies."
+        },
+        {
+          "type": "paragraph",
+          "text": "OSFI acknowledges that product design features and contractual mitigants are in place to reduce risks to participating DTIs. However, it is important to note that the DTIs’ relationships are with ETF funds and not with retail unitholders. Regardless of contractual relationships, ETF providers may not have access to adequate liquidity and would likely act swiftly during periods of stress to ensure their clients’ best interests. To maintain a framework that promotes sound risk management in line with its mandate, OSFI decided to maintain the treatment outlined in the current LAR guideline (paragraph 89, Chapter 2)."
+        },
+        {
+          "type": "paragraph",
+          "text": "Appendix 1 provides a summary of consultation comments received during the public consultation, as well as OSFI’s responses. After careful consideration, OSFI believes maintaining the current LAR treatment represents the most principled and appropriate stance for these products to uphold financial stability."
+        },
+        {
+          "type": "paragraph",
+          "text": "Sincerely,"
+        },
+        {
+          "type": "paragraph",
+          "text": "Amar Munipalle Executive Director, Risk Advisory Hub Supervision Sector"
+        }
+      ]
+    },
+    {
+      "heading": "Appendix 1: Summary of public consultation comments and OSFI responses",
+      "heading_level": 2,
+      "full_text": "Table: Comments from stakeholders that contend that the current treatment is appropriate\nComment | OSFI response\nThe decision-maker behind moving aggregate funds is institutional, motivated by price and unitholder returns. The relationship is purely transactional. | OSFI acknowledges that there are contractual mitigants in place to limit the ability of ETF providers to move or withdraw funds, unless initiated by unitholder redemption. Still, we agree with the comment. Contractual mitigants may not be sufficient to neutralize withdrawal actions by ETF funds, especially considering reputational issues tied to DTIs refusing withdrawals.\nA bank can become over-exposed to large volume funding from a small number of players who will all behave in the same manner in times of stress. | OSFI acknowledges this risk.\nIf one of the participating DTIs were to experience a significant stress (e.g., loss of confidence), and withdrawals were made on a pro-rata basis, this would expose all participating institutions to severe stress. Contagion is inherent in the product. | OSFI agrees with this comment.\nGiven the product is exchange-traded it is impossible to enforce retail ownership of this product. | OSFI agrees with this comment. While funds may target retail investment, there is no way to effectively prevent acquisition by other wholesale funding sources (e.g. money market funds, pension funds, etc.)\nTable: Comments from stakeholders in favor of a differentiated treatment\nComment | OSFI response\nContractual mitigants in place (e.g., extensive withdrawal notification periods, pro-rata withdrawal agreements) help to ensure that deposits remain stable. | Although these features introduce mitigants to create stickiness in deposits, the pro-rata clause also introduces potential systemic risk arising from cross-contagion of sudden large withdrawals from one institution in a stress scenario.\nThis product would be beneficial for banks, looking to attract more stable, retail funding. | Retail deposits into a bank are considered a stable form of funding. Evidence on whether funding from this product is coming from alternative investments or stable deposit retail accounts already held in banks is inconclusive. Regardless, this type of deposit is less stable than a regular retail deposit, and the benefit to banks is diminished because these deposits can be subject to mass withdrawal based on a decision made by the depositing institution. Moreover, if the deposits are coming from alternative investments, they could prove to be more volatile with changing market conditions.\nThird-party service providers currently supply underlying client data on a frequent basis (up to quarterly, or more frequent upon request), which ensures that clients remain retail or small business. | OSFI acknowledges that this helps to identify the type of client, at least at a point in time. However, there is nothing preventing institutional investors from purchasing the product, nor is there sufficient data confirming that the volumes actively traded are predominately retail. Institutional investors (e.g., Pension Plans) have held significant amounts of HISA ETFs in the past.\nAverage deposits balances by ETF unitholders are relatively small, which signals prevalence as retail funding, rather than wholesale. | While the average balances may be low, there is insufficient data on how much is held in aggregate by non-retail clients.\nAdvertising to retail customers will diminish the likelihood that wholesale investors will seek out the product. | Wholesale investors will be attracted to the product so long as the returns are attractive, irrespective of marketing strategies.\nDespite the deposit being from a financial institution, all decisions around deposits are controlled by a natural person and not a fund manager. | OSFI agrees with this comment, provided contract language is sufficient, ETF unitholder is in fact a natural person, and contracts are strictly enforced which may be a challenge during periods of stress.\nThere are concerns that potentially repricing this product as a result of wholesale categorization rather than retail would lower yields and diminish investment incentive. | While a lower yield would place the product at par with alternative investment choices (e.g., money market funds), investors would still benefit from a significantly higher yield than a traditional deposit account, and ease of access to their funds. OSFI believes there is still an active market for this investment vehicle.\nInvestors indicated that while the product has favourable returns on investments, there are concerns about the risks associated with lack of deposit insurance. Investors requested for their deposits to be insured at 100%. | It is not under OSFI’s mandate to enforce insurance on any deposits.\nRetail deposits into a bank are considered a stable form of funding.\nEvidence on whether funding from this product is coming from alternative investments or stable deposit retail accounts already held in banks is inconclusive. Regardless, this type of deposit is less stable than a regular retail deposit, and the benefit to banks is diminished because these deposits can be subject to mass withdrawal based on a decision made by the depositing institution.\nMoreover, if the deposits are coming from alternative investments, they could prove to be more volatile with changing market conditions.",
+      "content": [
+        {
+          "type": "table",
+          "caption": "Comments from stakeholders that contend that the current treatment is appropriate",
+          "rows": [
+            [
+              "Comment",
+              "OSFI response"
+            ],
+            [
+              "The decision-maker behind moving aggregate funds is institutional, motivated by price and unitholder returns. The relationship is purely transactional.",
+              "OSFI acknowledges that there are contractual mitigants in place to limit the ability of ETF providers to move or withdraw funds, unless initiated by unitholder redemption. Still, we agree with the comment. Contractual mitigants may not be sufficient to neutralize withdrawal actions by ETF funds, especially considering reputational issues tied to DTIs refusing withdrawals."
+            ],
+            [
+              "A bank can become over-exposed to large volume funding from a small number of players who will all behave in the same manner in times of stress.",
+              "OSFI acknowledges this risk."
+            ],
+            [
+              "If one of the participating DTIs were to experience a significant stress (e.g., loss of confidence), and withdrawals were made on a pro-rata basis, this would expose all participating institutions to severe stress. Contagion is inherent in the product.",
+              "OSFI agrees with this comment."
+            ],
+            [
+              "Given the product is exchange-traded it is impossible to enforce retail ownership of this product.",
+              "OSFI agrees with this comment. While funds may target retail investment, there is no way to effectively prevent acquisition by other wholesale funding sources (e.g. money market funds, pension funds, etc.)"
+            ]
+          ]
+        },
+        {
+          "type": "table",
+          "caption": "Comments from stakeholders in favor of a differentiated treatment",
+          "rows": [
+            [
+              "Comment",
+              "OSFI response"
+            ],
+            [
+              "Contractual mitigants in place (e.g., extensive withdrawal notification periods, pro-rata withdrawal agreements) help to ensure that deposits remain stable.",
+              "Although these features introduce mitigants to create stickiness in deposits, the pro-rata clause also introduces potential systemic risk arising from cross-contagion of sudden large withdrawals from one institution in a stress scenario."
+            ],
+            [
+              "This product would be beneficial for banks, looking to attract more stable, retail funding.",
+              "Retail deposits into a bank are considered a stable form of funding. Evidence on whether funding from this product is coming from alternative investments or stable deposit retail accounts already held in banks is inconclusive. Regardless, this type of deposit is less stable than a regular retail deposit, and the benefit to banks is diminished because these deposits can be subject to mass withdrawal based on a decision made by the depositing institution. Moreover, if the deposits are coming from alternative investments, they could prove to be more volatile with changing market conditions."
+            ],
+            [
+              "Third-party service providers currently supply underlying client data on a frequent basis (up to quarterly, or more frequent upon request), which ensures that clients remain retail or small business.",
+              "OSFI acknowledges that this helps to identify the type of client, at least at a point in time. However, there is nothing preventing institutional investors from purchasing the product, nor is there sufficient data confirming that the volumes actively traded are predominately retail. Institutional investors (e.g., Pension Plans) have held significant amounts of HISA ETFs in the past."
+            ],
+            [
+              "Average deposits balances by ETF unitholders are relatively small, which signals prevalence as retail funding, rather than wholesale.",
+              "While the average balances may be low, there is insufficient data on how much is held in aggregate by non-retail clients."
+            ],
+            [
+              "Advertising to retail customers will diminish the likelihood that wholesale investors will seek out the product.",
+              "Wholesale investors will be attracted to the product so long as the returns are attractive, irrespective of marketing strategies."
+            ],
+            [
+              "Despite the deposit being from a financial institution, all decisions around deposits are controlled by a natural person and not a fund manager.",
+              "OSFI agrees with this comment, provided contract language is sufficient, ETF unitholder is in fact a natural person, and contracts are strictly enforced which may be a challenge during periods of stress."
+            ],
+            [
+              "There are concerns that potentially repricing this product as a result of wholesale categorization rather than retail would lower yields and diminish investment incentive.",
+              "While a lower yield would place the product at par with alternative investment choices (e.g., money market funds), investors would still benefit from a significantly higher yield than a traditional deposit account, and ease of access to their funds. OSFI believes there is still an active market for this investment vehicle."
+            ],
+            [
+              "Investors indicated that while the product has favourable returns on investments, there are concerns about the risks associated with lack of deposit insurance. Investors requested for their deposits to be insured at 100%.",
+              "It is not under OSFI’s mandate to enforce insurance on any deposits."
+            ]
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Retail deposits into a bank are considered a stable form of funding."
+        },
+        {
+          "type": "paragraph",
+          "text": "Evidence on whether funding from this product is coming from alternative investments or stable deposit retail accounts already held in banks is inconclusive. Regardless, this type of deposit is less stable than a regular retail deposit, and the benefit to banks is diminished because these deposits can be subject to mass withdrawal based on a decision made by the depositing institution."
+        },
+        {
+          "type": "paragraph",
+          "text": "Moreover, if the deposits are coming from alternative investments, they could prove to be more volatile with changing market conditions."
+        }
+      ]
+    }
+  ],
+  "title_normalized": "osfi upholds current lar guideline treatment for hisa etfs",
+  "publication_type_normalized": "letter",
+  "category_normalized": "capital_adequacy_requirements",
+  "sector_normalized": [
+    "banks",
+    "foreign_bank_branches",
+    "trust_and_loan_companies"
+  ],
+  "guideline_number_normalized": "LAR",
+  "applies_to_banks": true,
+  "applies_to_trust_loan": true,
+  "applies_to_life_insurance": false,
+  "applies_to_pc_insurance": false,
+  "applies_to_foreign_bank": true,
+  "applies_to_foreign_insurance": false,
+  "applies_to_cooperative": false,
+  "applies_to_bank_holding": false,
+  "effective_date_sort_key": "2023-10-31",
+  "status_sort_key": 1,
+  "authority_sort_key": 60,
+  "bm25_text": "OSFI upholds current LAR guideline treatment for HISA ETFs LAR Letter Capital Adequacy Requirements Banks Foreign Bank Branches Trust and Loan Companies Appendix 1: Summary of public consultation comments and OSFI responses",
+  "vector_text_prefix": "[OSFI Letter LAR | Capital Adequacy Requirements | Banks / Foreign Bank Branches / Trust and Loan Companies | FINAL_CURRENT | Effective 2023-10-31]",
+  "h1_title": "OSFI upholds current LAR guideline treatment for HISA ETFs",
+  "regulator": "OSFI",
+  "regulator_acronym": "OSFI",
+  "jurisdiction": "Canada",
+  "short_title": "LAR",
+  "source_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/osfi-upholds-current-lar-guideline-treatment-hisa-etfs"
+}

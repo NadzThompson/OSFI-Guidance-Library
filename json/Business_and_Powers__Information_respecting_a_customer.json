@@ -1,0 +1,278 @@
+{
+  "source_system": "osfi_guidance_library",
+  "library_row_title": "Business and Powers – Information respecting a customer",
+  "library_row_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/business-powers-information-respecting-customer",
+  "listing_date_raw": "November 30, 2002",
+  "listing_date_iso": "2002-11-30",
+  "listing_publication_type": "Regulatory and legislative advisory",
+  "listing_category": "Regulatory and legislative",
+  "listing_sector": [
+    "Bank Act",
+    "Trust and Loan Companies Act"
+  ],
+  "crawl_timestamp": "2026-03-11T00:00:00Z",
+  "detail_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/business-powers-information-respecting-customer",
+  "canonical_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/business-powers-information-respecting-customer",
+  "slug": "business-powers-information-respecting-customer",
+  "title": "Business and Powers – Information respecting a customer",
+  "publication_type": "Regulatory and legislative advisory",
+  "category": "Regulatory and legislative",
+  "document_date_raw": "November 30, 2002",
+  "document_date_iso": "2002-11-30",
+  "sector": [
+    "Bank Act",
+    "Trust and Loan Companies Act"
+  ],
+  "effective_date_text": "",
+  "guideline_number": "",
+  "date_modified_raw": "2002-11-30T12:00:00Z",
+  "generate_pdf_url": "https://www.osfi-bsif.gc.ca/en/print/pdf/node/536",
+  "pdf_node_id": 536,
+  "direct_pdf_url": null,
+  "has_table_of_contents": true,
+  "toc_entries": [],
+  "has_related_documents": false,
+  "related_document_links_raw": [],
+  "consultation_status_text": null,
+  "consultation_status_refers_to_version": null,
+  "page_language": "en",
+  "word_count_raw_body": 1052,
+  "doc_id": "osfi.business-powers-information-respecting-customer.advisory",
+  "doc_family_id": "osfi.business-powers-information-respecting-customer",
+  "version_id": "",
+  "version_label": "Business and Powers – Information respecting a customer",
+  "version_sort_key": "",
+  "parent_doc_id": null,
+  "child_doc_ids": [],
+  "is_package_page": false,
+  "is_chapter_page": false,
+  "chapter_number": null,
+  "chapter_title": null,
+  "document_order_within_family": 0,
+  "supersedes_doc_id": null,
+  "superseded_by_doc_id": null,
+  "current_version_flag": true,
+  "status": "final_current",
+  "include_in_primary_corpus": true,
+  "include_in_support_corpus": false,
+  "include_in_context_corpus": false,
+  "effective_date_start": "2002-11-30",
+  "effective_date_end": null,
+  "effective_date_fye_split": false,
+  "effective_date_oct_fye": null,
+  "effective_date_dec_fye": null,
+  "is_future_effective": false,
+  "is_rescinded": false,
+  "is_draft_or_consultation": false,
+  "rescission_date": null,
+  "consultation_closing_date": null,
+  "as_of_applicability": "2026-03-23",
+  "rule_applied": "rule_5_final_current",
+  "authority_class": "primary_normative",
+  "authority_level": 100,
+  "nova_tier": 1,
+  "prudential_weight": 1.0,
+  "is_primary_normative": true,
+  "is_supporting_interpretive": false,
+  "is_context_only": false,
+  "document_class": "advisory",
+  "guidance_type_normalized": "regulatory_and_legislative_advisory",
+  "section_headings": [
+    {
+      "level": 2,
+      "text": "Introduction:",
+      "id": "h2-0"
+    },
+    {
+      "level": 2,
+      "text": "Legislative References",
+      "id": "h2-1"
+    },
+    {
+      "level": 2,
+      "text": "Interpretation:",
+      "id": "h2-2"
+    }
+  ],
+  "heading_path": [
+    "Business and Powers – Information respecting a customer"
+  ],
+  "toc_depth": 2,
+  "has_appendices": false,
+  "appendix_ids": [],
+  "has_tables": false,
+  "table_count": 0,
+  "has_footnotes": false,
+  "footnote_count": 0,
+  "inline_cross_references": [],
+  "quoted_external_references": [],
+  "raw_html_sha256": "2801cc483a1315c760237af6474110937b88a855eb52e434324de0ebfe9df15a",
+  "raw_pdf_sha256": null,
+  "normalized_text_sha256": null,
+  "raw_html_path": "bronze/osfi/html/final_current/business-powers-information-respecting-customer.html",
+  "normalized_md_path": "silver/osfi/md/final_current/business-powers-information-respecting-customer.md",
+  "canonical_json_path": "silver/osfi/json/final_current/business-powers-information-respecting-customer.json",
+  "content_source": "HTML",
+  "parser_version": "osfi-parser-v2.1.0",
+  "normalizer_version": "osfi-normalizer-v1.4.0",
+  "quality_score": 1.0,
+  "quality_flags": [],
+  "download_timestamp": "2026-03-11T00:00:00Z",
+  "enriched_timestamp": "2026-03-23T09:53:46.909477Z",
+  "sections": [
+    {
+      "heading": "",
+      "heading_level": 2,
+      "full_text": "Advisories describe how OSFI administers and interprets provisions of existing legislation, regulations or guidelines, or provide OSFI's position regarding certain policy issues. Advisories are not law; readers should refer to the relevant provisions of the legislation, regulation or guideline, including any amendments that came into effect subsequent to the Advisory's publication, when considering the relevancy of the Advisory.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Advisories describe how OSFI administers and interprets provisions of existing legislation, regulations or guidelines, or provide OSFI's position regarding certain policy issues. Advisories are not law; readers should refer to the relevant provisions of the legislation, regulation or guideline, including any amendments that came into effect subsequent to the Advisory's publication, when considering the relevancy of the Advisory."
+        }
+      ]
+    },
+    {
+      "heading": "Introduction:",
+      "heading_level": 2,
+      "full_text": "The Insurance Business Regulations Subsection 6(1) of the Insurance Business (Authorized Foreign Banks) Regulations ; subsection 8(1) of the Insurance Business (Banks) Regulations ; and subsection 8(1) of the Insurance Business (Trust and Loan Companies) Regulations . provide that a federally regulated deposit taking institution (DTI) shall not provide, directly or indirectly, an insurance company, agent or broker with any information respecting a customer of the DTI in Canada, except as permitted by these regulations Subsection 6(2) of the Insurance Business (Authorized Foreign Banks) Regulations ; subsection 8(2) of the Insurance Business (Banks) Regulations ; and subsection 8(2) of the Insurance Business (Trust and Loan Companies) Regulations . . This advisory provides clarification on how OSFI interprets this prohibition in the context of certain arrangements between DTIs and insurance companies, agents or brokers to market the DTI’s products or services.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "The Insurance Business Regulations Subsection 6(1) of the Insurance Business (Authorized Foreign Banks) Regulations ; subsection 8(1) of the Insurance Business (Banks) Regulations ; and subsection 8(1) of the Insurance Business (Trust and Loan Companies) Regulations . provide that a federally regulated deposit taking institution (DTI) shall not provide, directly or indirectly, an insurance company, agent or broker with any information respecting a customer of the DTI in Canada, except as permitted by these regulations Subsection 6(2) of the Insurance Business (Authorized Foreign Banks) Regulations ; subsection 8(2) of the Insurance Business (Banks) Regulations ; and subsection 8(2) of the Insurance Business (Trust and Loan Companies) Regulations . . This advisory provides clarification on how OSFI interprets this prohibition in the context of certain arrangements between DTIs and insurance companies, agents or brokers to market the DTI’s products or services."
+        }
+      ]
+    },
+    {
+      "heading": "Legislative References",
+      "heading_level": 2,
+      "full_text": "Section 6 of the Insurance Business (Authorized Foreign Banks) Regulations\nSection 8 of the Insurance Business (Banks) Regulations\nSection 8 of the Insurance Business (Trust and Loan Companies) Regulations",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Section 6 of the Insurance Business (Authorized Foreign Banks) Regulations"
+        },
+        {
+          "type": "paragraph",
+          "text": "Section 8 of the Insurance Business (Banks) Regulations"
+        },
+        {
+          "type": "paragraph",
+          "text": "Section 8 of the Insurance Business (Trust and Loan Companies) Regulations"
+        }
+      ]
+    },
+    {
+      "heading": "Interpretation:",
+      "heading_level": 2,
+      "full_text": "These regulations govern the extent to which a DTI may undertake the business of insurance and the relations between DTIs and insurance companies, agents or brokers. In particular, they:\n  - specify when a DTI may provide advice in respect of an insurance policy or services in respect thereof;\n  - restrict the promotion of an insurance company, agent, broker or insurance policy by a DTI; and\n  - limit the flow of information from a DTI to an insurance company, agent or broker.\nspecify when a DTI may provide advice in respect of an insurance policy or services in respect thereof;\nrestrict the promotion of an insurance company, agent, broker or insurance policy by a DTI; and\nlimit the flow of information from a DTI to an insurance company, agent or broker.\nSeveral inquiries have raised an interpretation issue specifically with regard to the flow of information between a DTI and an insurance company, agent or broker in the context of an arrangement that, on the one hand, allows a DTI to gain additional business, and on the other hand, permits the insurance company, agent or broker to offer a broader spectrum of financial products or services to its clients. Under such an arrangement, where a client of an insurance company, agent or broker is interested in a particular product or service offered by a DTI, a representative of the insurance company, agent or broker would collect the personal and financial information necessary to forward the client’s application to the DTI for processing. Further to its review of the application, the DTI would communicate to the representative of the insurance company, agent or broker whether it is willing to supply the requested service or product to the applicant, and if so, under which terms and conditions it is prepared to do so. Lastly, the client would either accept or reject the DTI’s proposed terms and conditions.\nThese queries involved two issues:\n  - when does a client of an insurance company, agent or broker become a customer of a DTI; and\n  - what constitutes “information respecting a customer” of a DTI.\nwhen does a client of an insurance company, agent or broker become a customer of a DTI; and\nwhat constitutes “information respecting a customer” of a DTI.\nIn its assessment of whether such arrangements are subject to the Insurance Business Regulations , OSFI will consider the following:\n  1. whether the DTI would provide any information to an insurance company, agent or broker for the purpose of identifying potential clients for the insurance company, agent or broker (it should rather be the insurance company, agent or broker that would promote the products and services of the DTI to its clients);\n  2. with respect to a product or service that a client of an insurance company, agent or broker is seeking from the DTI, when would the client become a customer of the DTI (it should not be until the DTI is notified of the acceptance of its terms and conditions for the product or service by the client of the insurance company, agent or broker);\n  3. whether the only information provided by the DTI to an insurance company, agent or broker would be information respecting the DTI (information that is acceptable would include general information regarding the DTI’s services and products, and the terms and conditions under which the DTI is prepared to enter into a specific transaction with a client of the insurance company, agent or broker); and\n  4. whether the DTI would provide to an insurance company, agent or broker, information pertaining to the credit worthiness of a client of that insurance company, agent or broker (the DTI should not provide such information).\nwhether the DTI would provide any information to an insurance company, agent or broker for the purpose of identifying potential clients for the insurance company, agent or broker (it should rather be the insurance company, agent or broker that would promote the products and services of the DTI to its clients);\nwith respect to a product or service that a client of an insurance company, agent or broker is seeking from the DTI, when would the client become a customer of the DTI (it should not be until the DTI is notified of the acceptance of its terms and conditions for the product or service by the client of the insurance company, agent or broker);\nwhether the only information provided by the DTI to an insurance company, agent or broker would be information respecting the DTI (information that is acceptable would include general information regarding the DTI’s services and products, and the terms and conditions under which the DTI is prepared to enter into a specific transaction with a client of the insurance company, agent or broker); and\nwhether the DTI would provide to an insurance company, agent or broker, information pertaining to the credit worthiness of a client of that insurance company, agent or broker (the DTI should not provide such information).",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "These regulations govern the extent to which a DTI may undertake the business of insurance and the relations between DTIs and insurance companies, agents or brokers. In particular, they:"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "specify when a DTI may provide advice in respect of an insurance policy or services in respect thereof;",
+            "restrict the promotion of an insurance company, agent, broker or insurance policy by a DTI; and",
+            "limit the flow of information from a DTI to an insurance company, agent or broker."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "specify when a DTI may provide advice in respect of an insurance policy or services in respect thereof;"
+        },
+        {
+          "type": "paragraph",
+          "text": "restrict the promotion of an insurance company, agent, broker or insurance policy by a DTI; and"
+        },
+        {
+          "type": "paragraph",
+          "text": "limit the flow of information from a DTI to an insurance company, agent or broker."
+        },
+        {
+          "type": "paragraph",
+          "text": "Several inquiries have raised an interpretation issue specifically with regard to the flow of information between a DTI and an insurance company, agent or broker in the context of an arrangement that, on the one hand, allows a DTI to gain additional business, and on the other hand, permits the insurance company, agent or broker to offer a broader spectrum of financial products or services to its clients. Under such an arrangement, where a client of an insurance company, agent or broker is interested in a particular product or service offered by a DTI, a representative of the insurance company, agent or broker would collect the personal and financial information necessary to forward the client’s application to the DTI for processing. Further to its review of the application, the DTI would communicate to the representative of the insurance company, agent or broker whether it is willing to supply the requested service or product to the applicant, and if so, under which terms and conditions it is prepared to do so. Lastly, the client would either accept or reject the DTI’s proposed terms and conditions."
+        },
+        {
+          "type": "paragraph",
+          "text": "These queries involved two issues:"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "when does a client of an insurance company, agent or broker become a customer of a DTI; and",
+            "what constitutes “information respecting a customer” of a DTI."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "when does a client of an insurance company, agent or broker become a customer of a DTI; and"
+        },
+        {
+          "type": "paragraph",
+          "text": "what constitutes “information respecting a customer” of a DTI."
+        },
+        {
+          "type": "paragraph",
+          "text": "In its assessment of whether such arrangements are subject to the Insurance Business Regulations , OSFI will consider the following:"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "whether the DTI would provide any information to an insurance company, agent or broker for the purpose of identifying potential clients for the insurance company, agent or broker (it should rather be the insurance company, agent or broker that would promote the products and services of the DTI to its clients);",
+            "with respect to a product or service that a client of an insurance company, agent or broker is seeking from the DTI, when would the client become a customer of the DTI (it should not be until the DTI is notified of the acceptance of its terms and conditions for the product or service by the client of the insurance company, agent or broker);",
+            "whether the only information provided by the DTI to an insurance company, agent or broker would be information respecting the DTI (information that is acceptable would include general information regarding the DTI’s services and products, and the terms and conditions under which the DTI is prepared to enter into a specific transaction with a client of the insurance company, agent or broker); and",
+            "whether the DTI would provide to an insurance company, agent or broker, information pertaining to the credit worthiness of a client of that insurance company, agent or broker (the DTI should not provide such information)."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "whether the DTI would provide any information to an insurance company, agent or broker for the purpose of identifying potential clients for the insurance company, agent or broker (it should rather be the insurance company, agent or broker that would promote the products and services of the DTI to its clients);"
+        },
+        {
+          "type": "paragraph",
+          "text": "with respect to a product or service that a client of an insurance company, agent or broker is seeking from the DTI, when would the client become a customer of the DTI (it should not be until the DTI is notified of the acceptance of its terms and conditions for the product or service by the client of the insurance company, agent or broker);"
+        },
+        {
+          "type": "paragraph",
+          "text": "whether the only information provided by the DTI to an insurance company, agent or broker would be information respecting the DTI (information that is acceptable would include general information regarding the DTI’s services and products, and the terms and conditions under which the DTI is prepared to enter into a specific transaction with a client of the insurance company, agent or broker); and"
+        },
+        {
+          "type": "paragraph",
+          "text": "whether the DTI would provide to an insurance company, agent or broker, information pertaining to the credit worthiness of a client of that insurance company, agent or broker (the DTI should not provide such information)."
+        }
+      ]
+    }
+  ],
+  "title_normalized": "business and powers information respecting a customer",
+  "publication_type_normalized": "regulatory_and_legislative_advisory",
+  "category_normalized": "regulatory_and_legislative",
+  "sector_normalized": [
+    "bank_act",
+    "trust_and_loan_companies_act"
+  ],
+  "guideline_number_normalized": "",
+  "applies_to_banks": true,
+  "applies_to_trust_loan": true,
+  "applies_to_life_insurance": false,
+  "applies_to_pc_insurance": false,
+  "applies_to_foreign_bank": false,
+  "applies_to_foreign_insurance": false,
+  "applies_to_cooperative": false,
+  "applies_to_bank_holding": false,
+  "effective_date_sort_key": "2002-11-30",
+  "status_sort_key": 1,
+  "authority_sort_key": 100,
+  "bm25_text": "Business and Powers – Information respecting a customer Regulatory and legislative advisory Regulatory and legislative Bank Act Trust and Loan Companies Act Introduction: Legislative References Interpretation:",
+  "vector_text_prefix": "[OSFI Regulatory and legislative advisory  | Regulatory and legislative | Bank Act / Trust and Loan Companies Act | FINAL_CURRENT | Effective 2002-11-30]",
+  "h1_title": "Business and Powers – Information respecting a customer",
+  "regulator": "OSFI",
+  "regulator_acronym": "OSFI",
+  "jurisdiction": "Canada",
+  "short_title": "",
+  "source_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/business-powers-information-respecting-customer"
+}

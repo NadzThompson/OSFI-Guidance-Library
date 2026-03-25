@@ -1,0 +1,510 @@
+# Liquidity Adequacy Requirements (LAR) (2025) Chapter 4 – Net Cumulative Cash Flow
+
+**Type:** Guideline | **No:** LAR | **Category:** Capital Adequacy Requirements | **Date:** Effective Date April 1, 2025 | **Effective:** Effective Date April 1, 2025 | **Sector:** Banks, Trust and Loan Companies | **Status:** SUPERSEDED | **Tier:** 1
+
+---
+
+- Liquidity Adequacy Requirements - Backgrounder (2025)
+- Liquidity Adequacy Requirements - Letter (2025)
+- Net cumulative cash flow reporting manual
+- Small and Medium-Sized Deposit-Taking Institutions Capital and Liquidity Requirements – Guideline
+- Capital Adequacy Requirements – Guideline
+- Leverage Requirements - Guideline
+- Pillar 3 Disclosure Requirements
+
+### 4.1 Objective
+
+1. The Net Cumulative Cash Flow (NCCF) metric is used by OSFI (in conjunction with the other metrics specified in the LAR Guideline) to supervise and monitor liquidity at an individual financial institution. The NCCF measures an institution’s detailed cash flows in order to capture the risk posed by funding mismatches between assets and liabilities after the application of assumptions around the functioning of assets and modified liabilities (i.e. where rollover of certain liabilities is permitted). The NCCF measures an institution’s net cumulative cash flows both on the basis of the consolidated balance sheet and, where required, by major individual balance sheets and components. The metric: represents a stressed cash flow measure under a severe but plausible liquidity stress scenario, reflecting the continuation of core business operations and the consideration of relevant sources of cash inflows and outflows; helps identify gaps between contractual inflows and outflows for various time bands over and up to a 12 month time horizon, which indicate potential cash flow shortfalls an institution may need to address; and, helps OSFI supervise and monitor liquidity positions of institutions in a timely and effective manner in times of stress with the accelerated reporting of the metric.
+2. The NCCF calculates a horizon for net positive cash flows in order to capture the risk posed by funding mismatches between assets and liabilities. By utilizing this type of cash flow analysis, institutions may be able to better mitigate the risk of disruption to market confidence and maintain the ability to meet short-term liabilities and continue lending in a liquidity crisis. This aims to provide institutions with the time to find alternative sources of funding or to liquidate assets as needed.
+3. The NCCF necessitates that institutions consider structural liquidity risk, contingent liquidity risk and market liquidity risk. Through the NCCF analysis, institutions will consider their ability to withstand asset devaluations, losses of market confidence, and accelerated reductions in funding capacity during a period of stress. The NCCF analysis offers further perspective into the maturity profile of an institution’s balance sheet, and provides OSFI with additional assurance of the institution’s liquidity adequacy as a complement to internationally prescribed metrics.
+4. The scope of application of the NCCF includes Domestic Systemically Important Banks (DSIBs), and Category I and II institutions as defined in the SMSB Capital and Liquidity Guideline. Footnote 1
+
+The Net Cumulative Cash Flow (NCCF) metric is used by OSFI (in conjunction with the other metrics specified in the LAR Guideline) to supervise and monitor liquidity at an individual financial institution. The NCCF measures an institution’s detailed cash flows in order to capture the risk posed by funding mismatches between assets and liabilities after the application of assumptions around the functioning of assets and modified liabilities (i.e. where rollover of certain liabilities is permitted). The NCCF measures an institution’s net cumulative cash flows both on the basis of the consolidated balance sheet and, where required, by major individual balance sheets and components. The metric:
+
+1. represents a stressed cash flow measure under a severe but plausible liquidity stress scenario, reflecting the continuation of core business operations and the consideration of relevant sources of cash inflows and outflows;
+2. helps identify gaps between contractual inflows and outflows for various time bands over and up to a 12 month time horizon, which indicate potential cash flow shortfalls an institution may need to address; and,
+3. helps OSFI supervise and monitor liquidity positions of institutions in a timely and effective manner in times of stress with the accelerated reporting of the metric.
+
+represents a stressed cash flow measure under a severe but plausible liquidity stress scenario, reflecting the continuation of core business operations and the consideration of relevant sources of cash inflows and outflows;
+
+helps identify gaps between contractual inflows and outflows for various time bands over and up to a 12 month time horizon, which indicate potential cash flow shortfalls an institution may need to address; and,
+
+helps OSFI supervise and monitor liquidity positions of institutions in a timely and effective manner in times of stress with the accelerated reporting of the metric.
+
+The NCCF calculates a horizon for net positive cash flows in order to capture the risk posed by funding mismatches between assets and liabilities. By utilizing this type of cash flow analysis, institutions may be able to better mitigate the risk of disruption to market confidence and maintain the ability to meet short-term liabilities and continue lending in a liquidity crisis. This aims to provide institutions with the time to find alternative sources of funding or to liquidate assets as needed.
+
+The NCCF necessitates that institutions consider structural liquidity risk, contingent liquidity risk and market liquidity risk. Through the NCCF analysis, institutions will consider their ability to withstand asset devaluations, losses of market confidence, and accelerated reductions in funding capacity during a period of stress. The NCCF analysis offers further perspective into the maturity profile of an institution’s balance sheet, and provides OSFI with additional assurance of the institution’s liquidity adequacy as a complement to internationally prescribed metrics.
+
+### 4.2 Definition
+
+1. The NCCF is a liquidity horizon metric that measures an institution’s net cumulative cash flow. Cash and security flows associated with assets and liabilities that have a contractual maturity should be considered based on their residual contractual maturity. For liabilities, rollover of existing liabilities is limited to retail and small business customer term deposits, bank-sponsored acceptances, and certain other operational and non-operational deposits (see Table 1). The threshold for small business customer deposits is $5 million or less for the NCCF, on an individual account basis. Run-off rates (i.e. outflows) associated with liabilities that have an indeterminate maturity (non-defined or open maturity), such as demand deposits, are applied over two time intervals – weekly for the first month Footnote 2 and monthly from month 2 to month 12 (see Section 4.6). Cash inflows from maturing assets and cash outflows arising from undrawn commitments are considered separately.
+2. The liquidity scenario assumed in the NCCF encompasses a combination of idiosyncratic and systemic stresses which measure the impacts of assumptions over a one year liquidity horizon. Stress assumptions result in: cash inflows representing the market value of eligible unencumbered liquid assets; partial run-off of retail and small business customer deposits; full or partial run-off of wholesale and corporate funding; cash inflows for maturing assets, reduced to recognize continued lending; and cash outflows from off-balance sheet items, including undrawn commitments.
+3. The time bands reported under the NCCF include weekly buckets for the first four weeks, monthly buckets for month 2 to month 12, and a greater than one year bucket.
+
+The NCCF is a liquidity horizon metric that measures an institution’s net cumulative cash flow. Cash and security flows associated with assets and liabilities that have a contractual maturity should be considered based on their residual contractual maturity. For liabilities, rollover of existing liabilities is limited to retail and small business customer term deposits, bank-sponsored acceptances, and certain other operational and non-operational deposits (see Table 1). The threshold for small business customer deposits is $5 million or less for the NCCF, on an individual account basis. Run-off rates (i.e. outflows) associated with liabilities that have an indeterminate maturity (non-defined or open maturity), such as demand deposits, are applied over two time intervals – weekly for the first month Footnote 2 and monthly from month 2 to month 12 (see Section 4.6). Cash inflows from maturing assets and cash outflows arising from undrawn commitments are considered separately.
+
+The liquidity scenario assumed in the NCCF encompasses a combination of idiosyncratic and systemic stresses which measure the impacts of assumptions over a one year liquidity horizon. Stress assumptions result in:
+
+1. cash inflows representing the market value of eligible unencumbered liquid assets;
+2. partial run-off of retail and small business customer deposits;
+3. full or partial run-off of wholesale and corporate funding;
+4. cash inflows for maturing assets, reduced to recognize continued lending; and
+5. cash outflows from off-balance sheet items, including undrawn commitments.
+
+The time bands reported under the NCCF include weekly buckets for the first four weeks, monthly buckets for month 2 to month 12, and a greater than one year bucket.
+
+### 4.3 Supervisory tool
+
+1. The NCCF measures an institution’s surplus or deficit at a given time period, calculated as the difference between the sum of eligible cash inflows and the sum of prescribed cash outflows from the reporting date up to the time period considered. Accordingly, an institution’s survival horizon corresponds to the last period before which the NCCF turns negative and is expressed in weeks or in months.
+2. OSFI may, as necessary, require individual institutions to meet a supervisory-communicated, institution-specific NCCF survival horizon. In such instances, the supervisory-communicated, institution-specific NCCF survival horizon will be set by OSFI after considering the trend in financial market funding liquidity indicators and institution-specific liquidity metrics and risks. In addition, when determining the NCCF survival horizon for individual institutions, OSFI will consider such factors as operating and management experience, strength of parent, earnings, diversification of assets, type of assets, inherent risk of a business model and risk appetite. While OSFI collects NCCF data over a 12 month time horizon, it is expected that institutions’ liquidity management and internal transfer pricing consider its supervisory-communicated NCCF survival horizon. For periods beyond the supervisory-communicated NCCF survival horizon, institutions should monitor their liquidity for potential liquidity mismatches and cash flow shortfalls and manage liquidity in accordance with their internally defined risk appetite.
+
+The NCCF measures an institution’s surplus or deficit at a given time period, calculated as the difference between the sum of eligible cash inflows and the sum of prescribed cash outflows from the reporting date up to the time period considered. Accordingly, an institution’s survival horizon corresponds to the last period before which the NCCF turns negative and is expressed in weeks or in months.
+
+OSFI may, as necessary, require individual institutions to meet a supervisory-communicated, institution-specific NCCF survival horizon. In such instances, the supervisory-communicated, institution-specific NCCF survival horizon will be set by OSFI after considering the trend in financial market funding liquidity indicators and institution-specific liquidity metrics and risks. In addition, when determining the NCCF survival horizon for individual institutions, OSFI will consider such factors as operating and management experience, strength of parent, earnings, diversification of assets, type of assets, inherent risk of a business model and risk appetite. While OSFI collects NCCF data over a 12 month time horizon, it is expected that institutions’ liquidity management and internal transfer pricing consider its supervisory-communicated NCCF survival horizon. For periods beyond the supervisory-communicated NCCF survival horizon, institutions should monitor their liquidity for potential liquidity mismatches and cash flow shortfalls and manage liquidity in accordance with their internally defined risk appetite.
+
+### 4.4 Scope of application
+
+1. DSIBs and Category I institutions are subject to the “Comprehensive NCCF”, whereas Category II institutions are subject to the “Streamlined NCCF”, unless directed otherwise by OSFI. Most assumptions from the Comprehensive NCCF carry over to the Streamlined NCCF. However, where assumptions and/or requirements differ, a reference to the respective approach and specific provision are included below to outline the relevant expectations.
+
+DSIBs and Category I institutions are subject to the “Comprehensive NCCF”, whereas Category II institutions are subject to the “Streamlined NCCF”, unless directed otherwise by OSFI. Most assumptions from the Comprehensive NCCF carry over to the Streamlined NCCF. However, where assumptions and/or requirements differ, a reference to the respective approach and specific provision are included below to outline the relevant expectations.
+
+#### Comprehensive NCCF
+
+1. The NCCF supervisory tool will be assessed in three parts by OSFI, on a: Consolidated basis; Canadian currency basis; and Major foreign currency basis, defined as US dollar (USD), Euro (EUR), and British pound sterling (GBP) balance sheet basis. During periods of idiosyncratic stress to specific regions or to individual institutions, OSFI may, as necessary, require a supervisory-communicated, institution-specific NCCF survival horizon to be met on a Canadian currency basis and/or a foreign currency balance sheet basis, including USD, EUR, GBP and any other currency determined to be necessary by OSFI.
+2. Foreign branches of institutions in Canada should be included in the aforementioned balance sheets where the branch balance sheet represents at least 5% of consolidated notional assets or where requested by OSFI. Subsidiary balance sheets should be reported and monitored separately, if the sum total of all subsidiary balance sheets is 5% of consolidated notional assets, or as required by OSFI.
+
+The NCCF supervisory tool will be assessed in three parts by OSFI, on a:
+
+1. Consolidated basis;
+2. Canadian currency basis; and
+3. Major foreign currency basis, defined as US dollar (USD), Euro (EUR), and British pound sterling (GBP) balance sheet basis.
+
+During periods of idiosyncratic stress to specific regions or to individual institutions, OSFI may, as necessary, require a supervisory-communicated, institution-specific NCCF survival horizon to be met on a Canadian currency basis and/or a foreign currency balance sheet basis, including USD, EUR, GBP and any other currency determined to be necessary by OSFI.
+
+Foreign branches of institutions in Canada should be included in the aforementioned balance sheets where the branch balance sheet represents at least 5% of consolidated notional assets or where requested by OSFI. Subsidiary balance sheets should be reported and monitored separately, if the sum total of all subsidiary balance sheets is 5% of consolidated notional assets, or as required by OSFI.
+
+#### Streamlined NCCF
+
+1. The Streamlined NCCF is only assessed on a consolidated basis with all currencies aggregated and reported in Canadian dollars.
+2. Institutions completing the Streamlined NCCF return are only required to report on collateral inflows and outflows if they also file the regulatory return Collateral and Pledging (H4) or if they are otherwise directed to do so by OSFI.
+
+The Streamlined NCCF is only assessed on a consolidated basis with all currencies aggregated and reported in Canadian dollars.
+
+Institutions completing the Streamlined NCCF return are only required to report on collateral inflows and outflows if they also file the regulatory return Collateral and Pledging (H4) or if they are otherwise directed to do so by OSFI.
+
+### 4.5 Cash inflows
+
+1. Cash inflow treatments differ based on whether or not the asset meets the criteria for unencumbered liquid assets outlined below.
+2. Eligible unencumbered liquid assets (EULA) are treated as cash inflows in the first time bucket (i.e. week one), at market value, subject to relevant haircuts. Additional inflows of unencumbered liquid assets from maturing repurchase transactions of eligible liquid assets should be treated as cash inflows and assigned to the appropriate time bucket after application of the relevant haircuts.
+3. To qualify for the stock of unencumbered liquid assets under the NCCF, the assets should be eligible collateral at central banks under normal operating conditions, as specified in paragraphs 23 and 24, and must be “unencumbered”, i.e. free of legal, regulatory, contractual or other restrictions on the ability of the institution to liquidate, sell, transfer, or assign the asset. An asset in the stock should not be pledged to secure, collateralize or credit-enhance any transaction, nor be designated to cover operational costs (such as rents and salaries). The assets should also be accessible by the function charged with managing the liquidity of the institution (e.g. the treasurer) as outlined in Chapter 2, paragraph 21. For eligibility purposes, assets linked to total return swap (TRS) exposures will be given the same treatment as in the LCR (see Chapter 2, paragraph 47(c)).
+4. Institutions should only include liquid assets that it has the operational capability to monetize, meaning it has procedures and appropriate systems in place, including providing the function identified in Chapter 2, paragraph 21 with access to all necessary information to execute monetisation of any asset at any time.
+5. Only U.S. liquid assets eligible at the Bank of Canada should be considered fungible (i.e. mutually interchangeable) for NCCF liquidity measurement purposes for the Canadian dollar balance sheet under the Comprehensive NCCF. Subject to OSFI’s approval, other liquid assets may be eligible for inclusion in an institution’s respective foreign currency balance sheets and the consolidated balance sheet.
+6. In order to qualify as liquid assets under the NCCF, liquid assets held by subsidiaries, or domiciled outside Canada, should be freely transferable for regulatory purposes to the consolidated entity, meaning that there should not be regulatory, legal, tax, accounting or other impediments to their transfer. Assets held in legal entities without market access should only be included to the extent that they can be freely transferred to other entities that could monetize the assets.
+7. EULA received in reverse repo and securities financing transactions that are held at the institution, have not been rehypothecated, and are legally and contractually available for the institution's use can be considered as part of the pool of liquid assets and thus accorded immediate liquidity value (i.e. week one) after application of the relevant haircut. Institutions should not double count liquidity inflows or outflows associated with reverse repos.
+8. Institutions may receive liquidity value for collateral swaps provided they can clearly demonstrate that, at a minimum, the transactions are for a specified contract period, the securities used for the underlying collateral being swapped are outlined in the transaction details, mark-to-market procedures are understood and documented, and there is not substitution of collateral over the life of the contract, unless it is a like-for-like substitution of collateral. In addition, institutions must have adequate and ongoing market risk management control and oversight around this activity, and must recognize liquidity or cash flow implications at the termination of the swap.
+9. For the Canadian balance sheet, liquid assets are limited only to those eligible as collateral under the Standing Liquidity Facility at the Bank of Canada (see the Assets Eligible as Collateral under the Standing Liquidity Facility document ). Note that the Bank of Canada applies conditions to the use of these assets and that the asset list is subject to change. As such, institutions should use the most recent version of the aforementioned document when calculating their stock of liquid assets for NCCF purposes.
+10. For all foreign currency balance sheets, the stock of liquid assets must, at a minimum, be eligible collateral under normal operating conditions at the appropriate central bank, be unencumbered per paragraph 17, and must be approved by OSFI. OSFI reserves the right to restrict or alter this list at any time, in consideration of stressed markets or other circumstances.
+11. Cash inflow treatment for balance sheet assets that do not meet the aforementioned criteria for EULA is based on the asset’s residual contractual maturity, except: For residential and commercial mortgages, the scenario assumes that institutions will receive all payments (including interest payments and installments) from retail and small business customers that are fully performing and contractually due; at the same time, however, institutions are assumed to continue to extend residential and commercial mortgages, at a rate of 100% of contractual inflows. This results in no net eligible inflows from maturing residential and commercial mortgages. For business and government loans, the scenario assumes that institutions will receive all payments (including interest payments and installments) from businesses and governments that are fully performing and contractually due, however, institutions are assumed to continue to extend loans to businesses and governments, at a rate of 50% of contractual inflows. This results in a net inflow number of 50% of the contractual amount. Contingent inflows are not considered eligible cash inflows.
+12. All cash inflows from demand and term deposits held with other institutions are assumed to occur at the earliest contractual maturity date. In the case of demand deposits, this would mean the first week.
+13. Cash inflows from securities which are not considered EULA, should be reported at contractual maturity or the earliest option date (e.g. callable bonds). Cash inflows are limited to the face value of the security.
+14. Cash inflows from Acceptances (bankers’ acceptances) reported as an asset (customers’ liability under acceptances) on the balance sheet should occur at the latest contractual maturity date of the underlying facility.
+15. Non-financial common equity shares that meet the requirements for Level 2B asset treatment in the LCR (i.e. meet the criteria outlined in Chapter 2, paragraph 47(c) and the operational requirements outlined in Chapter 2, section 2.2.A.2) will be given cash inflow treatment in NCCF, after application of a 50% haircut, in week 4. For eligibility purposes, assets linked to total return swap (TRS) exposures will be given the same treatment as in LCR (see Chapter 2, paragraph 47(c)).
+16. Financial institution common equity shares will be given cash inflow value according to the following schedule – 12.5% in month 2, 25% in month 3, and 12.5% in month 4, provided the operational requirements outlined in Chapter 2, section 2.2.A.2 are met.
+17. Precious metals and other commodities receive no cash inflow value because their liquidity characteristics indicate a low level of confidence that cash inflows will occur within one year.
+18. Inflows from loans that have no specific maturity (i.e. have non-defined or open maturity) should not be included. An exception to this would be minimum payments of principal, fee or interest associated with an open maturity loan, which are contractually due within a specific period. These minimum payment amounts are assumed to occur at the latest possible time band within that period.
+19. Cash inflows from swapped intra-bank loans should occur at contractual maturity of the loan. These transactions occur when funds are transferred from one balance sheet to another. The originating balance sheet generates a swapped intra-bank loan by swapping funds from one currency to another (e.g., an area within a FI swaps U.S. dollar deposits to Canadian dollars and lends the funds to another area within the institution).
+20. Cash inflows from reverse repurchase agreements which do not meet the conditions outlined in paragraphs 16 to 24 are assumed to occur at contractual maturity.
+21. Cash inflows from securities borrowed are assumed to occur at contractual maturity for the principal amount borrowed. Interest will not be recognized as a cash inflow.
+22. All derivative-related cash inflows should be included at the expected contractual payment dates in accordance with their existing valuation methodologies. Cash flows may be calculated on a net basis (i.e. inflows can offset outflows) by counterparty, only where a valid master netting agreement exists. The amounts of derivatives cash inflows and outflows should be calculated in accordance with other provisions of the methodology described in paragraph 46. In accordance with the principle that institutions should not double count liquidity inflows or outflows, where derivatives are collateralised by eligible liquid assets, cash inflows should be calculated net of any corresponding cash or contractual collateral outflows that would result, all other things being equal, from contractual obligations for cash or collateral to be posted by the institution, given these contractual obligations would reduce the pool of eligible liquid assets.
+23. Balances related to assets not mentioned above are to be reported in the NCCF, but no cash inflow value will be attributed to them.
+
+Cash inflow treatments differ based on whether or not the asset meets the criteria for unencumbered liquid assets outlined below.
+
+Eligible unencumbered liquid assets (EULA) are treated as cash inflows in the first time bucket (i.e. week one), at market value, subject to relevant haircuts. Additional inflows of unencumbered liquid assets from maturing repurchase transactions of eligible liquid assets should be treated as cash inflows and assigned to the appropriate time bucket after application of the relevant haircuts.
+
+To qualify for the stock of unencumbered liquid assets under the NCCF, the assets should be eligible collateral at central banks under normal operating conditions, as specified in paragraphs 23 and 24, and must be “unencumbered”, i.e. free of legal, regulatory, contractual or other restrictions on the ability of the institution to liquidate, sell, transfer, or assign the asset. An asset in the stock should not be pledged to secure, collateralize or credit-enhance any transaction, nor be designated to cover operational costs (such as rents and salaries). The assets should also be accessible by the function charged with managing the liquidity of the institution (e.g. the treasurer) as outlined in Chapter 2, paragraph 21. For eligibility purposes, assets linked to total return swap (TRS) exposures will be given the same treatment as in the LCR (see Chapter 2, paragraph 47(c)).
+
+Institutions should only include liquid assets that it has the operational capability to monetize, meaning it has procedures and appropriate systems in place, including providing the function identified in Chapter 2, paragraph 21 with access to all necessary information to execute monetisation of any asset at any time.
+
+Only U.S. liquid assets eligible at the Bank of Canada should be considered fungible (i.e. mutually interchangeable) for NCCF liquidity measurement purposes for the Canadian dollar balance sheet under the Comprehensive NCCF. Subject to OSFI’s approval, other liquid assets may be eligible for inclusion in an institution’s respective foreign currency balance sheets and the consolidated balance sheet.
+
+In order to qualify as liquid assets under the NCCF, liquid assets held by subsidiaries, or domiciled outside Canada, should be freely transferable for regulatory purposes to the consolidated entity, meaning that there should not be regulatory, legal, tax, accounting or other impediments to their transfer. Assets held in legal entities without market access should only be included to the extent that they can be freely transferred to other entities that could monetize the assets.
+
+EULA received in reverse repo and securities financing transactions that are held at the institution, have not been rehypothecated, and are legally and contractually available for the institution's use can be considered as part of the pool of liquid assets and thus accorded immediate liquidity value (i.e. week one) after application of the relevant haircut. Institutions should not double count liquidity inflows or outflows associated with reverse repos.
+
+Institutions may receive liquidity value for collateral swaps provided they can clearly demonstrate that, at a minimum, the transactions are for a specified contract period, the securities used for the underlying collateral being swapped are outlined in the transaction details, mark-to-market procedures are understood and documented, and there is not substitution of collateral over the life of the contract, unless it is a like-for-like substitution of collateral. In addition, institutions must have adequate and ongoing market risk management control and oversight around this activity, and must recognize liquidity or cash flow implications at the termination of the swap.
+
+For the Canadian balance sheet, liquid assets are limited only to those eligible as collateral under the Standing Liquidity Facility at the Bank of Canada (see the Assets Eligible as Collateral under the Standing Liquidity Facility document ). Note that the Bank of Canada applies conditions to the use of these assets and that the asset list is subject to change. As such, institutions should use the most recent version of the aforementioned document when calculating their stock of liquid assets for NCCF purposes.
+
+For all foreign currency balance sheets, the stock of liquid assets must, at a minimum, be eligible collateral under normal operating conditions at the appropriate central bank, be unencumbered per paragraph 17, and must be approved by OSFI. OSFI reserves the right to restrict or alter this list at any time, in consideration of stressed markets or other circumstances.
+
+Cash inflow treatment for balance sheet assets that do not meet the aforementioned criteria for EULA is based on the asset’s residual contractual maturity, except:
+
+1. For residential and commercial mortgages, the scenario assumes that institutions will receive all payments (including interest payments and installments) from retail and small business customers that are fully performing and contractually due; at the same time, however, institutions are assumed to continue to extend residential and commercial mortgages, at a rate of 100% of contractual inflows. This results in no net eligible inflows from maturing residential and commercial mortgages.
+2. For business and government loans, the scenario assumes that institutions will receive all payments (including interest payments and installments) from businesses and governments that are fully performing and contractually due, however, institutions are assumed to continue to extend loans to businesses and governments, at a rate of 50% of contractual inflows. This results in a net inflow number of 50% of the contractual amount.
+
+For residential and commercial mortgages, the scenario assumes that institutions will receive all payments (including interest payments and installments) from retail and small business customers that are fully performing and contractually due; at the same time, however, institutions are assumed to continue to extend residential and commercial mortgages, at a rate of 100% of contractual inflows. This results in no net eligible inflows from maturing residential and commercial mortgages.
+
+For business and government loans, the scenario assumes that institutions will receive all payments (including interest payments and installments) from businesses and governments that are fully performing and contractually due, however, institutions are assumed to continue to extend loans to businesses and governments, at a rate of 50% of contractual inflows. This results in a net inflow number of 50% of the contractual amount.
+
+Contingent inflows are not considered eligible cash inflows.
+
+All cash inflows from demand and term deposits held with other institutions are assumed to occur at the earliest contractual maturity date. In the case of demand deposits, this would mean the first week.
+
+Cash inflows from securities which are not considered EULA, should be reported at contractual maturity or the earliest option date (e.g. callable bonds). Cash inflows are limited to the face value of the security.
+
+Cash inflows from Acceptances (bankers’ acceptances) reported as an asset (customers’ liability under acceptances) on the balance sheet should occur at the latest contractual maturity date of the underlying facility.
+
+Non-financial common equity shares that meet the requirements for Level 2B asset treatment in the LCR (i.e. meet the criteria outlined in Chapter 2, paragraph 47(c) and the operational requirements outlined in Chapter 2, section 2.2.A.2) will be given cash inflow treatment in NCCF, after application of a 50% haircut, in week 4. For eligibility purposes, assets linked to total return swap (TRS) exposures will be given the same treatment as in LCR (see Chapter 2, paragraph 47(c)).
+
+Financial institution common equity shares will be given cash inflow value according to the following schedule – 12.5% in month 2, 25% in month 3, and 12.5% in month 4, provided the operational requirements outlined in Chapter 2, section 2.2.A.2 are met.
+
+Precious metals and other commodities receive no cash inflow value because their liquidity characteristics indicate a low level of confidence that cash inflows will occur within one year.
+
+Inflows from loans that have no specific maturity (i.e. have non-defined or open maturity) should not be included. An exception to this would be minimum payments of principal, fee or interest associated with an open maturity loan, which are contractually due within a specific period. These minimum payment amounts are assumed to occur at the latest possible time band within that period.
+
+Cash inflows from swapped intra-bank loans should occur at contractual maturity of the loan. These transactions occur when funds are transferred from one balance sheet to another. The originating balance sheet generates a swapped intra-bank loan by swapping funds from one currency to another (e.g., an area within a FI swaps U.S. dollar deposits to Canadian dollars and lends the funds to another area within the institution).
+
+Cash inflows from reverse repurchase agreements which do not meet the conditions outlined in paragraphs 16 to 24 are assumed to occur at contractual maturity.
+
+Cash inflows from securities borrowed are assumed to occur at contractual maturity for the principal amount borrowed. Interest will not be recognized as a cash inflow.
+
+All derivative-related cash inflows should be included at the expected contractual payment dates in accordance with their existing valuation methodologies. Cash flows may be calculated on a net basis (i.e. inflows can offset outflows) by counterparty, only where a valid master netting agreement exists. The amounts of derivatives cash inflows and outflows should be calculated in accordance with other provisions of the methodology described in paragraph 46. In accordance with the principle that institutions should not double count liquidity inflows or outflows, where derivatives are collateralised by eligible liquid assets, cash inflows should be calculated net of any corresponding cash or contractual collateral outflows that would result, all other things being equal, from contractual obligations for cash or collateral to be posted by the institution, given these contractual obligations would reduce the pool of eligible liquid assets.
+
+Balances related to assets not mentioned above are to be reported in the NCCF, but no cash inflow value will be attributed to them.
+
+### 4.6 Cash outflows
+
+1. The cash outflow treatment for existing liabilities differs depending on whether the liability has a contractual maturity or whether the liability has an indeterminate maturity (non-defined or open maturity). On-balance sheet items, and certain off-balance sheet items are all considered as sources of cash outflows under the NCCF. Balances should be run-off on a declining balance basis.
+2. Consistent with the underlying intent of the metric, no rollover of existing liabilities is generally assumed to take place, with the exception of retail and small business customer term deposits, bankers’ acceptances, and select term deposits from non-financial counterparties. Run-off rates for retail, including small business customers, will be the same as equivalent monthly demand deposit run-offs. However, these term deposits will be assumed to renew at the same tenor as the original deposit, less the equivalent demand deposit monthly run-off rate. Run-off rates for bankers’ acceptances and select term deposits from non-financial counterparties are described further in paragraphs 45 and 58.
+3. For cashable products in which the customer has an option for early redemption, the balance should be treated as a demand deposit commencing at the first customer option date and allocated to the appropriate demand deposit and run-off rate category. If product design includes penalties that sufficiently discourage early redemption, OSFI may consider exceptions on a bilateral basis.
+4. The general treatment described in paragraph 39 (i.e. no rollover of liabilities) applies to: Repurchase agreements; Term deposits (other than retail and small business customer term deposits and select non-financial counterparties); Other wholesale liabilities (other than bankers’ acceptances), including commercial paper, certificates of deposit, deposit notes, and bonds; and, Outflows from an FI’s own ABCP, SIVs, and securitizations. Footnote 3
+5. Cash outflows from swapped intra-bank deposits should occur in full at contractual maturity. These transactions occur when funds are transferred from one balance sheet to another. The originating balance sheet generates a swapped intra-bank deposit by swapping funds from one currency to another (e.g., an area within a FI swaps U.S. dollar deposits to Canadian dollars and lends the funds to another area within the institution).
+6. Cash flows associated with securities lent are assumed to occur at contractual maturity for the principal amount borrowed. Interest will not be recognized as a cash outflow.
+7. Securities sold short and funding guarantees to subsidiaries and branches should all be assumed to have immediate cash outflows (i.e. first maturity bucket).
+8. 100% of the outstanding amount of bank-sponsored Acceptances (bankers’ acceptances) reported as a liability on the balance sheet should be recorded as an outflow on a declining balance basis occurring on the earliest maturity date of each acceptance (i.e. the remaining 25% is considered to be rolled over). All other Acceptances should roll off at 100%.
+9. All derivative-related cash outflows should be included at the expected contractual payment dates in accordance with their existing valuation methodologies. Cash flows may be calculated on a net basis (i.e. inflows can offset outflows) by counterparty, only where a valid master netting agreement exists. Options should be assumed to be exercised when they are ‘in the money’ to the option buyer. In accordance with the principle that institutions should not double count liquidity inflows or outflows, where derivative payments are collateralised by eligible liquid assets, cash outflows should be calculated net of any corresponding cash or collateral inflows that would result, all other things being equal, from contractual obligations for cash or collateral to be provided to the institution, if the institution is legally entitled and operationally capable to re-use the collateral in new cash raising transactions once the collateral is received.
+10. Run-off rates (i.e. outflows) associated with liabilities with an indeterminate maturity (non-defined or open maturity), such as demand/notice (less than 30 days notice) deposits, are applied over two time intervals – weekly for the first month and monthly from month 2 to month 12.
+11. Retail deposits are defined as deposits placed with an institution by a natural person and are divided into “stable” and “less stable” categories per Chapter 2, paragraphs 55 to 64. Institutions should refer to these paragraphs for definitions related to the concepts described for retail deposits below.
+
+The cash outflow treatment for existing liabilities differs depending on whether the liability has a contractual maturity or whether the liability has an indeterminate maturity (non-defined or open maturity). On-balance sheet items, and certain off-balance sheet items are all considered as sources of cash outflows under the NCCF. Balances should be run-off on a declining balance basis.
+
+Consistent with the underlying intent of the metric, no rollover of existing liabilities is generally assumed to take place, with the exception of retail and small business customer term deposits, bankers’ acceptances, and select term deposits from non-financial counterparties. Run-off rates for retail, including small business customers, will be the same as equivalent monthly demand deposit run-offs. However, these term deposits will be assumed to renew at the same tenor as the original deposit, less the equivalent demand deposit monthly run-off rate. Run-off rates for bankers’ acceptances and select term deposits from non-financial counterparties are described further in paragraphs 45 and 58.
+
+For cashable products in which the customer has an option for early redemption, the balance should be treated as a demand deposit commencing at the first customer option date and allocated to the appropriate demand deposit and run-off rate category. If product design includes penalties that sufficiently discourage early redemption, OSFI may consider exceptions on a bilateral basis.
+
+The general treatment described in paragraph 39 (i.e. no rollover of liabilities) applies to:
+
+- Repurchase agreements;
+- Term deposits (other than retail and small business customer term deposits and select non-financial counterparties);
+- Other wholesale liabilities (other than bankers’ acceptances), including commercial paper, certificates of deposit, deposit notes, and bonds; and,
+- Outflows from an FI’s own ABCP, SIVs, and securitizations. Footnote 3
+
+Cash outflows from swapped intra-bank deposits should occur in full at contractual maturity. These transactions occur when funds are transferred from one balance sheet to another. The originating balance sheet generates a swapped intra-bank deposit by swapping funds from one currency to another (e.g., an area within a FI swaps U.S. dollar deposits to Canadian dollars and lends the funds to another area within the institution).
+
+Cash flows associated with securities lent are assumed to occur at contractual maturity for the principal amount borrowed. Interest will not be recognized as a cash outflow.
+
+Securities sold short and funding guarantees to subsidiaries and branches should all be assumed to have immediate cash outflows (i.e. first maturity bucket).
+
+100% of the outstanding amount of bank-sponsored Acceptances (bankers’ acceptances) reported as a liability on the balance sheet should be recorded as an outflow on a declining balance basis occurring on the earliest maturity date of each acceptance (i.e. the remaining 25% is considered to be rolled over). All other Acceptances should roll off at 100%.
+
+All derivative-related cash outflows should be included at the expected contractual payment dates in accordance with their existing valuation methodologies. Cash flows may be calculated on a net basis (i.e. inflows can offset outflows) by counterparty, only where a valid master netting agreement exists. Options should be assumed to be exercised when they are ‘in the money’ to the option buyer. In accordance with the principle that institutions should not double count liquidity inflows or outflows, where derivative payments are collateralised by eligible liquid assets, cash outflows should be calculated net of any corresponding cash or collateral inflows that would result, all other things being equal, from contractual obligations for cash or collateral to be provided to the institution, if the institution is legally entitled and operationally capable to re-use the collateral in new cash raising transactions once the collateral is received.
+
+Run-off rates (i.e. outflows) associated with liabilities with an indeterminate maturity (non-defined or open maturity), such as demand/notice (less than 30 days notice) deposits, are applied over two time intervals – weekly for the first month and monthly from month 2 to month 12.
+
+Retail deposits are defined as deposits placed with an institution by a natural person and are divided into “stable” and “less stable” categories per Chapter 2, paragraphs 55 to 64. Institutions should refer to these paragraphs for definitions related to the concepts described for retail deposits below.
+
+#### Stable retail deposits
+
+1. Insured retail deposits that are in transactional accounts or where the depositors have an established relationship with the institution that make deposit withdrawal highly unlikely per Chapter 2, paragraph 56 are generally assigned a weekly run-off rate of 1.0% over each of the first four weeks and a monthly run-off rate of 0.75% over each of the subsequent eleven months. However, such deposits may be eligible for a weekly run-off rate of 0.5% over each of the first four weeks and a monthly run-off rate of 0.75% over each of the subsequent eleven months if the criteria outlined in Chapter 2, paragraph 59 are met.
+
+Insured retail deposits that are in transactional accounts or where the depositors have an established relationship with the institution that make deposit withdrawal highly unlikely per Chapter 2, paragraph 56 are generally assigned a weekly run-off rate of 1.0% over each of the first four weeks and a monthly run-off rate of 0.75% over each of the subsequent eleven months. However, such deposits may be eligible for a weekly run-off rate of 0.5% over each of the first four weeks and a monthly run-off rate of 0.75% over each of the subsequent eleven months if the criteria outlined in Chapter 2, paragraph 59 are met.
+
+#### Less stable retail deposits
+
+1. Demand deposits where an unaffiliated third-party directly manages the funds are assigned a weekly run-off rate of 7.5% over each of the first four weeks and a monthly run-off rate of 10% over each of the subsequent eleven months.
+2. Term deposits directly managed by an unaffiliated third party that are maturing or cashables in the next four weeks are assigned a weekly run-off rate of 5% over each of the first four weeks and a monthly run-off rate of 7.5% over each of the subsequent eleven months.
+3. Rate sensitive deposits (RSD) where the client directly manages the funds and where the client does not have an established relationship with the institution and the account is not transactional are assigned a weekly run-off rate of 3.75% over each of the first four weeks and a monthly run-off rate of 3.75% over each of the subsequent eleven months.
+4. Rate sensitive deposits where the client directly manages the funds and where the client has an established relationship with the institution or the account is transactional are assigned a weekly run-off rate of 1.25% over each of the first four weeks and a monthly run-off rate of 3.75% over each of the subsequent eleven months.
+5. Insured retail deposits that are not in transactional accounts or where the depositors do not have other established relationships with the institution that make deposit withdrawal highly unlikely are assigned a weekly run-off rate of 1.25% over each of the first four weeks and a monthly run-off rate of 2.5% over each of the subsequent eleven months.
+6. Uninsured retail deposits are assigned a weekly run-off rate of 1.25% over each of the first four weeks and a monthly run-off rate of 3.75% over each of the subsequent eleven months.
+
+Demand deposits where an unaffiliated third-party directly manages the funds are assigned a weekly run-off rate of 7.5% over each of the first four weeks and a monthly run-off rate of 10% over each of the subsequent eleven months.
+
+Term deposits directly managed by an unaffiliated third party that are maturing or cashables in the next four weeks are assigned a weekly run-off rate of 5% over each of the first four weeks and a monthly run-off rate of 7.5% over each of the subsequent eleven months.
+
+Rate sensitive deposits (RSD) where the client directly manages the funds and where the client does not have an established relationship with the institution and the account is not transactional are assigned a weekly run-off rate of 3.75% over each of the first four weeks and a monthly run-off rate of 3.75% over each of the subsequent eleven months.
+
+Rate sensitive deposits where the client directly manages the funds and where the client has an established relationship with the institution or the account is transactional are assigned a weekly run-off rate of 1.25% over each of the first four weeks and a monthly run-off rate of 3.75% over each of the subsequent eleven months.
+
+Insured retail deposits that are not in transactional accounts or where the depositors do not have other established relationships with the institution that make deposit withdrawal highly unlikely are assigned a weekly run-off rate of 1.25% over each of the first four weeks and a monthly run-off rate of 2.5% over each of the subsequent eleven months.
+
+Uninsured retail deposits are assigned a weekly run-off rate of 1.25% over each of the first four weeks and a monthly run-off rate of 3.75% over each of the subsequent eleven months.
+
+#### Wholesale funding
+
+1. Unsecured wholesale funding is defined as those liabilities and general obligations that are raised from non-natural persons (i.e. legal entities, including sole proprietorships and partnerships) and are not collateralized by legal rights to specifically designated assets owned by the borrowing institution in the case of bankruptcy, insolvency, liquidation or resolution.
+2. Unsecured wholesale funding provided by small business customers is treated the same way as retail, effectively distinguishing between a “stable” portion of funding provided by small business customers and different buckets of “less stable” funding. The same bucket definitions and associated run-off factors apply as for retail deposits.
+3. All non-small business customer unsecured term wholesale funding is assumed to run-off at 100% at contractual maturity, with the exception of term deposits from non-financial corporates, sovereigns, central banks, multilateral development banks, and PSE customers, which are assumed to run-off at 40% at contractual maturity. These term deposits will be assumed to renew with a 30-day maturity, net of the 40% run-off rate at contractual maturity. For deposits with enforceable notification periods, where the client has provided the institution a withdrawal notification of the funds, a 100% run-off rate will be applied to these amounts.
+
+Unsecured wholesale funding is defined as those liabilities and general obligations that are raised from non-natural persons (i.e. legal entities, including sole proprietorships and partnerships) and are not collateralized by legal rights to specifically designated assets owned by the borrowing institution in the case of bankruptcy, insolvency, liquidation or resolution.
+
+Unsecured wholesale funding provided by small business customers is treated the same way as retail, effectively distinguishing between a “stable” portion of funding provided by small business customers and different buckets of “less stable” funding. The same bucket definitions and associated run-off factors apply as for retail deposits.
+
+All non-small business customer unsecured term wholesale funding is assumed to run-off at 100% at contractual maturity, with the exception of term deposits from non-financial corporates, sovereigns, central banks, multilateral development banks, and PSE customers, which are assumed to run-off at 40% at contractual maturity. These term deposits will be assumed to renew with a 30-day maturity, net of the 40% run-off rate at contractual maturity. For deposits with enforceable notification periods, where the client has provided the institution a withdrawal notification of the funds, a 100% run-off rate will be applied to these amounts.
+
+#### Operational deposits
+
+1. For unsecured demand wholesale funding provided by non-small business customers, where the institution has operational deposits generated by clearing, custody and cash management activities that meet the criteria outlined in Chapter 2, paragraphs 73 to 83, these deposits are generally assigned a weekly run-off factor of 2.5% for each of the first four weeks and a monthly run-off rate of 5% over each of the subsequent eleven months, regardless of the counterparty type.
+2. Exceptions to the treatment prescribed in paragraph 59, relate to the portion of operational deposits generated by clearing, custody and cash management activities that is fully covered by deposit insurance, which can receive one of the following treatments: A weekly run-off rate of 0.75% for each of the first four weeks and a monthly run-off rate of 3% over each of the subsequent eleven months if the jurisdiction where the deposit is located permits use of the 3% run-off factor under the LCR for certain insured retail deposits per Chapter 2, paragraph 59; A weekly run-off rate of 1.25% for each of the first four weeks and a monthly run-off rate of 5% over each of the subsequent eleven months if the jurisdiction where the deposit is located does not permit use of the 3% run-off factor under the LCR for certain insured retail deposits.
+
+For unsecured demand wholesale funding provided by non-small business customers, where the institution has operational deposits generated by clearing, custody and cash management activities that meet the criteria outlined in Chapter 2, paragraphs 73 to 83, these deposits are generally assigned a weekly run-off factor of 2.5% for each of the first four weeks and a monthly run-off rate of 5% over each of the subsequent eleven months, regardless of the counterparty type.
+
+Exceptions to the treatment prescribed in paragraph 59, relate to the portion of operational deposits generated by clearing, custody and cash management activities that is fully covered by deposit insurance, which can receive one of the following treatments:
+
+- A weekly run-off rate of 0.75% for each of the first four weeks and a monthly run-off rate of 3% over each of the subsequent eleven months if the jurisdiction where the deposit is located permits use of the 3% run-off factor under the LCR for certain insured retail deposits per Chapter 2, paragraph 59;
+- A weekly run-off rate of 1.25% for each of the first four weeks and a monthly run-off rate of 5% over each of the subsequent eleven months if the jurisdiction where the deposit is located does not permit use of the 3% run-off factor under the LCR for certain insured retail deposits.
+
+#### Other non-operational demand deposits
+
+1. All demand deposits and other extensions of unsecured funding from non-financial corporate customers (that are not categorised as small business customers) and both domestic and foreign sovereign, central bank, multilateral development bank, and PSE customers that are not specifically held for operational purposes per paragraphs 59 and 60 should be assigned a weekly run-off factor of 3% for each of the first four weeks and a monthly run-off rate of 10% over each of the subsequent eleven months.
+2. An exception to the treatment prescribed for non-operational deposits in paragraph 61 relates to unsecured demand wholesale funding provided by non-financial corporate customers, sovereigns, central banks, multilateral development banks, and PSEs without operational relationships if the entire amount of the deposit is fully covered by an effective deposit insurance scheme (as defined in Chapter 2, paragraph 57) or by a public guarantee that provides equivalent protection. In such cases, the deposits should be assigned a weekly run-off factor of 3% for each of the first four weeks and a monthly run-off rate of 5% over each of the subsequent eleven months.
+3. All demand deposits and other funding from other institutions (including banks, securities firms, insurance companies, etc.), fiduciaries Footnote 4 , beneficiaries Footnote 5 , conduits and special purpose vehicles, affiliated entities of the institution and other entities that are not specifically held for operational purposes (as defined above) and not included in the above categories are assumed to run-off evenly and in full over the first four weeks.
+
+All demand deposits and other extensions of unsecured funding from non-financial corporate customers (that are not categorised as small business customers) and both domestic and foreign sovereign, central bank, multilateral development bank, and PSE customers that are not specifically held for operational purposes per paragraphs 59 and 60 should be assigned a weekly run-off factor of 3% for each of the first four weeks and a monthly run-off rate of 10% over each of the subsequent eleven months.
+
+An exception to the treatment prescribed for non-operational deposits in paragraph 61 relates to unsecured demand wholesale funding provided by non-financial corporate customers, sovereigns, central banks, multilateral development banks, and PSEs without operational relationships if the entire amount of the deposit is fully covered by an effective deposit insurance scheme (as defined in Chapter 2, paragraph 57) or by a public guarantee that provides equivalent protection. In such cases, the deposits should be assigned a weekly run-off factor of 3% for each of the first four weeks and a monthly run-off rate of 5% over each of the subsequent eleven months.
+
+All demand deposits and other funding from other institutions (including banks, securities firms, insurance companies, etc.), fiduciaries Footnote 4 , beneficiaries Footnote 5 , conduits and special purpose vehicles, affiliated entities of the institution and other entities that are not specifically held for operational purposes (as defined above) and not included in the above categories are assumed to run-off evenly and in full over the first four weeks.
+
+#### Off-balance sheet items
+
+1. Institutions should consider cash outflows stemming from off-balance items. Credit and liquidity facilities are defined as explicit contractual agreements or obligations to extend funds at a future date to retail or wholesale counterparties. For purposes of the NCCF, these facilities include contractually irrevocable (“committed”) or conditionally revocable agreements to extend funds in the future to third parties, as well as unconditionally revocable "uncommitted" credit and liquidity facilities.
+2. For the purposes of this standard, the currently undrawn portion of these facilities is calculated net of any EULA, if: (i) the EULA have already been posted as collateral by the counterparty to secure the facilities or there is a contractual obligation to post EULA as collateral when the counterparty will draw down the facility (e.g. a liquidity facility structured as a repo facility), (ii) if the institution is legally entitled and operationally capable to re-use the collateral in new cash raising transactions once the facility is drawn, and (iii) there is no undue correlation between the probability of drawing the facility and the market value of the collateral. The collateral can be netted against the outstanding amount of the facility to the extent that this collateral is not already counted in the stock of EULA, in line with the principle that items cannot be double-counted.
+3. A liquidity facility is defined as any committed, undrawn back-up facility that would be utilised to refinance the debt obligations of a customer in situations where such a customer is unable to rollover that debt in financial markets (e.g. pursuant to a commercial paper programme, secured financing transactions, obligations to redeem units, etc.). For the purpose of the NCCF, for asset-backed commercial paper liquidity facilities, the amount of the commitment to be treated as a liquidity facility is the amount of the currently outstanding debt issued by the customer (or proportionate share, if a syndicated facility) maturing within a 30 day period that is backstopped by the facility. The portion of a liquidity facility that is backing debt that does not mature within the 30-day window is excluded from the scope of the definition of a facility. Any additional capacity of the facility (i.e. the remaining commitment) would be treated as a committed credit facility with its associated drawdown rate as specified in paragraph 68. General working capital facilities for corporate entities (e.g. revolving credit facilities in place for general corporate or working capital purposes) will not be classified as liquidity facilities, but as credit facilities.
+4. Credit and liquidity facilities to retail and small business customers are expected to be drawn on week 1, or on the earliest contractual date Footnote 6 , after which time the balance is assumed to remain stable (i.e. no inflow due to reimbursement), according to the following rates: 0% for facilities extended to transactors, defined as i) obligors in relation to facilities such as credit cards and charge cards with an interest free grace period, where the accrued interest over the previous 12 months is less than $50, or ii) obligors in relation to overdraft facilities or lines of credit if there has been no drawdown over the previous 12 months Footnote 7 ; 2% for other uncommitted facilities (i.e. those that do not qualify for the 0% rate); and, 5% for other committed facilities.
+5. Committed credit facilities to other customers are expected to be drawn on week 1, or on the earliest contractual date, after which time the balance is assumed to remain stable (i.e. no inflow due to reimbursement), according to the following rates: Under the Streamlined NCCF, a 10% outflow rate will be assigned to the undrawn amount of facilities extended to non-financial corporates; Under the Comprehensive NCCF, for facilities extended to non-financial corporates, the following rates will be applicable to undrawn amounts: Where the counterparty is considered a corporate client, defined as a corporate belonging to a group with consolidated annual revenues greater than CAD $750 million Footnote 8 : 5% if the institution provides services to the counterparty that generate operational deposits, i.e. has an operational relationship, as described in paragraph 59; and 15% otherwise. Where the facilities are not subject to the outflow rates in sub-paragraph b.1. above: 5% if the institution provides services to the counterparty that generate operational deposits, i.e. has an operational relationship as described in paragraph 59; and 10% otherwise. 10% for facilities extended to sovereigns and central banks, PSEs, and multilateral development banks; 40% for facilities extended to deposit-taking institutions subject to prudential supervision; 40% for facilities extended to other financial institutions including securities firms, insurance companies, fiduciaries Footnote 9 , and beneficiaries Footnote 10 ; 100% to other legal entities (including SPEs Footnote 11 , conduits and special purpose vehicles, and other entities not included in the prior categories).
+6. Uncommitted credit facilities to other customers are expected to be drawn on week 1, at a rate of 5%, or on the earliest contractual date, after which time the balance is assumed to remain stable (i.e. no inflow due to reimbursement).
+7. Committed liquidity facilities to other customers are expected to be drawn on week 1, or on the earliest contractual date, after which time the balance is assumed to remain stable (i.e. no inflow due to reimbursement), according to the following rates: 30% for facilities extended to non-financial corporates, sovereigns and central banks, PSEs, and multilateral development banks; 40% for facilities extended to deposit-taking institutions subject to prudential supervision; 100% for facilities to other financial institutions including securities firms, insurance companies, fiduciaries, and beneficiaries; 100% for liquidity facilities for Asset Backed Commercial Paper for maturities within 30 days and the unutilized capacity that can be drawn within 30 days (i.e. 0% otherwise); 100% for facilities to other legal entities (including SPEs, conduits and special purpose vehicles, and other entities not included in prior categories).
+8. Uncommitted liquidity facilities to other customers are expected to be drawn on week 1, at a rate of 5%, after which time the balance is assumed to remain stable (i.e. no inflow due to reimbursement).
+9. Obligations stemming from trade finance instruments are expected to result in outflows on week 1, at a rate of 3%. Trade finance instruments consist of trade-related obligations directly underpinned by the movement of goods or the provision of services, such as: Documentary trade letters of credit, documentary and clean collection, import bills, and export bills; and Guarantees directly related to trade finance obligations, such as shipping guarantees.
+10. Other guarantees and letters of credit unrelated to trade finance obligations (i.e. that do not fall under the scope of paragraph 72), are expected to generate outflows on week 1, equivalent to 5% of the obligations.
+11. Balances related to on-balance sheet liabilities not mentioned above are to be reported in the NCCF, but no cash outflow value is attributed to them.
+12. Table 1 and 2 present, respectively, the summarized treatment of unsecured funding by counterparty and deposit types and the summarized treatment of credit and liquidity facilities.
+
+Institutions should consider cash outflows stemming from off-balance items. Credit and liquidity facilities are defined as explicit contractual agreements or obligations to extend funds at a future date to retail or wholesale counterparties. For purposes of the NCCF, these facilities include contractually irrevocable (“committed”) or conditionally revocable agreements to extend funds in the future to third parties, as well as unconditionally revocable "uncommitted" credit and liquidity facilities.
+
+For the purposes of this standard, the currently undrawn portion of these facilities is calculated net of any EULA, if: (i) the EULA have already been posted as collateral by the counterparty to secure the facilities or there is a contractual obligation to post EULA as collateral when the counterparty will draw down the facility (e.g. a liquidity facility structured as a repo facility), (ii) if the institution is legally entitled and operationally capable to re-use the collateral in new cash raising transactions once the facility is drawn, and (iii) there is no undue correlation between the probability of drawing the facility and the market value of the collateral. The collateral can be netted against the outstanding amount of the facility to the extent that this collateral is not already counted in the stock of EULA, in line with the principle that items cannot be double-counted.
+
+A liquidity facility is defined as any committed, undrawn back-up facility that would be utilised to refinance the debt obligations of a customer in situations where such a customer is unable to rollover that debt in financial markets (e.g. pursuant to a commercial paper programme, secured financing transactions, obligations to redeem units, etc.). For the purpose of the NCCF, for asset-backed commercial paper liquidity facilities, the amount of the commitment to be treated as a liquidity facility is the amount of the currently outstanding debt issued by the customer (or proportionate share, if a syndicated facility) maturing within a 30 day period that is backstopped by the facility. The portion of a liquidity facility that is backing debt that does not mature within the 30-day window is excluded from the scope of the definition of a facility. Any additional capacity of the facility (i.e. the remaining commitment) would be treated as a committed credit facility with its associated drawdown rate as specified in paragraph 68. General working capital facilities for corporate entities (e.g. revolving credit facilities in place for general corporate or working capital purposes) will not be classified as liquidity facilities, but as credit facilities.
+
+Credit and liquidity facilities to retail and small business customers are expected to be drawn on week 1, or on the earliest contractual date Footnote 6 , after which time the balance is assumed to remain stable (i.e. no inflow due to reimbursement), according to the following rates:
+
+1. 0% for facilities extended to transactors, defined as i) obligors in relation to facilities such as credit cards and charge cards with an interest free grace period, where the accrued interest over the previous 12 months is less than $50, or ii) obligors in relation to overdraft facilities or lines of credit if there has been no drawdown over the previous 12 months Footnote 7 ;
+2. 2% for other uncommitted facilities (i.e. those that do not qualify for the 0% rate); and,
+3. 5% for other committed facilities.
+
+Committed credit facilities to other customers are expected to be drawn on week 1, or on the earliest contractual date, after which time the balance is assumed to remain stable (i.e. no inflow due to reimbursement), according to the following rates:
+
+1. Under the Streamlined NCCF, a 10% outflow rate will be assigned to the undrawn amount of facilities extended to non-financial corporates;
+2. Under the Comprehensive NCCF, for facilities extended to non-financial corporates, the following rates will be applicable to undrawn amounts: Where the counterparty is considered a corporate client, defined as a corporate belonging to a group with consolidated annual revenues greater than CAD $750 million Footnote 8 : 5% if the institution provides services to the counterparty that generate operational deposits, i.e. has an operational relationship, as described in paragraph 59; and 15% otherwise. Where the facilities are not subject to the outflow rates in sub-paragraph b.1. above: 5% if the institution provides services to the counterparty that generate operational deposits, i.e. has an operational relationship as described in paragraph 59; and 10% otherwise.
+3. 10% for facilities extended to sovereigns and central banks, PSEs, and multilateral development banks;
+4. 40% for facilities extended to deposit-taking institutions subject to prudential supervision;
+5. 40% for facilities extended to other financial institutions including securities firms, insurance companies, fiduciaries Footnote 9 , and beneficiaries Footnote 10 ;
+6. 100% to other legal entities (including SPEs Footnote 11 , conduits and special purpose vehicles, and other entities not included in the prior categories).
+
+1. Where the counterparty is considered a corporate client, defined as a corporate belonging to a group with consolidated annual revenues greater than CAD $750 million Footnote 8 : 5% if the institution provides services to the counterparty that generate operational deposits, i.e. has an operational relationship, as described in paragraph 59; and 15% otherwise.
+2. Where the facilities are not subject to the outflow rates in sub-paragraph b.1. above: 5% if the institution provides services to the counterparty that generate operational deposits, i.e. has an operational relationship as described in paragraph 59; and 10% otherwise.
+
+1. 5% if the institution provides services to the counterparty that generate operational deposits, i.e. has an operational relationship, as described in paragraph 59; and
+2. 15% otherwise.
+
+1. 5% if the institution provides services to the counterparty that generate operational deposits, i.e. has an operational relationship as described in paragraph 59; and
+2. 10% otherwise.
+
+Uncommitted credit facilities to other customers are expected to be drawn on week 1, at a rate of 5%, or on the earliest contractual date, after which time the balance is assumed to remain stable (i.e. no inflow due to reimbursement).
+
+Committed liquidity facilities to other customers are expected to be drawn on week 1, or on the earliest contractual date, after which time the balance is assumed to remain stable (i.e. no inflow due to reimbursement), according to the following rates:
+
+1. 30% for facilities extended to non-financial corporates, sovereigns and central banks, PSEs, and multilateral development banks;
+2. 40% for facilities extended to deposit-taking institutions subject to prudential supervision;
+3. 100% for facilities to other financial institutions including securities firms, insurance companies, fiduciaries, and beneficiaries;
+4. 100% for liquidity facilities for Asset Backed Commercial Paper for maturities within 30 days and the unutilized capacity that can be drawn within 30 days (i.e. 0% otherwise);
+5. 100% for facilities to other legal entities (including SPEs, conduits and special purpose vehicles, and other entities not included in prior categories).
+
+Uncommitted liquidity facilities to other customers are expected to be drawn on week 1, at a rate of 5%, after which time the balance is assumed to remain stable (i.e. no inflow due to reimbursement).
+
+Obligations stemming from trade finance instruments are expected to result in outflows on week 1, at a rate of 3%. Trade finance instruments consist of trade-related obligations directly underpinned by the movement of goods or the provision of services, such as:
+
+- Documentary trade letters of credit, documentary and clean collection, import bills, and export bills; and
+- Guarantees directly related to trade finance obligations, such as shipping guarantees.
+
+Other guarantees and letters of credit unrelated to trade finance obligations (i.e. that do not fall under the scope of paragraph 72), are expected to generate outflows on week 1, equivalent to 5% of the obligations.
+
+Balances related to on-balance sheet liabilities not mentioned above are to be reported in the NCCF, but no cash outflow value is attributed to them.
+
+Table 1 and 2 present, respectively, the summarized treatment of unsecured funding by counterparty and deposit types and the summarized treatment of credit and liquidity facilities.
+
+**Table 1**
+
+| Paragraph | Deposit type | Weekly run-off rate (first month) | Monthly run-off rate (months 2 to 12) Table 1 Footnote 1 |
+| --- | --- | --- | --- |
+| 49, 57 | Insured retail and small business – stable (demand and term deposits): |  |  |
+| Where criteria outlined in Chapter 2, paragraph 59 are met | 0.50% | 0.75% |  |
+| Where criteria outlined in Chapter 2, paragraph 59 are not met | 1.00% | 0.75% |  |
+| 50, 57 | Demand deposits – funds managed by unaffiliated third party | 7.5% | 10% |
+| 51, 57 | Term deposits (maturing or cashable in next 4 weeks) managed by unaffiliated third party | 5% | 7.5% |
+| 52, 57 | RSD – client managed, no relationship, account not transactional | 3.75% | 3.75% |
+| 53, 57 | RSD – client managed, established relationship or account transactional | 1.25% | 3.75% |
+| 54, 57 | Insured retail and small business – not a transactional account or no relationships | 1.25% | 2.5% |
+| 55, 57 | Uninsured retail and small business (demand and term deposits) | 1.25% | 3.75% |
+| 58 | Unsecured wholesale term funding: |  |  |
+| Term deposits from non-financial corporates, sovereigns, central banks, multilateral development banks, and PSE customers | 40% at maturity | 40% at maturity |  |
+| All other non-small business customers | 100% at maturity | 100% at maturity |  |
+| 59, 60 | Non-financial corporates, sovereigns, central banks, PSEs, MDBs, other FIs and other legal entities – operational deposits: |  |  |
+| Where the deposit is not fully covered by deposit insurance | 2.5% | 5% |  |
+| Where the deposit is fully covered by deposit insurance and jurisdiction where the deposit is located permits a 3% run-off factor | 0.75% | 3% |  |
+| Where the deposit is fully covered by deposit insurance and jurisdiction where the deposit is located does not permit a 3% run-off factor | 1.25% | 5% |  |
+| 61, 62 | Non-financial corporates, sovereigns, central banks, PSEs and MDBs – non-operational deposits: |  |  |
+| Where the deposit is not covered by an effective deposit insurance scheme or public guarantee | 3% | 10% |  |
+| Where the deposit is covered by an effective deposit insurance scheme or public guarantee | 3% | 5% |  |
+| 63 | All other counterparties (including other FIs and other legal entities) – non-operational deposits | 100% (equally runoff over 4 weeks) | n/a |
+| Table 1 Footnotes Table 1 Footnote 1 Note that there should be no run-off beyond 100% of the original balance of any existing liability in the NCCF, and balances should be run-off on a declining balance basis. Return to table 1 footnote 1 referrer |  |  |  |
+
+- Where criteria outlined in Chapter 2, paragraph 59 are met
+
+- Where criteria outlined in Chapter 2, paragraph 59 are not met
+
+- Term deposits from non-financial corporates, sovereigns, central banks, multilateral development banks, and PSE customers
+
+- All other non-small business customers
+
+- Where the deposit is not fully covered by deposit insurance
+
+- Where the deposit is fully covered by deposit insurance and jurisdiction where the deposit is located permits a 3% run-off factor
+
+- Where the deposit is fully covered by deposit insurance and jurisdiction where the deposit is located does not permit a 3% run-off factor
+
+- Where the deposit is not covered by an effective deposit insurance scheme or public guarantee
+
+- Where the deposit is covered by an effective deposit insurance scheme or public guarantee
+
+Table 1 Footnotes Table 1 Footnote 1 Note that there should be no run-off beyond 100% of the original balance of any existing liability in the NCCF, and balances should be run-off on a declining balance basis. Return to table 1 footnote 1 referrer
+
+Table 1 Footnotes
+
+Note that there should be no run-off beyond 100% of the original balance of any existing liability in the NCCF, and balances should be run-off on a declining balance basis.
+
+Return to table 1 footnote 1 referrer
+
+**Table 2**
+
+| Paragraph | Commitment type | Outflow rate (week 1 or earliest contractual date) |
+| --- | --- | --- |
+| 67 | Credit and liquidity facilities to retail and small business customers: |  |
+| Facilities extended to transactors | 0% |  |
+| Other uncommitted facilities | 2% |  |
+| Other committed facilities | 5% |  |
+| 68 | Committed credit facilities to non-financial corporates: |  |
+| Streamlined NCCF | 10% |  |
+| Comprehensive NCCF, where the customer is a corporate client: Absence of an operational relationship | 15% |  |
+| Comprehensive NCCF, where the customer is a corporate client: Presence of an operational relationship | 5% |  |
+| Comprehensive NCCF, where the customer is a commercial client: Absence of an operational relationship | 10% |  |
+| Comprehensive NCCF, where the customer is a commercial client: Presence of an operational relationship | 5% |  |
+| 68 | Committed credit facilities to other customers, where the counterparties are: |  |
+| Sovereigns, central banks, PSEs and multilateral development banks | 10% |  |
+| Deposit-taking institutions subject to prudential supervision | 40% |  |
+| Other financial institutions including securities firms, insurance companies, fiduciaries and beneficiaries | 40% |  |
+| Other legal entities (including SPEs, conduits and special purpose vehicles, and other entities not included in prior categories) | 100% |  |
+| 69 | Uncommitted credit facilities to non-retail and non-small business customers | 5% |
+| 70 | Committed liquidity facilities to non-retail and non-small business customers, where the counterparties are: |  |
+| Non-financial corporates, sovereigns and central banks, PSEs, and multilateral development banks | 30% |  |
+| Deposit-taking institutions subject to prudential supervision | 40% |  |
+| Other financial institutions including securities firms, insurance companies, fiduciaries, and beneficiaries | 100% |  |
+| For liquidity facilities backstopping ABCPs: for maturities within 30 days and unutilized capacity that can be drawn within 30 days | 100% |  |
+| Other legal entities (including SPEs, conduits and special purpose vehicles, and other entities not included in prior categories). | 100% |  |
+| 71 | Uncommitted liquidity facilities to non-retail and non-small business customers | 5% |
+| 72 | Trade finance instruments | 3% |
+| 73 | Other guarantees and letters of credit unrelated to trade finance obligations | 5% |
+
+- Facilities extended to transactors
+
+- Other uncommitted facilities
+
+- Other committed facilities
+
+- Streamlined NCCF
+
+- Comprehensive NCCF, where the customer is a corporate client: Absence of an operational relationship
+
+- Comprehensive NCCF, where the customer is a corporate client: Presence of an operational relationship
+
+- Comprehensive NCCF, where the customer is a commercial client: Absence of an operational relationship
+
+- Comprehensive NCCF, where the customer is a commercial client: Presence of an operational relationship
+
+- Sovereigns, central banks, PSEs and multilateral development banks
+
+- Deposit-taking institutions subject to prudential supervision
+
+- Other financial institutions including securities firms, insurance companies, fiduciaries and beneficiaries
+
+- Other legal entities (including SPEs, conduits and special purpose vehicles, and other entities not included in prior categories)
+
+- Non-financial corporates, sovereigns and central banks, PSEs, and multilateral development banks
+
+- Deposit-taking institutions subject to prudential supervision
+
+- Other financial institutions including securities firms, insurance companies, fiduciaries, and beneficiaries
+
+- For liquidity facilities backstopping ABCPs: for maturities within 30 days and unutilized capacity that can be drawn within 30 days
+
+- Other legal entities (including SPEs, conduits and special purpose vehicles, and other entities not included in prior categories).
+
+> *Footnotes Footnote 1 Refer to Chapter 1 for the scope of application for federally regulated deposit taking institutions that are themselves subsidiaries, and that have a parent that is either a DSIB or a foreign bank subsidiary. Return to footnote 1 Footnote 2 Cash flows related to days 29, 30 and 31 of a given month should be reported in the week 4 bucket and applied the weekly run-off rate assigned to week 4 cash flows. Cash flows related to the remaining days of week 5 should be reported in the month 2 bucket and applied the monthly run-off rate assigned to month 2 flows. Return to footnote 2 Footnote 3 Where financing is arranged though structured investment vehicles, financial institutions should consider the inability to refinance maturing debt during liquidity crises. Return to footnote 3 Footnote 4 Fiduciary is defined in this context as a legal entity that is authorised to manage assets on behalf of a third party. Fiduciaries include asset management entities such as pension funds and other collective investment vehicles. Return to footnote 4 Footnote 5 Beneficiary is defined in this context as a legal entity that receives, or may become eligible to receive, benefits under a will, insurance policy, retirement plan, annuity, trust, or other contract. Return to footnote 5 Footnote 6 Institutions can only recognize outflows after week 1 on the basis that the earliest contractual requirement to extend fund is longer than one week and where the institution has determined that refusing to advance funds before the end of the notice period, as requested by the customer, would not likely cause material reputational damage to the institution or otherwise impair ongoing viability. Return to footnote 6 Footnote 7 New accounts will not be deemed transactors until the account has been open for at least 12 months and the definition of a transactor is satisfied. Return to footnote 7 Footnote 8 In making the assessment for the revenue threshold, the amounts must be as reported in the audited financial statements of the corporates or, for corporates that are part of consolidated groups, their consolidated groups (according to the accounting standard applicable to the ultimate parent of the consolidated group). The figures must be based either (i) on the average amounts calculated over the prior three years, or (ii) on the latest amounts available to the institution, updated at least every three years. The classification of clients should be consistent with the classification of general corporate exposures not eligible for the AIRB approach under the CAR Guideline, as set out in CAR Chapter 5, section 5.2.2. Return to footnote 8 Footnote 9 Fiduciary is defined in this context as a legal entity that is authorised to manage assets on behalf of a third party. Fiduciaries include asset management entities such as pension funds and other collective investment vehicles. Return to footnote 9 Footnote 10 Beneficiary is defined in this context as a legal entity that receives, or may become eligible to receive, benefits under a will, insurance policy, retirement plan, annuity, trust, or other contract. Return to footnote 10 Footnote 11 A special purpose entity (SPE) is defined in the Basel Consolidated Framework (Basel CRE 40.21) as a corporation, trust, or other entity organised for a specific purpose, the activities of which are limited to those appropriate to accomplish the purpose of the SPE, and the structure of which is intended to isolate the SPE from the credit risk of an originator or seller of exposures. SPEs are commonly used as financing vehicles in which exposures are sold to a trust or similar entity in exchange for cash or other assets funded by debt issued by the trust. Return to footnote 11*
+
+## Footnotes
+
+Refer to Chapter 1 for the scope of application for federally regulated deposit taking institutions that are themselves subsidiaries, and that have a parent that is either a DSIB or a foreign bank subsidiary.
+
+Return to footnote 1
+
+Cash flows related to days 29, 30 and 31 of a given month should be reported in the week 4 bucket and applied the weekly run-off rate assigned to week 4 cash flows. Cash flows related to the remaining days of week 5 should be reported in the month 2 bucket and applied the monthly run-off rate assigned to month 2 flows.
+
+Return to footnote 2
+
+Where financing is arranged though structured investment vehicles, financial institutions should consider the inability to refinance maturing debt during liquidity crises.
+
+Return to footnote 3
+
+Fiduciary is defined in this context as a legal entity that is authorised to manage assets on behalf of a third party. Fiduciaries include asset management entities such as pension funds and other collective investment vehicles.
+
+Return to footnote 4
+
+Beneficiary is defined in this context as a legal entity that receives, or may become eligible to receive, benefits under a will, insurance policy, retirement plan, annuity, trust, or other contract.
+
+Return to footnote 5
+
+Institutions can only recognize outflows after week 1 on the basis that the earliest contractual requirement to extend fund is longer than one week and where the institution has determined that refusing to advance funds before the end of the notice period, as requested by the customer, would not likely cause material reputational damage to the institution or otherwise impair ongoing viability.
+
+Return to footnote 6
+
+New accounts will not be deemed transactors until the account has been open for at least 12 months and the definition of a transactor is satisfied.
+
+Return to footnote 7
+
+In making the assessment for the revenue threshold, the amounts must be as reported in the audited financial statements of the corporates or, for corporates that are part of consolidated groups, their consolidated groups (according to the accounting standard applicable to the ultimate parent of the consolidated group). The figures must be based either (i) on the average amounts calculated over the prior three years, or (ii) on the latest amounts available to the institution, updated at least every three years. The classification of clients should be consistent with the classification of general corporate exposures not eligible for the AIRB approach under the CAR Guideline, as set out in CAR Chapter 5, section 5.2.2.
+
+Return to footnote 8
+
+Fiduciary is defined in this context as a legal entity that is authorised to manage assets on behalf of a third party. Fiduciaries include asset management entities such as pension funds and other collective investment vehicles.
+
+Return to footnote 9
+
+Beneficiary is defined in this context as a legal entity that receives, or may become eligible to receive, benefits under a will, insurance policy, retirement plan, annuity, trust, or other contract.
+
+Return to footnote 10
+
+A special purpose entity (SPE) is defined in the Basel Consolidated Framework (Basel CRE 40.21) as a corporation, trust, or other entity organised for a specific purpose, the activities of which are limited to those appropriate to accomplish the purpose of the SPE, and the structure of which is intended to isolate the SPE from the credit risk of an originator or seller of exposures. SPEs are commonly used as financing vehicles in which exposures are sold to a trust or similar entity in exchange for cash or other assets funded by debt issued by the trust.
+
+Return to footnote 11

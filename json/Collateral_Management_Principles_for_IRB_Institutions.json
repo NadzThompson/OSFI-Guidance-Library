@@ -1,0 +1,635 @@
+{
+  "source_system": "osfi_guidance_library",
+  "library_row_title": "Collateral Management Principles for IRB Institutions",
+  "library_row_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/collateral-management-principles-irb-institutions",
+  "listing_date_raw": "January 31, 2006",
+  "listing_date_iso": "2006-01-31",
+  "listing_publication_type": "Implementation note",
+  "listing_category": "Capital Adequacy Requirements",
+  "listing_sector": [
+    "Banks",
+    "Trust and Loan Companies",
+    "Bank Holding Companies"
+  ],
+  "crawl_timestamp": "2026-03-11T00:00:00Z",
+  "detail_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/collateral-management-principles-irb-institutions",
+  "canonical_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/collateral-management-principles-irb-institutions",
+  "slug": "collateral-management-principles-irb-institutions",
+  "title": "Collateral Management Principles for IRB Institutions",
+  "publication_type": "Implementation note",
+  "category": "Capital Adequacy Requirements",
+  "document_date_raw": "January 31, 2006",
+  "document_date_iso": "2006-01-31",
+  "sector": [
+    "Banks",
+    "Trust and Loan Companies",
+    "Bank Holding Companies"
+  ],
+  "effective_date_text": "",
+  "guideline_number": "",
+  "date_modified_raw": "2006-01-31T12:00:00Z",
+  "generate_pdf_url": "https://www.osfi-bsif.gc.ca/en/print/pdf/node/460",
+  "pdf_node_id": 460,
+  "direct_pdf_url": null,
+  "has_table_of_contents": true,
+  "toc_entries": [],
+  "has_related_documents": false,
+  "related_document_links_raw": [],
+  "consultation_status_text": null,
+  "consultation_status_refers_to_version": null,
+  "page_language": "en",
+  "word_count_raw_body": 2403,
+  "doc_id": "osfi.collateral-management-principles-irb-institutions.implementation",
+  "doc_family_id": "osfi.collateral-management-principles-irb-institutions",
+  "version_id": "",
+  "version_label": "Collateral Management Principles for IRB Institutions",
+  "version_sort_key": "",
+  "parent_doc_id": null,
+  "child_doc_ids": [],
+  "is_package_page": false,
+  "is_chapter_page": false,
+  "chapter_number": null,
+  "chapter_title": null,
+  "document_order_within_family": 0,
+  "supersedes_doc_id": null,
+  "superseded_by_doc_id": null,
+  "current_version_flag": true,
+  "status": "final_current",
+  "include_in_primary_corpus": true,
+  "include_in_support_corpus": false,
+  "include_in_context_corpus": false,
+  "effective_date_start": "2006-01-31",
+  "effective_date_end": null,
+  "effective_date_fye_split": false,
+  "effective_date_oct_fye": null,
+  "effective_date_dec_fye": null,
+  "is_future_effective": false,
+  "is_rescinded": false,
+  "is_draft_or_consultation": false,
+  "rescission_date": null,
+  "consultation_closing_date": null,
+  "as_of_applicability": "2026-03-23",
+  "rule_applied": "rule_5_final_current",
+  "authority_class": "primary_normative",
+  "authority_level": 90,
+  "nova_tier": 1,
+  "prudential_weight": 1.0,
+  "is_primary_normative": true,
+  "is_supporting_interpretive": false,
+  "is_context_only": false,
+  "document_class": "implementation_note",
+  "guidance_type_normalized": "implementation_note",
+  "section_headings": [
+    {
+      "level": 2,
+      "text": "I. Introduction",
+      "id": "h2-0"
+    },
+    {
+      "level": 2,
+      "text": "II. Background",
+      "id": "h2-1"
+    },
+    {
+      "level": 2,
+      "text": "III. Principles",
+      "id": "h2-2"
+    },
+    {
+      "level": 3,
+      "text": "1. Purpose",
+      "id": "h3-3"
+    },
+    {
+      "level": 3,
+      "text": "2. Risk Management Policies and Documentation",
+      "id": "h3-4"
+    },
+    {
+      "level": 3,
+      "text": "3. Consistency of Collateral Definitions",
+      "id": "h3-5"
+    },
+    {
+      "level": 3,
+      "text": "4. Legal Certainty and Timeliness",
+      "id": "h3-6"
+    },
+    {
+      "level": 3,
+      "text": "5. Comprehensive Assessment of Risks",
+      "id": "h3-7"
+    },
+    {
+      "level": 3,
+      "text": "6. Valuations, Inspections and Verifications",
+      "id": "h3-8"
+    },
+    {
+      "level": 3,
+      "text": "7. Operational Requirements",
+      "id": "h3-9"
+    },
+    {
+      "level": 3,
+      "text": "8. Internal Reporting and Analysis",
+      "id": "h3-10"
+    },
+    {
+      "level": 3,
+      "text": "9. Disclosure",
+      "id": "h3-11"
+    },
+    {
+      "level": 2,
+      "text": "Appendix I: Policies and Procedures For Collateral Management Systems",
+      "id": "h2-12"
+    },
+    {
+      "level": 3,
+      "text": "1. Risk Management Policies",
+      "id": "h3-13"
+    },
+    {
+      "level": 3,
+      "text": "2. Collateral Definitions and Data Collection",
+      "id": "h3-14"
+    },
+    {
+      "level": 3,
+      "text": "3. Documentation of CMS",
+      "id": "h3-15"
+    },
+    {
+      "level": 3,
+      "text": "4. Valuation and Re-valuation of Collateral",
+      "id": "h3-16"
+    },
+    {
+      "level": 3,
+      "text": "5. Permissible Prior Charges on Collateral",
+      "id": "h3-17"
+    },
+    {
+      "level": 3,
+      "text": "6. Legal Certainty of Collateral",
+      "id": "h3-18"
+    },
+    {
+      "level": 3,
+      "text": "7. Interdependence between Borrower and Collateral",
+      "id": "h3-19"
+    },
+    {
+      "level": 3,
+      "text": "8. Capital Benefits of Credit Risk Mitigants",
+      "id": "h3-20"
+    },
+    {
+      "level": 3,
+      "text": "9. Internal Reporting and Analysis",
+      "id": "h3-21"
+    }
+  ],
+  "heading_path": [
+    "Collateral Management Principles for IRB Institutions"
+  ],
+  "toc_depth": 3,
+  "has_appendices": true,
+  "appendix_ids": [
+    "Appendix I"
+  ],
+  "has_tables": false,
+  "table_count": 0,
+  "has_footnotes": false,
+  "footnote_count": 0,
+  "inline_cross_references": [
+    "Guideline A-1"
+  ],
+  "quoted_external_references": [],
+  "raw_html_sha256": "365a974e373b3c6bf7bd98768661aba82f69925184df330eb929b1da48196d10",
+  "raw_pdf_sha256": null,
+  "normalized_text_sha256": null,
+  "raw_html_path": "bronze/osfi/html/final_current/collateral-management-principles-irb-institutions.html",
+  "normalized_md_path": "silver/osfi/md/final_current/collateral-management-principles-irb-institutions.md",
+  "canonical_json_path": "silver/osfi/json/final_current/collateral-management-principles-irb-institutions.json",
+  "content_source": "HTML",
+  "parser_version": "osfi-parser-v2.1.0",
+  "normalizer_version": "osfi-normalizer-v1.4.0",
+  "quality_score": 1.0,
+  "quality_flags": [],
+  "download_timestamp": "2026-03-11T00:00:00Z",
+  "enriched_timestamp": "2026-03-23T09:53:50.757388Z",
+  "sections": [
+    {
+      "heading": "I. Introduction",
+      "heading_level": 2,
+      "full_text": "This document outlines principles around Collateral Management Systems (CMS) for the purposes of approving internal risk rating systems (rating systems) for the internal ratings-based (IRB) methodology and minimum regulatory capital calculation under Chapters 4 and 5 of OSFI’s Capital Adequacy Requirements (CAR) Guideline A-1. An institution’s Banks and bank holding companies to which the Bank Act applies and federally regulated trust or loan companies to which the Trust and Loan Companies Act applies are collectively referred to as “institutions”. adherence to the broad principles outlined in this implementation note will be an important consideration in OSFI’s initial approval for IRB and ongoing use of the IRB approach.\nThis document is used to set out OSFI expectations relative to the minimum standards for IRB with respect to collateral management. It articulates principles for collateral management on the understanding that risk-based assessments will underpin each institution’s approach to collateral management. The document was written primarily with wholesale exposures in mind; changes in emphasis or content may be needed for other exposure classes and their associated risk mitigants.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "This document outlines principles around Collateral Management Systems (CMS) for the purposes of approving internal risk rating systems (rating systems) for the internal ratings-based (IRB) methodology and minimum regulatory capital calculation under Chapters 4 and 5 of OSFI’s Capital Adequacy Requirements (CAR) Guideline A-1. An institution’s Banks and bank holding companies to which the Bank Act applies and federally regulated trust or loan companies to which the Trust and Loan Companies Act applies are collectively referred to as “institutions”. adherence to the broad principles outlined in this implementation note will be an important consideration in OSFI’s initial approval for IRB and ongoing use of the IRB approach."
+        },
+        {
+          "type": "paragraph",
+          "text": "This document is used to set out OSFI expectations relative to the minimum standards for IRB with respect to collateral management. It articulates principles for collateral management on the understanding that risk-based assessments will underpin each institution’s approach to collateral management. The document was written primarily with wholesale exposures in mind; changes in emphasis or content may be needed for other exposure classes and their associated risk mitigants."
+        }
+      ]
+    },
+    {
+      "heading": "II. Background",
+      "heading_level": 2,
+      "full_text": "Sound management and effective control of the techniques and collateral used for credit risk mitigation is a fundamental component of effective risk management. Institutions will use various systems and processes to manage collateral and will need to demonstrate that they have established effective collateral management policies, procedures and methodologies for the purposes of IRB approval and ongoing use of the IRB approach. In particular, institutions will need to demonstrate that the policies and procedures are appropriate for the level of capital relief they receive from the risk mitigation techniques employed.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Sound management and effective control of the techniques and collateral used for credit risk mitigation is a fundamental component of effective risk management. Institutions will use various systems and processes to manage collateral and will need to demonstrate that they have established effective collateral management policies, procedures and methodologies for the purposes of IRB approval and ongoing use of the IRB approach. In particular, institutions will need to demonstrate that the policies and procedures are appropriate for the level of capital relief they receive from the risk mitigation techniques employed."
+        }
+      ]
+    },
+    {
+      "heading": "III. Principles",
+      "heading_level": 2,
+      "full_text": "Institutions use different techniques to mitigate credit risk. However, all institutions need to establish collateral management systems and operational procedures and processes throughout the organization that observe principles of purpose, documentation, consistency, legal certainty and timeliness, risk identification, valuation, inspection, verification, operations, and reporting. The principles governing the collateral management policies and practices should be interpreted and applied consistently throughout the organization, but the implementation processes can vary within and among institutions. OSFI’s supervisory processes to approve and monitor the ongoing use of the IRB method for the calculation of regulatory capital under CAR will include a review of adherence to the principles outlined below.\nThe term collateral management systems (CMS) refers to all the systems, methods, processes, controls, data collection and IT systems that are used in the taking, management, valuation, maintenance and realization of collateral held for credit risk mitigation purposes.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Institutions use different techniques to mitigate credit risk. However, all institutions need to establish collateral management systems and operational procedures and processes throughout the organization that observe principles of purpose, documentation, consistency, legal certainty and timeliness, risk identification, valuation, inspection, verification, operations, and reporting. The principles governing the collateral management policies and practices should be interpreted and applied consistently throughout the organization, but the implementation processes can vary within and among institutions. OSFI’s supervisory processes to approve and monitor the ongoing use of the IRB method for the calculation of regulatory capital under CAR will include a review of adherence to the principles outlined below."
+        },
+        {
+          "type": "paragraph",
+          "text": "The term collateral management systems (CMS) refers to all the systems, methods, processes, controls, data collection and IT systems that are used in the taking, management, valuation, maintenance and realization of collateral held for credit risk mitigation purposes."
+        }
+      ]
+    },
+    {
+      "heading": "1. Purpose",
+      "heading_level": 3,
+      "full_text": "In order for collateral to be recognised for regulatory capital purposes, institutions must meet all of the requirements with respect to IRB minimum standards and other qualifying criteria outlined in CAR and demonstrate adherence to the under-noted CMS principles. At a minimum, individual institutions will adopt practices appropriate to their circumstances, risk profiles and their risk assessment and business strategies.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "In order for collateral to be recognised for regulatory capital purposes, institutions must meet all of the requirements with respect to IRB minimum standards and other qualifying criteria outlined in CAR and demonstrate adherence to the under-noted CMS principles. At a minimum, individual institutions will adopt practices appropriate to their circumstances, risk profiles and their risk assessment and business strategies."
+        }
+      ]
+    },
+    {
+      "heading": "2. Risk Management Policies and Documentation",
+      "heading_level": 3,
+      "full_text": "Comprehensive collateral management principles, procedures, and processes should be incorporated or provided for institutions’ documented risk management policies.\nInstitutions should establish and maintain fully documented practices and procedures surrounding the scope, purpose, and use of the CMS, such that they can be readily understood by and be available to users and parties reviewing the material.\nAppropriate documentation will help ensure that users understand the objectives of the system and how well these objectives are met, thereby reducing the possibility that the system will be used inconsistently.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Comprehensive collateral management principles, procedures, and processes should be incorporated or provided for institutions’ documented risk management policies."
+        },
+        {
+          "type": "paragraph",
+          "text": "Institutions should establish and maintain fully documented practices and procedures surrounding the scope, purpose, and use of the CMS, such that they can be readily understood by and be available to users and parties reviewing the material."
+        },
+        {
+          "type": "paragraph",
+          "text": "Appropriate documentation will help ensure that users understand the objectives of the system and how well these objectives are met, thereby reducing the possibility that the system will be used inconsistently."
+        }
+      ]
+    },
+    {
+      "heading": "3. Consistency of Collateral Definitions",
+      "heading_level": 3,
+      "full_text": "Institutions will need to ensure consistency of definitions used throughout the organization for all collateral types to ensure that data systems capture consistent recovery rates for validation of internal loss estimates.\nDefinitions need to provide sufficient clarity to promote consistent treatment of collateral, thereby avoiding interpretive differences across different business units. To the extent that differences remain, they should be identified and supported for purposes of acceptability in the risk quantification process.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Institutions will need to ensure consistency of definitions used throughout the organization for all collateral types to ensure that data systems capture consistent recovery rates for validation of internal loss estimates."
+        },
+        {
+          "type": "paragraph",
+          "text": "Definitions need to provide sufficient clarity to promote consistent treatment of collateral, thereby avoiding interpretive differences across different business units. To the extent that differences remain, they should be identified and supported for purposes of acceptability in the risk quantification process."
+        }
+      ]
+    },
+    {
+      "heading": "4. Legal Certainty and Timeliness",
+      "heading_level": 3,
+      "full_text": "Institutions’ collateral management systems should ensure that all necessary steps have been taken to fulfill legal requirements to secure an institution’s interest in the collateral, so that it has and maintains an enforceable security interest.\nAll documentation used in collateralizing a transaction should be binding on all parties and legally enforceable in all relevant jurisdictions. Institutions should have conducted sufficient legal review to verify this conclusion, should have a well-founded legal basis for this conclusion, and should re-conduct such a review, as necessary, to ensure continuing legal enforceability. For example, such a review may include an institution’s current practices, including reviews of standardized forms. An institution’s documentation and policies should ensure that it has the right to legally take control, liquidate or otherwise deal with the collateral in a timely fashion.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Institutions’ collateral management systems should ensure that all necessary steps have been taken to fulfill legal requirements to secure an institution’s interest in the collateral, so that it has and maintains an enforceable security interest."
+        },
+        {
+          "type": "paragraph",
+          "text": "All documentation used in collateralizing a transaction should be binding on all parties and legally enforceable in all relevant jurisdictions. Institutions should have conducted sufficient legal review to verify this conclusion, should have a well-founded legal basis for this conclusion, and should re-conduct such a review, as necessary, to ensure continuing legal enforceability. For example, such a review may include an institution’s current practices, including reviews of standardized forms. An institution’s documentation and policies should ensure that it has the right to legally take control, liquidate or otherwise deal with the collateral in a timely fashion."
+        }
+      ]
+    },
+    {
+      "heading": "5. Comprehensive Assessment of Risks",
+      "heading_level": 3,
+      "full_text": "Institutions will need to have policies and procedures to manage relevant and material risks that may arise from the use of collateral to mitigate credit risk.\nInstitutions should have clear definitions of the types of risks that arise in respect of collateral management and the associated processes and procedures used to manage these risks.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Institutions will need to have policies and procedures to manage relevant and material risks that may arise from the use of collateral to mitigate credit risk."
+        },
+        {
+          "type": "paragraph",
+          "text": "Institutions should have clear definitions of the types of risks that arise in respect of collateral management and the associated processes and procedures used to manage these risks."
+        }
+      ]
+    },
+    {
+      "heading": "6. Valuations, Inspections and Verifications",
+      "heading_level": 3,
+      "full_text": "Institutions’ policies should explicitly define how and when to value, re-value, inspect, and verify collateral.\nCollateral valuation estimates should be conservative to allow for the imprecision inherent in most collateral value estimates, particularly where there is no readily available market value.\nDifferent asset types, collateral types and borrowers’ risk profiles may require different processes and procedures for valuation, frequency of evaluation (and re-evaluation), and inspection and verification. Institutions’ policies should explicitly document and define the requirements for each process and the rationale for the approach adopted. Mark-to-market policies and procedures for financial collateral must be explicit and incorporate suitable control mechanisms.\nCertain collateral types may require periodic verification and/or physical examination. Consequently, institutions should establish policies and procedures around these activities and track the application of these requirements to ensure consistency of application and control.\nInstitutions should document appropriate early warning indicators for various collateral types, where they find such indicators appropriate and provide the action requirements to be followed as a result of material changes to collateral value. Institutions should document their processes around the design and review of what they consider appropriate early warning indicators for various collateral types. In addition, institutions should document the associated action requirements that should be followed as a result of material changes to these early warning signals.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Institutions’ policies should explicitly define how and when to value, re-value, inspect, and verify collateral."
+        },
+        {
+          "type": "paragraph",
+          "text": "Collateral valuation estimates should be conservative to allow for the imprecision inherent in most collateral value estimates, particularly where there is no readily available market value."
+        },
+        {
+          "type": "paragraph",
+          "text": "Different asset types, collateral types and borrowers’ risk profiles may require different processes and procedures for valuation, frequency of evaluation (and re-evaluation), and inspection and verification. Institutions’ policies should explicitly document and define the requirements for each process and the rationale for the approach adopted. Mark-to-market policies and procedures for financial collateral must be explicit and incorporate suitable control mechanisms."
+        },
+        {
+          "type": "paragraph",
+          "text": "Certain collateral types may require periodic verification and/or physical examination. Consequently, institutions should establish policies and procedures around these activities and track the application of these requirements to ensure consistency of application and control."
+        },
+        {
+          "type": "paragraph",
+          "text": "Institutions should document appropriate early warning indicators for various collateral types, where they find such indicators appropriate and provide the action requirements to be followed as a result of material changes to collateral value. Institutions should document their processes around the design and review of what they consider appropriate early warning indicators for various collateral types. In addition, institutions should document the associated action requirements that should be followed as a result of material changes to these early warning signals."
+        }
+      ]
+    },
+    {
+      "heading": "7. Operational Requirements",
+      "heading_level": 3,
+      "full_text": "Institutions should examine all relevant and material data to ensure a complete collateral data set for the purposes of assessing the risk-mitigation benefits of collateral and developing internal loss estimates.\nThe examination of relevant and material data should include a review of a variety of data such as the collateral type, the loan to value parameters, the historical collateral values by obligor, the valuation and revaluation criteria, the collection costs tied to loans, the physical location of collateral (where applicable), and the associated recovery rates.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Institutions should examine all relevant and material data to ensure a complete collateral data set for the purposes of assessing the risk-mitigation benefits of collateral and developing internal loss estimates."
+        },
+        {
+          "type": "paragraph",
+          "text": "The examination of relevant and material data should include a review of a variety of data such as the collateral type, the loan to value parameters, the historical collateral values by obligor, the valuation and revaluation criteria, the collection costs tied to loans, the physical location of collateral (where applicable), and the associated recovery rates."
+        }
+      ]
+    },
+    {
+      "heading": "8. Internal Reporting and Analysis",
+      "heading_level": 3,
+      "full_text": "Institutions will need to ensure that the internal reporting and analysis capability of the CMS supports key risk identification and mitigation and can therefore be used to inform risk management.\nIn addition to analysis of loss and recovery experience, the system must include internal reporting and analysis capabilities in order to provide ongoing support to the risk management process (see Appendix I.9).",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Institutions will need to ensure that the internal reporting and analysis capability of the CMS supports key risk identification and mitigation and can therefore be used to inform risk management."
+        },
+        {
+          "type": "paragraph",
+          "text": "In addition to analysis of loss and recovery experience, the system must include internal reporting and analysis capabilities in order to provide ongoing support to the risk management process (see Appendix I.9)."
+        }
+      ]
+    },
+    {
+      "heading": "9. Disclosure",
+      "heading_level": 3,
+      "full_text": "Institutions will need to comply with all the disclosure requirements under Part 4: The Third Pillar – Market Discipline – of the new Basel framework as they relate to credit risk mitigation, including general credit risk exposures, disclosures specific to portfolios subject to IRB approaches, and credit risk mitigation-specific disclosures.\nThe Third Pillar of the new Basel framework sets out the disclosure requirements for IRB institutions in respect of the credit risk mitigation techniques they employ. Institutions should therefore ensure their CMS support such disclosure requirements.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Institutions will need to comply with all the disclosure requirements under Part 4: The Third Pillar – Market Discipline – of the new Basel framework as they relate to credit risk mitigation, including general credit risk exposures, disclosures specific to portfolios subject to IRB approaches, and credit risk mitigation-specific disclosures."
+        },
+        {
+          "type": "paragraph",
+          "text": "The Third Pillar of the new Basel framework sets out the disclosure requirements for IRB institutions in respect of the credit risk mitigation techniques they employ. Institutions should therefore ensure their CMS support such disclosure requirements."
+        }
+      ]
+    },
+    {
+      "heading": "Appendix I: Policies and Procedures For Collateral Management Systems",
+      "heading_level": 2,
+      "full_text": "There are numerous policies and procedures that institutions will likely be required to undertake to ensure their CMS are appropriate. Institutions should perform activities that are appropriate for their credit risk portfolios and support the credit risk mitigation techniques employed.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "There are numerous policies and procedures that institutions will likely be required to undertake to ensure their CMS are appropriate. Institutions should perform activities that are appropriate for their credit risk portfolios and support the credit risk mitigation techniques employed."
+        }
+      ]
+    },
+    {
+      "heading": "1. Risk Management Policies",
+      "heading_level": 3,
+      "full_text": "Collateral management principles should be incorporated into institutions’ risk management policies.\nRisk management policies should be comprehensive and clear as they relate to collateral management. Collateral management principles should be established for an institution, including any principles that are specific to business units. Policies and procedures should be reflected in the collateral management processes and systems that have been (or will be) implemented. The impact of compliance and non-compliance with these principles should be well understood by those responsible for implementing, maintaining and monitoring the system.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Collateral management principles should be incorporated into institutions’ risk management policies."
+        },
+        {
+          "type": "paragraph",
+          "text": "Risk management policies should be comprehensive and clear as they relate to collateral management. Collateral management principles should be established for an institution, including any principles that are specific to business units. Policies and procedures should be reflected in the collateral management processes and systems that have been (or will be) implemented. The impact of compliance and non-compliance with these principles should be well understood by those responsible for implementing, maintaining and monitoring the system."
+        }
+      ]
+    },
+    {
+      "heading": "2. Collateral Definitions and Data Collection",
+      "heading_level": 3,
+      "full_text": "An institution’s policies should be consistent across the institution for collateral definitions and data collection. Institutions’ policies should give clear direction as to what constitutes relevant and material risks as they relate to collateral for credit risk mitigation. CMS should be sufficiently robust to assess relevant and material risks on an ongoing basis.\nWhile it is recognized that business units within an institution will have different types of collateral classes that are prevalent and used for credit risk mitigation purposes, the definitions of these collateral classes need to be consistent across the enterprise. Definitions need to provide sufficient clarity to avoid interpretive differences that might arise from different practices and treatments across different business units within an institution.\nPolicies and procedures should address what constitutes material changes to collateral risks and what, if any, additional procedures are to be followed and actions taken as a result of these changes.\nData collection has to be sufficient for estimating PD or LGD and calculating capital under CAR. Institutions’ policies should clearly define how collateral values would be captured and used for purposes of collateral management, and exceptions to an established treatment should be tracked to provide evidence of the validity and impact of such exceptions.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "An institution’s policies should be consistent across the institution for collateral definitions and data collection. Institutions’ policies should give clear direction as to what constitutes relevant and material risks as they relate to collateral for credit risk mitigation. CMS should be sufficiently robust to assess relevant and material risks on an ongoing basis."
+        },
+        {
+          "type": "paragraph",
+          "text": "While it is recognized that business units within an institution will have different types of collateral classes that are prevalent and used for credit risk mitigation purposes, the definitions of these collateral classes need to be consistent across the enterprise. Definitions need to provide sufficient clarity to avoid interpretive differences that might arise from different practices and treatments across different business units within an institution."
+        },
+        {
+          "type": "paragraph",
+          "text": "Policies and procedures should address what constitutes material changes to collateral risks and what, if any, additional procedures are to be followed and actions taken as a result of these changes."
+        },
+        {
+          "type": "paragraph",
+          "text": "Data collection has to be sufficient for estimating PD or LGD and calculating capital under CAR. Institutions’ policies should clearly define how collateral values would be captured and used for purposes of collateral management, and exceptions to an established treatment should be tracked to provide evidence of the validity and impact of such exceptions."
+        }
+      ]
+    },
+    {
+      "heading": "3. Documentation of CMS",
+      "heading_level": 3,
+      "full_text": "Financial institutions should establish and maintain fully documented policies and procedures surrounding the scope, purpose and use of CMS, such that they can be readily understood by and be available to users across the institution.\nMaintenance and updates to documented policies and procedures should be ongoing. Controls should be put in place to ensure that updates and changes to policies and procedures are documented in a timely fashion.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Financial institutions should establish and maintain fully documented policies and procedures surrounding the scope, purpose and use of CMS, such that they can be readily understood by and be available to users across the institution."
+        },
+        {
+          "type": "paragraph",
+          "text": "Maintenance and updates to documented policies and procedures should be ongoing. Controls should be put in place to ensure that updates and changes to policies and procedures are documented in a timely fashion."
+        }
+      ]
+    },
+    {
+      "heading": "4. Valuation and Re-valuation of Collateral",
+      "heading_level": 3,
+      "full_text": "Institutions should have established procedures and practices that explicitly define how to value each collateral type and establish clear practices for the frequency of re-valuations, and should explicitly define how and when to inspect each collateral type.\nInstitutions should have documented guidelines for conservatively estimating, on an ongoing basis and as appropriate, the market value of the collateral, taking into account factors that could affect that value (e.g., the liquidity of the market and obsolescence or deterioration) of the collateral. Policies and procedures for monitoring and/or revaluation should include triggers for increased frequency of monitoring.\nInstitutions should have systems in place for requesting and ensuring prompt receipt of additional collateral for transactions whose terms require maintenance of collateral values at specified thresholds.\nRequirements for inspection for the same collateral type may differ across business lines. Policies should delineate these differences, which should be reasonable and based on sound principles.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Institutions should have established procedures and practices that explicitly define how to value each collateral type and establish clear practices for the frequency of re-valuations, and should explicitly define how and when to inspect each collateral type."
+        },
+        {
+          "type": "paragraph",
+          "text": "Institutions should have documented guidelines for conservatively estimating, on an ongoing basis and as appropriate, the market value of the collateral, taking into account factors that could affect that value (e.g., the liquidity of the market and obsolescence or deterioration) of the collateral. Policies and procedures for monitoring and/or revaluation should include triggers for increased frequency of monitoring."
+        },
+        {
+          "type": "paragraph",
+          "text": "Institutions should have systems in place for requesting and ensuring prompt receipt of additional collateral for transactions whose terms require maintenance of collateral values at specified thresholds."
+        },
+        {
+          "type": "paragraph",
+          "text": "Requirements for inspection for the same collateral type may differ across business lines. Policies should delineate these differences, which should be reasonable and based on sound principles."
+        }
+      ]
+    },
+    {
+      "heading": "5. Permissible Prior Charges on Collateral",
+      "heading_level": 3,
+      "full_text": "Institutions’ collateral policies should clearly articulate and define permissible prior charges or liens on the specific collateral. There should be processes in place to ensure that only such permissible prior charges or liens exist for security taken.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Institutions’ collateral policies should clearly articulate and define permissible prior charges or liens on the specific collateral. There should be processes in place to ensure that only such permissible prior charges or liens exist for security taken."
+        }
+      ]
+    },
+    {
+      "heading": "6. Legal Certainty of Collateral",
+      "heading_level": 3,
+      "full_text": "Institutions should have CMS that ensure all steps necessary have been taken to fulfil legal requirements to secure the organization’s interest in the collateral.\nInstitutions should have operational procedures and risk management processes in place that ensure relevant and material documentation used in collateralizing a transaction is binding on all parties and legally enforceable in all relevant jurisdictions. Institutions should have conducted sufficient legal reviews to verify this conclusion, should have well-founded legal bases for the conclusion, and should re-conduct such reviews as necessary to ensure continuing enforceability.\nThe legal mechanism under which the collateral is pledged or transferred must ensure that institutions have the right to liquidate or take legal possession (in accordance with the terms of the documentation and the requirements of the jurisdiction) of the collateral in a timely manner in the event of the default, insolvency, or bankruptcy (or other defined credit event) of the obligor and, where applicable, the custodian holding the collateral. The ability to act in a timely manner is particularly important for collateral that is subject to rapid price/valuation changes such as debt securities.\nInstitutions’ policies and procedures should define responsibility for obtaining, monitoring and maintaining enforceable security interests.\nInstitutions should have clear and robust procedures for the timely liquidation of collateral to ensure observation of any legal conditions required for declaring the default of the borrower and prompt liquidation of the collateral in the event of default.\nCMS should be sufficiently robust to track collateral liquidation dates, proceeds from disposition of collateral, where appropriate, and costs incurred and paid.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Institutions should have CMS that ensure all steps necessary have been taken to fulfil legal requirements to secure the organization’s interest in the collateral."
+        },
+        {
+          "type": "paragraph",
+          "text": "Institutions should have operational procedures and risk management processes in place that ensure relevant and material documentation used in collateralizing a transaction is binding on all parties and legally enforceable in all relevant jurisdictions. Institutions should have conducted sufficient legal reviews to verify this conclusion, should have well-founded legal bases for the conclusion, and should re-conduct such reviews as necessary to ensure continuing enforceability."
+        },
+        {
+          "type": "paragraph",
+          "text": "The legal mechanism under which the collateral is pledged or transferred must ensure that institutions have the right to liquidate or take legal possession (in accordance with the terms of the documentation and the requirements of the jurisdiction) of the collateral in a timely manner in the event of the default, insolvency, or bankruptcy (or other defined credit event) of the obligor and, where applicable, the custodian holding the collateral. The ability to act in a timely manner is particularly important for collateral that is subject to rapid price/valuation changes such as debt securities."
+        },
+        {
+          "type": "paragraph",
+          "text": "Institutions’ policies and procedures should define responsibility for obtaining, monitoring and maintaining enforceable security interests."
+        },
+        {
+          "type": "paragraph",
+          "text": "Institutions should have clear and robust procedures for the timely liquidation of collateral to ensure observation of any legal conditions required for declaring the default of the borrower and prompt liquidation of the collateral in the event of default."
+        },
+        {
+          "type": "paragraph",
+          "text": "CMS should be sufficiently robust to track collateral liquidation dates, proceeds from disposition of collateral, where appropriate, and costs incurred and paid."
+        }
+      ]
+    },
+    {
+      "heading": "7. Interdependence between Borrower and Collateral",
+      "heading_level": 3,
+      "full_text": "Institutions’ collateral valuation practices should take into account the interdependence (or not) of borrower and collateral.\nRisk management policies at each institution will define what constitutes interdependencies between borrower and collateral. In particular, institutions should address, in a conservative manner, cases where the credit quality of the counterparty and the value of the collateral have a material positive correlation.\nIn reflecting collateral loss estimates, institutions will need to consider the extent of any interdependence between the risk of the borrower and that of the collateral or collateral provider. An institution’s assessment would have to conservatively address any significant degree of dependence, as well as any currency mismatch between the underlying obligation and the collateral. The associated internal estimates (e.g., LGDs) would have to be grounded in historical recovery rates on the collateral and should not be based solely upon the collateral’s estimated market value. Use of third party data, where relevant and material, could be used to supplement internal data.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Institutions’ collateral valuation practices should take into account the interdependence (or not) of borrower and collateral."
+        },
+        {
+          "type": "paragraph",
+          "text": "Risk management policies at each institution will define what constitutes interdependencies between borrower and collateral. In particular, institutions should address, in a conservative manner, cases where the credit quality of the counterparty and the value of the collateral have a material positive correlation."
+        },
+        {
+          "type": "paragraph",
+          "text": "In reflecting collateral loss estimates, institutions will need to consider the extent of any interdependence between the risk of the borrower and that of the collateral or collateral provider. An institution’s assessment would have to conservatively address any significant degree of dependence, as well as any currency mismatch between the underlying obligation and the collateral. The associated internal estimates (e.g., LGDs) would have to be grounded in historical recovery rates on the collateral and should not be based solely upon the collateral’s estimated market value. Use of third party data, where relevant and material, could be used to supplement internal data."
+        }
+      ]
+    },
+    {
+      "heading": "8. Capital Benefits of Credit Risk Mitigants",
+      "heading_level": 3,
+      "full_text": "Institutions should be able to demonstrate that the capital benefit claims are appropriate considering the robustness of credit risk mitigation policies.\nInstitutions should test their collateral management policies and procedures to ensure that systems are robust and reliable and appropriate for capital benefits of credit risk mitigants.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Institutions should be able to demonstrate that the capital benefit claims are appropriate considering the robustness of credit risk mitigation policies."
+        },
+        {
+          "type": "paragraph",
+          "text": "Institutions should test their collateral management policies and procedures to ensure that systems are robust and reliable and appropriate for capital benefits of credit risk mitigants."
+        }
+      ]
+    },
+    {
+      "heading": "9. Internal Reporting and Analysis",
+      "heading_level": 3,
+      "full_text": "Internal reporting and analysis will likely need to consider many areas. Some illustrative examples of those areas include:\n  - concentration risk by collateral type\n  - residual risks\n  - trends\n  - loan to value assessments\n  - collateral values at obligor, portfolio and enterprise level\n  - effectiveness of legal documentation\n  - tracking of policy exceptions\n  - volatility of collateral values\n  - industry and geographic analysis\n  - regulatory capital reporting\nInstitutions should develop measures appropriate to their respective CMS in respect of internal reporting and analysis. These measures need not include all of the above examples in every instance.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Internal reporting and analysis will likely need to consider many areas. Some illustrative examples of those areas include:"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "concentration risk by collateral type",
+            "residual risks",
+            "trends",
+            "loan to value assessments",
+            "collateral values at obligor, portfolio and enterprise level",
+            "effectiveness of legal documentation",
+            "tracking of policy exceptions",
+            "volatility of collateral values",
+            "industry and geographic analysis",
+            "regulatory capital reporting"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Institutions should develop measures appropriate to their respective CMS in respect of internal reporting and analysis. These measures need not include all of the above examples in every instance."
+        }
+      ]
+    }
+  ],
+  "title_normalized": "collateral management principles for irb institutions",
+  "publication_type_normalized": "implementation_note",
+  "category_normalized": "capital_adequacy_requirements",
+  "sector_normalized": [
+    "banks",
+    "trust_and_loan_companies",
+    "bank_holding_companies"
+  ],
+  "guideline_number_normalized": "",
+  "applies_to_banks": true,
+  "applies_to_trust_loan": true,
+  "applies_to_life_insurance": false,
+  "applies_to_pc_insurance": false,
+  "applies_to_foreign_bank": false,
+  "applies_to_foreign_insurance": false,
+  "applies_to_cooperative": false,
+  "applies_to_bank_holding": true,
+  "effective_date_sort_key": "2006-01-31",
+  "status_sort_key": 1,
+  "authority_sort_key": 90,
+  "bm25_text": "Collateral Management Principles for IRB Institutions Implementation note Capital Adequacy Requirements Banks Trust and Loan Companies Bank Holding Companies I. Introduction II. Background III. Principles 1. Purpose 2. Risk Management Policies and Documentation 3. Consistency of Collateral Definitions 4. Legal Certainty and Timeliness 5. Comprehensive Assessment of Risks 6. Valuations, Inspections and Verifications 7. Operational Requirements 8. Internal Reporting and Analysis 9. Disclosure Appendix I: Policies and Procedures For Collateral Management Systems 1. Risk Management Policies 2. Collateral Definitions and Data Collection 3. Documentation of CMS 4. Valuation and Re-valuation of Collateral 5. Permissible Prior Charges on Collateral 6. Legal Certainty of Collateral 7. Interdependence between Borrower and Collateral 8. Capital Benefits of Credit Risk Mitigants 9. Internal Reporting and Analysis",
+  "vector_text_prefix": "[OSFI Implementation note  | Capital Adequacy Requirements | Banks / Trust and Loan Companies / Bank Holding Companies | FINAL_CURRENT | Effective 2006-01-31]",
+  "h1_title": "Collateral Management Principles for IRB Institutions",
+  "regulator": "OSFI",
+  "regulator_acronym": "OSFI",
+  "jurisdiction": "Canada",
+  "short_title": "",
+  "source_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/collateral-management-principles-irb-institutions"
+}

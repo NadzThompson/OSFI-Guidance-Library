@@ -1,0 +1,462 @@
+{
+  "source_system": "osfi_guidance_library",
+  "library_row_title": "Consultative document on Credit Risk Management",
+  "library_row_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/consultative-document-credit-risk-management",
+  "listing_date_raw": "January 29, 2026",
+  "listing_date_iso": "2026-01-29",
+  "listing_publication_type": "Consultative document",
+  "listing_category": "Sound Business and Financial Practices",
+  "listing_sector": [
+    "Banks",
+    "Life Insurance and Fraternal Companies",
+    "Property and Casualty Companies",
+    "Trust and Loan Companies"
+  ],
+  "crawl_timestamp": "2026-03-11T00:00:00Z",
+  "detail_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/consultative-document-credit-risk-management",
+  "canonical_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/consultative-document-credit-risk-management",
+  "slug": "consultative-document-credit-risk-management",
+  "title": "Consultative document on Credit Risk Management",
+  "publication_type": "Consultative document",
+  "category": "Sound Business and Financial Practices",
+  "document_date_raw": "January 29, 2026",
+  "document_date_iso": "2026-01-29",
+  "sector": [
+    "Banks",
+    "Life Insurance and Fraternal Companies",
+    "Property and Casualty Companies",
+    "Trust and Loan Companies"
+  ],
+  "effective_date_text": "",
+  "guideline_number": "",
+  "date_modified_raw": "2026-01-29T12:00:00Z",
+  "generate_pdf_url": "https://www.osfi-bsif.gc.ca/en/print/pdf/node/3102",
+  "pdf_node_id": 3102,
+  "direct_pdf_url": "https://www.bankofengland.co.uk/-/media/boe/files/prudential-regulation/letter/2024/thematic-review-of-private-equity-related-financing-activities.pdf",
+  "has_table_of_contents": true,
+  "toc_entries": [],
+  "has_related_documents": true,
+  "related_document_links_raw": [
+    {
+      "title": "Backgrounder: Consultative Document on Credit Risk Management",
+      "url": "https://www.osfi-bsif.gc.ca/en/news/backgrounder-consultative-document-credit-risk-management"
+    }
+  ],
+  "consultation_status_text": "Consultation status: Open",
+  "consultation_status_refers_to_version": null,
+  "page_language": "en",
+  "word_count_raw_body": 1711,
+  "doc_id": "osfi.consultative-document-credit-risk-management.consultation",
+  "doc_family_id": "osfi.consultative-document-credit-risk-management",
+  "version_id": "",
+  "version_label": "Consultative document on Credit Risk Management",
+  "version_sort_key": "",
+  "parent_doc_id": null,
+  "child_doc_ids": [],
+  "is_package_page": false,
+  "is_chapter_page": false,
+  "chapter_number": null,
+  "chapter_title": null,
+  "document_order_within_family": 0,
+  "supersedes_doc_id": null,
+  "superseded_by_doc_id": null,
+  "current_version_flag": false,
+  "status": "draft_or_consultation",
+  "include_in_primary_corpus": false,
+  "include_in_support_corpus": false,
+  "include_in_context_corpus": true,
+  "effective_date_start": "2026-01-29",
+  "effective_date_end": null,
+  "effective_date_fye_split": false,
+  "effective_date_oct_fye": null,
+  "effective_date_dec_fye": null,
+  "is_future_effective": false,
+  "is_rescinded": false,
+  "is_draft_or_consultation": true,
+  "rescission_date": null,
+  "consultation_closing_date": null,
+  "as_of_applicability": "2026-03-23",
+  "rule_applied": "rule_2_draft",
+  "authority_class": "excluded",
+  "authority_level": 0,
+  "nova_tier": 3,
+  "prudential_weight": 0.0,
+  "is_primary_normative": false,
+  "is_supporting_interpretive": false,
+  "is_context_only": true,
+  "document_class": "consultation_document",
+  "guidance_type_normalized": "consultative_document",
+  "section_headings": [
+    {
+      "level": 2,
+      "text": "Consultation status: Open",
+      "id": "h2-0"
+    },
+    {
+      "level": 2,
+      "text": "Purpose",
+      "id": "h2-1"
+    },
+    {
+      "level": 2,
+      "text": "Reinforcing our principles-based approach",
+      "id": "h2-2"
+    },
+    {
+      "level": 2,
+      "text": "Incorporating wholesale credit risk",
+      "id": "h2-3"
+    },
+    {
+      "level": 2,
+      "text": "Addressing non-bank financial intermediation",
+      "id": "h2-4"
+    },
+    {
+      "level": 2,
+      "text": "Consolidating our RESL expectations",
+      "id": "h2-5"
+    },
+    {
+      "level": 3,
+      "text": "Questions",
+      "id": "h3-6"
+    }
+  ],
+  "heading_path": [
+    "Consultative document on Credit Risk Management"
+  ],
+  "toc_depth": 3,
+  "has_appendices": false,
+  "appendix_ids": [],
+  "has_tables": false,
+  "table_count": 0,
+  "has_footnotes": false,
+  "footnote_count": 0,
+  "inline_cross_references": [
+    "Guideline B-4 - Securities Lending (Deposit-taking institutions) and Guid",
+    "Guideline B-20 - Residential Mortgage Underwriting Practices and Procedure",
+    "Guideline B-20 is effective and well-established",
+    "Guideline B-20",
+    "Guideline B-20 underpins the internal mortgage underwriting policies at in",
+    "Guideline B-20 in setting mortgage lending expectations within their juris",
+    "Guideline B-20 within financial and legal materials",
+    "Guideline B-20 compliance",
+    "Guideline B-20 within the new CRM Guideline"
+  ],
+  "quoted_external_references": [
+    "Basel Committee for Banking Supervision (BCBS) in April 2025",
+    "BCBS",
+    "FSB) 2024 Global Monitoring Report on Non-bank Financial Intermediation",
+    "FSB also recently set out recommendations for regulators to identify and address fi",
+    "FSB's nine recommendations on leverage were issued under a final report on Leverage",
+    "BCBS Guideline on Counterparty Credit Risk Management (PDF)",
+    "FSB also published recommendations on Liquidity Preparedness for Margin and Collate",
+    "FSB and BCBS standards to help institutions manage the credit risks related to NBFI"
+  ],
+  "raw_html_sha256": "9a04e32eff65695188644d1f2572e80235587994fdbc2344f83b0bae2d3ef0f7",
+  "raw_pdf_sha256": null,
+  "normalized_text_sha256": null,
+  "raw_html_path": "bronze/osfi/html/draft/consultative-document-credit-risk-management.html",
+  "normalized_md_path": "silver/osfi/md/draft/consultative-document-credit-risk-management.md",
+  "canonical_json_path": "silver/osfi/json/draft/consultative-document-credit-risk-management.json",
+  "content_source": "HTML",
+  "parser_version": "osfi-parser-v2.1.0",
+  "normalizer_version": "osfi-normalizer-v1.4.0",
+  "quality_score": 1.0,
+  "quality_flags": [],
+  "download_timestamp": "2026-03-11T00:00:00Z",
+  "enriched_timestamp": "2026-03-23T09:53:50.832321Z",
+  "sections": [
+    {
+      "heading": "",
+      "heading_level": 2,
+      "full_text": "  - Backgrounder: Consultative Document on Credit Risk Management",
+      "content": [
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Backgrounder: Consultative Document on Credit Risk Management"
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "Consultation status: Open",
+      "heading_level": 2,
+      "full_text": "Please provide your feedback to creditrisk-risquedecredit@osfi-bsif.gc.ca by July 29, 2026.\nThe Office of the Superintendent of Financial Institutions (OSFI) is developing a comprehensive Credit Risk Management Guideline (CRM Guideline) with three principal aims:\n  - Strengthen credit risk management of all exposures at federally regulated financial institutions by applying international best practices for lending, account and portfolio management and addressing areas where there may be gaps in existing regulatory guidance.\n  - Promote greater regulatory and supervisory efficiency by consolidating and clarifying our existing credit risk-related expectations, including in key credit segments like real estate secured lending (RESL) and wholesale credit.\n  - Modernize our guidance to enable agile responses to emerging credit risk areas, such as non-bank financial intermediation and sound counterparty credit risk management.\nThis initial consultation paper seeks early stakeholder input on the CRM Guideline initiative. Stakeholders are invited to provide feedback at creditrisk-risquedecredit@osfi-bsif.gc.ca by July 29, 2026.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Please provide your feedback to creditrisk-risquedecredit@osfi-bsif.gc.ca by July 29, 2026."
+        },
+        {
+          "type": "paragraph",
+          "text": "The Office of the Superintendent of Financial Institutions (OSFI) is developing a comprehensive Credit Risk Management Guideline (CRM Guideline) with three principal aims:"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Strengthen credit risk management of all exposures at federally regulated financial institutions by applying international best practices for lending, account and portfolio management and addressing areas where there may be gaps in existing regulatory guidance.",
+            "Promote greater regulatory and supervisory efficiency by consolidating and clarifying our existing credit risk-related expectations, including in key credit segments like real estate secured lending (RESL) and wholesale credit.",
+            "Modernize our guidance to enable agile responses to emerging credit risk areas, such as non-bank financial intermediation and sound counterparty credit risk management."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "This initial consultation paper seeks early stakeholder input on the CRM Guideline initiative. Stakeholders are invited to provide feedback at creditrisk-risquedecredit@osfi-bsif.gc.ca by July 29, 2026."
+        }
+      ]
+    },
+    {
+      "heading": "Purpose",
+      "heading_level": 2,
+      "full_text": "Consolidating our credit risk guidance will reinforce and clarify our expectations and support institutions as they address both familiar and emerging credit risks. This initiative will also advance smart regulation by streamlining our expectations and allowing us to rescind outdated or duplicative guidance documents.\nCredit is a foundational risk for financial institutions. Serious problems for financial institutions have often been directly related to lax credit standards, poor portfolio risk management, or a lack of attention to changes in economic or financial circumstances of borrowers and counterparties. Sound credit risk management is therefore essential for ensuring the safety, soundness and resilience of financial institutions.\nOSFI has consistently identified credit risks as among the top risks facing federally regulated financial institutions (institutions) in Canada. In the 2025-26 Annual Risk Outlook (ARO), for instance, we highlighted wholesale credit and RESL as two of the top risk areas, noting as well the growth of private credit and its interconnectedness with the institutions we regulate.\nHowever, OSFI's expectations for managing credit risk are currently distributed across a number of guidance documents, including guidelines, advisories, regulatory notices and letters. This patchwork approach does not appropriately respond to the foundational importance of credit risk or provide sufficient clarity on our expectations for prudently managing these risks.\nWe intend to publish chapters of the draft Guideline for input over the coming year, specifically in the areas of:\n  - Overarching principles of sound credit risk management\n  - Wholesale credit risk management\n  - Non-bank financial intermediation risk management\n  - Real estate secured lending risk management",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Consolidating our credit risk guidance will reinforce and clarify our expectations and support institutions as they address both familiar and emerging credit risks. This initiative will also advance smart regulation by streamlining our expectations and allowing us to rescind outdated or duplicative guidance documents."
+        },
+        {
+          "type": "paragraph",
+          "text": "Credit is a foundational risk for financial institutions. Serious problems for financial institutions have often been directly related to lax credit standards, poor portfolio risk management, or a lack of attention to changes in economic or financial circumstances of borrowers and counterparties. Sound credit risk management is therefore essential for ensuring the safety, soundness and resilience of financial institutions."
+        },
+        {
+          "type": "paragraph",
+          "text": "OSFI has consistently identified credit risks as among the top risks facing federally regulated financial institutions (institutions) in Canada. In the 2025-26 Annual Risk Outlook (ARO), for instance, we highlighted wholesale credit and RESL as two of the top risk areas, noting as well the growth of private credit and its interconnectedness with the institutions we regulate."
+        },
+        {
+          "type": "paragraph",
+          "text": "However, OSFI's expectations for managing credit risk are currently distributed across a number of guidance documents, including guidelines, advisories, regulatory notices and letters. This patchwork approach does not appropriately respond to the foundational importance of credit risk or provide sufficient clarity on our expectations for prudently managing these risks."
+        },
+        {
+          "type": "paragraph",
+          "text": "We intend to publish chapters of the draft Guideline for input over the coming year, specifically in the areas of:"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Overarching principles of sound credit risk management",
+            "Wholesale credit risk management",
+            "Non-bank financial intermediation risk management",
+            "Real estate secured lending risk management"
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "Reinforcing our principles-based approach",
+      "heading_level": 2,
+      "full_text": "The initial chapter of the Guideline will set out the principles for sound credit risk management. These principles will reflect the Canadian application of the revised Principles for the Management of Credit Risk , published by the Basel Committee for Banking Supervision (BCBS) in April 2025. They would reinforce that all institutions should:\n  - Govern credit risk through a framework that is appropriate to the institution's risk profile and risk appetite (in other words, proportionate to risks)\n  - Develop and follow clear and documented processes for approving and acquiring new credit exposures as well as renewing existing exposures\n  - Ensure credit decisions are based primarily on the demonstrated willingness and capacity of borrowers to service their debt obligations on a timely basis\n  - Conduct realistic, supportable and timely collateral valuations and perform ongoing collateral management over the term of the credit exposure\n  - Undertake heightened due diligence when underwriting or acquiring higher risk credit exposures, including effectively managing exceptions\n  - Establish effective policies and processes for the ongoing administration, monitoring, classification and measurement of credit exposures and portfolios\n  - Apply internal controls to manage credit portfolios within levels of risk consistent with an institution's internal limits and risk appetite\n  - Take early action to manage problem exposures, including forbearance, loan modification, and workout arrangements\nThese principles would apply across all business lines where the institution is exposed to credit risk, supporting key areas of sound credit risk management identified by the BCBS, including governance, underwriting, administration and controls.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "The initial chapter of the Guideline will set out the principles for sound credit risk management. These principles will reflect the Canadian application of the revised Principles for the Management of Credit Risk , published by the Basel Committee for Banking Supervision (BCBS) in April 2025. They would reinforce that all institutions should:"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Govern credit risk through a framework that is appropriate to the institution's risk profile and risk appetite (in other words, proportionate to risks)",
+            "Develop and follow clear and documented processes for approving and acquiring new credit exposures as well as renewing existing exposures",
+            "Ensure credit decisions are based primarily on the demonstrated willingness and capacity of borrowers to service their debt obligations on a timely basis",
+            "Conduct realistic, supportable and timely collateral valuations and perform ongoing collateral management over the term of the credit exposure",
+            "Undertake heightened due diligence when underwriting or acquiring higher risk credit exposures, including effectively managing exceptions",
+            "Establish effective policies and processes for the ongoing administration, monitoring, classification and measurement of credit exposures and portfolios",
+            "Apply internal controls to manage credit portfolios within levels of risk consistent with an institution's internal limits and risk appetite",
+            "Take early action to manage problem exposures, including forbearance, loan modification, and workout arrangements"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "These principles would apply across all business lines where the institution is exposed to credit risk, supporting key areas of sound credit risk management identified by the BCBS, including governance, underwriting, administration and controls."
+        }
+      ]
+    },
+    {
+      "heading": "Incorporating wholesale credit risk",
+      "heading_level": 2,
+      "full_text": "Wholesale lending remains a key area of concern for credit risk management due to the large exposure sizes, sensitivity to economic cycles, and the inherent complexity of individual exposures.\nWholesale credit is a broad asset class encompassing, but not limited to, facilities provided to other institutions, loans to corporates, partnerships, and proprietorships and loans secured by commercial real estate (CRE). Our 2024 Revised CRE Regulatory Notice clarified and reinforced our expectations for sound credit risk management in response to a period of heightened risk.\nThe aim of this chapter of is to clarify our expectations for the sound management of wholesale credit risks. It would incorporate our CRE Regulatory Notice and also cover all other wholesale credit exposures. It would clarify our expectations on:\n  - Underwriting, including approval processes, serviceability assessments, internal limits, and exceptions management\n  - Collateral valuations and ongoing collateral management\n  - Borrower sensitivity analysis\n  - Sponsor and guarantor assessments\n  - Higher-risk and more complex lending, including acquisition, development and construction loans, leveraged lending, interest-only commercial loans, and syndications or multi-lender arrangements\n  - Account monitoring, internal triggers and covenants\n  - Annual loan reviews and independent loan review function",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Wholesale lending remains a key area of concern for credit risk management due to the large exposure sizes, sensitivity to economic cycles, and the inherent complexity of individual exposures."
+        },
+        {
+          "type": "paragraph",
+          "text": "Wholesale credit is a broad asset class encompassing, but not limited to, facilities provided to other institutions, loans to corporates, partnerships, and proprietorships and loans secured by commercial real estate (CRE). Our 2024 Revised CRE Regulatory Notice clarified and reinforced our expectations for sound credit risk management in response to a period of heightened risk."
+        },
+        {
+          "type": "paragraph",
+          "text": "The aim of this chapter of is to clarify our expectations for the sound management of wholesale credit risks. It would incorporate our CRE Regulatory Notice and also cover all other wholesale credit exposures. It would clarify our expectations on:"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Underwriting, including approval processes, serviceability assessments, internal limits, and exceptions management",
+            "Collateral valuations and ongoing collateral management",
+            "Borrower sensitivity analysis",
+            "Sponsor and guarantor assessments",
+            "Higher-risk and more complex lending, including acquisition, development and construction loans, leveraged lending, interest-only commercial loans, and syndications or multi-lender arrangements",
+            "Account monitoring, internal triggers and covenants",
+            "Annual loan reviews and independent loan review function"
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "Addressing non-bank financial intermediation",
+      "heading_level": 2,
+      "full_text": "The non-bank financial intermediation (NBFI) sector includes diverse non-bank financial entities with varying risk profiles that engage in bank-like financial intermediation. NBFI entities can support traditional banking and financial markets by fostering competition, enabling hedging, aiding in price discovery and offering market stabilization in times of stress.\nHowever, NBFIs often engage in maturity, liquidity or credit transformation by taking on high amounts of financial or synthetic leverage. Their lack of transparency, procyclical behaviour, and growing interconnectedness with the financial system can present significant systemic risks and threaten financial stability.\nThe NBFI sector has grown significantly in recent years, with rising asset valuations across a broad range of markets. This was highlighted in Canada's submission to the Financial Stability Board (FSB) 2024 Global Monitoring Report on Non-bank Financial Intermediation .\nMany authorities, including the United Kingdom's Prudential Regulation Authority (PDF) , the Bank of England , the European Banking Authority , and the Reserve Bank of Australia have recently issued guidance and conducted stress test exercises in this area.\nThe FSB also recently set out recommendations for regulators to identify and address financial stability risks arising from NBFIs. The FSB's nine recommendations on leverage were issued under a final report on Leverage in Nonbank Financial Intermediation in July 2025 . The recommendations include an endorsement for the BCBS Guideline on Counterparty Credit Risk Management (PDF) .\nIn 2024, the FSB also published recommendations on Liquidity Preparedness for Margin and Collateral Calls , calling on jurisdictions to enhance liquidity management practices at NBFIs.\nCollectively, these international standards and recommendations provide regulators with a framework to enhance the resilience of financial markets by focusing on:\n  - Risk identification and monitoring supported by comprehensive data collection\n  - Understanding NBFI leverage through activity-based measures to target specific strategies and entity-based measures to restrict NBFIs from taking on excessive amounts of leverage\n  - Strong governance and effective due diligence on all NBFI counterparties by banks\n  - Capital requirements and addressing any gaps that create regulatory arbitrage to avoid risk transfer\n  - Cross-border cooperation and coordination among regulators\nThrough the CRM Guideline, we propose adopting principles from the FSB and BCBS standards to help institutions manage the credit risks related to NBFIs and other counterparties. The Guideline will also incorporate expectations from Guideline B-4 - Securities Lending (Deposit-taking institutions) and Guideline B-7 - Derivatives Sound Practices.\nIn addressing these diverse risks through a consolidated approach, OSFI is seeking to ensure that institutions monitor, understand, and report their NBFI exposures and risks in a coherent and comprehensive way.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "The non-bank financial intermediation (NBFI) sector includes diverse non-bank financial entities with varying risk profiles that engage in bank-like financial intermediation. NBFI entities can support traditional banking and financial markets by fostering competition, enabling hedging, aiding in price discovery and offering market stabilization in times of stress."
+        },
+        {
+          "type": "paragraph",
+          "text": "However, NBFIs often engage in maturity, liquidity or credit transformation by taking on high amounts of financial or synthetic leverage. Their lack of transparency, procyclical behaviour, and growing interconnectedness with the financial system can present significant systemic risks and threaten financial stability."
+        },
+        {
+          "type": "paragraph",
+          "text": "The NBFI sector has grown significantly in recent years, with rising asset valuations across a broad range of markets. This was highlighted in Canada's submission to the Financial Stability Board (FSB) 2024 Global Monitoring Report on Non-bank Financial Intermediation ."
+        },
+        {
+          "type": "paragraph",
+          "text": "Many authorities, including the United Kingdom's Prudential Regulation Authority (PDF) , the Bank of England , the European Banking Authority , and the Reserve Bank of Australia have recently issued guidance and conducted stress test exercises in this area."
+        },
+        {
+          "type": "paragraph",
+          "text": "The FSB also recently set out recommendations for regulators to identify and address financial stability risks arising from NBFIs. The FSB's nine recommendations on leverage were issued under a final report on Leverage in Nonbank Financial Intermediation in July 2025 . The recommendations include an endorsement for the BCBS Guideline on Counterparty Credit Risk Management (PDF) ."
+        },
+        {
+          "type": "paragraph",
+          "text": "In 2024, the FSB also published recommendations on Liquidity Preparedness for Margin and Collateral Calls , calling on jurisdictions to enhance liquidity management practices at NBFIs."
+        },
+        {
+          "type": "paragraph",
+          "text": "Collectively, these international standards and recommendations provide regulators with a framework to enhance the resilience of financial markets by focusing on:"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Risk identification and monitoring supported by comprehensive data collection",
+            "Understanding NBFI leverage through activity-based measures to target specific strategies and entity-based measures to restrict NBFIs from taking on excessive amounts of leverage",
+            "Strong governance and effective due diligence on all NBFI counterparties by banks",
+            "Capital requirements and addressing any gaps that create regulatory arbitrage to avoid risk transfer",
+            "Cross-border cooperation and coordination among regulators"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Through the CRM Guideline, we propose adopting principles from the FSB and BCBS standards to help institutions manage the credit risks related to NBFIs and other counterparties. The Guideline will also incorporate expectations from Guideline B-4 - Securities Lending (Deposit-taking institutions) and Guideline B-7 - Derivatives Sound Practices."
+        },
+        {
+          "type": "paragraph",
+          "text": "In addressing these diverse risks through a consolidated approach, OSFI is seeking to ensure that institutions monitor, understand, and report their NBFI exposures and risks in a coherent and comprehensive way."
+        }
+      ]
+    },
+    {
+      "heading": "Consolidating our RESL expectations",
+      "heading_level": 2,
+      "full_text": "RESL represents the largest class of credit exposures for institutions in Canada. Guideline B-20 - Residential Mortgage Underwriting Practices and Procedures sets out OSFI's expectations for managing RESL exposures. While Guideline B-20 is effective and well-established, market practices and risks have evolved considerably since it was introduced in 2012.\nWe have mainly responded to these emerging trends and risks through targeted advisories, letters, and regulatory notices. While this approach has enabled greater flexibility and responsiveness, it has resulted in a patchwork of RESL-related guidance documents.\nTo clarify our expectations and reduce burden, we intend to consolidate these expectations into a single RESL chapter within the Guideline. In addition to Guideline B-20, the guidance documents we propose to consolidate include:\n  - Advisory – Clarification on the Treatment of Innovative Real Estate Secured Lending Products under Guideline B-20\n  - Regulatory Notice – Reinforcing Residential Mortgage Risk Management Practices\nThrough this consolidation effort, we also intend to clarify our expectations in key RESL areas where we have observed recurring supervisory concerns. These include:\n  - Income verification, including rental income and business-for-self\n  - Amortization\n  - Exceptions\nWe recognize that Guideline B-20 underpins the internal mortgage underwriting policies at institutions. Some provincial regulators in Canada also leverage Guideline B-20 in setting mortgage lending expectations within their jurisdictions to support a level playing field. Further, we are aware that some institutions assert compliance with Guideline B-20 within financial and legal materials, such as bond offering documentation.\nWhile the nature of our guidance means that we do not endorse any private sector assertions of Guideline B-20 compliance, we would seek to minimize burden and any potential operational impacts when consolidating Guideline B-20 within the new CRM Guideline.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "RESL represents the largest class of credit exposures for institutions in Canada. Guideline B-20 - Residential Mortgage Underwriting Practices and Procedures sets out OSFI's expectations for managing RESL exposures. While Guideline B-20 is effective and well-established, market practices and risks have evolved considerably since it was introduced in 2012."
+        },
+        {
+          "type": "paragraph",
+          "text": "We have mainly responded to these emerging trends and risks through targeted advisories, letters, and regulatory notices. While this approach has enabled greater flexibility and responsiveness, it has resulted in a patchwork of RESL-related guidance documents."
+        },
+        {
+          "type": "paragraph",
+          "text": "To clarify our expectations and reduce burden, we intend to consolidate these expectations into a single RESL chapter within the Guideline. In addition to Guideline B-20, the guidance documents we propose to consolidate include:"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Advisory – Clarification on the Treatment of Innovative Real Estate Secured Lending Products under Guideline B-20",
+            "Regulatory Notice – Reinforcing Residential Mortgage Risk Management Practices"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Through this consolidation effort, we also intend to clarify our expectations in key RESL areas where we have observed recurring supervisory concerns. These include:"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Income verification, including rental income and business-for-self",
+            "Amortization",
+            "Exceptions"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "We recognize that Guideline B-20 underpins the internal mortgage underwriting policies at institutions. Some provincial regulators in Canada also leverage Guideline B-20 in setting mortgage lending expectations within their jurisdictions to support a level playing field. Further, we are aware that some institutions assert compliance with Guideline B-20 within financial and legal materials, such as bond offering documentation."
+        },
+        {
+          "type": "paragraph",
+          "text": "While the nature of our guidance means that we do not endorse any private sector assertions of Guideline B-20 compliance, we would seek to minimize burden and any potential operational impacts when consolidating Guideline B-20 within the new CRM Guideline."
+        }
+      ]
+    },
+    {
+      "heading": "Questions",
+      "heading_level": 3,
+      "full_text": "  1. How can we ensure that the CRM Guideline supports economic growth and promotes effective competition within the financial sector?\n  2. Are the principles for sound credit risk management clear and straightforward? Are any important principles missing? Are these principles equally relevant for all OSFI-regulated institutions that extend credit, including insurers and pension plans?\n  3. How can we best ensure proportionality in the application of these principles and segment-specific expectations? Are there specific considerations or concerns relevant to small and medium sized institutions?\n  4. Would consolidating Guideline B-20 into the CRM Guideline create any unintended legal, financial or operational risks?\n  5. Are there segments or subsegments of wholesale credit that require more attention and tailored guidance? Should we articulate standalone expectations for CRE lending in a separate chapter to address the unique risk characteristics of this asset class?\n  6. What challenges and opportunities do institutions foresee from incorporating the FSB NBFI recommendations and BCBS counterparty credit risk principles into the CRM Guideline?",
+      "content": [
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "How can we ensure that the CRM Guideline supports economic growth and promotes effective competition within the financial sector?",
+            "Are the principles for sound credit risk management clear and straightforward? Are any important principles missing? Are these principles equally relevant for all OSFI-regulated institutions that extend credit, including insurers and pension plans?",
+            "How can we best ensure proportionality in the application of these principles and segment-specific expectations? Are there specific considerations or concerns relevant to small and medium sized institutions?",
+            "Would consolidating Guideline B-20 into the CRM Guideline create any unintended legal, financial or operational risks?",
+            "Are there segments or subsegments of wholesale credit that require more attention and tailored guidance? Should we articulate standalone expectations for CRE lending in a separate chapter to address the unique risk characteristics of this asset class?",
+            "What challenges and opportunities do institutions foresee from incorporating the FSB NBFI recommendations and BCBS counterparty credit risk principles into the CRM Guideline?"
+          ]
+        }
+      ]
+    }
+  ],
+  "title_normalized": "consultative document on credit risk management",
+  "publication_type_normalized": "consultative_document",
+  "category_normalized": "sound_business_and_financial_practices",
+  "sector_normalized": [
+    "banks",
+    "life_insurance",
+    "pc_insurance",
+    "trust_and_loan_companies"
+  ],
+  "guideline_number_normalized": "",
+  "applies_to_banks": true,
+  "applies_to_trust_loan": true,
+  "applies_to_life_insurance": true,
+  "applies_to_pc_insurance": true,
+  "applies_to_foreign_bank": false,
+  "applies_to_foreign_insurance": false,
+  "applies_to_cooperative": false,
+  "applies_to_bank_holding": false,
+  "effective_date_sort_key": "2026-01-29",
+  "status_sort_key": 4,
+  "authority_sort_key": 0,
+  "bm25_text": "Consultative document on Credit Risk Management Consultative document Sound Business and Financial Practices Banks Life Insurance and Fraternal Companies Property and Casualty Companies Trust and Loan Companies Consultation status: Open Purpose Reinforcing our principles-based approach Incorporating wholesale credit risk Addressing non-bank financial intermediation Consolidating our RESL expectations Questions",
+  "vector_text_prefix": "[OSFI Consultative document  | Sound Business and Financial Practices | Banks / Life Insurance and Fraternal Companies / Property and Casualty Companies | DRAFT_OR_CONSULTATION | Effective 2026-01-29]",
+  "h1_title": "Consultative document on Credit Risk Management",
+  "regulator": "OSFI",
+  "regulator_acronym": "OSFI",
+  "jurisdiction": "Canada",
+  "short_title": "",
+  "source_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/consultative-document-credit-risk-management"
+}

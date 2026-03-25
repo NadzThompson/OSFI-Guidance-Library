@@ -1,0 +1,349 @@
+{
+  "source_system": "osfi_guidance_library",
+  "library_row_title": "Assurance on Capital, Leverage and Liquidity Returns Guideline - Clarifications",
+  "library_row_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/assurance-capital-leverage-liquidity-returns-guideline-clarifications",
+  "listing_date_raw": "July 8, 2024",
+  "listing_date_iso": "2024-07-08",
+  "listing_publication_type": "Adjustments and clarifications",
+  "listing_category": "Accounting and Disclosure",
+  "listing_sector": [
+    "Banks",
+    "Life Insurance and Fraternal Companies",
+    "Property and Casualty Companies",
+    "Trust and Loan Companies"
+  ],
+  "crawl_timestamp": "2026-03-11T00:00:00Z",
+  "detail_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/assurance-capital-leverage-liquidity-returns-guideline-clarifications",
+  "canonical_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/assurance-capital-leverage-liquidity-returns-guideline-clarifications",
+  "slug": "assurance-capital-leverage-liquidity-returns-guideline-clarifications",
+  "title": "Assurance on Capital, Leverage and Liquidity Returns Guideline - Clarifications",
+  "publication_type": "Adjustments and clarifications",
+  "category": "Accounting and Disclosure",
+  "document_date_raw": "July 8, 2024",
+  "document_date_iso": "2024-07-08",
+  "sector": [
+    "Banks",
+    "Life Insurance and Fraternal Companies",
+    "Property and Casualty Companies",
+    "Trust and Loan Companies"
+  ],
+  "effective_date_text": "",
+  "guideline_number": "",
+  "date_modified_raw": "2024-07-08T12:00:00Z",
+  "generate_pdf_url": "https://www.osfi-bsif.gc.ca/en/print/pdf/node/2321",
+  "pdf_node_id": 2321,
+  "direct_pdf_url": null,
+  "has_table_of_contents": true,
+  "toc_entries": [],
+  "has_related_documents": false,
+  "related_document_links_raw": [],
+  "consultation_status_text": null,
+  "consultation_status_refers_to_version": null,
+  "page_language": "en",
+  "word_count_raw_body": 698,
+  "doc_id": "osfi.assurance-capital-leverage-liquidity-returns-guide.standalone",
+  "doc_family_id": "osfi.assurance-capital-leverage-liquidity-returns-guide",
+  "version_id": "",
+  "version_label": "Assurance on Capital, Leverage and Liquidity Returns Guideli",
+  "version_sort_key": "",
+  "parent_doc_id": null,
+  "child_doc_ids": [],
+  "is_package_page": false,
+  "is_chapter_page": false,
+  "chapter_number": null,
+  "chapter_title": null,
+  "document_order_within_family": 0,
+  "supersedes_doc_id": null,
+  "superseded_by_doc_id": null,
+  "current_version_flag": true,
+  "status": "final_current",
+  "include_in_primary_corpus": true,
+  "include_in_support_corpus": false,
+  "include_in_context_corpus": false,
+  "effective_date_start": "2024-07-08",
+  "effective_date_end": null,
+  "effective_date_fye_split": false,
+  "effective_date_oct_fye": null,
+  "effective_date_dec_fye": null,
+  "is_future_effective": false,
+  "is_rescinded": false,
+  "is_draft_or_consultation": false,
+  "rescission_date": null,
+  "consultation_closing_date": null,
+  "as_of_applicability": "2026-03-23",
+  "rule_applied": "rule_5_final_current",
+  "authority_class": "primary_normative",
+  "authority_level": 90,
+  "nova_tier": 1,
+  "prudential_weight": 1.0,
+  "is_primary_normative": true,
+  "is_supporting_interpretive": false,
+  "is_context_only": false,
+  "document_class": "standalone_guideline",
+  "guidance_type_normalized": "adjustments_and_clarifications",
+  "section_headings": [
+    {
+      "level": 2,
+      "text": "External audit expectations",
+      "id": "h2-0"
+    },
+    {
+      "level": 3,
+      "text": "Frequency for category II and III small and medium-sized deposit-taking institutions",
+      "id": "h3-1"
+    },
+    {
+      "level": 2,
+      "text": "Senior management attestation expectations",
+      "id": "h2-2"
+    },
+    {
+      "level": 3,
+      "text": "Frequency for category II and III small and medium-sized deposit-taking institutions",
+      "id": "h3-3"
+    },
+    {
+      "level": 2,
+      "text": "Internal audit expectations",
+      "id": "h2-4"
+    },
+    {
+      "level": 3,
+      "text": "Frequency of submission for domestic systemically important banks and small and medium-sized deposit-taking institutions",
+      "id": "h3-5"
+    },
+    {
+      "level": 3,
+      "text": "OSFI identification codes",
+      "id": "h3-6"
+    },
+    {
+      "level": 3,
+      "text": "Upload format",
+      "id": "h3-7"
+    }
+  ],
+  "heading_path": [
+    "Assurance on Capital, Leverage and Liquidity Returns Guideline - Clarifications"
+  ],
+  "toc_depth": 3,
+  "has_appendices": false,
+  "appendix_ids": [],
+  "has_tables": false,
+  "table_count": 0,
+  "has_footnotes": false,
+  "footnote_count": 0,
+  "inline_cross_references": [],
+  "quoted_external_references": [],
+  "raw_html_sha256": "7574c77e4a18969e6b5e3c8845b6ed72cd3d4835aa42d859956ff64cb2c11fac",
+  "raw_pdf_sha256": null,
+  "normalized_text_sha256": null,
+  "raw_html_path": "bronze/osfi/html/final_current/assurance-capital-leverage-liquidity-returns-guideline-clarifications.html",
+  "normalized_md_path": "silver/osfi/md/final_current/assurance-capital-leverage-liquidity-returns-guideline-clarifications.md",
+  "canonical_json_path": "silver/osfi/json/final_current/assurance-capital-leverage-liquidity-returns-guideline-clarifications.json",
+  "content_source": "HTML",
+  "parser_version": "osfi-parser-v2.1.0",
+  "normalizer_version": "osfi-normalizer-v1.4.0",
+  "quality_score": 1.0,
+  "quality_flags": [],
+  "download_timestamp": "2026-03-11T00:00:00Z",
+  "enriched_timestamp": "2026-03-23T09:53:46.802028Z",
+  "sections": [
+    {
+      "heading": "",
+      "heading_level": 2,
+      "full_text": "  - Assurance on Capital, Leverage and Liquidity Returns - Guideline (2022)\nAs part of adopting the Basel III reforms and International Financial Reporting Standard 17 in fiscal 2023, we've enhanced and aligned assurance expectations on the capital, leverage and liquidity returns for banks and insurers. For banks, the scope now includes liquidity metrics in addition to capital and leverage metrics. For insurers, the scope now includes an internal audit opinion in addition to the management attestation and external audit opinion.",
+      "content": [
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Assurance on Capital, Leverage and Liquidity Returns - Guideline (2022)"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "As part of adopting the Basel III reforms and International Financial Reporting Standard 17 in fiscal 2023, we've enhanced and aligned assurance expectations on the capital, leverage and liquidity returns for banks and insurers. For banks, the scope now includes liquidity metrics in addition to capital and leverage metrics. For insurers, the scope now includes an internal audit opinion in addition to the management attestation and external audit opinion."
+        }
+      ]
+    },
+    {
+      "heading": "External audit expectations",
+      "heading_level": 2,
+      "full_text": "An external audit opinion is expected on the numerator and denominator separately instead of the overall ratio. This will prevent offsetting errors that might not be detected otherwise.\nThe Net Cumulative Cash Flow and Operating Cash Flow Statement don't have an external audit expectation as they're non-public prudential measures for domestic systemically important banks (D-SIBs) and small and medium-sized deposit-taking institutions (SMSBs).",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "An external audit opinion is expected on the numerator and denominator separately instead of the overall ratio. This will prevent offsetting errors that might not be detected otherwise."
+        },
+        {
+          "type": "paragraph",
+          "text": "The Net Cumulative Cash Flow and Operating Cash Flow Statement don't have an external audit expectation as they're non-public prudential measures for domestic systemically important banks (D-SIBs) and small and medium-sized deposit-taking institutions (SMSBs)."
+        }
+      ]
+    },
+    {
+      "heading": "Frequency for category II and III small and medium-sized deposit-taking institutions",
+      "heading_level": 3,
+      "full_text": "For example, an SMSB with a fiscal year-end of December 31, 2025, needs to submit an external audit opinion by March 31, 2026. The SMSB needs to submit the next external audit opinion for fiscal year-end 2027 by March 30, 2028.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "For example, an SMSB with a fiscal year-end of December 31, 2025, needs to submit an external audit opinion by March 31, 2026. The SMSB needs to submit the next external audit opinion for fiscal year-end 2027 by March 30, 2028."
+        }
+      ]
+    },
+    {
+      "heading": "Senior management attestation expectations",
+      "heading_level": 2,
+      "full_text": "If the existing attestations or audit opinions align with the scope and frequency of this guideline, the institution can submit the same attestations and audit opinions for the regulatory returns to avoid duplication of effort.\nThe updated capital quarterly returns for insurers contain:\n  - a \"Cover\" page for existing attestations\n  - an \"Attestation\" page for the senior management attestation and internal audit opinion\nAny individual, including an external third party, who is \"not directly involved in the preparation of the returns, and (is) with the appropriate authority, knowledge, and expertise to interpret the applicable regulatory guidance\" can review the regulatory returns as part of the senior management attestation. The authorized official or chief agent who signs the existing cover page in the capital returns for insurers can also sign off on the senior management attestation page.\nAlthough liquidity returns are filed monthly, the attestation for liquidity returns is expected for the quarter-end month only.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "If the existing attestations or audit opinions align with the scope and frequency of this guideline, the institution can submit the same attestations and audit opinions for the regulatory returns to avoid duplication of effort."
+        },
+        {
+          "type": "paragraph",
+          "text": "The updated capital quarterly returns for insurers contain:"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "a \"Cover\" page for existing attestations",
+            "an \"Attestation\" page for the senior management attestation and internal audit opinion"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Any individual, including an external third party, who is \"not directly involved in the preparation of the returns, and (is) with the appropriate authority, knowledge, and expertise to interpret the applicable regulatory guidance\" can review the regulatory returns as part of the senior management attestation. The authorized official or chief agent who signs the existing cover page in the capital returns for insurers can also sign off on the senior management attestation page."
+        },
+        {
+          "type": "paragraph",
+          "text": "Although liquidity returns are filed monthly, the attestation for liquidity returns is expected for the quarter-end month only."
+        }
+      ]
+    },
+    {
+      "heading": "Frequency for category II and III small and medium-sized deposit-taking institutions",
+      "heading_level": 3,
+      "full_text": "For example, an SMSB with a fiscal year-end of December 31, 2024, needs to submit an attestation for the quarter-ending March 31, 2024 and for each quarter remaining in fiscal 2024. The SMSB would need to submit the next attestations quarterly in fiscal 2026.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "For example, an SMSB with a fiscal year-end of December 31, 2024, needs to submit an attestation for the quarter-ending March 31, 2024 and for each quarter remaining in fiscal 2024. The SMSB would need to submit the next attestations quarterly in fiscal 2026."
+        }
+      ]
+    },
+    {
+      "heading": "Internal audit expectations",
+      "heading_level": 2,
+      "full_text": "The assurance expectations now include an internal audit opinion on controls and processes around preparing the regulatory returns. This will enhance confidence and reliance on the returns.\nInstitutions that don't have an internal audit function can outsource or appoint an independent qualified party to perform the internal audit procedures.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "The assurance expectations now include an internal audit opinion on controls and processes around preparing the regulatory returns. This will enhance confidence and reliance on the returns."
+        },
+        {
+          "type": "paragraph",
+          "text": "Institutions that don't have an internal audit function can outsource or appoint an independent qualified party to perform the internal audit procedures."
+        }
+      ]
+    },
+    {
+      "heading": "Frequency of submission for domestic systemically important banks and small and medium-sized deposit-taking institutions",
+      "heading_level": 3,
+      "full_text": "Institutions can submit the first internal audit opinion any time between their fiscal 2023 and fiscal 2025 reporting timelines. This means institutions can defer the internal audit opinion to fiscal 2025.\nFor example:\n  - an SMSB with a fiscal year-end of December 31, 2025, needs to submit an internal audit opinion by March 31, 2026\n  - a D-SIB with a fiscal year-end of October 31, 2025, needs to submit an internal audit opinion by January 29, 2026\nThe three-year cycle allows institutions to develop internal audit processes. For example, institutions should base a fiscal 2024 internal audit opinion on the effectiveness of controls in fiscal 2024 only. It must be submitted within 90 days of fiscal 2024 year-end.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Institutions can submit the first internal audit opinion any time between their fiscal 2023 and fiscal 2025 reporting timelines. This means institutions can defer the internal audit opinion to fiscal 2025."
+        },
+        {
+          "type": "paragraph",
+          "text": "For example:"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "an SMSB with a fiscal year-end of December 31, 2025, needs to submit an internal audit opinion by March 31, 2026",
+            "a D-SIB with a fiscal year-end of October 31, 2025, needs to submit an internal audit opinion by January 29, 2026"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "The three-year cycle allows institutions to develop internal audit processes. For example, institutions should base a fiscal 2024 internal audit opinion on the effectiveness of controls in fiscal 2024 only. It must be submitted within 90 days of fiscal 2024 year-end."
+        }
+      ]
+    },
+    {
+      "heading": "OSFI identification codes",
+      "heading_level": 3,
+      "full_text": "To submit regulatory returns, senior management attestations and internal audit opinions, and external audit opinions, refer to the Reporting Requirements for Deposit-Taking Institutions for OSFI codes under the \"Return Title.\"\nTo submit unstructured regulatory returns including the senior management attestations and internal audit opinions, and external audit opinions, refer to the following for OSFI codes under the \"Return Title\":\n  - Reporting Requirements for Life Insurance Companies and Fraternal Benefit Societies\n  - Reporting Requirements for Property & Casualty Insurance Companies\n  - Reporting Requirements for Federally Regulated Mortgage Insurers",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "To submit regulatory returns, senior management attestations and internal audit opinions, and external audit opinions, refer to the Reporting Requirements for Deposit-Taking Institutions for OSFI codes under the \"Return Title.\""
+        },
+        {
+          "type": "paragraph",
+          "text": "To submit unstructured regulatory returns including the senior management attestations and internal audit opinions, and external audit opinions, refer to the following for OSFI codes under the \"Return Title\":"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Reporting Requirements for Life Insurance Companies and Fraternal Benefit Societies",
+            "Reporting Requirements for Property & Casualty Insurance Companies",
+            "Reporting Requirements for Federally Regulated Mortgage Insurers"
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "Upload format",
+      "heading_level": 3,
+      "full_text": "Please submit the senior management attestation or internal audit opinion as an unstructured return after the authorized individual signs the page. Institutions can upload any unstructured return format into the Regulatory Reporting System.\nFor banks, the return or attestation page can be submitted in any order if the submissions follow each respective deadline. Insurers can submit the attestation page within each unstructured return.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Please submit the senior management attestation or internal audit opinion as an unstructured return after the authorized individual signs the page. Institutions can upload any unstructured return format into the Regulatory Reporting System."
+        },
+        {
+          "type": "paragraph",
+          "text": "For banks, the return or attestation page can be submitted in any order if the submissions follow each respective deadline. Insurers can submit the attestation page within each unstructured return."
+        }
+      ]
+    }
+  ],
+  "title_normalized": "assurance on capital leverage and liquidity returns guideline clarifications",
+  "publication_type_normalized": "adjustments_and_clarifications",
+  "category_normalized": "accounting_and_disclosure",
+  "sector_normalized": [
+    "banks",
+    "life_insurance",
+    "pc_insurance",
+    "trust_and_loan_companies"
+  ],
+  "guideline_number_normalized": "",
+  "applies_to_banks": true,
+  "applies_to_trust_loan": true,
+  "applies_to_life_insurance": true,
+  "applies_to_pc_insurance": true,
+  "applies_to_foreign_bank": false,
+  "applies_to_foreign_insurance": false,
+  "applies_to_cooperative": false,
+  "applies_to_bank_holding": false,
+  "effective_date_sort_key": "2024-07-08",
+  "status_sort_key": 1,
+  "authority_sort_key": 90,
+  "bm25_text": "Assurance on Capital, Leverage and Liquidity Returns Guideline - Clarifications Adjustments and clarifications Accounting and Disclosure Banks Life Insurance and Fraternal Companies Property and Casualty Companies Trust and Loan Companies External audit expectations Frequency for category II and III small and medium-sized deposit-taking institutions Senior management attestation expectations Frequency for category II and III small and medium-sized deposit-taking institutions Internal audit expectations Frequency of submission for domestic systemically important banks and small and medium-sized deposit-taking institutions OSFI identification codes Upload format",
+  "vector_text_prefix": "[OSFI Adjustments and clarifications  | Accounting and Disclosure | Banks / Life Insurance and Fraternal Companies / Property and Casualty Companies | FINAL_CURRENT | Effective 2024-07-08]",
+  "h1_title": "Assurance on Capital, Leverage and Liquidity Returns Guideline - Clarifications",
+  "regulator": "OSFI",
+  "regulator_acronym": "OSFI",
+  "jurisdiction": "Canada",
+  "short_title": "",
+  "source_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/assurance-capital-leverage-liquidity-returns-guideline-clarifications"
+}

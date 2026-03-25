@@ -1,0 +1,469 @@
+{
+  "source_system": "osfi_guidance_library",
+  "library_row_title": "Life Insurance Capital Adequacy Test (2025) – Chapter 8 Operational Risk",
+  "library_row_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/life-insurance-capital-adequacy-test-2025-chapter-8-operational-risk",
+  "listing_date_raw": "Issue date November 21, 2024",
+  "listing_date_iso": "",
+  "listing_publication_type": "Guideline",
+  "listing_category": "Capital Adequacy Requirements",
+  "listing_sector": [
+    "Life Insurance and Fraternal Companies"
+  ],
+  "crawl_timestamp": "2026-03-11T00:00:00Z",
+  "detail_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/life-insurance-capital-adequacy-test-2025-chapter-8-operational-risk",
+  "canonical_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/life-insurance-capital-adequacy-test-2025-chapter-8-operational-risk",
+  "slug": "life-insurance-capital-adequacy-test-2025-chapter-8-operational-risk",
+  "title": "Life Insurance Capital Adequacy Test (2025) – Chapter 8 Operational Risk",
+  "publication_type": "Guideline",
+  "category": "Capital Adequacy Requirements",
+  "document_date_raw": "Issue date November 21, 2024",
+  "document_date_iso": "",
+  "sector": [
+    "Life Insurance and Fraternal Companies"
+  ],
+  "effective_date_text": "",
+  "guideline_number": "",
+  "date_modified_raw": "2025-01-01T12:00:00Z",
+  "generate_pdf_url": null,
+  "pdf_node_id": null,
+  "direct_pdf_url": "https://www.osfi-bsif.gc.ca/sites/default/files/documents/2025-licat-guideline-ligne-directrice-tsav-en.pdf",
+  "has_table_of_contents": true,
+  "toc_entries": [],
+  "has_related_documents": true,
+  "related_document_links_raw": [
+    {
+      "title": "Life Insurance Capital Adequacy Test – Backgrounder (2025)",
+      "url": "https://www.osfi-bsif.gc.ca/en/news/backgrounder-final-life-insurance-capital-adequacy-test-licat-guideline-2025"
+    },
+    {
+      "title": "Life Insurance Capital Adequacy Test – Letter (2025)",
+      "url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/life-insurance-capital-adequacy-test-2025-letter"
+    },
+    {
+      "title": "Life Insurance Capital Adequacy Test – Filing Instructions (2025)",
+      "url": "https://www.osfi-bsif.gc.ca/en/data-forms/reporting-returns/filing-financial-returns/financial-reporting-instructions/2025-life-insurance-capital-adequacy-test-filing-instructions-0"
+    }
+  ],
+  "consultation_status_text": null,
+  "consultation_status_refers_to_version": null,
+  "page_language": "en",
+  "word_count_raw_body": 1571,
+  "doc_id": "osfi.licat.2025.chapter8.chapter",
+  "doc_family_id": "osfi.licat",
+  "version_id": "2025",
+  "version_label": "Life Insurance Capital Adequacy Test (2025) – Chapter 8 Oper",
+  "version_sort_key": "2025-11",
+  "parent_doc_id": "osfi.licat.2025.package",
+  "child_doc_ids": [],
+  "is_package_page": false,
+  "is_chapter_page": true,
+  "chapter_number": 8,
+  "chapter_title": null,
+  "document_order_within_family": 8,
+  "supersedes_doc_id": null,
+  "superseded_by_doc_id": null,
+  "current_version_flag": true,
+  "status": "final_current",
+  "include_in_primary_corpus": true,
+  "include_in_support_corpus": false,
+  "include_in_context_corpus": false,
+  "effective_date_start": "2024-11-21",
+  "effective_date_end": null,
+  "effective_date_fye_split": false,
+  "effective_date_oct_fye": null,
+  "effective_date_dec_fye": null,
+  "is_future_effective": false,
+  "is_rescinded": false,
+  "is_draft_or_consultation": false,
+  "rescission_date": null,
+  "consultation_closing_date": null,
+  "as_of_applicability": "2026-03-23",
+  "rule_applied": "rule_5_final_current",
+  "authority_class": "primary_normative",
+  "authority_level": 100,
+  "nova_tier": 1,
+  "prudential_weight": 1.0,
+  "is_primary_normative": true,
+  "is_supporting_interpretive": false,
+  "is_context_only": false,
+  "document_class": "chapter_guideline",
+  "guidance_type_normalized": "guideline",
+  "section_headings": [
+    {
+      "level": 2,
+      "text": "Note",
+      "id": "h2-0"
+    },
+    {
+      "level": 2,
+      "text": "8.1. Operational risk formula",
+      "id": "h2-1"
+    },
+    {
+      "level": 2,
+      "text": "8.2. Operational risk exposures and factors",
+      "id": "h2-2"
+    },
+    {
+      "level": 3,
+      "text": "8.2.1. Business volume required capital",
+      "id": "h3-3"
+    },
+    {
+      "level": 3,
+      "text": "8.2.2. Large increase in business volume required capital",
+      "id": "h3-4"
+    },
+    {
+      "level": 3,
+      "text": "8.2.3. General required capital",
+      "id": "h3-5"
+    },
+    {
+      "level": 2,
+      "text": "Footnotes",
+      "id": "h2-6"
+    }
+  ],
+  "heading_path": [
+    "Life Insurance Capital Adequacy Test (2025) – Chapter 8 Operational Risk"
+  ],
+  "toc_depth": 3,
+  "has_appendices": false,
+  "appendix_ids": [],
+  "has_tables": true,
+  "table_count": 2,
+  "has_footnotes": true,
+  "footnote_count": 1,
+  "inline_cross_references": [],
+  "quoted_external_references": [],
+  "raw_html_sha256": "44e752ab2283919e60f7365aafedfff1de684e2d23721ef29c65e514b82611f7",
+  "raw_pdf_sha256": null,
+  "normalized_text_sha256": null,
+  "raw_html_path": "bronze/osfi/html/final_current/life-insurance-capital-adequacy-test-2025-chapter-8-operational-risk.html",
+  "normalized_md_path": "silver/osfi/md/final_current/life-insurance-capital-adequacy-test-2025-chapter-8-operational-risk.md",
+  "canonical_json_path": "silver/osfi/json/final_current/life-insurance-capital-adequacy-test-2025-chapter-8-operational-risk.json",
+  "content_source": "HTML",
+  "parser_version": "osfi-parser-v2.1.0",
+  "normalizer_version": "osfi-normalizer-v1.4.0",
+  "quality_score": 1.0,
+  "quality_flags": [],
+  "download_timestamp": "2026-03-11T00:00:00Z",
+  "enriched_timestamp": "2026-03-23T09:53:54.188786Z",
+  "sections": [
+    {
+      "heading": "",
+      "heading_level": 2,
+      "full_text": "  - Life Insurance Capital Adequacy Test – Backgrounder (2025)\n  - Life Insurance Capital Adequacy Test – Letter (2025)\n  - Life Insurance Capital Adequacy Test – Filing Instructions (2025)",
+      "content": [
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Life Insurance Capital Adequacy Test – Backgrounder (2025)",
+            "Life Insurance Capital Adequacy Test – Letter (2025)",
+            "Life Insurance Capital Adequacy Test – Filing Instructions (2025)"
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "Note",
+      "heading_level": 2,
+      "full_text": "A Regulatory Notice on Adjustments to the Life Insurance Capital Adequacy Test – Guideline (2025) was published and became effective on May 22, 2025. These adjustments are expected to be incorporated in the next version of the LICAT guideline.\nOperational risk is the risk of loss resulting from inadequate or failed internal processes, people and systems or from external events. This definition includes legal risk Footnote 1 but excludes strategic and reputational risk.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "A Regulatory Notice on Adjustments to the Life Insurance Capital Adequacy Test – Guideline (2025) was published and became effective on May 22, 2025. These adjustments are expected to be incorporated in the next version of the LICAT guideline."
+        },
+        {
+          "type": "paragraph",
+          "text": "Operational risk is the risk of loss resulting from inadequate or failed internal processes, people and systems or from external events. This definition includes legal risk Footnote 1 but excludes strategic and reputational risk."
+        }
+      ]
+    },
+    {
+      "heading": "8.1. Operational risk formula",
+      "heading_level": 2,
+      "full_text": "Required capital for operational risk is the sum of:\n  1. Business volume required capital;\n  2. Large increase in business volume required capital; and\n  3. General required capital.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Required capital for operational risk is the sum of:"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "Business volume required capital;",
+            "Large increase in business volume required capital; and",
+            "General required capital."
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "8.2. Operational risk exposures and factors",
+      "heading_level": 2,
+      "full_text": "This section outlines exposures and factors used to calculate required capital for operational risk.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "This section outlines exposures and factors used to calculate required capital for operational risk."
+        }
+      ]
+    },
+    {
+      "heading": "8.2.1. Business volume required capital",
+      "heading_level": 3,
+      "full_text": "Business volume required capital is determined by applying the following factors to premiums received in the past 12 months, and to account values/liabilities for deposit-type products:\nTable: Business volume required capital factors by exposure\nExposure | Factor\nDirect premiums received | 2.50%\nAssumed reinsurance premiums received | 1.75%\nInvestment-type products and annuities:\nSegregated funds with guarantees (account values) | 0.40%\nLiabilities for annuities in payout period, and annuity liability equivalents for longevity risk transfer arrangements | 0.15%\nUniversal life account values | 0.10%\nAccount values of mutual funds, GICs, other investment-type products and segregated funds without guarantees, and liabilities for annuities in accumulation period | 0.10%\nSegregated funds with guarantees (account values)\nLiabilities for annuities in payout period, and annuity liability equivalents for longevity risk transfer arrangements\nUniversal life account values\nAccount values of mutual funds, GICs, other investment-type products and segregated funds without guarantees, and liabilities for annuities in accumulation period\nDirect premiums received and assumed reinsurance premiums received both relate to insurance contracts issued, where direct premiums received are attributable to premiums collected from individual policyholders while assumed reinsurance premiums received are those collected for policies assumed from other insurers. Direct premiums received for individual and group life policies include universal life premiums, but exclude annuity and longevity risk transfer premiums, mutual fund deposits, GICs, segregated fund deposits and premium equivalents for administrative service only/investment management services.\nIn determining the premiums received to which the 1.75% risk factor for assumed reinsurance is applied, coinsurance premiums may be calculated net of expense allowances, such as acquisition expenses, premium taxes and administrative expenses. For funds withheld coinsurance and modified coinsurance arrangements, the 1.75% factor applies to the portion of the gross accruing receivable or gross modified coinsurance receivable corresponding to premiums net of expense allowances (i.e. the premium amount should be the same as for regular coinsurance).\nThe account and liability values to which the factors for investment-type products and annuities are applied are calculated gross of reinsurance (where applicable), include the risk adjustment, and exclude the contractual service margin. The liability value for business assumed under modified coinsurance arrangements is the pro forma liability for the business had it been assumed under regular coinsurance.\nLongevity risk transfer arrangements that assume longevity risk have the same requirement as the underlying annuity business. The annuity liability equivalent for a swap is the current gross value of the floating leg of the swap, without deductions or offsets.\nBusiness volume operational risk charges do not apply to business in controlled non-life financial corporations that are deducted from Available Capital.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Business volume required capital is determined by applying the following factors to premiums received in the past 12 months, and to account values/liabilities for deposit-type products:"
+        },
+        {
+          "type": "table",
+          "caption": "Business volume required capital factors by exposure",
+          "rows": [
+            [
+              "Exposure",
+              "Factor"
+            ],
+            [
+              "Direct premiums received",
+              "2.50%"
+            ],
+            [
+              "Assumed reinsurance premiums received",
+              "1.75%"
+            ],
+            [
+              "Investment-type products and annuities:"
+            ],
+            [
+              "Segregated funds with guarantees (account values)",
+              "0.40%"
+            ],
+            [
+              "Liabilities for annuities in payout period, and annuity liability equivalents for longevity risk transfer arrangements",
+              "0.15%"
+            ],
+            [
+              "Universal life account values",
+              "0.10%"
+            ],
+            [
+              "Account values of mutual funds, GICs, other investment-type products and segregated funds without guarantees, and liabilities for annuities in accumulation period",
+              "0.10%"
+            ]
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Segregated funds with guarantees (account values)"
+        },
+        {
+          "type": "paragraph",
+          "text": "Liabilities for annuities in payout period, and annuity liability equivalents for longevity risk transfer arrangements"
+        },
+        {
+          "type": "paragraph",
+          "text": "Universal life account values"
+        },
+        {
+          "type": "paragraph",
+          "text": "Account values of mutual funds, GICs, other investment-type products and segregated funds without guarantees, and liabilities for annuities in accumulation period"
+        },
+        {
+          "type": "paragraph",
+          "text": "Direct premiums received and assumed reinsurance premiums received both relate to insurance contracts issued, where direct premiums received are attributable to premiums collected from individual policyholders while assumed reinsurance premiums received are those collected for policies assumed from other insurers. Direct premiums received for individual and group life policies include universal life premiums, but exclude annuity and longevity risk transfer premiums, mutual fund deposits, GICs, segregated fund deposits and premium equivalents for administrative service only/investment management services."
+        },
+        {
+          "type": "paragraph",
+          "text": "In determining the premiums received to which the 1.75% risk factor for assumed reinsurance is applied, coinsurance premiums may be calculated net of expense allowances, such as acquisition expenses, premium taxes and administrative expenses. For funds withheld coinsurance and modified coinsurance arrangements, the 1.75% factor applies to the portion of the gross accruing receivable or gross modified coinsurance receivable corresponding to premiums net of expense allowances (i.e. the premium amount should be the same as for regular coinsurance)."
+        },
+        {
+          "type": "paragraph",
+          "text": "The account and liability values to which the factors for investment-type products and annuities are applied are calculated gross of reinsurance (where applicable), include the risk adjustment, and exclude the contractual service margin. The liability value for business assumed under modified coinsurance arrangements is the pro forma liability for the business had it been assumed under regular coinsurance."
+        },
+        {
+          "type": "paragraph",
+          "text": "Longevity risk transfer arrangements that assume longevity risk have the same requirement as the underlying annuity business. The annuity liability equivalent for a swap is the current gross value of the floating leg of the swap, without deductions or offsets."
+        },
+        {
+          "type": "paragraph",
+          "text": "Business volume operational risk charges do not apply to business in controlled non-life financial corporations that are deducted from Available Capital."
+        }
+      ]
+    },
+    {
+      "heading": "8.2.2. Large increase in business volume required capital",
+      "heading_level": 3,
+      "full_text": "Large increase in business volume required capital is calculated by geographic region. The factors in section 8.2.1 are applied to the amounts by which the year-over-year increases in direct premiums received, assumed reinsurance premiums received, and account values/liabilities for investment-type products and annuities exceed a threshold of 20%.\nThe year-over-year increase for direct premiums received is defined to be the total amount of direct premiums received in the past 12 months that exceed 120% of the direct premiums received for the same period in the previous year. It is calculated separately for each of:\n  1. Individual Life (including Universal Life);\n  2. Group Life (including Universal Life); and\n  3. Other (excluding annuities).\nExample: Increase in direct premiums received\nIf, as a result of rapid business growth, direct premiums received increase by 50% from 100 in Y1 to 150 in Y2, the premiums in Y2 in excess of 120% of the premiums in Y1 (30) is subject to an additional capital requirement of 0.75 (30 × 2.50%).\nThe year-over-year increase for assumed reinsurance premiums received is defined to be the total amount of reinsurance premiums assumed in the past 12 months that exceed 120% of the premiums assumed for the same period in the previous year, for all products combined.\nFor investment-type products and annuities, the year-over-year increase is calculated separately for each of:\n  1. Segregated funds with guarantees (account values);\n  2. Liabilities for annuities in payout period, and annuity liability equivalents for longevity risk transfer arrangements;\n  3. Universal life account values; and\n  4. Account values of mutual funds, GICs, other investment-type products and segregated funds without guarantees, and liabilities for annuities in accumulation period.\nTo adjust for the effect of exchange rate fluctuations over the measurement period, current and prior period premiums received, account values and liabilities denominated in foreign currencies should be converted to Canadian dollars at the exchange rates in effect at the LICAT report ending date. Accordingly, the amounts used to measure large increases in business volume may not correspond to the amounts reported in prior period financial statements, and in the case of premiums received, may not correspond to amounts reported in the current period financial statements.\nIn the case of an acquisition of another entity or an acquisition of a block of business (e.g. through assumption reinsurance), the premiums received, account values, or liabilities and equivalents for any prior reporting period (before the acquisition) is the sum of the premiums received, account values, or liabilities and equivalents of the two separate entities/blocks of business, i.e., the sum of the acquiring company's and the acquired company's/blocks of business' premiums received, account values, or liabilities and equivalents. Following an acquisition, the acquiring insurer should re-classify premiums based on the merged company's categorization, using approximations, as necessary, in order to follow categories used in the LIFE Return.\nExample: Business acquisition\nAssume that company A has direct premiums received of 100 for the 12-month period ending December 31, Y1. In Y2 it acquires company B that received direct premiums of 50 during Y1. The merged company reports a total of 225 in direct premiums received for the 12-month period ending December 31, Y2. The operational risk requirement for large increase in business volume is calculated as:\n2.50% × [ 225 − ( ( 100 + 50 ) × 1.20 ) ] = 2.50% × 45 = 1.13",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Large increase in business volume required capital is calculated by geographic region. The factors in section 8.2.1 are applied to the amounts by which the year-over-year increases in direct premiums received, assumed reinsurance premiums received, and account values/liabilities for investment-type products and annuities exceed a threshold of 20%."
+        },
+        {
+          "type": "paragraph",
+          "text": "The year-over-year increase for direct premiums received is defined to be the total amount of direct premiums received in the past 12 months that exceed 120% of the direct premiums received for the same period in the previous year. It is calculated separately for each of:"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "Individual Life (including Universal Life);",
+            "Group Life (including Universal Life); and",
+            "Other (excluding annuities)."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Example: Increase in direct premiums received"
+        },
+        {
+          "type": "paragraph",
+          "text": "If, as a result of rapid business growth, direct premiums received increase by 50% from 100 in Y1 to 150 in Y2, the premiums in Y2 in excess of 120% of the premiums in Y1 (30) is subject to an additional capital requirement of 0.75 (30 × 2.50%)."
+        },
+        {
+          "type": "paragraph",
+          "text": "The year-over-year increase for assumed reinsurance premiums received is defined to be the total amount of reinsurance premiums assumed in the past 12 months that exceed 120% of the premiums assumed for the same period in the previous year, for all products combined."
+        },
+        {
+          "type": "paragraph",
+          "text": "For investment-type products and annuities, the year-over-year increase is calculated separately for each of:"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "Segregated funds with guarantees (account values);",
+            "Liabilities for annuities in payout period, and annuity liability equivalents for longevity risk transfer arrangements;",
+            "Universal life account values; and",
+            "Account values of mutual funds, GICs, other investment-type products and segregated funds without guarantees, and liabilities for annuities in accumulation period."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "To adjust for the effect of exchange rate fluctuations over the measurement period, current and prior period premiums received, account values and liabilities denominated in foreign currencies should be converted to Canadian dollars at the exchange rates in effect at the LICAT report ending date. Accordingly, the amounts used to measure large increases in business volume may not correspond to the amounts reported in prior period financial statements, and in the case of premiums received, may not correspond to amounts reported in the current period financial statements."
+        },
+        {
+          "type": "paragraph",
+          "text": "In the case of an acquisition of another entity or an acquisition of a block of business (e.g. through assumption reinsurance), the premiums received, account values, or liabilities and equivalents for any prior reporting period (before the acquisition) is the sum of the premiums received, account values, or liabilities and equivalents of the two separate entities/blocks of business, i.e., the sum of the acquiring company's and the acquired company's/blocks of business' premiums received, account values, or liabilities and equivalents. Following an acquisition, the acquiring insurer should re-classify premiums based on the merged company's categorization, using approximations, as necessary, in order to follow categories used in the LIFE Return."
+        },
+        {
+          "type": "paragraph",
+          "text": "Example: Business acquisition"
+        },
+        {
+          "type": "paragraph",
+          "text": "Assume that company A has direct premiums received of 100 for the 12-month period ending December 31, Y1. In Y2 it acquires company B that received direct premiums of 50 during Y1. The merged company reports a total of 225 in direct premiums received for the 12-month period ending December 31, Y2. The operational risk requirement for large increase in business volume is calculated as:"
+        },
+        {
+          "type": "paragraph",
+          "text": "2.50% × [ 225 − ( ( 100 + 50 ) × 1.20 ) ] = 2.50% × 45 = 1.13"
+        }
+      ]
+    },
+    {
+      "heading": "8.2.3. General required capital",
+      "heading_level": 3,
+      "full_text": "General required capital has two components. The first component is calculated as follows Footnote 2 :\n  1. a 5.75% factor applied to the total required capital for credit, insurance and market risk components, calculated net of all reinsurance and net of credits for participating products, adjustable products, policyholder deposits, adjustments for group insurance business, and diversification; plus\n  2. a 4.5% factor applied to required capital for segregated fund guarantees, calculated net of diversification. The required capital for segregated fund guarantees is the sum of credit, market and insurance risk requirements, after applicable transition measures (q.v. Section 7.5.1), or if the insurer elects the Simplified Option, the segregated fund guarantee risk capital requirement calculated under the Simplified Option (section 7.5.2).\nThe second component is calculated as a 2.5% factor applied to premiums paid for reinsurance contracts held, and compensates for the understatement of the first component arising from its calculation net of reinsurance. For ceded annuity business, the amount that should be used as the premium paid for reinsurance contracts held equivalent is the annual amount of annuity payments ceded to the reinsurer. For risks reinsured under longevity risk transfer arrangements, the amount that should be used as the premium paid for reinsurance contracts held equivalent is the gross amount of annuity payments ceded (for swaps, this amount is the gross annual payment under the floating leg of the swap without deductions or offsets). For coinsurance arrangements, the 2.5% risk factor applies to premiums paid net of expense allowances, such as acquisition expenses, premium taxes and administrative expenses.\nTable: Summary of factors applied in calculating general required capital\nProxy | Factor\nRequired capital for credit, insurance and market risks | 5.75%\nRequired capital for segregated fund guarantees | 4.5%\nPremiums paid for reinsurance contracts held | 2.5%\n[Note: Footnotes Footnote 1 Legal risk includes, but is not limited to, exposure to fines, penalties, or punitive damages resulting from supervisory actions, as well as private settlements. Return to footnote 1 referrer Footnote 2 Diversification credits should be allocated to items 1 and 2 based on the proportion of total undiversified required capital arising from non-segregated fund guarantee risk and the proportion arising from segregated fund guarantee risks (after applicable transition measures). Return to footnote 2 referrer]",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "General required capital has two components. The first component is calculated as follows Footnote 2 :"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "a 5.75% factor applied to the total required capital for credit, insurance and market risk components, calculated net of all reinsurance and net of credits for participating products, adjustable products, policyholder deposits, adjustments for group insurance business, and diversification; plus",
+            "a 4.5% factor applied to required capital for segregated fund guarantees, calculated net of diversification. The required capital for segregated fund guarantees is the sum of credit, market and insurance risk requirements, after applicable transition measures (q.v. Section 7.5.1), or if the insurer elects the Simplified Option, the segregated fund guarantee risk capital requirement calculated under the Simplified Option (section 7.5.2)."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "The second component is calculated as a 2.5% factor applied to premiums paid for reinsurance contracts held, and compensates for the understatement of the first component arising from its calculation net of reinsurance. For ceded annuity business, the amount that should be used as the premium paid for reinsurance contracts held equivalent is the annual amount of annuity payments ceded to the reinsurer. For risks reinsured under longevity risk transfer arrangements, the amount that should be used as the premium paid for reinsurance contracts held equivalent is the gross amount of annuity payments ceded (for swaps, this amount is the gross annual payment under the floating leg of the swap without deductions or offsets). For coinsurance arrangements, the 2.5% risk factor applies to premiums paid net of expense allowances, such as acquisition expenses, premium taxes and administrative expenses."
+        },
+        {
+          "type": "table",
+          "caption": "Summary of factors applied in calculating general required capital",
+          "rows": [
+            [
+              "Proxy",
+              "Factor"
+            ],
+            [
+              "Required capital for credit, insurance and market risks",
+              "5.75%"
+            ],
+            [
+              "Required capital for segregated fund guarantees",
+              "4.5%"
+            ],
+            [
+              "Premiums paid for reinsurance contracts held",
+              "2.5%"
+            ]
+          ]
+        },
+        {
+          "type": "footnote",
+          "text": "Footnotes Footnote 1 Legal risk includes, but is not limited to, exposure to fines, penalties, or punitive damages resulting from supervisory actions, as well as private settlements. Return to footnote 1 referrer Footnote 2 Diversification credits should be allocated to items 1 and 2 based on the proportion of total undiversified required capital arising from non-segregated fund guarantee risk and the proportion arising from segregated fund guarantee risks (after applicable transition measures). Return to footnote 2 referrer"
+        }
+      ]
+    },
+    {
+      "heading": "Footnotes",
+      "heading_level": 2,
+      "full_text": "Legal risk includes, but is not limited to, exposure to fines, penalties, or punitive damages resulting from supervisory actions, as well as private settlements.\nReturn to footnote 1 referrer\nDiversification credits should be allocated to items 1 and 2 based on the proportion of total undiversified required capital arising from non-segregated fund guarantee risk and the proportion arising from segregated fund guarantee risks (after applicable transition measures).\nReturn to footnote 2 referrer",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Legal risk includes, but is not limited to, exposure to fines, penalties, or punitive damages resulting from supervisory actions, as well as private settlements."
+        },
+        {
+          "type": "paragraph",
+          "text": "Return to footnote 1 referrer"
+        },
+        {
+          "type": "paragraph",
+          "text": "Diversification credits should be allocated to items 1 and 2 based on the proportion of total undiversified required capital arising from non-segregated fund guarantee risk and the proportion arising from segregated fund guarantee risks (after applicable transition measures)."
+        },
+        {
+          "type": "paragraph",
+          "text": "Return to footnote 2 referrer"
+        }
+      ]
+    }
+  ],
+  "title_normalized": "life insurance capital adequacy test 2025 chapter 8 operational risk",
+  "publication_type_normalized": "guideline",
+  "category_normalized": "capital_adequacy_requirements",
+  "sector_normalized": [
+    "life_insurance"
+  ],
+  "guideline_number_normalized": "",
+  "applies_to_banks": false,
+  "applies_to_trust_loan": false,
+  "applies_to_life_insurance": true,
+  "applies_to_pc_insurance": false,
+  "applies_to_foreign_bank": false,
+  "applies_to_foreign_insurance": false,
+  "applies_to_cooperative": false,
+  "applies_to_bank_holding": false,
+  "effective_date_sort_key": "2024-11-21",
+  "status_sort_key": 1,
+  "authority_sort_key": 100,
+  "bm25_text": "Life Insurance Capital Adequacy Test (2025) – Chapter 8 Operational Risk Guideline Capital Adequacy Requirements Life Insurance and Fraternal Companies Note 8.1. Operational risk formula 8.2. Operational risk exposures and factors 8.2.1. Business volume required capital 8.2.2. Large increase in business volume required capital 8.2.3. General required capital Footnotes",
+  "vector_text_prefix": "[OSFI Guideline  | Capital Adequacy Requirements | Life Insurance and Fraternal Companies | FINAL_CURRENT | Effective 2024-11-21]",
+  "h1_title": "Life Insurance Capital Adequacy Test (2025) – Chapter 8 Operational Risk",
+  "regulator": "OSFI",
+  "regulator_acronym": "OSFI",
+  "jurisdiction": "Canada",
+  "short_title": "",
+  "source_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/life-insurance-capital-adequacy-test-2025-chapter-8-operational-risk"
+}

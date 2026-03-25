@@ -1,0 +1,253 @@
+{
+  "source_system": "osfi_guidance_library",
+  "library_row_title": "Commercial Lending Restrictions - Foreign Life Insurance Companies and Foreign Fraternal Benefit Societies",
+  "library_row_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/commercial-lending-restrictions-foreign-life-insurance-companies-foreign-fraternal-benefit-societies",
+  "listing_date_raw": "September 30, 1993",
+  "listing_date_iso": "1993-09-30",
+  "listing_publication_type": "Guideline",
+  "listing_category": "Prudential Limits and Restrictions",
+  "listing_sector": [
+    "Life Insurance and Fraternal Companies"
+  ],
+  "crawl_timestamp": "2026-03-11T00:00:00Z",
+  "detail_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/commercial-lending-restrictions-foreign-life-insurance-companies-foreign-fraternal-benefit-societies",
+  "canonical_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/commercial-lending-restrictions-foreign-life-insurance-companies-foreign-fraternal-benefit-societies",
+  "slug": "commercial-lending-restrictions-foreign-life-insurance-companies-foreign-fraternal-benefit-societies",
+  "title": "Commercial Lending Restrictions - Foreign Life Insurance Companies and Foreign Fraternal Benefit Societies",
+  "publication_type": "Guideline",
+  "category": "Prudential Limits and Restrictions",
+  "document_date_raw": "September 30, 1993",
+  "document_date_iso": "1993-09-30",
+  "sector": [
+    "Life Insurance and Fraternal Companies"
+  ],
+  "effective_date_text": "",
+  "guideline_number": "",
+  "date_modified_raw": "1993-09-30T12:00:00Z",
+  "generate_pdf_url": "https://www.osfi-bsif.gc.ca/en/print/pdf/node/616",
+  "pdf_node_id": 616,
+  "direct_pdf_url": null,
+  "has_table_of_contents": true,
+  "toc_entries": [],
+  "has_related_documents": false,
+  "related_document_links_raw": [],
+  "consultation_status_text": null,
+  "consultation_status_refers_to_version": null,
+  "page_language": "en",
+  "word_count_raw_body": 860,
+  "doc_id": "osfi.commercial-lending-restrictions-foreign-life-insur.standalone",
+  "doc_family_id": "osfi.commercial-lending-restrictions-foreign-life-insur",
+  "version_id": "",
+  "version_label": "Commercial Lending Restrictions - Foreign Life Insurance Com",
+  "version_sort_key": "",
+  "parent_doc_id": null,
+  "child_doc_ids": [],
+  "is_package_page": false,
+  "is_chapter_page": false,
+  "chapter_number": null,
+  "chapter_title": null,
+  "document_order_within_family": 0,
+  "supersedes_doc_id": null,
+  "superseded_by_doc_id": null,
+  "current_version_flag": true,
+  "status": "final_current",
+  "include_in_primary_corpus": true,
+  "include_in_support_corpus": false,
+  "include_in_context_corpus": false,
+  "effective_date_start": "1993-09-30",
+  "effective_date_end": null,
+  "effective_date_fye_split": false,
+  "effective_date_oct_fye": null,
+  "effective_date_dec_fye": null,
+  "is_future_effective": false,
+  "is_rescinded": false,
+  "is_draft_or_consultation": false,
+  "rescission_date": null,
+  "consultation_closing_date": null,
+  "as_of_applicability": "2026-03-23",
+  "rule_applied": "rule_5_final_current",
+  "authority_class": "primary_normative",
+  "authority_level": 100,
+  "nova_tier": 1,
+  "prudential_weight": 1.0,
+  "is_primary_normative": true,
+  "is_supporting_interpretive": false,
+  "is_context_only": false,
+  "document_class": "standalone_guideline",
+  "guidance_type_normalized": "guideline",
+  "section_headings": [
+    {
+      "level": 2,
+      "text": "Definition of Commercial Lending",
+      "id": "h2-0"
+    },
+    {
+      "level": 2,
+      "text": "Requirement to Maintain Excess Assets in Canada",
+      "id": "h2-1"
+    },
+    {
+      "level": 2,
+      "text": "Role of the Office",
+      "id": "h2-2"
+    }
+  ],
+  "heading_path": [
+    "Commercial Lending Restrictions - Foreign Life Insurance Companies and Foreign Fraternal Benefit Societies"
+  ],
+  "toc_depth": 2,
+  "has_appendices": false,
+  "appendix_ids": [],
+  "has_tables": false,
+  "table_count": 0,
+  "has_footnotes": false,
+  "footnote_count": 0,
+  "inline_cross_references": [],
+  "quoted_external_references": [],
+  "raw_html_sha256": "bb2100a45658453cc9c3ed019ff2c0132499e846b4a228043b01191732648b17",
+  "raw_pdf_sha256": null,
+  "normalized_text_sha256": null,
+  "raw_html_path": "bronze/osfi/html/final_current/commercial-lending-restrictions-foreign-life-insurance-companies-foreign-fraternal-benefit-societies.html",
+  "normalized_md_path": "silver/osfi/md/final_current/commercial-lending-restrictions-foreign-life-insurance-companies-foreign-fraternal-benefit-societies.md",
+  "canonical_json_path": "silver/osfi/json/final_current/commercial-lending-restrictions-foreign-life-insurance-companies-foreign-fraternal-benefit-societies.json",
+  "content_source": "HTML",
+  "parser_version": "osfi-parser-v2.1.0",
+  "normalizer_version": "osfi-normalizer-v1.4.0",
+  "quality_score": 1.0,
+  "quality_flags": [],
+  "download_timestamp": "2026-03-11T00:00:00Z",
+  "enriched_timestamp": "2026-03-23T09:53:50.803735Z",
+  "sections": [
+    {
+      "heading": "",
+      "heading_level": 2,
+      "full_text": "By legislation, foreign life insurance companies and foreign fraternal benefit societies are allowed to vest commercial loans to meet the Office's requirements to maintain assets in Canada (vested assets). This guideline outlines the Office's requirements and interpretations dealing with the vesting of commercial loans for these companies and societies. Companies and societies are not required to make a formal application to vest these particular assets but must ensure that they do so in accordance with this guideline.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "By legislation, foreign life insurance companies and foreign fraternal benefit societies are allowed to vest commercial loans to meet the Office's requirements to maintain assets in Canada (vested assets). This guideline outlines the Office's requirements and interpretations dealing with the vesting of commercial loans for these companies and societies. Companies and societies are not required to make a formal application to vest these particular assets but must ensure that they do so in accordance with this guideline."
+        }
+      ]
+    },
+    {
+      "heading": "Definition of Commercial Lending",
+      "heading_level": 2,
+      "full_text": "The Insurance Companies Act defines commercial lending for purposes of these expanded powers. Companies and societies should review the following definition of commercial loans ensuring that they have properly classified their vested assets and respect the quantitative limits stipulated by the legislation.\nThe term \"commercial loan\" is defined to include not only loans in the conventional sense but also certain loan substitutes and investments in debt and equity securities of corporations and unincorporated entities. The definition does, however, exclude several classes of loans and investments that are not to be considered commercial loans. These include:\n  - small loans - less than $250,000 to natural persons (these are essentially consumer loans and will not be subject to portfolio limits under the Acts);\n  - mortgage loans that are insured or meet certain requirements regarding loan-to-value ratios;\n  - certain deposits by a company with another financial institution;\n  - loans and investments in debt obligations directly or indirectly backed by the guarantee of a government or prescribed international agency;\n  - loans and investments in debt obligations either directly or indirectly backed by the guarantee of another financial institution or secured by deposits with any financial institution, including the company;\n  - investments in debt or equity securities that are widely distributed within the meaning of the regulations; and\n  - investments in participating shares.\nsmall loans - less than $250,000 to natural persons (these are essentially consumer loans and will not be subject to portfolio limits under the Acts);\nmortgage loans that are insured or meet certain requirements regarding loan-to-value ratios;\ncertain deposits by a company with another financial institution;\nloans and investments in debt obligations directly or indirectly backed by the guarantee of a government or prescribed international agency;\nloans and investments in debt obligations either directly or indirectly backed by the guarantee of another financial institution or secured by deposits with any financial institution, including the company;\ninvestments in debt or equity securities that are widely distributed within the meaning of the regulations; and\ninvestments in participating shares.\nIn defining a commercial loan, the Act defines \"loan\" with a modified meaning that incorporates close substitutes for loans, such as acceptances and other guarantees, financial leases, conditional sales contracts, repurchase agreements, and other similar arrangements.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "The Insurance Companies Act defines commercial lending for purposes of these expanded powers. Companies and societies should review the following definition of commercial loans ensuring that they have properly classified their vested assets and respect the quantitative limits stipulated by the legislation."
+        },
+        {
+          "type": "paragraph",
+          "text": "The term \"commercial loan\" is defined to include not only loans in the conventional sense but also certain loan substitutes and investments in debt and equity securities of corporations and unincorporated entities. The definition does, however, exclude several classes of loans and investments that are not to be considered commercial loans. These include:"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "small loans - less than $250,000 to natural persons (these are essentially consumer loans and will not be subject to portfolio limits under the Acts);",
+            "mortgage loans that are insured or meet certain requirements regarding loan-to-value ratios;",
+            "certain deposits by a company with another financial institution;",
+            "loans and investments in debt obligations directly or indirectly backed by the guarantee of a government or prescribed international agency;",
+            "loans and investments in debt obligations either directly or indirectly backed by the guarantee of another financial institution or secured by deposits with any financial institution, including the company;",
+            "investments in debt or equity securities that are widely distributed within the meaning of the regulations; and",
+            "investments in participating shares."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "small loans - less than $250,000 to natural persons (these are essentially consumer loans and will not be subject to portfolio limits under the Acts);"
+        },
+        {
+          "type": "paragraph",
+          "text": "mortgage loans that are insured or meet certain requirements regarding loan-to-value ratios;"
+        },
+        {
+          "type": "paragraph",
+          "text": "certain deposits by a company with another financial institution;"
+        },
+        {
+          "type": "paragraph",
+          "text": "loans and investments in debt obligations directly or indirectly backed by the guarantee of a government or prescribed international agency;"
+        },
+        {
+          "type": "paragraph",
+          "text": "loans and investments in debt obligations either directly or indirectly backed by the guarantee of another financial institution or secured by deposits with any financial institution, including the company;"
+        },
+        {
+          "type": "paragraph",
+          "text": "investments in debt or equity securities that are widely distributed within the meaning of the regulations; and"
+        },
+        {
+          "type": "paragraph",
+          "text": "investments in participating shares."
+        },
+        {
+          "type": "paragraph",
+          "text": "In defining a commercial loan, the Act defines \"loan\" with a modified meaning that incorporates close substitutes for loans, such as acceptances and other guarantees, financial leases, conditional sales contracts, repurchase agreements, and other similar arrangements."
+        }
+      ]
+    },
+    {
+      "heading": "Requirement to Maintain Excess Assets in Canada",
+      "heading_level": 2,
+      "full_text": "The current legislation permits foreign companies, when the excess of vested assets over liabilities is $25 million or less, to have included in their vested assets a maximum of 5% in commercial loans. Foreign companies and societies wishing to vest commercial loans must first ensure that their home jurisdiction grants them commercial lending powers.\nThe Office is seeking an amendment to the regulation respecting investments in Canada by foreign companies so that companies' excess of vested assets over the aggregate of liabilities in Canada and the adequate margin required under Section 608 of the Insurance Companies Act must exceed $25 million before companies are permitted to have more than 5% of their total vesting requirements in commercial loans.\nIf a company's excess is greater than $25 million, it may have, as part of its vested assets, total commercial loans in excess of the 5% limit. However, the company must ensure that its investment and lending policies, standards and procedures, in respect of its assets in Canada, make reference to the company's intentions with respect to commercial lending operations. For example, the company must have in place procedures dealing with the loan approval process and steps required in dealing with delinquent accounts. The guideline on the prudent person approach provides additional direction in this area.\nFor a company to be permitted to have commercial loans representing more than 5% of its vested assets, it must maintain, at all times , the $25 million excess of assets over the aggregate of liabilities and the adequate margin required under section 608. If a company's excess drops below the $25 million mark, commercial loans in excess of the 5% limit will be given a zero value for purposes of adequacy of assets in Canada (vested assets). If a company's excess drops to zero, a zero value will be given to all commercial loans that are under the control of the Minister. In these situations, the Act grants the Superintendent the right to require that the company or society vest additional assets to meet the minimum required by the legislation.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "The current legislation permits foreign companies, when the excess of vested assets over liabilities is $25 million or less, to have included in their vested assets a maximum of 5% in commercial loans. Foreign companies and societies wishing to vest commercial loans must first ensure that their home jurisdiction grants them commercial lending powers."
+        },
+        {
+          "type": "paragraph",
+          "text": "The Office is seeking an amendment to the regulation respecting investments in Canada by foreign companies so that companies' excess of vested assets over the aggregate of liabilities in Canada and the adequate margin required under Section 608 of the Insurance Companies Act must exceed $25 million before companies are permitted to have more than 5% of their total vesting requirements in commercial loans."
+        },
+        {
+          "type": "paragraph",
+          "text": "If a company's excess is greater than $25 million, it may have, as part of its vested assets, total commercial loans in excess of the 5% limit. However, the company must ensure that its investment and lending policies, standards and procedures, in respect of its assets in Canada, make reference to the company's intentions with respect to commercial lending operations. For example, the company must have in place procedures dealing with the loan approval process and steps required in dealing with delinquent accounts. The guideline on the prudent person approach provides additional direction in this area."
+        },
+        {
+          "type": "paragraph",
+          "text": "For a company to be permitted to have commercial loans representing more than 5% of its vested assets, it must maintain, at all times , the $25 million excess of assets over the aggregate of liabilities and the adequate margin required under section 608. If a company's excess drops below the $25 million mark, commercial loans in excess of the 5% limit will be given a zero value for purposes of adequacy of assets in Canada (vested assets). If a company's excess drops to zero, a zero value will be given to all commercial loans that are under the control of the Minister. In these situations, the Act grants the Superintendent the right to require that the company or society vest additional assets to meet the minimum required by the legislation."
+        }
+      ]
+    },
+    {
+      "heading": "Role of the Office",
+      "heading_level": 2,
+      "full_text": "As a regulator, the Office will review through the examination and monitoring process, the commercial lending activities to ensure compliance with the company's or society's statement of lending policies, standards and procedures. The lending policies established should be adhered to and reflect what a reasonable and prudent person would apply in respect of a portfolio of loans to avoid undue risk of loss and obtain a reasonable return.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "As a regulator, the Office will review through the examination and monitoring process, the commercial lending activities to ensure compliance with the company's or society's statement of lending policies, standards and procedures. The lending policies established should be adhered to and reflect what a reasonable and prudent person would apply in respect of a portfolio of loans to avoid undue risk of loss and obtain a reasonable return."
+        }
+      ]
+    }
+  ],
+  "title_normalized": "commercial lending restrictions foreign life insurance companies and foreign fraternal benefit societies",
+  "publication_type_normalized": "guideline",
+  "category_normalized": "prudential_limits_and_restrictions",
+  "sector_normalized": [
+    "life_insurance"
+  ],
+  "guideline_number_normalized": "",
+  "applies_to_banks": false,
+  "applies_to_trust_loan": false,
+  "applies_to_life_insurance": true,
+  "applies_to_pc_insurance": false,
+  "applies_to_foreign_bank": false,
+  "applies_to_foreign_insurance": false,
+  "applies_to_cooperative": false,
+  "applies_to_bank_holding": false,
+  "effective_date_sort_key": "1993-09-30",
+  "status_sort_key": 1,
+  "authority_sort_key": 100,
+  "bm25_text": "Commercial Lending Restrictions - Foreign Life Insurance Companies and Foreign Fraternal Benefit Societies Guideline Prudential Limits and Restrictions Life Insurance and Fraternal Companies Definition of Commercial Lending Requirement to Maintain Excess Assets in Canada Role of the Office",
+  "vector_text_prefix": "[OSFI Guideline  | Prudential Limits and Restrictions | Life Insurance and Fraternal Companies | FINAL_CURRENT | Effective 1993-09-30]",
+  "h1_title": "Commercial Lending Restrictions - Foreign Life Insurance Companies and Foreign Fraternal Benefit Societies",
+  "regulator": "OSFI",
+  "regulator_acronym": "OSFI",
+  "jurisdiction": "Canada",
+  "short_title": "",
+  "source_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/commercial-lending-restrictions-foreign-life-insurance-companies-foreign-fraternal-benefit-societies"
+}

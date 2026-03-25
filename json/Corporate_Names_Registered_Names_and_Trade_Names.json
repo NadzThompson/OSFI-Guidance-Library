@@ -1,0 +1,517 @@
+{
+  "source_system": "osfi_guidance_library",
+  "library_row_title": "Corporate Names, Registered Names and Trade Names",
+  "library_row_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/corporate-names-registered-names-trade-names",
+  "listing_date_raw": "January 31, 2020",
+  "listing_date_iso": "2020-01-31",
+  "listing_publication_type": "Regulatory and legislative advisory",
+  "listing_category": "Regulatory and legislative",
+  "listing_sector": [
+    "Bank Act",
+    "Insurance Companies Act",
+    "Trust and Loan Companies Act"
+  ],
+  "crawl_timestamp": "2026-03-11T00:00:00Z",
+  "detail_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/corporate-names-registered-names-trade-names",
+  "canonical_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/corporate-names-registered-names-trade-names",
+  "slug": "corporate-names-registered-names-trade-names",
+  "title": "Corporate Names, Registered Names and Trade Names",
+  "publication_type": "Regulatory and legislative advisory",
+  "category": "Regulatory and legislative",
+  "document_date_raw": "January 31, 2020",
+  "document_date_iso": "2020-01-31",
+  "sector": [
+    "Bank Act",
+    "Insurance Companies Act",
+    "Trust and Loan Companies Act"
+  ],
+  "effective_date_text": "",
+  "guideline_number": "",
+  "date_modified_raw": "2020-01-31T12:00:00Z",
+  "generate_pdf_url": "https://www.osfi-bsif.gc.ca/en/print/pdf/node/537",
+  "pdf_node_id": 537,
+  "direct_pdf_url": null,
+  "has_table_of_contents": true,
+  "toc_entries": [],
+  "has_related_documents": false,
+  "related_document_links_raw": [],
+  "consultation_status_text": null,
+  "consultation_status_refers_to_version": null,
+  "page_language": "en",
+  "word_count_raw_body": 3401,
+  "doc_id": "osfi.corporate-names-registered-names-trade-names.advisory",
+  "doc_family_id": "osfi.corporate-names-registered-names-trade-names",
+  "version_id": "",
+  "version_label": "Corporate Names, Registered Names and Trade Names",
+  "version_sort_key": "",
+  "parent_doc_id": null,
+  "child_doc_ids": [],
+  "is_package_page": false,
+  "is_chapter_page": false,
+  "chapter_number": null,
+  "chapter_title": null,
+  "document_order_within_family": 0,
+  "supersedes_doc_id": null,
+  "superseded_by_doc_id": null,
+  "current_version_flag": true,
+  "status": "final_current",
+  "include_in_primary_corpus": true,
+  "include_in_support_corpus": false,
+  "include_in_context_corpus": false,
+  "effective_date_start": "2020-01-31",
+  "effective_date_end": null,
+  "effective_date_fye_split": false,
+  "effective_date_oct_fye": null,
+  "effective_date_dec_fye": null,
+  "is_future_effective": false,
+  "is_rescinded": false,
+  "is_draft_or_consultation": false,
+  "rescission_date": null,
+  "consultation_closing_date": null,
+  "as_of_applicability": "2026-03-23",
+  "rule_applied": "rule_5_final_current",
+  "authority_class": "primary_normative",
+  "authority_level": 100,
+  "nova_tier": 1,
+  "prudential_weight": 1.0,
+  "is_primary_normative": true,
+  "is_supporting_interpretive": false,
+  "is_context_only": false,
+  "document_class": "advisory",
+  "guidance_type_normalized": "regulatory_and_legislative_advisory",
+  "section_headings": [
+    {
+      "level": 2,
+      "text": "Introduction:",
+      "id": "h2-0"
+    },
+    {
+      "level": 2,
+      "text": "Definitions:",
+      "id": "h2-1"
+    },
+    {
+      "level": 2,
+      "text": "Relevant Provisions:",
+      "id": "h2-2"
+    },
+    {
+      "level": 2,
+      "text": "Factors:",
+      "id": "h2-3"
+    },
+    {
+      "level": 3,
+      "text": "A. The name is prohibited by an Act of Parliament",
+      "id": "h3-4"
+    },
+    {
+      "level": 3,
+      "text": "B. The name is deceptively misdescriptive",
+      "id": "h3-5"
+    },
+    {
+      "level": 3,
+      "text": "C. The name is substantially the same",
+      "id": "h3-6"
+    },
+    {
+      "level": 3,
+      "text": "D. The name is confusingly similar",
+      "id": "h3-7"
+    },
+    {
+      "level": 3,
+      "text": "E. The name is reserved",
+      "id": "h3-8"
+    },
+    {
+      "level": 2,
+      "text": "Use of Trade Names:",
+      "id": "h2-9"
+    }
+  ],
+  "heading_path": [
+    "Corporate Names, Registered Names and Trade Names"
+  ],
+  "toc_depth": 3,
+  "has_appendices": false,
+  "appendix_ids": [],
+  "has_tables": false,
+  "table_count": 0,
+  "has_footnotes": false,
+  "footnote_count": 0,
+  "inline_cross_references": [],
+  "quoted_external_references": [],
+  "raw_html_sha256": "8bc79de9dc88bc81e42e1cfd4c32bff05c964031ee2d1623a955d0c6fb6fe050",
+  "raw_pdf_sha256": null,
+  "normalized_text_sha256": null,
+  "raw_html_path": "bronze/osfi/html/final_current/corporate-names-registered-names-trade-names.html",
+  "normalized_md_path": "silver/osfi/md/final_current/corporate-names-registered-names-trade-names.md",
+  "canonical_json_path": "silver/osfi/json/final_current/corporate-names-registered-names-trade-names.json",
+  "content_source": "HTML",
+  "parser_version": "osfi-parser-v2.1.0",
+  "normalizer_version": "osfi-normalizer-v1.4.0",
+  "quality_score": 1.0,
+  "quality_flags": [],
+  "download_timestamp": "2026-03-11T00:00:00Z",
+  "enriched_timestamp": "2026-03-23T09:53:50.915395Z",
+  "sections": [
+    {
+      "heading": "",
+      "heading_level": 2,
+      "full_text": "Advisories describe how OSFI administers and interprets provisions of existing legislation, regulations or guidelines, or provide OSFI’s position regarding certain policy issues. Advisories are not law; readers should refer to the relevant provisions of the legislation, regulation or guideline, including any amendments that came into effect subsequent to the Advisory’s publication, when considering the relevancy of the Advisory.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Advisories describe how OSFI administers and interprets provisions of existing legislation, regulations or guidelines, or provide OSFI’s position regarding certain policy issues. Advisories are not law; readers should refer to the relevant provisions of the legislation, regulation or guideline, including any amendments that came into effect subsequent to the Advisory’s publication, when considering the relevancy of the Advisory."
+        }
+      ]
+    },
+    {
+      "heading": "Introduction:",
+      "heading_level": 2,
+      "full_text": "This Advisory sets out factors that the Superintendent generally considers as part of the assessment of whether:\n  1. the corporate or trade name of a Canadian FRE is prohibited;\n  2. the corporate, registered or trade name of a foreign RE is prohibited; and\n  3. an RE should be directed not to use a particular trade name.\nthe corporate or trade name of a Canadian FRE is prohibited;\nthe corporate, registered or trade name of a foreign RE is prohibited; and\nan RE should be directed not to use a particular trade name.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "This Advisory sets out factors that the Superintendent generally considers as part of the assessment of whether:"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "the corporate or trade name of a Canadian FRE is prohibited;",
+            "the corporate, registered or trade name of a foreign RE is prohibited; and",
+            "an RE should be directed not to use a particular trade name."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "the corporate or trade name of a Canadian FRE is prohibited;"
+        },
+        {
+          "type": "paragraph",
+          "text": "the corporate, registered or trade name of a foreign RE is prohibited; and"
+        },
+        {
+          "type": "paragraph",
+          "text": "an RE should be directed not to use a particular trade name."
+        }
+      ]
+    },
+    {
+      "heading": "Definitions:",
+      "heading_level": 2,
+      "full_text": "Except where otherwise provided, in this Advisory,\nmeans Canadian federally regulated entity, which refers to a bank, a federally incorporated or continued insurance, trust or loan company, a fraternal benefit society or a bank or insurance holding company;\nmeans the name set out in the incorporating instrument of a Canadian FRE or of a foreign RE;\nmeans foreign regulated entity, which refers to an authorized foreign bank, or a foreign insurer authorized to insure in Canada risks, in respect of its business in Canada;\nmeans a corporate name, registered name or trade name;\nmeans regulated entity, which refers to a Canadian FRE or a foreign RE;\nmeans the name, other than a corporate name, under which a foreign RE is permitted to carry on business in Canada (including insuring in Canada risks, where applicable), as set out in the order made under subsection 524(1) or 528(1.1) of the Bank Act , or subsection 574(1) or 576(1) of the Insurance Companies Act , as applicable; and\nmeans, in respect of a Canadian FRE, a name other than its corporate name, under which the Canadian FRE carries on business or identifies itself; and, in respect of a foreign RE, a name other than its corporate name or registered name, under which the foreign RE carries on business in Canada.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Except where otherwise provided, in this Advisory,"
+        },
+        {
+          "type": "paragraph",
+          "text": "means Canadian federally regulated entity, which refers to a bank, a federally incorporated or continued insurance, trust or loan company, a fraternal benefit society or a bank or insurance holding company;"
+        },
+        {
+          "type": "paragraph",
+          "text": "means the name set out in the incorporating instrument of a Canadian FRE or of a foreign RE;"
+        },
+        {
+          "type": "paragraph",
+          "text": "means foreign regulated entity, which refers to an authorized foreign bank, or a foreign insurer authorized to insure in Canada risks, in respect of its business in Canada;"
+        },
+        {
+          "type": "paragraph",
+          "text": "means a corporate name, registered name or trade name;"
+        },
+        {
+          "type": "paragraph",
+          "text": "means regulated entity, which refers to a Canadian FRE or a foreign RE;"
+        },
+        {
+          "type": "paragraph",
+          "text": "means the name, other than a corporate name, under which a foreign RE is permitted to carry on business in Canada (including insuring in Canada risks, where applicable), as set out in the order made under subsection 524(1) or 528(1.1) of the Bank Act , or subsection 574(1) or 576(1) of the Insurance Companies Act , as applicable; and"
+        },
+        {
+          "type": "paragraph",
+          "text": "means, in respect of a Canadian FRE, a name other than its corporate name, under which the Canadian FRE carries on business or identifies itself; and, in respect of a foreign RE, a name other than its corporate name or registered name, under which the foreign RE carries on business in Canada."
+        }
+      ]
+    },
+    {
+      "heading": "Relevant Provisions:",
+      "heading_level": 2,
+      "full_text": "  - Sections 40, 40.1, 41, 42(3), 42(4), 43, 44, 255, 530, 531, 532, 533, 693, 694, 695, 696(4), 696(5), 697, 698 and 832 of the Bank Act .\n  - Sections 41, 43, 44(3), 44(4), 45, 46 and 260 of the Trust and Loan Companies Act .\n  - Sections 42, 43, 44(3), 44(4), 45, 46, 278, 575, 577, 578(2)-(4), 730, 731, 733(4), 733(5), 734, 735 and 880 of the Insurance Companies Act .",
+      "content": [
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Sections 40, 40.1, 41, 42(3), 42(4), 43, 44, 255, 530, 531, 532, 533, 693, 694, 695, 696(4), 696(5), 697, 698 and 832 of the Bank Act .",
+            "Sections 41, 43, 44(3), 44(4), 45, 46 and 260 of the Trust and Loan Companies Act .",
+            "Sections 42, 43, 44(3), 44(4), 45, 46, 278, 575, 577, 578(2)-(4), 730, 731, 733(4), 733(5), 734, 735 and 880 of the Insurance Companies Act ."
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "Factors:",
+      "heading_level": 2,
+      "full_text": "The Superintendent generally considers the factors enumerated in Parts A to E below when interpreting the legislative provisions that set out when a name would be prohibited.\nREs are reminded of the requirement to set out their corporate name – and their registered name, in the case of foreign REs – in legible characters in all contracts, invoices, premium notices, policies, applications for policies, negotiable instruments and other documents evidencing rights or obligations with respect to other parties that are issued or made by or on behalf of the RE. See section 255, 531 or 832 of the Bank Act , section 260 of the Trust and Loan Companies Act , or section 278, 578(4) or 880 of the Insurance Companies Act .",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "The Superintendent generally considers the factors enumerated in Parts A to E below when interpreting the legislative provisions that set out when a name would be prohibited."
+        },
+        {
+          "type": "paragraph",
+          "text": "REs are reminded of the requirement to set out their corporate name – and their registered name, in the case of foreign REs – in legible characters in all contracts, invoices, premium notices, policies, applications for policies, negotiable instruments and other documents evidencing rights or obligations with respect to other parties that are issued or made by or on behalf of the RE. See section 255, 531 or 832 of the Bank Act , section 260 of the Trust and Loan Companies Act , or section 278, 578(4) or 880 of the Insurance Companies Act ."
+        }
+      ]
+    },
+    {
+      "heading": "A. The name is prohibited by an Act of Parliament",
+      "heading_level": 3,
+      "full_text": "In making such a determination, the Superintendent would consider whether a name is prohibited by federal legislation. See, for example, section 38 of the Business Development Bank of Canada Act . This section provides, among other things, that except with the consent in writing of the Business Development Bank of Canada, a person must not, for any other business purpose, use any of the following names or initials: “Federal Business Development Bank”, “Industrial Development Bank”, “B.D. Canada”, “B.D.C.”, “B.D.B.C.”, “B.F.D.” or “F.B.D.B.”.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "In making such a determination, the Superintendent would consider whether a name is prohibited by federal legislation. See, for example, section 38 of the Business Development Bank of Canada Act . This section provides, among other things, that except with the consent in writing of the Business Development Bank of Canada, a person must not, for any other business purpose, use any of the following names or initials: “Federal Business Development Bank”, “Industrial Development Bank”, “B.D. Canada”, “B.D.C.”, “B.D.B.C.”, “B.F.D.” or “F.B.D.B.”."
+        }
+      ]
+    },
+    {
+      "heading": "B. The name is deceptively misdescriptive",
+      "heading_level": 3,
+      "full_text": "  1. In making such a determination, the Superintendent would generally consider whether the name could mislead persons: with respect to the products or services of the RE; by implying relationships or affiliations that do not exist; or by suggesting that the RE carries on business in, or has an affiliation with, a location where this is not the case.\n  2. With respect to the use of a trade name – and a registered name, in the case of a foreign RE – the Superintendent would also consider whether the trade name or registered name could mislead persons into thinking they are dealing with an entity that is distinct from the RE. Where the trade name or registered name, on its face, appears to suggest an entity that is distinct from the RE – including where the name bears little or no resemblance to the RE’s corporate name – the Superintendent would consider whether the RE has adequately disclosed to depositors, policyholders and/or other creditors that the trade name or registered name identifies a division of the RE or particular products or services offered by the RE.\nIn making such a determination, the Superintendent would generally consider whether the name could mislead persons:\n  1. with respect to the products or services of the RE;\n  2. by implying relationships or affiliations that do not exist; or\n  3. by suggesting that the RE carries on business in, or has an affiliation with, a location where this is not the case.\nwith respect to the products or services of the RE;\nby implying relationships or affiliations that do not exist; or\nby suggesting that the RE carries on business in, or has an affiliation with, a location where this is not the case.\nWith respect to the use of a trade name – and a registered name, in the case of a foreign RE – the Superintendent would also consider whether the trade name or registered name could mislead persons into thinking they are dealing with an entity that is distinct from the RE. Where the trade name or registered name, on its face, appears to suggest an entity that is distinct from the RE – including where the name bears little or no resemblance to the RE’s corporate name – the Superintendent would consider whether the RE has adequately disclosed to depositors, policyholders and/or other creditors that the trade name or registered name identifies a division of the RE or particular products or services offered by the RE.",
+      "content": [
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "In making such a determination, the Superintendent would generally consider whether the name could mislead persons: with respect to the products or services of the RE; by implying relationships or affiliations that do not exist; or by suggesting that the RE carries on business in, or has an affiliation with, a location where this is not the case.",
+            "With respect to the use of a trade name – and a registered name, in the case of a foreign RE – the Superintendent would also consider whether the trade name or registered name could mislead persons into thinking they are dealing with an entity that is distinct from the RE. Where the trade name or registered name, on its face, appears to suggest an entity that is distinct from the RE – including where the name bears little or no resemblance to the RE’s corporate name – the Superintendent would consider whether the RE has adequately disclosed to depositors, policyholders and/or other creditors that the trade name or registered name identifies a division of the RE or particular products or services offered by the RE."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "In making such a determination, the Superintendent would generally consider whether the name could mislead persons:"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "with respect to the products or services of the RE;",
+            "by implying relationships or affiliations that do not exist; or",
+            "by suggesting that the RE carries on business in, or has an affiliation with, a location where this is not the case."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "with respect to the products or services of the RE;"
+        },
+        {
+          "type": "paragraph",
+          "text": "by implying relationships or affiliations that do not exist; or"
+        },
+        {
+          "type": "paragraph",
+          "text": "by suggesting that the RE carries on business in, or has an affiliation with, a location where this is not the case."
+        },
+        {
+          "type": "paragraph",
+          "text": "With respect to the use of a trade name – and a registered name, in the case of a foreign RE – the Superintendent would also consider whether the trade name or registered name could mislead persons into thinking they are dealing with an entity that is distinct from the RE. Where the trade name or registered name, on its face, appears to suggest an entity that is distinct from the RE – including where the name bears little or no resemblance to the RE’s corporate name – the Superintendent would consider whether the RE has adequately disclosed to depositors, policyholders and/or other creditors that the trade name or registered name identifies a division of the RE or particular products or services offered by the RE."
+        }
+      ]
+    },
+    {
+      "heading": "C. The name is substantially the same",
+      "heading_level": 3,
+      "full_text": "  1. In assessing whether a name is substantially the same as an “existing name” For purposes of this Advisory, “existing name” means, in respect of Canada, an existing trade-mark, or a corporate or trade name under or by which any entity carries on business or is identified. , the Superintendent would generally consider whether the two names present substantially the same elements in substantially the same order. For example, compare the hypothetical proposed name “General First Financial Trust” and the hypothetical existing name, “The First General Trust”. Both names contain the words “General”, “First” and “Trust”. However, the words “General” and “First” are not in the same order and the word “Financial” is only used in one of the names. As a result, the Superintendent would likely determine that the name “General First Financial Trust” is not substantially the same as the name “The First General Trust” because there is an extra word in one (i.e. “Financial”) and the words “General” and “First” are reversed.\n  2. Despite the foregoing, a Canadian FRE that is affiliated with another entity may, with the consent of that entity, be incorporated with, or change its corporate name to, substantially the same name as that of the affiliated entity. See sections 41 or 694 of the Bank Act , section 43 of the Trust and Loan Companies Act , or sections 43 or 731 of the Insurance Companies Act .\nIn assessing whether a name is substantially the same as an “existing name” For purposes of this Advisory, “existing name” means, in respect of Canada, an existing trade-mark, or a corporate or trade name under or by which any entity carries on business or is identified. , the Superintendent would generally consider whether the two names present substantially the same elements in substantially the same order. For example, compare the hypothetical proposed name “General First Financial Trust” and the hypothetical existing name, “The First General Trust”. Both names contain the words “General”, “First” and “Trust”. However, the words “General” and “First” are not in the same order and the word “Financial” is only used in one of the names. As a result, the Superintendent would likely determine that the name “General First Financial Trust” is not substantially the same as the name “The First General Trust” because there is an extra word in one (i.e. “Financial”) and the words “General” and “First” are reversed.\nDespite the foregoing, a Canadian FRE that is affiliated with another entity may, with the consent of that entity, be incorporated with, or change its corporate name to, substantially the same name as that of the affiliated entity. See sections 41 or 694 of the Bank Act , section 43 of the Trust and Loan Companies Act , or sections 43 or 731 of the Insurance Companies Act .",
+      "content": [
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "In assessing whether a name is substantially the same as an “existing name” For purposes of this Advisory, “existing name” means, in respect of Canada, an existing trade-mark, or a corporate or trade name under or by which any entity carries on business or is identified. , the Superintendent would generally consider whether the two names present substantially the same elements in substantially the same order. For example, compare the hypothetical proposed name “General First Financial Trust” and the hypothetical existing name, “The First General Trust”. Both names contain the words “General”, “First” and “Trust”. However, the words “General” and “First” are not in the same order and the word “Financial” is only used in one of the names. As a result, the Superintendent would likely determine that the name “General First Financial Trust” is not substantially the same as the name “The First General Trust” because there is an extra word in one (i.e. “Financial”) and the words “General” and “First” are reversed.",
+            "Despite the foregoing, a Canadian FRE that is affiliated with another entity may, with the consent of that entity, be incorporated with, or change its corporate name to, substantially the same name as that of the affiliated entity. See sections 41 or 694 of the Bank Act , section 43 of the Trust and Loan Companies Act , or sections 43 or 731 of the Insurance Companies Act ."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "In assessing whether a name is substantially the same as an “existing name” For purposes of this Advisory, “existing name” means, in respect of Canada, an existing trade-mark, or a corporate or trade name under or by which any entity carries on business or is identified. , the Superintendent would generally consider whether the two names present substantially the same elements in substantially the same order. For example, compare the hypothetical proposed name “General First Financial Trust” and the hypothetical existing name, “The First General Trust”. Both names contain the words “General”, “First” and “Trust”. However, the words “General” and “First” are not in the same order and the word “Financial” is only used in one of the names. As a result, the Superintendent would likely determine that the name “General First Financial Trust” is not substantially the same as the name “The First General Trust” because there is an extra word in one (i.e. “Financial”) and the words “General” and “First” are reversed."
+        },
+        {
+          "type": "paragraph",
+          "text": "Despite the foregoing, a Canadian FRE that is affiliated with another entity may, with the consent of that entity, be incorporated with, or change its corporate name to, substantially the same name as that of the affiliated entity. See sections 41 or 694 of the Bank Act , section 43 of the Trust and Loan Companies Act , or sections 43 or 731 of the Insurance Companies Act ."
+        }
+      ]
+    },
+    {
+      "heading": "D. The name is confusingly similar",
+      "heading_level": 3,
+      "full_text": "  1. As acknowledged in OSFI Ruling No. 2008-05 – Alternate Name – Use of Trade Name , a name can be confusingly similar while not being substantially the same.\n  2. In assessing whether a name would be confusingly similar to an existing name, the Superintendent would first consider the degree of resemblance in appearance or sound between the name and the existing name. For example, when examining a name against an existing name, the Superintendent will examine both the words and any logo or pictogram that is part of the existing name, including their form (e.g. font, size, colour).\n  3. If there are one or more common elements Where a common element is highly recognizable, the Superintendent will be reluctant to authorize any name that uses such common element. between the name and an existing name, the Superintendent will determine the extent to which these common elements are likely to lead to confusion, having regard to the following factors: whether the entity using the existing name has developed a distinctive brand in terms of the common elements; how long the existing name has been used; the operating status of the entity using the existing name (e.g. if inactive or no longer undertaking new business, the Superintendent is more likely to be comfortable with the name); how descriptive the common elements are of the characteristics of each of the RE and the entity using the existing name (e.g. a generic or complementary term like “Universal” would not describe an RE’s activities and therefore it would be difficult for an entity using an existing name with a generic or complementary term to lay claim to sole use of this term); and the nature of any affiliation between the RE and the entity using the existing name, and whether the entity using the existing name consented to the use of the name by the RE.\n  4. If there are one or more distinct elements between the name and an existing name, the Superintendent will examine the extent to which this is likely to reduce or eliminate confusion.\n  5. The Superintendent would also consider the following factors in assessing whether a name would be confusingly similar to an existing name: the nature of the products or services offered by the RE versus those offered by the entity using the existing name, including the likelihood of any competition between the RE and the entity; the territory in which the RE operates or will operate versus the territory of operation of the entity using the existing name, taking into consideration existing licences or statutory limitations of operation; the extent to which the RE and the entity using the existing name have operated in similar markets in other countries without material confusion or complaints; and the nature and extent of the distribution channels and the target market(s) of the RE versus those of the entity using the existing name, including an assessment of the current and potential customers of both the RE and the entity.\nAs acknowledged in OSFI Ruling No. 2008-05 – Alternate Name – Use of Trade Name , a name can be confusingly similar while not being substantially the same.\nIn assessing whether a name would be confusingly similar to an existing name, the Superintendent would first consider the degree of resemblance in appearance or sound between the name and the existing name. For example, when examining a name against an existing name, the Superintendent will examine both the words and any logo or pictogram that is part of the existing name, including their form (e.g. font, size, colour).\nIf there are one or more common elements Where a common element is highly recognizable, the Superintendent will be reluctant to authorize any name that uses such common element. between the name and an existing name, the Superintendent will determine the extent to which these common elements are likely to lead to confusion, having regard to the following factors:\n  1. whether the entity using the existing name has developed a distinctive brand in terms of the common elements;\n  2. how long the existing name has been used;\n  3. the operating status of the entity using the existing name (e.g. if inactive or no longer undertaking new business, the Superintendent is more likely to be comfortable with the name);\n  4. how descriptive the common elements are of the characteristics of each of the RE and the entity using the existing name (e.g. a generic or complementary term like “Universal” would not describe an RE’s activities and therefore it would be difficult for an entity using an existing name with a generic or complementary term to lay claim to sole use of this term); and\n  5. the nature of any affiliation between the RE and the entity using the existing name, and whether the entity using the existing name consented to the use of the name by the RE.\nwhether the entity using the existing name has developed a distinctive brand in terms of the common elements;\nhow long the existing name has been used;\nthe operating status of the entity using the existing name (e.g. if inactive or no longer undertaking new business, the Superintendent is more likely to be comfortable with the name);\nhow descriptive the common elements are of the characteristics of each of the RE and the entity using the existing name (e.g. a generic or complementary term like “Universal” would not describe an RE’s activities and therefore it would be difficult for an entity using an existing name with a generic or complementary term to lay claim to sole use of this term); and\nthe nature of any affiliation between the RE and the entity using the existing name, and whether the entity using the existing name consented to the use of the name by the RE.\nIf there are one or more distinct elements between the name and an existing name, the Superintendent will examine the extent to which this is likely to reduce or eliminate confusion.\nThe Superintendent would also consider the following factors in assessing whether a name would be confusingly similar to an existing name:\n  1. the nature of the products or services offered by the RE versus those offered by the entity using the existing name, including the likelihood of any competition between the RE and the entity;\n  2. the territory in which the RE operates or will operate versus the territory of operation of the entity using the existing name, taking into consideration existing licences or statutory limitations of operation;\n  3. the extent to which the RE and the entity using the existing name have operated in similar markets in other countries without material confusion or complaints; and\n  4. the nature and extent of the distribution channels and the target market(s) of the RE versus those of the entity using the existing name, including an assessment of the current and potential customers of both the RE and the entity.\nthe nature of the products or services offered by the RE versus those offered by the entity using the existing name, including the likelihood of any competition between the RE and the entity;\nthe territory in which the RE operates or will operate versus the territory of operation of the entity using the existing name, taking into consideration existing licences or statutory limitations of operation;\nthe extent to which the RE and the entity using the existing name have operated in similar markets in other countries without material confusion or complaints; and\nthe nature and extent of the distribution channels and the target market(s) of the RE versus those of the entity using the existing name, including an assessment of the current and potential customers of both the RE and the entity.\nThe following hypothetical examples consider some of the factors set forth above:\n  1. Where the common elements are unique (e.g. DWIDAG), the Superintendent will likely come to the conclusion that the name is confusingly similar to an existing name unless the distinctive element(s) are extremely strong or it is clear that the entities operate in different sectors. For example, the Superintendent may be comfortable with DWIDAG Insurance Company v. DWIDAG Plumbing Services since the distinctive elements are strong and the RE and DWIDAG Plumbing Services clearly operate in different sectors. However, where an unrelated entity is using the existing name, DWIDAG Financial, the Superintendent will likely come to the conclusion that DWIDAG Insurance Company is confusingly similar since both entities operate in the financial services sector.\n  2. Where the common elements are generic or highly diluted (e.g. General, Universal or Canadian), the Superintendent is more likely to be comfortable with the name if he or she is satisfied that the distinctive element(s) are sufficiently strong to differentiate the RE from the entity using the existing name. For example, the Superintendent may be comfortable with Universal One Bank v. Universal Southern Bank since the distinctive element “One” is sufficiently strong to differentiate from “Southern”.\nWhere the common elements are unique (e.g. DWIDAG), the Superintendent will likely come to the conclusion that the name is confusingly similar to an existing name unless the distinctive element(s) are extremely strong or it is clear that the entities operate in different sectors. For example, the Superintendent may be comfortable with DWIDAG Insurance Company v. DWIDAG Plumbing Services since the distinctive elements are strong and the RE and DWIDAG Plumbing Services clearly operate in different sectors. However, where an unrelated entity is using the existing name, DWIDAG Financial, the Superintendent will likely come to the conclusion that DWIDAG Insurance Company is confusingly similar since both entities operate in the financial services sector.\nWhere the common elements are generic or highly diluted (e.g. General, Universal or Canadian), the Superintendent is more likely to be comfortable with the name if he or she is satisfied that the distinctive element(s) are sufficiently strong to differentiate the RE from the entity using the existing name. For example, the Superintendent may be comfortable with Universal One Bank v. Universal Southern Bank since the distinctive element “One” is sufficiently strong to differentiate from “Southern”.",
+      "content": [
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "As acknowledged in OSFI Ruling No. 2008-05 – Alternate Name – Use of Trade Name , a name can be confusingly similar while not being substantially the same.",
+            "In assessing whether a name would be confusingly similar to an existing name, the Superintendent would first consider the degree of resemblance in appearance or sound between the name and the existing name. For example, when examining a name against an existing name, the Superintendent will examine both the words and any logo or pictogram that is part of the existing name, including their form (e.g. font, size, colour).",
+            "If there are one or more common elements Where a common element is highly recognizable, the Superintendent will be reluctant to authorize any name that uses such common element. between the name and an existing name, the Superintendent will determine the extent to which these common elements are likely to lead to confusion, having regard to the following factors: whether the entity using the existing name has developed a distinctive brand in terms of the common elements; how long the existing name has been used; the operating status of the entity using the existing name (e.g. if inactive or no longer undertaking new business, the Superintendent is more likely to be comfortable with the name); how descriptive the common elements are of the characteristics of each of the RE and the entity using the existing name (e.g. a generic or complementary term like “Universal” would not describe an RE’s activities and therefore it would be difficult for an entity using an existing name with a generic or complementary term to lay claim to sole use of this term); and the nature of any affiliation between the RE and the entity using the existing name, and whether the entity using the existing name consented to the use of the name by the RE.",
+            "If there are one or more distinct elements between the name and an existing name, the Superintendent will examine the extent to which this is likely to reduce or eliminate confusion.",
+            "The Superintendent would also consider the following factors in assessing whether a name would be confusingly similar to an existing name: the nature of the products or services offered by the RE versus those offered by the entity using the existing name, including the likelihood of any competition between the RE and the entity; the territory in which the RE operates or will operate versus the territory of operation of the entity using the existing name, taking into consideration existing licences or statutory limitations of operation; the extent to which the RE and the entity using the existing name have operated in similar markets in other countries without material confusion or complaints; and the nature and extent of the distribution channels and the target market(s) of the RE versus those of the entity using the existing name, including an assessment of the current and potential customers of both the RE and the entity."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "As acknowledged in OSFI Ruling No. 2008-05 – Alternate Name – Use of Trade Name , a name can be confusingly similar while not being substantially the same."
+        },
+        {
+          "type": "paragraph",
+          "text": "In assessing whether a name would be confusingly similar to an existing name, the Superintendent would first consider the degree of resemblance in appearance or sound between the name and the existing name. For example, when examining a name against an existing name, the Superintendent will examine both the words and any logo or pictogram that is part of the existing name, including their form (e.g. font, size, colour)."
+        },
+        {
+          "type": "paragraph",
+          "text": "If there are one or more common elements Where a common element is highly recognizable, the Superintendent will be reluctant to authorize any name that uses such common element. between the name and an existing name, the Superintendent will determine the extent to which these common elements are likely to lead to confusion, having regard to the following factors:"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "whether the entity using the existing name has developed a distinctive brand in terms of the common elements;",
+            "how long the existing name has been used;",
+            "the operating status of the entity using the existing name (e.g. if inactive or no longer undertaking new business, the Superintendent is more likely to be comfortable with the name);",
+            "how descriptive the common elements are of the characteristics of each of the RE and the entity using the existing name (e.g. a generic or complementary term like “Universal” would not describe an RE’s activities and therefore it would be difficult for an entity using an existing name with a generic or complementary term to lay claim to sole use of this term); and",
+            "the nature of any affiliation between the RE and the entity using the existing name, and whether the entity using the existing name consented to the use of the name by the RE."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "whether the entity using the existing name has developed a distinctive brand in terms of the common elements;"
+        },
+        {
+          "type": "paragraph",
+          "text": "how long the existing name has been used;"
+        },
+        {
+          "type": "paragraph",
+          "text": "the operating status of the entity using the existing name (e.g. if inactive or no longer undertaking new business, the Superintendent is more likely to be comfortable with the name);"
+        },
+        {
+          "type": "paragraph",
+          "text": "how descriptive the common elements are of the characteristics of each of the RE and the entity using the existing name (e.g. a generic or complementary term like “Universal” would not describe an RE’s activities and therefore it would be difficult for an entity using an existing name with a generic or complementary term to lay claim to sole use of this term); and"
+        },
+        {
+          "type": "paragraph",
+          "text": "the nature of any affiliation between the RE and the entity using the existing name, and whether the entity using the existing name consented to the use of the name by the RE."
+        },
+        {
+          "type": "paragraph",
+          "text": "If there are one or more distinct elements between the name and an existing name, the Superintendent will examine the extent to which this is likely to reduce or eliminate confusion."
+        },
+        {
+          "type": "paragraph",
+          "text": "The Superintendent would also consider the following factors in assessing whether a name would be confusingly similar to an existing name:"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "the nature of the products or services offered by the RE versus those offered by the entity using the existing name, including the likelihood of any competition between the RE and the entity;",
+            "the territory in which the RE operates or will operate versus the territory of operation of the entity using the existing name, taking into consideration existing licences or statutory limitations of operation;",
+            "the extent to which the RE and the entity using the existing name have operated in similar markets in other countries without material confusion or complaints; and",
+            "the nature and extent of the distribution channels and the target market(s) of the RE versus those of the entity using the existing name, including an assessment of the current and potential customers of both the RE and the entity."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "the nature of the products or services offered by the RE versus those offered by the entity using the existing name, including the likelihood of any competition between the RE and the entity;"
+        },
+        {
+          "type": "paragraph",
+          "text": "the territory in which the RE operates or will operate versus the territory of operation of the entity using the existing name, taking into consideration existing licences or statutory limitations of operation;"
+        },
+        {
+          "type": "paragraph",
+          "text": "the extent to which the RE and the entity using the existing name have operated in similar markets in other countries without material confusion or complaints; and"
+        },
+        {
+          "type": "paragraph",
+          "text": "the nature and extent of the distribution channels and the target market(s) of the RE versus those of the entity using the existing name, including an assessment of the current and potential customers of both the RE and the entity."
+        },
+        {
+          "type": "paragraph",
+          "text": "The following hypothetical examples consider some of the factors set forth above:"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "Where the common elements are unique (e.g. DWIDAG), the Superintendent will likely come to the conclusion that the name is confusingly similar to an existing name unless the distinctive element(s) are extremely strong or it is clear that the entities operate in different sectors. For example, the Superintendent may be comfortable with DWIDAG Insurance Company v. DWIDAG Plumbing Services since the distinctive elements are strong and the RE and DWIDAG Plumbing Services clearly operate in different sectors. However, where an unrelated entity is using the existing name, DWIDAG Financial, the Superintendent will likely come to the conclusion that DWIDAG Insurance Company is confusingly similar since both entities operate in the financial services sector.",
+            "Where the common elements are generic or highly diluted (e.g. General, Universal or Canadian), the Superintendent is more likely to be comfortable with the name if he or she is satisfied that the distinctive element(s) are sufficiently strong to differentiate the RE from the entity using the existing name. For example, the Superintendent may be comfortable with Universal One Bank v. Universal Southern Bank since the distinctive element “One” is sufficiently strong to differentiate from “Southern”."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Where the common elements are unique (e.g. DWIDAG), the Superintendent will likely come to the conclusion that the name is confusingly similar to an existing name unless the distinctive element(s) are extremely strong or it is clear that the entities operate in different sectors. For example, the Superintendent may be comfortable with DWIDAG Insurance Company v. DWIDAG Plumbing Services since the distinctive elements are strong and the RE and DWIDAG Plumbing Services clearly operate in different sectors. However, where an unrelated entity is using the existing name, DWIDAG Financial, the Superintendent will likely come to the conclusion that DWIDAG Insurance Company is confusingly similar since both entities operate in the financial services sector."
+        },
+        {
+          "type": "paragraph",
+          "text": "Where the common elements are generic or highly diluted (e.g. General, Universal or Canadian), the Superintendent is more likely to be comfortable with the name if he or she is satisfied that the distinctive element(s) are sufficiently strong to differentiate the RE from the entity using the existing name. For example, the Superintendent may be comfortable with Universal One Bank v. Universal Southern Bank since the distinctive element “One” is sufficiently strong to differentiate from “Southern”."
+        }
+      ]
+    },
+    {
+      "heading": "E. The name is reserved",
+      "heading_level": 3,
+      "full_text": "A name that is the same or substantially the same as, or confusingly similar to, a name reserved with OSFI, is considered prohibited. To determine whether a name is reserved (or to reserve a name) OSFI should be contacted. For guidance on information required for an application to reserve a name, refer to OSFI Transaction Instruction A No. 20 – Name Reservation .",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "A name that is the same or substantially the same as, or confusingly similar to, a name reserved with OSFI, is considered prohibited. To determine whether a name is reserved (or to reserve a name) OSFI should be contacted. For guidance on information required for an application to reserve a name, refer to OSFI Transaction Instruction A No. 20 – Name Reservation ."
+        }
+      ]
+    },
+    {
+      "heading": "Use of Trade Names:",
+      "heading_level": 2,
+      "full_text": "Where the Superintendent is of the opinion that an RE is using a trade name that is prohibited under any of Parts A to E above, he or she will generally intervene to stop the usage of the name by the RE. However, in certain cases, the Superintendent may decide not to intervene. For example, an RE’s trade name is confusingly similar to an existing name, however both (a) the RE has obtained the consent of the entity owning the existing name, and (b) the Superintendent is satisfied that creditors of the RE are not being misled (e.g. there is adequate disclosure indicating that the RE and the entity owning the existing name are not the same entity). See OSFI Ruling No. 2008-05 – Alternate Name – Use of Trade Name as an example.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Where the Superintendent is of the opinion that an RE is using a trade name that is prohibited under any of Parts A to E above, he or she will generally intervene to stop the usage of the name by the RE. However, in certain cases, the Superintendent may decide not to intervene. For example, an RE’s trade name is confusingly similar to an existing name, however both (a) the RE has obtained the consent of the entity owning the existing name, and (b) the Superintendent is satisfied that creditors of the RE are not being misled (e.g. there is adequate disclosure indicating that the RE and the entity owning the existing name are not the same entity). See OSFI Ruling No. 2008-05 – Alternate Name – Use of Trade Name as an example."
+        }
+      ]
+    }
+  ],
+  "title_normalized": "corporate names registered names and trade names",
+  "publication_type_normalized": "regulatory_and_legislative_advisory",
+  "category_normalized": "regulatory_and_legislative",
+  "sector_normalized": [
+    "bank_act",
+    "insurance_companies_act",
+    "trust_and_loan_companies_act"
+  ],
+  "guideline_number_normalized": "",
+  "applies_to_banks": true,
+  "applies_to_trust_loan": true,
+  "applies_to_life_insurance": false,
+  "applies_to_pc_insurance": false,
+  "applies_to_foreign_bank": false,
+  "applies_to_foreign_insurance": false,
+  "applies_to_cooperative": false,
+  "applies_to_bank_holding": false,
+  "effective_date_sort_key": "2020-01-31",
+  "status_sort_key": 1,
+  "authority_sort_key": 100,
+  "bm25_text": "Corporate Names, Registered Names and Trade Names Regulatory and legislative advisory Regulatory and legislative Bank Act Insurance Companies Act Trust and Loan Companies Act Introduction: Definitions: Relevant Provisions: Factors: A. The name is prohibited by an Act of Parliament B. The name is deceptively misdescriptive C. The name is substantially the same D. The name is confusingly similar E. The name is reserved Use of Trade Names:",
+  "vector_text_prefix": "[OSFI Regulatory and legislative advisory  | Regulatory and legislative | Bank Act / Insurance Companies Act / Trust and Loan Companies Act | FINAL_CURRENT | Effective 2020-01-31]",
+  "h1_title": "Corporate Names, Registered Names and Trade Names",
+  "regulator": "OSFI",
+  "regulator_acronym": "OSFI",
+  "jurisdiction": "Canada",
+  "short_title": "",
+  "source_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/corporate-names-registered-names-trade-names"
+}

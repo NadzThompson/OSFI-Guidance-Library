@@ -1,0 +1,362 @@
+{
+  "source_system": "osfi_guidance_library",
+  "library_row_title": "Mergers Involving Foreign Entities",
+  "library_row_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/mergers-involving-foreign-entities",
+  "listing_date_raw": "January 31, 2020",
+  "listing_date_iso": "2020-01-31",
+  "listing_publication_type": "Regulatory and legislative advisory",
+  "listing_category": "Regulatory and legislative",
+  "listing_sector": [
+    "Bank Act",
+    "Insurance Companies Act"
+  ],
+  "crawl_timestamp": "2026-03-11T00:00:00Z",
+  "detail_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/mergers-involving-foreign-entities",
+  "canonical_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/mergers-involving-foreign-entities",
+  "slug": "mergers-involving-foreign-entities",
+  "title": "Mergers Involving Foreign Entities",
+  "publication_type": "Regulatory and legislative advisory",
+  "category": "Regulatory and legislative",
+  "document_date_raw": "January 31, 2020",
+  "document_date_iso": "2020-01-31",
+  "sector": [
+    "Bank Act",
+    "Insurance Companies Act"
+  ],
+  "effective_date_text": "",
+  "guideline_number": "",
+  "date_modified_raw": "2020-01-31T12:00:00Z",
+  "generate_pdf_url": "https://www.osfi-bsif.gc.ca/en/print/pdf/node/538",
+  "pdf_node_id": 538,
+  "direct_pdf_url": null,
+  "has_table_of_contents": true,
+  "toc_entries": [],
+  "has_related_documents": false,
+  "related_document_links_raw": [],
+  "consultation_status_text": null,
+  "consultation_status_refers_to_version": null,
+  "page_language": "en",
+  "word_count_raw_body": 2024,
+  "doc_id": "osfi.mergers-involving-foreign-entities.advisory",
+  "doc_family_id": "osfi.mergers-involving-foreign-entities",
+  "version_id": "",
+  "version_label": "Mergers Involving Foreign Entities",
+  "version_sort_key": "",
+  "parent_doc_id": null,
+  "child_doc_ids": [],
+  "is_package_page": false,
+  "is_chapter_page": false,
+  "chapter_number": null,
+  "chapter_title": null,
+  "document_order_within_family": 0,
+  "supersedes_doc_id": null,
+  "superseded_by_doc_id": null,
+  "current_version_flag": true,
+  "status": "final_current",
+  "include_in_primary_corpus": true,
+  "include_in_support_corpus": false,
+  "include_in_context_corpus": false,
+  "effective_date_start": "2020-01-31",
+  "effective_date_end": null,
+  "effective_date_fye_split": false,
+  "effective_date_oct_fye": null,
+  "effective_date_dec_fye": null,
+  "is_future_effective": false,
+  "is_rescinded": false,
+  "is_draft_or_consultation": false,
+  "rescission_date": null,
+  "consultation_closing_date": null,
+  "as_of_applicability": "2026-03-23",
+  "rule_applied": "rule_5_final_current",
+  "authority_class": "primary_normative",
+  "authority_level": 100,
+  "nova_tier": 1,
+  "prudential_weight": 1.0,
+  "is_primary_normative": true,
+  "is_supporting_interpretive": false,
+  "is_context_only": false,
+  "document_class": "advisory",
+  "guidance_type_normalized": "regulatory_and_legislative_advisory",
+  "section_headings": [
+    {
+      "level": 2,
+      "text": "Introduction:",
+      "id": "h2-0"
+    },
+    {
+      "level": 2,
+      "text": "Definitions:",
+      "id": "h2-1"
+    },
+    {
+      "level": 2,
+      "text": "Relevant Provisions:",
+      "id": "h2-2"
+    },
+    {
+      "level": 4,
+      "text": "1.1 Merger’s Effect on AFE’s Canadian Operations",
+      "id": "h4-3"
+    },
+    {
+      "level": 4,
+      "text": "1.2 Merger’s Interaction with Bank Act and Insurance Companies Act",
+      "id": "h4-4"
+    },
+    {
+      "level": 3,
+      "text": "Section 2. Merger where Surviving Entity is an AFE, but Absorbed Entity is Not",
+      "id": "h3-5"
+    },
+    {
+      "level": 3,
+      "text": "Section 3. Merger where the Absorbed Entity or the Surviving Entity Controls or Holds a Significant Interest in a FRFI",
+      "id": "h3-6"
+    }
+  ],
+  "heading_path": [
+    "Mergers Involving Foreign Entities"
+  ],
+  "toc_depth": 4,
+  "has_appendices": false,
+  "appendix_ids": [],
+  "has_tables": false,
+  "table_count": 0,
+  "has_footnotes": false,
+  "footnote_count": 0,
+  "inline_cross_references": [],
+  "quoted_external_references": [],
+  "raw_html_sha256": "902a0f272dd4c49015e1fc862238155663c2d6511e5c5280902419c8cfd0c04f",
+  "raw_pdf_sha256": null,
+  "normalized_text_sha256": null,
+  "raw_html_path": "bronze/osfi/html/final_current/mergers-involving-foreign-entities.html",
+  "normalized_md_path": "silver/osfi/md/final_current/mergers-involving-foreign-entities.md",
+  "canonical_json_path": "silver/osfi/json/final_current/mergers-involving-foreign-entities.json",
+  "content_source": "HTML",
+  "parser_version": "osfi-parser-v2.1.0",
+  "normalizer_version": "osfi-normalizer-v1.4.0",
+  "quality_score": 1.0,
+  "quality_flags": [],
+  "download_timestamp": "2026-03-11T00:00:00Z",
+  "enriched_timestamp": "2026-03-23T09:53:56.404497Z",
+  "sections": [
+    {
+      "heading": "",
+      "heading_level": 2,
+      "full_text": "Advisories describe how OSFI administers and interprets provisions of existing legislation, regulations or guidelines, or provide OSFI’s position regarding certain policy issues. Advisories are not law; readers should refer to the relevant provisions of the legislation, regulation or guideline, including any amendments that came into effect subsequent to the Advisory’s publication, when considering the relevancy of the Advisory.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Advisories describe how OSFI administers and interprets provisions of existing legislation, regulations or guidelines, or provide OSFI’s position regarding certain policy issues. Advisories are not law; readers should refer to the relevant provisions of the legislation, regulation or guideline, including any amendments that came into effect subsequent to the Advisory’s publication, when considering the relevancy of the Advisory."
+        }
+      ]
+    },
+    {
+      "heading": "Introduction:",
+      "heading_level": 2,
+      "full_text": "On occasion, an AFE merges, under the laws of its home jurisdiction, with another entity.\nThis Advisory sets out OSFI’s general views and expectations regarding such mergers. It also sets out OSFI’s general understanding of such mergers, and related requirements of the Bank Act and the Insurance Companies Act .\nMergers discussed in this Advisory differ from amalgamations under the Bank Act and the Insurance Companies Act . OSFI is of the view that amalgamations under these two statutes result in each amalgamating entity losing its separate existence, but all of them continuing to exist. Conversely, mergers discussed in this Advisory result in one or more of the merging entities ceasing to exist, despite any amalgamation-like language contained in related merger agreements.\nFor the reasons noted in this Advisory, in a merger where the absorbed entity is an AFE, the surviving entity must also be, effective on or before the merger, an AFE.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "On occasion, an AFE merges, under the laws of its home jurisdiction, with another entity."
+        },
+        {
+          "type": "paragraph",
+          "text": "This Advisory sets out OSFI’s general views and expectations regarding such mergers. It also sets out OSFI’s general understanding of such mergers, and related requirements of the Bank Act and the Insurance Companies Act ."
+        },
+        {
+          "type": "paragraph",
+          "text": "Mergers discussed in this Advisory differ from amalgamations under the Bank Act and the Insurance Companies Act . OSFI is of the view that amalgamations under these two statutes result in each amalgamating entity losing its separate existence, but all of them continuing to exist. Conversely, mergers discussed in this Advisory result in one or more of the merging entities ceasing to exist, despite any amalgamation-like language contained in related merger agreements."
+        },
+        {
+          "type": "paragraph",
+          "text": "For the reasons noted in this Advisory, in a merger where the absorbed entity is an AFE, the surviving entity must also be, effective on or before the merger, an AFE."
+        }
+      ]
+    },
+    {
+      "heading": "Definitions:",
+      "heading_level": 2,
+      "full_text": "In this Advisory:\n“absorbed entity” means the entity that, by operation of a merger under laws outside of Canada, has been or will be absorbed by a surviving entity, and therefore has ceased or will cease to exist as an entity as a result of the merger;\n“AFE” means approved foreign entity, which refers to an authorized foreign bank, a foreign bank with a representative office in Canada or a foreign company (i.e., a foreign insurer operating in Canada on a branch basis);\n“entry approval” means:\n  1. the order permitting a foreign bank to establish a branch in Canada and the order approving its commencement and carrying on of business in Canada,\n  2. the approval permitting a foreign bank to establish a representative office in Canada, or\n  3. the order approving the insuring in Canada of risks by a foreign insurer; and\n“surviving entity” means the entity that, by operation of a merger under laws outside of Canada, continues or will continue to exist as an entity, and has seen or will see all the assets, and all the liabilities and other obligations, of the absorbed entity become its own.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "In this Advisory:"
+        },
+        {
+          "type": "paragraph",
+          "text": "“absorbed entity” means the entity that, by operation of a merger under laws outside of Canada, has been or will be absorbed by a surviving entity, and therefore has ceased or will cease to exist as an entity as a result of the merger;"
+        },
+        {
+          "type": "paragraph",
+          "text": "“AFE” means approved foreign entity, which refers to an authorized foreign bank, a foreign bank with a representative office in Canada or a foreign company (i.e., a foreign insurer operating in Canada on a branch basis);"
+        },
+        {
+          "type": "paragraph",
+          "text": "“entry approval” means:"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "the order permitting a foreign bank to establish a branch in Canada and the order approving its commencement and carrying on of business in Canada,",
+            "the approval permitting a foreign bank to establish a representative office in Canada, or",
+            "the order approving the insuring in Canada of risks by a foreign insurer; and"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "“surviving entity” means the entity that, by operation of a merger under laws outside of Canada, continues or will continue to exist as an entity, and has seen or will see all the assets, and all the liabilities and other obligations, of the absorbed entity become its own."
+        }
+      ]
+    },
+    {
+      "heading": "Relevant Provisions:",
+      "heading_level": 2,
+      "full_text": "Parts XII and XII.1 of the Bank Act , and Part XIII of the Insurance Companies Act .",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Parts XII and XII.1 of the Bank Act , and Part XIII of the Insurance Companies Act ."
+        }
+      ]
+    },
+    {
+      "heading": "1.1 Merger’s Effect on AFE’s Canadian Operations",
+      "heading_level": 4,
+      "full_text": "Where the absorbed entity is an AFE, OSFI generally understands that:\n  1. all of the absorbed entity’s assets, and liabilities and other obligations, with respect to its business (or representative office) in Canada become those of the surviving entity on the effective date of the merger, without further action; and\n  2. consistent with (a) above, all of the absorbed entity’s debtors and creditors with respect to its business (or representative office) in Canada become those of the surviving entity on the effective date of the merger, without further action.\nIn every case, OSFI will seek to understand the effect of a proposed merger on the business (or representative office) in Canada of an absorbed entity that is an AFE (and of the surviving entity, where it is also an AFE prior to the merger). As a result, an absorbed entity that is an AFE is expected to either confirm to OSFI that the effect of its merger will be consistent with the above or advise OSFI about how it will differ. OSFI may also request further information to understand other effects of the merger.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Where the absorbed entity is an AFE, OSFI generally understands that:"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "all of the absorbed entity’s assets, and liabilities and other obligations, with respect to its business (or representative office) in Canada become those of the surviving entity on the effective date of the merger, without further action; and",
+            "consistent with (a) above, all of the absorbed entity’s debtors and creditors with respect to its business (or representative office) in Canada become those of the surviving entity on the effective date of the merger, without further action."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "In every case, OSFI will seek to understand the effect of a proposed merger on the business (or representative office) in Canada of an absorbed entity that is an AFE (and of the surviving entity, where it is also an AFE prior to the merger). As a result, an absorbed entity that is an AFE is expected to either confirm to OSFI that the effect of its merger will be consistent with the above or advise OSFI about how it will differ. OSFI may also request further information to understand other effects of the merger."
+        }
+      ]
+    },
+    {
+      "heading": "1.2 Merger’s Interaction with Bank Act and Insurance Companies Act",
+      "heading_level": 4,
+      "full_text": "Whether or not the surviving entity is an AFE prior to the merger As explained below, a surviving entity that is not an AFE prior to the merger will need to become one by the effective date of the merger. , in a merger where the absorbed entity is an AFE, OSFI is generally of the view that:\n  1. with respect to the absorbed entity’s entry approval, the entry approval does not follow to the surviving entity, since the entry approval is the result of a decision unique to the absorbed entity, and the entry approval becomes void upon the absorbed entity ceasing to exist (as a result, the absorbed entity does not need to request a revocation of its entry approval);\n  2. where the absorbed entity is an authorized foreign bank, it requires an approval under section 537 of the Bank Act where the merger will, by operation of the laws effecting it, cause its liabilities in respect of its business in Canada to be transferred (i.e., conveyed) to the surviving entity;\n  3. where the absorbed entity is a foreign company: it does not require an approval under section 587.1 of the Insurance Companies Act since the merger does not cause the absorbed entity to be reinsured, on an assumption basis, by the surviving entity (e.g., the surviving entity will become the sole obligor, rather than an additional obligor, of the absorbed entity’s policy liabilities in respect of its business in Canada), and it must give notice to the Superintendent of the proposed merger, under section 587.3 of the Insurance Companies Act , where the merger will, by operation of the laws effecting it, cause its policies in respect of its business in Canada to be transferred (i.e., conveyed) to the surviving entity; The Superintendent deems the absorbed entity to have given such notice where the surviving entity requests an entry approval (where the surviving entity is not currently an AFE) or an amendment to its entry approval (where the surviving entity is currently an AFE). and\n  4. with respect to the deposit agreement under subsection 534(4) of the Bank Act (where the absorbed entity is an authorized foreign bank) and the trust agreement under subsection 611(3) of the Insurance Companies Act (where the absorbed entity is a foreign company), the surviving entity is required to take all steps necessary to ensure that the agreement is effective against it, and subject to (i) above, on the effective date of the merger, the surviving entity is substituted for the absorbed entity as a party to the agreement (an amendment may be made to the agreement to reflect this, but is not required).\n  1. the entry approval does not follow to the surviving entity, since the entry approval is the result of a decision unique to the absorbed entity, and\n  2. the entry approval becomes void upon the absorbed entity ceasing to exist (as a result, the absorbed entity does not need to request a revocation of its entry approval);\n  1. it does not require an approval under section 587.1 of the Insurance Companies Act since the merger does not cause the absorbed entity to be reinsured, on an assumption basis, by the surviving entity (e.g., the surviving entity will become the sole obligor, rather than an additional obligor, of the absorbed entity’s policy liabilities in respect of its business in Canada), and\n  2. it must give notice to the Superintendent of the proposed merger, under section 587.3 of the Insurance Companies Act , where the merger will, by operation of the laws effecting it, cause its policies in respect of its business in Canada to be transferred (i.e., conveyed) to the surviving entity; The Superintendent deems the absorbed entity to have given such notice where the surviving entity requests an entry approval (where the surviving entity is not currently an AFE) or an amendment to its entry approval (where the surviving entity is currently an AFE). and\n  1. the surviving entity is required to take all steps necessary to ensure that the agreement is effective against it, and\n  2. subject to (i) above, on the effective date of the merger, the surviving entity is substituted for the absorbed entity as a party to the agreement (an amendment may be made to the agreement to reflect this, but is not required).\nGiven the views set out in 1.2(a) above, in a merger where the surviving entity is not currently an AFE, the surviving entity will need to obtain an entry approval, effective on or before the merger . In such case, the surviving entity should refer to the Guide to Foreign Bank Branching (for the application process to become an authorized foreign bank), Transaction Instruction A 4 – Establishment of Branch by Foreign Insurer (Order to Insure in Canada Risks) (for the application process to become a foreign company) or the Foreign Bank Representative Offices Regulations . Where the merger is between affiliates and the surviving entity’s personnel in Canada will be the same as the absorbed entity’s – and in the case of an application to become an authorized foreign bank or a foreign company, the Canadian business plan of the surviving entity will be the same as the absorbed entity’s – the application process is generally abridged.\nIn a merger where the absorbed entity and the surviving entity are currently both AFEs, OSFI notes that the surviving entity:\n  1. may, in certain cases, need to request an amendment to its entry approval (e.g., in the case of two foreign companies merging, to add a class of insurance that is specified in the absorbed entity’s entry approval, but that is currently not specified in the surviving entity’s entry approval – in such case, the surviving entity should refer to Transaction Instruction A 2 – Amending an Order to Insure in Canada Risks to Add or Delete a Class of Insurance ); and\n  2. generally requests an amendment to its entry approval where its corporate name will change as part of the merger. Authorized foreign banks and foreign companies are reminded of the requirement, with respect to their business in Canada, to set out their corporate name, and any other permitted name set out in their entry approvals, in legible characters in all contracts, invoices, premium notices, policies, applications for policies, negotiable instruments and other documents evidencing rights or obligations with respect to other parties that are issued or made by or on behalf of them. See section 531 of the Bank Act and subsection 578(4) of the Insurance Companies Act . A surviving entity seeking such an amendment should refer to Transaction Instruction A 6 – Change of Name - Foreign Entity .",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Whether or not the surviving entity is an AFE prior to the merger As explained below, a surviving entity that is not an AFE prior to the merger will need to become one by the effective date of the merger. , in a merger where the absorbed entity is an AFE, OSFI is generally of the view that:"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "with respect to the absorbed entity’s entry approval, the entry approval does not follow to the surviving entity, since the entry approval is the result of a decision unique to the absorbed entity, and the entry approval becomes void upon the absorbed entity ceasing to exist (as a result, the absorbed entity does not need to request a revocation of its entry approval);",
+            "where the absorbed entity is an authorized foreign bank, it requires an approval under section 537 of the Bank Act where the merger will, by operation of the laws effecting it, cause its liabilities in respect of its business in Canada to be transferred (i.e., conveyed) to the surviving entity;",
+            "where the absorbed entity is a foreign company: it does not require an approval under section 587.1 of the Insurance Companies Act since the merger does not cause the absorbed entity to be reinsured, on an assumption basis, by the surviving entity (e.g., the surviving entity will become the sole obligor, rather than an additional obligor, of the absorbed entity’s policy liabilities in respect of its business in Canada), and it must give notice to the Superintendent of the proposed merger, under section 587.3 of the Insurance Companies Act , where the merger will, by operation of the laws effecting it, cause its policies in respect of its business in Canada to be transferred (i.e., conveyed) to the surviving entity; The Superintendent deems the absorbed entity to have given such notice where the surviving entity requests an entry approval (where the surviving entity is not currently an AFE) or an amendment to its entry approval (where the surviving entity is currently an AFE). and",
+            "with respect to the deposit agreement under subsection 534(4) of the Bank Act (where the absorbed entity is an authorized foreign bank) and the trust agreement under subsection 611(3) of the Insurance Companies Act (where the absorbed entity is a foreign company), the surviving entity is required to take all steps necessary to ensure that the agreement is effective against it, and subject to (i) above, on the effective date of the merger, the surviving entity is substituted for the absorbed entity as a party to the agreement (an amendment may be made to the agreement to reflect this, but is not required)."
+          ]
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "the entry approval does not follow to the surviving entity, since the entry approval is the result of a decision unique to the absorbed entity, and",
+            "the entry approval becomes void upon the absorbed entity ceasing to exist (as a result, the absorbed entity does not need to request a revocation of its entry approval);"
+          ]
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "it does not require an approval under section 587.1 of the Insurance Companies Act since the merger does not cause the absorbed entity to be reinsured, on an assumption basis, by the surviving entity (e.g., the surviving entity will become the sole obligor, rather than an additional obligor, of the absorbed entity’s policy liabilities in respect of its business in Canada), and",
+            "it must give notice to the Superintendent of the proposed merger, under section 587.3 of the Insurance Companies Act , where the merger will, by operation of the laws effecting it, cause its policies in respect of its business in Canada to be transferred (i.e., conveyed) to the surviving entity; The Superintendent deems the absorbed entity to have given such notice where the surviving entity requests an entry approval (where the surviving entity is not currently an AFE) or an amendment to its entry approval (where the surviving entity is currently an AFE). and"
+          ]
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "the surviving entity is required to take all steps necessary to ensure that the agreement is effective against it, and",
+            "subject to (i) above, on the effective date of the merger, the surviving entity is substituted for the absorbed entity as a party to the agreement (an amendment may be made to the agreement to reflect this, but is not required)."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Given the views set out in 1.2(a) above, in a merger where the surviving entity is not currently an AFE, the surviving entity will need to obtain an entry approval, effective on or before the merger . In such case, the surviving entity should refer to the Guide to Foreign Bank Branching (for the application process to become an authorized foreign bank), Transaction Instruction A 4 – Establishment of Branch by Foreign Insurer (Order to Insure in Canada Risks) (for the application process to become a foreign company) or the Foreign Bank Representative Offices Regulations . Where the merger is between affiliates and the surviving entity’s personnel in Canada will be the same as the absorbed entity’s – and in the case of an application to become an authorized foreign bank or a foreign company, the Canadian business plan of the surviving entity will be the same as the absorbed entity’s – the application process is generally abridged."
+        },
+        {
+          "type": "paragraph",
+          "text": "In a merger where the absorbed entity and the surviving entity are currently both AFEs, OSFI notes that the surviving entity:"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "may, in certain cases, need to request an amendment to its entry approval (e.g., in the case of two foreign companies merging, to add a class of insurance that is specified in the absorbed entity’s entry approval, but that is currently not specified in the surviving entity’s entry approval – in such case, the surviving entity should refer to Transaction Instruction A 2 – Amending an Order to Insure in Canada Risks to Add or Delete a Class of Insurance ); and",
+            "generally requests an amendment to its entry approval where its corporate name will change as part of the merger. Authorized foreign banks and foreign companies are reminded of the requirement, with respect to their business in Canada, to set out their corporate name, and any other permitted name set out in their entry approvals, in legible characters in all contracts, invoices, premium notices, policies, applications for policies, negotiable instruments and other documents evidencing rights or obligations with respect to other parties that are issued or made by or on behalf of them. See section 531 of the Bank Act and subsection 578(4) of the Insurance Companies Act . A surviving entity seeking such an amendment should refer to Transaction Instruction A 6 – Change of Name - Foreign Entity ."
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "Section 2. Merger where Surviving Entity is an AFE, but Absorbed Entity is Not",
+      "heading_level": 3,
+      "full_text": "Where only the surviving entity is an AFE, OSFI is generally of the view that the surviving entity’s entry approval remains valid, without the need for any amendment. In addition, such cases are generally not subject to any approval or notification requirement under the Bank Act or the Insurance Companies Act . See Section 3 below for an exception. In all cases, however, the surviving entity is expected to notify its Lead Supervisor about its proposed merger. In turn, the Lead Supervisor may request information to understand the effect of the merger on the surviving entity’s business (or representative office) in Canada. In addition, where the absorbed entity has Canadian branch operations, those operations must be, as they relate to the surviving entity, permissible under the Bank Act or the Insurance Companies Act or discontinued prior to the merger .\nIn OSFI’s experience, where the surviving entity will change its corporate name as part of the merger, the entity generally requests an amendment to its entry approval to reflect this. A surviving entity seeking such an amendment should refer to Transaction Instruction A 6 – Change of Name - Foreign Entity .",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Where only the surviving entity is an AFE, OSFI is generally of the view that the surviving entity’s entry approval remains valid, without the need for any amendment. In addition, such cases are generally not subject to any approval or notification requirement under the Bank Act or the Insurance Companies Act . See Section 3 below for an exception. In all cases, however, the surviving entity is expected to notify its Lead Supervisor about its proposed merger. In turn, the Lead Supervisor may request information to understand the effect of the merger on the surviving entity’s business (or representative office) in Canada. In addition, where the absorbed entity has Canadian branch operations, those operations must be, as they relate to the surviving entity, permissible under the Bank Act or the Insurance Companies Act or discontinued prior to the merger ."
+        },
+        {
+          "type": "paragraph",
+          "text": "In OSFI’s experience, where the surviving entity will change its corporate name as part of the merger, the entity generally requests an amendment to its entry approval to reflect this. A surviving entity seeking such an amendment should refer to Transaction Instruction A 6 – Change of Name - Foreign Entity ."
+        }
+      ]
+    },
+    {
+      "heading": "Section 3. Merger where the Absorbed Entity or the Surviving Entity Controls or Holds a Significant Interest in a FRFI",
+      "heading_level": 3,
+      "full_text": "Mergers where the absorbed entity or the surviving entity controls, or holds a significant interest in a class of shares of, a federally regulated financial institution (FRFI) are subject to approval requirements under the ownership rules that govern the FRFI. See subsections 373(2) and 377.1(2) of the Bank Act , subsections 407(2) and 407.1(2) of the Insurance Companies Act , and subsections 375(2) and 375.1(2) of the Trust and Loan Companies Act . In such cases, the entity should refer to Transaction Instruction A 23 – Acquisition or Increase of a Significant Interest in, and/or Acquisition of Control of, a Federally Regulated Entity . This is the case whether or not the entity is an AFE.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Mergers where the absorbed entity or the surviving entity controls, or holds a significant interest in a class of shares of, a federally regulated financial institution (FRFI) are subject to approval requirements under the ownership rules that govern the FRFI. See subsections 373(2) and 377.1(2) of the Bank Act , subsections 407(2) and 407.1(2) of the Insurance Companies Act , and subsections 375(2) and 375.1(2) of the Trust and Loan Companies Act . In such cases, the entity should refer to Transaction Instruction A 23 – Acquisition or Increase of a Significant Interest in, and/or Acquisition of Control of, a Federally Regulated Entity . This is the case whether or not the entity is an AFE."
+        }
+      ]
+    }
+  ],
+  "title_normalized": "mergers involving foreign entities",
+  "publication_type_normalized": "regulatory_and_legislative_advisory",
+  "category_normalized": "regulatory_and_legislative",
+  "sector_normalized": [
+    "bank_act",
+    "insurance_companies_act"
+  ],
+  "guideline_number_normalized": "",
+  "applies_to_banks": true,
+  "applies_to_trust_loan": false,
+  "applies_to_life_insurance": false,
+  "applies_to_pc_insurance": false,
+  "applies_to_foreign_bank": false,
+  "applies_to_foreign_insurance": false,
+  "applies_to_cooperative": false,
+  "applies_to_bank_holding": false,
+  "effective_date_sort_key": "2020-01-31",
+  "status_sort_key": 1,
+  "authority_sort_key": 100,
+  "bm25_text": "Mergers Involving Foreign Entities Regulatory and legislative advisory Regulatory and legislative Bank Act Insurance Companies Act Introduction: Definitions: Relevant Provisions: 1.1 Merger’s Effect on AFE’s Canadian Operations 1.2 Merger’s Interaction with Bank Act and Insurance Companies Act Section 2. Merger where Surviving Entity is an AFE, but Absorbed Entity is Not Section 3. Merger where the Absorbed Entity or the Surviving Entity Controls or Holds a Significant Interest in a FRFI",
+  "vector_text_prefix": "[OSFI Regulatory and legislative advisory  | Regulatory and legislative | Bank Act / Insurance Companies Act | FINAL_CURRENT | Effective 2020-01-31]",
+  "h1_title": "Mergers Involving Foreign Entities",
+  "regulator": "OSFI",
+  "regulator_acronym": "OSFI",
+  "jurisdiction": "Canada",
+  "short_title": "",
+  "source_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/mergers-involving-foreign-entities"
+}

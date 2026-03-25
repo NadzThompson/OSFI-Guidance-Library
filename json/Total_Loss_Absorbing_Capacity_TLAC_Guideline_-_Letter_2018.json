@@ -1,0 +1,258 @@
+{
+  "source_system": "osfi_guidance_library",
+  "library_row_title": "Total Loss Absorbing Capacity (TLAC) Guideline - Letter (2018)",
+  "library_row_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/total-loss-absorbing-capacity-tlac-guideline-letter-2018",
+  "listing_date_raw": "April 18, 2018",
+  "listing_date_iso": "2018-04-18",
+  "listing_publication_type": "Letter",
+  "listing_category": "Capital Adequacy Requirements",
+  "listing_sector": [
+    "Banks",
+    "Trust and Loan Companies"
+  ],
+  "crawl_timestamp": "2026-03-11T00:00:00Z",
+  "detail_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/total-loss-absorbing-capacity-tlac-guideline-letter-2018",
+  "canonical_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/total-loss-absorbing-capacity-tlac-guideline-letter-2018",
+  "slug": "total-loss-absorbing-capacity-tlac-guideline-letter-2018",
+  "title": "Total Loss Absorbing Capacity (TLAC) Guideline - Letter (2018)",
+  "publication_type": "Letter",
+  "category": "Capital Adequacy Requirements",
+  "document_date_raw": "April 18, 2018",
+  "document_date_iso": "2018-04-18",
+  "sector": [
+    "Banks",
+    "Trust and Loan Companies"
+  ],
+  "effective_date_text": "",
+  "guideline_number": "TLAC",
+  "date_modified_raw": "2018-04-18T12:00:00Z",
+  "generate_pdf_url": "https://www.osfi-bsif.gc.ca/en/print/pdf/node/481",
+  "pdf_node_id": 481,
+  "direct_pdf_url": null,
+  "has_table_of_contents": true,
+  "toc_entries": [],
+  "has_related_documents": true,
+  "related_document_links_raw": [
+    {
+      "title": "TLAC Disclosure Requirements Guideline",
+      "url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/total-loss-absorbing-capacity-tlac-disclosure-requirements-guideline-capital-disclosure-requirements"
+    }
+  ],
+  "consultation_status_text": null,
+  "consultation_status_refers_to_version": null,
+  "page_language": "en",
+  "word_count_raw_body": 830,
+  "doc_id": "osfi.tlac.2018.transmittal",
+  "doc_family_id": "osfi.tlac",
+  "version_id": "2018",
+  "version_label": "TLAC (2018)",
+  "version_sort_key": "2018-04",
+  "parent_doc_id": null,
+  "child_doc_ids": [],
+  "is_package_page": false,
+  "is_chapter_page": false,
+  "chapter_number": null,
+  "chapter_title": null,
+  "document_order_within_family": 0,
+  "supersedes_doc_id": null,
+  "superseded_by_doc_id": null,
+  "current_version_flag": true,
+  "status": "final_current",
+  "include_in_primary_corpus": false,
+  "include_in_support_corpus": true,
+  "include_in_context_corpus": false,
+  "effective_date_start": "2018-04-18",
+  "effective_date_end": null,
+  "effective_date_fye_split": false,
+  "effective_date_oct_fye": null,
+  "effective_date_dec_fye": null,
+  "is_future_effective": false,
+  "is_rescinded": false,
+  "is_draft_or_consultation": false,
+  "rescission_date": null,
+  "consultation_closing_date": null,
+  "as_of_applicability": "2026-03-23",
+  "rule_applied": "rule_5_final_current",
+  "authority_class": "official_support",
+  "authority_level": 60,
+  "nova_tier": 2,
+  "prudential_weight": 0.7,
+  "is_primary_normative": false,
+  "is_supporting_interpretive": true,
+  "is_context_only": false,
+  "document_class": "transmittal_letter",
+  "guidance_type_normalized": "letter",
+  "section_headings": [
+    {
+      "level": 2,
+      "text": "Annex 1 – Summary of Comments Received and OSFI Responses",
+      "id": "h2-0"
+    }
+  ],
+  "heading_path": [
+    "Total Loss Absorbing Capacity (TLAC) Guideline - Letter (2018)"
+  ],
+  "toc_depth": 2,
+  "has_appendices": false,
+  "appendix_ids": [],
+  "has_tables": true,
+  "table_count": 1,
+  "has_footnotes": false,
+  "footnote_count": 0,
+  "inline_cross_references": [],
+  "quoted_external_references": [
+    "BCBS standard <a href=\"https://www",
+    "BCBS: October 2016) on TLAC holdings finalised in October 2016 and builds on the exi"
+  ],
+  "raw_html_sha256": "cd387c036d4cea74c4837dd1a92684f7f827e05f75543632ee120f8002ebdf25",
+  "raw_pdf_sha256": null,
+  "normalized_text_sha256": null,
+  "raw_html_path": "bronze/osfi/html/final_current/total-loss-absorbing-capacity-tlac-guideline-letter-2018.html",
+  "normalized_md_path": "silver/osfi/md/final_current/total-loss-absorbing-capacity-tlac-guideline-letter-2018.md",
+  "canonical_json_path": "silver/osfi/json/final_current/total-loss-absorbing-capacity-tlac-guideline-letter-2018.json",
+  "content_source": "HTML",
+  "parser_version": "osfi-parser-v2.1.0",
+  "normalizer_version": "osfi-normalizer-v1.4.0",
+  "quality_score": 1.0,
+  "quality_flags": [],
+  "download_timestamp": "2026-03-11T00:00:00Z",
+  "enriched_timestamp": "2026-03-23T09:54:00.994673Z",
+  "sections": [
+    {
+      "heading": "",
+      "heading_level": 2,
+      "full_text": "  - Total Loss Absorbing Capacity (TLAC) – Guideline (2018)\n  - Total Loss Absorbing Capacity (TLAC) Guideline - Guideline impact analysis statement (2018)\n  - TLAC Disclosure Requirements Guideline\nTo: Domestic Systemically Important Banks (D-SIBs)\nOSFI is releasing the final version of the Total Loss Absorbing Capacity (TLAC) guideline for implementation on September 23, 2018. The TLAC Guideline sets out the framework within which the Superintendent will assess whether a D-SIB maintains its minimum capacity to absorb losses pursuant to subsection 485(1.1) of the Bank Act .\nD-SIBs are expected to meet their TLAC requirements on or before November 1, 2021. Public disclosure of D-SIBs’ TLAC ratios will begin for the fiscal quarter commencing on November 1, 2018 as set out in OSFI’s forthcoming TLAC Disclosure Requirements guideline.\nThe attached table in Annex 1 summarizes material comments received during public consultations and provides an explanation of how the comments have been addressed in the guideline. We thank those who participated in the consultation process.\nQuestions and comments on the guideline should be sent to Liane Orsi, Capital Specialist, Capital Division ( liane.orsi@osfi-bsif.gc.ca ).\nYours truly,\nCarolyn Rogers Assistant Superintendent Regulation Sector",
+      "content": [
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Total Loss Absorbing Capacity (TLAC) – Guideline (2018)",
+            "Total Loss Absorbing Capacity (TLAC) Guideline - Guideline impact analysis statement (2018)"
+          ]
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "TLAC Disclosure Requirements Guideline"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "To: Domestic Systemically Important Banks (D-SIBs)"
+        },
+        {
+          "type": "paragraph",
+          "text": "OSFI is releasing the final version of the Total Loss Absorbing Capacity (TLAC) guideline for implementation on September 23, 2018. The TLAC Guideline sets out the framework within which the Superintendent will assess whether a D-SIB maintains its minimum capacity to absorb losses pursuant to subsection 485(1.1) of the Bank Act ."
+        },
+        {
+          "type": "paragraph",
+          "text": "D-SIBs are expected to meet their TLAC requirements on or before November 1, 2021. Public disclosure of D-SIBs’ TLAC ratios will begin for the fiscal quarter commencing on November 1, 2018 as set out in OSFI’s forthcoming TLAC Disclosure Requirements guideline."
+        },
+        {
+          "type": "paragraph",
+          "text": "The attached table in Annex 1 summarizes material comments received during public consultations and provides an explanation of how the comments have been addressed in the guideline. We thank those who participated in the consultation process."
+        },
+        {
+          "type": "paragraph",
+          "text": "Questions and comments on the guideline should be sent to Liane Orsi, Capital Specialist, Capital Division ( liane.orsi@osfi-bsif.gc.ca )."
+        },
+        {
+          "type": "paragraph",
+          "text": "Yours truly,"
+        },
+        {
+          "type": "paragraph",
+          "text": "Carolyn Rogers Assistant Superintendent Regulation Sector"
+        }
+      ]
+    },
+    {
+      "heading": "Annex 1 – Summary of Comments Received and OSFI Responses",
+      "heading_level": 2,
+      "full_text": "Comment | OSFI Response\nTLAC Guideline\nInstruments should not be derecognized from TLAC where their residual maturity is less than 365 days as set out in paragraph 13(i) of the Guideline. This could lead to the development of more complex structures and impact market liquidity. | No change. This requirement aligns to the Financial Stability Board’s TLAC standard <a href=\"http://www.fsb.org/wp-content/uploads/TLAC-Principles-and-Term-Sheet-for-publication-final.pdf\">Principles on Loss-Absorbing and Recapitalisation Capacity of G-SIBs in Resolution: Total Loss-absorbing Capacity (TLAC) Term Sheet (PDF)</a>. (FSB: November 2015). applicable to global systemically important banks (G-SIBs). It is also consistent with the amortization rules for Tier 2 instruments. These requirements are intended to incent banks to replace instruments prior to their contractual maturity dates to ensure there is adequate loss absorbency if the bank enters into stress and/or resolution.\nPublic reporting of D-SIBs’ TLAC levels should commence in fiscal Q1-2022 when the ratios become binding instead of Q1-2019. | No change. The earlier timeframe reflects OSFI’s ongoing expectation that Canadian D-SIBs be global leaders in respect of disclosure and aligns to implementation timelines set out in international standards.\nCAR Guideline Chapter 2, Section 2.3\nThe treatment of TLAC holdings should not be very punitive as it may lead to less liquidity in the bond market as banks will be less willing to hold inventory of instruments issued by other banks. Some stakeholders also suggested amendments to the market-making exemption set out under paragraph 97, including eliminating the requirement to deduct holdings that have been held for more than 30 business days and applying the deduction to TLAC instead of Tier 2 capital. | No change. This treatment implements the BCBS standard <a href=\"https://www.bis.org/bcbs/publ/d387.pdf\">TLAC Holdings Standard (PDF)</a> (BCBS: October 2016) on TLAC holdings finalised in October 2016 and builds on the existing regulatory adjustment for holdings of regulatory capital instruments issued by financial institutions. The purpose of these restrictions is to discourage interconnectedness in the financial sector and mitigate the risk of contagion. The risks of such contagion were highlighted in the 2008 financial crisis. Given this regulatory objective, OSFI has determined it is appropriate to: (1) apply the TLAC holdings standard to institutions’ holdings of Other TLAC Instruments issued by both G-SIBs and Canadian D-SIBs; and (2) subject Canadian D-SIBs to the more stringent standards applicable to G-SIBs.\nThe standard should be implemented no earlier than the date on which the BCBS standard on TLAC holdings becomes effective (i.e. January 1, 2019) to ensure a level playing field for Canadian deposit-taking institutions. | The implementation date has been revised to November 1, 2018 for institutions with an October 31st fiscal year-end and January 1, 2019 for institutions with a December 31st year-end.\nCAR Guideline Chapter 2, Section 2.3\nThe treatment of TLAC holdings should not be very punitive as it may lead to less liquidity in the bond market as banks will be less willing to hold inventory of instruments issued by other banks.\nSome stakeholders also suggested amendments to the market-making exemption set out under paragraph 97, including eliminating the requirement to deduct holdings that have been held for more than 30 business days and applying the deduction to TLAC instead of Tier 2 capital.\nNo change. This treatment implements the BCBS standard <a href=\"https://www.bis.org/bcbs/publ/d387.pdf\">TLAC Holdings Standard (PDF)</a> (BCBS: October 2016) on TLAC holdings finalised in October 2016 and builds on the existing regulatory adjustment for holdings of regulatory capital instruments issued by financial institutions. The purpose of these restrictions is to discourage interconnectedness in the financial sector and mitigate the risk of contagion.\nThe risks of such contagion were highlighted in the 2008 financial crisis. Given this regulatory objective, OSFI has determined it is appropriate to: (1) apply the TLAC holdings standard to institutions’ holdings of Other TLAC Instruments issued by both G-SIBs and Canadian D-SIBs; and (2) subject Canadian D-SIBs to the more stringent standards applicable to G-SIBs.",
+      "content": [
+        {
+          "type": "table",
+          "caption": "",
+          "rows": [
+            [
+              "Comment",
+              "OSFI Response"
+            ],
+            [
+              "TLAC Guideline"
+            ],
+            [
+              "Instruments should not be derecognized from TLAC where their residual maturity is less than 365 days as set out in paragraph 13(i) of the Guideline. This could lead to the development of more complex structures and impact market liquidity.",
+              "No change. This requirement aligns to the Financial Stability Board’s TLAC standard <a href=\"http://www.fsb.org/wp-content/uploads/TLAC-Principles-and-Term-Sheet-for-publication-final.pdf\">Principles on Loss-Absorbing and Recapitalisation Capacity of G-SIBs in Resolution: Total Loss-absorbing Capacity (TLAC) Term Sheet (PDF)</a>. (FSB: November 2015). applicable to global systemically important banks (G-SIBs). It is also consistent with the amortization rules for Tier 2 instruments. These requirements are intended to incent banks to replace instruments prior to their contractual maturity dates to ensure there is adequate loss absorbency if the bank enters into stress and/or resolution."
+            ],
+            [
+              "Public reporting of D-SIBs’ TLAC levels should commence in fiscal Q1-2022 when the ratios become binding instead of Q1-2019.",
+              "No change. The earlier timeframe reflects OSFI’s ongoing expectation that Canadian D-SIBs be global leaders in respect of disclosure and aligns to implementation timelines set out in international standards."
+            ],
+            [
+              "CAR Guideline Chapter 2, Section 2.3"
+            ],
+            [
+              "The treatment of TLAC holdings should not be very punitive as it may lead to less liquidity in the bond market as banks will be less willing to hold inventory of instruments issued by other banks. Some stakeholders also suggested amendments to the market-making exemption set out under paragraph 97, including eliminating the requirement to deduct holdings that have been held for more than 30 business days and applying the deduction to TLAC instead of Tier 2 capital.",
+              "No change. This treatment implements the BCBS standard <a href=\"https://www.bis.org/bcbs/publ/d387.pdf\">TLAC Holdings Standard (PDF)</a> (BCBS: October 2016) on TLAC holdings finalised in October 2016 and builds on the existing regulatory adjustment for holdings of regulatory capital instruments issued by financial institutions. The purpose of these restrictions is to discourage interconnectedness in the financial sector and mitigate the risk of contagion. The risks of such contagion were highlighted in the 2008 financial crisis. Given this regulatory objective, OSFI has determined it is appropriate to: (1) apply the TLAC holdings standard to institutions’ holdings of Other TLAC Instruments issued by both G-SIBs and Canadian D-SIBs; and (2) subject Canadian D-SIBs to the more stringent standards applicable to G-SIBs."
+            ],
+            [
+              "The standard should be implemented no earlier than the date on which the BCBS standard on TLAC holdings becomes effective (i.e. January 1, 2019) to ensure a level playing field for Canadian deposit-taking institutions.",
+              "The implementation date has been revised to November 1, 2018 for institutions with an October 31st fiscal year-end and January 1, 2019 for institutions with a December 31st year-end."
+            ]
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "CAR Guideline Chapter 2, Section 2.3"
+        },
+        {
+          "type": "paragraph",
+          "text": "The treatment of TLAC holdings should not be very punitive as it may lead to less liquidity in the bond market as banks will be less willing to hold inventory of instruments issued by other banks."
+        },
+        {
+          "type": "paragraph",
+          "text": "Some stakeholders also suggested amendments to the market-making exemption set out under paragraph 97, including eliminating the requirement to deduct holdings that have been held for more than 30 business days and applying the deduction to TLAC instead of Tier 2 capital."
+        },
+        {
+          "type": "paragraph",
+          "text": "No change. This treatment implements the BCBS standard <a href=\"https://www.bis.org/bcbs/publ/d387.pdf\">TLAC Holdings Standard (PDF)</a> (BCBS: October 2016) on TLAC holdings finalised in October 2016 and builds on the existing regulatory adjustment for holdings of regulatory capital instruments issued by financial institutions. The purpose of these restrictions is to discourage interconnectedness in the financial sector and mitigate the risk of contagion."
+        },
+        {
+          "type": "paragraph",
+          "text": "The risks of such contagion were highlighted in the 2008 financial crisis. Given this regulatory objective, OSFI has determined it is appropriate to: (1) apply the TLAC holdings standard to institutions’ holdings of Other TLAC Instruments issued by both G-SIBs and Canadian D-SIBs; and (2) subject Canadian D-SIBs to the more stringent standards applicable to G-SIBs."
+        }
+      ]
+    }
+  ],
+  "title_normalized": "total loss absorbing capacity tlac guideline letter 2018",
+  "publication_type_normalized": "letter",
+  "category_normalized": "capital_adequacy_requirements",
+  "sector_normalized": [
+    "banks",
+    "trust_and_loan_companies"
+  ],
+  "guideline_number_normalized": "TLAC",
+  "applies_to_banks": true,
+  "applies_to_trust_loan": true,
+  "applies_to_life_insurance": false,
+  "applies_to_pc_insurance": false,
+  "applies_to_foreign_bank": false,
+  "applies_to_foreign_insurance": false,
+  "applies_to_cooperative": false,
+  "applies_to_bank_holding": false,
+  "effective_date_sort_key": "2018-04-18",
+  "status_sort_key": 1,
+  "authority_sort_key": 60,
+  "bm25_text": "Total Loss Absorbing Capacity (TLAC) Guideline - Letter (2018) TLAC Letter Capital Adequacy Requirements Banks Trust and Loan Companies Annex 1 – Summary of Comments Received and OSFI Responses",
+  "vector_text_prefix": "[OSFI Letter TLAC | Capital Adequacy Requirements | Banks / Trust and Loan Companies | FINAL_CURRENT | Effective 2018-04-18]",
+  "h1_title": "Total Loss Absorbing Capacity (TLAC) Guideline - Letter (2018)",
+  "regulator": "OSFI",
+  "regulator_acronym": "OSFI",
+  "jurisdiction": "Canada",
+  "short_title": "TLAC",
+  "source_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/total-loss-absorbing-capacity-tlac-guideline-letter-2018"
+}

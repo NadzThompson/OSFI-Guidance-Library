@@ -1,0 +1,889 @@
+{
+  "source_system": "osfi_guidance_library",
+  "library_row_title": "Pillar 3 Disclosure Guideline for Domestic Systemically Important Banks (D-SIBs) (2025)",
+  "library_row_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/pillar-3-disclosure-guideline-domestic-systemically-important-banks-sibs-2025",
+  "listing_date_raw": "February 20, 2025",
+  "listing_date_iso": "2025-02-20",
+  "listing_publication_type": "Guideline",
+  "listing_category": "Accounting and Disclosure",
+  "listing_sector": [
+    "Banks",
+    "Trust and Loan Companies"
+  ],
+  "crawl_timestamp": "2026-03-11T00:00:00Z",
+  "detail_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/pillar-3-disclosure-guideline-domestic-systemically-important-banks-sibs-2025",
+  "canonical_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/pillar-3-disclosure-guideline-domestic-systemically-important-banks-sibs-2025",
+  "slug": "pillar-3-disclosure-guideline-domestic-systemically-important-banks-sibs-2025",
+  "title": "Pillar 3 Disclosure Guideline for Domestic Systemically Important Banks (D-SIBs) (2025)",
+  "publication_type": "Guideline",
+  "category": "Accounting and Disclosure",
+  "document_date_raw": "February 20, 2025",
+  "document_date_iso": "2025-02-20",
+  "sector": [
+    "Banks",
+    "Trust and Loan Companies"
+  ],
+  "effective_date_text": "",
+  "guideline_number": "",
+  "date_modified_raw": "2025-02-20T12:00:00Z",
+  "generate_pdf_url": "https://www.osfi-bsif.gc.ca/en/print/pdf/node/1937",
+  "pdf_node_id": 1937,
+  "direct_pdf_url": null,
+  "has_table_of_contents": true,
+  "toc_entries": [],
+  "has_related_documents": true,
+  "related_document_links_raw": [
+    {
+      "title": "Pillar 3 Disclosure Guidelines on Crypto-asset Exposures - letter",
+      "url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/pillar-3-disclosure-guidelines-crypto-asset-exposures-letter"
+    },
+    {
+      "title": "What we heard: consultation on draft amendments to Pillar 3 Disclosure Guideline",
+      "url": "https://www.osfi-bsif.gc.ca/en/consultations/consultation-summaries/what-we-heard-consultation-draft-amendments-pillar-3-disclosure-guidelines-crypto-asset-exposures"
+    },
+    {
+      "title": "Pillar 3 Disclosure Expectations",
+      "url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/pillar-3-disclosure-expectations"
+    }
+  ],
+  "consultation_status_text": null,
+  "consultation_status_refers_to_version": null,
+  "page_language": "en",
+  "word_count_raw_body": 5472,
+  "doc_id": "osfi.pillar3.2025.standalone",
+  "doc_family_id": "osfi.pillar3",
+  "version_id": "2025",
+  "version_label": "Pillar 3 Disclosure Guideline for Domestic Systemically Impo",
+  "version_sort_key": "2025-02",
+  "parent_doc_id": null,
+  "child_doc_ids": [],
+  "is_package_page": false,
+  "is_chapter_page": false,
+  "chapter_number": null,
+  "chapter_title": null,
+  "document_order_within_family": 0,
+  "supersedes_doc_id": null,
+  "superseded_by_doc_id": null,
+  "current_version_flag": true,
+  "status": "final_current",
+  "include_in_primary_corpus": true,
+  "include_in_support_corpus": false,
+  "include_in_context_corpus": false,
+  "effective_date_start": "2025-02-20",
+  "effective_date_end": null,
+  "effective_date_fye_split": false,
+  "effective_date_oct_fye": null,
+  "effective_date_dec_fye": null,
+  "is_future_effective": false,
+  "is_rescinded": false,
+  "is_draft_or_consultation": false,
+  "rescission_date": null,
+  "consultation_closing_date": null,
+  "as_of_applicability": "2026-03-23",
+  "rule_applied": "rule_5_final_current",
+  "authority_class": "primary_normative",
+  "authority_level": 100,
+  "nova_tier": 1,
+  "prudential_weight": 1.0,
+  "is_primary_normative": true,
+  "is_supporting_interpretive": false,
+  "is_context_only": false,
+  "document_class": "standalone_guideline",
+  "guidance_type_normalized": "guideline",
+  "section_headings": [
+    {
+      "level": 2,
+      "text": "A. Overview",
+      "id": "h2-0"
+    },
+    {
+      "level": 3,
+      "text": "A1. Purpose and scope of application",
+      "id": "h3-1"
+    },
+    {
+      "level": 3,
+      "text": "A2. Outcome",
+      "id": "h3-2"
+    },
+    {
+      "level": 2,
+      "text": "I. Guiding principles",
+      "id": "h2-3"
+    },
+    {
+      "level": 2,
+      "text": "II. Disclosure requirements for D-SIBs and implementation date",
+      "id": "h2-4"
+    },
+    {
+      "level": 2,
+      "text": "III. Frequency of reporting",
+      "id": "h2-5"
+    },
+    {
+      "level": 2,
+      "text": "IV. Disclosure format",
+      "id": "h2-6"
+    },
+    {
+      "level": 3,
+      "text": "Fixed format",
+      "id": "h3-7"
+    },
+    {
+      "level": 3,
+      "text": "Flexible format",
+      "id": "h3-8"
+    },
+    {
+      "level": 3,
+      "text": "EDTF disclosures",
+      "id": "h3-9"
+    },
+    {
+      "level": 3,
+      "text": "Limited disclosure exceptions",
+      "id": "h3-10"
+    },
+    {
+      "level": 2,
+      "text": "V. Qualitative narrative to accompany the disclosure requirements",
+      "id": "h2-11"
+    },
+    {
+      "level": 2,
+      "text": "VI. Location of disclosures",
+      "id": "h2-12"
+    },
+    {
+      "level": 2,
+      "text": "VII. Compliance with Pillar 3",
+      "id": "h2-13"
+    },
+    {
+      "level": 2,
+      "text": "Footnotes",
+      "id": "h2-14"
+    }
+  ],
+  "heading_path": [
+    "Pillar 3 Disclosure Guideline for Domestic Systemically Important Banks (D-SIBs) (2025)"
+  ],
+  "toc_depth": 3,
+  "has_appendices": false,
+  "appendix_ids": [],
+  "has_tables": true,
+  "table_count": 1,
+  "has_footnotes": true,
+  "footnote_count": 1,
+  "inline_cross_references": [],
+  "quoted_external_references": [
+    "Basel Committee on Banking Supervision (BCBS) published the following three standards that toge",
+    "BCBS integrated the Phase I",
+    "BCBS has incorporated technical amendments and updates into the Basel framework",
+    "BCBS Pillar 3 Framework for Canadian D-SIBs",
+    "BCBS guidance with modifications to reflect OSFI-specific language or expectations",
+    "BCBS requirements and are highlighted below",
+    "BCBS” in the Basel guidance have been changed to \"OSFI\" to reflect that these are OS",
+    "FSB’s Enhanced Disclosure Task Force reports",
+    "BCBS Definitions and Applications and Disclosure Requirements"
+  ],
+  "raw_html_sha256": "96ed26f4a266ab2249dbec21b69b18f36e64bea76611d8552b6945b3cc66d11d",
+  "raw_pdf_sha256": null,
+  "normalized_text_sha256": null,
+  "raw_html_path": "bronze/osfi/html/final_current/pillar-3-disclosure-guideline-domestic-systemically-important-banks-sibs-2025.html",
+  "normalized_md_path": "silver/osfi/md/final_current/pillar-3-disclosure-guideline-domestic-systemically-important-banks-sibs-2025.md",
+  "canonical_json_path": "silver/osfi/json/final_current/pillar-3-disclosure-guideline-domestic-systemically-important-banks-sibs-2025.json",
+  "content_source": "HTML",
+  "parser_version": "osfi-parser-v2.1.0",
+  "normalizer_version": "osfi-normalizer-v1.4.0",
+  "quality_score": 1.0,
+  "quality_flags": [],
+  "download_timestamp": "2026-03-11T00:00:00Z",
+  "enriched_timestamp": "2026-03-23T09:53:58.635098Z",
+  "sections": [
+    {
+      "heading": "",
+      "heading_level": 2,
+      "full_text": "  - Pillar 3 Disclosure Guidelines on Crypto-asset Exposures - letter\n  - What we heard: consultation on draft amendments to Pillar 3 Disclosure Guidelines on Crypto-asset Exposures\n  - Pillar 3 Disclosure Expectations",
+      "content": [
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Pillar 3 Disclosure Guidelines on Crypto-asset Exposures - letter",
+            "What we heard: consultation on draft amendments to Pillar 3 Disclosure Guidelines on Crypto-asset Exposures",
+            "Pillar 3 Disclosure Expectations"
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "A. Overview",
+      "heading_level": 2,
+      "full_text": "  1. OSFI supports relevant disclosures to ensure users have access to key risk information that would enable them to gain a thorough understanding and knowledge of domestic systemically important banks’ (D-SIBs’ Footnote 1 ) activities. Many bodies recognize the importance of disclosure Footnote 2 as a key tool for decision-making and market discipline.\n  2. Accordingly, disclosures help OSFI to meet our mandate of protecting depositors, policyholders, and creditors by ensuring appropriate information is available for the public to understand the financial condition of Canadian federally regulated D-SIBs and the risks to which they are exposed.\n  3. In the wake of the 2007-09 financial crisis, it became apparent that the existing Pillar 3 framework Footnote 3 did not adequately promote the identification of internationally active banks material risks and did not provide sufficiently comparable information to enable market participants to assess a bank’s overall capital adequacy and to compare it with its peers.\n  4. To address the problems identified through the financial crisis, the Basel Committee on Banking Supervision (BCBS) published the following three standards that together comprise the Pillar 3 Framework: Pillar 3 Framework Date published Title of standard Phase January 2015 Revised Pillar 3 Disclosure Requirements Phase I March 2017 Pillar 3 Disclosure Requirements – Consolidated and Enhanced Framework Phase II December 2018 Pillar 3 Disclosure Requirements – Updated Framework Phase III\n  5. In January 2020, the BCBS integrated the Phase I, II and III standards of the Pillar 3 Framework into the consolidated Basel framework. Footnote 4 Since then and as needed, the BCBS has incorporated technical amendments and updates into the Basel framework. The Pillar 3 Framework aims to address the problems identified through the financial crisis and to improve comparability and consistency of financial regulatory disclosures through more standardized formats between banks and across jurisdictions.\nOSFI supports relevant disclosures to ensure users have access to key risk information that would enable them to gain a thorough understanding and knowledge of domestic systemically important banks’ (D-SIBs’ Footnote 1 ) activities. Many bodies recognize the importance of disclosure Footnote 2 as a key tool for decision-making and market discipline.\nAccordingly, disclosures help OSFI to meet our mandate of protecting depositors, policyholders, and creditors by ensuring appropriate information is available for the public to understand the financial condition of Canadian federally regulated D-SIBs and the risks to which they are exposed.\nIn the wake of the 2007-09 financial crisis, it became apparent that the existing Pillar 3 framework Footnote 3 did not adequately promote the identification of internationally active banks material risks and did not provide sufficiently comparable information to enable market participants to assess a bank’s overall capital adequacy and to compare it with its peers.\nTo address the problems identified through the financial crisis, the Basel Committee on Banking Supervision (BCBS) published the following three standards that together comprise the Pillar 3 Framework:\nTable: Pillar 3 Framework\nDate published | Title of standard | Phase\nJanuary 2015 | Revised Pillar 3 Disclosure Requirements | Phase I\nMarch 2017 | Pillar 3 Disclosure Requirements – Consolidated and Enhanced Framework | Phase II\nDecember 2018 | Pillar 3 Disclosure Requirements – Updated Framework | Phase III\nIn January 2020, the BCBS integrated the Phase I, II and III standards of the Pillar 3 Framework into the consolidated Basel framework. Footnote 4 Since then and as needed, the BCBS has incorporated technical amendments and updates into the Basel framework. The Pillar 3 Framework aims to address the problems identified through the financial crisis and to improve comparability and consistency of financial regulatory disclosures through more standardized formats between banks and across jurisdictions.",
+      "content": [
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "OSFI supports relevant disclosures to ensure users have access to key risk information that would enable them to gain a thorough understanding and knowledge of domestic systemically important banks’ (D-SIBs’ Footnote 1 ) activities. Many bodies recognize the importance of disclosure Footnote 2 as a key tool for decision-making and market discipline.",
+            "Accordingly, disclosures help OSFI to meet our mandate of protecting depositors, policyholders, and creditors by ensuring appropriate information is available for the public to understand the financial condition of Canadian federally regulated D-SIBs and the risks to which they are exposed.",
+            "In the wake of the 2007-09 financial crisis, it became apparent that the existing Pillar 3 framework Footnote 3 did not adequately promote the identification of internationally active banks material risks and did not provide sufficiently comparable information to enable market participants to assess a bank’s overall capital adequacy and to compare it with its peers.",
+            "To address the problems identified through the financial crisis, the Basel Committee on Banking Supervision (BCBS) published the following three standards that together comprise the Pillar 3 Framework: Pillar 3 Framework Date published Title of standard Phase January 2015 Revised Pillar 3 Disclosure Requirements Phase I March 2017 Pillar 3 Disclosure Requirements – Consolidated and Enhanced Framework Phase II December 2018 Pillar 3 Disclosure Requirements – Updated Framework Phase III",
+            "In January 2020, the BCBS integrated the Phase I, II and III standards of the Pillar 3 Framework into the consolidated Basel framework. Footnote 4 Since then and as needed, the BCBS has incorporated technical amendments and updates into the Basel framework. The Pillar 3 Framework aims to address the problems identified through the financial crisis and to improve comparability and consistency of financial regulatory disclosures through more standardized formats between banks and across jurisdictions."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "OSFI supports relevant disclosures to ensure users have access to key risk information that would enable them to gain a thorough understanding and knowledge of domestic systemically important banks’ (D-SIBs’ Footnote 1 ) activities. Many bodies recognize the importance of disclosure Footnote 2 as a key tool for decision-making and market discipline."
+        },
+        {
+          "type": "paragraph",
+          "text": "Accordingly, disclosures help OSFI to meet our mandate of protecting depositors, policyholders, and creditors by ensuring appropriate information is available for the public to understand the financial condition of Canadian federally regulated D-SIBs and the risks to which they are exposed."
+        },
+        {
+          "type": "paragraph",
+          "text": "In the wake of the 2007-09 financial crisis, it became apparent that the existing Pillar 3 framework Footnote 3 did not adequately promote the identification of internationally active banks material risks and did not provide sufficiently comparable information to enable market participants to assess a bank’s overall capital adequacy and to compare it with its peers."
+        },
+        {
+          "type": "paragraph",
+          "text": "To address the problems identified through the financial crisis, the Basel Committee on Banking Supervision (BCBS) published the following three standards that together comprise the Pillar 3 Framework:"
+        },
+        {
+          "type": "table",
+          "caption": "Pillar 3 Framework",
+          "rows": [
+            [
+              "Date published",
+              "Title of standard",
+              "Phase"
+            ],
+            [
+              "January 2015",
+              "Revised Pillar 3 Disclosure Requirements",
+              "Phase I"
+            ],
+            [
+              "March 2017",
+              "Pillar 3 Disclosure Requirements – Consolidated and Enhanced Framework",
+              "Phase II"
+            ],
+            [
+              "December 2018",
+              "Pillar 3 Disclosure Requirements – Updated Framework",
+              "Phase III"
+            ]
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "In January 2020, the BCBS integrated the Phase I, II and III standards of the Pillar 3 Framework into the consolidated Basel framework. Footnote 4 Since then and as needed, the BCBS has incorporated technical amendments and updates into the Basel framework. The Pillar 3 Framework aims to address the problems identified through the financial crisis and to improve comparability and consistency of financial regulatory disclosures through more standardized formats between banks and across jurisdictions."
+        }
+      ]
+    },
+    {
+      "heading": "A1. Purpose and scope of application",
+      "heading_level": 3,
+      "full_text": "  1. This guideline provides OSFI’s expectations for the domestic implementation of the complete Pillar 3 Framework. More specifically, this guideline, at implementation date, replaces OSFI’s April 2017 Guideline on Revised Pillar 3 Disclosure Requirements (Phase I). It also provides clarification on the domestic implementation of Phases II and III of the Pillar 3 Framework for Canadian D-SIBs.\n  2. OSFI recognizes the need to adapt the BCBS Pillar 3 Framework for Canadian D-SIBs. We considered the relevance and importance of improving the overall comparability and consistency of disclosures across Canadian D-SIBs. We also considered alignment with internationally active banks in other jurisdictions.\n  3. This guideline follows the BCBS guidance with modifications to reflect OSFI-specific language or expectations. These modifications do not change the BCBS requirements and are highlighted below. References to \"the Committee\" or “BCBS” in the Basel guidance have been changed to \"OSFI\" to reflect that these are OSFI expectations. References to \"banks\" in the Basel guidance have been changed to \"D-SIBs\" to reflect that these are OSFI expectations for D-SIBs.\n  4. All disclosure tables and templates expected under this guideline are available in a separate Excel workbook above. The index in the workbook: summarizes the cumulative disclosure requirements indicates whether they are required in a fixed or flexible format lists the publishing frequency associated with each table and template\n  5. This guideline applies to Canadian D-SIBs. Unless otherwise stated, tables and templates are applicable to D-SIBs at the top consolidated level. [Basel Framework, DIS 10.2]\nThis guideline provides OSFI’s expectations for the domestic implementation of the complete Pillar 3 Framework. More specifically, this guideline, at implementation date, replaces OSFI’s April 2017 Guideline on Revised Pillar 3 Disclosure Requirements (Phase I). It also provides clarification on the domestic implementation of Phases II and III of the Pillar 3 Framework for Canadian D-SIBs.\nOSFI recognizes the need to adapt the BCBS Pillar 3 Framework for Canadian D-SIBs. We considered the relevance and importance of improving the overall comparability and consistency of disclosures across Canadian D-SIBs. We also considered alignment with internationally active banks in other jurisdictions.\nThis guideline follows the BCBS guidance with modifications to reflect OSFI-specific language or expectations. These modifications do not change the BCBS requirements and are highlighted below.\n  1. References to \"the Committee\" or “BCBS” in the Basel guidance have been changed to \"OSFI\" to reflect that these are OSFI expectations.\n  2. References to \"banks\" in the Basel guidance have been changed to \"D-SIBs\" to reflect that these are OSFI expectations for D-SIBs.\nReferences to \"the Committee\" or “BCBS” in the Basel guidance have been changed to \"OSFI\" to reflect that these are OSFI expectations.\nReferences to \"banks\" in the Basel guidance have been changed to \"D-SIBs\" to reflect that these are OSFI expectations for D-SIBs.\nAll disclosure tables and templates expected under this guideline are available in a separate Excel workbook above. The index in the workbook:\n  1. summarizes the cumulative disclosure requirements\n  2. indicates whether they are required in a fixed or flexible format\n  3. lists the publishing frequency associated with each table and template\nThis guideline applies to Canadian D-SIBs. Unless otherwise stated, tables and templates are applicable to D-SIBs at the top consolidated level. [Basel Framework, DIS 10.2]",
+      "content": [
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "This guideline provides OSFI’s expectations for the domestic implementation of the complete Pillar 3 Framework. More specifically, this guideline, at implementation date, replaces OSFI’s April 2017 Guideline on Revised Pillar 3 Disclosure Requirements (Phase I). It also provides clarification on the domestic implementation of Phases II and III of the Pillar 3 Framework for Canadian D-SIBs.",
+            "OSFI recognizes the need to adapt the BCBS Pillar 3 Framework for Canadian D-SIBs. We considered the relevance and importance of improving the overall comparability and consistency of disclosures across Canadian D-SIBs. We also considered alignment with internationally active banks in other jurisdictions.",
+            "This guideline follows the BCBS guidance with modifications to reflect OSFI-specific language or expectations. These modifications do not change the BCBS requirements and are highlighted below. References to \"the Committee\" or “BCBS” in the Basel guidance have been changed to \"OSFI\" to reflect that these are OSFI expectations. References to \"banks\" in the Basel guidance have been changed to \"D-SIBs\" to reflect that these are OSFI expectations for D-SIBs.",
+            "All disclosure tables and templates expected under this guideline are available in a separate Excel workbook above. The index in the workbook: summarizes the cumulative disclosure requirements indicates whether they are required in a fixed or flexible format lists the publishing frequency associated with each table and template",
+            "This guideline applies to Canadian D-SIBs. Unless otherwise stated, tables and templates are applicable to D-SIBs at the top consolidated level. [Basel Framework, DIS 10.2]"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "This guideline provides OSFI’s expectations for the domestic implementation of the complete Pillar 3 Framework. More specifically, this guideline, at implementation date, replaces OSFI’s April 2017 Guideline on Revised Pillar 3 Disclosure Requirements (Phase I). It also provides clarification on the domestic implementation of Phases II and III of the Pillar 3 Framework for Canadian D-SIBs."
+        },
+        {
+          "type": "paragraph",
+          "text": "OSFI recognizes the need to adapt the BCBS Pillar 3 Framework for Canadian D-SIBs. We considered the relevance and importance of improving the overall comparability and consistency of disclosures across Canadian D-SIBs. We also considered alignment with internationally active banks in other jurisdictions."
+        },
+        {
+          "type": "paragraph",
+          "text": "This guideline follows the BCBS guidance with modifications to reflect OSFI-specific language or expectations. These modifications do not change the BCBS requirements and are highlighted below."
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "References to \"the Committee\" or “BCBS” in the Basel guidance have been changed to \"OSFI\" to reflect that these are OSFI expectations.",
+            "References to \"banks\" in the Basel guidance have been changed to \"D-SIBs\" to reflect that these are OSFI expectations for D-SIBs."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "References to \"the Committee\" or “BCBS” in the Basel guidance have been changed to \"OSFI\" to reflect that these are OSFI expectations."
+        },
+        {
+          "type": "paragraph",
+          "text": "References to \"banks\" in the Basel guidance have been changed to \"D-SIBs\" to reflect that these are OSFI expectations for D-SIBs."
+        },
+        {
+          "type": "paragraph",
+          "text": "All disclosure tables and templates expected under this guideline are available in a separate Excel workbook above. The index in the workbook:"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "summarizes the cumulative disclosure requirements",
+            "indicates whether they are required in a fixed or flexible format",
+            "lists the publishing frequency associated with each table and template"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "This guideline applies to Canadian D-SIBs. Unless otherwise stated, tables and templates are applicable to D-SIBs at the top consolidated level. [Basel Framework, DIS 10.2]"
+        }
+      ]
+    },
+    {
+      "heading": "A2. Outcome",
+      "heading_level": 3,
+      "full_text": "D-SIBs continue to retain high levels of public confidence and to have public disclosure practices covering their financial condition and risk management activities that are among the best of their international peers. Footnote 5",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "D-SIBs continue to retain high levels of public confidence and to have public disclosure practices covering their financial condition and risk management activities that are among the best of their international peers. Footnote 5"
+        }
+      ]
+    },
+    {
+      "heading": "I. Guiding principles",
+      "heading_level": 2,
+      "full_text": "  1. OSFI has agreed upon five guiding principles for D-SIBs' Pillar 3 disclosures. Pillar 3 complements the minimum risk-based capital requirements and other quantitative requirements (Pillar 1) and the supervisory review process (Pillar 2) and aims to promote market discipline by providing meaningful regulatory information to investors and other interested parties on a consistent and comparable basis.\n  2. The guiding principles aim to provide a firm foundation for achieving transparent, high-quality Pillar 3 risk disclosures that will enable users to better understand and compare a D-SIB’ business and its risks. [Basel Framework, DIS 10.13]\nOSFI has agreed upon five guiding principles for D-SIBs' Pillar 3 disclosures. Pillar 3 complements the minimum risk-based capital requirements and other quantitative requirements (Pillar 1) and the supervisory review process (Pillar 2) and aims to promote market discipline by providing meaningful regulatory information to investors and other interested parties on a consistent and comparable basis.\nThe guiding principles aim to provide a firm foundation for achieving transparent, high-quality Pillar 3 risk disclosures that will enable users to better understand and compare a D-SIB’ business and its risks. [Basel Framework, DIS 10.13]\n  1. Disclosures should be presented in a form that is understandable to users, for example, investors, analysts, customers, and others. It should be communicated through an accessible medium. Important messages should be highlighted and easy to find. Complex issues should be explained in simple language with important terms defined. Related risk information should be presented together. [Basel Framework, DIS 10.14]\nDisclosures should be presented in a form that is understandable to users, for example, investors, analysts, customers, and others. It should be communicated through an accessible medium. Important messages should be highlighted and easy to find. Complex issues should be explained in simple language with important terms defined. Related risk information should be presented together. [Basel Framework, DIS 10.14]\n  1. Disclosures should describe a D-SIB’s main activities and all significant risks, supported by relevant underlying data and information. Significant changes in risk exposures between reporting periods should be described, together with the corresponding responses by management. [Basel Framework, DIS 10.15]\n  2. Disclosures should provide sufficient information in both qualitative and quantitative terms on a D-SIB’s processes and procedures for identifying, measuring, and managing those risks. The level of detail of such disclosure should be proportional to a D-SIB’s complexity. [Basel Framework, DIS 10.16]\n  3. Approaches to disclosure should be sufficiently flexible. They should reflect how senior management and the board of directors internally assess and manage risks and strategy, helping users to better understand a D-SIB’s risk tolerance and appetite. [Basel Framework, DIS 10.17]\nDisclosures should describe a D-SIB’s main activities and all significant risks, supported by relevant underlying data and information. Significant changes in risk exposures between reporting periods should be described, together with the corresponding responses by management. [Basel Framework, DIS 10.15]\nDisclosures should provide sufficient information in both qualitative and quantitative terms on a D-SIB’s processes and procedures for identifying, measuring, and managing those risks. The level of detail of such disclosure should be proportional to a D-SIB’s complexity. [Basel Framework, DIS 10.16]\nApproaches to disclosure should be sufficiently flexible. They should reflect how senior management and the board of directors internally assess and manage risks and strategy, helping users to better understand a D-SIB’s risk tolerance and appetite. [Basel Framework, DIS 10.17]\n  1. Disclosures should highlight a D-SIB’s most significant current and emerging risks and how those risks are managed, including information that is likely to receive market attention. Where meaningful, linkages must be provided to line items on the balance sheet or the income statement. Disclosures that do not add value to users' understanding or do not communicate useful information should be avoided. Furthermore, information which is no longer meaningful or relevant to users should be removed. [Basel Framework, DIS 10.18]\nDisclosures should highlight a D-SIB’s most significant current and emerging risks and how those risks are managed, including information that is likely to receive market attention. Where meaningful, linkages must be provided to line items on the balance sheet or the income statement. Disclosures that do not add value to users' understanding or do not communicate useful information should be avoided. Furthermore, information which is no longer meaningful or relevant to users should be removed. [Basel Framework, DIS 10.18]\n  1. Disclosures should be consistent over time to enable users to identify trends in a D-SIB’s risk profile across all significant aspects of its business. Additions, deletions, and other important changes in disclosures from previous reports, including those arising from a D-SIB’s specific, regulatory or market developments, should be highlighted and explained. [Basel Framework, DIS 10.19]\nDisclosures should be consistent over time to enable users to identify trends in a D-SIB’s risk profile across all significant aspects of its business. Additions, deletions, and other important changes in disclosures from previous reports, including those arising from a D-SIB’s specific, regulatory or market developments, should be highlighted and explained. [Basel Framework, DIS 10.19]\n  1. The level of detail and the format of presentation of disclosures should enable users to perform meaningful comparisons of business activities, prudential metrics, risks and risk management between D-SIBs and across jurisdictions. [Basel Framework, DIS 10.20]\n  2. OSFI expects D-SIBs to present disclosures that reflect the above principles.\nThe level of detail and the format of presentation of disclosures should enable users to perform meaningful comparisons of business activities, prudential metrics, risks and risk management between D-SIBs and across jurisdictions. [Basel Framework, DIS 10.20]\nOSFI expects D-SIBs to present disclosures that reflect the above principles.",
+      "content": [
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "OSFI has agreed upon five guiding principles for D-SIBs' Pillar 3 disclosures. Pillar 3 complements the minimum risk-based capital requirements and other quantitative requirements (Pillar 1) and the supervisory review process (Pillar 2) and aims to promote market discipline by providing meaningful regulatory information to investors and other interested parties on a consistent and comparable basis.",
+            "The guiding principles aim to provide a firm foundation for achieving transparent, high-quality Pillar 3 risk disclosures that will enable users to better understand and compare a D-SIB’ business and its risks. [Basel Framework, DIS 10.13]"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "OSFI has agreed upon five guiding principles for D-SIBs' Pillar 3 disclosures. Pillar 3 complements the minimum risk-based capital requirements and other quantitative requirements (Pillar 1) and the supervisory review process (Pillar 2) and aims to promote market discipline by providing meaningful regulatory information to investors and other interested parties on a consistent and comparable basis."
+        },
+        {
+          "type": "paragraph",
+          "text": "The guiding principles aim to provide a firm foundation for achieving transparent, high-quality Pillar 3 risk disclosures that will enable users to better understand and compare a D-SIB’ business and its risks. [Basel Framework, DIS 10.13]"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "Disclosures should be presented in a form that is understandable to users, for example, investors, analysts, customers, and others. It should be communicated through an accessible medium. Important messages should be highlighted and easy to find. Complex issues should be explained in simple language with important terms defined. Related risk information should be presented together. [Basel Framework, DIS 10.14]"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Disclosures should be presented in a form that is understandable to users, for example, investors, analysts, customers, and others. It should be communicated through an accessible medium. Important messages should be highlighted and easy to find. Complex issues should be explained in simple language with important terms defined. Related risk information should be presented together. [Basel Framework, DIS 10.14]"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "Disclosures should describe a D-SIB’s main activities and all significant risks, supported by relevant underlying data and information. Significant changes in risk exposures between reporting periods should be described, together with the corresponding responses by management. [Basel Framework, DIS 10.15]",
+            "Disclosures should provide sufficient information in both qualitative and quantitative terms on a D-SIB’s processes and procedures for identifying, measuring, and managing those risks. The level of detail of such disclosure should be proportional to a D-SIB’s complexity. [Basel Framework, DIS 10.16]",
+            "Approaches to disclosure should be sufficiently flexible. They should reflect how senior management and the board of directors internally assess and manage risks and strategy, helping users to better understand a D-SIB’s risk tolerance and appetite. [Basel Framework, DIS 10.17]"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Disclosures should describe a D-SIB’s main activities and all significant risks, supported by relevant underlying data and information. Significant changes in risk exposures between reporting periods should be described, together with the corresponding responses by management. [Basel Framework, DIS 10.15]"
+        },
+        {
+          "type": "paragraph",
+          "text": "Disclosures should provide sufficient information in both qualitative and quantitative terms on a D-SIB’s processes and procedures for identifying, measuring, and managing those risks. The level of detail of such disclosure should be proportional to a D-SIB’s complexity. [Basel Framework, DIS 10.16]"
+        },
+        {
+          "type": "paragraph",
+          "text": "Approaches to disclosure should be sufficiently flexible. They should reflect how senior management and the board of directors internally assess and manage risks and strategy, helping users to better understand a D-SIB’s risk tolerance and appetite. [Basel Framework, DIS 10.17]"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "Disclosures should highlight a D-SIB’s most significant current and emerging risks and how those risks are managed, including information that is likely to receive market attention. Where meaningful, linkages must be provided to line items on the balance sheet or the income statement. Disclosures that do not add value to users' understanding or do not communicate useful information should be avoided. Furthermore, information which is no longer meaningful or relevant to users should be removed. [Basel Framework, DIS 10.18]"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Disclosures should highlight a D-SIB’s most significant current and emerging risks and how those risks are managed, including information that is likely to receive market attention. Where meaningful, linkages must be provided to line items on the balance sheet or the income statement. Disclosures that do not add value to users' understanding or do not communicate useful information should be avoided. Furthermore, information which is no longer meaningful or relevant to users should be removed. [Basel Framework, DIS 10.18]"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "Disclosures should be consistent over time to enable users to identify trends in a D-SIB’s risk profile across all significant aspects of its business. Additions, deletions, and other important changes in disclosures from previous reports, including those arising from a D-SIB’s specific, regulatory or market developments, should be highlighted and explained. [Basel Framework, DIS 10.19]"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Disclosures should be consistent over time to enable users to identify trends in a D-SIB’s risk profile across all significant aspects of its business. Additions, deletions, and other important changes in disclosures from previous reports, including those arising from a D-SIB’s specific, regulatory or market developments, should be highlighted and explained. [Basel Framework, DIS 10.19]"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "The level of detail and the format of presentation of disclosures should enable users to perform meaningful comparisons of business activities, prudential metrics, risks and risk management between D-SIBs and across jurisdictions. [Basel Framework, DIS 10.20]",
+            "OSFI expects D-SIBs to present disclosures that reflect the above principles."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "The level of detail and the format of presentation of disclosures should enable users to perform meaningful comparisons of business activities, prudential metrics, risks and risk management between D-SIBs and across jurisdictions. [Basel Framework, DIS 10.20]"
+        },
+        {
+          "type": "paragraph",
+          "text": "OSFI expects D-SIBs to present disclosures that reflect the above principles."
+        }
+      ]
+    },
+    {
+      "heading": "II. Disclosure requirements for D-SIBs and implementation date",
+      "heading_level": 2,
+      "full_text": "  1. OSFI expects D-SIBs to implement this guideline based on the effective date for each disclosure table and template listed in the index of the workbook. When a template is disclosed for the first time, D-SIBs should provide comparative period disclosures over future reporting periods.\n  2. On an ongoing basis after implementation, OSFI expects D-SIBs to adhere to this guideline for frequency and format of reporting. D-SIBs may provide Pillar 3 reporting on a more frequent basis than is expected by this guideline.\n  3. OSFI’s existing disclosure requirements for the Enhanced Disclosure Task Force (EDTF) recommendations, liquidity principles, total loss absorbing capacity, net stable funding ratio and interest rate risk management continue to be in force. Footnote 6\nOSFI expects D-SIBs to implement this guideline based on the effective date for each disclosure table and template listed in the index of the workbook. When a template is disclosed for the first time, D-SIBs should provide comparative period disclosures over future reporting periods.\nOn an ongoing basis after implementation, OSFI expects D-SIBs to adhere to this guideline for frequency and format of reporting. D-SIBs may provide Pillar 3 reporting on a more frequent basis than is expected by this guideline.\nOSFI’s existing disclosure requirements for the Enhanced Disclosure Task Force (EDTF) recommendations, liquidity principles, total loss absorbing capacity, net stable funding ratio and interest rate risk management continue to be in force. Footnote 6",
+      "content": [
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "OSFI expects D-SIBs to implement this guideline based on the effective date for each disclosure table and template listed in the index of the workbook. When a template is disclosed for the first time, D-SIBs should provide comparative period disclosures over future reporting periods.",
+            "On an ongoing basis after implementation, OSFI expects D-SIBs to adhere to this guideline for frequency and format of reporting. D-SIBs may provide Pillar 3 reporting on a more frequent basis than is expected by this guideline.",
+            "OSFI’s existing disclosure requirements for the Enhanced Disclosure Task Force (EDTF) recommendations, liquidity principles, total loss absorbing capacity, net stable funding ratio and interest rate risk management continue to be in force. Footnote 6"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "OSFI expects D-SIBs to implement this guideline based on the effective date for each disclosure table and template listed in the index of the workbook. When a template is disclosed for the first time, D-SIBs should provide comparative period disclosures over future reporting periods."
+        },
+        {
+          "type": "paragraph",
+          "text": "On an ongoing basis after implementation, OSFI expects D-SIBs to adhere to this guideline for frequency and format of reporting. D-SIBs may provide Pillar 3 reporting on a more frequent basis than is expected by this guideline."
+        },
+        {
+          "type": "paragraph",
+          "text": "OSFI’s existing disclosure requirements for the Enhanced Disclosure Task Force (EDTF) recommendations, liquidity principles, total loss absorbing capacity, net stable funding ratio and interest rate risk management continue to be in force. Footnote 6"
+        }
+      ]
+    },
+    {
+      "heading": "III. Frequency of reporting",
+      "heading_level": 2,
+      "full_text": "  1. The reporting frequency varies between quarterly and annually depending upon the nature of the specific disclosure requirement. [Basel Framework, DIS 10.5]\nThe reporting frequency varies between quarterly and annually depending upon the nature of the specific disclosure requirement. [Basel Framework, DIS 10.5]",
+      "content": [
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "The reporting frequency varies between quarterly and annually depending upon the nature of the specific disclosure requirement. [Basel Framework, DIS 10.5]"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "The reporting frequency varies between quarterly and annually depending upon the nature of the specific disclosure requirement. [Basel Framework, DIS 10.5]"
+        }
+      ]
+    },
+    {
+      "heading": "IV. Disclosure format",
+      "heading_level": 2,
+      "full_text": "  1. Tables and templates listed in the index of the workbook of this guideline are designated as either fixed format or flexible format. Templates must be completed with quantitative data in accordance with the definitions provided. Tables generally relate to qualitative requirements, but quantitative information is also required in some instances. [Basel Framework, DIS 10.21]\n  2. D-SIBs are expected to follow the disclosure format designated by this guideline, which are:\nTables and templates listed in the index of the workbook of this guideline are designated as either fixed format or flexible format. Templates must be completed with quantitative data in accordance with the definitions provided. Tables generally relate to qualitative requirements, but quantitative information is also required in some instances. [Basel Framework, DIS 10.21]\nD-SIBs are expected to follow the disclosure format designated by this guideline, which are:",
+      "content": [
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "Tables and templates listed in the index of the workbook of this guideline are designated as either fixed format or flexible format. Templates must be completed with quantitative data in accordance with the definitions provided. Tables generally relate to qualitative requirements, but quantitative information is also required in some instances. [Basel Framework, DIS 10.21]",
+            "D-SIBs are expected to follow the disclosure format designated by this guideline, which are:"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Tables and templates listed in the index of the workbook of this guideline are designated as either fixed format or flexible format. Templates must be completed with quantitative data in accordance with the definitions provided. Tables generally relate to qualitative requirements, but quantitative information is also required in some instances. [Basel Framework, DIS 10.21]"
+        },
+        {
+          "type": "paragraph",
+          "text": "D-SIBs are expected to follow the disclosure format designated by this guideline, which are:"
+        }
+      ]
+    },
+    {
+      "heading": "Fixed format",
+      "heading_level": 3,
+      "full_text": "  1. Fixed format templates should be completed in accordance with the OSFI-prescribed instructions for each template and located in a separate Pillar 3 report. If a row or column in a template is not considered relevant or meaningful to users (for example, containing a nil balance), D-SIBs may delete the specific row or column, while keeping the numbering of subsequent rows or columns for ease of reference.\n  2. D-SIBs may also add extra sub-rows and sub-columns to provide additional granularity, such as to meet other disclosure requirements outside of Pillar 3. The numbering of prescribed rows and columns in the template must not be altered. [Basel Framework, DIS 10.23(1)]\nFixed format templates should be completed in accordance with the OSFI-prescribed instructions for each template and located in a separate Pillar 3 report. If a row or column in a template is not considered relevant or meaningful to users (for example, containing a nil balance), D-SIBs may delete the specific row or column, while keeping the numbering of subsequent rows or columns for ease of reference.\nD-SIBs may also add extra sub-rows and sub-columns to provide additional granularity, such as to meet other disclosure requirements outside of Pillar 3. The numbering of prescribed rows and columns in the template must not be altered. [Basel Framework, DIS 10.23(1)]",
+      "content": [
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "Fixed format templates should be completed in accordance with the OSFI-prescribed instructions for each template and located in a separate Pillar 3 report. If a row or column in a template is not considered relevant or meaningful to users (for example, containing a nil balance), D-SIBs may delete the specific row or column, while keeping the numbering of subsequent rows or columns for ease of reference.",
+            "D-SIBs may also add extra sub-rows and sub-columns to provide additional granularity, such as to meet other disclosure requirements outside of Pillar 3. The numbering of prescribed rows and columns in the template must not be altered. [Basel Framework, DIS 10.23(1)]"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Fixed format templates should be completed in accordance with the OSFI-prescribed instructions for each template and located in a separate Pillar 3 report. If a row or column in a template is not considered relevant or meaningful to users (for example, containing a nil balance), D-SIBs may delete the specific row or column, while keeping the numbering of subsequent rows or columns for ease of reference."
+        },
+        {
+          "type": "paragraph",
+          "text": "D-SIBs may also add extra sub-rows and sub-columns to provide additional granularity, such as to meet other disclosure requirements outside of Pillar 3. The numbering of prescribed rows and columns in the template must not be altered. [Basel Framework, DIS 10.23(1)]"
+        }
+      ]
+    },
+    {
+      "heading": "Flexible format",
+      "heading_level": 3,
+      "full_text": "  1. Flexible format tables and templates allow D-SIBs to present the required information either in the format provided in this document or in a format that better suits the D-SIB. The information provided must be comparable to and at a similar level of granularity as required in this guideline.\n  2. D-SIBs can disclose flexible format tables and templates in a separate document other than in a Pillar 3 report, for example, in the management discussion and analysis, financial statement notes or supplemental information. They must clearly indicate in the Pillar 3 report where the disclosure requirements have been published. [Basel Framework, DIS 10.23(2)]\nFlexible format tables and templates allow D-SIBs to present the required information either in the format provided in this document or in a format that better suits the D-SIB. The information provided must be comparable to and at a similar level of granularity as required in this guideline.\nD-SIBs can disclose flexible format tables and templates in a separate document other than in a Pillar 3 report, for example, in the management discussion and analysis, financial statement notes or supplemental information. They must clearly indicate in the Pillar 3 report where the disclosure requirements have been published. [Basel Framework, DIS 10.23(2)]",
+      "content": [
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "Flexible format tables and templates allow D-SIBs to present the required information either in the format provided in this document or in a format that better suits the D-SIB. The information provided must be comparable to and at a similar level of granularity as required in this guideline.",
+            "D-SIBs can disclose flexible format tables and templates in a separate document other than in a Pillar 3 report, for example, in the management discussion and analysis, financial statement notes or supplemental information. They must clearly indicate in the Pillar 3 report where the disclosure requirements have been published. [Basel Framework, DIS 10.23(2)]"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Flexible format tables and templates allow D-SIBs to present the required information either in the format provided in this document or in a format that better suits the D-SIB. The information provided must be comparable to and at a similar level of granularity as required in this guideline."
+        },
+        {
+          "type": "paragraph",
+          "text": "D-SIBs can disclose flexible format tables and templates in a separate document other than in a Pillar 3 report, for example, in the management discussion and analysis, financial statement notes or supplemental information. They must clearly indicate in the Pillar 3 report where the disclosure requirements have been published. [Basel Framework, DIS 10.23(2)]"
+        }
+      ]
+    },
+    {
+      "heading": "EDTF disclosures",
+      "heading_level": 3,
+      "full_text": "  1. To help minimize duplication of disclosures, D-SIBs can remove those EDTF disclosures that are effectively disclosed by the templates of this guideline. D-SIBs should retain those EDTF disclosures that are not covered by Pillar 3 requirements.\n  2. For those EDTF disclosures that are covered by this guideline, OSFI expects D-SIBs to follow the reporting frequency included in this guideline (refer to the index in the workbook). D-SIBs are permitted to provide EDTF disclosures on a more frequent basis than Pillar 3 requirements should they choose to do so.\nTo help minimize duplication of disclosures, D-SIBs can remove those EDTF disclosures that are effectively disclosed by the templates of this guideline. D-SIBs should retain those EDTF disclosures that are not covered by Pillar 3 requirements.\nFor those EDTF disclosures that are covered by this guideline, OSFI expects D-SIBs to follow the reporting frequency included in this guideline (refer to the index in the workbook). D-SIBs are permitted to provide EDTF disclosures on a more frequent basis than Pillar 3 requirements should they choose to do so.",
+      "content": [
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "To help minimize duplication of disclosures, D-SIBs can remove those EDTF disclosures that are effectively disclosed by the templates of this guideline. D-SIBs should retain those EDTF disclosures that are not covered by Pillar 3 requirements.",
+            "For those EDTF disclosures that are covered by this guideline, OSFI expects D-SIBs to follow the reporting frequency included in this guideline (refer to the index in the workbook). D-SIBs are permitted to provide EDTF disclosures on a more frequent basis than Pillar 3 requirements should they choose to do so."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "To help minimize duplication of disclosures, D-SIBs can remove those EDTF disclosures that are effectively disclosed by the templates of this guideline. D-SIBs should retain those EDTF disclosures that are not covered by Pillar 3 requirements."
+        },
+        {
+          "type": "paragraph",
+          "text": "For those EDTF disclosures that are covered by this guideline, OSFI expects D-SIBs to follow the reporting frequency included in this guideline (refer to the index in the workbook). D-SIBs are permitted to provide EDTF disclosures on a more frequent basis than Pillar 3 requirements should they choose to do so."
+        }
+      ]
+    },
+    {
+      "heading": "Limited disclosure exceptions",
+      "heading_level": 3,
+      "full_text": "  1. If a D-SIB considers that the information requested in a template or table would not be meaningful to users it may choose not to disclose part or all of the information requested. An example is if exposures and risk-weighted assets (RWA) amounts are deemed immaterial.\n  2. In such circumstances, however, the D-SIB will be expected to explain in a narrative commentary why it considers such information not to be meaningful to users. It should describe the portfolios excluded from the disclosure requirement and the aggregate total RWA those portfolios represent. [Basel Framework, DIS 10.22]\n  3. OSFI believes that the disclosure requirements strike an appropriate balance between the need for meaningful disclosure and the protection of proprietary and confidential information. In exceptional cases, disclosure of certain items required by Pillar 3 may contravene its legal obligations by making public information that is proprietary or confidential in nature.\n  4. In such cases, a D-SIB does not need to disclose those specific items but must disclose more general information about the subject matter of the requirement instead. It must also explain in the narrative commentary to the disclosure requirement the fact that the specific items of information have not been disclosed and the reasons for this. [Basel Framework, DIS 10.12]\nIf a D-SIB considers that the information requested in a template or table would not be meaningful to users it may choose not to disclose part or all of the information requested. An example is if exposures and risk-weighted assets (RWA) amounts are deemed immaterial.\nIn such circumstances, however, the D-SIB will be expected to explain in a narrative commentary why it considers such information not to be meaningful to users. It should describe the portfolios excluded from the disclosure requirement and the aggregate total RWA those portfolios represent. [Basel Framework, DIS 10.22]\nOSFI believes that the disclosure requirements strike an appropriate balance between the need for meaningful disclosure and the protection of proprietary and confidential information. In exceptional cases, disclosure of certain items required by Pillar 3 may contravene its legal obligations by making public information that is proprietary or confidential in nature.\nIn such cases, a D-SIB does not need to disclose those specific items but must disclose more general information about the subject matter of the requirement instead. It must also explain in the narrative commentary to the disclosure requirement the fact that the specific items of information have not been disclosed and the reasons for this. [Basel Framework, DIS 10.12]",
+      "content": [
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "If a D-SIB considers that the information requested in a template or table would not be meaningful to users it may choose not to disclose part or all of the information requested. An example is if exposures and risk-weighted assets (RWA) amounts are deemed immaterial.",
+            "In such circumstances, however, the D-SIB will be expected to explain in a narrative commentary why it considers such information not to be meaningful to users. It should describe the portfolios excluded from the disclosure requirement and the aggregate total RWA those portfolios represent. [Basel Framework, DIS 10.22]",
+            "OSFI believes that the disclosure requirements strike an appropriate balance between the need for meaningful disclosure and the protection of proprietary and confidential information. In exceptional cases, disclosure of certain items required by Pillar 3 may contravene its legal obligations by making public information that is proprietary or confidential in nature.",
+            "In such cases, a D-SIB does not need to disclose those specific items but must disclose more general information about the subject matter of the requirement instead. It must also explain in the narrative commentary to the disclosure requirement the fact that the specific items of information have not been disclosed and the reasons for this. [Basel Framework, DIS 10.12]"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "If a D-SIB considers that the information requested in a template or table would not be meaningful to users it may choose not to disclose part or all of the information requested. An example is if exposures and risk-weighted assets (RWA) amounts are deemed immaterial."
+        },
+        {
+          "type": "paragraph",
+          "text": "In such circumstances, however, the D-SIB will be expected to explain in a narrative commentary why it considers such information not to be meaningful to users. It should describe the portfolios excluded from the disclosure requirement and the aggregate total RWA those portfolios represent. [Basel Framework, DIS 10.22]"
+        },
+        {
+          "type": "paragraph",
+          "text": "OSFI believes that the disclosure requirements strike an appropriate balance between the need for meaningful disclosure and the protection of proprietary and confidential information. In exceptional cases, disclosure of certain items required by Pillar 3 may contravene its legal obligations by making public information that is proprietary or confidential in nature."
+        },
+        {
+          "type": "paragraph",
+          "text": "In such cases, a D-SIB does not need to disclose those specific items but must disclose more general information about the subject matter of the requirement instead. It must also explain in the narrative commentary to the disclosure requirement the fact that the specific items of information have not been disclosed and the reasons for this. [Basel Framework, DIS 10.12]"
+        }
+      ]
+    },
+    {
+      "heading": "V. Qualitative narrative to accompany the disclosure requirements",
+      "heading_level": 2,
+      "full_text": "  1. D-SIBs are expected to supplement the quantitative information provided in both fixed and flexible templates with a narrative commentary. The commentary should explain at least any significant changes between reporting periods and any other issues that management considers to be of interest to users. The form taken by this additional narrative is at the D-SIB's discretion. [Basel Framework, DIS 10.28]\n  2. Disclosure of additional quantitative and qualitative information provides market participants with a broader picture of an institution’s risk position and promotes market discipline. [Basel Framework, DIS 10.29]\nD-SIBs are expected to supplement the quantitative information provided in both fixed and flexible templates with a narrative commentary. The commentary should explain at least any significant changes between reporting periods and any other issues that management considers to be of interest to users. The form taken by this additional narrative is at the D-SIB's discretion. [Basel Framework, DIS 10.28]\nDisclosure of additional quantitative and qualitative information provides market participants with a broader picture of an institution’s risk position and promotes market discipline. [Basel Framework, DIS 10.29]",
+      "content": [
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "D-SIBs are expected to supplement the quantitative information provided in both fixed and flexible templates with a narrative commentary. The commentary should explain at least any significant changes between reporting periods and any other issues that management considers to be of interest to users. The form taken by this additional narrative is at the D-SIB's discretion. [Basel Framework, DIS 10.28]",
+            "Disclosure of additional quantitative and qualitative information provides market participants with a broader picture of an institution’s risk position and promotes market discipline. [Basel Framework, DIS 10.29]"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "D-SIBs are expected to supplement the quantitative information provided in both fixed and flexible templates with a narrative commentary. The commentary should explain at least any significant changes between reporting periods and any other issues that management considers to be of interest to users. The form taken by this additional narrative is at the D-SIB's discretion. [Basel Framework, DIS 10.28]"
+        },
+        {
+          "type": "paragraph",
+          "text": "Disclosure of additional quantitative and qualitative information provides market participants with a broader picture of an institution’s risk position and promotes market discipline. [Basel Framework, DIS 10.29]"
+        }
+      ]
+    },
+    {
+      "heading": "VI. Location of disclosures",
+      "heading_level": 2,
+      "full_text": "  1. The Pillar 3 report must be published concurrently with the D-SIB’s financial report for the corresponding period. [Basel Framework, DIS 10.6]\n  2. Subject to OSFI discretion, D-SIBs may disclose the templates and tables in a document separate from their Pillar 3 reports. Examples include the annual report or published regulatory reports. To do so, all of the following criteria need to be met: the disclosure in the signposted document is mandatory the information contained in the signposted document: is equivalent in terms of presentation and content to that required in the fixed template allows users to make meaningful comparison with information provided by D-SIBs disclosing the fixed format templates is based on the same scope of consolidation as the one used in the disclosure requirement\n  3. In such circumstances, the D-SIB must signpost clearly in its Pillar 3 report where the disclosure requirements have been published. This signposting in the Pillar 3 report must include: the title and number of the disclosure requirement the full name of the separate document in which the disclosure requirement has been published a web link, where relevant the page and paragraph number of the separate document where the disclosure requirements can be located [Basel Framework, DIS 10.25-26]\n  4. D-SIBs can only make use of signposting to another document if the level of assurance on the reliability of data in the separate document is equivalent to, or greater than, the internal assurance level required for the Pillar 3 report. [Basel Framework, DIS 10.27]\n  5. D-SIBs are expected to publish Pillar 3 disclosures concurrently with the financial statements. The Pillar 3 report should be easily located by users, such as in a standalone document, appended to or part of a discrete section of the D-SIB’s financial reporting.\n  6. Pillar 3 disclosures should be publicly available, such as on a website. D-SIBs should have an ongoing archive of all Pillar 3 disclosures relating to prior reporting periods. D-SIBs are expected to ensure public access to previously issued Pillar 3 disclosures for a minimum of 12 months. Where investor information is made available for longer periods, the same archive period should be used for Pillar 3 disclosures.\n  7. To facilitate ease of locating disclosures, D-SIBs should provide in their respective Pillar 3 reports a complete mapping of all required tables and templates to their specific location. The disclosure mapping should indicate whether that location is in the Pillar 3 report or in a separate document.\n  8. This disclosure mapping should include the template title, name of document referenced, specific page number or paragraph referenced and web link where relevant. For instances where entire, or portions of, certain tables or templates are not disclosed, explanations should be provided.\nThe Pillar 3 report must be published concurrently with the D-SIB’s financial report for the corresponding period. [Basel Framework, DIS 10.6]\nSubject to OSFI discretion, D-SIBs may disclose the templates and tables in a document separate from their Pillar 3 reports. Examples include the annual report or published regulatory reports. To do so, all of the following criteria need to be met:\n  1. the disclosure in the signposted document is mandatory\n  2. the information contained in the signposted document: is equivalent in terms of presentation and content to that required in the fixed template allows users to make meaningful comparison with information provided by D-SIBs disclosing the fixed format templates is based on the same scope of consolidation as the one used in the disclosure requirement\nthe disclosure in the signposted document is mandatory\nthe information contained in the signposted document:\n  1. is equivalent in terms of presentation and content to that required in the fixed template\n  2. allows users to make meaningful comparison with information provided by D-SIBs disclosing the fixed format templates\n  3. is based on the same scope of consolidation as the one used in the disclosure requirement\nis equivalent in terms of presentation and content to that required in the fixed template\nallows users to make meaningful comparison with information provided by D-SIBs disclosing the fixed format templates\nis based on the same scope of consolidation as the one used in the disclosure requirement\nIn such circumstances, the D-SIB must signpost clearly in its Pillar 3 report where the disclosure requirements have been published. This signposting in the Pillar 3 report must include:\n  1. the title and number of the disclosure requirement\n  2. the full name of the separate document in which the disclosure requirement has been published\n  3. a web link, where relevant\n  4. the page and paragraph number of the separate document where the disclosure requirements can be located [Basel Framework, DIS 10.25-26]\nthe title and number of the disclosure requirement\nthe full name of the separate document in which the disclosure requirement has been published\na web link, where relevant\nthe page and paragraph number of the separate document where the disclosure requirements can be located [Basel Framework, DIS 10.25-26]\nD-SIBs can only make use of signposting to another document if the level of assurance on the reliability of data in the separate document is equivalent to, or greater than, the internal assurance level required for the Pillar 3 report. [Basel Framework, DIS 10.27]\nD-SIBs are expected to publish Pillar 3 disclosures concurrently with the financial statements. The Pillar 3 report should be easily located by users, such as in a standalone document, appended to or part of a discrete section of the D-SIB’s financial reporting.\nPillar 3 disclosures should be publicly available, such as on a website. D-SIBs should have an ongoing archive of all Pillar 3 disclosures relating to prior reporting periods. D-SIBs are expected to ensure public access to previously issued Pillar 3 disclosures for a minimum of 12 months. Where investor information is made available for longer periods, the same archive period should be used for Pillar 3 disclosures.\nTo facilitate ease of locating disclosures, D-SIBs should provide in their respective Pillar 3 reports a complete mapping of all required tables and templates to their specific location. The disclosure mapping should indicate whether that location is in the Pillar 3 report or in a separate document.\nThis disclosure mapping should include the template title, name of document referenced, specific page number or paragraph referenced and web link where relevant. For instances where entire, or portions of, certain tables or templates are not disclosed, explanations should be provided.",
+      "content": [
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "The Pillar 3 report must be published concurrently with the D-SIB’s financial report for the corresponding period. [Basel Framework, DIS 10.6]",
+            "Subject to OSFI discretion, D-SIBs may disclose the templates and tables in a document separate from their Pillar 3 reports. Examples include the annual report or published regulatory reports. To do so, all of the following criteria need to be met: the disclosure in the signposted document is mandatory the information contained in the signposted document: is equivalent in terms of presentation and content to that required in the fixed template allows users to make meaningful comparison with information provided by D-SIBs disclosing the fixed format templates is based on the same scope of consolidation as the one used in the disclosure requirement",
+            "In such circumstances, the D-SIB must signpost clearly in its Pillar 3 report where the disclosure requirements have been published. This signposting in the Pillar 3 report must include: the title and number of the disclosure requirement the full name of the separate document in which the disclosure requirement has been published a web link, where relevant the page and paragraph number of the separate document where the disclosure requirements can be located [Basel Framework, DIS 10.25-26]",
+            "D-SIBs can only make use of signposting to another document if the level of assurance on the reliability of data in the separate document is equivalent to, or greater than, the internal assurance level required for the Pillar 3 report. [Basel Framework, DIS 10.27]",
+            "D-SIBs are expected to publish Pillar 3 disclosures concurrently with the financial statements. The Pillar 3 report should be easily located by users, such as in a standalone document, appended to or part of a discrete section of the D-SIB’s financial reporting.",
+            "Pillar 3 disclosures should be publicly available, such as on a website. D-SIBs should have an ongoing archive of all Pillar 3 disclosures relating to prior reporting periods. D-SIBs are expected to ensure public access to previously issued Pillar 3 disclosures for a minimum of 12 months. Where investor information is made available for longer periods, the same archive period should be used for Pillar 3 disclosures.",
+            "To facilitate ease of locating disclosures, D-SIBs should provide in their respective Pillar 3 reports a complete mapping of all required tables and templates to their specific location. The disclosure mapping should indicate whether that location is in the Pillar 3 report or in a separate document.",
+            "This disclosure mapping should include the template title, name of document referenced, specific page number or paragraph referenced and web link where relevant. For instances where entire, or portions of, certain tables or templates are not disclosed, explanations should be provided."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "The Pillar 3 report must be published concurrently with the D-SIB’s financial report for the corresponding period. [Basel Framework, DIS 10.6]"
+        },
+        {
+          "type": "paragraph",
+          "text": "Subject to OSFI discretion, D-SIBs may disclose the templates and tables in a document separate from their Pillar 3 reports. Examples include the annual report or published regulatory reports. To do so, all of the following criteria need to be met:"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "the disclosure in the signposted document is mandatory",
+            "the information contained in the signposted document: is equivalent in terms of presentation and content to that required in the fixed template allows users to make meaningful comparison with information provided by D-SIBs disclosing the fixed format templates is based on the same scope of consolidation as the one used in the disclosure requirement"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "the disclosure in the signposted document is mandatory"
+        },
+        {
+          "type": "paragraph",
+          "text": "the information contained in the signposted document:"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "is equivalent in terms of presentation and content to that required in the fixed template",
+            "allows users to make meaningful comparison with information provided by D-SIBs disclosing the fixed format templates",
+            "is based on the same scope of consolidation as the one used in the disclosure requirement"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "is equivalent in terms of presentation and content to that required in the fixed template"
+        },
+        {
+          "type": "paragraph",
+          "text": "allows users to make meaningful comparison with information provided by D-SIBs disclosing the fixed format templates"
+        },
+        {
+          "type": "paragraph",
+          "text": "is based on the same scope of consolidation as the one used in the disclosure requirement"
+        },
+        {
+          "type": "paragraph",
+          "text": "In such circumstances, the D-SIB must signpost clearly in its Pillar 3 report where the disclosure requirements have been published. This signposting in the Pillar 3 report must include:"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "the title and number of the disclosure requirement",
+            "the full name of the separate document in which the disclosure requirement has been published",
+            "a web link, where relevant",
+            "the page and paragraph number of the separate document where the disclosure requirements can be located [Basel Framework, DIS 10.25-26]"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "the title and number of the disclosure requirement"
+        },
+        {
+          "type": "paragraph",
+          "text": "the full name of the separate document in which the disclosure requirement has been published"
+        },
+        {
+          "type": "paragraph",
+          "text": "a web link, where relevant"
+        },
+        {
+          "type": "paragraph",
+          "text": "the page and paragraph number of the separate document where the disclosure requirements can be located [Basel Framework, DIS 10.25-26]"
+        },
+        {
+          "type": "paragraph",
+          "text": "D-SIBs can only make use of signposting to another document if the level of assurance on the reliability of data in the separate document is equivalent to, or greater than, the internal assurance level required for the Pillar 3 report. [Basel Framework, DIS 10.27]"
+        },
+        {
+          "type": "paragraph",
+          "text": "D-SIBs are expected to publish Pillar 3 disclosures concurrently with the financial statements. The Pillar 3 report should be easily located by users, such as in a standalone document, appended to or part of a discrete section of the D-SIB’s financial reporting."
+        },
+        {
+          "type": "paragraph",
+          "text": "Pillar 3 disclosures should be publicly available, such as on a website. D-SIBs should have an ongoing archive of all Pillar 3 disclosures relating to prior reporting periods. D-SIBs are expected to ensure public access to previously issued Pillar 3 disclosures for a minimum of 12 months. Where investor information is made available for longer periods, the same archive period should be used for Pillar 3 disclosures."
+        },
+        {
+          "type": "paragraph",
+          "text": "To facilitate ease of locating disclosures, D-SIBs should provide in their respective Pillar 3 reports a complete mapping of all required tables and templates to their specific location. The disclosure mapping should indicate whether that location is in the Pillar 3 report or in a separate document."
+        },
+        {
+          "type": "paragraph",
+          "text": "This disclosure mapping should include the template title, name of document referenced, specific page number or paragraph referenced and web link where relevant. For instances where entire, or portions of, certain tables or templates are not disclosed, explanations should be provided."
+        }
+      ]
+    },
+    {
+      "heading": "VII. Compliance with Pillar 3",
+      "heading_level": 2,
+      "full_text": "  1. The Pillar 3 information disclosed must be subject, at a minimum, to the same level of internal review and internal control process as the information provided for their financial reporting. For example, the level of assurance must be the same as for information provided within the management discussion and analysis part of the annual financial statements. [Basel Framework, DIS 10.10]\n  2. The internal audit function should review compliance with this guideline on initial application and, subsequently, on a periodic basis. The initial review should be conducted within one year after implementation of this guideline. Subsequent reviews of disclosures should be conducted on a periodic basis consistent with the D-SIB’s normal reporting verification cycle.\n  3. Issues of non-compliance with this guideline will be addressed by OSFI on a case-by-case basis through bilateral discussions with the D-SIBs.\nThe Pillar 3 information disclosed must be subject, at a minimum, to the same level of internal review and internal control process as the information provided for their financial reporting. For example, the level of assurance must be the same as for information provided within the management discussion and analysis part of the annual financial statements. [Basel Framework, DIS 10.10]\nThe internal audit function should review compliance with this guideline on initial application and, subsequently, on a periodic basis. The initial review should be conducted within one year after implementation of this guideline. Subsequent reviews of disclosures should be conducted on a periodic basis consistent with the D-SIB’s normal reporting verification cycle.\nIssues of non-compliance with this guideline will be addressed by OSFI on a case-by-case basis through bilateral discussions with the D-SIBs.\n[Note: Footnotes Footnote 1 Chapter 1 of the Capital Adequacy Requirements (CAR) Guideline identifies D-SIBs as Bank of Montreal, Bank of Nova Scotia, Canadian Imperial Bank of Commerce, National Bank of Canada, Royal Bank of Canada, and Toronto-Dominion Bank. Return to footnote 1 referrer Footnote 2 For example, the Financial Stability Board considers disclosure of key importance. For additional information please see the FSB’s Enhanced Disclosure Task Force reports . Return to footnote 2 referrer Footnote 3 Basel II: International Convergence of Capital Measurement and Capital Standards: A Revised Framework – Comprehensive Version , June 2006 (the Basel II framework). Enhancements to the Basel II framework and revisions to the Basel II market risk framework , June 2009 (collectively referred to as the Basel 2.5 framework). Return to footnote 3 referrer Footnote 4 BCBS Definitions and Applications and Disclosure Requirements Return to footnote 4 referrer Footnote 5 OSFI CAR Guideline, Chapter 1, Annex 1 Return to footnote 5 referrer Footnote 6 See links to existing OSFI disclosure expectations for D-SIBs still in force: OSFI CAR Guideline Chapter 1, Annex 1 OSFI Guideline on Liquidity Principles (B-6) OSFI Guideline on Total Loss Absorbing Capacity (TLAC) Disclosure Requirements OSFI Guideline on Net Stable Funding Ratio Disclosure Requirements OSFI Guideline on Interest Rate Risk Management (B-12) Return to footnote 6 referrer]",
+      "content": [
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "The Pillar 3 information disclosed must be subject, at a minimum, to the same level of internal review and internal control process as the information provided for their financial reporting. For example, the level of assurance must be the same as for information provided within the management discussion and analysis part of the annual financial statements. [Basel Framework, DIS 10.10]",
+            "The internal audit function should review compliance with this guideline on initial application and, subsequently, on a periodic basis. The initial review should be conducted within one year after implementation of this guideline. Subsequent reviews of disclosures should be conducted on a periodic basis consistent with the D-SIB’s normal reporting verification cycle.",
+            "Issues of non-compliance with this guideline will be addressed by OSFI on a case-by-case basis through bilateral discussions with the D-SIBs."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "The Pillar 3 information disclosed must be subject, at a minimum, to the same level of internal review and internal control process as the information provided for their financial reporting. For example, the level of assurance must be the same as for information provided within the management discussion and analysis part of the annual financial statements. [Basel Framework, DIS 10.10]"
+        },
+        {
+          "type": "paragraph",
+          "text": "The internal audit function should review compliance with this guideline on initial application and, subsequently, on a periodic basis. The initial review should be conducted within one year after implementation of this guideline. Subsequent reviews of disclosures should be conducted on a periodic basis consistent with the D-SIB’s normal reporting verification cycle."
+        },
+        {
+          "type": "paragraph",
+          "text": "Issues of non-compliance with this guideline will be addressed by OSFI on a case-by-case basis through bilateral discussions with the D-SIBs."
+        },
+        {
+          "type": "footnote",
+          "text": "Footnotes Footnote 1 Chapter 1 of the Capital Adequacy Requirements (CAR) Guideline identifies D-SIBs as Bank of Montreal, Bank of Nova Scotia, Canadian Imperial Bank of Commerce, National Bank of Canada, Royal Bank of Canada, and Toronto-Dominion Bank. Return to footnote 1 referrer Footnote 2 For example, the Financial Stability Board considers disclosure of key importance. For additional information please see the FSB’s Enhanced Disclosure Task Force reports . Return to footnote 2 referrer Footnote 3 Basel II: International Convergence of Capital Measurement and Capital Standards: A Revised Framework – Comprehensive Version , June 2006 (the Basel II framework). Enhancements to the Basel II framework and revisions to the Basel II market risk framework , June 2009 (collectively referred to as the Basel 2.5 framework). Return to footnote 3 referrer Footnote 4 BCBS Definitions and Applications and Disclosure Requirements Return to footnote 4 referrer Footnote 5 OSFI CAR Guideline, Chapter 1, Annex 1 Return to footnote 5 referrer Footnote 6 See links to existing OSFI disclosure expectations for D-SIBs still in force: OSFI CAR Guideline Chapter 1, Annex 1 OSFI Guideline on Liquidity Principles (B-6) OSFI Guideline on Total Loss Absorbing Capacity (TLAC) Disclosure Requirements OSFI Guideline on Net Stable Funding Ratio Disclosure Requirements OSFI Guideline on Interest Rate Risk Management (B-12) Return to footnote 6 referrer"
+        }
+      ]
+    },
+    {
+      "heading": "Footnotes",
+      "heading_level": 2,
+      "full_text": "Chapter 1 of the Capital Adequacy Requirements (CAR) Guideline identifies D-SIBs as Bank of Montreal, Bank of Nova Scotia, Canadian Imperial Bank of Commerce, National Bank of Canada, Royal Bank of Canada, and Toronto-Dominion Bank.\nReturn to footnote 1 referrer\nFor example, the Financial Stability Board considers disclosure of key importance. For additional information please see the FSB’s Enhanced Disclosure Task Force reports .\nReturn to footnote 2 referrer\nBasel II: International Convergence of Capital Measurement and Capital Standards: A Revised Framework – Comprehensive Version , June 2006 (the Basel II framework). Enhancements to the Basel II framework and revisions to the Basel II market risk framework , June 2009 (collectively referred to as the Basel 2.5 framework).\nReturn to footnote 3 referrer\nBCBS Definitions and Applications and Disclosure Requirements\nReturn to footnote 4 referrer\nOSFI CAR Guideline, Chapter 1, Annex 1\nReturn to footnote 5 referrer\nSee links to existing OSFI disclosure expectations for D-SIBs still in force:\n  - OSFI CAR Guideline Chapter 1, Annex 1\n  - OSFI Guideline on Liquidity Principles (B-6)\n  - OSFI Guideline on Total Loss Absorbing Capacity (TLAC) Disclosure Requirements\n  - OSFI Guideline on Net Stable Funding Ratio Disclosure Requirements\n  - OSFI Guideline on Interest Rate Risk Management (B-12)\nReturn to footnote 6 referrer",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Chapter 1 of the Capital Adequacy Requirements (CAR) Guideline identifies D-SIBs as Bank of Montreal, Bank of Nova Scotia, Canadian Imperial Bank of Commerce, National Bank of Canada, Royal Bank of Canada, and Toronto-Dominion Bank."
+        },
+        {
+          "type": "paragraph",
+          "text": "Return to footnote 1 referrer"
+        },
+        {
+          "type": "paragraph",
+          "text": "For example, the Financial Stability Board considers disclosure of key importance. For additional information please see the FSB’s Enhanced Disclosure Task Force reports ."
+        },
+        {
+          "type": "paragraph",
+          "text": "Return to footnote 2 referrer"
+        },
+        {
+          "type": "paragraph",
+          "text": "Basel II: International Convergence of Capital Measurement and Capital Standards: A Revised Framework – Comprehensive Version , June 2006 (the Basel II framework). Enhancements to the Basel II framework and revisions to the Basel II market risk framework , June 2009 (collectively referred to as the Basel 2.5 framework)."
+        },
+        {
+          "type": "paragraph",
+          "text": "Return to footnote 3 referrer"
+        },
+        {
+          "type": "paragraph",
+          "text": "BCBS Definitions and Applications and Disclosure Requirements"
+        },
+        {
+          "type": "paragraph",
+          "text": "Return to footnote 4 referrer"
+        },
+        {
+          "type": "paragraph",
+          "text": "OSFI CAR Guideline, Chapter 1, Annex 1"
+        },
+        {
+          "type": "paragraph",
+          "text": "Return to footnote 5 referrer"
+        },
+        {
+          "type": "paragraph",
+          "text": "See links to existing OSFI disclosure expectations for D-SIBs still in force:"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "OSFI CAR Guideline Chapter 1, Annex 1",
+            "OSFI Guideline on Liquidity Principles (B-6)",
+            "OSFI Guideline on Total Loss Absorbing Capacity (TLAC) Disclosure Requirements",
+            "OSFI Guideline on Net Stable Funding Ratio Disclosure Requirements",
+            "OSFI Guideline on Interest Rate Risk Management (B-12)"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Return to footnote 6 referrer"
+        }
+      ]
+    }
+  ],
+  "title_normalized": "pillar 3 disclosure guideline for domestic systemically important banks dsibs 2025",
+  "publication_type_normalized": "guideline",
+  "category_normalized": "accounting_and_disclosure",
+  "sector_normalized": [
+    "banks",
+    "trust_and_loan_companies"
+  ],
+  "guideline_number_normalized": "",
+  "applies_to_banks": true,
+  "applies_to_trust_loan": true,
+  "applies_to_life_insurance": false,
+  "applies_to_pc_insurance": false,
+  "applies_to_foreign_bank": false,
+  "applies_to_foreign_insurance": false,
+  "applies_to_cooperative": false,
+  "applies_to_bank_holding": false,
+  "effective_date_sort_key": "2025-02-20",
+  "status_sort_key": 1,
+  "authority_sort_key": 100,
+  "bm25_text": "Pillar 3 Disclosure Guideline for Domestic Systemically Important Banks (D-SIBs) (2025) Guideline Accounting and Disclosure Banks Trust and Loan Companies A. Overview A1. Purpose and scope of application A2. Outcome I. Guiding principles II. Disclosure requirements for D-SIBs and implementation date III. Frequency of reporting IV. Disclosure format Fixed format Flexible format EDTF disclosures Limited disclosure exceptions V. Qualitative narrative to accompany the disclosure requirements VI. Location of disclosures VII. Compliance with Pillar 3 Footnotes",
+  "vector_text_prefix": "[OSFI Guideline  | Accounting and Disclosure | Banks / Trust and Loan Companies | FINAL_CURRENT | Effective 2025-02-20]",
+  "h1_title": "Pillar 3 Disclosure Guideline for Domestic Systemically Important Banks (D-SIBs) (2025)",
+  "regulator": "OSFI",
+  "regulator_acronym": "OSFI",
+  "jurisdiction": "Canada",
+  "short_title": "",
+  "source_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/pillar-3-disclosure-guideline-domestic-systemically-important-banks-sibs-2025"
+}

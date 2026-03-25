@@ -1,0 +1,597 @@
+{
+  "source_system": "osfi_guidance_library",
+  "library_row_title": "Clarification on the Treatment of Innovative Real Estate Secured Lending Products under Guideline B-20",
+  "library_row_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/clarification-treatment-innovative-real-estate-secured-lending-products-under-guideline-b-20",
+  "listing_date_raw": "June 30, 2022",
+  "listing_date_iso": "2022-06-30",
+  "listing_publication_type": "Advisory",
+  "listing_category": "Sound Business and Financial Practices",
+  "listing_sector": [
+    "Banks",
+    "Foreign Bank Branches",
+    "Trust and Loan Companies",
+    "Life Insurance and Fraternal Companies",
+    "Property and Casualty Companies"
+  ],
+  "crawl_timestamp": "2026-03-11T00:00:00Z",
+  "detail_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/clarification-treatment-innovative-real-estate-secured-lending-products-under-guideline-b-20",
+  "canonical_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/clarification-treatment-innovative-real-estate-secured-lending-products-under-guideline-b-20",
+  "slug": "clarification-treatment-innovative-real-estate-secured-lending-products-under-guideline-b-20",
+  "title": "Clarification on the Treatment of Innovative Real Estate Secured Lending Products under Guideline B-20",
+  "publication_type": "Advisory",
+  "category": "Sound Business and Financial Practices",
+  "document_date_raw": "June 30, 2022",
+  "document_date_iso": "2022-06-30",
+  "sector": [
+    "Banks",
+    "Foreign Bank Branches",
+    "Trust and Loan Companies",
+    "Life Insurance and Fraternal Companies",
+    "Property and Casualty Companies"
+  ],
+  "effective_date_text": "",
+  "guideline_number": "B-20",
+  "date_modified_raw": "2022-06-30T12:00:00Z",
+  "generate_pdf_url": "https://www.osfi-bsif.gc.ca/en/print/pdf/node/467",
+  "pdf_node_id": 467,
+  "direct_pdf_url": null,
+  "has_table_of_contents": true,
+  "toc_entries": [],
+  "has_related_documents": false,
+  "related_document_links_raw": [],
+  "consultation_status_text": null,
+  "consultation_status_refers_to_version": null,
+  "page_language": "en",
+  "word_count_raw_body": 1521,
+  "doc_id": "osfi.b20.advisory",
+  "doc_family_id": "osfi.b20",
+  "version_id": "",
+  "version_label": "Clarification on the Treatment of Innovative Real Estate Sec",
+  "version_sort_key": "",
+  "parent_doc_id": null,
+  "child_doc_ids": [],
+  "is_package_page": false,
+  "is_chapter_page": false,
+  "chapter_number": null,
+  "chapter_title": null,
+  "document_order_within_family": 0,
+  "supersedes_doc_id": null,
+  "superseded_by_doc_id": null,
+  "current_version_flag": true,
+  "status": "final_current",
+  "include_in_primary_corpus": true,
+  "include_in_support_corpus": false,
+  "include_in_context_corpus": false,
+  "effective_date_start": "2022-06-30",
+  "effective_date_end": null,
+  "effective_date_fye_split": false,
+  "effective_date_oct_fye": null,
+  "effective_date_dec_fye": null,
+  "is_future_effective": false,
+  "is_rescinded": false,
+  "is_draft_or_consultation": false,
+  "rescission_date": null,
+  "consultation_closing_date": null,
+  "as_of_applicability": "2026-03-23",
+  "rule_applied": "rule_5_final_current",
+  "authority_class": "primary_normative",
+  "authority_level": 100,
+  "nova_tier": 1,
+  "prudential_weight": 1.0,
+  "is_primary_normative": true,
+  "is_supporting_interpretive": false,
+  "is_context_only": false,
+  "document_class": "advisory",
+  "guidance_type_normalized": "advisory",
+  "section_headings": [
+    {
+      "level": 2,
+      "text": "Definitions",
+      "id": "h2-0"
+    },
+    {
+      "level": 2,
+      "text": "Background",
+      "id": "h2-1"
+    },
+    {
+      "level": 3,
+      "text": "1. Combined Loan Plans",
+      "id": "h3-2"
+    },
+    {
+      "level": 3,
+      "text": "2. Mortgages with Shared Equity Features",
+      "id": "h3-3"
+    },
+    {
+      "level": 3,
+      "text": "3. Reverse Mortgages",
+      "id": "h3-4"
+    },
+    {
+      "level": 4,
+      "text": "Principle 1 (RMUP)",
+      "id": "h4-5"
+    },
+    {
+      "level": 4,
+      "text": "Principle 2 (Due Diligence)",
+      "id": "h4-6"
+    },
+    {
+      "level": 4,
+      "text": "Principle 3 (Borrower Capacity)",
+      "id": "h4-7"
+    },
+    {
+      "level": 4,
+      "text": "Principle 4 (Collateral Management)",
+      "id": "h4-8"
+    },
+    {
+      "level": 4,
+      "text": "Principle 5 (Risk Management)",
+      "id": "h4-9"
+    },
+    {
+      "level": 4,
+      "text": "Principle 1 (RMUP)",
+      "id": "h4-10"
+    },
+    {
+      "level": 4,
+      "text": "Principle 2 (Due Diligence)",
+      "id": "h4-11"
+    },
+    {
+      "level": 4,
+      "text": "Principle 3 (Borrower Capacity)",
+      "id": "h4-12"
+    },
+    {
+      "level": 4,
+      "text": "Principle 4 (Collateral Management)",
+      "id": "h4-13"
+    },
+    {
+      "level": 4,
+      "text": "Principle 5 (Risk Management)",
+      "id": "h4-14"
+    },
+    {
+      "level": 4,
+      "text": "Principle 1 (RMUP)",
+      "id": "h4-15"
+    },
+    {
+      "level": 4,
+      "text": "Principle 2 (Due Diligence)",
+      "id": "h4-16"
+    },
+    {
+      "level": 4,
+      "text": "Principle 3 (Borrower Capacity)",
+      "id": "h4-17"
+    },
+    {
+      "level": 4,
+      "text": "Principle 4 (Collateral Management)",
+      "id": "h4-18"
+    },
+    {
+      "level": 4,
+      "text": "Principle 5 (Risk Management)",
+      "id": "h4-19"
+    }
+  ],
+  "heading_path": [
+    "Clarification on the Treatment of Innovative Real Estate Secured Lending Products under Guideline B-20"
+  ],
+  "toc_depth": 4,
+  "has_appendices": false,
+  "appendix_ids": [],
+  "has_tables": false,
+  "table_count": 0,
+  "has_footnotes": false,
+  "footnote_count": 0,
+  "inline_cross_references": [
+    "Guideline B-20 ( Residential Mortgage Underwriting Practices and Procedure",
+    "Guideline B-20",
+    "Guideline B-20 defines and sets out OSFI’s risk management expectations fo",
+    "Guideline B-20 clarifies that additional credit beyond this LTV limit can",
+    "Guideline B-20 to these products",
+    "Guideline B-20 that any and all lending above 65 percent LTV be amortized",
+    "Guideline B-20 states that a FRFI should not arrange (or appear to arrange"
+  ],
+  "quoted_external_references": [],
+  "raw_html_sha256": "595edf98528abb39b8835eaeba10d361aa2df1ac02f7faba4aa7190ef8e859e5",
+  "raw_pdf_sha256": null,
+  "normalized_text_sha256": null,
+  "raw_html_path": "bronze/osfi/html/final_current/clarification-treatment-innovative-real-estate-secured-lending-products-under-guideline-b-20.html",
+  "normalized_md_path": "silver/osfi/md/final_current/clarification-treatment-innovative-real-estate-secured-lending-products-under-guideline-b-20.md",
+  "canonical_json_path": "silver/osfi/json/final_current/clarification-treatment-innovative-real-estate-secured-lending-products-under-guideline-b-20.json",
+  "content_source": "HTML",
+  "parser_version": "osfi-parser-v2.1.0",
+  "normalizer_version": "osfi-normalizer-v1.4.0",
+  "quality_score": 1.0,
+  "quality_flags": [],
+  "download_timestamp": "2026-03-11T00:00:00Z",
+  "enriched_timestamp": "2026-03-23T09:53:50.669039Z",
+  "sections": [
+    {
+      "heading": "",
+      "heading_level": 2,
+      "full_text": "  - OSFI takes focused action to reduce systemic banking system risk\n  - OSFI clarifies treatment of innovative real estate secured lending products under Guideline B-20\n  - OSFI’s response to Guideline B-20 initial consultation feedback on debt serviceability measures\nThis Advisory applies to all federally-regulated financial institutions (FRFIs) that are engaged in residential mortgage underwriting and/or the acquisition of residential mortgage loan assets in Canada. It provides clarification in respect of certain innovative real estate secured lending (RESL) products and their treatment under OSFI Guideline B-20 ( Residential Mortgage Underwriting Practices and Procedures ).",
+      "content": [
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "OSFI takes focused action to reduce systemic banking system risk",
+            "OSFI clarifies treatment of innovative real estate secured lending products under Guideline B-20",
+            "OSFI’s response to Guideline B-20 initial consultation feedback on debt serviceability measures"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "This Advisory applies to all federally-regulated financial institutions (FRFIs) that are engaged in residential mortgage underwriting and/or the acquisition of residential mortgage loan assets in Canada. It provides clarification in respect of certain innovative real estate secured lending (RESL) products and their treatment under OSFI Guideline B-20 ( Residential Mortgage Underwriting Practices and Procedures )."
+        }
+      ]
+    },
+    {
+      "heading": "Definitions",
+      "heading_level": 2,
+      "full_text": "For the purpose of this Advisory, innovative RESL products are loans secured by residential property with features that differ from a traditional mortgage and which may have unique risk management requirements. These include loans with “combined” product features, shared equity features, and reverse mortgages. Consistent with the intent of Guideline B-20, which focuses on mortgage underwriting, references to Loan-to-Value (LTV) are to LTV at origination, unless otherwise specified. Further, the Guideline states that maximum LTV limits may be determined by law. The legal maximum LTV limit for uninsured mortgages is currently 80 percent; all references in this Advisory to lending above 65 percent LTV are subject to this limit.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "For the purpose of this Advisory, innovative RESL products are loans secured by residential property with features that differ from a traditional mortgage and which may have unique risk management requirements. These include loans with “combined” product features, shared equity features, and reverse mortgages. Consistent with the intent of Guideline B-20, which focuses on mortgage underwriting, references to Loan-to-Value (LTV) are to LTV at origination, unless otherwise specified. Further, the Guideline states that maximum LTV limits may be determined by law. The legal maximum LTV limit for uninsured mortgages is currently 80 percent; all references in this Advisory to lending above 65 percent LTV are subject to this limit."
+        }
+      ]
+    },
+    {
+      "heading": "Background",
+      "heading_level": 2,
+      "full_text": "Guideline B-20 defines and sets out OSFI’s risk management expectations for home equity lines of credit (HELOCs). The Guideline also treats reverse mortgages and any non-amortizing (revolving) credit product secured by residential property as HELOCs. The purpose of this equivalent treatment is to extend heightened risk management expectations in the Guideline to other innovative products. In particular, the expectation that FRFIs impose a maximum LTV ratio less than or equal to 65 percent for HELOCs is foundational. Guideline B-20 clarifies that additional credit beyond this LTV limit can be extended to a borrower; however, such lending should be amortizing.\nThe remainder of this Advisory clarifies OSFI’s expectations in respect of three innovative RESL products. The table in Annex I provides additional guidance to FRFIs in applying the principles of Guideline B-20 to these products.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Guideline B-20 defines and sets out OSFI’s risk management expectations for home equity lines of credit (HELOCs). The Guideline also treats reverse mortgages and any non-amortizing (revolving) credit product secured by residential property as HELOCs. The purpose of this equivalent treatment is to extend heightened risk management expectations in the Guideline to other innovative products. In particular, the expectation that FRFIs impose a maximum LTV ratio less than or equal to 65 percent for HELOCs is foundational. Guideline B-20 clarifies that additional credit beyond this LTV limit can be extended to a borrower; however, such lending should be amortizing."
+        },
+        {
+          "type": "paragraph",
+          "text": "The remainder of this Advisory clarifies OSFI’s expectations in respect of three innovative RESL products. The table in Annex I provides additional guidance to FRFIs in applying the principles of Guideline B-20 to these products."
+        }
+      ]
+    },
+    {
+      "heading": "1. Combined Loan Plans",
+      "heading_level": 3,
+      "full_text": "Residential mortgages that combine multiple products or features have become more common. A typical form of combined loan plan (CLP) is a traditional, amortizing mortgage loan blended with a revolving line of credit. In particular, CLPs are defined as loans:\n  - Where there is a single collateral dollar charge on the subject property that supports multiple segments or components; and,\n  - That have authorized borrowing limits that are dependent on the balances of other loans and are underwritten on a combined basis, as a single credit under one overall limit.\nSimilar to standalone HELOCs, CLPs carry heightened risks for lenders. In particular, CLPs amplify the risk associated with persistent, outstanding borrower debt. The expectation in Guideline B-20 that any and all lending above 65 percent LTV be amortized is intended to limit the extent and duration of borrower indebtedness, thereby limiting FRFIs’ exposure. Readvancing credit beyond this limit is not consistent with OSFI’s expectation. Accordingly, any and all lending above the 65 percent LTV limit should be both amortizing and non-readvanceable. Principal payments applied to the segment above 65 percent should be matched by a reduction in the overall authorized limit, until this overall CLP authorized limit reduces to 65 percent LTV for all segments, on a combined basis.\nAt all times, FRFIs are expected to ensure that CLP underwriting and risk management practices are prudent, aligned with their risk appetite, and responsive to evolving risk conditions. As stated in B-20, maximum LTV limits may be determined by law. The legal maximum LTV limit for uninsured mortgages is currently 80 percent; as such, any CLP overall limit cannot exceed 80 percent LTV.\nOSFI expects that any and all lending above the 65 percent LTV limit, which cannot exceed 80 percent LTV, will be both amortizing and non-readvanceable. Principal payments applied to the portion above 65 percent should be matched by a reduction in the overall authorized limit until this overall CLP authorized limit reduces to 65 percent LTV for all segments, on a combined basis.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Residential mortgages that combine multiple products or features have become more common. A typical form of combined loan plan (CLP) is a traditional, amortizing mortgage loan blended with a revolving line of credit. In particular, CLPs are defined as loans:"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Where there is a single collateral dollar charge on the subject property that supports multiple segments or components; and,",
+            "That have authorized borrowing limits that are dependent on the balances of other loans and are underwritten on a combined basis, as a single credit under one overall limit."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Similar to standalone HELOCs, CLPs carry heightened risks for lenders. In particular, CLPs amplify the risk associated with persistent, outstanding borrower debt. The expectation in Guideline B-20 that any and all lending above 65 percent LTV be amortized is intended to limit the extent and duration of borrower indebtedness, thereby limiting FRFIs’ exposure. Readvancing credit beyond this limit is not consistent with OSFI’s expectation. Accordingly, any and all lending above the 65 percent LTV limit should be both amortizing and non-readvanceable. Principal payments applied to the segment above 65 percent should be matched by a reduction in the overall authorized limit, until this overall CLP authorized limit reduces to 65 percent LTV for all segments, on a combined basis."
+        },
+        {
+          "type": "paragraph",
+          "text": "At all times, FRFIs are expected to ensure that CLP underwriting and risk management practices are prudent, aligned with their risk appetite, and responsive to evolving risk conditions. As stated in B-20, maximum LTV limits may be determined by law. The legal maximum LTV limit for uninsured mortgages is currently 80 percent; as such, any CLP overall limit cannot exceed 80 percent LTV."
+        },
+        {
+          "type": "paragraph",
+          "text": "OSFI expects that any and all lending above the 65 percent LTV limit, which cannot exceed 80 percent LTV, will be both amortizing and non-readvanceable. Principal payments applied to the portion above 65 percent should be matched by a reduction in the overall authorized limit until this overall CLP authorized limit reduces to 65 percent LTV for all segments, on a combined basis."
+        }
+      ]
+    },
+    {
+      "heading": "2. Mortgages with Shared Equity Features",
+      "heading_level": 3,
+      "full_text": "Mortgages with shared equity features are a relatively new form of mortgage finance in which the borrower and an equity investment provider jointly contribute down payment funds to purchase a residential property. These arrangements are commonly facilitated by government or non-profit programs designed to achieve specific public policy objectives (e.g., housing affordability and access). Such arrangements are also offered on commercial terms by private sector investment providers. The involvement of an equity investment provider introduces greater complexity and poses heightened legal and other operational risks compared with a traditional mortgage.\nFRFIs may supply financing as part of an uninsured mortgage with a shared equity feature as long as the mortgage provided by the FRFI is in the first lien position, and the equity investment provider’s contribution is a bona fide equity investment (i.e., is not a loan, in letter or substance) made on terms that are pari passu with the borrower’s equity. Guideline B-20 states that a FRFI should not arrange (or appear to arrange) with another lender, a mortgage or combination of a mortgage and other lending products (secured by the same property), in any form that circumvents the FRFI’s maximum LTV ratio or other limits in its Residential Mortgage Underwriting Policy (RMUP), or any requirements established by law. As provided in footnote 12 of Guideline B-20, LTV limit restrictions do not apply in cases where additional secured funding is provided by a municipal, territorial, provincial or the federal government.\nOSFI expects that mortgage lending with shared equity features is subject to all criteria under the FRFI’s RMUP, consistent with Guideline B-20. It is further recommended that FRFIs explicitly define mortgage lending programs with shared equity features in their RMUPs, in recognition of the unique risks posed by this form of lending.\nFRFIs may supply financing for uninsured mortgages with shared equity features, as long as the mortgage provided by the FRFI is in the first lien position and the equity investment provider’s contribution is a bona fide equity investment (i.e., not a loan, and on terms that are pari passu with the borrower’s equity).",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Mortgages with shared equity features are a relatively new form of mortgage finance in which the borrower and an equity investment provider jointly contribute down payment funds to purchase a residential property. These arrangements are commonly facilitated by government or non-profit programs designed to achieve specific public policy objectives (e.g., housing affordability and access). Such arrangements are also offered on commercial terms by private sector investment providers. The involvement of an equity investment provider introduces greater complexity and poses heightened legal and other operational risks compared with a traditional mortgage."
+        },
+        {
+          "type": "paragraph",
+          "text": "FRFIs may supply financing as part of an uninsured mortgage with a shared equity feature as long as the mortgage provided by the FRFI is in the first lien position, and the equity investment provider’s contribution is a bona fide equity investment (i.e., is not a loan, in letter or substance) made on terms that are pari passu with the borrower’s equity. Guideline B-20 states that a FRFI should not arrange (or appear to arrange) with another lender, a mortgage or combination of a mortgage and other lending products (secured by the same property), in any form that circumvents the FRFI’s maximum LTV ratio or other limits in its Residential Mortgage Underwriting Policy (RMUP), or any requirements established by law. As provided in footnote 12 of Guideline B-20, LTV limit restrictions do not apply in cases where additional secured funding is provided by a municipal, territorial, provincial or the federal government."
+        },
+        {
+          "type": "paragraph",
+          "text": "OSFI expects that mortgage lending with shared equity features is subject to all criteria under the FRFI’s RMUP, consistent with Guideline B-20. It is further recommended that FRFIs explicitly define mortgage lending programs with shared equity features in their RMUPs, in recognition of the unique risks posed by this form of lending."
+        },
+        {
+          "type": "paragraph",
+          "text": "FRFIs may supply financing for uninsured mortgages with shared equity features, as long as the mortgage provided by the FRFI is in the first lien position and the equity investment provider’s contribution is a bona fide equity investment (i.e., not a loan, and on terms that are pari passu with the borrower’s equity)."
+        }
+      ]
+    },
+    {
+      "heading": "3. Reverse Mortgages",
+      "heading_level": 3,
+      "full_text": "A reverse mortgage is a loan secured by residential property that permits the borrower to draw equity from the property. These loans typically do not require principal or interest repayment until the property is sold. Accrued interest is added to the loan balance and borrowers are still expected to meet regular costs associated with property maintenance and taxes. The borrower’s age is also an important underwriting consideration and introduces longevity risk. Given these characteristics, sound collateral management and appraisal is central to the underwriting process, whereas debt serviceability is not a significant factor for these loans.\nOSFI expects FRFIs to demonstrate heightened due diligence and ongoing risk management in respect of the collateral property, and to establish prudent LTV limits in their RMUPs (i.e., a maximum of 65 percent at origination).\nGiven the unique risks inherent to reverse mortgages, OSFI expects FRFIs to demonstrate heightened due diligence in respect of collateral management, property appraisal and longevity risk.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "A reverse mortgage is a loan secured by residential property that permits the borrower to draw equity from the property. These loans typically do not require principal or interest repayment until the property is sold. Accrued interest is added to the loan balance and borrowers are still expected to meet regular costs associated with property maintenance and taxes. The borrower’s age is also an important underwriting consideration and introduces longevity risk. Given these characteristics, sound collateral management and appraisal is central to the underwriting process, whereas debt serviceability is not a significant factor for these loans."
+        },
+        {
+          "type": "paragraph",
+          "text": "OSFI expects FRFIs to demonstrate heightened due diligence and ongoing risk management in respect of the collateral property, and to establish prudent LTV limits in their RMUPs (i.e., a maximum of 65 percent at origination)."
+        },
+        {
+          "type": "paragraph",
+          "text": "Given the unique risks inherent to reverse mortgages, OSFI expects FRFIs to demonstrate heightened due diligence in respect of collateral management, property appraisal and longevity risk."
+        }
+      ]
+    },
+    {
+      "heading": "Principle 1 (RMUP)",
+      "heading_level": 4,
+      "full_text": "Product should be defined in the RMUP with appropriate limits, qualifiers and enhanced monitoring.\nPrinciple fully applies.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Product should be defined in the RMUP with appropriate limits, qualifiers and enhanced monitoring."
+        },
+        {
+          "type": "paragraph",
+          "text": "Principle fully applies."
+        }
+      ]
+    },
+    {
+      "heading": "Principle 2 (Due Diligence)",
+      "heading_level": 4,
+      "full_text": "As provided in Guideline B-20.\nPrinciple fully applies.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "As provided in Guideline B-20."
+        },
+        {
+          "type": "paragraph",
+          "text": "Principle fully applies."
+        }
+      ]
+    },
+    {
+      "heading": "Principle 3 (Borrower Capacity)",
+      "heading_level": 4,
+      "full_text": "As provided in Guideline B-20.\nPrinciple fully applies.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "As provided in Guideline B-20."
+        },
+        {
+          "type": "paragraph",
+          "text": "Principle fully applies."
+        }
+      ]
+    },
+    {
+      "heading": "Principle 4 (Collateral Management)",
+      "heading_level": 4,
+      "full_text": "Any and all lending above 65 percent LTV should be both amortizing and non-readvanceable. Principal payments applied to the portion above 65 percent should be matched by a reduction in the overall authorized limit until this overall authorized limit reduces to 65 percent LTV for all segments, on a combined basis.\nPrinciple fully applies.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Any and all lending above 65 percent LTV should be both amortizing and non-readvanceable. Principal payments applied to the portion above 65 percent should be matched by a reduction in the overall authorized limit until this overall authorized limit reduces to 65 percent LTV for all segments, on a combined basis."
+        },
+        {
+          "type": "paragraph",
+          "text": "Principle fully applies."
+        }
+      ]
+    },
+    {
+      "heading": "Principle 5 (Risk Management)",
+      "heading_level": 4,
+      "full_text": "As provided in Guideline B-20.\nPrinciple fully applies.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "As provided in Guideline B-20."
+        },
+        {
+          "type": "paragraph",
+          "text": "Principle fully applies."
+        }
+      ]
+    },
+    {
+      "heading": "Principle 1 (RMUP)",
+      "heading_level": 4,
+      "full_text": "Product should be defined in the RMUP with appropriate limits, qualifiers and enhanced monitoring.\nPrinciple fully applies.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Product should be defined in the RMUP with appropriate limits, qualifiers and enhanced monitoring."
+        },
+        {
+          "type": "paragraph",
+          "text": "Principle fully applies."
+        }
+      ]
+    },
+    {
+      "heading": "Principle 2 (Due Diligence)",
+      "heading_level": 4,
+      "full_text": "FRFIs should fully understand the shared equity agreement and ensure it does not negatively impact the FRFI’s charge on the subject property.\nPrinciple fully applies.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "FRFIs should fully understand the shared equity agreement and ensure it does not negatively impact the FRFI’s charge on the subject property."
+        },
+        {
+          "type": "paragraph",
+          "text": "Principle fully applies."
+        }
+      ]
+    },
+    {
+      "heading": "Principle 3 (Borrower Capacity)",
+      "heading_level": 4,
+      "full_text": "As provided in Guideline B-20.\nPrinciple fully applies.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "As provided in Guideline B-20."
+        },
+        {
+          "type": "paragraph",
+          "text": "Principle fully applies."
+        }
+      ]
+    },
+    {
+      "heading": "Principle 4 (Collateral Management)",
+      "heading_level": 4,
+      "full_text": "FRFIs should ensure they are in the first lien position. Equity investment provider equity cannot be a loan and must be offered on terms that are pari passu with the borrower’s equity. LTV must be 80 percent or below, at origination. Borrowed down payment funds, if any, cannot be secured by the subject property. Shared equity is an acceptable source of down payment and is considered to be part of the borrower’s own resources.\nPrinciple fully applies.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "FRFIs should ensure they are in the first lien position. Equity investment provider equity cannot be a loan and must be offered on terms that are pari passu with the borrower’s equity. LTV must be 80 percent or below, at origination. Borrowed down payment funds, if any, cannot be secured by the subject property. Shared equity is an acceptable source of down payment and is considered to be part of the borrower’s own resources."
+        },
+        {
+          "type": "paragraph",
+          "text": "Principle fully applies."
+        }
+      ]
+    },
+    {
+      "heading": "Principle 5 (Risk Management)",
+      "heading_level": 4,
+      "full_text": "As provided in Guideline B-20.\nPrinciple fully applies.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "As provided in Guideline B-20."
+        },
+        {
+          "type": "paragraph",
+          "text": "Principle fully applies."
+        }
+      ]
+    },
+    {
+      "heading": "Principle 1 (RMUP)",
+      "heading_level": 4,
+      "full_text": "Product should be defined in the RMUP with appropriate limits, qualifiers and enhanced monitoring.\nPrinciple fully applies.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Product should be defined in the RMUP with appropriate limits, qualifiers and enhanced monitoring."
+        },
+        {
+          "type": "paragraph",
+          "text": "Principle fully applies."
+        }
+      ]
+    },
+    {
+      "heading": "Principle 2 (Due Diligence)",
+      "heading_level": 4,
+      "full_text": "While no principal or interest payment may be required, a borrower should still demonstrate ability to pay for property maintenance (e.g., taxes, upkeep). FRFIs should account for longevity risk associated with borrower’s age.\nPrinciple partially applies.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "While no principal or interest payment may be required, a borrower should still demonstrate ability to pay for property maintenance (e.g., taxes, upkeep). FRFIs should account for longevity risk associated with borrower’s age."
+        },
+        {
+          "type": "paragraph",
+          "text": "Principle partially applies."
+        }
+      ]
+    },
+    {
+      "heading": "Principle 3 (Borrower Capacity)",
+      "heading_level": 4,
+      "full_text": "These loans are not underwritten on the basis of borrower income, guarantors/co-signors, or debt service coverage.\nPrinciple does not apply.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "These loans are not underwritten on the basis of borrower income, guarantors/co-signors, or debt service coverage."
+        },
+        {
+          "type": "paragraph",
+          "text": "Principle does not apply."
+        }
+      ]
+    },
+    {
+      "heading": "Principle 4 (Collateral Management)",
+      "heading_level": 4,
+      "full_text": "OSFI expects stronger collateral management and appraisal practices for these loans given the FRFI’s reliance on the quality of the subject property. LTV is limited to a maximum of 65 percent at origination.\nPrinciple fully applies.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "OSFI expects stronger collateral management and appraisal practices for these loans given the FRFI’s reliance on the quality of the subject property. LTV is limited to a maximum of 65 percent at origination."
+        },
+        {
+          "type": "paragraph",
+          "text": "Principle fully applies."
+        }
+      ]
+    },
+    {
+      "heading": "Principle 5 (Risk Management)",
+      "heading_level": 4,
+      "full_text": "As provided in Guideline B-20.\nPrinciple fully applies.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "As provided in Guideline B-20."
+        },
+        {
+          "type": "paragraph",
+          "text": "Principle fully applies."
+        }
+      ]
+    }
+  ],
+  "title_normalized": "clarification on the treatment of innovative real estate secured lending products under guideline b20",
+  "publication_type_normalized": "advisory",
+  "category_normalized": "sound_business_and_financial_practices",
+  "sector_normalized": [
+    "banks",
+    "foreign_bank_branches",
+    "trust_and_loan_companies",
+    "life_insurance",
+    "pc_insurance"
+  ],
+  "guideline_number_normalized": "B20",
+  "applies_to_banks": true,
+  "applies_to_trust_loan": true,
+  "applies_to_life_insurance": true,
+  "applies_to_pc_insurance": true,
+  "applies_to_foreign_bank": true,
+  "applies_to_foreign_insurance": false,
+  "applies_to_cooperative": false,
+  "applies_to_bank_holding": false,
+  "effective_date_sort_key": "2022-06-30",
+  "status_sort_key": 1,
+  "authority_sort_key": 100,
+  "bm25_text": "Clarification on the Treatment of Innovative Real Estate Secured Lending Products under Guideline B-20 B-20 Advisory Sound Business and Financial Practices Banks Foreign Bank Branches Trust and Loan Companies Life Insurance and Fraternal Companies Property and Casualty Companies Definitions Background 1. Combined Loan Plans 2. Mortgages with Shared Equity Features 3. Reverse Mortgages Principle 1 (RMUP) Principle 2 (Due Diligence) Principle 3 (Borrower Capacity) Principle 4 (Collateral Management) Principle 5 (Risk Management) Principle 1 (RMUP) Principle 2 (Due Diligence) Principle 3 (Borrower Capacity) Principle 4 (Collateral Management) Principle 5 (Risk Management) Principle 1 (RMUP) Principle 2 (Due Diligence) Principle 3 (Borrower Capacity) Principle 4 (Collateral Management) Principle 5 (Risk Management)",
+  "vector_text_prefix": "[OSFI Advisory B-20 | Sound Business and Financial Practices | Banks / Foreign Bank Branches / Trust and Loan Companies | FINAL_CURRENT | Effective 2022-06-30]",
+  "h1_title": "Clarification on the Treatment of Innovative Real Estate Secured Lending Products under Guideline B-20",
+  "regulator": "OSFI",
+  "regulator_acronym": "OSFI",
+  "jurisdiction": "Canada",
+  "short_title": "B-20",
+  "source_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/clarification-treatment-innovative-real-estate-secured-lending-products-under-guideline-b-20"
+}

@@ -1,0 +1,448 @@
+{
+  "source_system": "osfi_guidance_library",
+  "library_row_title": "Data Collection Modernization Initiative: Get Ready for Implementation",
+  "library_row_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/data-collection-modernization-initiative-get-ready-implementation",
+  "listing_date_raw": "December 16, 2025",
+  "listing_date_iso": "2025-12-16",
+  "listing_publication_type": "Letter",
+  "listing_category": "Supervisory Advisories",
+  "listing_sector": [
+    "Bank Holding Companies",
+    "Banks",
+    "Foreign Bank Branches",
+    "Foreign Insurance Branches",
+    "Life Insurance and Fraternal Companies",
+    "Property and Casualty Companies",
+    "Trust and Loan Companies"
+  ],
+  "crawl_timestamp": "2026-03-11T00:00:00Z",
+  "detail_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/data-collection-modernization-initiative-get-ready-implementation",
+  "canonical_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/data-collection-modernization-initiative-get-ready-implementation",
+  "slug": "data-collection-modernization-initiative-get-ready-implementation",
+  "title": "Data Collection Modernization Initiative: Get Ready for Implementation",
+  "publication_type": "Letter",
+  "category": "Supervisory Advisories",
+  "document_date_raw": "December 16, 2025",
+  "document_date_iso": "2025-12-16",
+  "sector": [
+    "Bank Holding Companies",
+    "Banks",
+    "Foreign Bank Branches",
+    "Foreign Insurance Branches",
+    "Life Insurance and Fraternal Companies",
+    "Property and Casualty Companies",
+    "Trust and Loan Companies"
+  ],
+  "effective_date_text": "",
+  "guideline_number": "",
+  "date_modified_raw": "2025-12-16T12:00:00Z",
+  "generate_pdf_url": "https://www.osfi-bsif.gc.ca/en/print/pdf/node/3074",
+  "pdf_node_id": 3074,
+  "direct_pdf_url": null,
+  "has_table_of_contents": true,
+  "toc_entries": [],
+  "has_related_documents": true,
+  "related_document_links_raw": [
+    {
+      "title": "Modernizing how we collect data from institutions",
+      "url": "https://www.osfi-bsif.gc.ca/en/about-osfi/progress-our-initiatives/modernizing-we-collect-data-institutions"
+    }
+  ],
+  "consultation_status_text": null,
+  "consultation_status_refers_to_version": null,
+  "page_language": "en",
+  "word_count_raw_body": 866,
+  "doc_id": "osfi.data-collection-modernization-initiative-get-ready.transmittal",
+  "doc_family_id": "osfi.data-collection-modernization-initiative-get-ready",
+  "version_id": "",
+  "version_label": "Data Collection Modernization Initiative: Get Ready for Impl",
+  "version_sort_key": "",
+  "parent_doc_id": null,
+  "child_doc_ids": [],
+  "is_package_page": false,
+  "is_chapter_page": false,
+  "chapter_number": null,
+  "chapter_title": null,
+  "document_order_within_family": 0,
+  "supersedes_doc_id": null,
+  "superseded_by_doc_id": null,
+  "current_version_flag": true,
+  "status": "final_current",
+  "include_in_primary_corpus": false,
+  "include_in_support_corpus": true,
+  "include_in_context_corpus": false,
+  "effective_date_start": "2025-12-16",
+  "effective_date_end": null,
+  "effective_date_fye_split": false,
+  "effective_date_oct_fye": null,
+  "effective_date_dec_fye": null,
+  "is_future_effective": false,
+  "is_rescinded": false,
+  "is_draft_or_consultation": false,
+  "rescission_date": null,
+  "consultation_closing_date": null,
+  "as_of_applicability": "2026-03-23",
+  "rule_applied": "rule_5_final_current",
+  "authority_class": "official_support",
+  "authority_level": 60,
+  "nova_tier": 2,
+  "prudential_weight": 0.7,
+  "is_primary_normative": false,
+  "is_supporting_interpretive": true,
+  "is_context_only": false,
+  "document_class": "transmittal_letter",
+  "guidance_type_normalized": "letter",
+  "section_headings": [
+    {
+      "level": 2,
+      "text": "Industry engagement to get ready",
+      "id": "h2-0"
+    },
+    {
+      "level": 2,
+      "text": "Technology transition",
+      "id": "h2-1"
+    },
+    {
+      "level": 2,
+      "text": "Data",
+      "id": "h2-2"
+    }
+  ],
+  "heading_path": [
+    "Data Collection Modernization Initiative: Get Ready for Implementation"
+  ],
+  "toc_depth": 2,
+  "has_appendices": false,
+  "appendix_ids": [],
+  "has_tables": true,
+  "table_count": 1,
+  "has_footnotes": false,
+  "footnote_count": 0,
+  "inline_cross_references": [],
+  "quoted_external_references": [],
+  "raw_html_sha256": "ab6b93740e6f9c3a84482c2177f40c580b062643c59fc01908d51ab5c8d9b85f",
+  "raw_pdf_sha256": null,
+  "normalized_text_sha256": null,
+  "raw_html_path": "bronze/osfi/html/final_current/data-collection-modernization-initiative-get-ready-implementation.html",
+  "normalized_md_path": "silver/osfi/md/final_current/data-collection-modernization-initiative-get-ready-implementation.md",
+  "canonical_json_path": "silver/osfi/json/final_current/data-collection-modernization-initiative-get-ready-implementation.json",
+  "content_source": "HTML",
+  "parser_version": "osfi-parser-v2.1.0",
+  "normalizer_version": "osfi-normalizer-v1.4.0",
+  "quality_score": 1.0,
+  "quality_flags": [],
+  "download_timestamp": "2026-03-11T00:00:00Z",
+  "enriched_timestamp": "2026-03-23T09:53:50.940174Z",
+  "sections": [
+    {
+      "heading": "",
+      "heading_level": 2,
+      "full_text": "  - Modernizing how we collect data from institutions\nThe Data Collection Modernization (DCM) project (May 2023 to April 2028) aims to:\n  1. modernize the regulatory data collection technology platform\n  2. advance key data initiatives and improve data quality\nTogether these efforts will help better manage regulatory reporting workload over time.\nThe information below will help federally regulated financial institutions (institutions) and federally regulated pension plans (pension plans) prepare for the implementation of DCM.",
+      "content": [
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Modernizing how we collect data from institutions"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "The Data Collection Modernization (DCM) project (May 2023 to April 2028) aims to:"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "modernize the regulatory data collection technology platform",
+            "advance key data initiatives and improve data quality"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Together these efforts will help better manage regulatory reporting workload over time."
+        },
+        {
+          "type": "paragraph",
+          "text": "The information below will help federally regulated financial institutions (institutions) and federally regulated pension plans (pension plans) prepare for the implementation of DCM."
+        }
+      ]
+    },
+    {
+      "heading": "Industry engagement to get ready",
+      "heading_level": 2,
+      "full_text": "Industry engagement is critical to the success of DCM. We met with 34 senior leaders in the banking and insurance sectors in June 2025 to begin implementation planning and in November 2025 to discuss details of technology implementation plan.\nThroughout 2026 (see Table 1), we will share the technology implementation plan details via small group discussions (with a diverse size of institutions) as well as industry-wide forums. This approach supports a smooth transition.\nIn early 2026, we will begin to engage with relevant federally regulated banks on data initiatives.\nTable: Table 1: Active DCM Engagement Chart with Timelines\nWhen | Active Engagements | Engagement size | Who | Banking | Insurance | Private Pension Plans\nNovember 2025 | Survey | 1200 private pension plans | Plan administrators | not applicable | not applicable | True ✓\nNovember 2025 | Strategic Council Forums (virtual) | 34 participants Table 1 Footnote * | Senior Leaders Industry associations | True ✓ | True ✓ | not applicable\nDecember 2025 | Technology Forum (virtual) | 46 participants Table 1 Footnote ** | Technology leaders | True ✓ | True ✓ | not applicable\nFebruary 2026 | Industry Day DCM Orientation (virtual) | Interested regulatory reporting team members Table 1 Footnote *** | Self-identified regulatory reporting team members | True ✓ | True ✓ | True ✓\nFebruary 2026 | Open Door Forums (virtual) | All interested Table 1 Footnote *** | Self-identified subject matter experts | True ✓ | True ✓ | True ✓\nSpring 2026 | Industry webinar (virtual) | All | Filers and plan administrators Vendors Others | True ✓ | True ✓ | True ✓\nSummer 2026 | Training to support Step 1 (virtual) | TBC | Filers and plan administrators | True ✓ | True ✓ | True ✓\nTable 1 Footnotes Table 1 Footnote * Identified by the industry associations. Return to table 1 footnote * referrer Table 1 Footnote ** Identified by members of the Strategic Council Forum. Return to table 1 footnote ** referrer Table 1 Footnote *** Interested banks, insurers and plans who would like to provide feedback on the DCM technology implementation plan. Return to table 1 footnote *** referrer\nSenior Leaders\nIndustry associations\nIndustry Day DCM Orientation (virtual)\nFilers and plan administrators\nVendors\nOthers\nTable 1 Footnotes Table 1 Footnote * Identified by the industry associations. Return to table 1 footnote * referrer Table 1 Footnote ** Identified by members of the Strategic Council Forum. Return to table 1 footnote ** referrer Table 1 Footnote *** Interested banks, insurers and plans who would like to provide feedback on the DCM technology implementation plan. Return to table 1 footnote *** referrer\nTable 1 Footnotes\nIdentified by the industry associations.\nReturn to table 1 footnote * referrer\nIdentified by members of the Strategic Council Forum.\nReturn to table 1 footnote ** referrer\nInterested banks, insurers and plans who would like to provide feedback on the DCM technology implementation plan.\nReturn to table 1 footnote *** referrer",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Industry engagement is critical to the success of DCM. We met with 34 senior leaders in the banking and insurance sectors in June 2025 to begin implementation planning and in November 2025 to discuss details of technology implementation plan."
+        },
+        {
+          "type": "paragraph",
+          "text": "Throughout 2026 (see Table 1), we will share the technology implementation plan details via small group discussions (with a diverse size of institutions) as well as industry-wide forums. This approach supports a smooth transition."
+        },
+        {
+          "type": "paragraph",
+          "text": "In early 2026, we will begin to engage with relevant federally regulated banks on data initiatives."
+        },
+        {
+          "type": "table",
+          "caption": "Table 1: Active DCM Engagement Chart with Timelines",
+          "rows": [
+            [
+              "When",
+              "Active Engagements",
+              "Engagement size",
+              "Who",
+              "Banking",
+              "Insurance",
+              "Private Pension Plans"
+            ],
+            [
+              "November 2025",
+              "Survey",
+              "1200 private pension plans",
+              "Plan administrators",
+              "not applicable",
+              "not applicable",
+              "True ✓"
+            ],
+            [
+              "November 2025",
+              "Strategic Council Forums (virtual)",
+              "34 participants Table 1 Footnote *",
+              "Senior Leaders Industry associations",
+              "True ✓",
+              "True ✓",
+              "not applicable"
+            ],
+            [
+              "December 2025",
+              "Technology Forum (virtual)",
+              "46 participants Table 1 Footnote **",
+              "Technology leaders",
+              "True ✓",
+              "True ✓",
+              "not applicable"
+            ],
+            [
+              "February 2026",
+              "Industry Day DCM Orientation (virtual)",
+              "Interested regulatory reporting team members Table 1 Footnote ***",
+              "Self-identified regulatory reporting team members",
+              "True ✓",
+              "True ✓",
+              "True ✓"
+            ],
+            [
+              "February 2026",
+              "Open Door Forums (virtual)",
+              "All interested Table 1 Footnote ***",
+              "Self-identified subject matter experts",
+              "True ✓",
+              "True ✓",
+              "True ✓"
+            ],
+            [
+              "Spring 2026",
+              "Industry webinar (virtual)",
+              "All",
+              "Filers and plan administrators Vendors Others",
+              "True ✓",
+              "True ✓",
+              "True ✓"
+            ],
+            [
+              "Summer 2026",
+              "Training to support Step 1 (virtual)",
+              "TBC",
+              "Filers and plan administrators",
+              "True ✓",
+              "True ✓",
+              "True ✓"
+            ],
+            [
+              "Table 1 Footnotes Table 1 Footnote * Identified by the industry associations. Return to table 1 footnote * referrer Table 1 Footnote ** Identified by members of the Strategic Council Forum. Return to table 1 footnote ** referrer Table 1 Footnote *** Interested banks, insurers and plans who would like to provide feedback on the DCM technology implementation plan. Return to table 1 footnote *** referrer"
+            ]
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Senior Leaders"
+        },
+        {
+          "type": "paragraph",
+          "text": "Industry associations"
+        },
+        {
+          "type": "paragraph",
+          "text": "Industry Day DCM Orientation (virtual)"
+        },
+        {
+          "type": "paragraph",
+          "text": "Filers and plan administrators"
+        },
+        {
+          "type": "paragraph",
+          "text": "Vendors"
+        },
+        {
+          "type": "paragraph",
+          "text": "Others"
+        },
+        {
+          "type": "paragraph",
+          "text": "Table 1 Footnotes Table 1 Footnote * Identified by the industry associations. Return to table 1 footnote * referrer Table 1 Footnote ** Identified by members of the Strategic Council Forum. Return to table 1 footnote ** referrer Table 1 Footnote *** Interested banks, insurers and plans who would like to provide feedback on the DCM technology implementation plan. Return to table 1 footnote *** referrer"
+        },
+        {
+          "type": "paragraph",
+          "text": "Table 1 Footnotes"
+        },
+        {
+          "type": "paragraph",
+          "text": "Identified by the industry associations."
+        },
+        {
+          "type": "paragraph",
+          "text": "Return to table 1 footnote * referrer"
+        },
+        {
+          "type": "paragraph",
+          "text": "Identified by members of the Strategic Council Forum."
+        },
+        {
+          "type": "paragraph",
+          "text": "Return to table 1 footnote ** referrer"
+        },
+        {
+          "type": "paragraph",
+          "text": "Interested banks, insurers and plans who would like to provide feedback on the DCM technology implementation plan."
+        },
+        {
+          "type": "paragraph",
+          "text": "Return to table 1 footnote *** referrer"
+        }
+      ]
+    },
+    {
+      "heading": "Technology transition",
+      "heading_level": 2,
+      "full_text": "The new platform is designed for ease of use, including during peak filing periods. While institutions and pension plans will need to learn how to use the new platform, they can continue to use legacy file format to file returns. We are taking a phased approach to onboard the industry between fall 2026 to spring 2028 (see Figure 1):\n  - step 1 (fall 2026 system is live): establish credentials, validate corporate profile, and file corporate data (all sectors)\n  - steps 2 to 4: begin filing regulatory returns starting with banks, followed by insurers then pension plans\nAhead of each step, we will communicate and train. The step 1 training schedule will be available by late spring 2026.\n[Image: Figure 1: A Phased Approach to Transition to the New Platform (provisional timeline)] (https://www.osfi-bsif.gc.ca/sites/default/files/images/dcm-mcd-fig1-2025-12-en.jpg)\n[Image: Figure 1. Phased Approach to Transition to the New Platform. Text version below.] (https://www.osfi-bsif.gc.ca/sites/default/files/images/dcm-mcd-fig1-2025-12-en.jpg)",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "The new platform is designed for ease of use, including during peak filing periods. While institutions and pension plans will need to learn how to use the new platform, they can continue to use legacy file format to file returns. We are taking a phased approach to onboard the industry between fall 2026 to spring 2028 (see Figure 1):"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "step 1 (fall 2026 system is live): establish credentials, validate corporate profile, and file corporate data (all sectors)",
+            "steps 2 to 4: begin filing regulatory returns starting with banks, followed by insurers then pension plans"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Ahead of each step, we will communicate and train. The step 1 training schedule will be available by late spring 2026."
+        },
+        {
+          "type": "image",
+          "src": "https://www.osfi-bsif.gc.ca/sites/default/files/images/dcm-mcd-fig1-2025-12-en.jpg",
+          "alt": "Figure 1. Phased Approach to Transition to the New Platform. Text version below.",
+          "caption": "Figure 1: A Phased Approach to Transition to the New Platform (provisional timeline)"
+        },
+        {
+          "type": "image",
+          "src": "https://www.osfi-bsif.gc.ca/sites/default/files/images/dcm-mcd-fig1-2025-12-en.jpg",
+          "alt": "Figure 1. Phased Approach to Transition to the New Platform. Text version below.",
+          "caption": "Figure 1. Phased Approach to Transition to the New Platform. Text version below."
+        }
+      ]
+    },
+    {
+      "heading": "Data",
+      "heading_level": 2,
+      "full_text": "We are taking a thoughtful, balanced, and collaborative approach to advance data priorities. In collaboration with the industry, we can drive fit-for-purpose datasets, higher data quality, and enhance processes.\nWe previously identified three strategic priorities to:\n  1. transition securities holdings to structured data collection return\n  2. transition real estate secured lending to structured data collection return\n  3. refine the collection and quality of non-retail credit risk data\nOnce these strategic initiatives are implemented, we will identify future areas to streamline data requests.\nIn 2026, we will launch the Data Forum and share a roadmap, outlining timelines for industry engagements on strategic data initiatives, and refining potential existing returns.\nVisit the DCM webpage or email Shaheena Mukhi (email: dcm-mcd@osfi-bsif.gc.ca ) to stay connected.\nWishing you a healthy and safe holiday season!\nWe look forward to collaborating with you and your teams.\nRegards,\nAndrew Miller, Chief Data Officer",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "We are taking a thoughtful, balanced, and collaborative approach to advance data priorities. In collaboration with the industry, we can drive fit-for-purpose datasets, higher data quality, and enhance processes."
+        },
+        {
+          "type": "paragraph",
+          "text": "We previously identified three strategic priorities to:"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "transition securities holdings to structured data collection return",
+            "transition real estate secured lending to structured data collection return",
+            "refine the collection and quality of non-retail credit risk data"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Once these strategic initiatives are implemented, we will identify future areas to streamline data requests."
+        },
+        {
+          "type": "paragraph",
+          "text": "In 2026, we will launch the Data Forum and share a roadmap, outlining timelines for industry engagements on strategic data initiatives, and refining potential existing returns."
+        },
+        {
+          "type": "paragraph",
+          "text": "Visit the DCM webpage or email Shaheena Mukhi (email: dcm-mcd@osfi-bsif.gc.ca ) to stay connected."
+        },
+        {
+          "type": "paragraph",
+          "text": "Wishing you a healthy and safe holiday season!"
+        },
+        {
+          "type": "paragraph",
+          "text": "We look forward to collaborating with you and your teams."
+        },
+        {
+          "type": "paragraph",
+          "text": "Regards,"
+        },
+        {
+          "type": "paragraph",
+          "text": "Andrew Miller, Chief Data Officer"
+        }
+      ]
+    }
+  ],
+  "title_normalized": "data collection modernization initiative get ready for implementation",
+  "publication_type_normalized": "letter",
+  "category_normalized": "supervisory_advisories",
+  "sector_normalized": [
+    "bank_holding_companies",
+    "banks",
+    "foreign_bank_branches",
+    "foreign_insurance_branches",
+    "life_insurance",
+    "pc_insurance",
+    "trust_and_loan_companies"
+  ],
+  "guideline_number_normalized": "",
+  "applies_to_banks": true,
+  "applies_to_trust_loan": true,
+  "applies_to_life_insurance": true,
+  "applies_to_pc_insurance": true,
+  "applies_to_foreign_bank": true,
+  "applies_to_foreign_insurance": true,
+  "applies_to_cooperative": false,
+  "applies_to_bank_holding": true,
+  "effective_date_sort_key": "2025-12-16",
+  "status_sort_key": 1,
+  "authority_sort_key": 60,
+  "bm25_text": "Data Collection Modernization Initiative: Get Ready for Implementation Letter Supervisory Advisories Bank Holding Companies Banks Foreign Bank Branches Foreign Insurance Branches Life Insurance and Fraternal Companies Property and Casualty Companies Trust and Loan Companies Industry engagement to get ready Technology transition Data",
+  "vector_text_prefix": "[OSFI Letter  | Supervisory Advisories | Bank Holding Companies / Banks / Foreign Bank Branches | FINAL_CURRENT | Effective 2025-12-16]",
+  "h1_title": "Data Collection Modernization Initiative: Get Ready for Implementation",
+  "regulator": "OSFI",
+  "regulator_acronym": "OSFI",
+  "jurisdiction": "Canada",
+  "short_title": "",
+  "source_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/data-collection-modernization-initiative-get-ready-implementation"
+}

@@ -1,0 +1,671 @@
+{
+  "source_system": "osfi_guidance_library",
+  "library_row_title": "Stress Testing – Guideline (2009)",
+  "library_row_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/stress-testing-guideline-2009",
+  "listing_date_raw": "December 31, 2009",
+  "listing_date_iso": "2009-12-31",
+  "listing_publication_type": "Guideline",
+  "listing_category": "Sound Business and Financial Practices",
+  "listing_sector": [
+    "Banks",
+    "Life Insurance and Fraternal Companies",
+    "Property and Casualty Companies",
+    "Trust and Loan Companies"
+  ],
+  "crawl_timestamp": "2026-03-11T00:00:00Z",
+  "detail_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/stress-testing-guideline-2009",
+  "canonical_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/stress-testing-guideline-2009",
+  "slug": "stress-testing-guideline-2009",
+  "title": "Stress Testing – Guideline (2009)",
+  "publication_type": "Guideline",
+  "category": "Sound Business and Financial Practices",
+  "document_date_raw": "December 31, 2009",
+  "document_date_iso": "2009-12-31",
+  "sector": [
+    "Banks",
+    "Life Insurance and Fraternal Companies",
+    "Property and Casualty Companies",
+    "Trust and Loan Companies"
+  ],
+  "effective_date_text": "",
+  "guideline_number": "",
+  "date_modified_raw": "2009-12-31T12:00:00Z",
+  "generate_pdf_url": "https://www.osfi-bsif.gc.ca/en/print/pdf/node/607",
+  "pdf_node_id": 607,
+  "direct_pdf_url": null,
+  "has_table_of_contents": true,
+  "toc_entries": [],
+  "has_related_documents": false,
+  "related_document_links_raw": [],
+  "consultation_status_text": null,
+  "consultation_status_refers_to_version": null,
+  "page_language": "en",
+  "word_count_raw_body": 3952,
+  "doc_id": "osfi.stress-testing-guideline.2009.package",
+  "doc_family_id": "osfi.stress-testing-guideline",
+  "version_id": "2009",
+  "version_label": "Stress Testing – Guideline (2009)",
+  "version_sort_key": "2009-12",
+  "parent_doc_id": null,
+  "child_doc_ids": [],
+  "is_package_page": true,
+  "is_chapter_page": false,
+  "chapter_number": null,
+  "chapter_title": null,
+  "document_order_within_family": 0,
+  "supersedes_doc_id": null,
+  "superseded_by_doc_id": null,
+  "current_version_flag": true,
+  "status": "final_current",
+  "include_in_primary_corpus": true,
+  "include_in_support_corpus": false,
+  "include_in_context_corpus": false,
+  "effective_date_start": "2009-12-31",
+  "effective_date_end": null,
+  "effective_date_fye_split": false,
+  "effective_date_oct_fye": null,
+  "effective_date_dec_fye": null,
+  "is_future_effective": false,
+  "is_rescinded": false,
+  "is_draft_or_consultation": false,
+  "rescission_date": null,
+  "consultation_closing_date": null,
+  "as_of_applicability": "2026-03-23",
+  "rule_applied": "rule_5_final_current",
+  "authority_class": "primary_normative",
+  "authority_level": 100,
+  "nova_tier": 1,
+  "prudential_weight": 1.0,
+  "is_primary_normative": true,
+  "is_supporting_interpretive": false,
+  "is_context_only": false,
+  "document_class": "package_guideline",
+  "guidance_type_normalized": "guideline",
+  "section_headings": [
+    {
+      "level": 2,
+      "text": "A. Stress Testing Defined",
+      "id": "h2-0"
+    },
+    {
+      "level": 2,
+      "text": "B. Purposes of Stress Testing",
+      "id": "h2-1"
+    },
+    {
+      "level": 2,
+      "text": "C. Role of Senior Management",
+      "id": "h2-2"
+    },
+    {
+      "level": 2,
+      "text": "D. General Considerations for Stress Testing Programs",
+      "id": "h2-3"
+    },
+    {
+      "level": 2,
+      "text": "E. Methodology and Scenario Selection",
+      "id": "h2-4"
+    },
+    {
+      "level": 2,
+      "text": "F. Specific Areas of Focus",
+      "id": "h2-5"
+    },
+    {
+      "level": 3,
+      "text": "Risk Mitigation",
+      "id": "h3-6"
+    },
+    {
+      "level": 3,
+      "text": "Securitization and Warehousing Risks",
+      "id": "h3-7"
+    },
+    {
+      "level": 3,
+      "text": "Risks to Reputation",
+      "id": "h3-8"
+    },
+    {
+      "level": 3,
+      "text": "Counterparty Credit risk",
+      "id": "h3-9"
+    },
+    {
+      "level": 3,
+      "text": "Risk Concentrations",
+      "id": "h3-10"
+    },
+    {
+      "level": 2,
+      "text": "G. Supervisory Considerations",
+      "id": "h2-11"
+    },
+    {
+      "level": 3,
+      "text": "Scenario testing",
+      "id": "h3-12"
+    },
+    {
+      "level": 3,
+      "text": "Sensitivity testing",
+      "id": "h3-13"
+    },
+    {
+      "level": 2,
+      "text": "Footnotes",
+      "id": "h2-14"
+    }
+  ],
+  "heading_path": [
+    "Stress Testing – Guideline (2009)"
+  ],
+  "toc_depth": 3,
+  "has_appendices": false,
+  "appendix_ids": [],
+  "has_tables": false,
+  "table_count": 0,
+  "has_footnotes": true,
+  "footnote_count": 1,
+  "inline_cross_references": [],
+  "quoted_external_references": [
+    "Basel Committee on Banking Supervision (September 2008)"
+  ],
+  "raw_html_sha256": "b6a2ffb6c60ef74da059ef41209866f9b6e5ae562a1d40e9d5b89906b755a03d",
+  "raw_pdf_sha256": null,
+  "normalized_text_sha256": null,
+  "raw_html_path": "bronze/osfi/html/final_current/stress-testing-guideline-2009.html",
+  "normalized_md_path": "silver/osfi/md/final_current/stress-testing-guideline-2009.md",
+  "canonical_json_path": "silver/osfi/json/final_current/stress-testing-guideline-2009.json",
+  "content_source": "HTML",
+  "parser_version": "osfi-parser-v2.1.0",
+  "normalizer_version": "osfi-normalizer-v1.4.0",
+  "quality_score": 1.0,
+  "quality_flags": [],
+  "download_timestamp": "2026-03-11T00:00:00Z",
+  "enriched_timestamp": "2026-03-23T09:54:00.313400Z",
+  "sections": [
+    {
+      "heading": "",
+      "heading_level": 2,
+      "full_text": "  - Stress Testing – Guideline Impact Statement (2009)\n  - Stress Testing – Letter (2009)\nStress testing is an important tool for senior management to use in making business strategy, risk management and capital management decisions. This guideline sets out OSFI's expectations with respect to stress testing and applies to banks and bank holding companies, and to all federally regulated trust and loan companies, cooperative credit associations, life insurance companies and fraternal benefit societies, property and casualty insurance companies and insurance holding companies (collectively referred to as \"institutions\").",
+      "content": [
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Stress Testing – Guideline Impact Statement (2009)",
+            "Stress Testing – Letter (2009)"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Stress testing is an important tool for senior management to use in making business strategy, risk management and capital management decisions. This guideline sets out OSFI's expectations with respect to stress testing and applies to banks and bank holding companies, and to all federally regulated trust and loan companies, cooperative credit associations, life insurance companies and fraternal benefit societies, property and casualty insurance companies and insurance holding companies (collectively referred to as \"institutions\")."
+        }
+      ]
+    },
+    {
+      "heading": "A. Stress Testing Defined",
+      "heading_level": 2,
+      "full_text": "Stress testing is a risk management technique used to evaluate the potential effects on an institution's financial condition, of a set of specified changes in risk factors, corresponding to exceptional but plausible events Footnote 1 . Stress testing includes scenario testing and sensitivity testing (refer to Glossary).\nStress testing is especially important after long periods of benign economic and financial conditions, when fading memory of negative conditions can lead to complacency and the underpricing of risk. It is also a key risk management tool during periods of expansion, when innovation leads to new products that grow rapidly and for which limited or no historical experience is available.\nStress testing attempts to determine the impact of situations where the assumptions underlying established models used in managing a business break down. This applies equally to valuation models, models of individual risks and models that aggregate individual risks.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Stress testing is a risk management technique used to evaluate the potential effects on an institution's financial condition, of a set of specified changes in risk factors, corresponding to exceptional but plausible events Footnote 1 . Stress testing includes scenario testing and sensitivity testing (refer to Glossary)."
+        },
+        {
+          "type": "paragraph",
+          "text": "Stress testing is especially important after long periods of benign economic and financial conditions, when fading memory of negative conditions can lead to complacency and the underpricing of risk. It is also a key risk management tool during periods of expansion, when innovation leads to new products that grow rapidly and for which limited or no historical experience is available."
+        },
+        {
+          "type": "paragraph",
+          "text": "Stress testing attempts to determine the impact of situations where the assumptions underlying established models used in managing a business break down. This applies equally to valuation models, models of individual risks and models that aggregate individual risks."
+        }
+      ]
+    },
+    {
+      "heading": "B. Purposes of Stress Testing",
+      "heading_level": 2,
+      "full_text": "Stress testing should be embedded in enterprise wide risk management. A stress testing program as a whole should be actionable, playing an important role in facilitating the development of risk mitigation or contingency plans across a range of stressed conditions. It should feed into the institution's decision making process, including setting the institution's risk appetite, setting exposure limits, and evaluating strategic choices in longer term business planning.\nAn institution's stress testing program should serve the following purposes:\n  1. Risk identification and control – Stress testing should be included in an institution's risk management activities at various levels, for example, ranging from risk mitigation policies at a detailed or portfolio level to adjusting the institution's business strategy. In particular, it should be used to address institution-wide risks, and consider the concentrations and interactions between risks in stress environments that might otherwise be overlooked.\n  2. Providing a complementary risk perspective to other risk management tools – Stress tests should complement risk quantification methodologies that are based on complex, quantitative models using backward looking data and estimated statistical relationships. In particular, stress testing outcomes for a particular portfolio can provide insights about the validity of statistical models at high confidence intervals, for example those used to determine VaR. As stress testing allows for the simulation of shocks which have not previously occurred, it should be used to assess the robustness of models to possible changes in the economic and financial environment. Stress tests should help to detect vulnerabilities such as unidentified risk concentrations or potential interactions between types of risk that could threaten the viability of the institution, but may be concealed when relying purely on statistical risk management tools based on historical data. Stress testing can also be used to assess the impacts of customer behaviour arising from options embedded in certain products – particularly where the impact is not easily modelled under extreme events.\n  3. Supporting capital management – Stress testing should form an integral part of institutions' internal capital management where rigorous, forward-looking stress testing can identify severe events, including a series of compounding events, or changes in market conditions that could adversely impact the institution.\n  4. Improving liquidity management – Stress testing should be a central tool in identifying, measuring and controlling funding liquidity risks, in particular for assessing the institution's liquidity profile and the adequacy of liquidity buffers in case of both institution-specific and market-wide stress events.\nRisk identification and control – Stress testing should be included in an institution's risk management activities at various levels, for example, ranging from risk mitigation policies at a detailed or portfolio level to adjusting the institution's business strategy. In particular, it should be used to address institution-wide risks, and consider the concentrations and interactions between risks in stress environments that might otherwise be overlooked.\nProviding a complementary risk perspective to other risk management tools – Stress tests should complement risk quantification methodologies that are based on complex, quantitative models using backward looking data and estimated statistical relationships. In particular, stress testing outcomes for a particular portfolio can provide insights about the validity of statistical models at high confidence intervals, for example those used to determine VaR.\nAs stress testing allows for the simulation of shocks which have not previously occurred, it should be used to assess the robustness of models to possible changes in the economic and financial environment. Stress tests should help to detect vulnerabilities such as unidentified risk concentrations or potential interactions between types of risk that could threaten the viability of the institution, but may be concealed when relying purely on statistical risk management tools based on historical data.\nStress testing can also be used to assess the impacts of customer behaviour arising from options embedded in certain products – particularly where the impact is not easily modelled under extreme events.\nSupporting capital management – Stress testing should form an integral part of institutions' internal capital management where rigorous, forward-looking stress testing can identify severe events, including a series of compounding events, or changes in market conditions that could adversely impact the institution.\nImproving liquidity management – Stress testing should be a central tool in identifying, measuring and controlling funding liquidity risks, in particular for assessing the institution's liquidity profile and the adequacy of liquidity buffers in case of both institution-specific and market-wide stress events.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Stress testing should be embedded in enterprise wide risk management. A stress testing program as a whole should be actionable, playing an important role in facilitating the development of risk mitigation or contingency plans across a range of stressed conditions. It should feed into the institution's decision making process, including setting the institution's risk appetite, setting exposure limits, and evaluating strategic choices in longer term business planning."
+        },
+        {
+          "type": "paragraph",
+          "text": "An institution's stress testing program should serve the following purposes:"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "Risk identification and control – Stress testing should be included in an institution's risk management activities at various levels, for example, ranging from risk mitigation policies at a detailed or portfolio level to adjusting the institution's business strategy. In particular, it should be used to address institution-wide risks, and consider the concentrations and interactions between risks in stress environments that might otherwise be overlooked.",
+            "Providing a complementary risk perspective to other risk management tools – Stress tests should complement risk quantification methodologies that are based on complex, quantitative models using backward looking data and estimated statistical relationships. In particular, stress testing outcomes for a particular portfolio can provide insights about the validity of statistical models at high confidence intervals, for example those used to determine VaR. As stress testing allows for the simulation of shocks which have not previously occurred, it should be used to assess the robustness of models to possible changes in the economic and financial environment. Stress tests should help to detect vulnerabilities such as unidentified risk concentrations or potential interactions between types of risk that could threaten the viability of the institution, but may be concealed when relying purely on statistical risk management tools based on historical data. Stress testing can also be used to assess the impacts of customer behaviour arising from options embedded in certain products – particularly where the impact is not easily modelled under extreme events.",
+            "Supporting capital management – Stress testing should form an integral part of institutions' internal capital management where rigorous, forward-looking stress testing can identify severe events, including a series of compounding events, or changes in market conditions that could adversely impact the institution.",
+            "Improving liquidity management – Stress testing should be a central tool in identifying, measuring and controlling funding liquidity risks, in particular for assessing the institution's liquidity profile and the adequacy of liquidity buffers in case of both institution-specific and market-wide stress events."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Risk identification and control – Stress testing should be included in an institution's risk management activities at various levels, for example, ranging from risk mitigation policies at a detailed or portfolio level to adjusting the institution's business strategy. In particular, it should be used to address institution-wide risks, and consider the concentrations and interactions between risks in stress environments that might otherwise be overlooked."
+        },
+        {
+          "type": "paragraph",
+          "text": "Providing a complementary risk perspective to other risk management tools – Stress tests should complement risk quantification methodologies that are based on complex, quantitative models using backward looking data and estimated statistical relationships. In particular, stress testing outcomes for a particular portfolio can provide insights about the validity of statistical models at high confidence intervals, for example those used to determine VaR."
+        },
+        {
+          "type": "paragraph",
+          "text": "As stress testing allows for the simulation of shocks which have not previously occurred, it should be used to assess the robustness of models to possible changes in the economic and financial environment. Stress tests should help to detect vulnerabilities such as unidentified risk concentrations or potential interactions between types of risk that could threaten the viability of the institution, but may be concealed when relying purely on statistical risk management tools based on historical data."
+        },
+        {
+          "type": "paragraph",
+          "text": "Stress testing can also be used to assess the impacts of customer behaviour arising from options embedded in certain products – particularly where the impact is not easily modelled under extreme events."
+        },
+        {
+          "type": "paragraph",
+          "text": "Supporting capital management – Stress testing should form an integral part of institutions' internal capital management where rigorous, forward-looking stress testing can identify severe events, including a series of compounding events, or changes in market conditions that could adversely impact the institution."
+        },
+        {
+          "type": "paragraph",
+          "text": "Improving liquidity management – Stress testing should be a central tool in identifying, measuring and controlling funding liquidity risks, in particular for assessing the institution's liquidity profile and the adequacy of liquidity buffers in case of both institution-specific and market-wide stress events."
+        }
+      ]
+    },
+    {
+      "heading": "C. Role of Senior Management",
+      "heading_level": 2,
+      "full_text": "Senior management (including, in the case of foreign insurance or bank branches, branch management) involvement in the stress testing program is essential for its effective operation. Senior management is accountable for the program's implementation, management and oversight and for ensuring that the institution has adequate plans to deal with remote but plausible stress scenarios.\nSenior management must ensure there is a \"fit for purpose\" program in place that is enterprise wide and that operational management has adopted policies requiring appropriate use of stress testing as a management tool.\nSenior management should be able to identify and clearly articulate the institution's risk appetite and understand the impact of stress events on the risk profile of the institution. Senior management must participate in the review and identification of potential stress scenarios, as well as contribute to the development and implementation of risk mitigation strategies. In addition, senior management should consider an appropriate number of well-understood, documented, utilised and sufficiently severe scenarios that are relevant to their institution.\nSenior management's endorsement of stress testing as a guide in decision-making is particularly valuable when the tests reveal vulnerabilities that the institution finds costly to address or difficult to resolve in a timely, appropriate and realistic manner.\nPlease refer to OSFI's Corporate Governance Guideline for OSFI's expectations of institution Boards of Directors in regards to operational, business, risk and crisis management policies.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Senior management (including, in the case of foreign insurance or bank branches, branch management) involvement in the stress testing program is essential for its effective operation. Senior management is accountable for the program's implementation, management and oversight and for ensuring that the institution has adequate plans to deal with remote but plausible stress scenarios."
+        },
+        {
+          "type": "paragraph",
+          "text": "Senior management must ensure there is a \"fit for purpose\" program in place that is enterprise wide and that operational management has adopted policies requiring appropriate use of stress testing as a management tool."
+        },
+        {
+          "type": "paragraph",
+          "text": "Senior management should be able to identify and clearly articulate the institution's risk appetite and understand the impact of stress events on the risk profile of the institution. Senior management must participate in the review and identification of potential stress scenarios, as well as contribute to the development and implementation of risk mitigation strategies. In addition, senior management should consider an appropriate number of well-understood, documented, utilised and sufficiently severe scenarios that are relevant to their institution."
+        },
+        {
+          "type": "paragraph",
+          "text": "Senior management's endorsement of stress testing as a guide in decision-making is particularly valuable when the tests reveal vulnerabilities that the institution finds costly to address or difficult to resolve in a timely, appropriate and realistic manner."
+        },
+        {
+          "type": "paragraph",
+          "text": "Please refer to OSFI's Corporate Governance Guideline for OSFI's expectations of institution Boards of Directors in regards to operational, business, risk and crisis management policies."
+        }
+      ]
+    },
+    {
+      "heading": "D. General Considerations for Stress Testing Programs",
+      "heading_level": 2,
+      "full_text": "The identification of relevant stress events, the application of sound modelling approaches and the appropriate use of stress testing results each require the collaboration of different senior experts such as risk controllers, economists, business managers, traders and actuaries. Institutions should also use a range of techniques in order to achieve comprehensive coverage in their stress testing program, including quantitative and qualitative techniques to support and complement models and to extend stress testing to areas where effective risk management requires greater use of judgement.\nThe assumptions and fundamental elements for each stress testing exercise should be appropriately documented, including the reasoning and judgements underlying the scenarios chosen and the sensitivity of stress testing results to the range and severity of the scenarios. The level of documentation should be based on the nature and purposes of the stress testing. For example, documentation of ad hoc sensitivity tests for tactical decisions may be less elaborate than the documentation of enterprise-wide stress tests used for strategic decision making. An evaluation of fundamental assumptions should be performed regularly or in light of changing external conditions. The results of the assessments should also be documented.\nThe infrastructure should be able to aggregate comparable risks and exposures across the institution. It should allow for reporting to senior management in a timely manner throughout the fiscal year. The infrastructure and information systems should be sufficiently flexible to accommodate a timely increase in the frequency of ad hoc sensitivity testing to support senior management's response to rapid changes in the operating environment and also for purposes of responding to the concerns of external stakeholders and regulators.\nAn institution's stress testing infrastructure and information systems should be commensurate with the nature and complexity of the institution and its risk profile. For example, greater risk factor volatility and shorter time horizons for management actions require infrastructure and information systems that accommodate more frequent stress testing in those areas.\nAssessments of effectiveness should be qualitative as well as quantitative, given the importance of judgments and the severity of shocks considered. Areas for assessment should include effectiveness of the program in meeting its intended purposes, documentation, development work, system implementation, management oversight, data quality and hypotheses and assumptions used.\nSince the stress test development and maintenance processes often imply judgmental and expert decisions (e.g. assumptions to be tested, calibration of the stress, etc.), the independent control functions such as risk management and internal audit should also play a key role in the process. In particular there should be an independent review (e.g., by internal audit) of the adequacy of the design and effectiveness of the operations of an institution's stress testing programs.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "The identification of relevant stress events, the application of sound modelling approaches and the appropriate use of stress testing results each require the collaboration of different senior experts such as risk controllers, economists, business managers, traders and actuaries. Institutions should also use a range of techniques in order to achieve comprehensive coverage in their stress testing program, including quantitative and qualitative techniques to support and complement models and to extend stress testing to areas where effective risk management requires greater use of judgement."
+        },
+        {
+          "type": "paragraph",
+          "text": "The assumptions and fundamental elements for each stress testing exercise should be appropriately documented, including the reasoning and judgements underlying the scenarios chosen and the sensitivity of stress testing results to the range and severity of the scenarios. The level of documentation should be based on the nature and purposes of the stress testing. For example, documentation of ad hoc sensitivity tests for tactical decisions may be less elaborate than the documentation of enterprise-wide stress tests used for strategic decision making. An evaluation of fundamental assumptions should be performed regularly or in light of changing external conditions. The results of the assessments should also be documented."
+        },
+        {
+          "type": "paragraph",
+          "text": "The infrastructure should be able to aggregate comparable risks and exposures across the institution. It should allow for reporting to senior management in a timely manner throughout the fiscal year. The infrastructure and information systems should be sufficiently flexible to accommodate a timely increase in the frequency of ad hoc sensitivity testing to support senior management's response to rapid changes in the operating environment and also for purposes of responding to the concerns of external stakeholders and regulators."
+        },
+        {
+          "type": "paragraph",
+          "text": "An institution's stress testing infrastructure and information systems should be commensurate with the nature and complexity of the institution and its risk profile. For example, greater risk factor volatility and shorter time horizons for management actions require infrastructure and information systems that accommodate more frequent stress testing in those areas."
+        },
+        {
+          "type": "paragraph",
+          "text": "Assessments of effectiveness should be qualitative as well as quantitative, given the importance of judgments and the severity of shocks considered. Areas for assessment should include effectiveness of the program in meeting its intended purposes, documentation, development work, system implementation, management oversight, data quality and hypotheses and assumptions used."
+        },
+        {
+          "type": "paragraph",
+          "text": "Since the stress test development and maintenance processes often imply judgmental and expert decisions (e.g. assumptions to be tested, calibration of the stress, etc.), the independent control functions such as risk management and internal audit should also play a key role in the process. In particular there should be an independent review (e.g., by internal audit) of the adequacy of the design and effectiveness of the operations of an institution's stress testing programs."
+        }
+      ]
+    },
+    {
+      "heading": "E. Methodology and Scenario Selection",
+      "heading_level": 2,
+      "full_text": "A stress testing program should consistently and comprehensively cover product-, business- and entity-specific views. Using a level of granularity appropriate to the purpose of the stress test, stress testing programs should examine the effect of shocks across all relevant risk factors, taking into account interrelations among them.\nComprehensive stress testing programs should consider the institution's most material and significant risks. Where relevant and material, such risks may include:\n  - credit risk, including counterparty and reinsurance risk\n  - market risk, e.g., general market specific cash flow mismatch interest rate foreign exchange commodity\n  - insurance risk, e.g., mortality morbidity claim frequency and severity persistency and lapse risk\n  - liquidity risk\n  - operational and legal risk\n  - concentration risk\n  - contagion risk\n  - risk to reputation\n  - securitization risk\n  - new business risk\n  - regulatory risk\n  - inflation risk\n  - general market\n  - specific\n  - cash flow mismatch\n  - interest rate\n  - foreign exchange\n  - commodity\n  - mortality\n  - morbidity\n  - claim frequency and severity\n  - persistency and lapse risk\nThe impact of stress tests is usually evaluated using one or more measures. The particular measures used will depend on the specific purpose of the stress test, the risks and portfolios being analysed and the particular issue under examination. A range of measures may need to be considered to convey an adequate impression of the impact. Typical measures used are:\n  - asset and liability values\n  - level of impaired assets and write-offs\n  - accounting profit and loss\n  - economic profit and loss\n  - required and available regulatory capital\n  - economic capital\n  - liquidity and funding gaps\nStress tests should be conducted flexibly and imaginatively, in order to improve the likelihood of identifying hidden vulnerabilities. A \"failure of imagination\" could lead to an underestimation of the likelihood and severity of extreme events and to a false sense of security about an institution's resilience.\nThe institution should assess the impact of severe shocks and periods of severe and sustained downturns, including its ability to react over the time horizon appropriate for the business and risks being tested.\nInstitutions should use stress tests to identify, monitor and control risk concentrations. To adequately address risk concentrations, the scenario should to be firm-wide and comprehensive, covering balance sheet and off-balance sheet assets, contingent and non-contingent risks, and should give due consideration to actions beyond contractual obligations that might be undertaken to preserve reputation. Further, stress tests should identify and respond to potential changes in market conditions that could adversely impact an institution's exposure to risk concentrations.\nStress tests should be geared towards events and business areas that might be particularly damaging for the institution. Areas which benefit in particular from the use of stress testing are business lines where traditional risk management models indicate an exceptionally good risk/return trade-off; new products and new markets which have not experienced severe strains; and exposures where there are no liquid two way markets.\nInstitutions should conduct reverse stress tests. A reverse stress test starts with a specified outcome that challenges the viability of the firm. One example of such an outcome would be that over a short time period, the firm incurs a very large loss that challenges its viability. The analysis would then work backward (reverse engineered) to identify a scenario or combination of scenarios that could bring about such a specified outcome. The reverse stress test induces institutions to consider scenarios beyond normal business settings that would include events with contagion and systemic implications.\nAs part of an overall stress testing program, a deposit-taking institution should aim to take account of simultaneous pressures in funding and asset markets, and the impact of a reduction in market liquidity on asset valuation. Funding and asset markets may be strongly interrelated, particularly during periods of stress. An institution should enhance its stress testing practices by considering important interrelations between various factors, including price shocks for specific asset categories; the drying-up of corresponding asset liquidity; the possibility of significant losses damaging the institution's financial strength; growth of liquidity needs as a consequence of liquidity commitments; taking on board affected assets; and diminished access to secured or unsecured funding markets Footnote 2 .\nAs part of an overall stress testing program at an insurance company, specific consideration should be given to important interrelations between various risk factors. For a life insurer, changes in economic conditions can significantly affect policyholder behaviour such as lapse rates, utilization of options within an insurance contract, and morbidity and recovery rates. For a property and casualty insurer, changing economic conditions will not only influence investment income and company expenses, but can also, particularly in times of inflation, lead to higher claims and loss reserves. The interrelations of various factors will depend upon the insurer's products, its investment policy and its approach to managing its business. A critical goal for insurers is to identify situations in which the assumed normal pattern of interrelationships breaks down due to a change in the business environment.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "A stress testing program should consistently and comprehensively cover product-, business- and entity-specific views. Using a level of granularity appropriate to the purpose of the stress test, stress testing programs should examine the effect of shocks across all relevant risk factors, taking into account interrelations among them."
+        },
+        {
+          "type": "paragraph",
+          "text": "Comprehensive stress testing programs should consider the institution's most material and significant risks. Where relevant and material, such risks may include:"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "credit risk, including counterparty and reinsurance risk",
+            "market risk, e.g., general market specific cash flow mismatch interest rate foreign exchange commodity",
+            "insurance risk, e.g., mortality morbidity claim frequency and severity persistency and lapse risk",
+            "liquidity risk",
+            "operational and legal risk",
+            "concentration risk",
+            "contagion risk",
+            "risk to reputation",
+            "securitization risk",
+            "new business risk",
+            "regulatory risk",
+            "inflation risk"
+          ]
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "general market",
+            "specific",
+            "cash flow mismatch",
+            "interest rate",
+            "foreign exchange",
+            "commodity"
+          ]
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "mortality",
+            "morbidity",
+            "claim frequency and severity",
+            "persistency and lapse risk"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "The impact of stress tests is usually evaluated using one or more measures. The particular measures used will depend on the specific purpose of the stress test, the risks and portfolios being analysed and the particular issue under examination. A range of measures may need to be considered to convey an adequate impression of the impact. Typical measures used are:"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "asset and liability values",
+            "level of impaired assets and write-offs",
+            "accounting profit and loss",
+            "economic profit and loss",
+            "required and available regulatory capital",
+            "economic capital",
+            "liquidity and funding gaps"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Stress tests should be conducted flexibly and imaginatively, in order to improve the likelihood of identifying hidden vulnerabilities. A \"failure of imagination\" could lead to an underestimation of the likelihood and severity of extreme events and to a false sense of security about an institution's resilience."
+        },
+        {
+          "type": "paragraph",
+          "text": "The institution should assess the impact of severe shocks and periods of severe and sustained downturns, including its ability to react over the time horizon appropriate for the business and risks being tested."
+        },
+        {
+          "type": "paragraph",
+          "text": "Institutions should use stress tests to identify, monitor and control risk concentrations. To adequately address risk concentrations, the scenario should to be firm-wide and comprehensive, covering balance sheet and off-balance sheet assets, contingent and non-contingent risks, and should give due consideration to actions beyond contractual obligations that might be undertaken to preserve reputation. Further, stress tests should identify and respond to potential changes in market conditions that could adversely impact an institution's exposure to risk concentrations."
+        },
+        {
+          "type": "paragraph",
+          "text": "Stress tests should be geared towards events and business areas that might be particularly damaging for the institution. Areas which benefit in particular from the use of stress testing are business lines where traditional risk management models indicate an exceptionally good risk/return trade-off; new products and new markets which have not experienced severe strains; and exposures where there are no liquid two way markets."
+        },
+        {
+          "type": "paragraph",
+          "text": "Institutions should conduct reverse stress tests. A reverse stress test starts with a specified outcome that challenges the viability of the firm. One example of such an outcome would be that over a short time period, the firm incurs a very large loss that challenges its viability. The analysis would then work backward (reverse engineered) to identify a scenario or combination of scenarios that could bring about such a specified outcome. The reverse stress test induces institutions to consider scenarios beyond normal business settings that would include events with contagion and systemic implications."
+        },
+        {
+          "type": "paragraph",
+          "text": "As part of an overall stress testing program, a deposit-taking institution should aim to take account of simultaneous pressures in funding and asset markets, and the impact of a reduction in market liquidity on asset valuation. Funding and asset markets may be strongly interrelated, particularly during periods of stress. An institution should enhance its stress testing practices by considering important interrelations between various factors, including price shocks for specific asset categories; the drying-up of corresponding asset liquidity; the possibility of significant losses damaging the institution's financial strength; growth of liquidity needs as a consequence of liquidity commitments; taking on board affected assets; and diminished access to secured or unsecured funding markets Footnote 2 ."
+        },
+        {
+          "type": "paragraph",
+          "text": "As part of an overall stress testing program at an insurance company, specific consideration should be given to important interrelations between various risk factors. For a life insurer, changes in economic conditions can significantly affect policyholder behaviour such as lapse rates, utilization of options within an insurance contract, and morbidity and recovery rates. For a property and casualty insurer, changing economic conditions will not only influence investment income and company expenses, but can also, particularly in times of inflation, lead to higher claims and loss reserves. The interrelations of various factors will depend upon the insurer's products, its investment policy and its approach to managing its business. A critical goal for insurers is to identify situations in which the assumed normal pattern of interrelationships breaks down due to a change in the business environment."
+        }
+      ]
+    },
+    {
+      "heading": "F. Specific Areas of Focus",
+      "heading_level": 2,
+      "full_text": "The following risks have proven to require specific attention in light of experience of financial market turmoil:\n  - Risk Mitigation\n  - Securitization and Warehousing Risks\n  - Risks to Reputation\n  - Counterparty Credit Risk\n  - Risk Concentrations\nAs such, stress testing should be prominent among the risk assessment tools used where these specific risks are material.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "The following risks have proven to require specific attention in light of experience of financial market turmoil:"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Risk Mitigation",
+            "Securitization and Warehousing Risks",
+            "Risks to Reputation",
+            "Counterparty Credit Risk",
+            "Risk Concentrations"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "As such, stress testing should be prominent among the risk assessment tools used where these specific risks are material."
+        }
+      ]
+    },
+    {
+      "heading": "Risk Mitigation",
+      "heading_level": 3,
+      "full_text": "Stress testing should facilitate the development of risk mitigation or contingency plans across a range of stressed conditions. The performance of risk mitigating techniques, like reinsurance, hedging, netting and the use of collateral, should be challenged and assessed systematically under stressed conditions when markets may not be fully functioning and multiple institutions simultaneously could be pursuing similar risk mitigating strategies.\nStress testing should also reflect constraints on management action and should not place undue reliance on the timeliness of mitigating actions.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Stress testing should facilitate the development of risk mitigation or contingency plans across a range of stressed conditions. The performance of risk mitigating techniques, like reinsurance, hedging, netting and the use of collateral, should be challenged and assessed systematically under stressed conditions when markets may not be fully functioning and multiple institutions simultaneously could be pursuing similar risk mitigating strategies."
+        },
+        {
+          "type": "paragraph",
+          "text": "Stress testing should also reflect constraints on management action and should not place undue reliance on the timeliness of mitigating actions."
+        }
+      ]
+    },
+    {
+      "heading": "Securitization and Warehousing Risks",
+      "heading_level": 3,
+      "full_text": "The stress testing program should explicitly cover complex and customized products such as securitized exposures. Stress tests for securitized assets should consider the underlying assets, their exposure to systemic market factors, relevant contractual arrangements and embedded triggers, and the impact of leverage, particularly as it relates to the subordination level in the issue structure.\nThe stress testing program should cover pipeline and warehousing risks. These are market, credit and funding risks arising in the period prior to securitization or sale and which may arise from the need to hold assets for longer periods than originally planned when markets are disrupted. An institution should include such exposures in its stress tests regardless of their probability of being securitized. Many of the risks associated with pipeline and warehoused exposures emerge when an institution is unable to access the securitization or other markets due to either institution specific or market stresses.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "The stress testing program should explicitly cover complex and customized products such as securitized exposures. Stress tests for securitized assets should consider the underlying assets, their exposure to systemic market factors, relevant contractual arrangements and embedded triggers, and the impact of leverage, particularly as it relates to the subordination level in the issue structure."
+        },
+        {
+          "type": "paragraph",
+          "text": "The stress testing program should cover pipeline and warehousing risks. These are market, credit and funding risks arising in the period prior to securitization or sale and which may arise from the need to hold assets for longer periods than originally planned when markets are disrupted. An institution should include such exposures in its stress tests regardless of their probability of being securitized. Many of the risks associated with pipeline and warehoused exposures emerge when an institution is unable to access the securitization or other markets due to either institution specific or market stresses."
+        }
+      ]
+    },
+    {
+      "heading": "Risks to Reputation",
+      "heading_level": 3,
+      "full_text": "An institution should enhance its stress testing methodologies to capture the effect of risks to reputation. To mitigate reputational spill-over effects and maintain market confidence, an institution should have an approach to assess the impact of risks to reputation on other risk types.\nThe institution should integrate risks arising from off-balance sheet vehicles and other related entities in its stress testing program. An institution should carefully assess the risks associated with commitments to off-balance sheet vehicles related to structured credit securities and the possibility that assets will need to be taken on balance sheet for reputational reasons. Therefore, in its stress testing program, an institution should include scenarios assessing the size and soundness of such vehicles relative to its own financial, liquidity and regulatory capital positions. This analysis should include structural, solvency, liquidity and other risk issues, including the effects of covenants and triggers.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "An institution should enhance its stress testing methodologies to capture the effect of risks to reputation. To mitigate reputational spill-over effects and maintain market confidence, an institution should have an approach to assess the impact of risks to reputation on other risk types."
+        },
+        {
+          "type": "paragraph",
+          "text": "The institution should integrate risks arising from off-balance sheet vehicles and other related entities in its stress testing program. An institution should carefully assess the risks associated with commitments to off-balance sheet vehicles related to structured credit securities and the possibility that assets will need to be taken on balance sheet for reputational reasons. Therefore, in its stress testing program, an institution should include scenarios assessing the size and soundness of such vehicles relative to its own financial, liquidity and regulatory capital positions. This analysis should include structural, solvency, liquidity and other risk issues, including the effects of covenants and triggers."
+        }
+      ]
+    },
+    {
+      "heading": "Counterparty Credit risk",
+      "heading_level": 3,
+      "full_text": "An institution may have large gross exposures to leveraged counterparties, including hedge funds, financial guarantors, investment banks and derivatives counterparties that may be particularly exposed to specific asset types and market movements. Under normal conditions, these exposures are typically completely secured by posted collateral and continuous re-margining agreements yielding zero or very small net exposures. In the case of severe market shocks, however, these exposures may increase abruptly. The potential cross-correlation of the creditworthiness of derivative counterparties with the risks of the reference assets may emerge (i.e., wrong-way risk). An institution should ensure that its stress testing approaches related to derivative counterparties are robust in their capture of such correlated tail risks.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "An institution may have large gross exposures to leveraged counterparties, including hedge funds, financial guarantors, investment banks and derivatives counterparties that may be particularly exposed to specific asset types and market movements. Under normal conditions, these exposures are typically completely secured by posted collateral and continuous re-margining agreements yielding zero or very small net exposures. In the case of severe market shocks, however, these exposures may increase abruptly. The potential cross-correlation of the creditworthiness of derivative counterparties with the risks of the reference assets may emerge (i.e., wrong-way risk). An institution should ensure that its stress testing approaches related to derivative counterparties are robust in their capture of such correlated tail risks."
+        }
+      ]
+    },
+    {
+      "heading": "Risk Concentrations",
+      "heading_level": 3,
+      "full_text": "Stress testing should consider risk concentrations resulting directly from risk taking activities as well as those resulting indirectly from actions to mitigate risks, e.g., concentrations of credit counterparty risk arising from hedges of market and insurance risk.\nRisk concentrations may arise along different dimensions:\n  - single name concentrations\n  - concentrations in regions or industries\n  - concentrations in single risk factors\n  - concentrations in indirect exposures via posted collateral or hedge positions\n  - concentrations in off-balance sheet exposure, contingent exposure or non-contractual obligations by reputational reasons\nIn addition, concentrations may arise based on correlated risk factors that reflect subtler or more situation-specific factors, such as previously undetected correlations between market and credit risks, as well as between those risks and liquidity risk.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Stress testing should consider risk concentrations resulting directly from risk taking activities as well as those resulting indirectly from actions to mitigate risks, e.g., concentrations of credit counterparty risk arising from hedges of market and insurance risk."
+        },
+        {
+          "type": "paragraph",
+          "text": "Risk concentrations may arise along different dimensions:"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "single name concentrations",
+            "concentrations in regions or industries",
+            "concentrations in single risk factors",
+            "concentrations in indirect exposures via posted collateral or hedge positions",
+            "concentrations in off-balance sheet exposure, contingent exposure or non-contractual obligations by reputational reasons"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "In addition, concentrations may arise based on correlated risk factors that reflect subtler or more situation-specific factors, such as previously undetected correlations between market and credit risks, as well as between those risks and liquidity risk."
+        }
+      ]
+    },
+    {
+      "heading": "G. Supervisory Considerations",
+      "heading_level": 2,
+      "full_text": "OSFI reviews institutions' stress testing programs as part of the supervisory review process and as part of its review of a deposit-taking institution's Internal Capital Adequacy Assessment Process (ICAAP). For insurers, one example of stress testing is Financial Condition Testing (FCT). OSFI expects to see evidence that stress testing is integrated into institutions' internal risk management processes.\nOSFI uses the results of institutions' stress testing programs as important information and integrates the results into its assessment of the inherent risks and risk controls and oversight of institutions' business activities.\nIn assessing institutions' stress testing programs, OSFI may:\n  1. Evaluate whether scenarios chosen are consistent with the risk appetite the institution has set for itself.\n  2. Assess whether scenarios are appropriate to the portfolio of the institution and that they include severe shocks and periods of severe and sustained downturn. The scenarios chosen should also include, where relevant, an episode of market turbulence or a shock to market liquidity.\n  3. Assess whether the frequency and timing of stress testing is sufficient to support timely management action. For example, stress testing and FCT are complementary initiatives. More frequent stress testing at the business unit level facilitates timely reaction to sudden market developments. It also supports the integration of the FCT process with the finalization of an annual business plan by providing timely inputs based on current information. While it is up to each institution to determine how to best integrate FCT and other stress testing into its business planning process to achieve the maximum benefits, ideally the annual FCT of an insurance company would be available to the Board of Directors or branch management as soon as is reasonably possible; in all cases the annual FCT should be submitted to OSFI within 30 days of its presentation to the Board of Directors or branch management.\n  4. Ask institutions to evaluate scenarios under which viability is compromised and may ask institutions to test scenarios specific to different lines of business, to assess the plausibility of events that could materialize in significant strategic or reputational risk, in particular for business lines with significant balance sheet exposures.\n  5. Ask institutions, from time to time, to carry out standardized: sensitivity tests for individual businesses/products given evolving market conditions or scenario tests for use by OSFI to assess system wide vulnerabilities.\n  6. Examine the future capital resources and capital requirements under adverse scenarios. In particular, OSFI would consider the results of forward-looking stress testing for assessing the adequacy of capital buffers.\n  7. Take account of the extent to which capital might not be freely transferable within groups under adverse scenarios. OSFI would also consider the possibility a crisis impairs the ability of even very healthy institutions to raise funds at reasonable cost.\n  8. Review the range of management actions envisaged by institutions in response to the results of the stress testing exercise and be able to understand the rationale for the management body decision to take or not to take remedial actions. Supervisors may challenge whether such actions will be available in a period of stress and whether the institution will realistically be able and willing to take such actions.\n  9. Make recommendations to an institution to take appropriate remedial action to address weaknesses in its stress testing program.\n  - sensitivity tests for individual businesses/products given evolving market conditions or\n  - scenario tests for use by OSFI to assess system wide vulnerabilities.\nFrom time to time, OSFI may conduct an analysis of the impact of system-wide stress scenarios. OSFI intends as much as possible to test the impact of these system-wide scenarios using information that is regularly collected by OSFI and/or reported in regulatory returns in order to minimize data calls on institutions.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "OSFI reviews institutions' stress testing programs as part of the supervisory review process and as part of its review of a deposit-taking institution's Internal Capital Adequacy Assessment Process (ICAAP). For insurers, one example of stress testing is Financial Condition Testing (FCT). OSFI expects to see evidence that stress testing is integrated into institutions' internal risk management processes."
+        },
+        {
+          "type": "paragraph",
+          "text": "OSFI uses the results of institutions' stress testing programs as important information and integrates the results into its assessment of the inherent risks and risk controls and oversight of institutions' business activities."
+        },
+        {
+          "type": "paragraph",
+          "text": "In assessing institutions' stress testing programs, OSFI may:"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "Evaluate whether scenarios chosen are consistent with the risk appetite the institution has set for itself.",
+            "Assess whether scenarios are appropriate to the portfolio of the institution and that they include severe shocks and periods of severe and sustained downturn. The scenarios chosen should also include, where relevant, an episode of market turbulence or a shock to market liquidity.",
+            "Assess whether the frequency and timing of stress testing is sufficient to support timely management action. For example, stress testing and FCT are complementary initiatives. More frequent stress testing at the business unit level facilitates timely reaction to sudden market developments. It also supports the integration of the FCT process with the finalization of an annual business plan by providing timely inputs based on current information. While it is up to each institution to determine how to best integrate FCT and other stress testing into its business planning process to achieve the maximum benefits, ideally the annual FCT of an insurance company would be available to the Board of Directors or branch management as soon as is reasonably possible; in all cases the annual FCT should be submitted to OSFI within 30 days of its presentation to the Board of Directors or branch management.",
+            "Ask institutions to evaluate scenarios under which viability is compromised and may ask institutions to test scenarios specific to different lines of business, to assess the plausibility of events that could materialize in significant strategic or reputational risk, in particular for business lines with significant balance sheet exposures.",
+            "Ask institutions, from time to time, to carry out standardized: sensitivity tests for individual businesses/products given evolving market conditions or scenario tests for use by OSFI to assess system wide vulnerabilities.",
+            "Examine the future capital resources and capital requirements under adverse scenarios. In particular, OSFI would consider the results of forward-looking stress testing for assessing the adequacy of capital buffers.",
+            "Take account of the extent to which capital might not be freely transferable within groups under adverse scenarios. OSFI would also consider the possibility a crisis impairs the ability of even very healthy institutions to raise funds at reasonable cost.",
+            "Review the range of management actions envisaged by institutions in response to the results of the stress testing exercise and be able to understand the rationale for the management body decision to take or not to take remedial actions. Supervisors may challenge whether such actions will be available in a period of stress and whether the institution will realistically be able and willing to take such actions.",
+            "Make recommendations to an institution to take appropriate remedial action to address weaknesses in its stress testing program."
+          ]
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "sensitivity tests for individual businesses/products given evolving market conditions or",
+            "scenario tests for use by OSFI to assess system wide vulnerabilities."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "From time to time, OSFI may conduct an analysis of the impact of system-wide stress scenarios. OSFI intends as much as possible to test the impact of these system-wide scenarios using information that is regularly collected by OSFI and/or reported in regulatory returns in order to minimize data calls on institutions."
+        }
+      ]
+    },
+    {
+      "heading": "Scenario testing",
+      "heading_level": 3,
+      "full_text": "Scenario testing uses a hypothetical future state of the world to define changes in risk factors affecting an institution's operations. This will normally involve changes in a number of risk factors, as well as ripple effects that are other impacts that follow logically from these changes and related management and regulatory actions. Scenario testing is typically conducted over the time horizon appropriate for the business and risks being tested.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Scenario testing uses a hypothetical future state of the world to define changes in risk factors affecting an institution's operations. This will normally involve changes in a number of risk factors, as well as ripple effects that are other impacts that follow logically from these changes and related management and regulatory actions. Scenario testing is typically conducted over the time horizon appropriate for the business and risks being tested."
+        }
+      ]
+    },
+    {
+      "heading": "Sensitivity testing",
+      "heading_level": 3,
+      "full_text": "Sensitivity testing typically involves an incremental change in a risk factor (or a limited number of risk factors). It is typically conducted over a shorter time horizon, for example an instantaneous shock. Sensitivity testing requires fewer resources than scenario testing and can be used as a simpler technique for assessing the impact of a change in risks when a quick response or when more frequent results are needed.\n[Note: Footnotes Footnote 1 Stress Testing by Large Financial Institutions: Current Practice and Aggregation Issues, Committee on the Global Financial System, April 2000. Return to footnote 1 referrer Footnote 2 See also Principles for Sound Liquidity Risk Management and Supervision , Basel Committee on Banking Supervision (September 2008). Return to footnote 2 referrer]",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Sensitivity testing typically involves an incremental change in a risk factor (or a limited number of risk factors). It is typically conducted over a shorter time horizon, for example an instantaneous shock. Sensitivity testing requires fewer resources than scenario testing and can be used as a simpler technique for assessing the impact of a change in risks when a quick response or when more frequent results are needed."
+        },
+        {
+          "type": "footnote",
+          "text": "Footnotes Footnote 1 Stress Testing by Large Financial Institutions: Current Practice and Aggregation Issues, Committee on the Global Financial System, April 2000. Return to footnote 1 referrer Footnote 2 See also Principles for Sound Liquidity Risk Management and Supervision , Basel Committee on Banking Supervision (September 2008). Return to footnote 2 referrer"
+        }
+      ]
+    },
+    {
+      "heading": "Footnotes",
+      "heading_level": 2,
+      "full_text": "Stress Testing by Large Financial Institutions: Current Practice and Aggregation Issues, Committee on the Global Financial System, April 2000.\nReturn to footnote 1 referrer\nSee also Principles for Sound Liquidity Risk Management and Supervision , Basel Committee on Banking Supervision (September 2008).\nReturn to footnote 2 referrer",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Stress Testing by Large Financial Institutions: Current Practice and Aggregation Issues, Committee on the Global Financial System, April 2000."
+        },
+        {
+          "type": "paragraph",
+          "text": "Return to footnote 1 referrer"
+        },
+        {
+          "type": "paragraph",
+          "text": "See also Principles for Sound Liquidity Risk Management and Supervision , Basel Committee on Banking Supervision (September 2008)."
+        },
+        {
+          "type": "paragraph",
+          "text": "Return to footnote 2 referrer"
+        }
+      ]
+    }
+  ],
+  "title_normalized": "stress testing guideline 2009",
+  "publication_type_normalized": "guideline",
+  "category_normalized": "sound_business_and_financial_practices",
+  "sector_normalized": [
+    "banks",
+    "life_insurance",
+    "pc_insurance",
+    "trust_and_loan_companies"
+  ],
+  "guideline_number_normalized": "",
+  "applies_to_banks": true,
+  "applies_to_trust_loan": true,
+  "applies_to_life_insurance": true,
+  "applies_to_pc_insurance": true,
+  "applies_to_foreign_bank": false,
+  "applies_to_foreign_insurance": false,
+  "applies_to_cooperative": false,
+  "applies_to_bank_holding": false,
+  "effective_date_sort_key": "2009-12-31",
+  "status_sort_key": 1,
+  "authority_sort_key": 100,
+  "bm25_text": "Stress Testing – Guideline (2009) Guideline Sound Business and Financial Practices Banks Life Insurance and Fraternal Companies Property and Casualty Companies Trust and Loan Companies A. Stress Testing Defined B. Purposes of Stress Testing C. Role of Senior Management D. General Considerations for Stress Testing Programs E. Methodology and Scenario Selection F. Specific Areas of Focus Risk Mitigation Securitization and Warehousing Risks Risks to Reputation Counterparty Credit risk Risk Concentrations G. Supervisory Considerations Scenario testing Sensitivity testing Footnotes",
+  "vector_text_prefix": "[OSFI Guideline  | Sound Business and Financial Practices | Banks / Life Insurance and Fraternal Companies / Property and Casualty Companies | FINAL_CURRENT | Effective 2009-12-31]",
+  "h1_title": "Stress Testing – Guideline (2009)",
+  "regulator": "OSFI",
+  "regulator_acronym": "OSFI",
+  "jurisdiction": "Canada",
+  "short_title": "",
+  "source_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/stress-testing-guideline-2009"
+}

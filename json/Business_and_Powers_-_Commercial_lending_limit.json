@@ -1,0 +1,236 @@
+{
+  "source_system": "osfi_guidance_library",
+  "library_row_title": "Business and Powers - Commercial lending limit",
+  "library_row_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/business-powers-commercial-lending-limit",
+  "listing_date_raw": "February 28, 2003",
+  "listing_date_iso": "2003-02-28",
+  "listing_publication_type": "Regulatory and legislative advisory",
+  "listing_category": "Regulatory and legislative",
+  "listing_sector": [
+    "Cooperative Credit Associations Act",
+    "Insurance Companies Act",
+    "Trust and Loan Companies Act"
+  ],
+  "crawl_timestamp": "2026-03-11T00:00:00Z",
+  "detail_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/business-powers-commercial-lending-limit",
+  "canonical_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/business-powers-commercial-lending-limit",
+  "slug": "business-powers-commercial-lending-limit",
+  "title": "Business and Powers - Commercial lending limit",
+  "publication_type": "Regulatory and legislative advisory",
+  "category": "Regulatory and legislative",
+  "document_date_raw": "February 28, 2003",
+  "document_date_iso": "2003-02-28",
+  "sector": [
+    "Cooperative Credit Associations Act",
+    "Insurance Companies Act",
+    "Trust and Loan Companies Act"
+  ],
+  "effective_date_text": "",
+  "guideline_number": "",
+  "date_modified_raw": "2003-02-28T12:00:00Z",
+  "generate_pdf_url": "https://www.osfi-bsif.gc.ca/en/print/pdf/node/530",
+  "pdf_node_id": 530,
+  "direct_pdf_url": null,
+  "has_table_of_contents": true,
+  "toc_entries": [],
+  "has_related_documents": false,
+  "related_document_links_raw": [],
+  "consultation_status_text": null,
+  "consultation_status_refers_to_version": null,
+  "page_language": "en",
+  "word_count_raw_body": 495,
+  "doc_id": "osfi.business-powers-commercial-lending-limit.advisory",
+  "doc_family_id": "osfi.business-powers-commercial-lending-limit",
+  "version_id": "",
+  "version_label": "Business and Powers - Commercial lending limit",
+  "version_sort_key": "",
+  "parent_doc_id": null,
+  "child_doc_ids": [],
+  "is_package_page": false,
+  "is_chapter_page": false,
+  "chapter_number": null,
+  "chapter_title": null,
+  "document_order_within_family": 0,
+  "supersedes_doc_id": null,
+  "superseded_by_doc_id": null,
+  "current_version_flag": true,
+  "status": "final_current",
+  "include_in_primary_corpus": true,
+  "include_in_support_corpus": false,
+  "include_in_context_corpus": false,
+  "effective_date_start": "2003-02-28",
+  "effective_date_end": null,
+  "effective_date_fye_split": false,
+  "effective_date_oct_fye": null,
+  "effective_date_dec_fye": null,
+  "is_future_effective": false,
+  "is_rescinded": false,
+  "is_draft_or_consultation": false,
+  "rescission_date": null,
+  "consultation_closing_date": null,
+  "as_of_applicability": "2026-03-23",
+  "rule_applied": "rule_5_final_current",
+  "authority_class": "primary_normative",
+  "authority_level": 100,
+  "nova_tier": 1,
+  "prudential_weight": 1.0,
+  "is_primary_normative": true,
+  "is_supporting_interpretive": false,
+  "is_context_only": false,
+  "document_class": "advisory",
+  "guidance_type_normalized": "regulatory_and_legislative_advisory",
+  "section_headings": [
+    {
+      "level": 2,
+      "text": "Introduction:",
+      "id": "h2-0"
+    },
+    {
+      "level": 2,
+      "text": "Legislative References:",
+      "id": "h2-1"
+    },
+    {
+      "level": 2,
+      "text": "Interpretation:",
+      "id": "h2-2"
+    }
+  ],
+  "heading_path": [
+    "Business and Powers - Commercial lending limit"
+  ],
+  "toc_depth": 2,
+  "has_appendices": false,
+  "appendix_ids": [],
+  "has_tables": false,
+  "table_count": 0,
+  "has_footnotes": false,
+  "footnote_count": 0,
+  "inline_cross_references": [],
+  "quoted_external_references": [],
+  "raw_html_sha256": "32369e94d6a69373098400def3e522b34cb0626aecfc43c8380055149d3da365",
+  "raw_pdf_sha256": null,
+  "normalized_text_sha256": null,
+  "raw_html_path": "bronze/osfi/html/final_current/business-powers-commercial-lending-limit.html",
+  "normalized_md_path": "silver/osfi/md/final_current/business-powers-commercial-lending-limit.md",
+  "canonical_json_path": "silver/osfi/json/final_current/business-powers-commercial-lending-limit.json",
+  "content_source": "HTML",
+  "parser_version": "osfi-parser-v2.1.0",
+  "normalizer_version": "osfi-normalizer-v1.4.0",
+  "quality_score": 0.5,
+  "quality_flags": [
+    "thin_body_text"
+  ],
+  "download_timestamp": "2026-03-11T00:00:00Z",
+  "enriched_timestamp": "2026-03-23T09:53:46.895861Z",
+  "sections": [
+    {
+      "heading": "",
+      "heading_level": 2,
+      "full_text": "Advisories describe how OSFI administers and interprets provisions of existing legislation, regulations or guidelines, or provide OSFI's position regarding certain policy issues. Advisories are not law; readers should refer to the relevant provisions of the legislation, regulation or guideline, including any amendments that came into effect subsequent to the Advisory's publication, when considering the relevancy of the Advisory.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Advisories describe how OSFI administers and interprets provisions of existing legislation, regulations or guidelines, or provide OSFI's position regarding certain policy issues. Advisories are not law; readers should refer to the relevant provisions of the legislation, regulation or guideline, including any amendments that came into effect subsequent to the Advisory's publication, when considering the relevancy of the Advisory."
+        }
+      ]
+    },
+    {
+      "heading": "Introduction:",
+      "heading_level": 2,
+      "full_text": "This advisory provides an overview of how the Office of the Superintendent of Financial Institutions (OSFI) administers and interprets the provisions of the federal financial institutions legislation regarding the granting of a commercial lending limit in excess of the limit of 5 per cent of total assets. The issue is whether that higher commercial lending limit that the Superintendent may grant to a federally regulated insurance, trust or loan company, cooperative credit association, or insurance holding company (hereinafter referred to as a federally regulated entity or FRE), could be determined on a basis other than a percentage of total assets.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "This advisory provides an overview of how the Office of the Superintendent of Financial Institutions (OSFI) administers and interprets the provisions of the federal financial institutions legislation regarding the granting of a commercial lending limit in excess of the limit of 5 per cent of total assets. The issue is whether that higher commercial lending limit that the Superintendent may grant to a federally regulated insurance, trust or loan company, cooperative credit association, or insurance holding company (hereinafter referred to as a federally regulated entity or FRE), could be determined on a basis other than a percentage of total assets."
+        }
+      ]
+    },
+    {
+      "heading": "Legislative References:",
+      "heading_level": 2,
+      "full_text": "Section 462 of the Trust and Loan Companies Act\nSections 504 and 980 of the Insurance Companies Act\nSection 399 of the Cooperative Credit Associations Act",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Section 462 of the Trust and Loan Companies Act"
+        },
+        {
+          "type": "paragraph",
+          "text": "Sections 504 and 980 of the Insurance Companies Act"
+        },
+        {
+          "type": "paragraph",
+          "text": "Section 399 of the Cooperative Credit Associations Act"
+        }
+      ]
+    },
+    {
+      "heading": "Interpretation:",
+      "heading_level": 2,
+      "full_text": "These provisions require a FRE to obtain the approval of Superintendent in the event the FRE wishes to have a commercial lending limit in excess of the 5 per cent of total assets prescribed by legislation. The legislative provisions do not require that the higher limit be based on a percentage of assets. In fact, there is no indication in the legislation on what basis a higher limit should be granted, thereby providing the Superintendent with a discretionary authority to set out the basis under which the higher limit would be applied.\nOSFI’s past practice has been to set higher commercial loan limits on the basis of a percentage of total assets. OSFI will continue this practice unless otherwise requested by the FRE.\nRequests for higher commercial loan limits on a basis other than the total percentage of assets would be considered on a case-by-case basis, taking into account the following:\n  - whether the element that would be used to calculate the higher limit could be easily calculated and monitored, e.g., regulatory capital; and\n  - whether the use of that element would set a higher limit that is acceptable to OSFI, having regard to the FRE’s capacity and experience to make commercial loans and to control and monitor such loan portfolio.\nwhether the element that would be used to calculate the higher limit could be easily calculated and monitored, e.g., regulatory capital; and\nwhether the use of that element would set a higher limit that is acceptable to OSFI, having regard to the FRE’s capacity and experience to make commercial loans and to control and monitor such loan portfolio.\nWhen making an application for the Superintendent’s approval of a higher commercial loan limit, a FRE should refer to OSFI’s Guideline No. E-2, Commercial Lending Criteria , for guidance on the nature of information to be provided in support of its application.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "These provisions require a FRE to obtain the approval of Superintendent in the event the FRE wishes to have a commercial lending limit in excess of the 5 per cent of total assets prescribed by legislation. The legislative provisions do not require that the higher limit be based on a percentage of assets. In fact, there is no indication in the legislation on what basis a higher limit should be granted, thereby providing the Superintendent with a discretionary authority to set out the basis under which the higher limit would be applied."
+        },
+        {
+          "type": "paragraph",
+          "text": "OSFI’s past practice has been to set higher commercial loan limits on the basis of a percentage of total assets. OSFI will continue this practice unless otherwise requested by the FRE."
+        },
+        {
+          "type": "paragraph",
+          "text": "Requests for higher commercial loan limits on a basis other than the total percentage of assets would be considered on a case-by-case basis, taking into account the following:"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "whether the element that would be used to calculate the higher limit could be easily calculated and monitored, e.g., regulatory capital; and",
+            "whether the use of that element would set a higher limit that is acceptable to OSFI, having regard to the FRE’s capacity and experience to make commercial loans and to control and monitor such loan portfolio."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "whether the element that would be used to calculate the higher limit could be easily calculated and monitored, e.g., regulatory capital; and"
+        },
+        {
+          "type": "paragraph",
+          "text": "whether the use of that element would set a higher limit that is acceptable to OSFI, having regard to the FRE’s capacity and experience to make commercial loans and to control and monitor such loan portfolio."
+        },
+        {
+          "type": "paragraph",
+          "text": "When making an application for the Superintendent’s approval of a higher commercial loan limit, a FRE should refer to OSFI’s Guideline No. E-2, Commercial Lending Criteria , for guidance on the nature of information to be provided in support of its application."
+        }
+      ]
+    }
+  ],
+  "title_normalized": "business and powers commercial lending limit",
+  "publication_type_normalized": "regulatory_and_legislative_advisory",
+  "category_normalized": "regulatory_and_legislative",
+  "sector_normalized": [
+    "cooperative_credit_associations_act",
+    "insurance_companies_act",
+    "trust_and_loan_companies_act"
+  ],
+  "guideline_number_normalized": "",
+  "applies_to_banks": false,
+  "applies_to_trust_loan": true,
+  "applies_to_life_insurance": false,
+  "applies_to_pc_insurance": false,
+  "applies_to_foreign_bank": false,
+  "applies_to_foreign_insurance": false,
+  "applies_to_cooperative": true,
+  "applies_to_bank_holding": false,
+  "effective_date_sort_key": "2003-02-28",
+  "status_sort_key": 1,
+  "authority_sort_key": 100,
+  "bm25_text": "Business and Powers - Commercial lending limit Regulatory and legislative advisory Regulatory and legislative Cooperative Credit Associations Act Insurance Companies Act Trust and Loan Companies Act Introduction: Legislative References: Interpretation:",
+  "vector_text_prefix": "[OSFI Regulatory and legislative advisory  | Regulatory and legislative | Cooperative Credit Associations Act / Insurance Companies Act / Trust and Loan Companies Act | FINAL_CURRENT | Effective 2003-02-28]",
+  "h1_title": "Business and Powers - Commercial lending limit",
+  "regulator": "OSFI",
+  "regulator_acronym": "OSFI",
+  "jurisdiction": "Canada",
+  "short_title": "",
+  "source_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/business-powers-commercial-lending-limit"
+}

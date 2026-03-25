@@ -1,0 +1,381 @@
+{
+  "source_system": "osfi_guidance_library",
+  "library_row_title": "Data Maintenance Expectations for Institutions Using the Standardized Approach for Operational Risk Capital Data",
+  "library_row_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/data-maintenance-expectations-institutions-using-standardized-approach-operational-risk-capital-data",
+  "listing_date_raw": "February 21, 2022",
+  "listing_date_iso": "2022-02-21",
+  "listing_publication_type": "Implementation note",
+  "listing_category": "Capital Adequacy Requirements",
+  "listing_sector": [],
+  "crawl_timestamp": "2026-03-11T00:00:00Z",
+  "detail_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/data-maintenance-expectations-institutions-using-standardized-approach-operational-risk-capital-data",
+  "canonical_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/data-maintenance-expectations-institutions-using-standardized-approach-operational-risk-capital-data",
+  "slug": "data-maintenance-expectations-institutions-using-standardized-approach-operational-risk-capital-data",
+  "title": "Data Maintenance Expectations for Institutions Using the Standardized Approach for Operational Risk Capital Data",
+  "publication_type": "Implementation note",
+  "category": "Capital Adequacy Requirements",
+  "document_date_raw": "February 21, 2022",
+  "document_date_iso": "2022-02-21",
+  "sector": [],
+  "effective_date_text": "",
+  "guideline_number": "",
+  "date_modified_raw": "2022-02-21T12:00:00Z",
+  "generate_pdf_url": "https://www.osfi-bsif.gc.ca/en/print/pdf/node/458",
+  "pdf_node_id": 458,
+  "direct_pdf_url": "https://www.bis.org/publ/bcbs239.pdf",
+  "has_table_of_contents": true,
+  "toc_entries": [],
+  "has_related_documents": false,
+  "related_document_links_raw": [],
+  "consultation_status_text": null,
+  "consultation_status_refers_to_version": null,
+  "page_language": "en",
+  "word_count_raw_body": 1244,
+  "doc_id": "osfi.data-maintenance-expectations-institutions-using-s.implementation",
+  "doc_family_id": "osfi.data-maintenance-expectations-institutions-using-s",
+  "version_id": "",
+  "version_label": "Data Maintenance Expectations for Institutions Using the Sta",
+  "version_sort_key": "",
+  "parent_doc_id": null,
+  "child_doc_ids": [],
+  "is_package_page": false,
+  "is_chapter_page": false,
+  "chapter_number": null,
+  "chapter_title": null,
+  "document_order_within_family": 0,
+  "supersedes_doc_id": null,
+  "superseded_by_doc_id": null,
+  "current_version_flag": true,
+  "status": "final_current",
+  "include_in_primary_corpus": true,
+  "include_in_support_corpus": false,
+  "include_in_context_corpus": false,
+  "effective_date_start": "2022-02-21",
+  "effective_date_end": null,
+  "effective_date_fye_split": false,
+  "effective_date_oct_fye": null,
+  "effective_date_dec_fye": null,
+  "is_future_effective": false,
+  "is_rescinded": false,
+  "is_draft_or_consultation": false,
+  "rescission_date": null,
+  "consultation_closing_date": null,
+  "as_of_applicability": "2026-03-23",
+  "rule_applied": "rule_5_final_current",
+  "authority_class": "primary_normative",
+  "authority_level": 90,
+  "nova_tier": 1,
+  "prudential_weight": 1.0,
+  "is_primary_normative": true,
+  "is_supporting_interpretive": false,
+  "is_context_only": false,
+  "document_class": "implementation_note",
+  "guidance_type_normalized": "implementation_note",
+  "section_headings": [
+    {
+      "level": 2,
+      "text": "I. Introduction",
+      "id": "h2-0"
+    },
+    {
+      "level": 2,
+      "text": "II. Scope",
+      "id": "h2-1"
+    },
+    {
+      "level": 2,
+      "text": "III. Types of Operational Risk Data",
+      "id": "h2-2"
+    },
+    {
+      "level": 2,
+      "text": "IV. Management of Data for the Calculation of Operational Risk Capital",
+      "id": "h2-3"
+    },
+    {
+      "level": 3,
+      "text": "Overarching Governance and Infrastructure",
+      "id": "h3-4"
+    },
+    {
+      "level": 3,
+      "text": "Risk Data Aggregation Capabilities",
+      "id": "h3-5"
+    },
+    {
+      "level": 3,
+      "text": "Risk Reporting Practices",
+      "id": "h3-6"
+    },
+    {
+      "level": 2,
+      "text": "V. Internal Operational Loss Data",
+      "id": "h2-7"
+    },
+    {
+      "level": 2,
+      "text": "VI. Business Indicator Data",
+      "id": "h2-8"
+    }
+  ],
+  "heading_path": [
+    "Data Maintenance Expectations for Institutions Using the Standardized Approach for Operational Risk Capital Data"
+  ],
+  "toc_depth": 3,
+  "has_appendices": false,
+  "appendix_ids": [],
+  "has_tables": false,
+  "table_count": 0,
+  "has_footnotes": false,
+  "footnote_count": 0,
+  "inline_cross_references": [],
+  "quoted_external_references": [
+    "Basel Committee on Banking Supervision's Principles for Effective Risk Data Aggregation and Ris"
+  ],
+  "raw_html_sha256": "168069a9ad3431cdf60bb006f584d72bee7ca122bd65a851f01df1e62c502833",
+  "raw_pdf_sha256": null,
+  "normalized_text_sha256": null,
+  "raw_html_path": "bronze/osfi/html/final_current/data-maintenance-expectations-institutions-using-standardized-approach-operational-risk-capital-data.html",
+  "normalized_md_path": "silver/osfi/md/final_current/data-maintenance-expectations-institutions-using-standardized-approach-operational-risk-capital-data.md",
+  "canonical_json_path": "silver/osfi/json/final_current/data-maintenance-expectations-institutions-using-standardized-approach-operational-risk-capital-data.json",
+  "content_source": "HTML",
+  "parser_version": "osfi-parser-v2.1.0",
+  "normalizer_version": "osfi-normalizer-v1.4.0",
+  "quality_score": 1.0,
+  "quality_flags": [],
+  "download_timestamp": "2026-03-11T00:00:00Z",
+  "enriched_timestamp": "2026-03-23T09:53:50.976228Z",
+  "sections": [
+    {
+      "heading": "",
+      "heading_level": 2,
+      "full_text": "  - Operational Risk Capital Data Management Expectations\n  - Assessment Tool - Operational Risk Capital Data\nSubject: Data Maintenance Expectations for Institutions using the Standardized Approach for Operational Risk Capital Data Includes both internal operational loss data and the components used to calculate the Business Indicator.",
+      "content": [
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Operational Risk Capital Data Management Expectations",
+            "Assessment Tool - Operational Risk Capital Data"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Subject: Data Maintenance Expectations for Institutions using the Standardized Approach for Operational Risk Capital Data Includes both internal operational loss data and the components used to calculate the Business Indicator."
+        }
+      ]
+    },
+    {
+      "heading": "I. Introduction",
+      "heading_level": 2,
+      "full_text": "This document outlines OSFI's expectations for data maintenance for institutions Banks and bank holding companies to which the Bank Act applies and federally regulated trust companies and loan companies to which the Trust and Loan Companies Act applies are collectively referred to as \"institutions\". that are using the Standardized Approach (\"SA\") for operational risk under Chapter 3 of the Capital Adequacy Requirements (\"CAR\") Guideline The revised Chapter 3 of the CAR is linked here: <a href=\"/node/1289\">Capital Adequacy Requirements (CAR) Chapter 3 – Operational Risk</a>. . The term \"data maintenance\" includes various key elements of a data management process, including data collection, data processing, data aggregation, data reporting, data security and data storage/retention.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "This document outlines OSFI's expectations for data maintenance for institutions Banks and bank holding companies to which the Bank Act applies and federally regulated trust companies and loan companies to which the Trust and Loan Companies Act applies are collectively referred to as \"institutions\". that are using the Standardized Approach (\"SA\") for operational risk under Chapter 3 of the Capital Adequacy Requirements (\"CAR\") Guideline The revised Chapter 3 of the CAR is linked here: <a href=\"/node/1289\">Capital Adequacy Requirements (CAR) Chapter 3 – Operational Risk</a>. . The term \"data maintenance\" includes various key elements of a data management process, including data collection, data processing, data aggregation, data reporting, data security and data storage/retention."
+        }
+      ]
+    },
+    {
+      "heading": "II. Scope",
+      "heading_level": 2,
+      "full_text": "This document applies to institutions implementing the SA for operational risk.\nWhile institutions using the Simplified Standardized Approach (\"SSA\") do not calculate the Business Indicator (\"BI\"), and are not required to collect operational loss data, for regulatory capital purposes, OSFI encourages these institutions to consider the principles and expectations in this document as they develop their operational risk data capabilities.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "This document applies to institutions implementing the SA for operational risk."
+        },
+        {
+          "type": "paragraph",
+          "text": "While institutions using the Simplified Standardized Approach (\"SSA\") do not calculate the Business Indicator (\"BI\"), and are not required to collect operational loss data, for regulatory capital purposes, OSFI encourages these institutions to consider the principles and expectations in this document as they develop their operational risk data capabilities."
+        }
+      ]
+    },
+    {
+      "heading": "III. Types of Operational Risk Data",
+      "heading_level": 2,
+      "full_text": "Operational risk management and capital measurement are highly dependent on an institution's ability to maintain a reliable, comprehensive operational risk dataset(s).\nThe SA for operational risk uses financial data in the calculation of BI The BI consists of three components: the interest, leases, and dividend component; the services component; and the financial component, as defined in Chapter 3 of the CAR (section 3.4.1). and internal operational loss data in the calculation of the Loss Component (\"LC\") The LC is equal to 15 times average annual operational risk losses incurred over the previous 10 years and affects the calculation of operational risk capital through the Internal Loss Multiplier (ILM). See Chapter 3 of the CAR (section 3.4.1) for more detail on the calculation of the ILM. . Capital requirements are based on the annual average values of the BI over three years (multiplied by a set of marginal coefficients) and the Internal Loss Multiplier (\"ILM\"), which is calculated using the BI and the LC.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Operational risk management and capital measurement are highly dependent on an institution's ability to maintain a reliable, comprehensive operational risk dataset(s)."
+        },
+        {
+          "type": "paragraph",
+          "text": "The SA for operational risk uses financial data in the calculation of BI The BI consists of three components: the interest, leases, and dividend component; the services component; and the financial component, as defined in Chapter 3 of the CAR (section 3.4.1). and internal operational loss data in the calculation of the Loss Component (\"LC\") The LC is equal to 15 times average annual operational risk losses incurred over the previous 10 years and affects the calculation of operational risk capital through the Internal Loss Multiplier (ILM). See Chapter 3 of the CAR (section 3.4.1) for more detail on the calculation of the ILM. . Capital requirements are based on the annual average values of the BI over three years (multiplied by a set of marginal coefficients) and the Internal Loss Multiplier (\"ILM\"), which is calculated using the BI and the LC."
+        }
+      ]
+    },
+    {
+      "heading": "IV. Management of Data for the Calculation of Operational Risk Capital",
+      "heading_level": 2,
+      "full_text": "The Basel Committee on Banking Supervision's Principles for Effective Risk Data Aggregation and Risk Reporting (\"RDARR\") (PDF) are a set of international standards for banks' risk data aggregation capabilities and internal risk reporting practices, which apply to a bank's risk management data and include data that is critical to enabling the bank to manage the risks it faces, such as operational risk.\nOSFI expects institutions using the SA to adequately apply the RDARR principles to the maintenance of their data used in the calculation of operational risk capital (i.e., internal operational loss data and business indicator data):",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "The Basel Committee on Banking Supervision's Principles for Effective Risk Data Aggregation and Risk Reporting (\"RDARR\") (PDF) are a set of international standards for banks' risk data aggregation capabilities and internal risk reporting practices, which apply to a bank's risk management data and include data that is critical to enabling the bank to manage the risks it faces, such as operational risk."
+        },
+        {
+          "type": "paragraph",
+          "text": "OSFI expects institutions using the SA to adequately apply the RDARR principles to the maintenance of their data used in the calculation of operational risk capital (i.e., internal operational loss data and business indicator data):"
+        }
+      ]
+    },
+    {
+      "heading": "Overarching Governance and Infrastructure",
+      "heading_level": 3,
+      "full_text": "  - Principle 1 – Governance\n  - Principle 2 – Data architecture and IT infrastructure",
+      "content": [
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Principle 1 – Governance",
+            "Principle 2 – Data architecture and IT infrastructure"
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "Risk Data Aggregation Capabilities",
+      "heading_level": 3,
+      "full_text": "  - Principle 3 – Accuracy and Integrity\n  - Principle 4 – Completeness\n  - Principle 5 – Timeliness\n  - Principle 6 – Adaptability",
+      "content": [
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Principle 3 – Accuracy and Integrity",
+            "Principle 4 – Completeness",
+            "Principle 5 – Timeliness",
+            "Principle 6 – Adaptability"
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "Risk Reporting Practices",
+      "heading_level": 3,
+      "full_text": "  - Principle 7 – Accuracy\n  - Principle 8 – Comprehensiveness\n  - Principle 9 – Clarity and usefulness\n  - Principle 10 – Frequency\n  - Principle 11 – Distribution,\nIn addition, OSFI expects that for data used in the calculation of operational risk capital institutions will have:\n  1. Documentation outlining the end-to-end systems and data flows, including key controls for critical failure points, to support the data management processes required to calculate operational risk capital;\n  2. Established policies and documented procedures for the storage, retention and archiving, including, where applicable, the procedures for logical/physical deletion of loss data and destruction of data storage media and peripherals;\n  3. Processes to maintain back-ups of relevant data files/stores and databases in a manner that can facilitate ready retrieval in the event of information calls on the institutions' compliance and ongoing supervisory assessments; and\n  4. Processes to ensure that the electronic versions of all relevant data are accessible in a format that provides flexibility to enable searching, aggregation and reporting.\nDocumentation outlining the end-to-end systems and data flows, including key controls for critical failure points, to support the data management processes required to calculate operational risk capital;\nEstablished policies and documented procedures for the storage, retention and archiving, including, where applicable, the procedures for logical/physical deletion of loss data and destruction of data storage media and peripherals;\nProcesses to maintain back-ups of relevant data files/stores and databases in a manner that can facilitate ready retrieval in the event of information calls on the institutions' compliance and ongoing supervisory assessments; and\nProcesses to ensure that the electronic versions of all relevant data are accessible in a format that provides flexibility to enable searching, aggregation and reporting.\nAdditional details on OSFI's expectations can be found in the Assessment Tool. These criteria should be used in assessing, both initially and on an ongoing basis, an institution's data used in the calculation of operational risk capital. OSFI will consider the institution's risk profile and complexity when assessing its compliance with these criteria.",
+      "content": [
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Principle 7 – Accuracy",
+            "Principle 8 – Comprehensiveness",
+            "Principle 9 – Clarity and usefulness",
+            "Principle 10 – Frequency",
+            "Principle 11 – Distribution,"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "In addition, OSFI expects that for data used in the calculation of operational risk capital institutions will have:"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "Documentation outlining the end-to-end systems and data flows, including key controls for critical failure points, to support the data management processes required to calculate operational risk capital;",
+            "Established policies and documented procedures for the storage, retention and archiving, including, where applicable, the procedures for logical/physical deletion of loss data and destruction of data storage media and peripherals;",
+            "Processes to maintain back-ups of relevant data files/stores and databases in a manner that can facilitate ready retrieval in the event of information calls on the institutions' compliance and ongoing supervisory assessments; and",
+            "Processes to ensure that the electronic versions of all relevant data are accessible in a format that provides flexibility to enable searching, aggregation and reporting."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Documentation outlining the end-to-end systems and data flows, including key controls for critical failure points, to support the data management processes required to calculate operational risk capital;"
+        },
+        {
+          "type": "paragraph",
+          "text": "Established policies and documented procedures for the storage, retention and archiving, including, where applicable, the procedures for logical/physical deletion of loss data and destruction of data storage media and peripherals;"
+        },
+        {
+          "type": "paragraph",
+          "text": "Processes to maintain back-ups of relevant data files/stores and databases in a manner that can facilitate ready retrieval in the event of information calls on the institutions' compliance and ongoing supervisory assessments; and"
+        },
+        {
+          "type": "paragraph",
+          "text": "Processes to ensure that the electronic versions of all relevant data are accessible in a format that provides flexibility to enable searching, aggregation and reporting."
+        },
+        {
+          "type": "paragraph",
+          "text": "Additional details on OSFI's expectations can be found in the Assessment Tool. These criteria should be used in assessing, both initially and on an ongoing basis, an institution's data used in the calculation of operational risk capital. OSFI will consider the institution's risk profile and complexity when assessing its compliance with these criteria."
+        }
+      ]
+    },
+    {
+      "heading": "V. Internal Operational Loss Data",
+      "heading_level": 2,
+      "full_text": "Institutions using the SA must also meet the general and specific criteria on loss data identification, collection and treatment that are outlined in CAR Chapter 3.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Institutions using the SA must also meet the general and specific criteria on loss data identification, collection and treatment that are outlined in CAR Chapter 3."
+        }
+      ]
+    },
+    {
+      "heading": "VI. Business Indicator Data",
+      "heading_level": 2,
+      "full_text": "Institutions using the SA are required to use financial data to calculate the BI component. To maintain reliable BI data, and ensure that the BI is calculated consistent with the requirements and definitions in CAR Chapter 3 (and the related capital adequacy return instructions), institutions should, at a minimum:\n  - Document the process to provide for the consistent mapping of its general ledger and/or relevant OSFI returns to the components of the BI This includes the process for ensuring that Fee and Commission Income is reported on a gross basis, and that Fee and Commission Expenses includes all relevant expenses, including those netted against income, on the institution's financial statements. ;\n  - Establish a system or process that facilitates the reconciliation between the BI reported on the OSFI capital adequacy return and Net Interest Income and Non-Interest Income Net Interest and Non-Interest Income is line 22 from OSFI's P3 return. ;\n  - Ensure that the robustness of the BI mapping process is commensurate with its complexity; and\n  - Conduct periodic independent reviews of the processes involved in the calculation and reporting of the BI component. At a minimum, this would include regular effective and independent challenge by the institution's second line of defense, and periodic independent review by the third line of defense.\nDocument the process to provide for the consistent mapping of its general ledger and/or relevant OSFI returns to the components of the BI This includes the process for ensuring that Fee and Commission Income is reported on a gross basis, and that Fee and Commission Expenses includes all relevant expenses, including those netted against income, on the institution's financial statements. ;\nEstablish a system or process that facilitates the reconciliation between the BI reported on the OSFI capital adequacy return and Net Interest Income and Non-Interest Income Net Interest and Non-Interest Income is line 22 from OSFI's P3 return. ;\nEnsure that the robustness of the BI mapping process is commensurate with its complexity; and\nConduct periodic independent reviews of the processes involved in the calculation and reporting of the BI component. At a minimum, this would include regular effective and independent challenge by the institution's second line of defense, and periodic independent review by the third line of defense.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Institutions using the SA are required to use financial data to calculate the BI component. To maintain reliable BI data, and ensure that the BI is calculated consistent with the requirements and definitions in CAR Chapter 3 (and the related capital adequacy return instructions), institutions should, at a minimum:"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Document the process to provide for the consistent mapping of its general ledger and/or relevant OSFI returns to the components of the BI This includes the process for ensuring that Fee and Commission Income is reported on a gross basis, and that Fee and Commission Expenses includes all relevant expenses, including those netted against income, on the institution's financial statements. ;",
+            "Establish a system or process that facilitates the reconciliation between the BI reported on the OSFI capital adequacy return and Net Interest Income and Non-Interest Income Net Interest and Non-Interest Income is line 22 from OSFI's P3 return. ;",
+            "Ensure that the robustness of the BI mapping process is commensurate with its complexity; and",
+            "Conduct periodic independent reviews of the processes involved in the calculation and reporting of the BI component. At a minimum, this would include regular effective and independent challenge by the institution's second line of defense, and periodic independent review by the third line of defense."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Document the process to provide for the consistent mapping of its general ledger and/or relevant OSFI returns to the components of the BI This includes the process for ensuring that Fee and Commission Income is reported on a gross basis, and that Fee and Commission Expenses includes all relevant expenses, including those netted against income, on the institution's financial statements. ;"
+        },
+        {
+          "type": "paragraph",
+          "text": "Establish a system or process that facilitates the reconciliation between the BI reported on the OSFI capital adequacy return and Net Interest Income and Non-Interest Income Net Interest and Non-Interest Income is line 22 from OSFI's P3 return. ;"
+        },
+        {
+          "type": "paragraph",
+          "text": "Ensure that the robustness of the BI mapping process is commensurate with its complexity; and"
+        },
+        {
+          "type": "paragraph",
+          "text": "Conduct periodic independent reviews of the processes involved in the calculation and reporting of the BI component. At a minimum, this would include regular effective and independent challenge by the institution's second line of defense, and periodic independent review by the third line of defense."
+        }
+      ]
+    }
+  ],
+  "title_normalized": "data maintenance expectations for institutions using the standardized approach for operational risk capital data",
+  "publication_type_normalized": "implementation_note",
+  "category_normalized": "capital_adequacy_requirements",
+  "sector_normalized": [],
+  "guideline_number_normalized": "",
+  "applies_to_banks": false,
+  "applies_to_trust_loan": false,
+  "applies_to_life_insurance": false,
+  "applies_to_pc_insurance": false,
+  "applies_to_foreign_bank": false,
+  "applies_to_foreign_insurance": false,
+  "applies_to_cooperative": false,
+  "applies_to_bank_holding": false,
+  "effective_date_sort_key": "2022-02-21",
+  "status_sort_key": 1,
+  "authority_sort_key": 90,
+  "bm25_text": "Data Maintenance Expectations for Institutions Using the Standardized Approach for Operational Risk Capital Data Implementation note Capital Adequacy Requirements I. Introduction II. Scope III. Types of Operational Risk Data IV. Management of Data for the Calculation of Operational Risk Capital Overarching Governance and Infrastructure Risk Data Aggregation Capabilities Risk Reporting Practices V. Internal Operational Loss Data VI. Business Indicator Data",
+  "vector_text_prefix": "[OSFI Implementation note  | Capital Adequacy Requirements |  | FINAL_CURRENT | Effective 2022-02-21]",
+  "h1_title": "Data Maintenance Expectations for Institutions Using the Standardized Approach for Operational Risk Capital Data",
+  "regulator": "OSFI",
+  "regulator_acronym": "OSFI",
+  "jurisdiction": "Canada",
+  "short_title": "",
+  "source_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/data-maintenance-expectations-institutions-using-standardized-approach-operational-risk-capital-data"
+}

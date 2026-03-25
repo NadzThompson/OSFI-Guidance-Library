@@ -1,0 +1,4073 @@
+{
+  "source_system": "osfi_guidance_library",
+  "library_row_title": "Infosheet - Residential Mortgage Underwriting Practices and Procedures Guideline (B-20)",
+  "library_row_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/infosheet-residential-mortgage-underwriting-practices-procedures-guideline-b-20",
+  "listing_date_raw": "January 12, 2023",
+  "listing_date_iso": "2023-01-12",
+  "listing_publication_type": "Guideline",
+  "listing_category": "Sound Business and Financial Practices",
+  "listing_sector": [
+    "Banks",
+    "Foreign Bank Branches",
+    "Trust and Loan Companies",
+    "Life Insurance and Fraternal Companies",
+    "Property and Casualty Companies"
+  ],
+  "crawl_timestamp": "2026-03-11T00:00:00Z",
+  "detail_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/infosheet-residential-mortgage-underwriting-practices-procedures-guideline-b-20",
+  "canonical_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/infosheet-residential-mortgage-underwriting-practices-procedures-guideline-b-20",
+  "slug": "infosheet-residential-mortgage-underwriting-practices-procedures-guideline-b-20",
+  "title": "Infosheet - Residential Mortgage Underwriting Practices and Procedures Guideline (B-20)",
+  "publication_type": "Guideline",
+  "category": "Sound Business and Financial Practices",
+  "document_date_raw": "January 12, 2023",
+  "document_date_iso": "2023-01-12",
+  "sector": [
+    "Banks",
+    "Foreign Bank Branches",
+    "Trust and Loan Companies",
+    "Life Insurance and Fraternal Companies",
+    "Property and Casualty Companies"
+  ],
+  "effective_date_text": "",
+  "guideline_number": "B-20",
+  "date_modified_raw": "2023-01-12T12:00:00Z",
+  "generate_pdf_url": "https://www.osfi-bsif.gc.ca/en/print/pdf/node/1374",
+  "pdf_node_id": 1374,
+  "direct_pdf_url": null,
+  "has_table_of_contents": true,
+  "toc_entries": [],
+  "has_related_documents": true,
+  "related_document_links_raw": [
+    {
+      "title": "Guideline B-20: Residential Mortgage Underwriting Practices and Procedures",
+      "url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/residential-mortgage-underwriting-practices-procedures-guideline-2017"
+    },
+    {
+      "title": "Advisory: Clarification on the treatment of innovative real estate secured lendi",
+      "url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/clarification-treatment-innovative-real-estate-secured-lending-products-under-guideline-b-20"
+    }
+  ],
+  "consultation_status_text": null,
+  "consultation_status_refers_to_version": null,
+  "page_language": "en",
+  "word_count_raw_body": 5198,
+  "doc_id": "osfi.b20.standalone",
+  "doc_family_id": "osfi.b20",
+  "version_id": "",
+  "version_label": "Infosheet - Residential Mortgage Underwriting Practices and ",
+  "version_sort_key": "",
+  "parent_doc_id": null,
+  "child_doc_ids": [],
+  "is_package_page": false,
+  "is_chapter_page": false,
+  "chapter_number": null,
+  "chapter_title": null,
+  "document_order_within_family": 0,
+  "supersedes_doc_id": null,
+  "superseded_by_doc_id": null,
+  "current_version_flag": true,
+  "status": "final_current",
+  "include_in_primary_corpus": true,
+  "include_in_support_corpus": false,
+  "include_in_context_corpus": false,
+  "effective_date_start": "2023-01-12",
+  "effective_date_end": null,
+  "effective_date_fye_split": false,
+  "effective_date_oct_fye": null,
+  "effective_date_dec_fye": null,
+  "is_future_effective": false,
+  "is_rescinded": false,
+  "is_draft_or_consultation": false,
+  "rescission_date": null,
+  "consultation_closing_date": null,
+  "as_of_applicability": "2026-03-23",
+  "rule_applied": "rule_5_final_current",
+  "authority_class": "primary_normative",
+  "authority_level": 100,
+  "nova_tier": 1,
+  "prudential_weight": 1.0,
+  "is_primary_normative": true,
+  "is_supporting_interpretive": false,
+  "is_context_only": false,
+  "document_class": "standalone_guideline",
+  "guidance_type_normalized": "guideline",
+  "section_headings": [
+    {
+      "level": 2,
+      "text": "Sound mortgage underwriting contributes to financial stability",
+      "id": "h2-0"
+    },
+    {
+      "level": 4,
+      "text": "Elevated level of household indebtedness",
+      "id": "h4-1"
+    },
+    {
+      "level": 4,
+      "text": "Potential losses at financial institutions",
+      "id": "h4-2"
+    },
+    {
+      "level": 4,
+      "text": "Elevated level of household indebtedness",
+      "id": "h4-3"
+    },
+    {
+      "level": 4,
+      "text": "Potential losses at financial institutions",
+      "id": "h4-4"
+    },
+    {
+      "level": 3,
+      "text": "Summary",
+      "id": "h3-5"
+    }
+  ],
+  "heading_path": [
+    "Infosheet - Residential Mortgage Underwriting Practices and Procedures Guideline (B-20)"
+  ],
+  "toc_depth": 4,
+  "has_appendices": false,
+  "appendix_ids": [],
+  "has_tables": true,
+  "table_count": 8,
+  "has_footnotes": false,
+  "footnote_count": 0,
+  "inline_cross_references": [
+    "Guideline B-20 and statistics on some of the risk areas that OSFI continue",
+    "Guideline B-20 in 2018",
+    "Guideline B-20"
+  ],
+  "quoted_external_references": [],
+  "raw_html_sha256": "ab4f5bfac12a2917af188da7f4d190e092636ea95c6b30430b729d7d04c62382",
+  "raw_pdf_sha256": null,
+  "normalized_text_sha256": null,
+  "raw_html_path": "bronze/osfi/html/final_current/infosheet-residential-mortgage-underwriting-practices-procedures-guideline-b-20.html",
+  "normalized_md_path": "silver/osfi/md/final_current/infosheet-residential-mortgage-underwriting-practices-procedures-guideline-b-20.md",
+  "canonical_json_path": "silver/osfi/json/final_current/infosheet-residential-mortgage-underwriting-practices-procedures-guideline-b-20.json",
+  "content_source": "HTML",
+  "parser_version": "osfi-parser-v2.1.0",
+  "normalizer_version": "osfi-normalizer-v1.4.0",
+  "quality_score": 1.0,
+  "quality_flags": [],
+  "download_timestamp": "2026-03-11T00:00:00Z",
+  "enriched_timestamp": "2026-03-23T09:53:52.387451Z",
+  "sections": [
+    {
+      "heading": "",
+      "heading_level": 2,
+      "full_text": "  - Guideline B-20: Residential Mortgage Underwriting Practices and Procedures\n  - Advisory: Clarification on the treatment of innovative real estate secured lending products under Guideline B-20 - 2022",
+      "content": [
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Guideline B-20: Residential Mortgage Underwriting Practices and Procedures",
+            "Advisory: Clarification on the treatment of innovative real estate secured lending products under Guideline B-20 - 2022"
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "Sound mortgage underwriting contributes to financial stability",
+      "heading_level": 2,
+      "full_text": "The safety and stability of federally regulated financial institutions (FRFIs) is fundamental to the ongoing health of Canada’s financial system. OSFI contributes to public confidence in the Canadian financial system by fulfilling its mandate to protect the interests of depositors and other creditors of financial institutions. It does this through supervising FRFIs and setting standards that improve their resilience, both under normal conditions and in the event of a financial downturn.\nOSFI monitors the housing market to better understand risks facing FRFIs. Lenders subject to OSFI supervision hold nearly 80 percent of all residential mortgages issued in Canada, and residential mortgage loans account for almost 30 percent of the total assets held by these lenders. Sound mortgage underwriting practices reduce risks to the financial system and to Canadians who entrust their savings to Canada’s financial institutions.\nThis information sheet is updated periodically to provide information about the effectiveness of Guideline B-20 and statistics on some of the risk areas that OSFI continues to monitor.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "The safety and stability of federally regulated financial institutions (FRFIs) is fundamental to the ongoing health of Canada’s financial system. OSFI contributes to public confidence in the Canadian financial system by fulfilling its mandate to protect the interests of depositors and other creditors of financial institutions. It does this through supervising FRFIs and setting standards that improve their resilience, both under normal conditions and in the event of a financial downturn."
+        },
+        {
+          "type": "paragraph",
+          "text": "OSFI monitors the housing market to better understand risks facing FRFIs. Lenders subject to OSFI supervision hold nearly 80 percent of all residential mortgages issued in Canada, and residential mortgage loans account for almost 30 percent of the total assets held by these lenders. Sound mortgage underwriting practices reduce risks to the financial system and to Canadians who entrust their savings to Canada’s financial institutions."
+        },
+        {
+          "type": "paragraph",
+          "text": "This information sheet is updated periodically to provide information about the effectiveness of Guideline B-20 and statistics on some of the risk areas that OSFI continues to monitor."
+        }
+      ]
+    },
+    {
+      "heading": "Elevated level of household indebtedness",
+      "heading_level": 4,
+      "full_text": "Over the last few decades, Canadian household debt relative to disposable income has increased and is at a near record high level. ( See Chart 1 )\nChart 1 - Household debt to disposable income (seasonally adjusted)\n[Image: Chart 1, text description follows] (https://www.osfi-bsif.gc.ca/sites/default/files/2023-06/b20-img1_0.png)\nTable: Chart 1 - Household Debt to Disposable Income (Seasonally Adjusted)\nQuarters | %\nQ1 1990 | 89%\nQ2 1990 | 94%\nQ3 1990 | 93%\nQ4 1990 | 93%\nQ1 1991 | 92%\nQ2 1991 | 95%\nQ3 1991 | 95%\nQ4 1991 | 95%\nQ1 1992 | 96%\nQ2 1992 | 96%\nQ3 1992 | 95%\nQ4 1992 | 97%\nQ1 1993 | 97%\nQ2 1993 | 95%\nQ3 1993 | 99%\nQ4 1993 | 101%\nQ1 1994 | 100%\nQ2 1994 | 100%\nQ3 1994 | 102%\nQ4 1994 | 102%\nQ1 1995 | 102%\nQ2 1995 | 103%\nQ3 1995 | 105%\nQ4 1995 | 105%\nQ1 1996 | 105%\nQ2 1996 | 106%\nQ3 1996 | 108%\nQ4 1996 | 108%\nQ1 1997 | 108%\nQ2 1997 | 110%\nQ3 1997 | 109%\nQ4 1997 | 110%\nQ1 1998 | 111%\nQ2 1998 | 113%\nQ3 1998 | 112%\nQ4 1998 | 112%\nQ1 1999 | 112%\nQ2 1999 | 112%\nQ3 1999 | 113%\nQ4 1999 | 113%\nQ1 2000 | 114%\nQ2 2000 | 113%\nQ3 2000 | 113%\nQ4 2000 | 112%\nQ1 2001 | 109%\nQ2 2001 | 113%\nQ3 2001 | 113%\nQ4 2001 | 113%\nQ1 2002 | 113%\nQ2 2002 | 116%\nQ3 2002 | 116%\nQ4 2002 | 117%\nQ1 2003 | 116%\nQ2 2003 | 120%\nQ3 2003 | 123%\nQ4 2003 | 124%\nQ1 2004 | 124%\nQ2 2004 | 126%\nQ3 2004 | 128%\nQ4 2004 | 130%\nQ1 2005 | 133%\nQ2 2005 | 134%\nQ3 2005 | 137%\nQ4 2005 | 138%\nQ1 2006 | 136%\nQ2 2006 | 140%\nQ3 2006 | 140%\nQ4 2006 | 141%\nQ1 2007 | 141%\nQ2 2007 | 147%\nQ3 2007 | 151%\nQ4 2007 | 152%\nQ1 2008 | 152%\nQ2 2008 | 154%\nQ3 2008 | 155%\nQ4 2008 | 157%\nQ1 2009 | 159%\nQ2 2009 | 162%\nQ3 2009 | 163%\nQ4 2009 | 164%\nQ1 2010 | 161%\nQ2 2010 | 167%\nQ3 2010 | 167%\nQ4 2010 | 166%\nQ1 2011 | 166%\nQ2 2011 | 169%\nQ3 2011 | 170%\nQ4 2011 | 169%\nQ1 2012 | 168%\nQ2 2012 | 170%\nQ3 2012 | 170%\nQ4 2012 | 170%\nQ1 2013 | 167%\nQ2 2013 | 169%\nQ3 2013 | 170%\nQ4 2013 | 170%\nQ1 2014 | 169%\nQ2 2014 | 171%\nQ3 2014 | 171%\nQ4 2014 | 172%\nQ1 2015 | 170%\nQ2 2015 | 171%\nQ3 2015 | 173%\nQ4 2015 | 175%\nQ1 2016 | 181%\nQ2 2016 | 181%\nQ3 2016 | 181%\nQ4 2016 | 181%\nQ1 2017 | 182%\nQ2 2017 | 182%\nQ3 2017 | 181%\nQ4 2017 | 181%\nQ1 2018 | 182%\nQ2 2018 | 184%\nQ3 2018 | 185%\nQ4 2018 | 183%\nQ1 2019 | 182%\nQ2 2019 | 181%\nQ3 2019 | 182%\nQ4 2019 | 181%\nQ1 2020 | 180%\nQ2 2020 | 162%\nQ3 2020 | 174%\nQ4 2020 | 178%\nQ1 2021 | 174%\nQ2 2021 | 176%\nQ3 2021 | 180%\nQ4 2021 | 185%\nQ1 2022 | 179%\nQ2 2022 | 182%\nSource: Statistics Canada\nMore recently, overnight rates and effective interest rates have increased significantly. ( See Chart 2 )\nChart 2 - Canada mortgage & housing corporation (5-year conventional mortgage lending rate)\n[Image: Chart 2, text description follows] (https://www.osfi-bsif.gc.ca/sites/default/files/2023-06/b20-img2.png)\nTable: Chart 2 - Canada Mortgage & Housing Corporation (5-Year Conventional Mortgage Lending Rate)\nFiling month | Canada Mortgage & Housing Corporation (5-Year Conventional Mortgage Lending Rate)\nJan-15 | 4.0%\nFeb-15 | 3.9%\nMar-15 | 3.8%\nApr-15 | 3.8%\nMay-15 | 3.7%\nJun-15 | 3.7%\nJul-15 | 3.7%\nAug-15 | 3.7%\nSep-15 | 3.7%\nOct-15 | 3.7%\nNov-15 | 3.7%\nDec-15 | 3.8%\nJan-16 | 3.8%\nFeb-16 | 3.8%\nMar-16 | 3.7%\nApr-16 | 3.7%\nMay-16 | 3.7%\nJun-16 | 3.7%\nJul-16 | 3.7%\nAug-16 | 3.7%\nSep-16 | 3.7%\nOct-16 | 3.7%\nNov-16 | 3.7%\nDec-16 | 3.7%\nJan-17 | 3.7%\nFeb-17 | 3.8%\nMar-17 | 3.7%\nApr-17 | 3.6%\nMay-17 | 3.6%\nJun-17 | 3.6%\nJul-17 | 3.7%\nAug-17 | 3.8%\nSep-17 | 3.9%\nOct-17 | 4.0%\nNov-17 | 4.0%\nDec-17 | 4.1%\nJan-18 | 4.1%\nFeb-18 | 4.3%\nMar-18 | 4.3%\nApr-18 | 4.3%\nMay-18 | 4.4%\nJun-18 | 4.3%\nJul-18 | 4.4%\nAug-18 | 4.4%\nSep-18 | 4.4%\nOct-18 | 4.5%\nNov-18 | 4.4%\nDec-18 | 4.6%\nJan-19 | 4.6%\nFeb-19 | 4.5%\nMar-19 | 4.4%\nApr-19 | 4.3%\nMay-19 | 4.3%\nJun-19 | 4.2%\nJul-19 | 4.1%\nAug-19 | 4.1%\nSep-19 | 4.1%\nOct-19 | 4.1%\nNov-19 | 4.1%\nDec-19 | 4.1%\nJan-20 | 4.1%\nFeb-20 | 4.1%\nMar-20 | 3.9%\nApr-20 | 4.0%\nMay-20 | 3.9%\nJun-20 | 3.8%\nJul-20 | 3.6%\nAug-20 | 3.6%\nSep-20 | 3.5%\nOct-20 | 3.5%\nNov-20 | 3.4%\nDec-20 | 3.3%\nJan-21 | 3.3%\nFeb-21 | 3.3%\nMar-21 | 3.3%\nApr-21 | 3.3%\nMay-21 | 3.3%\nJun-21 | 3.3%\nJul-21 | 3.2%\nAug-21 | 3.2%\nSep-21 | 3.2%\nOct-21 | 3.3%\nNov-21 | 3.4%\nDec-21 | 3.5%\nJan-22 | 3.4%\nFeb-22 | 3.6%\nMar-22 | 3.8%\nApr-22 | 4.2%\nMay-22 | 4.6%\nJun-22 | 5.1%\nJul-22 | 5.5%\nAug-22 | 5.6%\nSource: Statistics Canada\nThe combination of record high debt levels, inflation, and the possibility of continued increases in interest rates could lead to a reduction in the ability of borrowers to service their debt. As a larger share of their income is used to service existing debts, new and existing mortgage borrowers may respond to higher debt servicing costs in a number of ways.\nExisting borrowers\n  - Reduce savings and spending in other areas\n  - Refinance and extend amortization\n  - Reduce debt servicing costs\nNew borrowers\n  - Buy less expensive dwelling\n  - Increase down payment\n  - Delay purchase of dwelling\nThe debt service ratio measures the share of average borrowers’ incomes that must go towards servicing their debt obligations through interest (and depending on the version of the metric, may also include principal payments). The share of high gross debt service (GDS) lending has risen over time. ( See Chart 3 )\nChart 3 - Proportion of uninsured mortgages with GDS > 39%\n[Image: Chart 3, text description follows] (https://www.osfi-bsif.gc.ca/sites/default/files/2023-06/b20-img3.png)\nTable: Chart 3 - Proportion of Uninsured Mortgages with GDS > 39%\nFiling month | GDS > qualifying 39% | GDS > contract 39%\nJan-15 | 8.2% | 4.4%\nFeb-15 | 8.8% | 4.7%\nMar-15 | 8.9% | 5.2%\nApr-15 | 9.1% | 5.2%\nMay-15 | 9.0% | 5.2%\nJun-15 | 9.0% | 5.2%\nJul-15 | 9.3% | 5.4%\nAug-15 | 8.4% | 4.4%\nSep-15 | 8.2% | 3.6%\nOct-15 | 8.0% | 3.7%\nNov-15 | 8.4% | 3.8%\nDec-15 | 8.4% | 4.0%\nJan-16 | 9.1% | 4.2%\nFeb-16 | 8.7% | 4.4%\nMar-16 | 9.4% | 4.5%\nApr-16 | 8.8% | 4.2%\nMay-16 | 8.6% | 3.8%\nJun-16 | 8.9% | 3.9%\nJul-16 | 9.3% | 3.9%\nAug-16 | 9.5% | 4.1%\nSep-16 | 9.4% | 4.2%\nOct-16 | 9.4% | 4.2%\nNov-16 | 9.6% | 4.4%\nDec-16 | 9.8% | 4.5%\nJan-17 | 10.4% | 4.9%\nFeb-17 | 10.2% | 4.9%\nMar-17 | 10.2% | 4.7%\nApr-17 | 10.5% | 4.8%\nMay-17 | 10.2% | 4.2%\nJun-17 | 9.6% | 3.7%\nJul-17 | 8.6% | 3.5%\nAug-17 | 8.8% | 3.8%\nSep-17 | 8.6% | 3.9%\nOct-17 | 8.4% | 3.5%\nNov-17 | 9.2% | 4.0%\nDec-17 | 9.5% | 4.2%\nJan-18 | 11.7% | 3.9%\nFeb-18 | 11.2% | 4.3%\nMar-18 | 11.1% | 3.9%\nApr-18 | 10.9% | 3.8%\nMay-18 | 10.6% | 3.5%\nJun-18 | 10.6% | 3.2%\nJul-18 | 11.5% | 3.7%\nAug-18 | 10.9% | 3.4%\nSep-18 | 11.1% | 3.7%\nOct-18 | 11.2% | 3.8%\nNov-18 | 11.9% | 3.8%\nDec-18 | 12.5% | 4.4%\nJan-19 | 13.6% | 4.7%\nFeb-19 | 12.7% | 4.6%\nMar-19 | 12.9% | 4.5%\nApr-19 | 12.5% | 4.5%\nMay-19 | 12.6% | 4.3%\nJun-19 | 12.4% | 3.9%\nJul-19 | 12.5% | 3.7%\nAug-19 | 12.3% | 3.6%\nSep-19 | 13.0% | 3.8%\nOct-19 | 13.1% | 4.0%\nNov-19 | 13.5% | 4.2%\nDec-19 | 14.1% | 4.7%\nJan-20 | 14.6% | 5.0%\nFeb-20 | 14.4% | 5.0%\nMar-20 | 13.5% | 4.1%\nApr-20 | 12.4% | 3.4%\nMay-20 | 12.5% | 3.7%\nJun-20 | 11.8% | 3.6%\nJul-20 | 12.2% | 3.3%\nAug-20 | 13.0% | 3.5%\nSep-20 | 13.0% | 3.6%\nOct-20 | 13.2% | 3.3%\nNov-20 | 13.4% | 3.4%\nDec-20 | 14.0% | 3.7%\nJan-21 | 14.4% | 3.8%\nFeb-21 | 13.9% | 3.6%\nMar-21 | 14.2% | 3.6%\nApr-21 | 14.2% | 3.5%\nMay-21 | 15.5% | 4.1%\nJun-21 | 17.0% | 3.7%\nJul-21 | 17.5% | 4.1%\nAug-21 | 18.3% | 4.4%\nSep-21 | 17.7% | 4.2%\nOct-21 | 18.2% | 4.4%\nNov-21 | 18.4% | 4.7%\nDec-21 | 18.7% | 4.7%\nJan-22 | 19.7% | 5.1%\nFeb-22 | 19.7% | 5.2%\nMar-22 | 19.2% | 5.5%\nApr-22 | 19.8% | 5.9%\nMay-22 | 20.1% | 6.5%\nJun-22 | 20.5% | 7.3%\nJul-22 | 21.3% | 8.2%\nSource: FRFI filings to OSFI This chart includes uninsured mortgage data from 20 federally regulated mortgage lenders. These lenders hold more than 99 per cent (by $) of all mortgages subject to OSFI regulation and supervision. , Contract GDS is calculated using the contract interest rate at the time of funding.\nHigher debt service ratios have the most direct impact on FRFIs, as they lead to higher default probabilities and potential losses at these lenders. One of the key strategies FRFIs and borrowers have been using to offset the impact of interest rate increases on debt service ratios is to extend the amortization periods of mortgage originations. ( See Chart 4 )\nChart 4 - Average amortization length of uninsured mortgage originations\nTable: Chart 4 - Average Amortization Length of Uninsured Mortgage Originations\nFiling month | Average Amortization Length in Years (LHS) | Proportion > 25 Years (RHS)\nJan-15 | 24.3 | 58.07%\nFeb-15 | 24.0 | 55.87%\nMar-15 | 24.1 | 56.63%\nApr-15 | 24.1 | 56.85%\nMay-15 | 23.7 | 55.96%\nJun-15 | 24.1 | 57.89%\nJul-15 | 24.1 | 58.89%\nAug-15 | 24.8 | 61.15%\nSep-15 | 24.6 | 60.71%\nOct-15 | 24.7 | 60.77%\nNov-15 | 24.8 | 61.89%\nDec-15 | 24.7 | 61.80%\nJan-16 | 25.0 | 63.76%\nFeb-16 | 24.6 | 62.48%\nMar-16 | 24.7 | 62.97%\nApr-16 | 24.8 | 63.33%\nMay-16 | 24.9 | 63.36%\nJun-16 | 25.1 | 64.92%\nJul-16 | 25.2 | 65.35%\nAug-16 | 25.2 | 65.73%\nSep-16 | 25.2 | 65.57%\nOct-16 | 25.2 | 66.35%\nNov-16 | 25.4 | 66.59%\nDec-16 | 25.2 | 64.86%\nJan-17 | 25.4 | 62.82%\nFeb-17 | 24.4 | 55.23%\nMar-17 | 24.2 | 52.75%\nApr-17 | 24.4 | 51.18%\nMay-17 | 24.6 | 50.77%\nJun-17 | 24.6 | 50.51%\nJul-17 | 24.5 | 53.07%\nAug-17 | 24.5 | 50.51%\nSep-17 | 24.4 | 51.36%\nOct-17 | 24.4 | 50.50%\nNov-17 | 24.6 | 51.31%\nDec-17 | 24.8 | 52.95%\nJan-18 | 24.7 | 55.70%\nFeb-18 | 24.3 | 49.98%\nMar-18 | 24.3 | 48.72%\nApr-18 | 24.2 | 47.89%\nMay-18 | 24.2 | 46.02%\nJun-18 | 24.2 | 44.50%\nJul-18 | 24.3 | 51.02%\nAug-18 | 24.3 | 46.79%\nSep-18 | 24.3 | 46.69%\nOct-18 | 24.5 | 52.83%\nNov-18 | 24.5 | 50.88%\nDec-18 | 24.6 | 49.96%\nJan-19 | 24.8 | 51.24%\nFeb-19 | 24.6 | 50.89%\nMar-19 | 24.6 | 51.64%\nApr-19 | 24.5 | 49.72%\nMay-19 | 24.5 | 48.84%\nJun-19 | 24.5 | 47.15%\nJul-19 | 24.4 | 48.97%\nAug-19 | 24.7 | 50.36%\nSep-19 | 24.6 | 49.87%\nOct-19 | 24.8 | 51.79%\nNov-19 | 24.8 | 52.00%\nDec-19 | 24.8 | 50.95%\nJan-20 | 24.8 | 51.19%\nFeb-20 | 24.6 | 51.21%\nMar-20 | 24.5 | 47.70%\nApr-20 | 24.7 | 49.47%\nMay-20 | 24.5 | 49.04%\nJun-20 | 24.4 | 47.73%\nJul-20 | 24.6 | 47.95%\nAug-20 | 24.7 | 50.09%\nSep-20 | 24.8 | 50.52%\nOct-20 | 25.0 | 51.61%\nNov-20 | 25.0 | 52.18%\nDec-20 | 25.1 | 51.65%\nJan-21 | 25.0 | 52.43%\nFeb-21 | 25.0 | 51.87%\nMar-21 | 25.1 | 52.14%\nApr-21 | 25.2 | 52.55%\nMay-21 | 25.4 | 54.40%\nJun-21 | 25.4 | 53.90%\nJul-21 | 25.5 | 56.55%\nAug-21 | 25.5 | 57.12%\nSep-21 | 25.5 | 57.18%\nOct-21 | 25.6 | 58.54%\nNov-21 | 25.6 | 58.15%\nDec-21 | 25.6 | 59.55%\nJan-22 | 26.0 | 63.23%\nFeb-22 | 25.8 | 62.89%\nMar-22 | 25.9 | 67.10%\nApr-22 | 26.3 | 70.05%\nMay-22 | 25.9 | 65.25%\nJun-22 | 26.0 | 65.68%\nJul-22 | 26.8 | 66.92%\nSource: FRFI filings to OSFI This chart includes uninsured mortgage data from 20 federally regulated mortgage lenders. These lenders hold more than 99 per cent (by $) of all mortgages subject to OSFI regulation and supervision.\nDue to the recent and further expected rate increases, for the first time in years, consumers renewing their mortgages are facing materially higher interest rates than the rates on their expiring loans. Particularly at risk are borrowers with variable-rate mortgages and loans that are coming up for renewal. In addition to the rate shock felt by borrowers who are renewing 5-year term mortgages, the impact of rising rates may be felt earlier on some variable rate mortgages, the proportion of which has increased during the pandemic. ( See Chart 5 )\nChart 5 - Proportion of newly originated uninsured variable rate mortgages\n[Image: Chart 5, text description follows] (https://www.osfi-bsif.gc.ca/sites/default/files/2023-06/b20-img5.png)\nTable: Chart 5 - Proportion of Newly Originated Uninsured Variable Rate Mortgages\nFiling month | Uninsured Variable proportion (by loan count)\nJan-15 | 31.35%\nFeb-15 | 35.44%\nMar-15 | 35.68%\nApr-15 | 32.12%\nMay-15 | 29.73%\nJun-15 | 29.63%\nJul-15 | 31.83%\nAug-15 | 37.48%\nSep-15 | 39.17%\nOct-15 | 38.41%\nNov-15 | 34.08%\nDec-15 | 30.23%\nJan-16 | 27.88%\nFeb-16 | 24.62%\nMar-16 | 20.30%\nApr-16 | 17.42%\nMay-16 | 15.62%\nJun-16 | 15.77%\nJul-16 | 16.45%\nAug-16 | 17.22%\nSep-16 | 17.30%\nOct-16 | 17.23%\nNov-16 | 16.09%\nDec-16 | 15.15%\nJan-17 | 16.72%\nFeb-17 | 19.00%\nMar-17 | 21.45%\nApr-17 | 23.79%\nMay-17 | 26.23%\nJun-17 | 26.19%\nJul-17 | 21.59%\nAug-17 | 19.52%\nSep-17 | 18.61%\nOct-17 | 16.28%\nNov-17 | 18.77%\nDec-17 | 20.84%\nJan-18 | 22.27%\nFeb-18 | 21.00%\nMar-18 | 21.21%\nApr-18 | 24.05%\nMay-18 | 28.28%\nJun-18 | 39.31%\nJul-18 | 44.36%\nAug-18 | 42.44%\nSep-18 | 39.18%\nOct-18 | 34.72%\nNov-18 | 28.26%\nDec-18 | 24.93%\nJan-19 | 25.40%\nFeb-19 | 23.38%\nMar-19 | 20.66%\nApr-19 | 16.33%\nMay-19 | 11.75%\nJun-19 | 8.96%\nJul-19 | 6.92%\nAug-19 | 6.35%\nSep-19 | 5.43%\nOct-19 | 5.25%\nNov-19 | 5.20%\nDec-19 | 5.32%\nJan-20 | 6.42%\nFeb-20 | 8.54%\nMar-20 | 15.15%\nApr-20 | 23.68%\nMay-20 | 26.51%\nJun-20 | 27.12%\nJul-20 | 27.31%\nAug-20 | 27.29%\nSep-20 | 26.11%\nOct-20 | 24.81%\nNov-20 | 24.54%\nDec-20 | 26.51%\nJan-21 | 28.46%\nFeb-21 | 27.65%\nMar-21 | 30.71%\nApr-21 | 36.20%\nMay-21 | 42.77%\nJun-21 | 45.21%\nJul-21 | 50.38%\nAug-21 | 52.69%\nSep-21 | 53.08%\nOct-21 | 53.18%\nNov-21 | 51.49%\nDec-21 | 51.77%\nJan-22 | 56.19%\nFeb-22 | 55.40%\nMar-22 | 55.72%\nApr-22 | 53.10%\nMay-22 | 49.50%\nJun-22 | 47.00%\nJul-22 | 46.15%\nSource: FRFI filings to OSFI This chart includes uninsured mortgage data from 20 federally regulated mortgage lenders. These lenders hold more than 99 per cent (by $) of all mortgages subject to OSFI regulation and supervision.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Over the last few decades, Canadian household debt relative to disposable income has increased and is at a near record high level. ( See Chart 1 )"
+        },
+        {
+          "type": "paragraph",
+          "text": "Chart 1 - Household debt to disposable income (seasonally adjusted)"
+        },
+        {
+          "type": "image",
+          "src": "https://www.osfi-bsif.gc.ca/sites/default/files/2023-06/b20-img1_0.png",
+          "alt": "Chart 1, text description follows",
+          "caption": "Chart 1, text description follows"
+        },
+        {
+          "type": "table",
+          "caption": "Chart 1 - Household Debt to Disposable Income (Seasonally Adjusted)",
+          "rows": [
+            [
+              "Quarters",
+              "%"
+            ],
+            [
+              "Q1 1990",
+              "89%"
+            ],
+            [
+              "Q2 1990",
+              "94%"
+            ],
+            [
+              "Q3 1990",
+              "93%"
+            ],
+            [
+              "Q4 1990",
+              "93%"
+            ],
+            [
+              "Q1 1991",
+              "92%"
+            ],
+            [
+              "Q2 1991",
+              "95%"
+            ],
+            [
+              "Q3 1991",
+              "95%"
+            ],
+            [
+              "Q4 1991",
+              "95%"
+            ],
+            [
+              "Q1 1992",
+              "96%"
+            ],
+            [
+              "Q2 1992",
+              "96%"
+            ],
+            [
+              "Q3 1992",
+              "95%"
+            ],
+            [
+              "Q4 1992",
+              "97%"
+            ],
+            [
+              "Q1 1993",
+              "97%"
+            ],
+            [
+              "Q2 1993",
+              "95%"
+            ],
+            [
+              "Q3 1993",
+              "99%"
+            ],
+            [
+              "Q4 1993",
+              "101%"
+            ],
+            [
+              "Q1 1994",
+              "100%"
+            ],
+            [
+              "Q2 1994",
+              "100%"
+            ],
+            [
+              "Q3 1994",
+              "102%"
+            ],
+            [
+              "Q4 1994",
+              "102%"
+            ],
+            [
+              "Q1 1995",
+              "102%"
+            ],
+            [
+              "Q2 1995",
+              "103%"
+            ],
+            [
+              "Q3 1995",
+              "105%"
+            ],
+            [
+              "Q4 1995",
+              "105%"
+            ],
+            [
+              "Q1 1996",
+              "105%"
+            ],
+            [
+              "Q2 1996",
+              "106%"
+            ],
+            [
+              "Q3 1996",
+              "108%"
+            ],
+            [
+              "Q4 1996",
+              "108%"
+            ],
+            [
+              "Q1 1997",
+              "108%"
+            ],
+            [
+              "Q2 1997",
+              "110%"
+            ],
+            [
+              "Q3 1997",
+              "109%"
+            ],
+            [
+              "Q4 1997",
+              "110%"
+            ],
+            [
+              "Q1 1998",
+              "111%"
+            ],
+            [
+              "Q2 1998",
+              "113%"
+            ],
+            [
+              "Q3 1998",
+              "112%"
+            ],
+            [
+              "Q4 1998",
+              "112%"
+            ],
+            [
+              "Q1 1999",
+              "112%"
+            ],
+            [
+              "Q2 1999",
+              "112%"
+            ],
+            [
+              "Q3 1999",
+              "113%"
+            ],
+            [
+              "Q4 1999",
+              "113%"
+            ],
+            [
+              "Q1 2000",
+              "114%"
+            ],
+            [
+              "Q2 2000",
+              "113%"
+            ],
+            [
+              "Q3 2000",
+              "113%"
+            ],
+            [
+              "Q4 2000",
+              "112%"
+            ],
+            [
+              "Q1 2001",
+              "109%"
+            ],
+            [
+              "Q2 2001",
+              "113%"
+            ],
+            [
+              "Q3 2001",
+              "113%"
+            ],
+            [
+              "Q4 2001",
+              "113%"
+            ],
+            [
+              "Q1 2002",
+              "113%"
+            ],
+            [
+              "Q2 2002",
+              "116%"
+            ],
+            [
+              "Q3 2002",
+              "116%"
+            ],
+            [
+              "Q4 2002",
+              "117%"
+            ],
+            [
+              "Q1 2003",
+              "116%"
+            ],
+            [
+              "Q2 2003",
+              "120%"
+            ],
+            [
+              "Q3 2003",
+              "123%"
+            ],
+            [
+              "Q4 2003",
+              "124%"
+            ],
+            [
+              "Q1 2004",
+              "124%"
+            ],
+            [
+              "Q2 2004",
+              "126%"
+            ],
+            [
+              "Q3 2004",
+              "128%"
+            ],
+            [
+              "Q4 2004",
+              "130%"
+            ],
+            [
+              "Q1 2005",
+              "133%"
+            ],
+            [
+              "Q2 2005",
+              "134%"
+            ],
+            [
+              "Q3 2005",
+              "137%"
+            ],
+            [
+              "Q4 2005",
+              "138%"
+            ],
+            [
+              "Q1 2006",
+              "136%"
+            ],
+            [
+              "Q2 2006",
+              "140%"
+            ],
+            [
+              "Q3 2006",
+              "140%"
+            ],
+            [
+              "Q4 2006",
+              "141%"
+            ],
+            [
+              "Q1 2007",
+              "141%"
+            ],
+            [
+              "Q2 2007",
+              "147%"
+            ],
+            [
+              "Q3 2007",
+              "151%"
+            ],
+            [
+              "Q4 2007",
+              "152%"
+            ],
+            [
+              "Q1 2008",
+              "152%"
+            ],
+            [
+              "Q2 2008",
+              "154%"
+            ],
+            [
+              "Q3 2008",
+              "155%"
+            ],
+            [
+              "Q4 2008",
+              "157%"
+            ],
+            [
+              "Q1 2009",
+              "159%"
+            ],
+            [
+              "Q2 2009",
+              "162%"
+            ],
+            [
+              "Q3 2009",
+              "163%"
+            ],
+            [
+              "Q4 2009",
+              "164%"
+            ],
+            [
+              "Q1 2010",
+              "161%"
+            ],
+            [
+              "Q2 2010",
+              "167%"
+            ],
+            [
+              "Q3 2010",
+              "167%"
+            ],
+            [
+              "Q4 2010",
+              "166%"
+            ],
+            [
+              "Q1 2011",
+              "166%"
+            ],
+            [
+              "Q2 2011",
+              "169%"
+            ],
+            [
+              "Q3 2011",
+              "170%"
+            ],
+            [
+              "Q4 2011",
+              "169%"
+            ],
+            [
+              "Q1 2012",
+              "168%"
+            ],
+            [
+              "Q2 2012",
+              "170%"
+            ],
+            [
+              "Q3 2012",
+              "170%"
+            ],
+            [
+              "Q4 2012",
+              "170%"
+            ],
+            [
+              "Q1 2013",
+              "167%"
+            ],
+            [
+              "Q2 2013",
+              "169%"
+            ],
+            [
+              "Q3 2013",
+              "170%"
+            ],
+            [
+              "Q4 2013",
+              "170%"
+            ],
+            [
+              "Q1 2014",
+              "169%"
+            ],
+            [
+              "Q2 2014",
+              "171%"
+            ],
+            [
+              "Q3 2014",
+              "171%"
+            ],
+            [
+              "Q4 2014",
+              "172%"
+            ],
+            [
+              "Q1 2015",
+              "170%"
+            ],
+            [
+              "Q2 2015",
+              "171%"
+            ],
+            [
+              "Q3 2015",
+              "173%"
+            ],
+            [
+              "Q4 2015",
+              "175%"
+            ],
+            [
+              "Q1 2016",
+              "181%"
+            ],
+            [
+              "Q2 2016",
+              "181%"
+            ],
+            [
+              "Q3 2016",
+              "181%"
+            ],
+            [
+              "Q4 2016",
+              "181%"
+            ],
+            [
+              "Q1 2017",
+              "182%"
+            ],
+            [
+              "Q2 2017",
+              "182%"
+            ],
+            [
+              "Q3 2017",
+              "181%"
+            ],
+            [
+              "Q4 2017",
+              "181%"
+            ],
+            [
+              "Q1 2018",
+              "182%"
+            ],
+            [
+              "Q2 2018",
+              "184%"
+            ],
+            [
+              "Q3 2018",
+              "185%"
+            ],
+            [
+              "Q4 2018",
+              "183%"
+            ],
+            [
+              "Q1 2019",
+              "182%"
+            ],
+            [
+              "Q2 2019",
+              "181%"
+            ],
+            [
+              "Q3 2019",
+              "182%"
+            ],
+            [
+              "Q4 2019",
+              "181%"
+            ],
+            [
+              "Q1 2020",
+              "180%"
+            ],
+            [
+              "Q2 2020",
+              "162%"
+            ],
+            [
+              "Q3 2020",
+              "174%"
+            ],
+            [
+              "Q4 2020",
+              "178%"
+            ],
+            [
+              "Q1 2021",
+              "174%"
+            ],
+            [
+              "Q2 2021",
+              "176%"
+            ],
+            [
+              "Q3 2021",
+              "180%"
+            ],
+            [
+              "Q4 2021",
+              "185%"
+            ],
+            [
+              "Q1 2022",
+              "179%"
+            ],
+            [
+              "Q2 2022",
+              "182%"
+            ]
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Source: Statistics Canada"
+        },
+        {
+          "type": "paragraph",
+          "text": "More recently, overnight rates and effective interest rates have increased significantly. ( See Chart 2 )"
+        },
+        {
+          "type": "paragraph",
+          "text": "Chart 2 - Canada mortgage & housing corporation (5-year conventional mortgage lending rate)"
+        },
+        {
+          "type": "image",
+          "src": "https://www.osfi-bsif.gc.ca/sites/default/files/2023-06/b20-img2.png",
+          "alt": "Chart 2, text description follows",
+          "caption": "Chart 2, text description follows"
+        },
+        {
+          "type": "table",
+          "caption": "Chart 2 - Canada Mortgage & Housing Corporation (5-Year Conventional Mortgage Lending Rate)",
+          "rows": [
+            [
+              "Filing month",
+              "Canada Mortgage & Housing Corporation (5-Year Conventional Mortgage Lending Rate)"
+            ],
+            [
+              "Jan-15",
+              "4.0%"
+            ],
+            [
+              "Feb-15",
+              "3.9%"
+            ],
+            [
+              "Mar-15",
+              "3.8%"
+            ],
+            [
+              "Apr-15",
+              "3.8%"
+            ],
+            [
+              "May-15",
+              "3.7%"
+            ],
+            [
+              "Jun-15",
+              "3.7%"
+            ],
+            [
+              "Jul-15",
+              "3.7%"
+            ],
+            [
+              "Aug-15",
+              "3.7%"
+            ],
+            [
+              "Sep-15",
+              "3.7%"
+            ],
+            [
+              "Oct-15",
+              "3.7%"
+            ],
+            [
+              "Nov-15",
+              "3.7%"
+            ],
+            [
+              "Dec-15",
+              "3.8%"
+            ],
+            [
+              "Jan-16",
+              "3.8%"
+            ],
+            [
+              "Feb-16",
+              "3.8%"
+            ],
+            [
+              "Mar-16",
+              "3.7%"
+            ],
+            [
+              "Apr-16",
+              "3.7%"
+            ],
+            [
+              "May-16",
+              "3.7%"
+            ],
+            [
+              "Jun-16",
+              "3.7%"
+            ],
+            [
+              "Jul-16",
+              "3.7%"
+            ],
+            [
+              "Aug-16",
+              "3.7%"
+            ],
+            [
+              "Sep-16",
+              "3.7%"
+            ],
+            [
+              "Oct-16",
+              "3.7%"
+            ],
+            [
+              "Nov-16",
+              "3.7%"
+            ],
+            [
+              "Dec-16",
+              "3.7%"
+            ],
+            [
+              "Jan-17",
+              "3.7%"
+            ],
+            [
+              "Feb-17",
+              "3.8%"
+            ],
+            [
+              "Mar-17",
+              "3.7%"
+            ],
+            [
+              "Apr-17",
+              "3.6%"
+            ],
+            [
+              "May-17",
+              "3.6%"
+            ],
+            [
+              "Jun-17",
+              "3.6%"
+            ],
+            [
+              "Jul-17",
+              "3.7%"
+            ],
+            [
+              "Aug-17",
+              "3.8%"
+            ],
+            [
+              "Sep-17",
+              "3.9%"
+            ],
+            [
+              "Oct-17",
+              "4.0%"
+            ],
+            [
+              "Nov-17",
+              "4.0%"
+            ],
+            [
+              "Dec-17",
+              "4.1%"
+            ],
+            [
+              "Jan-18",
+              "4.1%"
+            ],
+            [
+              "Feb-18",
+              "4.3%"
+            ],
+            [
+              "Mar-18",
+              "4.3%"
+            ],
+            [
+              "Apr-18",
+              "4.3%"
+            ],
+            [
+              "May-18",
+              "4.4%"
+            ],
+            [
+              "Jun-18",
+              "4.3%"
+            ],
+            [
+              "Jul-18",
+              "4.4%"
+            ],
+            [
+              "Aug-18",
+              "4.4%"
+            ],
+            [
+              "Sep-18",
+              "4.4%"
+            ],
+            [
+              "Oct-18",
+              "4.5%"
+            ],
+            [
+              "Nov-18",
+              "4.4%"
+            ],
+            [
+              "Dec-18",
+              "4.6%"
+            ],
+            [
+              "Jan-19",
+              "4.6%"
+            ],
+            [
+              "Feb-19",
+              "4.5%"
+            ],
+            [
+              "Mar-19",
+              "4.4%"
+            ],
+            [
+              "Apr-19",
+              "4.3%"
+            ],
+            [
+              "May-19",
+              "4.3%"
+            ],
+            [
+              "Jun-19",
+              "4.2%"
+            ],
+            [
+              "Jul-19",
+              "4.1%"
+            ],
+            [
+              "Aug-19",
+              "4.1%"
+            ],
+            [
+              "Sep-19",
+              "4.1%"
+            ],
+            [
+              "Oct-19",
+              "4.1%"
+            ],
+            [
+              "Nov-19",
+              "4.1%"
+            ],
+            [
+              "Dec-19",
+              "4.1%"
+            ],
+            [
+              "Jan-20",
+              "4.1%"
+            ],
+            [
+              "Feb-20",
+              "4.1%"
+            ],
+            [
+              "Mar-20",
+              "3.9%"
+            ],
+            [
+              "Apr-20",
+              "4.0%"
+            ],
+            [
+              "May-20",
+              "3.9%"
+            ],
+            [
+              "Jun-20",
+              "3.8%"
+            ],
+            [
+              "Jul-20",
+              "3.6%"
+            ],
+            [
+              "Aug-20",
+              "3.6%"
+            ],
+            [
+              "Sep-20",
+              "3.5%"
+            ],
+            [
+              "Oct-20",
+              "3.5%"
+            ],
+            [
+              "Nov-20",
+              "3.4%"
+            ],
+            [
+              "Dec-20",
+              "3.3%"
+            ],
+            [
+              "Jan-21",
+              "3.3%"
+            ],
+            [
+              "Feb-21",
+              "3.3%"
+            ],
+            [
+              "Mar-21",
+              "3.3%"
+            ],
+            [
+              "Apr-21",
+              "3.3%"
+            ],
+            [
+              "May-21",
+              "3.3%"
+            ],
+            [
+              "Jun-21",
+              "3.3%"
+            ],
+            [
+              "Jul-21",
+              "3.2%"
+            ],
+            [
+              "Aug-21",
+              "3.2%"
+            ],
+            [
+              "Sep-21",
+              "3.2%"
+            ],
+            [
+              "Oct-21",
+              "3.3%"
+            ],
+            [
+              "Nov-21",
+              "3.4%"
+            ],
+            [
+              "Dec-21",
+              "3.5%"
+            ],
+            [
+              "Jan-22",
+              "3.4%"
+            ],
+            [
+              "Feb-22",
+              "3.6%"
+            ],
+            [
+              "Mar-22",
+              "3.8%"
+            ],
+            [
+              "Apr-22",
+              "4.2%"
+            ],
+            [
+              "May-22",
+              "4.6%"
+            ],
+            [
+              "Jun-22",
+              "5.1%"
+            ],
+            [
+              "Jul-22",
+              "5.5%"
+            ],
+            [
+              "Aug-22",
+              "5.6%"
+            ]
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Source: Statistics Canada"
+        },
+        {
+          "type": "paragraph",
+          "text": "The combination of record high debt levels, inflation, and the possibility of continued increases in interest rates could lead to a reduction in the ability of borrowers to service their debt. As a larger share of their income is used to service existing debts, new and existing mortgage borrowers may respond to higher debt servicing costs in a number of ways."
+        },
+        {
+          "type": "paragraph",
+          "text": "Existing borrowers"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Reduce savings and spending in other areas",
+            "Refinance and extend amortization",
+            "Reduce debt servicing costs"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "New borrowers"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Buy less expensive dwelling",
+            "Increase down payment",
+            "Delay purchase of dwelling"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "The debt service ratio measures the share of average borrowers’ incomes that must go towards servicing their debt obligations through interest (and depending on the version of the metric, may also include principal payments). The share of high gross debt service (GDS) lending has risen over time. ( See Chart 3 )"
+        },
+        {
+          "type": "paragraph",
+          "text": "Chart 3 - Proportion of uninsured mortgages with GDS > 39%"
+        },
+        {
+          "type": "image",
+          "src": "https://www.osfi-bsif.gc.ca/sites/default/files/2023-06/b20-img3.png",
+          "alt": "Chart 3, text description follows",
+          "caption": "Chart 3, text description follows"
+        },
+        {
+          "type": "table",
+          "caption": "Chart 3 - Proportion of Uninsured Mortgages with GDS > 39%",
+          "rows": [
+            [
+              "Filing month",
+              "GDS > qualifying 39%",
+              "GDS > contract 39%"
+            ],
+            [
+              "Jan-15",
+              "8.2%",
+              "4.4%"
+            ],
+            [
+              "Feb-15",
+              "8.8%",
+              "4.7%"
+            ],
+            [
+              "Mar-15",
+              "8.9%",
+              "5.2%"
+            ],
+            [
+              "Apr-15",
+              "9.1%",
+              "5.2%"
+            ],
+            [
+              "May-15",
+              "9.0%",
+              "5.2%"
+            ],
+            [
+              "Jun-15",
+              "9.0%",
+              "5.2%"
+            ],
+            [
+              "Jul-15",
+              "9.3%",
+              "5.4%"
+            ],
+            [
+              "Aug-15",
+              "8.4%",
+              "4.4%"
+            ],
+            [
+              "Sep-15",
+              "8.2%",
+              "3.6%"
+            ],
+            [
+              "Oct-15",
+              "8.0%",
+              "3.7%"
+            ],
+            [
+              "Nov-15",
+              "8.4%",
+              "3.8%"
+            ],
+            [
+              "Dec-15",
+              "8.4%",
+              "4.0%"
+            ],
+            [
+              "Jan-16",
+              "9.1%",
+              "4.2%"
+            ],
+            [
+              "Feb-16",
+              "8.7%",
+              "4.4%"
+            ],
+            [
+              "Mar-16",
+              "9.4%",
+              "4.5%"
+            ],
+            [
+              "Apr-16",
+              "8.8%",
+              "4.2%"
+            ],
+            [
+              "May-16",
+              "8.6%",
+              "3.8%"
+            ],
+            [
+              "Jun-16",
+              "8.9%",
+              "3.9%"
+            ],
+            [
+              "Jul-16",
+              "9.3%",
+              "3.9%"
+            ],
+            [
+              "Aug-16",
+              "9.5%",
+              "4.1%"
+            ],
+            [
+              "Sep-16",
+              "9.4%",
+              "4.2%"
+            ],
+            [
+              "Oct-16",
+              "9.4%",
+              "4.2%"
+            ],
+            [
+              "Nov-16",
+              "9.6%",
+              "4.4%"
+            ],
+            [
+              "Dec-16",
+              "9.8%",
+              "4.5%"
+            ],
+            [
+              "Jan-17",
+              "10.4%",
+              "4.9%"
+            ],
+            [
+              "Feb-17",
+              "10.2%",
+              "4.9%"
+            ],
+            [
+              "Mar-17",
+              "10.2%",
+              "4.7%"
+            ],
+            [
+              "Apr-17",
+              "10.5%",
+              "4.8%"
+            ],
+            [
+              "May-17",
+              "10.2%",
+              "4.2%"
+            ],
+            [
+              "Jun-17",
+              "9.6%",
+              "3.7%"
+            ],
+            [
+              "Jul-17",
+              "8.6%",
+              "3.5%"
+            ],
+            [
+              "Aug-17",
+              "8.8%",
+              "3.8%"
+            ],
+            [
+              "Sep-17",
+              "8.6%",
+              "3.9%"
+            ],
+            [
+              "Oct-17",
+              "8.4%",
+              "3.5%"
+            ],
+            [
+              "Nov-17",
+              "9.2%",
+              "4.0%"
+            ],
+            [
+              "Dec-17",
+              "9.5%",
+              "4.2%"
+            ],
+            [
+              "Jan-18",
+              "11.7%",
+              "3.9%"
+            ],
+            [
+              "Feb-18",
+              "11.2%",
+              "4.3%"
+            ],
+            [
+              "Mar-18",
+              "11.1%",
+              "3.9%"
+            ],
+            [
+              "Apr-18",
+              "10.9%",
+              "3.8%"
+            ],
+            [
+              "May-18",
+              "10.6%",
+              "3.5%"
+            ],
+            [
+              "Jun-18",
+              "10.6%",
+              "3.2%"
+            ],
+            [
+              "Jul-18",
+              "11.5%",
+              "3.7%"
+            ],
+            [
+              "Aug-18",
+              "10.9%",
+              "3.4%"
+            ],
+            [
+              "Sep-18",
+              "11.1%",
+              "3.7%"
+            ],
+            [
+              "Oct-18",
+              "11.2%",
+              "3.8%"
+            ],
+            [
+              "Nov-18",
+              "11.9%",
+              "3.8%"
+            ],
+            [
+              "Dec-18",
+              "12.5%",
+              "4.4%"
+            ],
+            [
+              "Jan-19",
+              "13.6%",
+              "4.7%"
+            ],
+            [
+              "Feb-19",
+              "12.7%",
+              "4.6%"
+            ],
+            [
+              "Mar-19",
+              "12.9%",
+              "4.5%"
+            ],
+            [
+              "Apr-19",
+              "12.5%",
+              "4.5%"
+            ],
+            [
+              "May-19",
+              "12.6%",
+              "4.3%"
+            ],
+            [
+              "Jun-19",
+              "12.4%",
+              "3.9%"
+            ],
+            [
+              "Jul-19",
+              "12.5%",
+              "3.7%"
+            ],
+            [
+              "Aug-19",
+              "12.3%",
+              "3.6%"
+            ],
+            [
+              "Sep-19",
+              "13.0%",
+              "3.8%"
+            ],
+            [
+              "Oct-19",
+              "13.1%",
+              "4.0%"
+            ],
+            [
+              "Nov-19",
+              "13.5%",
+              "4.2%"
+            ],
+            [
+              "Dec-19",
+              "14.1%",
+              "4.7%"
+            ],
+            [
+              "Jan-20",
+              "14.6%",
+              "5.0%"
+            ],
+            [
+              "Feb-20",
+              "14.4%",
+              "5.0%"
+            ],
+            [
+              "Mar-20",
+              "13.5%",
+              "4.1%"
+            ],
+            [
+              "Apr-20",
+              "12.4%",
+              "3.4%"
+            ],
+            [
+              "May-20",
+              "12.5%",
+              "3.7%"
+            ],
+            [
+              "Jun-20",
+              "11.8%",
+              "3.6%"
+            ],
+            [
+              "Jul-20",
+              "12.2%",
+              "3.3%"
+            ],
+            [
+              "Aug-20",
+              "13.0%",
+              "3.5%"
+            ],
+            [
+              "Sep-20",
+              "13.0%",
+              "3.6%"
+            ],
+            [
+              "Oct-20",
+              "13.2%",
+              "3.3%"
+            ],
+            [
+              "Nov-20",
+              "13.4%",
+              "3.4%"
+            ],
+            [
+              "Dec-20",
+              "14.0%",
+              "3.7%"
+            ],
+            [
+              "Jan-21",
+              "14.4%",
+              "3.8%"
+            ],
+            [
+              "Feb-21",
+              "13.9%",
+              "3.6%"
+            ],
+            [
+              "Mar-21",
+              "14.2%",
+              "3.6%"
+            ],
+            [
+              "Apr-21",
+              "14.2%",
+              "3.5%"
+            ],
+            [
+              "May-21",
+              "15.5%",
+              "4.1%"
+            ],
+            [
+              "Jun-21",
+              "17.0%",
+              "3.7%"
+            ],
+            [
+              "Jul-21",
+              "17.5%",
+              "4.1%"
+            ],
+            [
+              "Aug-21",
+              "18.3%",
+              "4.4%"
+            ],
+            [
+              "Sep-21",
+              "17.7%",
+              "4.2%"
+            ],
+            [
+              "Oct-21",
+              "18.2%",
+              "4.4%"
+            ],
+            [
+              "Nov-21",
+              "18.4%",
+              "4.7%"
+            ],
+            [
+              "Dec-21",
+              "18.7%",
+              "4.7%"
+            ],
+            [
+              "Jan-22",
+              "19.7%",
+              "5.1%"
+            ],
+            [
+              "Feb-22",
+              "19.7%",
+              "5.2%"
+            ],
+            [
+              "Mar-22",
+              "19.2%",
+              "5.5%"
+            ],
+            [
+              "Apr-22",
+              "19.8%",
+              "5.9%"
+            ],
+            [
+              "May-22",
+              "20.1%",
+              "6.5%"
+            ],
+            [
+              "Jun-22",
+              "20.5%",
+              "7.3%"
+            ],
+            [
+              "Jul-22",
+              "21.3%",
+              "8.2%"
+            ]
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Source: FRFI filings to OSFI This chart includes uninsured mortgage data from 20 federally regulated mortgage lenders. These lenders hold more than 99 per cent (by $) of all mortgages subject to OSFI regulation and supervision. , Contract GDS is calculated using the contract interest rate at the time of funding."
+        },
+        {
+          "type": "paragraph",
+          "text": "Higher debt service ratios have the most direct impact on FRFIs, as they lead to higher default probabilities and potential losses at these lenders. One of the key strategies FRFIs and borrowers have been using to offset the impact of interest rate increases on debt service ratios is to extend the amortization periods of mortgage originations. ( See Chart 4 )"
+        },
+        {
+          "type": "paragraph",
+          "text": "Chart 4 - Average amortization length of uninsured mortgage originations"
+        },
+        {
+          "type": "table",
+          "caption": "Chart 4 - Average Amortization Length of Uninsured Mortgage Originations",
+          "rows": [
+            [
+              "Filing month",
+              "Average Amortization Length in Years (LHS)",
+              "Proportion > 25 Years (RHS)"
+            ],
+            [
+              "Jan-15",
+              "24.3",
+              "58.07%"
+            ],
+            [
+              "Feb-15",
+              "24.0",
+              "55.87%"
+            ],
+            [
+              "Mar-15",
+              "24.1",
+              "56.63%"
+            ],
+            [
+              "Apr-15",
+              "24.1",
+              "56.85%"
+            ],
+            [
+              "May-15",
+              "23.7",
+              "55.96%"
+            ],
+            [
+              "Jun-15",
+              "24.1",
+              "57.89%"
+            ],
+            [
+              "Jul-15",
+              "24.1",
+              "58.89%"
+            ],
+            [
+              "Aug-15",
+              "24.8",
+              "61.15%"
+            ],
+            [
+              "Sep-15",
+              "24.6",
+              "60.71%"
+            ],
+            [
+              "Oct-15",
+              "24.7",
+              "60.77%"
+            ],
+            [
+              "Nov-15",
+              "24.8",
+              "61.89%"
+            ],
+            [
+              "Dec-15",
+              "24.7",
+              "61.80%"
+            ],
+            [
+              "Jan-16",
+              "25.0",
+              "63.76%"
+            ],
+            [
+              "Feb-16",
+              "24.6",
+              "62.48%"
+            ],
+            [
+              "Mar-16",
+              "24.7",
+              "62.97%"
+            ],
+            [
+              "Apr-16",
+              "24.8",
+              "63.33%"
+            ],
+            [
+              "May-16",
+              "24.9",
+              "63.36%"
+            ],
+            [
+              "Jun-16",
+              "25.1",
+              "64.92%"
+            ],
+            [
+              "Jul-16",
+              "25.2",
+              "65.35%"
+            ],
+            [
+              "Aug-16",
+              "25.2",
+              "65.73%"
+            ],
+            [
+              "Sep-16",
+              "25.2",
+              "65.57%"
+            ],
+            [
+              "Oct-16",
+              "25.2",
+              "66.35%"
+            ],
+            [
+              "Nov-16",
+              "25.4",
+              "66.59%"
+            ],
+            [
+              "Dec-16",
+              "25.2",
+              "64.86%"
+            ],
+            [
+              "Jan-17",
+              "25.4",
+              "62.82%"
+            ],
+            [
+              "Feb-17",
+              "24.4",
+              "55.23%"
+            ],
+            [
+              "Mar-17",
+              "24.2",
+              "52.75%"
+            ],
+            [
+              "Apr-17",
+              "24.4",
+              "51.18%"
+            ],
+            [
+              "May-17",
+              "24.6",
+              "50.77%"
+            ],
+            [
+              "Jun-17",
+              "24.6",
+              "50.51%"
+            ],
+            [
+              "Jul-17",
+              "24.5",
+              "53.07%"
+            ],
+            [
+              "Aug-17",
+              "24.5",
+              "50.51%"
+            ],
+            [
+              "Sep-17",
+              "24.4",
+              "51.36%"
+            ],
+            [
+              "Oct-17",
+              "24.4",
+              "50.50%"
+            ],
+            [
+              "Nov-17",
+              "24.6",
+              "51.31%"
+            ],
+            [
+              "Dec-17",
+              "24.8",
+              "52.95%"
+            ],
+            [
+              "Jan-18",
+              "24.7",
+              "55.70%"
+            ],
+            [
+              "Feb-18",
+              "24.3",
+              "49.98%"
+            ],
+            [
+              "Mar-18",
+              "24.3",
+              "48.72%"
+            ],
+            [
+              "Apr-18",
+              "24.2",
+              "47.89%"
+            ],
+            [
+              "May-18",
+              "24.2",
+              "46.02%"
+            ],
+            [
+              "Jun-18",
+              "24.2",
+              "44.50%"
+            ],
+            [
+              "Jul-18",
+              "24.3",
+              "51.02%"
+            ],
+            [
+              "Aug-18",
+              "24.3",
+              "46.79%"
+            ],
+            [
+              "Sep-18",
+              "24.3",
+              "46.69%"
+            ],
+            [
+              "Oct-18",
+              "24.5",
+              "52.83%"
+            ],
+            [
+              "Nov-18",
+              "24.5",
+              "50.88%"
+            ],
+            [
+              "Dec-18",
+              "24.6",
+              "49.96%"
+            ],
+            [
+              "Jan-19",
+              "24.8",
+              "51.24%"
+            ],
+            [
+              "Feb-19",
+              "24.6",
+              "50.89%"
+            ],
+            [
+              "Mar-19",
+              "24.6",
+              "51.64%"
+            ],
+            [
+              "Apr-19",
+              "24.5",
+              "49.72%"
+            ],
+            [
+              "May-19",
+              "24.5",
+              "48.84%"
+            ],
+            [
+              "Jun-19",
+              "24.5",
+              "47.15%"
+            ],
+            [
+              "Jul-19",
+              "24.4",
+              "48.97%"
+            ],
+            [
+              "Aug-19",
+              "24.7",
+              "50.36%"
+            ],
+            [
+              "Sep-19",
+              "24.6",
+              "49.87%"
+            ],
+            [
+              "Oct-19",
+              "24.8",
+              "51.79%"
+            ],
+            [
+              "Nov-19",
+              "24.8",
+              "52.00%"
+            ],
+            [
+              "Dec-19",
+              "24.8",
+              "50.95%"
+            ],
+            [
+              "Jan-20",
+              "24.8",
+              "51.19%"
+            ],
+            [
+              "Feb-20",
+              "24.6",
+              "51.21%"
+            ],
+            [
+              "Mar-20",
+              "24.5",
+              "47.70%"
+            ],
+            [
+              "Apr-20",
+              "24.7",
+              "49.47%"
+            ],
+            [
+              "May-20",
+              "24.5",
+              "49.04%"
+            ],
+            [
+              "Jun-20",
+              "24.4",
+              "47.73%"
+            ],
+            [
+              "Jul-20",
+              "24.6",
+              "47.95%"
+            ],
+            [
+              "Aug-20",
+              "24.7",
+              "50.09%"
+            ],
+            [
+              "Sep-20",
+              "24.8",
+              "50.52%"
+            ],
+            [
+              "Oct-20",
+              "25.0",
+              "51.61%"
+            ],
+            [
+              "Nov-20",
+              "25.0",
+              "52.18%"
+            ],
+            [
+              "Dec-20",
+              "25.1",
+              "51.65%"
+            ],
+            [
+              "Jan-21",
+              "25.0",
+              "52.43%"
+            ],
+            [
+              "Feb-21",
+              "25.0",
+              "51.87%"
+            ],
+            [
+              "Mar-21",
+              "25.1",
+              "52.14%"
+            ],
+            [
+              "Apr-21",
+              "25.2",
+              "52.55%"
+            ],
+            [
+              "May-21",
+              "25.4",
+              "54.40%"
+            ],
+            [
+              "Jun-21",
+              "25.4",
+              "53.90%"
+            ],
+            [
+              "Jul-21",
+              "25.5",
+              "56.55%"
+            ],
+            [
+              "Aug-21",
+              "25.5",
+              "57.12%"
+            ],
+            [
+              "Sep-21",
+              "25.5",
+              "57.18%"
+            ],
+            [
+              "Oct-21",
+              "25.6",
+              "58.54%"
+            ],
+            [
+              "Nov-21",
+              "25.6",
+              "58.15%"
+            ],
+            [
+              "Dec-21",
+              "25.6",
+              "59.55%"
+            ],
+            [
+              "Jan-22",
+              "26.0",
+              "63.23%"
+            ],
+            [
+              "Feb-22",
+              "25.8",
+              "62.89%"
+            ],
+            [
+              "Mar-22",
+              "25.9",
+              "67.10%"
+            ],
+            [
+              "Apr-22",
+              "26.3",
+              "70.05%"
+            ],
+            [
+              "May-22",
+              "25.9",
+              "65.25%"
+            ],
+            [
+              "Jun-22",
+              "26.0",
+              "65.68%"
+            ],
+            [
+              "Jul-22",
+              "26.8",
+              "66.92%"
+            ]
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Source: FRFI filings to OSFI This chart includes uninsured mortgage data from 20 federally regulated mortgage lenders. These lenders hold more than 99 per cent (by $) of all mortgages subject to OSFI regulation and supervision."
+        },
+        {
+          "type": "paragraph",
+          "text": "Due to the recent and further expected rate increases, for the first time in years, consumers renewing their mortgages are facing materially higher interest rates than the rates on their expiring loans. Particularly at risk are borrowers with variable-rate mortgages and loans that are coming up for renewal. In addition to the rate shock felt by borrowers who are renewing 5-year term mortgages, the impact of rising rates may be felt earlier on some variable rate mortgages, the proportion of which has increased during the pandemic. ( See Chart 5 )"
+        },
+        {
+          "type": "paragraph",
+          "text": "Chart 5 - Proportion of newly originated uninsured variable rate mortgages"
+        },
+        {
+          "type": "image",
+          "src": "https://www.osfi-bsif.gc.ca/sites/default/files/2023-06/b20-img5.png",
+          "alt": "Chart 5, text description follows",
+          "caption": "Chart 5, text description follows"
+        },
+        {
+          "type": "table",
+          "caption": "Chart 5 - Proportion of Newly Originated Uninsured Variable Rate Mortgages",
+          "rows": [
+            [
+              "Filing month",
+              "Uninsured Variable proportion (by loan count)"
+            ],
+            [
+              "Jan-15",
+              "31.35%"
+            ],
+            [
+              "Feb-15",
+              "35.44%"
+            ],
+            [
+              "Mar-15",
+              "35.68%"
+            ],
+            [
+              "Apr-15",
+              "32.12%"
+            ],
+            [
+              "May-15",
+              "29.73%"
+            ],
+            [
+              "Jun-15",
+              "29.63%"
+            ],
+            [
+              "Jul-15",
+              "31.83%"
+            ],
+            [
+              "Aug-15",
+              "37.48%"
+            ],
+            [
+              "Sep-15",
+              "39.17%"
+            ],
+            [
+              "Oct-15",
+              "38.41%"
+            ],
+            [
+              "Nov-15",
+              "34.08%"
+            ],
+            [
+              "Dec-15",
+              "30.23%"
+            ],
+            [
+              "Jan-16",
+              "27.88%"
+            ],
+            [
+              "Feb-16",
+              "24.62%"
+            ],
+            [
+              "Mar-16",
+              "20.30%"
+            ],
+            [
+              "Apr-16",
+              "17.42%"
+            ],
+            [
+              "May-16",
+              "15.62%"
+            ],
+            [
+              "Jun-16",
+              "15.77%"
+            ],
+            [
+              "Jul-16",
+              "16.45%"
+            ],
+            [
+              "Aug-16",
+              "17.22%"
+            ],
+            [
+              "Sep-16",
+              "17.30%"
+            ],
+            [
+              "Oct-16",
+              "17.23%"
+            ],
+            [
+              "Nov-16",
+              "16.09%"
+            ],
+            [
+              "Dec-16",
+              "15.15%"
+            ],
+            [
+              "Jan-17",
+              "16.72%"
+            ],
+            [
+              "Feb-17",
+              "19.00%"
+            ],
+            [
+              "Mar-17",
+              "21.45%"
+            ],
+            [
+              "Apr-17",
+              "23.79%"
+            ],
+            [
+              "May-17",
+              "26.23%"
+            ],
+            [
+              "Jun-17",
+              "26.19%"
+            ],
+            [
+              "Jul-17",
+              "21.59%"
+            ],
+            [
+              "Aug-17",
+              "19.52%"
+            ],
+            [
+              "Sep-17",
+              "18.61%"
+            ],
+            [
+              "Oct-17",
+              "16.28%"
+            ],
+            [
+              "Nov-17",
+              "18.77%"
+            ],
+            [
+              "Dec-17",
+              "20.84%"
+            ],
+            [
+              "Jan-18",
+              "22.27%"
+            ],
+            [
+              "Feb-18",
+              "21.00%"
+            ],
+            [
+              "Mar-18",
+              "21.21%"
+            ],
+            [
+              "Apr-18",
+              "24.05%"
+            ],
+            [
+              "May-18",
+              "28.28%"
+            ],
+            [
+              "Jun-18",
+              "39.31%"
+            ],
+            [
+              "Jul-18",
+              "44.36%"
+            ],
+            [
+              "Aug-18",
+              "42.44%"
+            ],
+            [
+              "Sep-18",
+              "39.18%"
+            ],
+            [
+              "Oct-18",
+              "34.72%"
+            ],
+            [
+              "Nov-18",
+              "28.26%"
+            ],
+            [
+              "Dec-18",
+              "24.93%"
+            ],
+            [
+              "Jan-19",
+              "25.40%"
+            ],
+            [
+              "Feb-19",
+              "23.38%"
+            ],
+            [
+              "Mar-19",
+              "20.66%"
+            ],
+            [
+              "Apr-19",
+              "16.33%"
+            ],
+            [
+              "May-19",
+              "11.75%"
+            ],
+            [
+              "Jun-19",
+              "8.96%"
+            ],
+            [
+              "Jul-19",
+              "6.92%"
+            ],
+            [
+              "Aug-19",
+              "6.35%"
+            ],
+            [
+              "Sep-19",
+              "5.43%"
+            ],
+            [
+              "Oct-19",
+              "5.25%"
+            ],
+            [
+              "Nov-19",
+              "5.20%"
+            ],
+            [
+              "Dec-19",
+              "5.32%"
+            ],
+            [
+              "Jan-20",
+              "6.42%"
+            ],
+            [
+              "Feb-20",
+              "8.54%"
+            ],
+            [
+              "Mar-20",
+              "15.15%"
+            ],
+            [
+              "Apr-20",
+              "23.68%"
+            ],
+            [
+              "May-20",
+              "26.51%"
+            ],
+            [
+              "Jun-20",
+              "27.12%"
+            ],
+            [
+              "Jul-20",
+              "27.31%"
+            ],
+            [
+              "Aug-20",
+              "27.29%"
+            ],
+            [
+              "Sep-20",
+              "26.11%"
+            ],
+            [
+              "Oct-20",
+              "24.81%"
+            ],
+            [
+              "Nov-20",
+              "24.54%"
+            ],
+            [
+              "Dec-20",
+              "26.51%"
+            ],
+            [
+              "Jan-21",
+              "28.46%"
+            ],
+            [
+              "Feb-21",
+              "27.65%"
+            ],
+            [
+              "Mar-21",
+              "30.71%"
+            ],
+            [
+              "Apr-21",
+              "36.20%"
+            ],
+            [
+              "May-21",
+              "42.77%"
+            ],
+            [
+              "Jun-21",
+              "45.21%"
+            ],
+            [
+              "Jul-21",
+              "50.38%"
+            ],
+            [
+              "Aug-21",
+              "52.69%"
+            ],
+            [
+              "Sep-21",
+              "53.08%"
+            ],
+            [
+              "Oct-21",
+              "53.18%"
+            ],
+            [
+              "Nov-21",
+              "51.49%"
+            ],
+            [
+              "Dec-21",
+              "51.77%"
+            ],
+            [
+              "Jan-22",
+              "56.19%"
+            ],
+            [
+              "Feb-22",
+              "55.40%"
+            ],
+            [
+              "Mar-22",
+              "55.72%"
+            ],
+            [
+              "Apr-22",
+              "53.10%"
+            ],
+            [
+              "May-22",
+              "49.50%"
+            ],
+            [
+              "Jun-22",
+              "47.00%"
+            ],
+            [
+              "Jul-22",
+              "46.15%"
+            ]
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Source: FRFI filings to OSFI This chart includes uninsured mortgage data from 20 federally regulated mortgage lenders. These lenders hold more than 99 per cent (by $) of all mortgages subject to OSFI regulation and supervision."
+        }
+      ]
+    },
+    {
+      "heading": "Potential losses at financial institutions",
+      "heading_level": 4,
+      "full_text": "FRFIs need to ensure that they are prepared to handle the potential implications of lower housing prices and higher interest rates. In particular, the level of loss experienced by lenders not only depends on the likelihood of a default, but also how much of the loan the banks would lose in case of a default.\nAll uninsured mortgages are required to have at least a 20% down payment, which acts as a buffer in case of a downturn, while in the case of insured mortgages, mortgage insurers would be responsible for losses associated with defaulted properties. As market prices decline, the borrower’s equity is first impacted and once that is exhausted, the financial institutions would start observing actual losses in the case of borrower defaults. This buffer also accounts for the fact that foreclosed properties tend to be sold at a discount and that lenders have various costs associated with maintaining the properties and selling them. As such, any price corrections can quickly have an impact by increasing lenders’ losses.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "FRFIs need to ensure that they are prepared to handle the potential implications of lower housing prices and higher interest rates. In particular, the level of loss experienced by lenders not only depends on the likelihood of a default, but also how much of the loan the banks would lose in case of a default."
+        },
+        {
+          "type": "paragraph",
+          "text": "All uninsured mortgages are required to have at least a 20% down payment, which acts as a buffer in case of a downturn, while in the case of insured mortgages, mortgage insurers would be responsible for losses associated with defaulted properties. As market prices decline, the borrower’s equity is first impacted and once that is exhausted, the financial institutions would start observing actual losses in the case of borrower defaults. This buffer also accounts for the fact that foreclosed properties tend to be sold at a discount and that lenders have various costs associated with maintaining the properties and selling them. As such, any price corrections can quickly have an impact by increasing lenders’ losses."
+        }
+      ]
+    },
+    {
+      "heading": "Elevated level of household indebtedness",
+      "heading_level": 4,
+      "full_text": "Following revisions to Guideline B-20 in 2018, lenders made changes that reduced the proportion of mortgages approved for the most highly indebted borrowers. These revisions included an updated minimum qualifying rate (MQR) “stress test”, that expects lenders to confirm borrowers’ ability to absorb unexpected changes in interest rates or income. As of June 1, 2021, the qualifying rate for all uninsured mortgages is the greater of the mortgage contractual rate plus 2% or 5.25%. The Minister of Finance implemented the same test for insured mortgages.\nThe MQR has provided a margin of safety, in that it has created room to absorb some of the impact of the recent increases in mortgage interest rates. The MQR prevented borrowers from overstretching themselves, thus ensuring that a larger number of borrowers could keep making payments even as interest rates rise. Recent increases in mortgage interest rates have already eroded a significant portion of the debt service capacity provided for by the qualifying rate buffer.\nContractual GDS ratios have remained largely stable, until recently, while qualifying GDS ratios have risen over time. This suggests that the MQR established a reliable buffer over actual mortgage rates in FRFI underwriting practices. ( See Chart 6 )\nChart 6 - Uninsured mortgage originations - Average qualifying and contract GDS\n[Image: Chart 6, text description follows] (https://www.osfi-bsif.gc.ca/sites/default/files/2023-06/b20-img6.png)\nTable: Chart 6 - Uninsured Mortgage Originations - Average Qualifying and Contract GDS\nFiling month | Average Qualifying GDS (LHS) | Average Contract GDS (LHS) | Difference (RHS)\nJan-15 | 24% | 22% | 2%\nFeb-15 | 24% | 22% | 2%\nMar-15 | 24% | 23% | 2%\nApr-15 | 24% | 23% | 2%\nMay-15 | 24% | 22% | 2%\nJun-15 | 24% | 22% | 2%\nJul-15 | 25% | 22% | 2%\nAug-15 | 24% | 22% | 2%\nSep-15 | 24% | 22% | 2%\nOct-15 | 24% | 22% | 2%\nNov-15 | 24% | 22% | 2%\nDec-15 | 24% | 22% | 2%\nJan-16 | 24% | 22% | 2%\nFeb-16 | 24% | 22% | 2%\nMar-16 | 25% | 22% | 2%\nApr-16 | 24% | 22% | 2%\nMay-16 | 24% | 22% | 2%\nJun-16 | 24% | 22% | 2%\nJul-16 | 25% | 22% | 3%\nAug-16 | 25% | 22% | 3%\nSep-16 | 25% | 22% | 3%\nOct-16 | 25% | 22% | 3%\nNov-16 | 25% | 22% | 2%\nDec-16 | 25% | 22% | 2%\nJan-17 | 25% | 23% | 2%\nFeb-17 | 25% | 23% | 2%\nMar-17 | 25% | 23% | 2%\nApr-17 | 25% | 23% | 2%\nMay-17 | 25% | 23% | 3%\nJun-17 | 25% | 23% | 3%\nJul-17 | 25% | 22% | 3%\nAug-17 | 25% | 22% | 3%\nSep-17 | 25% | 22% | 3%\nOct-17 | 25% | 23% | 3%\nNov-17 | 25% | 23% | 2%\nDec-17 | 26% | 23% | 2%\nJan-18 | 26% | 23% | 3%\nFeb-18 | 26% | 24% | 3%\nMar-18 | 26% | 24% | 3%\nApr-18 | 26% | 23% | 3%\nMay-18 | 26% | 23% | 3%\nJun-18 | 26% | 23% | 3%\nJul-18 | 26% | 23% | 3%\nAug-18 | 26% | 23% | 3%\nSep-18 | 26% | 23% | 3%\nOct-18 | 26% | 23% | 3%\nNov-18 | 27% | 24% | 3%\nDec-18 | 27% | 24% | 3%\nJan-19 | 27% | 24% | 3%\nFeb-19 | 27% | 24% | 3%\nMar-19 | 27% | 24% | 3%\nApr-19 | 27% | 24% | 3%\nMay-19 | 27% | 24% | 3%\nJun-19 | 27% | 24% | 3%\nJul-19 | 27% | 24% | 3%\nAug-19 | 27% | 24% | 3%\nSep-19 | 27% | 24% | 3%\nOct-19 | 27% | 24% | 4%\nNov-19 | 27% | 24% | 3%\nDec-19 | 27% | 24% | 3%\nJan-20 | 28% | 24% | 3%\nFeb-20 | 27% | 24% | 3%\nMar-20 | 27% | 24% | 4%\nApr-20 | 27% | 23% | 4%\nMay-20 | 27% | 23% | 4%\nJun-20 | 26% | 23% | 4%\nJul-20 | 27% | 23% | 4%\nAug-20 | 27% | 23% | 4%\nSep-20 | 27% | 23% | 4%\nOct-20 | 27% | 23% | 4%\nNov-20 | 27% | 23% | 4%\nDec-20 | 27% | 23% | 5%\nJan-21 | 27% | 23% | 5%\nFeb-21 | 27% | 23% | 5%\nMar-21 | 27% | 23% | 5%\nApr-21 | 28% | 23% | 5%\nMay-21 | 28% | 23% | 4.8%\nJun-21 | 28% | 23% | 5.8%\nJul-21 | 29% | 23% | 5.5%\nAug-21 | 29% | 23% | 5.7%\nSep-21 | 29% | 23% | 5.7%\nOct-21 | 29% | 23% | 5.7%\nNov-21 | 29% | 23% | 5.7%\nDec-21 | 29% | 23% | 5.5%\nJan-22 | 29% | 24% | 5.6%\nFeb-22 | 29% | 24% | 5.4%\nMar-22 | 29% | 24% | 5.0%\nApr-22 | 29% | 25% | 4.5%\nMay-22 | 29% | 25% | 4.2%\nJun-22 | 29% | 26% | 3.6%\nJul-22 | 30% | 26% | 3.6%\nSource: FRFI filings to OSFI This chart includes uninsured mortgage data from 20 federally regulated mortgage lenders. These lenders hold more than 99 per cent (by $) of all mortgages subject to OSFI regulation and supervision.\nThe MQR has had a meaningful impact on reducing high loan-to-income (LTI) borrowing following the January 2018 revisions to Guideline B-20. At the same time, there has been a build-up in the proportion of new uninsured mortgage originations with an LTI > 4.5x, which doubled from mid-2018 to early 2022. The extremely low interest rates reduced debt service costs substantially, allowing borrowers to take on additional leverage. As rates rise, the ability to service the increased leverage is reduced. ( See Chart 7 )\nChart 7 - Average LTI and proportion of uninsured mortgage originations with LTI > 4.5x\n[Image: Chart 7, text description follows] (https://www.osfi-bsif.gc.ca/sites/default/files/2023-06/b20-img7.png)\nTable: Chart 7 - Average LTI and Proportion of Uninsured Mortgage Originations with LTI > 4.5x\nFiling month | Uninsured Avg LTI (LHS) | Proportion with LTI > 4.5x (RHS)\nJan-15 | 2.80 | 13.96%\nFeb-15 | 2.76 | 13.73%\nMar-15 | 2.82 | 14.12%\nApr-15 | 2.90 | 15.27%\nMay-15 | 2.88 | 15.03%\nJun-15 | 3.00 | 16.25%\nJul-15 | 3.02 | 16.91%\nAug-15 | 3.02 | 16.99%\nSep-15 | 3.00 | 16.82%\nOct-15 | 2.99 | 16.45%\nNov-15 | 3.01 | 16.64%\nDec-15 | 3.01 | 16.89%\nJan-16 | 3.10 | 17.45%\nFeb-16 | 2.99 | 16.59%\nMar-16 | 2.97 | 16.53%\nApr-16 | 2.98 | 16.74%\nMay-16 | 2.94 | 16.53%\nJun-16 | 3.01 | 17.35%\nJul-16 | 3.05 | 18.04%\nAug-16 | 3.04 | 18.49%\nSep-16 | 3.03 | 18.37%\nOct-16 | 3.01 | 18.46%\nNov-16 | 3.03 | 18.69%\nDec-16 | 3.03 | 18.68%\nJan-17 | 3.10 | 19.85%\nFeb-17 | 3.04 | 19.12%\nMar-17 | 3.06 | 19.09%\nApr-17 | 3.05 | 19.39%\nMay-17 | 3.04 | 19.42%\nJun-17 | 3.09 | 19.66%\nJul-17 | 3.12 | 20.07%\nAug-17 | 3.13 | 20.47%\nSep-17 | 3.09 | 19.43%\nOct-17 | 3.04 | 18.94%\nNov-17 | 3.05 | 18.72%\nDec-17 | 3.13 | 19.95%\nJan-18 | 3.12 | 19.93%\nFeb-18 | 2.96 | 16.90%\nMar-18 | 2.90 | 15.24%\nApr-18 | 2.86 | 14.53%\nMay-18 | 2.78 | 13.17%\nJun-18 | 2.80 | 13.44%\nJul-18 | 2.87 | 14.56%\nAug-18 | 2.86 | 14.35%\nSep-18 | 2.88 | 14.43%\nOct-18 | 2.83 | 13.84%\nNov-18 | 2.84 | 14.26%\nDec-18 | 2.83 | 14.08%\nJan-19 | 2.88 | 14.58%\nFeb-19 | 2.85 | 13.87%\nMar-19 | 2.85 | 14.29%\nApr-19 | 2.84 | 14.24%\nMay-19 | 2.87 | 14.38%\nJun-19 | 2.96 | 15.00%\nJul-19 | 2.95 | 15.53%\nAug-19 | 3.02 | 16.83%\nSep-19 | 3.00 | 17.05%\nOct-19 | 3.03 | 17.33%\nNov-19 | 3.05 | 17.55%\nDec-19 | 3.04 | 17.60%\nJan-20 | 3.11 | 18.48%\nFeb-20 | 3.05 | 17.92%\nMar-20 | 3.07 | 18.35%\nApr-20 | 3.07 | 18.33%\nMay-20 | 3.03 | 18.01%\nJun-20 | 3.02 | 17.52%\nJul-20 | 3.06 | 18.25%\nAug-20 | 3.16 | 20.02%\nSep-20 | 3.20 | 21.04%\nOct-20 | 3.24 | 21.91%\nNov-20 | 3.30 | 22.64%\nDec-20 | 3.30 | 22.45%\nJan-21 | 3.36 | 23.66%\nFeb-21 | 3.31 | 22.94%\nMar-21 | 3.39 | 24.02%\nApr-21 | 3.42 | 24.94%\nMay-21 | 3.48 | 26.24%\nJun-21 | 3.47 | 26.08%\nJul-21 | 3.47 | 25.96%\nAug-21 | 3.47 | 25.41%\nSep-21 | 3.45 | 25.01%\nOct-21 | 3.48 | 25.62%\nNov-21 | 3.52 | 26.09%\nDec-21 | 3.52 | 26.26%\nJan-22 | 3.67 | 28.30%\nFeb-22 | 3.51 | 26.28%\nMar-22 | 3.50 | 26.32%\nApr-22 | 3.47 | 26.12%\nMay-22 | 3.44 | 25.57%\nJun-22 | 3.44 | 24.74%\nJul-22 | 3.34 | 23.19%\nSource: FRFI filings to OSFI This chart includes uninsured mortgage data from 20 federally regulated mortgage lenders. These lenders hold more than 99 per cent (by $) of all mortgages subject to OSFI regulation and supervision.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Following revisions to Guideline B-20 in 2018, lenders made changes that reduced the proportion of mortgages approved for the most highly indebted borrowers. These revisions included an updated minimum qualifying rate (MQR) “stress test”, that expects lenders to confirm borrowers’ ability to absorb unexpected changes in interest rates or income. As of June 1, 2021, the qualifying rate for all uninsured mortgages is the greater of the mortgage contractual rate plus 2% or 5.25%. The Minister of Finance implemented the same test for insured mortgages."
+        },
+        {
+          "type": "paragraph",
+          "text": "The MQR has provided a margin of safety, in that it has created room to absorb some of the impact of the recent increases in mortgage interest rates. The MQR prevented borrowers from overstretching themselves, thus ensuring that a larger number of borrowers could keep making payments even as interest rates rise. Recent increases in mortgage interest rates have already eroded a significant portion of the debt service capacity provided for by the qualifying rate buffer."
+        },
+        {
+          "type": "paragraph",
+          "text": "Contractual GDS ratios have remained largely stable, until recently, while qualifying GDS ratios have risen over time. This suggests that the MQR established a reliable buffer over actual mortgage rates in FRFI underwriting practices. ( See Chart 6 )"
+        },
+        {
+          "type": "paragraph",
+          "text": "Chart 6 - Uninsured mortgage originations - Average qualifying and contract GDS"
+        },
+        {
+          "type": "image",
+          "src": "https://www.osfi-bsif.gc.ca/sites/default/files/2023-06/b20-img6.png",
+          "alt": "Chart 6, text description follows",
+          "caption": "Chart 6, text description follows"
+        },
+        {
+          "type": "table",
+          "caption": "Chart 6 - Uninsured Mortgage Originations - Average Qualifying and Contract GDS",
+          "rows": [
+            [
+              "Filing month",
+              "Average Qualifying GDS (LHS)",
+              "Average Contract GDS (LHS)",
+              "Difference (RHS)"
+            ],
+            [
+              "Jan-15",
+              "24%",
+              "22%",
+              "2%"
+            ],
+            [
+              "Feb-15",
+              "24%",
+              "22%",
+              "2%"
+            ],
+            [
+              "Mar-15",
+              "24%",
+              "23%",
+              "2%"
+            ],
+            [
+              "Apr-15",
+              "24%",
+              "23%",
+              "2%"
+            ],
+            [
+              "May-15",
+              "24%",
+              "22%",
+              "2%"
+            ],
+            [
+              "Jun-15",
+              "24%",
+              "22%",
+              "2%"
+            ],
+            [
+              "Jul-15",
+              "25%",
+              "22%",
+              "2%"
+            ],
+            [
+              "Aug-15",
+              "24%",
+              "22%",
+              "2%"
+            ],
+            [
+              "Sep-15",
+              "24%",
+              "22%",
+              "2%"
+            ],
+            [
+              "Oct-15",
+              "24%",
+              "22%",
+              "2%"
+            ],
+            [
+              "Nov-15",
+              "24%",
+              "22%",
+              "2%"
+            ],
+            [
+              "Dec-15",
+              "24%",
+              "22%",
+              "2%"
+            ],
+            [
+              "Jan-16",
+              "24%",
+              "22%",
+              "2%"
+            ],
+            [
+              "Feb-16",
+              "24%",
+              "22%",
+              "2%"
+            ],
+            [
+              "Mar-16",
+              "25%",
+              "22%",
+              "2%"
+            ],
+            [
+              "Apr-16",
+              "24%",
+              "22%",
+              "2%"
+            ],
+            [
+              "May-16",
+              "24%",
+              "22%",
+              "2%"
+            ],
+            [
+              "Jun-16",
+              "24%",
+              "22%",
+              "2%"
+            ],
+            [
+              "Jul-16",
+              "25%",
+              "22%",
+              "3%"
+            ],
+            [
+              "Aug-16",
+              "25%",
+              "22%",
+              "3%"
+            ],
+            [
+              "Sep-16",
+              "25%",
+              "22%",
+              "3%"
+            ],
+            [
+              "Oct-16",
+              "25%",
+              "22%",
+              "3%"
+            ],
+            [
+              "Nov-16",
+              "25%",
+              "22%",
+              "2%"
+            ],
+            [
+              "Dec-16",
+              "25%",
+              "22%",
+              "2%"
+            ],
+            [
+              "Jan-17",
+              "25%",
+              "23%",
+              "2%"
+            ],
+            [
+              "Feb-17",
+              "25%",
+              "23%",
+              "2%"
+            ],
+            [
+              "Mar-17",
+              "25%",
+              "23%",
+              "2%"
+            ],
+            [
+              "Apr-17",
+              "25%",
+              "23%",
+              "2%"
+            ],
+            [
+              "May-17",
+              "25%",
+              "23%",
+              "3%"
+            ],
+            [
+              "Jun-17",
+              "25%",
+              "23%",
+              "3%"
+            ],
+            [
+              "Jul-17",
+              "25%",
+              "22%",
+              "3%"
+            ],
+            [
+              "Aug-17",
+              "25%",
+              "22%",
+              "3%"
+            ],
+            [
+              "Sep-17",
+              "25%",
+              "22%",
+              "3%"
+            ],
+            [
+              "Oct-17",
+              "25%",
+              "23%",
+              "3%"
+            ],
+            [
+              "Nov-17",
+              "25%",
+              "23%",
+              "2%"
+            ],
+            [
+              "Dec-17",
+              "26%",
+              "23%",
+              "2%"
+            ],
+            [
+              "Jan-18",
+              "26%",
+              "23%",
+              "3%"
+            ],
+            [
+              "Feb-18",
+              "26%",
+              "24%",
+              "3%"
+            ],
+            [
+              "Mar-18",
+              "26%",
+              "24%",
+              "3%"
+            ],
+            [
+              "Apr-18",
+              "26%",
+              "23%",
+              "3%"
+            ],
+            [
+              "May-18",
+              "26%",
+              "23%",
+              "3%"
+            ],
+            [
+              "Jun-18",
+              "26%",
+              "23%",
+              "3%"
+            ],
+            [
+              "Jul-18",
+              "26%",
+              "23%",
+              "3%"
+            ],
+            [
+              "Aug-18",
+              "26%",
+              "23%",
+              "3%"
+            ],
+            [
+              "Sep-18",
+              "26%",
+              "23%",
+              "3%"
+            ],
+            [
+              "Oct-18",
+              "26%",
+              "23%",
+              "3%"
+            ],
+            [
+              "Nov-18",
+              "27%",
+              "24%",
+              "3%"
+            ],
+            [
+              "Dec-18",
+              "27%",
+              "24%",
+              "3%"
+            ],
+            [
+              "Jan-19",
+              "27%",
+              "24%",
+              "3%"
+            ],
+            [
+              "Feb-19",
+              "27%",
+              "24%",
+              "3%"
+            ],
+            [
+              "Mar-19",
+              "27%",
+              "24%",
+              "3%"
+            ],
+            [
+              "Apr-19",
+              "27%",
+              "24%",
+              "3%"
+            ],
+            [
+              "May-19",
+              "27%",
+              "24%",
+              "3%"
+            ],
+            [
+              "Jun-19",
+              "27%",
+              "24%",
+              "3%"
+            ],
+            [
+              "Jul-19",
+              "27%",
+              "24%",
+              "3%"
+            ],
+            [
+              "Aug-19",
+              "27%",
+              "24%",
+              "3%"
+            ],
+            [
+              "Sep-19",
+              "27%",
+              "24%",
+              "3%"
+            ],
+            [
+              "Oct-19",
+              "27%",
+              "24%",
+              "4%"
+            ],
+            [
+              "Nov-19",
+              "27%",
+              "24%",
+              "3%"
+            ],
+            [
+              "Dec-19",
+              "27%",
+              "24%",
+              "3%"
+            ],
+            [
+              "Jan-20",
+              "28%",
+              "24%",
+              "3%"
+            ],
+            [
+              "Feb-20",
+              "27%",
+              "24%",
+              "3%"
+            ],
+            [
+              "Mar-20",
+              "27%",
+              "24%",
+              "4%"
+            ],
+            [
+              "Apr-20",
+              "27%",
+              "23%",
+              "4%"
+            ],
+            [
+              "May-20",
+              "27%",
+              "23%",
+              "4%"
+            ],
+            [
+              "Jun-20",
+              "26%",
+              "23%",
+              "4%"
+            ],
+            [
+              "Jul-20",
+              "27%",
+              "23%",
+              "4%"
+            ],
+            [
+              "Aug-20",
+              "27%",
+              "23%",
+              "4%"
+            ],
+            [
+              "Sep-20",
+              "27%",
+              "23%",
+              "4%"
+            ],
+            [
+              "Oct-20",
+              "27%",
+              "23%",
+              "4%"
+            ],
+            [
+              "Nov-20",
+              "27%",
+              "23%",
+              "4%"
+            ],
+            [
+              "Dec-20",
+              "27%",
+              "23%",
+              "5%"
+            ],
+            [
+              "Jan-21",
+              "27%",
+              "23%",
+              "5%"
+            ],
+            [
+              "Feb-21",
+              "27%",
+              "23%",
+              "5%"
+            ],
+            [
+              "Mar-21",
+              "27%",
+              "23%",
+              "5%"
+            ],
+            [
+              "Apr-21",
+              "28%",
+              "23%",
+              "5%"
+            ],
+            [
+              "May-21",
+              "28%",
+              "23%",
+              "4.8%"
+            ],
+            [
+              "Jun-21",
+              "28%",
+              "23%",
+              "5.8%"
+            ],
+            [
+              "Jul-21",
+              "29%",
+              "23%",
+              "5.5%"
+            ],
+            [
+              "Aug-21",
+              "29%",
+              "23%",
+              "5.7%"
+            ],
+            [
+              "Sep-21",
+              "29%",
+              "23%",
+              "5.7%"
+            ],
+            [
+              "Oct-21",
+              "29%",
+              "23%",
+              "5.7%"
+            ],
+            [
+              "Nov-21",
+              "29%",
+              "23%",
+              "5.7%"
+            ],
+            [
+              "Dec-21",
+              "29%",
+              "23%",
+              "5.5%"
+            ],
+            [
+              "Jan-22",
+              "29%",
+              "24%",
+              "5.6%"
+            ],
+            [
+              "Feb-22",
+              "29%",
+              "24%",
+              "5.4%"
+            ],
+            [
+              "Mar-22",
+              "29%",
+              "24%",
+              "5.0%"
+            ],
+            [
+              "Apr-22",
+              "29%",
+              "25%",
+              "4.5%"
+            ],
+            [
+              "May-22",
+              "29%",
+              "25%",
+              "4.2%"
+            ],
+            [
+              "Jun-22",
+              "29%",
+              "26%",
+              "3.6%"
+            ],
+            [
+              "Jul-22",
+              "30%",
+              "26%",
+              "3.6%"
+            ]
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Source: FRFI filings to OSFI This chart includes uninsured mortgage data from 20 federally regulated mortgage lenders. These lenders hold more than 99 per cent (by $) of all mortgages subject to OSFI regulation and supervision."
+        },
+        {
+          "type": "paragraph",
+          "text": "The MQR has had a meaningful impact on reducing high loan-to-income (LTI) borrowing following the January 2018 revisions to Guideline B-20. At the same time, there has been a build-up in the proportion of new uninsured mortgage originations with an LTI > 4.5x, which doubled from mid-2018 to early 2022. The extremely low interest rates reduced debt service costs substantially, allowing borrowers to take on additional leverage. As rates rise, the ability to service the increased leverage is reduced. ( See Chart 7 )"
+        },
+        {
+          "type": "paragraph",
+          "text": "Chart 7 - Average LTI and proportion of uninsured mortgage originations with LTI > 4.5x"
+        },
+        {
+          "type": "image",
+          "src": "https://www.osfi-bsif.gc.ca/sites/default/files/2023-06/b20-img7.png",
+          "alt": "Chart 7, text description follows",
+          "caption": "Chart 7, text description follows"
+        },
+        {
+          "type": "table",
+          "caption": "Chart 7 - Average LTI and Proportion of Uninsured Mortgage Originations with LTI > 4.5x",
+          "rows": [
+            [
+              "Filing month",
+              "Uninsured Avg LTI (LHS)",
+              "Proportion with LTI > 4.5x (RHS)"
+            ],
+            [
+              "Jan-15",
+              "2.80",
+              "13.96%"
+            ],
+            [
+              "Feb-15",
+              "2.76",
+              "13.73%"
+            ],
+            [
+              "Mar-15",
+              "2.82",
+              "14.12%"
+            ],
+            [
+              "Apr-15",
+              "2.90",
+              "15.27%"
+            ],
+            [
+              "May-15",
+              "2.88",
+              "15.03%"
+            ],
+            [
+              "Jun-15",
+              "3.00",
+              "16.25%"
+            ],
+            [
+              "Jul-15",
+              "3.02",
+              "16.91%"
+            ],
+            [
+              "Aug-15",
+              "3.02",
+              "16.99%"
+            ],
+            [
+              "Sep-15",
+              "3.00",
+              "16.82%"
+            ],
+            [
+              "Oct-15",
+              "2.99",
+              "16.45%"
+            ],
+            [
+              "Nov-15",
+              "3.01",
+              "16.64%"
+            ],
+            [
+              "Dec-15",
+              "3.01",
+              "16.89%"
+            ],
+            [
+              "Jan-16",
+              "3.10",
+              "17.45%"
+            ],
+            [
+              "Feb-16",
+              "2.99",
+              "16.59%"
+            ],
+            [
+              "Mar-16",
+              "2.97",
+              "16.53%"
+            ],
+            [
+              "Apr-16",
+              "2.98",
+              "16.74%"
+            ],
+            [
+              "May-16",
+              "2.94",
+              "16.53%"
+            ],
+            [
+              "Jun-16",
+              "3.01",
+              "17.35%"
+            ],
+            [
+              "Jul-16",
+              "3.05",
+              "18.04%"
+            ],
+            [
+              "Aug-16",
+              "3.04",
+              "18.49%"
+            ],
+            [
+              "Sep-16",
+              "3.03",
+              "18.37%"
+            ],
+            [
+              "Oct-16",
+              "3.01",
+              "18.46%"
+            ],
+            [
+              "Nov-16",
+              "3.03",
+              "18.69%"
+            ],
+            [
+              "Dec-16",
+              "3.03",
+              "18.68%"
+            ],
+            [
+              "Jan-17",
+              "3.10",
+              "19.85%"
+            ],
+            [
+              "Feb-17",
+              "3.04",
+              "19.12%"
+            ],
+            [
+              "Mar-17",
+              "3.06",
+              "19.09%"
+            ],
+            [
+              "Apr-17",
+              "3.05",
+              "19.39%"
+            ],
+            [
+              "May-17",
+              "3.04",
+              "19.42%"
+            ],
+            [
+              "Jun-17",
+              "3.09",
+              "19.66%"
+            ],
+            [
+              "Jul-17",
+              "3.12",
+              "20.07%"
+            ],
+            [
+              "Aug-17",
+              "3.13",
+              "20.47%"
+            ],
+            [
+              "Sep-17",
+              "3.09",
+              "19.43%"
+            ],
+            [
+              "Oct-17",
+              "3.04",
+              "18.94%"
+            ],
+            [
+              "Nov-17",
+              "3.05",
+              "18.72%"
+            ],
+            [
+              "Dec-17",
+              "3.13",
+              "19.95%"
+            ],
+            [
+              "Jan-18",
+              "3.12",
+              "19.93%"
+            ],
+            [
+              "Feb-18",
+              "2.96",
+              "16.90%"
+            ],
+            [
+              "Mar-18",
+              "2.90",
+              "15.24%"
+            ],
+            [
+              "Apr-18",
+              "2.86",
+              "14.53%"
+            ],
+            [
+              "May-18",
+              "2.78",
+              "13.17%"
+            ],
+            [
+              "Jun-18",
+              "2.80",
+              "13.44%"
+            ],
+            [
+              "Jul-18",
+              "2.87",
+              "14.56%"
+            ],
+            [
+              "Aug-18",
+              "2.86",
+              "14.35%"
+            ],
+            [
+              "Sep-18",
+              "2.88",
+              "14.43%"
+            ],
+            [
+              "Oct-18",
+              "2.83",
+              "13.84%"
+            ],
+            [
+              "Nov-18",
+              "2.84",
+              "14.26%"
+            ],
+            [
+              "Dec-18",
+              "2.83",
+              "14.08%"
+            ],
+            [
+              "Jan-19",
+              "2.88",
+              "14.58%"
+            ],
+            [
+              "Feb-19",
+              "2.85",
+              "13.87%"
+            ],
+            [
+              "Mar-19",
+              "2.85",
+              "14.29%"
+            ],
+            [
+              "Apr-19",
+              "2.84",
+              "14.24%"
+            ],
+            [
+              "May-19",
+              "2.87",
+              "14.38%"
+            ],
+            [
+              "Jun-19",
+              "2.96",
+              "15.00%"
+            ],
+            [
+              "Jul-19",
+              "2.95",
+              "15.53%"
+            ],
+            [
+              "Aug-19",
+              "3.02",
+              "16.83%"
+            ],
+            [
+              "Sep-19",
+              "3.00",
+              "17.05%"
+            ],
+            [
+              "Oct-19",
+              "3.03",
+              "17.33%"
+            ],
+            [
+              "Nov-19",
+              "3.05",
+              "17.55%"
+            ],
+            [
+              "Dec-19",
+              "3.04",
+              "17.60%"
+            ],
+            [
+              "Jan-20",
+              "3.11",
+              "18.48%"
+            ],
+            [
+              "Feb-20",
+              "3.05",
+              "17.92%"
+            ],
+            [
+              "Mar-20",
+              "3.07",
+              "18.35%"
+            ],
+            [
+              "Apr-20",
+              "3.07",
+              "18.33%"
+            ],
+            [
+              "May-20",
+              "3.03",
+              "18.01%"
+            ],
+            [
+              "Jun-20",
+              "3.02",
+              "17.52%"
+            ],
+            [
+              "Jul-20",
+              "3.06",
+              "18.25%"
+            ],
+            [
+              "Aug-20",
+              "3.16",
+              "20.02%"
+            ],
+            [
+              "Sep-20",
+              "3.20",
+              "21.04%"
+            ],
+            [
+              "Oct-20",
+              "3.24",
+              "21.91%"
+            ],
+            [
+              "Nov-20",
+              "3.30",
+              "22.64%"
+            ],
+            [
+              "Dec-20",
+              "3.30",
+              "22.45%"
+            ],
+            [
+              "Jan-21",
+              "3.36",
+              "23.66%"
+            ],
+            [
+              "Feb-21",
+              "3.31",
+              "22.94%"
+            ],
+            [
+              "Mar-21",
+              "3.39",
+              "24.02%"
+            ],
+            [
+              "Apr-21",
+              "3.42",
+              "24.94%"
+            ],
+            [
+              "May-21",
+              "3.48",
+              "26.24%"
+            ],
+            [
+              "Jun-21",
+              "3.47",
+              "26.08%"
+            ],
+            [
+              "Jul-21",
+              "3.47",
+              "25.96%"
+            ],
+            [
+              "Aug-21",
+              "3.47",
+              "25.41%"
+            ],
+            [
+              "Sep-21",
+              "3.45",
+              "25.01%"
+            ],
+            [
+              "Oct-21",
+              "3.48",
+              "25.62%"
+            ],
+            [
+              "Nov-21",
+              "3.52",
+              "26.09%"
+            ],
+            [
+              "Dec-21",
+              "3.52",
+              "26.26%"
+            ],
+            [
+              "Jan-22",
+              "3.67",
+              "28.30%"
+            ],
+            [
+              "Feb-22",
+              "3.51",
+              "26.28%"
+            ],
+            [
+              "Mar-22",
+              "3.50",
+              "26.32%"
+            ],
+            [
+              "Apr-22",
+              "3.47",
+              "26.12%"
+            ],
+            [
+              "May-22",
+              "3.44",
+              "25.57%"
+            ],
+            [
+              "Jun-22",
+              "3.44",
+              "24.74%"
+            ],
+            [
+              "Jul-22",
+              "3.34",
+              "23.19%"
+            ]
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Source: FRFI filings to OSFI This chart includes uninsured mortgage data from 20 federally regulated mortgage lenders. These lenders hold more than 99 per cent (by $) of all mortgages subject to OSFI regulation and supervision."
+        }
+      ]
+    },
+    {
+      "heading": "Potential losses at financial institutions",
+      "heading_level": 4,
+      "full_text": "Mortgages with loan-to-value (LTV) ratios in excess of 75% are considered relatively high ratio mortgages, meaning there is less equity at origination and thus, higher risk. The proportion of newly underwritten uninsured mortgages with LTV ratios in excess of 75% has been decreasing over the past year, and remains below its historic peak levels ( see Chart 8 ).\nChart 8 - Proportion of uninsured mortgage originations with LTV > 75% by loan amount\n[Image: Chart 8, text description follows] (https://www.osfi-bsif.gc.ca/sites/default/files/2023-06/b20-img8.png)\nTable: Chart 8 - Proportion of Uninsured Mortgage Originations with LTV > 75% by Loan Amount\nFiling | %\nJan-15 | 48.1%\nFeb-15 | 48.5%\nMar-15 | 49.7%\nApr-15 | 48.3%\nMay-15 | 50.7%\nJun-15 | 50.5%\nJul-15 | 51.0%\nAug-15 | 50.0%\nSep-15 | 48.8%\nOct-15 | 48.5%\nNov-15 | 49.0%\nDec-15 | 48.4%\nJan-16 | 45.4%\nFeb-16 | 46.1%\nMar-16 | 45.8%\nApr-16 | 45.6%\nMay-16 | 46.3%\nJun-16 | 46.1%\nJul-16 | 44.4%\nAug-16 | 45.9%\nSep-16 | 45.0%\nOct-16 | 45.9%\nNov-16 | 45.6%\nDec-16 | 46.3%\nJan-17 | 44.9%\nFeb-17 | 45.6%\nMar-17 | 46.5%\nApr-17 | 45.3%\nMay-17 | 45.7%\nJun-17 | 45.7%\nJul-17 | 45.2%\nAug-17 | 45.7%\nSep-17 | 46.5%\nOct-17 | 46.5%\nNov-17 | 46.9%\nDec-17 | 47.8%\nJan-18 | 46.6%\nFeb-18 | 45.7%\nMar-18 | 46.7%\nApr-18 | 46.5%\nMay-18 | 47.1%\nJun-18 | 47.3%\nJul-18 | 46.2%\nAug-18 | 46.4%\nSep-18 | 47.0%\nOct-18 | 48.0%\nNov-18 | 47.8%\nDec-18 | 47.3%\nJan-19 | 47.7%\nFeb-19 | 48.6%\nMar-19 | 49.5%\nApr-19 | 49.7%\nMay-19 | 50.6%\nJun-19 | 51.3%\nJul-19 | 50.1%\nAug-19 | 50.6%\nSep-19 | 49.3%\nOct-19 | 49.8%\nNov-19 | 49.5%\nDec-19 | 49.4%\nJan-20 | 48.2%\nFeb-20 | 49.9%\nMar-20 | 50.1%\nApr-20 | 49.5%\nMay-20 | 49.7%\nJun-20 | 51.2%\nJul-20 | 51.4%\nAug-20 | 52.5%\nSep-20 | 52.1%\nOct-20 | 52.1%\nNov-20 | 51.0%\nDec-20 | 51.2%\nJan-21 | 50.0%\nFeb-21 | 49.8%\nMar-21 | 48.8%\nApr-21 | 49.2%\nMay-21 | 49.9%\nJun-21 | 49.8%\nJul-21 | 49.7%\nAug-21 | 49.3%\nSep-21 | 48.9%\nOct-21 | 49.3%\nNov-21 | 48.3%\nDec-21 | 47.5%\nJan-22 | 49.1%\nFeb-22 | 47.4%\nMar-22 | 46.2%\nApr-22 | 46.8%\nMay-22 | 48.2%\nJun-22 | 47.8%\nJul-22 | 47.8%\nSource: FRFI filings to OSFI This chart includes uninsured mortgage data from 20 federally regulated mortgage lenders. These lenders hold more than 99 per cent (by $) of all mortgages subject to OSFI regulation and supervision.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Mortgages with loan-to-value (LTV) ratios in excess of 75% are considered relatively high ratio mortgages, meaning there is less equity at origination and thus, higher risk. The proportion of newly underwritten uninsured mortgages with LTV ratios in excess of 75% has been decreasing over the past year, and remains below its historic peak levels ( see Chart 8 )."
+        },
+        {
+          "type": "paragraph",
+          "text": "Chart 8 - Proportion of uninsured mortgage originations with LTV > 75% by loan amount"
+        },
+        {
+          "type": "image",
+          "src": "https://www.osfi-bsif.gc.ca/sites/default/files/2023-06/b20-img8.png",
+          "alt": "Chart 8, text description follows",
+          "caption": "Chart 8, text description follows"
+        },
+        {
+          "type": "table",
+          "caption": "Chart 8 - Proportion of Uninsured Mortgage Originations with LTV > 75% by Loan Amount",
+          "rows": [
+            [
+              "Filing",
+              "%"
+            ],
+            [
+              "Jan-15",
+              "48.1%"
+            ],
+            [
+              "Feb-15",
+              "48.5%"
+            ],
+            [
+              "Mar-15",
+              "49.7%"
+            ],
+            [
+              "Apr-15",
+              "48.3%"
+            ],
+            [
+              "May-15",
+              "50.7%"
+            ],
+            [
+              "Jun-15",
+              "50.5%"
+            ],
+            [
+              "Jul-15",
+              "51.0%"
+            ],
+            [
+              "Aug-15",
+              "50.0%"
+            ],
+            [
+              "Sep-15",
+              "48.8%"
+            ],
+            [
+              "Oct-15",
+              "48.5%"
+            ],
+            [
+              "Nov-15",
+              "49.0%"
+            ],
+            [
+              "Dec-15",
+              "48.4%"
+            ],
+            [
+              "Jan-16",
+              "45.4%"
+            ],
+            [
+              "Feb-16",
+              "46.1%"
+            ],
+            [
+              "Mar-16",
+              "45.8%"
+            ],
+            [
+              "Apr-16",
+              "45.6%"
+            ],
+            [
+              "May-16",
+              "46.3%"
+            ],
+            [
+              "Jun-16",
+              "46.1%"
+            ],
+            [
+              "Jul-16",
+              "44.4%"
+            ],
+            [
+              "Aug-16",
+              "45.9%"
+            ],
+            [
+              "Sep-16",
+              "45.0%"
+            ],
+            [
+              "Oct-16",
+              "45.9%"
+            ],
+            [
+              "Nov-16",
+              "45.6%"
+            ],
+            [
+              "Dec-16",
+              "46.3%"
+            ],
+            [
+              "Jan-17",
+              "44.9%"
+            ],
+            [
+              "Feb-17",
+              "45.6%"
+            ],
+            [
+              "Mar-17",
+              "46.5%"
+            ],
+            [
+              "Apr-17",
+              "45.3%"
+            ],
+            [
+              "May-17",
+              "45.7%"
+            ],
+            [
+              "Jun-17",
+              "45.7%"
+            ],
+            [
+              "Jul-17",
+              "45.2%"
+            ],
+            [
+              "Aug-17",
+              "45.7%"
+            ],
+            [
+              "Sep-17",
+              "46.5%"
+            ],
+            [
+              "Oct-17",
+              "46.5%"
+            ],
+            [
+              "Nov-17",
+              "46.9%"
+            ],
+            [
+              "Dec-17",
+              "47.8%"
+            ],
+            [
+              "Jan-18",
+              "46.6%"
+            ],
+            [
+              "Feb-18",
+              "45.7%"
+            ],
+            [
+              "Mar-18",
+              "46.7%"
+            ],
+            [
+              "Apr-18",
+              "46.5%"
+            ],
+            [
+              "May-18",
+              "47.1%"
+            ],
+            [
+              "Jun-18",
+              "47.3%"
+            ],
+            [
+              "Jul-18",
+              "46.2%"
+            ],
+            [
+              "Aug-18",
+              "46.4%"
+            ],
+            [
+              "Sep-18",
+              "47.0%"
+            ],
+            [
+              "Oct-18",
+              "48.0%"
+            ],
+            [
+              "Nov-18",
+              "47.8%"
+            ],
+            [
+              "Dec-18",
+              "47.3%"
+            ],
+            [
+              "Jan-19",
+              "47.7%"
+            ],
+            [
+              "Feb-19",
+              "48.6%"
+            ],
+            [
+              "Mar-19",
+              "49.5%"
+            ],
+            [
+              "Apr-19",
+              "49.7%"
+            ],
+            [
+              "May-19",
+              "50.6%"
+            ],
+            [
+              "Jun-19",
+              "51.3%"
+            ],
+            [
+              "Jul-19",
+              "50.1%"
+            ],
+            [
+              "Aug-19",
+              "50.6%"
+            ],
+            [
+              "Sep-19",
+              "49.3%"
+            ],
+            [
+              "Oct-19",
+              "49.8%"
+            ],
+            [
+              "Nov-19",
+              "49.5%"
+            ],
+            [
+              "Dec-19",
+              "49.4%"
+            ],
+            [
+              "Jan-20",
+              "48.2%"
+            ],
+            [
+              "Feb-20",
+              "49.9%"
+            ],
+            [
+              "Mar-20",
+              "50.1%"
+            ],
+            [
+              "Apr-20",
+              "49.5%"
+            ],
+            [
+              "May-20",
+              "49.7%"
+            ],
+            [
+              "Jun-20",
+              "51.2%"
+            ],
+            [
+              "Jul-20",
+              "51.4%"
+            ],
+            [
+              "Aug-20",
+              "52.5%"
+            ],
+            [
+              "Sep-20",
+              "52.1%"
+            ],
+            [
+              "Oct-20",
+              "52.1%"
+            ],
+            [
+              "Nov-20",
+              "51.0%"
+            ],
+            [
+              "Dec-20",
+              "51.2%"
+            ],
+            [
+              "Jan-21",
+              "50.0%"
+            ],
+            [
+              "Feb-21",
+              "49.8%"
+            ],
+            [
+              "Mar-21",
+              "48.8%"
+            ],
+            [
+              "Apr-21",
+              "49.2%"
+            ],
+            [
+              "May-21",
+              "49.9%"
+            ],
+            [
+              "Jun-21",
+              "49.8%"
+            ],
+            [
+              "Jul-21",
+              "49.7%"
+            ],
+            [
+              "Aug-21",
+              "49.3%"
+            ],
+            [
+              "Sep-21",
+              "48.9%"
+            ],
+            [
+              "Oct-21",
+              "49.3%"
+            ],
+            [
+              "Nov-21",
+              "48.3%"
+            ],
+            [
+              "Dec-21",
+              "47.5%"
+            ],
+            [
+              "Jan-22",
+              "49.1%"
+            ],
+            [
+              "Feb-22",
+              "47.4%"
+            ],
+            [
+              "Mar-22",
+              "46.2%"
+            ],
+            [
+              "Apr-22",
+              "46.8%"
+            ],
+            [
+              "May-22",
+              "48.2%"
+            ],
+            [
+              "Jun-22",
+              "47.8%"
+            ],
+            [
+              "Jul-22",
+              "47.8%"
+            ]
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Source: FRFI filings to OSFI This chart includes uninsured mortgage data from 20 federally regulated mortgage lenders. These lenders hold more than 99 per cent (by $) of all mortgages subject to OSFI regulation and supervision."
+        }
+      ]
+    },
+    {
+      "heading": "Summary",
+      "heading_level": 3,
+      "full_text": "OSFI’s actions are aimed at addressing the health of the federally regulated financial institutions active in lending, including in the residential real estate market.\nIn a rising rate environment, the debt service burden rises as consumers pay more interest, which can have a meaningful impact, especially on households that are already financially stretched. In turn, this can lead to higher default rates.\nThe MQR has provided a margin of safety that improves borrowers’ ability to absorb unexpected changes in interest rates or income. The MQR prevented borrowers from stretching their borrowing capacity to its maximum, thus ensuring that a larger number of borrowers could keep making payments even as interest rates rise. Recent increases in mortgage interest rates have already eroded a significant portion of the debt service capacity provided for by the qualifying rate buffer, and debt service ratios are still increasing.\nFinancial institutions may experience losses on their residential real estate loans in the case of borrower defaults if the value of the homeowners’ equity substantially erodes. This type of a situation has not been observed in Canada for decades due to the stability of the housing market but can happen in the case of a prolonged housing market correction.\nOSFI will take action to continue to assess FRFIs’ readiness to manage borrower challenges in their mortgage portfolios and higher potential losses in light of their existing provisioning levels and capital positions.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "OSFI’s actions are aimed at addressing the health of the federally regulated financial institutions active in lending, including in the residential real estate market."
+        },
+        {
+          "type": "paragraph",
+          "text": "In a rising rate environment, the debt service burden rises as consumers pay more interest, which can have a meaningful impact, especially on households that are already financially stretched. In turn, this can lead to higher default rates."
+        },
+        {
+          "type": "paragraph",
+          "text": "The MQR has provided a margin of safety that improves borrowers’ ability to absorb unexpected changes in interest rates or income. The MQR prevented borrowers from stretching their borrowing capacity to its maximum, thus ensuring that a larger number of borrowers could keep making payments even as interest rates rise. Recent increases in mortgage interest rates have already eroded a significant portion of the debt service capacity provided for by the qualifying rate buffer, and debt service ratios are still increasing."
+        },
+        {
+          "type": "paragraph",
+          "text": "Financial institutions may experience losses on their residential real estate loans in the case of borrower defaults if the value of the homeowners’ equity substantially erodes. This type of a situation has not been observed in Canada for decades due to the stability of the housing market but can happen in the case of a prolonged housing market correction."
+        },
+        {
+          "type": "paragraph",
+          "text": "OSFI will take action to continue to assess FRFIs’ readiness to manage borrower challenges in their mortgage portfolios and higher potential losses in light of their existing provisioning levels and capital positions."
+        }
+      ]
+    }
+  ],
+  "title_normalized": "infosheet residential mortgage underwriting practices and procedures guideline b20",
+  "publication_type_normalized": "guideline",
+  "category_normalized": "sound_business_and_financial_practices",
+  "sector_normalized": [
+    "banks",
+    "foreign_bank_branches",
+    "trust_and_loan_companies",
+    "life_insurance",
+    "pc_insurance"
+  ],
+  "guideline_number_normalized": "B20",
+  "applies_to_banks": true,
+  "applies_to_trust_loan": true,
+  "applies_to_life_insurance": true,
+  "applies_to_pc_insurance": true,
+  "applies_to_foreign_bank": true,
+  "applies_to_foreign_insurance": false,
+  "applies_to_cooperative": false,
+  "applies_to_bank_holding": false,
+  "effective_date_sort_key": "2023-01-12",
+  "status_sort_key": 1,
+  "authority_sort_key": 100,
+  "bm25_text": "Infosheet - Residential Mortgage Underwriting Practices and Procedures Guideline (B-20) B-20 Guideline Sound Business and Financial Practices Banks Foreign Bank Branches Trust and Loan Companies Life Insurance and Fraternal Companies Property and Casualty Companies Sound mortgage underwriting contributes to financial stability Elevated level of household indebtedness Potential losses at financial institutions Elevated level of household indebtedness Potential losses at financial institutions Summary",
+  "vector_text_prefix": "[OSFI Guideline B-20 | Sound Business and Financial Practices | Banks / Foreign Bank Branches / Trust and Loan Companies | FINAL_CURRENT | Effective 2023-01-12]",
+  "h1_title": "Infosheet - Residential Mortgage Underwriting Practices and Procedures Guideline (B-20)",
+  "regulator": "OSFI",
+  "regulator_acronym": "OSFI",
+  "jurisdiction": "Canada",
+  "short_title": "B-20",
+  "source_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/infosheet-residential-mortgage-underwriting-practices-procedures-guideline-b-20"
+}

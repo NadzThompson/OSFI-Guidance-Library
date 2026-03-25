@@ -1,0 +1,213 @@
+{
+  "source_system": "osfi_guidance_library",
+  "library_row_title": "Letter to industry – OSFI’s policy plan",
+  "library_row_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/letter-industry-osfis-policy-plan",
+  "listing_date_raw": "August 18, 2025",
+  "listing_date_iso": "2025-08-18",
+  "listing_publication_type": "Letter",
+  "listing_category": "",
+  "listing_sector": [
+    "Banks",
+    "Life Insurance and Fraternal Companies"
+  ],
+  "crawl_timestamp": "2026-03-11T00:00:00Z",
+  "detail_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/letter-industry-osfis-policy-plan",
+  "canonical_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/letter-industry-osfis-policy-plan",
+  "slug": "letter-industry-osfis-policy-plan",
+  "title": "Letter to industry – OSFI’s policy plan",
+  "publication_type": "Letter",
+  "category": "",
+  "document_date_raw": "August 18, 2025",
+  "document_date_iso": "2025-08-18",
+  "sector": [
+    "Banks",
+    "Life Insurance and Fraternal Companies"
+  ],
+  "effective_date_text": "",
+  "guideline_number": "",
+  "date_modified_raw": "2025-08-18T12:00:00Z",
+  "generate_pdf_url": "https://www.osfi-bsif.gc.ca/en/print/pdf/node/2786",
+  "pdf_node_id": 2786,
+  "direct_pdf_url": null,
+  "has_table_of_contents": true,
+  "toc_entries": [],
+  "has_related_documents": true,
+  "related_document_links_raw": [
+    {
+      "title": "Statement from the Superintendent on OSFI’s continued regulatory efficiency",
+      "url": "https://www.osfi-bsif.gc.ca/en/news/statement-superintendent-osfis-continued-regulatory-efficiency"
+    }
+  ],
+  "consultation_status_text": null,
+  "consultation_status_refers_to_version": null,
+  "page_language": "en",
+  "word_count_raw_body": 408,
+  "doc_id": "osfi.letter-industry-osfis-policy-plan.transmittal",
+  "doc_family_id": "osfi.letter-industry-osfis-policy-plan",
+  "version_id": "",
+  "version_label": "Letter to industry – OSFI’s policy plan",
+  "version_sort_key": "",
+  "parent_doc_id": null,
+  "child_doc_ids": [],
+  "is_package_page": false,
+  "is_chapter_page": false,
+  "chapter_number": null,
+  "chapter_title": null,
+  "document_order_within_family": 0,
+  "supersedes_doc_id": null,
+  "superseded_by_doc_id": null,
+  "current_version_flag": true,
+  "status": "final_current",
+  "include_in_primary_corpus": false,
+  "include_in_support_corpus": true,
+  "include_in_context_corpus": false,
+  "effective_date_start": "2025-08-18",
+  "effective_date_end": null,
+  "effective_date_fye_split": false,
+  "effective_date_oct_fye": null,
+  "effective_date_dec_fye": null,
+  "is_future_effective": false,
+  "is_rescinded": false,
+  "is_draft_or_consultation": false,
+  "rescission_date": null,
+  "consultation_closing_date": null,
+  "as_of_applicability": "2026-03-23",
+  "rule_applied": "rule_5_final_current",
+  "authority_class": "official_support",
+  "authority_level": 60,
+  "nova_tier": 2,
+  "prudential_weight": 0.7,
+  "is_primary_normative": false,
+  "is_supporting_interpretive": true,
+  "is_context_only": false,
+  "document_class": "transmittal_letter",
+  "guidance_type_normalized": "letter",
+  "section_headings": [],
+  "heading_path": [
+    "Letter to industry – OSFI’s policy plan"
+  ],
+  "toc_depth": 0,
+  "has_appendices": false,
+  "appendix_ids": [],
+  "has_tables": false,
+  "table_count": 0,
+  "has_footnotes": false,
+  "footnote_count": 0,
+  "inline_cross_references": [],
+  "quoted_external_references": [],
+  "raw_html_sha256": "bb9d890d2d5bb8a0754d2a60bcfc7ac66dac16895557af8f929e77cbac43a598",
+  "raw_pdf_sha256": null,
+  "normalized_text_sha256": null,
+  "raw_html_path": "bronze/osfi/html/final_current/letter-industry-osfis-policy-plan.html",
+  "normalized_md_path": "silver/osfi/md/final_current/letter-industry-osfis-policy-plan.md",
+  "canonical_json_path": "silver/osfi/json/final_current/letter-industry-osfis-policy-plan.json",
+  "content_source": "HTML",
+  "parser_version": "osfi-parser-v2.1.0",
+  "normalizer_version": "osfi-normalizer-v1.4.0",
+  "quality_score": 0.5,
+  "quality_flags": [
+    "thin_body_text"
+  ],
+  "download_timestamp": "2026-03-11T00:00:00Z",
+  "enriched_timestamp": "2026-03-23T09:53:53.281586Z",
+  "sections": [
+    {
+      "heading": "",
+      "heading_level": 2,
+      "full_text": "  - Statement from the Superintendent on OSFI’s continued regulatory efficiency\nTo: Federally regulated financial institutions\nAs part of our ongoing work to streamline our regulatory framework, we are sharing our revised policy plan on guidance and supervision. Through the plan, we continue to provide regulatory relief for institutions, while ensuring appropriate regulatory and supervisory oversight.\nThis approach is agile, targeted, transparent, and risk-based, while ensuring Canada’s resilient financial system delivers stronger outcomes for economic growth. To be clear, this is not about doing less—it’s about doing things smarter. By creating regulatory efficiency where we can and focusing our efforts where it counts, we are building a more effective, forward-looking regulatory system.\nOSFI has taken meaningful action to respond to this changing environment so that we can position Canada’s financial system for tomorrow’s opportunities.\nFrom a policy and guidance perspective, we are:\n  - postponing the release of the draft Corporate Governance and Accountability Guideline. Instead, taking a narrower focus on board and senior management accountability, with a consultative document expected in January 2026.\n  - deferring the Life Insurance Capital Adequacy Test Guideline revision to beyond 2028 and reducing capital requirements for domestic infrastructure debt and equity that meet certain criteria.\n  - launching a consultation in January 2026 to streamline and clarify credit risk management guidance across key lending areas.\nSee our policy release and announcement schedule for more details on our guidance priorities. This schedule is based on our current plans, which may be adjusted due to external factors and a possible re-prioritization. Additional details on our expected policy work will be shared in the fall Semi-Annual Risk Outlook to be released on October 9, 2025.\nFrom a supervisory perspective, we are:\n  - reducing the scope or changing the timing of some information requests and reviews.\n  - cancelling select data collections that began during the pandemic.\nAs always, we take a risk-based approach to our supervisory work based on the size and complexity of institutions.\nThis effort contributes to the Government of Canada’s Red Tape Review by continuing to modernize our policies, guidance, and supervision; removing unnecessary burden; and aligning our oversight with the key risks at the right time.\nIn keeping with our risk appetite , we are committed to taking early action when needed to protect the trust Canadians have in their financial system. These changes do not jeopardize the safety and soundness of Canada’s financial system. Rather, they simplify and focus our regulatory and supervisory expectations.",
+      "content": [
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Statement from the Superintendent on OSFI’s continued regulatory efficiency"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "To: Federally regulated financial institutions"
+        },
+        {
+          "type": "paragraph",
+          "text": "As part of our ongoing work to streamline our regulatory framework, we are sharing our revised policy plan on guidance and supervision. Through the plan, we continue to provide regulatory relief for institutions, while ensuring appropriate regulatory and supervisory oversight."
+        },
+        {
+          "type": "paragraph",
+          "text": "This approach is agile, targeted, transparent, and risk-based, while ensuring Canada’s resilient financial system delivers stronger outcomes for economic growth. To be clear, this is not about doing less—it’s about doing things smarter. By creating regulatory efficiency where we can and focusing our efforts where it counts, we are building a more effective, forward-looking regulatory system."
+        },
+        {
+          "type": "paragraph",
+          "text": "OSFI has taken meaningful action to respond to this changing environment so that we can position Canada’s financial system for tomorrow’s opportunities."
+        },
+        {
+          "type": "paragraph",
+          "text": "From a policy and guidance perspective, we are:"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "postponing the release of the draft Corporate Governance and Accountability Guideline. Instead, taking a narrower focus on board and senior management accountability, with a consultative document expected in January 2026.",
+            "deferring the Life Insurance Capital Adequacy Test Guideline revision to beyond 2028 and reducing capital requirements for domestic infrastructure debt and equity that meet certain criteria.",
+            "launching a consultation in January 2026 to streamline and clarify credit risk management guidance across key lending areas."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "See our policy release and announcement schedule for more details on our guidance priorities. This schedule is based on our current plans, which may be adjusted due to external factors and a possible re-prioritization. Additional details on our expected policy work will be shared in the fall Semi-Annual Risk Outlook to be released on October 9, 2025."
+        },
+        {
+          "type": "paragraph",
+          "text": "From a supervisory perspective, we are:"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "reducing the scope or changing the timing of some information requests and reviews.",
+            "cancelling select data collections that began during the pandemic."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "As always, we take a risk-based approach to our supervisory work based on the size and complexity of institutions."
+        },
+        {
+          "type": "paragraph",
+          "text": "This effort contributes to the Government of Canada’s Red Tape Review by continuing to modernize our policies, guidance, and supervision; removing unnecessary burden; and aligning our oversight with the key risks at the right time."
+        },
+        {
+          "type": "paragraph",
+          "text": "In keeping with our risk appetite , we are committed to taking early action when needed to protect the trust Canadians have in their financial system. These changes do not jeopardize the safety and soundness of Canada’s financial system. Rather, they simplify and focus our regulatory and supervisory expectations."
+        }
+      ]
+    }
+  ],
+  "title_normalized": "letter to industry osfis policy plan",
+  "publication_type_normalized": "letter",
+  "category_normalized": "",
+  "sector_normalized": [
+    "banks",
+    "life_insurance"
+  ],
+  "guideline_number_normalized": "",
+  "applies_to_banks": true,
+  "applies_to_trust_loan": false,
+  "applies_to_life_insurance": true,
+  "applies_to_pc_insurance": false,
+  "applies_to_foreign_bank": false,
+  "applies_to_foreign_insurance": false,
+  "applies_to_cooperative": false,
+  "applies_to_bank_holding": false,
+  "effective_date_sort_key": "2025-08-18",
+  "status_sort_key": 1,
+  "authority_sort_key": 60,
+  "bm25_text": "Letter to industry – OSFI’s policy plan Letter Banks Life Insurance and Fraternal Companies",
+  "vector_text_prefix": "[OSFI Letter  |  | Banks / Life Insurance and Fraternal Companies | FINAL_CURRENT | Effective 2025-08-18]",
+  "h1_title": "Letter to industry – OSFI’s policy plan",
+  "regulator": "OSFI",
+  "regulator_acronym": "OSFI",
+  "jurisdiction": "Canada",
+  "short_title": "",
+  "source_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/letter-industry-osfis-policy-plan"
+}

@@ -1,0 +1,194 @@
+{
+  "source_system": "osfi_guidance_library",
+  "library_row_title": "OSFI response to draft guideline B-10 consultation feedback – Third-party Risk Management",
+  "library_row_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/osfi-response-draft-guideline-b-10-consultation-feedback-third-party-risk-management",
+  "listing_date_raw": "April 24, 2023",
+  "listing_date_iso": "2023-04-24",
+  "listing_publication_type": "Letter",
+  "listing_category": "Sound Business and Financial Practices",
+  "listing_sector": [],
+  "crawl_timestamp": "2026-03-11T00:00:00Z",
+  "detail_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/osfi-response-draft-guideline-b-10-consultation-feedback-third-party-risk-management",
+  "canonical_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/osfi-response-draft-guideline-b-10-consultation-feedback-third-party-risk-management",
+  "slug": "osfi-response-draft-guideline-b-10-consultation-feedback-third-party-risk-management",
+  "title": "OSFI response to draft guideline B-10 consultation feedback – Third-party Risk Management",
+  "publication_type": "Letter",
+  "category": "Sound Business and Financial Practices",
+  "document_date_raw": "April 24, 2023",
+  "document_date_iso": "2023-04-24",
+  "sector": [],
+  "effective_date_text": "",
+  "guideline_number": "B-10",
+  "date_modified_raw": "2023-04-24T12:00:00Z",
+  "generate_pdf_url": "https://www.osfi-bsif.gc.ca/en/print/pdf/node/1680",
+  "pdf_node_id": 1680,
+  "direct_pdf_url": null,
+  "has_table_of_contents": true,
+  "toc_entries": [],
+  "has_related_documents": false,
+  "related_document_links_raw": [],
+  "consultation_status_text": null,
+  "consultation_status_refers_to_version": null,
+  "page_language": "en",
+  "word_count_raw_body": 465,
+  "doc_id": "osfi.b10.transmittal",
+  "doc_family_id": "osfi.b10",
+  "version_id": "",
+  "version_label": "OSFI response to draft guideline B-10 consultation feedback ",
+  "version_sort_key": "",
+  "parent_doc_id": null,
+  "child_doc_ids": [],
+  "is_package_page": false,
+  "is_chapter_page": false,
+  "chapter_number": null,
+  "chapter_title": null,
+  "document_order_within_family": 0,
+  "supersedes_doc_id": null,
+  "superseded_by_doc_id": null,
+  "current_version_flag": false,
+  "status": "draft_or_consultation",
+  "include_in_primary_corpus": false,
+  "include_in_support_corpus": false,
+  "include_in_context_corpus": true,
+  "effective_date_start": "2023-04-24",
+  "effective_date_end": null,
+  "effective_date_fye_split": false,
+  "effective_date_oct_fye": null,
+  "effective_date_dec_fye": null,
+  "is_future_effective": false,
+  "is_rescinded": false,
+  "is_draft_or_consultation": true,
+  "rescission_date": null,
+  "consultation_closing_date": null,
+  "as_of_applicability": "2026-03-23",
+  "rule_applied": "rule_3_banner_different_version",
+  "authority_class": "excluded",
+  "authority_level": 0,
+  "nova_tier": 3,
+  "prudential_weight": 0.0,
+  "is_primary_normative": false,
+  "is_supporting_interpretive": false,
+  "is_context_only": true,
+  "document_class": "transmittal_letter",
+  "guidance_type_normalized": "letter",
+  "section_headings": [
+    {
+      "level": 2,
+      "text": "Information session",
+      "id": "h2-0"
+    }
+  ],
+  "heading_path": [
+    "OSFI response to draft guideline B-10 consultation feedback – Third-party Risk Management"
+  ],
+  "toc_depth": 2,
+  "has_appendices": false,
+  "appendix_ids": [],
+  "has_tables": false,
+  "table_count": 0,
+  "has_footnotes": false,
+  "footnote_count": 0,
+  "inline_cross_references": [
+    "Guideline B-10: Third-Party Risk Management which sets out enhanced third-",
+    "Guideline B-10 applies to all FRFIs",
+    "Guideline E-4: Foreign Entities Operating in Canada on a Branch Basis",
+    "Guideline E-4 and expects to issue clarifications later this year aimed a",
+    "Guideline B-10:"
+  ],
+  "quoted_external_references": [],
+  "raw_html_sha256": "f1b9cf7a018cc1fd788f1edf412a7db48583239982f7ca773f6f75350a33d552",
+  "raw_pdf_sha256": null,
+  "normalized_text_sha256": null,
+  "raw_html_path": "bronze/osfi/html/draft/osfi-response-draft-guideline-b-10-consultation-feedback-third-party-risk-management.html",
+  "normalized_md_path": "silver/osfi/md/draft/osfi-response-draft-guideline-b-10-consultation-feedback-third-party-risk-management.md",
+  "canonical_json_path": "silver/osfi/json/draft/osfi-response-draft-guideline-b-10-consultation-feedback-third-party-risk-management.json",
+  "content_source": "HTML",
+  "parser_version": "osfi-parser-v2.1.0",
+  "normalizer_version": "osfi-normalizer-v1.4.0",
+  "quality_score": 0.5,
+  "quality_flags": [
+    "thin_body_text"
+  ],
+  "download_timestamp": "2026-03-11T00:00:00Z",
+  "enriched_timestamp": "2026-03-23T09:53:57.854109Z",
+  "sections": [
+    {
+      "heading": "",
+      "heading_level": 2,
+      "full_text": "  - OSFI announces new guideline to manage third-party risk\n  - Third-Party Risk Management Guideline\n  - Third-party Risk Management guideline - Summary response to consultation feedback\nToday, the Office of the Superintendent of Financial Institutions (OSFI) publishes its final revised Guideline B-10: Third-Party Risk Management which sets out enhanced third-party risk management expectations for federally regulated financial institutions (FRFIs). A non-attributed summary of comments received and OSFI’s responses are available.\nThe financial industry has long made use of third-party arrangements to introduce efficiency, drive innovation, manage shifting operational needs, and improve service. Increasingly, FRFIs are relying on an expanded third-party ecosystem to deliver more of their critical activities. This increases the likelihood that these arrangements could impact a FRFI’s operational and financial resilience.\nGuideline B-10 applies to all FRFIs, excluding foreign bank branches and foreign insurance company branches, which are covered by Guideline E-4: Foreign Entities Operating in Canada on a Branch Basis . OSFI is currently reviewing Guideline E-4 and expects to issue clarifications later this year aimed at ensuring risks related to Canadian operations are appropriately managed within the domestic legal and regulatory frameworks.\nGuideline B-10:\n  - Addresses a comprehensive set of third-party risks within an expanded third-party ecosystem, placing emphasis on governance and risk management programs and setting outcomes-focused, principles-based expectations for FRFIs on the sound management of third-party risk.\n  - Reflects a principles-based approach with increased emphasis on a risk-based approach to managing third-party arrangements, reflecting the expectation FRFIs to understand a broad scope of third-party arrangements but apply the Guideline in a manner that is proportionate to the level of risk and criticality of each arrangement and to the size, nature, scope, complexity, and risk profile of the FRFI.\n  - Adopts a pragmatic approach to managing subcontractor and concentration risks , with FRFIs managing subcontractor risk according to the level of risk and criticality of the given third-party arrangement, taking reasonable steps to manage concentration risks related to their own third-party arrangements, and assessing systemic concentration risk to the greatest extent possible.\n  - Does not impede the development of a federal framework for consumer-directed data mobility within the financial sector. Once the framework is designed, OSFI may provide relevant guidance as appropriate.\n  - Provides adequate implementation time to self-assess and build adherence by an effective date of May 1, 2024 , with the expectation that third-party arrangements commencing on or after the effective date adhere to the guideline and those entered into prior are being reviewed and updated at the earliest opportunity so that they adhere to the guideline by its effective date or as soon as possible thereafter.",
+      "content": [
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "OSFI announces new guideline to manage third-party risk",
+            "Third-Party Risk Management Guideline",
+            "Third-party Risk Management guideline - Summary response to consultation feedback"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Today, the Office of the Superintendent of Financial Institutions (OSFI) publishes its final revised Guideline B-10: Third-Party Risk Management which sets out enhanced third-party risk management expectations for federally regulated financial institutions (FRFIs). A non-attributed summary of comments received and OSFI’s responses are available."
+        },
+        {
+          "type": "paragraph",
+          "text": "The financial industry has long made use of third-party arrangements to introduce efficiency, drive innovation, manage shifting operational needs, and improve service. Increasingly, FRFIs are relying on an expanded third-party ecosystem to deliver more of their critical activities. This increases the likelihood that these arrangements could impact a FRFI’s operational and financial resilience."
+        },
+        {
+          "type": "paragraph",
+          "text": "Guideline B-10 applies to all FRFIs, excluding foreign bank branches and foreign insurance company branches, which are covered by Guideline E-4: Foreign Entities Operating in Canada on a Branch Basis . OSFI is currently reviewing Guideline E-4 and expects to issue clarifications later this year aimed at ensuring risks related to Canadian operations are appropriately managed within the domestic legal and regulatory frameworks."
+        },
+        {
+          "type": "paragraph",
+          "text": "Guideline B-10:"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Addresses a comprehensive set of third-party risks within an expanded third-party ecosystem, placing emphasis on governance and risk management programs and setting outcomes-focused, principles-based expectations for FRFIs on the sound management of third-party risk.",
+            "Reflects a principles-based approach with increased emphasis on a risk-based approach to managing third-party arrangements, reflecting the expectation FRFIs to understand a broad scope of third-party arrangements but apply the Guideline in a manner that is proportionate to the level of risk and criticality of each arrangement and to the size, nature, scope, complexity, and risk profile of the FRFI.",
+            "Adopts a pragmatic approach to managing subcontractor and concentration risks , with FRFIs managing subcontractor risk according to the level of risk and criticality of the given third-party arrangement, taking reasonable steps to manage concentration risks related to their own third-party arrangements, and assessing systemic concentration risk to the greatest extent possible.",
+            "Does not impede the development of a federal framework for consumer-directed data mobility within the financial sector. Once the framework is designed, OSFI may provide relevant guidance as appropriate.",
+            "Provides adequate implementation time to self-assess and build adherence by an effective date of May 1, 2024 , with the expectation that third-party arrangements commencing on or after the effective date adhere to the guideline and those entered into prior are being reviewed and updated at the earliest opportunity so that they adhere to the guideline by its effective date or as soon as possible thereafter."
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "Information session",
+      "heading_level": 2,
+      "full_text": "OSFI will hold an information session for members of industry on May 18, 2023 from 1 p.m. to 2:30 p.m. ET. To register visit: Information session B-10 before May 17 at noon.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "OSFI will hold an information session for members of industry on May 18, 2023 from 1 p.m. to 2:30 p.m. ET. To register visit: Information session B-10 before May 17 at noon."
+        }
+      ]
+    }
+  ],
+  "title_normalized": "osfi response to draft guideline b10 consultation feedback thirdparty risk management",
+  "publication_type_normalized": "letter",
+  "category_normalized": "sound_business_and_financial_practices",
+  "sector_normalized": [],
+  "guideline_number_normalized": "B10",
+  "applies_to_banks": false,
+  "applies_to_trust_loan": false,
+  "applies_to_life_insurance": false,
+  "applies_to_pc_insurance": false,
+  "applies_to_foreign_bank": false,
+  "applies_to_foreign_insurance": false,
+  "applies_to_cooperative": false,
+  "applies_to_bank_holding": false,
+  "effective_date_sort_key": "2023-04-24",
+  "status_sort_key": 4,
+  "authority_sort_key": 0,
+  "bm25_text": "OSFI response to draft guideline B-10 consultation feedback – Third-party Risk Management B-10 Letter Sound Business and Financial Practices Information session",
+  "vector_text_prefix": "[OSFI Letter B-10 | Sound Business and Financial Practices |  | DRAFT_OR_CONSULTATION | Effective 2023-04-24]",
+  "h1_title": "OSFI response to draft guideline B-10 consultation feedback – Third-party Risk Management",
+  "regulator": "OSFI",
+  "regulator_acronym": "OSFI",
+  "jurisdiction": "Canada",
+  "short_title": "B-10",
+  "source_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/osfi-response-draft-guideline-b-10-consultation-feedback-third-party-risk-management"
+}

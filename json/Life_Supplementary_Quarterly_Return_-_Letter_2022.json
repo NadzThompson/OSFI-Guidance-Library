@@ -1,0 +1,176 @@
+{
+  "source_system": "osfi_guidance_library",
+  "library_row_title": "Life Supplementary Quarterly Return - Letter (2022)",
+  "library_row_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/life-supplementary-quarterly-return-letter-2022",
+  "listing_date_raw": "May 18, 2022",
+  "listing_date_iso": "2022-05-18",
+  "listing_publication_type": "Letter",
+  "listing_category": "",
+  "listing_sector": [
+    "Life Insurance and Fraternal Companies"
+  ],
+  "crawl_timestamp": "2026-03-11T00:00:00Z",
+  "detail_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/life-supplementary-quarterly-return-letter-2022",
+  "canonical_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/life-supplementary-quarterly-return-letter-2022",
+  "slug": "life-supplementary-quarterly-return-letter-2022",
+  "title": "Life Supplementary Quarterly Return - Letter (2022)",
+  "publication_type": "Letter",
+  "category": "",
+  "document_date_raw": "May 18, 2022",
+  "document_date_iso": "2022-05-18",
+  "sector": [
+    "Life Insurance and Fraternal Companies"
+  ],
+  "effective_date_text": "",
+  "guideline_number": "",
+  "date_modified_raw": "2022-05-18T12:00:00Z",
+  "generate_pdf_url": "https://www.osfi-bsif.gc.ca/en/print/pdf/node/428",
+  "pdf_node_id": 428,
+  "direct_pdf_url": null,
+  "has_table_of_contents": true,
+  "toc_entries": [],
+  "has_related_documents": false,
+  "related_document_links_raw": [],
+  "consultation_status_text": null,
+  "consultation_status_refers_to_version": null,
+  "page_language": "en",
+  "word_count_raw_body": 238,
+  "doc_id": "osfi.life-supplementary-quarterly-return.2022.transmittal",
+  "doc_family_id": "osfi.life-supplementary-quarterly-return",
+  "version_id": "2022",
+  "version_label": "Life Supplementary Quarterly Return - Letter (2022)",
+  "version_sort_key": "2022-05",
+  "parent_doc_id": null,
+  "child_doc_ids": [],
+  "is_package_page": false,
+  "is_chapter_page": false,
+  "chapter_number": null,
+  "chapter_title": null,
+  "document_order_within_family": 0,
+  "supersedes_doc_id": null,
+  "superseded_by_doc_id": null,
+  "current_version_flag": true,
+  "status": "final_current",
+  "include_in_primary_corpus": false,
+  "include_in_support_corpus": true,
+  "include_in_context_corpus": false,
+  "effective_date_start": "2022-05-18",
+  "effective_date_end": null,
+  "effective_date_fye_split": false,
+  "effective_date_oct_fye": null,
+  "effective_date_dec_fye": null,
+  "is_future_effective": false,
+  "is_rescinded": false,
+  "is_draft_or_consultation": false,
+  "rescission_date": null,
+  "consultation_closing_date": null,
+  "as_of_applicability": "2026-03-23",
+  "rule_applied": "rule_5_final_current",
+  "authority_class": "official_support",
+  "authority_level": 60,
+  "nova_tier": 2,
+  "prudential_weight": 0.7,
+  "is_primary_normative": false,
+  "is_supporting_interpretive": true,
+  "is_context_only": false,
+  "document_class": "transmittal_letter",
+  "guidance_type_normalized": "letter",
+  "section_headings": [],
+  "heading_path": [
+    "Life Supplementary Quarterly Return - Letter (2022)"
+  ],
+  "toc_depth": 0,
+  "has_appendices": false,
+  "appendix_ids": [],
+  "has_tables": false,
+  "table_count": 0,
+  "has_footnotes": false,
+  "footnote_count": 0,
+  "inline_cross_references": [],
+  "quoted_external_references": [],
+  "raw_html_sha256": "2750a285874dfe310603d2e5be04adf69b84ec9ea1269610d63f92119774755f",
+  "raw_pdf_sha256": null,
+  "normalized_text_sha256": null,
+  "raw_html_path": "bronze/osfi/html/final_current/life-supplementary-quarterly-return-letter-2022.html",
+  "normalized_md_path": "silver/osfi/md/final_current/life-supplementary-quarterly-return-letter-2022.md",
+  "canonical_json_path": "silver/osfi/json/final_current/life-supplementary-quarterly-return-letter-2022.json",
+  "content_source": "HTML",
+  "parser_version": "osfi-parser-v2.1.0",
+  "normalizer_version": "osfi-normalizer-v1.4.0",
+  "quality_score": 0.5,
+  "quality_flags": [
+    "thin_body_text"
+  ],
+  "download_timestamp": "2026-03-11T00:00:00Z",
+  "enriched_timestamp": "2026-03-23T09:53:54.620887Z",
+  "sections": [
+    {
+      "heading": "",
+      "heading_level": 2,
+      "full_text": "  - Life Supplementary Quarterly Return Instructions\nTo: All Federally Regulated Canadian Life Insurance Companies and Fraternal Benefit Societies and Branches of Foreign Life Insurance Companies and Fraternal Benefit Societies (“FRIs”).\nOffice of the Superintendent of Financial Institutions (OSFI) is issuing the final LF4 Life Supplementary Quarterly Return (\"the Return\") and corresponding filing instructions for life insurance companies and fraternal benefit societies.\nThe LF4 Return is a newly created Regulatory Return developed by OSFI with industry because of the transition to IFRS 17 in 2023. The Return and instructions were developed through a unique collaboration with the Life Insurance industry over several months. The objective of the Return is to capture additional information to supplement the IFRS 17 Regulatory Returns (LF1, LF2 and LF3 Returns), and provides visibility and clarity with respect to performance metrics, facilitating discussions with OSFI Supervisors upon transition to IFRS 17. The LF4 Return provides metrics on Life FRI financial strength (balance sheet), volume and profitability. These metrics are highlighted in this return.\nOSFI would like to thank all participants who provided feedback on the Return and instructions during the development of these metrics. The input received was taken into consideration in finalizing the Return and instructions.\nPlease address any questions regarding this letter by email to Elspeth Bowler, Managing Director in the Policy Innovation and Stakeholder Affairs Sector at elspeth.bowler@osfi-bsif.gc.ca or David Correia, Director, Accounting Policy Division at david.correia@osfi-bsif.gc.ca.\nSincerely,\nJamey Hubbs Vice Superintendent",
+      "content": [
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Life Supplementary Quarterly Return Instructions"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "To: All Federally Regulated Canadian Life Insurance Companies and Fraternal Benefit Societies and Branches of Foreign Life Insurance Companies and Fraternal Benefit Societies (“FRIs”)."
+        },
+        {
+          "type": "paragraph",
+          "text": "Office of the Superintendent of Financial Institutions (OSFI) is issuing the final LF4 Life Supplementary Quarterly Return (\"the Return\") and corresponding filing instructions for life insurance companies and fraternal benefit societies."
+        },
+        {
+          "type": "paragraph",
+          "text": "The LF4 Return is a newly created Regulatory Return developed by OSFI with industry because of the transition to IFRS 17 in 2023. The Return and instructions were developed through a unique collaboration with the Life Insurance industry over several months. The objective of the Return is to capture additional information to supplement the IFRS 17 Regulatory Returns (LF1, LF2 and LF3 Returns), and provides visibility and clarity with respect to performance metrics, facilitating discussions with OSFI Supervisors upon transition to IFRS 17. The LF4 Return provides metrics on Life FRI financial strength (balance sheet), volume and profitability. These metrics are highlighted in this return."
+        },
+        {
+          "type": "paragraph",
+          "text": "OSFI would like to thank all participants who provided feedback on the Return and instructions during the development of these metrics. The input received was taken into consideration in finalizing the Return and instructions."
+        },
+        {
+          "type": "paragraph",
+          "text": "Please address any questions regarding this letter by email to Elspeth Bowler, Managing Director in the Policy Innovation and Stakeholder Affairs Sector at elspeth.bowler@osfi-bsif.gc.ca or David Correia, Director, Accounting Policy Division at david.correia@osfi-bsif.gc.ca."
+        },
+        {
+          "type": "paragraph",
+          "text": "Sincerely,"
+        },
+        {
+          "type": "paragraph",
+          "text": "Jamey Hubbs Vice Superintendent"
+        }
+      ]
+    }
+  ],
+  "title_normalized": "life supplementary quarterly return letter 2022",
+  "publication_type_normalized": "letter",
+  "category_normalized": "",
+  "sector_normalized": [
+    "life_insurance"
+  ],
+  "guideline_number_normalized": "",
+  "applies_to_banks": false,
+  "applies_to_trust_loan": false,
+  "applies_to_life_insurance": true,
+  "applies_to_pc_insurance": false,
+  "applies_to_foreign_bank": false,
+  "applies_to_foreign_insurance": false,
+  "applies_to_cooperative": false,
+  "applies_to_bank_holding": false,
+  "effective_date_sort_key": "2022-05-18",
+  "status_sort_key": 1,
+  "authority_sort_key": 60,
+  "bm25_text": "Life Supplementary Quarterly Return - Letter (2022) Letter Life Insurance and Fraternal Companies",
+  "vector_text_prefix": "[OSFI Letter  |  | Life Insurance and Fraternal Companies | FINAL_CURRENT | Effective 2022-05-18]",
+  "h1_title": "Life Supplementary Quarterly Return - Letter (2022)",
+  "regulator": "OSFI",
+  "regulator_acronym": "OSFI",
+  "jurisdiction": "Canada",
+  "short_title": "",
+  "source_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/life-supplementary-quarterly-return-letter-2022"
+}

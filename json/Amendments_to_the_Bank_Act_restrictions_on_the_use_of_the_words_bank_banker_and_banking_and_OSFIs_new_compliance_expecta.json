@@ -1,0 +1,199 @@
+{
+  "source_system": "osfi_guidance_library",
+  "library_row_title": "Amendments to the Bank Act restrictions on the use of the words “bank”, “banker” and “banking”, and OSFI’s new compliance expectations",
+  "library_row_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/amendments-bank-act-restrictions-use-words-bank-banker-banking-osfis-new-compliance-expectations",
+  "listing_date_raw": "August 14, 2018",
+  "listing_date_iso": "2018-08-14",
+  "listing_publication_type": "Letter",
+  "listing_category": "",
+  "listing_sector": [
+    "Banks",
+    "Foreign Bank Branches",
+    "Life Insurance and Fraternal Companies",
+    "Property and Casualty Companies",
+    "Trust and Loan Companies"
+  ],
+  "crawl_timestamp": "2026-03-11T00:00:00Z",
+  "detail_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/amendments-bank-act-restrictions-use-words-bank-banker-banking-osfis-new-compliance-expectations",
+  "canonical_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/amendments-bank-act-restrictions-use-words-bank-banker-banking-osfis-new-compliance-expectations",
+  "slug": "amendments-bank-act-restrictions-use-words-bank-banker-banking-osfis-new-compliance-expectations",
+  "title": "Amendments to the Bank Act restrictions on the use of the words “bank”, “banker” and “banking”, and OSFI’s new compliance expectations",
+  "publication_type": "Letter",
+  "category": "",
+  "document_date_raw": "August 14, 2018",
+  "document_date_iso": "2018-08-14",
+  "sector": [
+    "Banks",
+    "Foreign Bank Branches",
+    "Life Insurance and Fraternal Companies",
+    "Property and Casualty Companies",
+    "Trust and Loan Companies"
+  ],
+  "effective_date_text": "",
+  "guideline_number": "",
+  "date_modified_raw": "2018-08-14T12:00:00Z",
+  "generate_pdf_url": "https://www.osfi-bsif.gc.ca/en/print/pdf/node/299",
+  "pdf_node_id": 299,
+  "direct_pdf_url": null,
+  "has_table_of_contents": true,
+  "toc_entries": [],
+  "has_related_documents": true,
+  "related_document_links_raw": [
+    {
+      "title": "Advisory 2017-01 – Restrictions on the use of the words “bank”, “banker” and “ba",
+      "url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/advisory-2017-01-restrictions-use-words-bank-banker-banking"
+    }
+  ],
+  "consultation_status_text": null,
+  "consultation_status_refers_to_version": null,
+  "page_language": "en",
+  "word_count_raw_body": 288,
+  "doc_id": "osfi.amendments-bank-act-restrictions-use-words-bank-ba.transmittal",
+  "doc_family_id": "osfi.amendments-bank-act-restrictions-use-words-bank-ba",
+  "version_id": "",
+  "version_label": "Amendments to the Bank Act restrictions on the use of the wo",
+  "version_sort_key": "",
+  "parent_doc_id": null,
+  "child_doc_ids": [],
+  "is_package_page": false,
+  "is_chapter_page": false,
+  "chapter_number": null,
+  "chapter_title": null,
+  "document_order_within_family": 0,
+  "supersedes_doc_id": null,
+  "superseded_by_doc_id": null,
+  "current_version_flag": true,
+  "status": "final_current",
+  "include_in_primary_corpus": false,
+  "include_in_support_corpus": true,
+  "include_in_context_corpus": false,
+  "effective_date_start": "2018-08-14",
+  "effective_date_end": null,
+  "effective_date_fye_split": false,
+  "effective_date_oct_fye": null,
+  "effective_date_dec_fye": null,
+  "is_future_effective": false,
+  "is_rescinded": false,
+  "is_draft_or_consultation": false,
+  "rescission_date": null,
+  "consultation_closing_date": null,
+  "as_of_applicability": "2026-03-23",
+  "rule_applied": "rule_5_final_current",
+  "authority_class": "official_support",
+  "authority_level": 60,
+  "nova_tier": 2,
+  "prudential_weight": 0.7,
+  "is_primary_normative": false,
+  "is_supporting_interpretive": true,
+  "is_context_only": false,
+  "document_class": "transmittal_letter",
+  "guidance_type_normalized": "letter",
+  "section_headings": [],
+  "heading_path": [
+    "Amendments to the Bank Act restrictions on the use of the words “bank”, “banker” and “banking”, and OSFI’s new compliance expectations"
+  ],
+  "toc_depth": 0,
+  "has_appendices": false,
+  "appendix_ids": [],
+  "has_tables": true,
+  "table_count": 1,
+  "has_footnotes": false,
+  "footnote_count": 0,
+  "inline_cross_references": [],
+  "quoted_external_references": [],
+  "raw_html_sha256": "86128f0f115136cea84300626c86b26234302196b6043b9662dc1780c0d9002a",
+  "raw_pdf_sha256": null,
+  "normalized_text_sha256": null,
+  "raw_html_path": "bronze/osfi/html/final_current/amendments-bank-act-restrictions-use-words-bank-banker-banking-osfis-new-compliance-expectations.html",
+  "normalized_md_path": "silver/osfi/md/final_current/amendments-bank-act-restrictions-use-words-bank-banker-banking-osfis-new-compliance-expectations.md",
+  "canonical_json_path": "silver/osfi/json/final_current/amendments-bank-act-restrictions-use-words-bank-banker-banking-osfis-new-compliance-expectations.json",
+  "content_source": "HTML",
+  "parser_version": "osfi-parser-v2.1.0",
+  "normalizer_version": "osfi-normalizer-v1.4.0",
+  "quality_score": 0.5,
+  "quality_flags": [
+    "thin_body_text"
+  ],
+  "download_timestamp": "2026-03-11T00:00:00Z",
+  "enriched_timestamp": "2026-03-23T09:53:46.472289Z",
+  "sections": [
+    {
+      "heading": "",
+      "heading_level": 2,
+      "full_text": "  - Advisory 2017-01 – Restrictions on the use of the words “bank”, “banker” and “banking”\nOn June 30, 2017, the Office of the Superintendent of Financial Institutions Canada (OSFI) issued Advisory 2017-01 , which set out how OSFI interprets and administers (a) the Bank Act restrictions on the use of the words “bank”, “banker” and “banking”, and (b) the exception to these restrictions that applies where the use of the words is not in relation to a financial services business. OSFI issued the Advisory to provide clarity regarding its interpretation of the Bank Act restrictions and the exception mentioned above.\nOn August 11, 2017, the Department of Finance released a consultation paper as part of its review of the federal financial sector framework. The paper sought views on the Bank Act restrictions on the use of the words “bank”, “banker” and “banking”. As a result, on the same day, OSFI issued a notice of suspension of its compliance expectations set out in its cover note to the Advisory.\nThe consultations on these restrictions led to Bank Act amendments that were part of the Budget Implementation Act, 2018, No. 1 . The amendments permit prudentially regulated non-bank deposit-taking institutions, such as federally regulated trust and loan companies and provincially regulated credit unions, to use generic bank terms, subject to meeting certain disclosure requirements.\nIn light of these amendments, and recognizing that complying with the Bank Act restrictions may require transition periods, OSFI expects compliance with the restrictions within the following timeframes:\nBy August 31, 2019 | For domain names, and information contained on websites, other electronic media and in print materials\nBy August 31, 2020 | For information contained on physical signage\nPlease direct any questions to information@osfi-bsif.gc.ca .",
+      "content": [
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Advisory 2017-01 – Restrictions on the use of the words “bank”, “banker” and “banking”"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "On June 30, 2017, the Office of the Superintendent of Financial Institutions Canada (OSFI) issued Advisory 2017-01 , which set out how OSFI interprets and administers (a) the Bank Act restrictions on the use of the words “bank”, “banker” and “banking”, and (b) the exception to these restrictions that applies where the use of the words is not in relation to a financial services business. OSFI issued the Advisory to provide clarity regarding its interpretation of the Bank Act restrictions and the exception mentioned above."
+        },
+        {
+          "type": "paragraph",
+          "text": "On August 11, 2017, the Department of Finance released a consultation paper as part of its review of the federal financial sector framework. The paper sought views on the Bank Act restrictions on the use of the words “bank”, “banker” and “banking”. As a result, on the same day, OSFI issued a notice of suspension of its compliance expectations set out in its cover note to the Advisory."
+        },
+        {
+          "type": "paragraph",
+          "text": "The consultations on these restrictions led to Bank Act amendments that were part of the Budget Implementation Act, 2018, No. 1 . The amendments permit prudentially regulated non-bank deposit-taking institutions, such as federally regulated trust and loan companies and provincially regulated credit unions, to use generic bank terms, subject to meeting certain disclosure requirements."
+        },
+        {
+          "type": "paragraph",
+          "text": "In light of these amendments, and recognizing that complying with the Bank Act restrictions may require transition periods, OSFI expects compliance with the restrictions within the following timeframes:"
+        },
+        {
+          "type": "table",
+          "caption": "",
+          "rows": [
+            [
+              "By August 31, 2019",
+              "For domain names, and information contained on websites, other electronic media and in print materials"
+            ],
+            [
+              "By August 31, 2020",
+              "For information contained on physical signage"
+            ]
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Please direct any questions to information@osfi-bsif.gc.ca ."
+        }
+      ]
+    }
+  ],
+  "title_normalized": "amendments to the bank act restrictions on the use of the words bank banker and banking and osfis new compliance expectations",
+  "publication_type_normalized": "letter",
+  "category_normalized": "",
+  "sector_normalized": [
+    "banks",
+    "foreign_bank_branches",
+    "life_insurance",
+    "pc_insurance",
+    "trust_and_loan_companies"
+  ],
+  "guideline_number_normalized": "",
+  "applies_to_banks": true,
+  "applies_to_trust_loan": true,
+  "applies_to_life_insurance": true,
+  "applies_to_pc_insurance": true,
+  "applies_to_foreign_bank": true,
+  "applies_to_foreign_insurance": false,
+  "applies_to_cooperative": false,
+  "applies_to_bank_holding": false,
+  "effective_date_sort_key": "2018-08-14",
+  "status_sort_key": 1,
+  "authority_sort_key": 60,
+  "bm25_text": "Amendments to the Bank Act restrictions on the use of the words “bank”, “banker” and “banking”, and OSFI’s new compliance expectations Letter Banks Foreign Bank Branches Life Insurance and Fraternal Companies Property and Casualty Companies Trust and Loan Companies",
+  "vector_text_prefix": "[OSFI Letter  |  | Banks / Foreign Bank Branches / Life Insurance and Fraternal Companies | FINAL_CURRENT | Effective 2018-08-14]",
+  "h1_title": "Amendments to the Bank Act restrictions on the use of the words “bank”, “banker” and “banking”, and OSFI’s new compliance expectations",
+  "regulator": "OSFI",
+  "regulator_acronym": "OSFI",
+  "jurisdiction": "Canada",
+  "short_title": "",
+  "source_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/amendments-bank-act-restrictions-use-words-bank-banker-banking-osfis-new-compliance-expectations"
+}

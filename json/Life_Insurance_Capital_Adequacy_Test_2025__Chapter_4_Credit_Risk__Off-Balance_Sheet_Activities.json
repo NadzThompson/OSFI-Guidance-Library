@@ -1,0 +1,1345 @@
+{
+  "source_system": "osfi_guidance_library",
+  "library_row_title": "Life Insurance Capital Adequacy Test (2025) – Chapter 4 Credit Risk – Off-Balance Sheet Activities",
+  "library_row_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/life-insurance-capital-adequacy-test-2025-chapter-4-credit-risk-balance-sheet-activities",
+  "listing_date_raw": "Issue date November 21, 2024",
+  "listing_date_iso": "",
+  "listing_publication_type": "Guideline",
+  "listing_category": "Capital Adequacy Requirements",
+  "listing_sector": [
+    "Life Insurance and Fraternal Companies"
+  ],
+  "crawl_timestamp": "2026-03-11T00:00:00Z",
+  "detail_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/life-insurance-capital-adequacy-test-2025-chapter-4-credit-risk-balance-sheet-activities",
+  "canonical_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/life-insurance-capital-adequacy-test-2025-chapter-4-credit-risk-balance-sheet-activities",
+  "slug": "life-insurance-capital-adequacy-test-2025-chapter-4-credit-risk-balance-sheet-activities",
+  "title": "Life Insurance Capital Adequacy Test (2025) – Chapter 4 Credit Risk – Off-Balance Sheet Activities",
+  "publication_type": "Guideline",
+  "category": "Capital Adequacy Requirements",
+  "document_date_raw": "Issue date November 21, 2024",
+  "document_date_iso": "",
+  "sector": [
+    "Life Insurance and Fraternal Companies"
+  ],
+  "effective_date_text": "",
+  "guideline_number": "",
+  "date_modified_raw": "2025-01-01T12:00:00Z",
+  "generate_pdf_url": null,
+  "pdf_node_id": null,
+  "direct_pdf_url": "https://www.osfi-bsif.gc.ca/sites/default/files/documents/2025-licat-guideline-ligne-directrice-tsav-en.pdf",
+  "has_table_of_contents": true,
+  "toc_entries": [],
+  "has_related_documents": true,
+  "related_document_links_raw": [
+    {
+      "title": "Life Insurance Capital Adequacy Test – Backgrounder (2025)",
+      "url": "https://www.osfi-bsif.gc.ca/en/news/backgrounder-final-life-insurance-capital-adequacy-test-licat-guideline-2025"
+    },
+    {
+      "title": "Life Insurance Capital Adequacy Test – Letter (2025)",
+      "url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/life-insurance-capital-adequacy-test-2025-letter"
+    },
+    {
+      "title": "Life Insurance Capital Adequacy Test – Filing Instructions (2025)",
+      "url": "https://www.osfi-bsif.gc.ca/en/data-forms/reporting-returns/filing-financial-returns/financial-reporting-instructions/2025-life-insurance-capital-adequacy-test-filing-instructions-0"
+    }
+  ],
+  "consultation_status_text": null,
+  "consultation_status_refers_to_version": null,
+  "page_language": "en",
+  "word_count_raw_body": 5414,
+  "doc_id": "osfi.licat.2025.chapter4.chapter",
+  "doc_family_id": "osfi.licat",
+  "version_id": "2025",
+  "version_label": "Life Insurance Capital Adequacy Test (2025) – Chapter 4 Cred",
+  "version_sort_key": "2025-11",
+  "parent_doc_id": "osfi.licat.2025.package",
+  "child_doc_ids": [],
+  "is_package_page": false,
+  "is_chapter_page": true,
+  "chapter_number": 4,
+  "chapter_title": null,
+  "document_order_within_family": 4,
+  "supersedes_doc_id": null,
+  "superseded_by_doc_id": null,
+  "current_version_flag": true,
+  "status": "final_current",
+  "include_in_primary_corpus": true,
+  "include_in_support_corpus": false,
+  "include_in_context_corpus": false,
+  "effective_date_start": "2024-11-21",
+  "effective_date_end": null,
+  "effective_date_fye_split": false,
+  "effective_date_oct_fye": null,
+  "effective_date_dec_fye": null,
+  "is_future_effective": false,
+  "is_rescinded": false,
+  "is_draft_or_consultation": false,
+  "rescission_date": null,
+  "consultation_closing_date": null,
+  "as_of_applicability": "2026-03-23",
+  "rule_applied": "rule_5_final_current",
+  "authority_class": "primary_normative",
+  "authority_level": 100,
+  "nova_tier": 1,
+  "prudential_weight": 1.0,
+  "is_primary_normative": true,
+  "is_supporting_interpretive": false,
+  "is_context_only": false,
+  "document_class": "chapter_guideline",
+  "guidance_type_normalized": "guideline",
+  "section_headings": [
+    {
+      "level": 2,
+      "text": "Note",
+      "id": "h2-0"
+    },
+    {
+      "level": 2,
+      "text": "4.1. Over-the-counter derivatives contracts",
+      "id": "h2-1"
+    },
+    {
+      "level": 3,
+      "text": "4.2.1. Conditions for netting",
+      "id": "h3-2"
+    },
+    {
+      "level": 3,
+      "text": "4.2.2. Calculation of exposure",
+      "id": "h3-3"
+    },
+    {
+      "level": 4,
+      "text": "Steps for determining the credit equivalent amount of netted contracts",
+      "id": "h4-4"
+    },
+    {
+      "level": 2,
+      "text": "4.3. Off-balance sheet instruments other than derivatives",
+      "id": "h2-5"
+    },
+    {
+      "level": 3,
+      "text": "4.3.1. Direct credit substitutes (100% conversion factor)",
+      "id": "h3-6"
+    },
+    {
+      "level": 3,
+      "text": "4.3.2. Repurchase and reverse repurchase agreements (100% conversion factor)",
+      "id": "h3-7"
+    },
+    {
+      "level": 3,
+      "text": "4.3.3. Forward asset purchases Footnote 3 (100% conversion factor)",
+      "id": "h3-8"
+    },
+    {
+      "level": 3,
+      "text": "4.3.4. Forward-forward deposits (100% conversion factor)",
+      "id": "h3-9"
+    },
+    {
+      "level": 3,
+      "text": "4.3.5. Partly paid shares and securities (100% conversion factor)",
+      "id": "h3-10"
+    },
+    {
+      "level": 3,
+      "text": "4.3.6. Transaction-related contingencies (50% conversion factor)",
+      "id": "h3-11"
+    },
+    {
+      "level": 3,
+      "text": "4.3.7. Trade-related contingencies (20% conversion factor)",
+      "id": "h3-12"
+    },
+    {
+      "level": 2,
+      "text": "4.4. Commitments",
+      "id": "h2-13"
+    },
+    {
+      "level": 3,
+      "text": "4.4.1. Maturity",
+      "id": "h3-14"
+    },
+    {
+      "level": 4,
+      "text": "4.4.1.1. Original maturity",
+      "id": "h4-15"
+    },
+    {
+      "level": 4,
+      "text": "4.4.1.2. Renegotiations of a commitment",
+      "id": "h4-16"
+    },
+    {
+      "level": 3,
+      "text": "4.4.2. Credit conversion factors",
+      "id": "h3-17"
+    },
+    {
+      "level": 4,
+      "text": "50% conversion factor",
+      "id": "h4-18"
+    },
+    {
+      "level": 4,
+      "text": "20% conversion factor",
+      "id": "h4-19"
+    },
+    {
+      "level": 4,
+      "text": "0% conversion factor",
+      "id": "h4-20"
+    },
+    {
+      "level": 4,
+      "text": "4.4.3.1. Undated/open-ended commitments",
+      "id": "h4-21"
+    },
+    {
+      "level": 4,
+      "text": "4.4.3.2. Evergreen commitments",
+      "id": "h4-22"
+    },
+    {
+      "level": 4,
+      "text": "4.4.3.3. Commitments drawn down in a number of tranches",
+      "id": "h4-23"
+    },
+    {
+      "level": 4,
+      "text": "4.4.3.4. Commitments for fluctuating amounts",
+      "id": "h4-24"
+    },
+    {
+      "level": 4,
+      "text": "4.4.3.5. Commitment to provide a loan with a maturity of over one year",
+      "id": "h4-25"
+    },
+    {
+      "level": 4,
+      "text": "4.4.3.6. Note issuance/revolving underwriting facilities",
+      "id": "h4-26"
+    },
+    {
+      "level": 4,
+      "text": "4.4.3.7. Commitments for off-balance sheet transactions",
+      "id": "h4-27"
+    },
+    {
+      "level": 2,
+      "text": "Footnotes",
+      "id": "h2-28"
+    }
+  ],
+  "heading_path": [
+    "Life Insurance Capital Adequacy Test (2025) – Chapter 4 Credit Risk – Off-Balance Sheet Activities"
+  ],
+  "toc_depth": 4,
+  "has_appendices": false,
+  "appendix_ids": [],
+  "has_tables": true,
+  "table_count": 7,
+  "has_footnotes": true,
+  "footnote_count": 1,
+  "inline_cross_references": [
+    "Guideline B-5: Asset Securitization"
+  ],
+  "quoted_external_references": [],
+  "raw_html_sha256": "3437b84e7b7851babaabf9900eb36e508a0245f680583b8f9d421dc608b56214",
+  "raw_pdf_sha256": null,
+  "normalized_text_sha256": null,
+  "raw_html_path": "bronze/osfi/html/final_current/life-insurance-capital-adequacy-test-2025-chapter-4-credit-risk-balance-sheet-activities.html",
+  "normalized_md_path": "silver/osfi/md/final_current/life-insurance-capital-adequacy-test-2025-chapter-4-credit-risk-balance-sheet-activities.md",
+  "canonical_json_path": "silver/osfi/json/final_current/life-insurance-capital-adequacy-test-2025-chapter-4-credit-risk-balance-sheet-activities.json",
+  "content_source": "HTML",
+  "parser_version": "osfi-parser-v2.1.0",
+  "normalizer_version": "osfi-normalizer-v1.4.0",
+  "quality_score": 1.0,
+  "quality_flags": [],
+  "download_timestamp": "2026-03-11T00:00:00Z",
+  "enriched_timestamp": "2026-03-23T09:53:53.799761Z",
+  "sections": [
+    {
+      "heading": "",
+      "heading_level": 2,
+      "full_text": "  - Life Insurance Capital Adequacy Test – Backgrounder (2025)\n  - Life Insurance Capital Adequacy Test – Letter (2025)\n  - Life Insurance Capital Adequacy Test – Filing Instructions (2025)",
+      "content": [
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Life Insurance Capital Adequacy Test – Backgrounder (2025)",
+            "Life Insurance Capital Adequacy Test – Letter (2025)",
+            "Life Insurance Capital Adequacy Test – Filing Instructions (2025)"
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "Note",
+      "heading_level": 2,
+      "full_text": "A Regulatory Notice on Adjustments to the Life Insurance Capital Adequacy Test – Guideline (2025) was published and became effective on May 22, 2025. These adjustments are expected to be incorporated in the next version of the LICAT guideline.\nThe term \"off-balance sheet activities\", as used in this guideline, encompasses derivatives, guarantees, commitments, and similar contractual arrangements whose full notional principal amount may not necessarily be reflected on the balance sheet. Such instruments are subject to a capital charge under this section irrespective of whether they have been recorded on the balance sheet at fair value.\nThe major risk to insurers associated with off-balance sheet activities is the default of the counterparty to a transaction (i.e., counterparty credit risk). The face amount of an off-balance sheet instrument does not always reflect the exposure to the credit risk in the instrument. Credit equivalent amounts are used to determine the potential credit exposure of off-balance sheet instruments. The process for determining the credit equivalent amounts of derivative instruments is covered in sections 4.1 and 4.2. For off-balance sheet activities not covered in sections 4.1 and 4.2, to approximate the potential credit exposure, the face amount of the instrument must be multiplied by a credit conversion factor to derive a credit equivalent amount (qq.v. sections 4.3 and 4.4). The resulting credit equivalent amounts are then assigned the credit risk factor appropriate to the counterparty (q.v. section 3.1) or, if relevant, the factor for the collateral (q.v. section 3.2) or the guarantor (q.v. section 3.3). A reduction in required capital for the potential risk-mitigating effect of dividend reductions or contractual adjustability is calculated separately for participating and adjustable products (q.v. Chapter 9).\nInsurers should also refer to OSFI's Guideline B-5: Asset Securitization , which outlines the regulatory framework for asset securitization transactions, including transactions that give rise to off-balance sheet exposures.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "A Regulatory Notice on Adjustments to the Life Insurance Capital Adequacy Test – Guideline (2025) was published and became effective on May 22, 2025. These adjustments are expected to be incorporated in the next version of the LICAT guideline."
+        },
+        {
+          "type": "paragraph",
+          "text": "The term \"off-balance sheet activities\", as used in this guideline, encompasses derivatives, guarantees, commitments, and similar contractual arrangements whose full notional principal amount may not necessarily be reflected on the balance sheet. Such instruments are subject to a capital charge under this section irrespective of whether they have been recorded on the balance sheet at fair value."
+        },
+        {
+          "type": "paragraph",
+          "text": "The major risk to insurers associated with off-balance sheet activities is the default of the counterparty to a transaction (i.e., counterparty credit risk). The face amount of an off-balance sheet instrument does not always reflect the exposure to the credit risk in the instrument. Credit equivalent amounts are used to determine the potential credit exposure of off-balance sheet instruments. The process for determining the credit equivalent amounts of derivative instruments is covered in sections 4.1 and 4.2. For off-balance sheet activities not covered in sections 4.1 and 4.2, to approximate the potential credit exposure, the face amount of the instrument must be multiplied by a credit conversion factor to derive a credit equivalent amount (qq.v. sections 4.3 and 4.4). The resulting credit equivalent amounts are then assigned the credit risk factor appropriate to the counterparty (q.v. section 3.1) or, if relevant, the factor for the collateral (q.v. section 3.2) or the guarantor (q.v. section 3.3). A reduction in required capital for the potential risk-mitigating effect of dividend reductions or contractual adjustability is calculated separately for participating and adjustable products (q.v. Chapter 9)."
+        },
+        {
+          "type": "paragraph",
+          "text": "Insurers should also refer to OSFI's Guideline B-5: Asset Securitization , which outlines the regulatory framework for asset securitization transactions, including transactions that give rise to off-balance sheet exposures."
+        }
+      ]
+    },
+    {
+      "heading": "4.1. Over-the-counter derivatives contracts",
+      "heading_level": 2,
+      "full_text": "The treatment of forwards, swaps, purchased options and similar over-the-counter derivatives contracts is given specific consideration because insurers may not be exposed to credit risk on the full face value of their contracts (notional principal amount), but only to the potential cost of replacing the cash flow (on contracts showing a positive value) if the counterparty defaults. The credit equivalent amounts are calculated using the current exposure method and are assigned the asset default factor appropriate to the counterparty. Per section 3.1.4, derivatives transactions with qualifying central counterparties receive an asset default factor of 0%.\nThe add-on applied in calculating the credit equivalent amount depends on the maturity of the contract and on the volatility of the rates and prices underlying that type of instrument. Options purchased over the counter are included with the same conversion factors as other instruments.\nA. Interest rate contracts include:\n  1. single currency interest rate swaps;\n  2. basis swaps;\n  3. forward rate agreements and products with similar characteristics;\n  4. interest rate futures; and\n  5. interest rate options purchased.\nB. Exchange rate contracts include:\n  1. gold contracts Footnote 1 ;\n  2. cross-currency swaps;\n  3. cross-currency interest rate swaps;\n  4. forward foreign exchange contracts;\n  5. currency futures; and\n  6. currency options purchased.\nC. Equity contracts include:\n  1. futures;\n  2. forwards;\n  3. swaps;\n  4. purchased options; and\n  5. similar derivative contracts based on both individual equities as well as on equity indices.\nD. Precious metals (e.g., silver, platinum and palladium) contracts, except gold contracts, include:\n  1. futures;\n  2. forwards;\n  3. swaps;\n  4. purchased options; and\n  5. similar contracts based on precious metals.\nE. Contracts on other commodities include:\n  1. futures;\n  2. forwards;\n  3. swaps;\n  4. purchased options;\n  5. similar derivatives contracts based on energy contracts, agricultural contracts, base metals (e.g., aluminum, copper and zinc); and\n  6. other non-precious metal commodity contract.\nAn insurer should calculate the credit equivalent amount of these contracts using the current exposure method. Under this method, the insurer adds:\n  1. the total replacement cost (obtained by \"marking to market\") of all its contracts with positive value; and\n  2. an amount for potential future credit exposure (or \"add-on\"). This is calculated by multiplying the notional principal amounts by the following factors:\nTable: Factors by residual maturity and type of contract\nResidual maturity | Interest rate | Exchange rate and gold | Equity | Precious metals except gold | Other commodities\nOne year or less | 0.0% | 1.0% | 6.0% | 7.0% | 10.0%\nOver one year to five years | 0.5% | 5.0% | 8.0% | 7.0% | 12.0%\nOver five years | 1.5% | 7.5% | 10.0% | 8.0% | 15.0%\nAdditional considerations:\n  1. For contracts with multiple exchanges of principal, the factors are multiplied by the number of remaining payments in the contract.\n  2. For contracts that are structured to settle outstanding exposure following specified payment dates and where the terms are reset so that the market value of the contract is zero on these specified dates, the residual maturity is considered to be the time until the next reset date. In the case of interest rate contracts with remaining maturities of more than one year and that meet these criteria, the add-on factor is subject to a floor of 0.5%.\n  3. Contracts not covered by any of the columns of this matrix are to be treated as \"other commodities\".\n  4. No add-on factor should be calculated for single currency floating/floating interest rate swaps; the credit exposure on these contracts is evaluated solely on the basis of their mark-to-market value.\n  5. The add-ons are based on effective rather than stated notional amounts. In the event that the stated notional amount is leveraged or enhanced by the structure of the transaction, insurers should use the actual or effective notional amount when determining potential future exposure. For example, a stated notional amount of $1 million with payments calculated at two times the reference rate has an effective notional amount of $2 million.\n  6. Add-ons for potential future credit exposure are to be calculated for all OTC contracts (with the exception of single currency floating/floating interest rate swaps), regardless of whether the replacement cost is positive or negative.\n  7. No add-on for potential future exposure is required for credit derivatives. The credit equivalent amount for a credit derivative is equal to the greater of its mark-to-market value or zero.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "The treatment of forwards, swaps, purchased options and similar over-the-counter derivatives contracts is given specific consideration because insurers may not be exposed to credit risk on the full face value of their contracts (notional principal amount), but only to the potential cost of replacing the cash flow (on contracts showing a positive value) if the counterparty defaults. The credit equivalent amounts are calculated using the current exposure method and are assigned the asset default factor appropriate to the counterparty. Per section 3.1.4, derivatives transactions with qualifying central counterparties receive an asset default factor of 0%."
+        },
+        {
+          "type": "paragraph",
+          "text": "The add-on applied in calculating the credit equivalent amount depends on the maturity of the contract and on the volatility of the rates and prices underlying that type of instrument. Options purchased over the counter are included with the same conversion factors as other instruments."
+        },
+        {
+          "type": "paragraph",
+          "text": "A. Interest rate contracts include:"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "single currency interest rate swaps;",
+            "basis swaps;",
+            "forward rate agreements and products with similar characteristics;",
+            "interest rate futures; and",
+            "interest rate options purchased."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "B. Exchange rate contracts include:"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "gold contracts Footnote 1 ;",
+            "cross-currency swaps;",
+            "cross-currency interest rate swaps;",
+            "forward foreign exchange contracts;",
+            "currency futures; and",
+            "currency options purchased."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "C. Equity contracts include:"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "futures;",
+            "forwards;",
+            "swaps;",
+            "purchased options; and",
+            "similar derivative contracts based on both individual equities as well as on equity indices."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "D. Precious metals (e.g., silver, platinum and palladium) contracts, except gold contracts, include:"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "futures;",
+            "forwards;",
+            "swaps;",
+            "purchased options; and",
+            "similar contracts based on precious metals."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "E. Contracts on other commodities include:"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "futures;",
+            "forwards;",
+            "swaps;",
+            "purchased options;",
+            "similar derivatives contracts based on energy contracts, agricultural contracts, base metals (e.g., aluminum, copper and zinc); and",
+            "other non-precious metal commodity contract."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "An insurer should calculate the credit equivalent amount of these contracts using the current exposure method. Under this method, the insurer adds:"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "the total replacement cost (obtained by \"marking to market\") of all its contracts with positive value; and",
+            "an amount for potential future credit exposure (or \"add-on\"). This is calculated by multiplying the notional principal amounts by the following factors:"
+          ]
+        },
+        {
+          "type": "table",
+          "caption": "Factors by residual maturity and type of contract",
+          "rows": [
+            [
+              "Residual maturity",
+              "Interest rate",
+              "Exchange rate and gold",
+              "Equity",
+              "Precious metals except gold",
+              "Other commodities"
+            ],
+            [
+              "One year or less",
+              "0.0%",
+              "1.0%",
+              "6.0%",
+              "7.0%",
+              "10.0%"
+            ],
+            [
+              "Over one year to five years",
+              "0.5%",
+              "5.0%",
+              "8.0%",
+              "7.0%",
+              "12.0%"
+            ],
+            [
+              "Over five years",
+              "1.5%",
+              "7.5%",
+              "10.0%",
+              "8.0%",
+              "15.0%"
+            ]
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Additional considerations:"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "For contracts with multiple exchanges of principal, the factors are multiplied by the number of remaining payments in the contract.",
+            "For contracts that are structured to settle outstanding exposure following specified payment dates and where the terms are reset so that the market value of the contract is zero on these specified dates, the residual maturity is considered to be the time until the next reset date. In the case of interest rate contracts with remaining maturities of more than one year and that meet these criteria, the add-on factor is subject to a floor of 0.5%.",
+            "Contracts not covered by any of the columns of this matrix are to be treated as \"other commodities\".",
+            "No add-on factor should be calculated for single currency floating/floating interest rate swaps; the credit exposure on these contracts is evaluated solely on the basis of their mark-to-market value.",
+            "The add-ons are based on effective rather than stated notional amounts. In the event that the stated notional amount is leveraged or enhanced by the structure of the transaction, insurers should use the actual or effective notional amount when determining potential future exposure. For example, a stated notional amount of $1 million with payments calculated at two times the reference rate has an effective notional amount of $2 million.",
+            "Add-ons for potential future credit exposure are to be calculated for all OTC contracts (with the exception of single currency floating/floating interest rate swaps), regardless of whether the replacement cost is positive or negative.",
+            "No add-on for potential future exposure is required for credit derivatives. The credit equivalent amount for a credit derivative is equal to the greater of its mark-to-market value or zero."
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "4.2.1. Conditions for netting",
+      "heading_level": 3,
+      "full_text": "Insurers may net contracts that are subject to novation or any other legally valid form of netting. Novation refers to a written bilateral contract between two counterparties under which any obligation to each other to deliver a given currency on a given date is automatically amalgamated with all other obligations for the same currency and value date, legally substituting one single amount for the previous gross obligations.\nInsurers who wish to net transactions under either novation or another form of bilateral netting will need to satisfy OSFI that the following conditions are met:\n  1. The insurer has executed a written bilateral netting contract or agreement with each counterparty that creates a single legal obligation covering all included bilateral transactions subject to netting. The result of such an arrangement is that the insurer only has one obligation for payment or one claim to receive funds based on the net sum of the positive and negative mark-to-market values of all the transactions with that counterparty in the event that counterparty fails to perform due to default, bankruptcy, liquidation or similar circumstances.\n  2. The insurer has written and reasoned legal opinions that, in the event of any legal challenge, the relevant courts or administrative authorities would find the exposure under the netting agreement to be the net amount under the laws of all relevant jurisdictions. In reaching this conclusion, legal opinions must address the validity and enforceability of the entire netting agreement under its terms. The laws of \"all relevant jurisdictions\" are: a) the law of the jurisdictions where the counterparties are incorporated and, if the foreign branch of a counterparty is involved, the laws of the jurisdiction in which the branch is located; b) the law governing the individual transactions; and c) the law governing any contracts or agreements required to effect netting. A legal opinion must be generally recognized as such by the legal community in the firm's home country or by a memorandum of law that addresses all relevant issues in a reasoned manner.\n  3. The insurer has internal procedures to verify that, prior to recognizing a transaction as being subject to netting for capital purposes, the transaction is covered by legal opinions that meet the above criteria.\n  4. The insurer has procedures in place to update legal opinions as necessary to ensure continuing enforceability of the netting arrangements in light of possible changes in relevant law.\n  5. The insurer maintains all required documentation and makes it available to OSFI upon request.\n  1. The laws of \"all relevant jurisdictions\" are: a) the law of the jurisdictions where the counterparties are incorporated and, if the foreign branch of a counterparty is involved, the laws of the jurisdiction in which the branch is located; b) the law governing the individual transactions; and c) the law governing any contracts or agreements required to effect netting.\n  2. A legal opinion must be generally recognized as such by the legal community in the firm's home country or by a memorandum of law that addresses all relevant issues in a reasoned manner.\nAny contract containing a walkaway clause will not be eligible to qualify for netting for the purpose of calculating capital requirements. A walkaway clause is a provision within the contract that permits a non-defaulting counterparty to make only limited payments, or no payments, to the defaulter.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Insurers may net contracts that are subject to novation or any other legally valid form of netting. Novation refers to a written bilateral contract between two counterparties under which any obligation to each other to deliver a given currency on a given date is automatically amalgamated with all other obligations for the same currency and value date, legally substituting one single amount for the previous gross obligations."
+        },
+        {
+          "type": "paragraph",
+          "text": "Insurers who wish to net transactions under either novation or another form of bilateral netting will need to satisfy OSFI that the following conditions are met:"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "The insurer has executed a written bilateral netting contract or agreement with each counterparty that creates a single legal obligation covering all included bilateral transactions subject to netting. The result of such an arrangement is that the insurer only has one obligation for payment or one claim to receive funds based on the net sum of the positive and negative mark-to-market values of all the transactions with that counterparty in the event that counterparty fails to perform due to default, bankruptcy, liquidation or similar circumstances.",
+            "The insurer has written and reasoned legal opinions that, in the event of any legal challenge, the relevant courts or administrative authorities would find the exposure under the netting agreement to be the net amount under the laws of all relevant jurisdictions. In reaching this conclusion, legal opinions must address the validity and enforceability of the entire netting agreement under its terms. The laws of \"all relevant jurisdictions\" are: a) the law of the jurisdictions where the counterparties are incorporated and, if the foreign branch of a counterparty is involved, the laws of the jurisdiction in which the branch is located; b) the law governing the individual transactions; and c) the law governing any contracts or agreements required to effect netting. A legal opinion must be generally recognized as such by the legal community in the firm's home country or by a memorandum of law that addresses all relevant issues in a reasoned manner.",
+            "The insurer has internal procedures to verify that, prior to recognizing a transaction as being subject to netting for capital purposes, the transaction is covered by legal opinions that meet the above criteria.",
+            "The insurer has procedures in place to update legal opinions as necessary to ensure continuing enforceability of the netting arrangements in light of possible changes in relevant law.",
+            "The insurer maintains all required documentation and makes it available to OSFI upon request."
+          ]
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "The laws of \"all relevant jurisdictions\" are: a) the law of the jurisdictions where the counterparties are incorporated and, if the foreign branch of a counterparty is involved, the laws of the jurisdiction in which the branch is located; b) the law governing the individual transactions; and c) the law governing any contracts or agreements required to effect netting.",
+            "A legal opinion must be generally recognized as such by the legal community in the firm's home country or by a memorandum of law that addresses all relevant issues in a reasoned manner."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Any contract containing a walkaway clause will not be eligible to qualify for netting for the purpose of calculating capital requirements. A walkaway clause is a provision within the contract that permits a non-defaulting counterparty to make only limited payments, or no payments, to the defaulter."
+        }
+      ]
+    },
+    {
+      "heading": "4.2.2. Calculation of exposure",
+      "heading_level": 3,
+      "full_text": "Credit exposure on bilaterally netted forwards, swaps, purchased options and similar derivatives transactions is calculated as the sum of the net mark-to-market replacement cost, if positive, plus a potential future credit exposure (an \"add-on\") based on the notional principal of the individual underlying contracts. However, for purposes of calculating potential future credit exposure of contracts subject to legally enforceable netting agreements in which notional principal is equivalent to cash flows, notional principal is defined as the net receipts falling due on each value date in each currency.\nThese contracts are treated as a single contract because offsetting contracts in the same currency maturing on the same date will have lower replacement cost as well as lower potential future credit exposure. For multilateral netting schemes, current exposure (i.e., replacement cost) is a function of the loss allocation rules of the clearing house.\nThe calculation of the gross add-ons is based on the legal cash flow obligations in all currencies. This is calculated by netting all receivable and payable amounts in the same currency for each value date. The netted cash flow obligations are converted to the reporting currency using the current forward rates for each value date. Once converted the amounts receivable for the value date are added together and the gross add-on is calculated by multiplying the receivable amount by the appropriate add-on factor.\nThe potential future credit exposure for netted transactions ( A Net ) is equal to the sum of:\n  1. 40% of the add-on as presently calculated ( A Gross ) Footnote 2 ; and\n  2. 60% of A Gross multiplied by NPR , where NPR is the level of net replacement cost divided by the level of positive replacement cost for transactions subject to legally enforceable netting agreements.\nThe calculation of NPR can be made on a counterparty-by-counterparty basis or on an aggregate basis for all transactions subject to legally enforceable netting agreements. On a counterparty-by-counterparty basis a unique NPR is calculated for each counterparty. On an aggregate basis, one NPR is calculated and applied to all counterparties.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Credit exposure on bilaterally netted forwards, swaps, purchased options and similar derivatives transactions is calculated as the sum of the net mark-to-market replacement cost, if positive, plus a potential future credit exposure (an \"add-on\") based on the notional principal of the individual underlying contracts. However, for purposes of calculating potential future credit exposure of contracts subject to legally enforceable netting agreements in which notional principal is equivalent to cash flows, notional principal is defined as the net receipts falling due on each value date in each currency."
+        },
+        {
+          "type": "paragraph",
+          "text": "These contracts are treated as a single contract because offsetting contracts in the same currency maturing on the same date will have lower replacement cost as well as lower potential future credit exposure. For multilateral netting schemes, current exposure (i.e., replacement cost) is a function of the loss allocation rules of the clearing house."
+        },
+        {
+          "type": "paragraph",
+          "text": "The calculation of the gross add-ons is based on the legal cash flow obligations in all currencies. This is calculated by netting all receivable and payable amounts in the same currency for each value date. The netted cash flow obligations are converted to the reporting currency using the current forward rates for each value date. Once converted the amounts receivable for the value date are added together and the gross add-on is calculated by multiplying the receivable amount by the appropriate add-on factor."
+        },
+        {
+          "type": "paragraph",
+          "text": "The potential future credit exposure for netted transactions ( A Net ) is equal to the sum of:"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "40% of the add-on as presently calculated ( A Gross ) Footnote 2 ; and",
+            "60% of A Gross multiplied by NPR , where NPR is the level of net replacement cost divided by the level of positive replacement cost for transactions subject to legally enforceable netting agreements."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "The calculation of NPR can be made on a counterparty-by-counterparty basis or on an aggregate basis for all transactions subject to legally enforceable netting agreements. On a counterparty-by-counterparty basis a unique NPR is calculated for each counterparty. On an aggregate basis, one NPR is calculated and applied to all counterparties."
+        }
+      ]
+    },
+    {
+      "heading": "Steps for determining the credit equivalent amount of netted contracts",
+      "heading_level": 4,
+      "full_text": "  1. For each counterparty subject to bilateral netting, determine the add-ons and replacement costs of each transaction. The following table illustrates the calculation of add-ons and replacement cost for a counterparty: Template calculating add-ons and replacement cost by transaction Transaction Notional principal amount × Add-on factor (ref. 4.1) = Potential future credit exposure Positive replacement cost Negative replacement cost 1 NPA 1 × AoF 1 = A 1 R 1 n/a 2 NPA 2 × AoF 2 = A 2 R 2 n/a 3 NPA 3 × AoF 3 = A 3 n/a R 3 Total potential future credit exposure ( A gross ) = A 1 + A 2 + A 3 Total positive replacement cost ( R + ) = R 1 + R 2 Total negative replacement cost ( R − ) = R 3\n  2. Calculate the net replacement cost for each counterparty. This is equal to the greater of: zero; or the sum of the positive and negative replacement costs ( R + + R − ). Negative replacement costs for one counterparty cannot be used to offset positive replacement costs for another counterparty.\n  3. Calculate the NPR . For companies using the counterparty by counterparty basis, the NPR is the net replacement cost (from step 2) divided by the positive replacement cost (amount R + calculated in step 1). For companies using the aggregate basis, the NPR is the sum of the net replacement costs of all counterparties subject to bilateral netting divided by the sum of the positive replacement costs for all counterparties subject to bilateral netting.\nFor each counterparty subject to bilateral netting, determine the add-ons and replacement costs of each transaction. The following table illustrates the calculation of add-ons and replacement cost for a counterparty:\nTable: Template calculating add-ons and replacement cost by transaction\nTransaction | Notional principal amount | × | Add-on factor (ref. 4.1) | = | Potential future credit exposure | Positive replacement cost | Negative replacement cost\n1 | NPA 1 | × | AoF 1 | = | A 1 | R 1 | n/a\n2 | NPA 2 | × | AoF 2 | = | A 2 | R 2 | n/a\n3 | NPA 3 | × | AoF 3 | = | A 3 | n/a | R 3\n  - Total potential future credit exposure ( A gross ) = A 1 + A 2 + A 3\n  - Total positive replacement cost ( R + ) = R 1 + R 2\n  - Total negative replacement cost ( R − ) = R 3\nCalculate the net replacement cost for each counterparty.\nThis is equal to the greater of:\n  1. zero; or\n  2. the sum of the positive and negative replacement costs ( R + + R − ).\nNegative replacement costs for one counterparty cannot be used to offset positive replacement costs for another counterparty.\nCalculate the NPR .\nFor companies using the counterparty by counterparty basis, the NPR is the net replacement cost (from step 2) divided by the positive replacement cost (amount R + calculated in step 1).\nFor companies using the aggregate basis, the NPR is the sum of the net replacement costs of all counterparties subject to bilateral netting divided by the sum of the positive replacement costs for all counterparties subject to bilateral netting.\nExample: NPR ratio calculation\nTable: Transaction data for 3 counterparties\nCounterparty | Counterparty 1 | Counterparty 2 | Counterparty 3\nNPR calculation | Notional amount | Mark to market value | Notional amount | Mark to market value | Notional amount | Mark to market value\nTransaction 1 | 100 | 10 | 50 | 8 | 30 | −3\nTransaction 2 | 100 | −5 | 50 | 2 | 30 | 1\nTable: NPR ratio calculation\nCounterparty | Net replacement cost (NR) | R + | NPR\nCounterparty 1 | 5 | 10 | 0.5\nCounterparty 2 | 10 | 10 | 1\nCounterparty 3 | 0 | 1 | 0\nAggregate | 15 | 21 | 0.71\n  1. Calculate A Net . A Net must be calculated for each counterparty subject to bilateral netting; however, the NPR applied will depend on whether the insurer is using the counterparty by counterparty basis or the aggregate basis. The insurer should choose which basis it will use and then use it consistently for all netted transactions. A Net is given by: A net = { ( 0.4 × A gross ) + ( 0.6 × NPR × A gross ) for netted contacts where the net replacement cost is > 0 0.4 × A gross for netted contacts where the net replacement cost = 0\n  2. Calculate the credit equivalent amount for each counterparty by adding the net replacement cost (step 2) and A Net (step 4). Note: Contracts may be subject to netting among different types of derivative instruments (e.g., interest rate, foreign exchange and equity). If this is the case, allocate the net replacement cost to the types of derivative instrument by pro-rating the net replacement cost among those instrument types which have a gross positive replacement cost.\nCalculate A Net .\nA Net must be calculated for each counterparty subject to bilateral netting; however, the NPR applied will depend on whether the insurer is using the counterparty by counterparty basis or the aggregate basis. The insurer should choose which basis it will use and then use it consistently for all netted transactions.\nA Net is given by:\nA net = { ( 0.4 × A gross ) + ( 0.6 × NPR × A gross ) for netted contacts where the net replacement cost is > 0 0.4 × A gross for netted contacts where the net replacement cost = 0\nCalculate the credit equivalent amount for each counterparty by adding the net replacement cost (step 2) and A Net (step 4).\nNote: Contracts may be subject to netting among different types of derivative instruments (e.g., interest rate, foreign exchange and equity). If this is the case, allocate the net replacement cost to the types of derivative instrument by pro-rating the net replacement cost among those instrument types which have a gross positive replacement cost.\nExample: Netting for potential future credit exposure with contracts subject to novation\nAssume an institution has 6 contracts with the same counterparty and has a legally enforceable netting agreement with that counterparty:\nTable: Notional principal and marked to market amounts by contract\nContract | Notional principal amount | Marked to market amount\nA | 10 | 1\nB | 20 | −2\nC | 10 | −1\nD | 40 | 4\nE | 30 | 3\nF | 20 | −2\nContracts A and B are subject to novation, as are contracts C and D. Under novation, the two contracts are replaced by one new contract. Therefore, to calculate the capital requirements, the institution would replace contracts A and B for contract A+ and contracts C and D for contract C+, netting the notional amounts and calculating a new marked to market amount.\nTable: Notional principal and marked to market amounts by contract (under novation)\nContract | Notional principal amount | Marked to market amount\nA+ | 10 | −1\nC+ | 30 | 3\nE | 30 | 3\nF | 20 | −2\nAssume the add-on factor for all contracts is 5%. The potential future credit exposure is calculated for each contract. A Gross is the sum of the potential future credit exposures:\nTable: Potential future credit exposure by contract\nContract | Notional principal amount | Add-on factor (5%) | Potential credit exposure | Positive replacement cost | Negative replacement cost\nA+ | 10 | .05 | 0.5 | 0 | −1\nC+ | 30 | .05 | 1.5 | 3 | 0\nE | 30 | .05 | 1.5 | 3 | 0\nF | 20 | .05 | 1.0 | 0 | −2\nTotal | n/a | n/a | 4.5 | 6 | −3\nThe net replacement cost is (6 − 3 =) 3; the greater of zero or the sum of the positive and negative replacement costs.\nThe NPR is (3 ÷ 6 =) 0.5; the net replacement cost divided by the positive replacement cost.\nA Net is then ((0.4*4.5) + (0.6*0.5*4.5) =) 3.15.\nThe credit equivalent amount is (3 + 3.15 =) 6.15; the net replacement cost plus A Net .",
+      "content": [
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "For each counterparty subject to bilateral netting, determine the add-ons and replacement costs of each transaction. The following table illustrates the calculation of add-ons and replacement cost for a counterparty: Template calculating add-ons and replacement cost by transaction Transaction Notional principal amount × Add-on factor (ref. 4.1) = Potential future credit exposure Positive replacement cost Negative replacement cost 1 NPA 1 × AoF 1 = A 1 R 1 n/a 2 NPA 2 × AoF 2 = A 2 R 2 n/a 3 NPA 3 × AoF 3 = A 3 n/a R 3 Total potential future credit exposure ( A gross ) = A 1 + A 2 + A 3 Total positive replacement cost ( R + ) = R 1 + R 2 Total negative replacement cost ( R − ) = R 3",
+            "Calculate the net replacement cost for each counterparty. This is equal to the greater of: zero; or the sum of the positive and negative replacement costs ( R + + R − ). Negative replacement costs for one counterparty cannot be used to offset positive replacement costs for another counterparty.",
+            "Calculate the NPR . For companies using the counterparty by counterparty basis, the NPR is the net replacement cost (from step 2) divided by the positive replacement cost (amount R + calculated in step 1). For companies using the aggregate basis, the NPR is the sum of the net replacement costs of all counterparties subject to bilateral netting divided by the sum of the positive replacement costs for all counterparties subject to bilateral netting."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "For each counterparty subject to bilateral netting, determine the add-ons and replacement costs of each transaction. The following table illustrates the calculation of add-ons and replacement cost for a counterparty:"
+        },
+        {
+          "type": "table",
+          "caption": "Template calculating add-ons and replacement cost by transaction",
+          "rows": [
+            [
+              "Transaction",
+              "Notional principal amount",
+              "×",
+              "Add-on factor (ref. 4.1)",
+              "=",
+              "Potential future credit exposure",
+              "Positive replacement cost",
+              "Negative replacement cost"
+            ],
+            [
+              "1",
+              "NPA 1",
+              "×",
+              "AoF 1",
+              "=",
+              "A 1",
+              "R 1",
+              "n/a"
+            ],
+            [
+              "2",
+              "NPA 2",
+              "×",
+              "AoF 2",
+              "=",
+              "A 2",
+              "R 2",
+              "n/a"
+            ],
+            [
+              "3",
+              "NPA 3",
+              "×",
+              "AoF 3",
+              "=",
+              "A 3",
+              "n/a",
+              "R 3"
+            ]
+          ]
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Total potential future credit exposure ( A gross ) = A 1 + A 2 + A 3",
+            "Total positive replacement cost ( R + ) = R 1 + R 2",
+            "Total negative replacement cost ( R − ) = R 3"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Calculate the net replacement cost for each counterparty."
+        },
+        {
+          "type": "paragraph",
+          "text": "This is equal to the greater of:"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "zero; or",
+            "the sum of the positive and negative replacement costs ( R + + R − )."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Negative replacement costs for one counterparty cannot be used to offset positive replacement costs for another counterparty."
+        },
+        {
+          "type": "paragraph",
+          "text": "Calculate the NPR ."
+        },
+        {
+          "type": "paragraph",
+          "text": "For companies using the counterparty by counterparty basis, the NPR is the net replacement cost (from step 2) divided by the positive replacement cost (amount R + calculated in step 1)."
+        },
+        {
+          "type": "paragraph",
+          "text": "For companies using the aggregate basis, the NPR is the sum of the net replacement costs of all counterparties subject to bilateral netting divided by the sum of the positive replacement costs for all counterparties subject to bilateral netting."
+        },
+        {
+          "type": "paragraph",
+          "text": "Example: NPR ratio calculation"
+        },
+        {
+          "type": "table",
+          "caption": "Transaction data for 3 counterparties",
+          "rows": [
+            [
+              "Counterparty",
+              "Counterparty 1",
+              "Counterparty 2",
+              "Counterparty 3"
+            ],
+            [
+              "NPR calculation",
+              "Notional amount",
+              "Mark to market value",
+              "Notional amount",
+              "Mark to market value",
+              "Notional amount",
+              "Mark to market value"
+            ],
+            [
+              "Transaction 1",
+              "100",
+              "10",
+              "50",
+              "8",
+              "30",
+              "−3"
+            ],
+            [
+              "Transaction 2",
+              "100",
+              "−5",
+              "50",
+              "2",
+              "30",
+              "1"
+            ]
+          ]
+        },
+        {
+          "type": "table",
+          "caption": "NPR ratio calculation",
+          "rows": [
+            [
+              "Counterparty",
+              "Net replacement cost (NR)",
+              "R +",
+              "NPR"
+            ],
+            [
+              "Counterparty 1",
+              "5",
+              "10",
+              "0.5"
+            ],
+            [
+              "Counterparty 2",
+              "10",
+              "10",
+              "1"
+            ],
+            [
+              "Counterparty 3",
+              "0",
+              "1",
+              "0"
+            ],
+            [
+              "Aggregate",
+              "15",
+              "21",
+              "0.71"
+            ]
+          ]
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "Calculate A Net . A Net must be calculated for each counterparty subject to bilateral netting; however, the NPR applied will depend on whether the insurer is using the counterparty by counterparty basis or the aggregate basis. The insurer should choose which basis it will use and then use it consistently for all netted transactions. A Net is given by: A net = { ( 0.4 × A gross ) + ( 0.6 × NPR × A gross ) for netted contacts where the net replacement cost is > 0 0.4 × A gross for netted contacts where the net replacement cost = 0",
+            "Calculate the credit equivalent amount for each counterparty by adding the net replacement cost (step 2) and A Net (step 4). Note: Contracts may be subject to netting among different types of derivative instruments (e.g., interest rate, foreign exchange and equity). If this is the case, allocate the net replacement cost to the types of derivative instrument by pro-rating the net replacement cost among those instrument types which have a gross positive replacement cost."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Calculate A Net ."
+        },
+        {
+          "type": "paragraph",
+          "text": "A Net must be calculated for each counterparty subject to bilateral netting; however, the NPR applied will depend on whether the insurer is using the counterparty by counterparty basis or the aggregate basis. The insurer should choose which basis it will use and then use it consistently for all netted transactions."
+        },
+        {
+          "type": "paragraph",
+          "text": "A Net is given by:"
+        },
+        {
+          "type": "paragraph",
+          "text": "A net = { ( 0.4 × A gross ) + ( 0.6 × NPR × A gross ) for netted contacts where the net replacement cost is > 0 0.4 × A gross for netted contacts where the net replacement cost = 0"
+        },
+        {
+          "type": "paragraph",
+          "text": "Calculate the credit equivalent amount for each counterparty by adding the net replacement cost (step 2) and A Net (step 4)."
+        },
+        {
+          "type": "paragraph",
+          "text": "Note: Contracts may be subject to netting among different types of derivative instruments (e.g., interest rate, foreign exchange and equity). If this is the case, allocate the net replacement cost to the types of derivative instrument by pro-rating the net replacement cost among those instrument types which have a gross positive replacement cost."
+        },
+        {
+          "type": "paragraph",
+          "text": "Example: Netting for potential future credit exposure with contracts subject to novation"
+        },
+        {
+          "type": "paragraph",
+          "text": "Assume an institution has 6 contracts with the same counterparty and has a legally enforceable netting agreement with that counterparty:"
+        },
+        {
+          "type": "table",
+          "caption": "Notional principal and marked to market amounts by contract",
+          "rows": [
+            [
+              "Contract",
+              "Notional principal amount",
+              "Marked to market amount"
+            ],
+            [
+              "A",
+              "10",
+              "1"
+            ],
+            [
+              "B",
+              "20",
+              "−2"
+            ],
+            [
+              "C",
+              "10",
+              "−1"
+            ],
+            [
+              "D",
+              "40",
+              "4"
+            ],
+            [
+              "E",
+              "30",
+              "3"
+            ],
+            [
+              "F",
+              "20",
+              "−2"
+            ]
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Contracts A and B are subject to novation, as are contracts C and D. Under novation, the two contracts are replaced by one new contract. Therefore, to calculate the capital requirements, the institution would replace contracts A and B for contract A+ and contracts C and D for contract C+, netting the notional amounts and calculating a new marked to market amount."
+        },
+        {
+          "type": "table",
+          "caption": "Notional principal and marked to market amounts by contract (under novation)",
+          "rows": [
+            [
+              "Contract",
+              "Notional principal amount",
+              "Marked to market amount"
+            ],
+            [
+              "A+",
+              "10",
+              "−1"
+            ],
+            [
+              "C+",
+              "30",
+              "3"
+            ],
+            [
+              "E",
+              "30",
+              "3"
+            ],
+            [
+              "F",
+              "20",
+              "−2"
+            ]
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Assume the add-on factor for all contracts is 5%. The potential future credit exposure is calculated for each contract. A Gross is the sum of the potential future credit exposures:"
+        },
+        {
+          "type": "table",
+          "caption": "Potential future credit exposure by contract",
+          "rows": [
+            [
+              "Contract",
+              "Notional principal amount",
+              "Add-on factor (5%)",
+              "Potential credit exposure",
+              "Positive replacement cost",
+              "Negative replacement cost"
+            ],
+            [
+              "A+",
+              "10",
+              ".05",
+              "0.5",
+              "0",
+              "−1"
+            ],
+            [
+              "C+",
+              "30",
+              ".05",
+              "1.5",
+              "3",
+              "0"
+            ],
+            [
+              "E",
+              "30",
+              ".05",
+              "1.5",
+              "3",
+              "0"
+            ],
+            [
+              "F",
+              "20",
+              ".05",
+              "1.0",
+              "0",
+              "−2"
+            ],
+            [
+              "Total",
+              "n/a",
+              "n/a",
+              "4.5",
+              "6",
+              "−3"
+            ]
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "The net replacement cost is (6 − 3 =) 3; the greater of zero or the sum of the positive and negative replacement costs."
+        },
+        {
+          "type": "paragraph",
+          "text": "The NPR is (3 ÷ 6 =) 0.5; the net replacement cost divided by the positive replacement cost."
+        },
+        {
+          "type": "paragraph",
+          "text": "A Net is then ((0.4*4.5) + (0.6*0.5*4.5) =) 3.15."
+        },
+        {
+          "type": "paragraph",
+          "text": "The credit equivalent amount is (3 + 3.15 =) 6.15; the net replacement cost plus A Net ."
+        }
+      ]
+    },
+    {
+      "heading": "4.3. Off-balance sheet instruments other than derivatives",
+      "heading_level": 2,
+      "full_text": "The definitions in this section apply to off-balance sheet exposures other than derivatives included in section 4.1.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "The definitions in this section apply to off-balance sheet exposures other than derivatives included in section 4.1."
+        }
+      ]
+    },
+    {
+      "heading": "4.3.1. Direct credit substitutes (100% conversion factor)",
+      "heading_level": 3,
+      "full_text": "Direct credit substitutes include guarantees or equivalent instruments backing financial claims. With a direct credit substitute, the risk of loss to the insurer is directly dependent on the creditworthiness of the counterparty.\nExamples of direct credit substitutes include:\n  1. guarantees given on behalf of customers to stand behind the financial obligations of the customer and to satisfy these obligations should the customer fail to do so; for example, guarantees of: payment for existing indebtedness for services, payment with respect to a purchase agreement, lease, loan or mortgage payments, payment of uncertified cheques, remittance of (sales) tax to the government, payment of existing indebtedness for merchandise purchased, payment of an unfunded pension liability, and financial obligations undertaken through reinsurance;\n  2. standby letters of credit or other equivalent irrevocable obligations, serving as financial guarantees, such as letters of credit supporting the issue of commercial paper;\n  3. risk participations in bankers' acceptances and financial letters of credit. Risk participations constitute a guarantee by the participating institutions such that, if there is a default by the underlying obligor, they will indemnify the creditor for the full principal and interest attributable to them;\n  4. securities lending transactions, where an insurer acting as an agent lends securities on behalf of a client and is liable for any failure to recover the securities lent.\n  1. payment for existing indebtedness for services,\n  2. payment with respect to a purchase agreement,\n  3. lease, loan or mortgage payments,\n  4. payment of uncertified cheques,\n  5. remittance of (sales) tax to the government,\n  6. payment of existing indebtedness for merchandise purchased,\n  7. payment of an unfunded pension liability, and\n  8. financial obligations undertaken through reinsurance;",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Direct credit substitutes include guarantees or equivalent instruments backing financial claims. With a direct credit substitute, the risk of loss to the insurer is directly dependent on the creditworthiness of the counterparty."
+        },
+        {
+          "type": "paragraph",
+          "text": "Examples of direct credit substitutes include:"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "guarantees given on behalf of customers to stand behind the financial obligations of the customer and to satisfy these obligations should the customer fail to do so; for example, guarantees of: payment for existing indebtedness for services, payment with respect to a purchase agreement, lease, loan or mortgage payments, payment of uncertified cheques, remittance of (sales) tax to the government, payment of existing indebtedness for merchandise purchased, payment of an unfunded pension liability, and financial obligations undertaken through reinsurance;",
+            "standby letters of credit or other equivalent irrevocable obligations, serving as financial guarantees, such as letters of credit supporting the issue of commercial paper;",
+            "risk participations in bankers' acceptances and financial letters of credit. Risk participations constitute a guarantee by the participating institutions such that, if there is a default by the underlying obligor, they will indemnify the creditor for the full principal and interest attributable to them;",
+            "securities lending transactions, where an insurer acting as an agent lends securities on behalf of a client and is liable for any failure to recover the securities lent."
+          ]
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "payment for existing indebtedness for services,",
+            "payment with respect to a purchase agreement,",
+            "lease, loan or mortgage payments,",
+            "payment of uncertified cheques,",
+            "remittance of (sales) tax to the government,",
+            "payment of existing indebtedness for merchandise purchased,",
+            "payment of an unfunded pension liability, and",
+            "financial obligations undertaken through reinsurance;"
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "4.3.2. Repurchase and reverse repurchase agreements (100% conversion factor)",
+      "heading_level": 3,
+      "full_text": "A repurchase agreement is a transaction that involves the sale of a security or other asset with the simultaneous commitment by the seller that after a stated period of time, the seller will repurchase the asset from the original buyer at a pre-determined price. A reverse repurchase agreement consists of the purchase of a security or other asset with the simultaneous commitment by the buyer that after a stated period of time, the buyer will resell the asset to the original seller at a predetermined price. In any circumstance where these transactions are not reported on-balance sheet, they should be reported as an off-balance sheet exposure with a 100% credit conversion factor.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "A repurchase agreement is a transaction that involves the sale of a security or other asset with the simultaneous commitment by the seller that after a stated period of time, the seller will repurchase the asset from the original buyer at a pre-determined price. A reverse repurchase agreement consists of the purchase of a security or other asset with the simultaneous commitment by the buyer that after a stated period of time, the buyer will resell the asset to the original seller at a predetermined price. In any circumstance where these transactions are not reported on-balance sheet, they should be reported as an off-balance sheet exposure with a 100% credit conversion factor."
+        }
+      ]
+    },
+    {
+      "heading": "4.3.3. Forward asset purchases Footnote 3 (100% conversion factor)",
+      "heading_level": 3,
+      "full_text": "A commitment to purchase a loan, security or other asset at a specified future date, usually on prearranged terms.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "A commitment to purchase a loan, security or other asset at a specified future date, usually on prearranged terms."
+        }
+      ]
+    },
+    {
+      "heading": "4.3.4. Forward-forward deposits (100% conversion factor)",
+      "heading_level": 3,
+      "full_text": "An agreement between two parties whereby one will pay and the other will receive an agreed rate of interest on a deposit to be placed by one party with the other at some predetermined date in the future. Such agreements are distinct from futures and forward rate agreements in that, with forward-forwards, the deposit is actually placed.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "An agreement between two parties whereby one will pay and the other will receive an agreed rate of interest on a deposit to be placed by one party with the other at some predetermined date in the future. Such agreements are distinct from futures and forward rate agreements in that, with forward-forwards, the deposit is actually placed."
+        }
+      ]
+    },
+    {
+      "heading": "4.3.5. Partly paid shares and securities (100% conversion factor)",
+      "heading_level": 3,
+      "full_text": "The unpaid portion of transactions where only a part of the issue price or notional face value of a security purchased has been subscribed and the issuer may call for the outstanding balance (or a further instalment), either on a date predetermined at the time of issue or at an unspecified future date.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "The unpaid portion of transactions where only a part of the issue price or notional face value of a security purchased has been subscribed and the issuer may call for the outstanding balance (or a further instalment), either on a date predetermined at the time of issue or at an unspecified future date."
+        }
+      ]
+    },
+    {
+      "heading": "4.3.6. Transaction-related contingencies (50% conversion factor)",
+      "heading_level": 3,
+      "full_text": "Transaction-related contingencies relate to the ongoing business activities of a counterparty, where the risk of loss to the insurer depends on the likelihood of a future event that is independent of the creditworthiness of the counterparty. Essentially, transaction-related contingencies are guarantees that support particular performance of non-financial or commercial contracts or undertakings rather than supporting customers' general financial obligations. Performance-related guarantees specifically exclude items relating to non-performance of financial obligations.\nPerformance-related and non-financial guarantees include items such as performance bonds, warranties and indemnities, and performance standby letters of credit. These represent obligations backing the performance of non-financial or commercial contracts or undertakings and can include arrangements backing:\n  1. subcontractors' and suppliers' performance,\n  2. labour and material contracts,\n  3. delivery of merchandise, bids or tender bonds,\n  4. guarantees of repayment of deposits or prepayments in cases of non-performance;",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Transaction-related contingencies relate to the ongoing business activities of a counterparty, where the risk of loss to the insurer depends on the likelihood of a future event that is independent of the creditworthiness of the counterparty. Essentially, transaction-related contingencies are guarantees that support particular performance of non-financial or commercial contracts or undertakings rather than supporting customers' general financial obligations. Performance-related guarantees specifically exclude items relating to non-performance of financial obligations."
+        },
+        {
+          "type": "paragraph",
+          "text": "Performance-related and non-financial guarantees include items such as performance bonds, warranties and indemnities, and performance standby letters of credit. These represent obligations backing the performance of non-financial or commercial contracts or undertakings and can include arrangements backing:"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "subcontractors' and suppliers' performance,",
+            "labour and material contracts,",
+            "delivery of merchandise, bids or tender bonds,",
+            "guarantees of repayment of deposits or prepayments in cases of non-performance;"
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "4.3.7. Trade-related contingencies (20% conversion factor)",
+      "heading_level": 3,
+      "full_text": "These include short-term self-liquidating trade-related items such as commercial and documentary letters of credit issued by the insurer that are, or are to be, collateralized by the underlying shipment.\nLetters of credit issued on behalf of a counterparty back to back with letters of credit of which the counterparty is a beneficiary (\"back-to-back\" letters) should be reported as documentary letters of credit.\nLetters of credit advised by the insurer for which the insurer is acting as an agent should not be considered a risk asset.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "These include short-term self-liquidating trade-related items such as commercial and documentary letters of credit issued by the insurer that are, or are to be, collateralized by the underlying shipment."
+        },
+        {
+          "type": "paragraph",
+          "text": "Letters of credit issued on behalf of a counterparty back to back with letters of credit of which the counterparty is a beneficiary (\"back-to-back\" letters) should be reported as documentary letters of credit."
+        },
+        {
+          "type": "paragraph",
+          "text": "Letters of credit advised by the insurer for which the insurer is acting as an agent should not be considered a risk asset."
+        }
+      ]
+    },
+    {
+      "heading": "4.4. Commitments",
+      "heading_level": 2,
+      "full_text": "Commitments are arrangements that obligate an insurer, at a counterparty's request, to:\n  1. extend credit in the form of loans or participations in loans, lease financing receivables, mortgages, overdrafts, acceptances, letters of credit, guarantees or loan substitutes; or\n  2. purchase loans, securities, receivables, or other assets.\nThe risk in undertaking a commitment is that an insurer may be required to extend credit or purchase assets at worse-than-market terms. The presence of a form of consideration, such as a commitment fee, would normally indicate that an insurer is providing a potential financial benefit to a third party for which capital is required.\nCommitments for which an insurer has an absolute right of refusal, has the unfettered right to set the loan interest rate at time of exercise, or for which the asset purchase price is fair market value are not subject to a capital requirement. Commitments exclude undrawn policy loans, i.e., part of a policy's cash value that has not been taken in the form of a policy loan.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Commitments are arrangements that obligate an insurer, at a counterparty's request, to:"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "extend credit in the form of loans or participations in loans, lease financing receivables, mortgages, overdrafts, acceptances, letters of credit, guarantees or loan substitutes; or",
+            "purchase loans, securities, receivables, or other assets."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "The risk in undertaking a commitment is that an insurer may be required to extend credit or purchase assets at worse-than-market terms. The presence of a form of consideration, such as a commitment fee, would normally indicate that an insurer is providing a potential financial benefit to a third party for which capital is required."
+        },
+        {
+          "type": "paragraph",
+          "text": "Commitments for which an insurer has an absolute right of refusal, has the unfettered right to set the loan interest rate at time of exercise, or for which the asset purchase price is fair market value are not subject to a capital requirement. Commitments exclude undrawn policy loans, i.e., part of a policy's cash value that has not been taken in the form of a policy loan."
+        }
+      ]
+    },
+    {
+      "heading": "4.4.1. Maturity",
+      "heading_level": 3,
+      "full_text": "Insurers should use original maturity (as defined below) to report commitments.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Insurers should use original maturity (as defined below) to report commitments."
+        }
+      ]
+    },
+    {
+      "heading": "4.4.1.1. Original maturity",
+      "heading_level": 4,
+      "full_text": "The maturity of a commitment should be measured from the date when the commitment was accepted by the customer, regardless of whether the commitment is revocable or irrevocable, conditional or unconditional, until the earliest date on which:\n  1. the commitment is scheduled to expire; or\n  2. the insurer can, at its option, unconditionally cancel the commitment.\nA material adverse change clause is not considered to give sufficient protection for a commitment to be considered unconditionally cancellable.\nWhere the insurer commits to granting a facility at a future date (a forward commitment), the original maturity of the commitment is to be measured from the date the commitment is accepted until the final date that drawdowns are permitted.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "The maturity of a commitment should be measured from the date when the commitment was accepted by the customer, regardless of whether the commitment is revocable or irrevocable, conditional or unconditional, until the earliest date on which:"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "the commitment is scheduled to expire; or",
+            "the insurer can, at its option, unconditionally cancel the commitment."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "A material adverse change clause is not considered to give sufficient protection for a commitment to be considered unconditionally cancellable."
+        },
+        {
+          "type": "paragraph",
+          "text": "Where the insurer commits to granting a facility at a future date (a forward commitment), the original maturity of the commitment is to be measured from the date the commitment is accepted until the final date that drawdowns are permitted."
+        }
+      ]
+    },
+    {
+      "heading": "4.4.1.2. Renegotiations of a commitment",
+      "heading_level": 4,
+      "full_text": "If both parties agree, a commitment may be renegotiated before its term expires. If the renegotiation process involves a credit assessment of the customer consistent with the insurer's credit standards, and provides the insurer with the total discretion to renew or extend the commitment and to change any other terms and conditions of the commitment, then on the date of acceptance by the customer of the revised terms and conditions, the original commitment may be deemed to have matured and a new commitment begun. If new terms are not reached, the original commitment will remain in force until its original maturity date. This process must be clearly documented.\nIn syndicated and participated transactions, a participating insurer should be able to exercise its renegotiation rights independent of the other syndicate members.\nWhere these conditions are not met, the original start date of the commitment must be used to determine maturity.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "If both parties agree, a commitment may be renegotiated before its term expires. If the renegotiation process involves a credit assessment of the customer consistent with the insurer's credit standards, and provides the insurer with the total discretion to renew or extend the commitment and to change any other terms and conditions of the commitment, then on the date of acceptance by the customer of the revised terms and conditions, the original commitment may be deemed to have matured and a new commitment begun. If new terms are not reached, the original commitment will remain in force until its original maturity date. This process must be clearly documented."
+        },
+        {
+          "type": "paragraph",
+          "text": "In syndicated and participated transactions, a participating insurer should be able to exercise its renegotiation rights independent of the other syndicate members."
+        },
+        {
+          "type": "paragraph",
+          "text": "Where these conditions are not met, the original start date of the commitment must be used to determine maturity."
+        }
+      ]
+    },
+    {
+      "heading": "4.4.2. Credit conversion factors",
+      "heading_level": 3,
+      "full_text": "The credit conversion factor applied to a commitment is dependent on its maturity. Longer maturity commitments are considered to be of higher risk because there is a longer period between credit reviews and less opportunity to withdraw the commitment if the credit quality of the drawer deteriorates.\nConversion factors apply to commitments as set out below.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "The credit conversion factor applied to a commitment is dependent on its maturity. Longer maturity commitments are considered to be of higher risk because there is a longer period between credit reviews and less opportunity to withdraw the commitment if the credit quality of the drawer deteriorates."
+        },
+        {
+          "type": "paragraph",
+          "text": "Conversion factors apply to commitments as set out below."
+        }
+      ]
+    },
+    {
+      "heading": "50% conversion factor",
+      "heading_level": 4,
+      "full_text": "  1. Commitments and forward commitments with an original maturity of over one year;\n  2. Note issuance facilities and revolving underwriting facilities (q.v. section 4.4.3.6).\n  3. The undrawn portion of a commitment to provide a loan that will be drawn down in a number of tranches, some less than and some over one year.",
+      "content": [
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "Commitments and forward commitments with an original maturity of over one year;",
+            "Note issuance facilities and revolving underwriting facilities (q.v. section 4.4.3.6).",
+            "The undrawn portion of a commitment to provide a loan that will be drawn down in a number of tranches, some less than and some over one year."
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "20% conversion factor",
+      "heading_level": 4,
+      "full_text": "  1. Commitments and forward commitments with an original maturity of one year and under.",
+      "content": [
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "Commitments and forward commitments with an original maturity of one year and under."
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "0% conversion factor",
+      "heading_level": 4,
+      "full_text": "  1. Commitments that are unconditionally cancellable at any time by the insurer without notice or that effectively provide for automatic cancellation due to deterioration in the borrower's creditworthiness. This implies that the insurer conducts a review of the facility at least annually, thus giving it an opportunity to take note of any perceived deterioration in credit quality. Retail commitments are unconditionally cancellable if the terms permit the insurer to cancel them fully and this is allowable under consumer protection and related legislation.",
+      "content": [
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "Commitments that are unconditionally cancellable at any time by the insurer without notice or that effectively provide for automatic cancellation due to deterioration in the borrower's creditworthiness. This implies that the insurer conducts a review of the facility at least annually, thus giving it an opportunity to take note of any perceived deterioration in credit quality. Retail commitments are unconditionally cancellable if the terms permit the insurer to cancel them fully and this is allowable under consumer protection and related legislation."
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "4.4.3.1. Undated/open-ended commitments",
+      "heading_level": 4,
+      "full_text": "A 0% credit conversion factor is applied to undated or open-ended commitments that are unconditionally cancellable at any time without notice, which may include unused credit card lines, personal lines of credit, and overdraft protection for personal chequing accounts.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "A 0% credit conversion factor is applied to undated or open-ended commitments that are unconditionally cancellable at any time without notice, which may include unused credit card lines, personal lines of credit, and overdraft protection for personal chequing accounts."
+        }
+      ]
+    },
+    {
+      "heading": "4.4.3.2. Evergreen commitments",
+      "heading_level": 4,
+      "full_text": "Open-ended commitments that are cancellable by the insurer at any time subject to a notice period do not constitute unconditionally cancellable commitments and are converted at 50%. Long-term commitments must be cancellable without notice to be eligible for the 0% conversion factor.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Open-ended commitments that are cancellable by the insurer at any time subject to a notice period do not constitute unconditionally cancellable commitments and are converted at 50%. Long-term commitments must be cancellable without notice to be eligible for the 0% conversion factor."
+        }
+      ]
+    },
+    {
+      "heading": "4.4.3.3. Commitments drawn down in a number of tranches",
+      "heading_level": 4,
+      "full_text": "A 50% credit conversion factor is applied to a commitment to provide a loan (or purchase an asset) to be drawn down in a number of related tranches, some one year and under and some over one year. In these cases, the ability to renegotiate the terms of later tranches should be regarded as immaterial. For example, such commitments may be provided for development projects from which the insurer may find it difficult to withdraw without jeopardizing its investment.\nWhere the facility involves unrelated tranches, and where conversions are permitted between the over- and under-one-year tranches (i.e., where the borrower may make ongoing selections as to how much of the commitment is under one year and how much is over), then the entire commitment should be converted at 50%.\nWhere the facility involves unrelated tranches with no conversion between the over- and under-one-year tranches, then each tranche may be converted separately, depending on its maturity.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "A 50% credit conversion factor is applied to a commitment to provide a loan (or purchase an asset) to be drawn down in a number of related tranches, some one year and under and some over one year. In these cases, the ability to renegotiate the terms of later tranches should be regarded as immaterial. For example, such commitments may be provided for development projects from which the insurer may find it difficult to withdraw without jeopardizing its investment."
+        },
+        {
+          "type": "paragraph",
+          "text": "Where the facility involves unrelated tranches, and where conversions are permitted between the over- and under-one-year tranches (i.e., where the borrower may make ongoing selections as to how much of the commitment is under one year and how much is over), then the entire commitment should be converted at 50%."
+        },
+        {
+          "type": "paragraph",
+          "text": "Where the facility involves unrelated tranches with no conversion between the over- and under-one-year tranches, then each tranche may be converted separately, depending on its maturity."
+        }
+      ]
+    },
+    {
+      "heading": "4.4.3.4. Commitments for fluctuating amounts",
+      "heading_level": 4,
+      "full_text": "For commitments that vary in amount over the life of the commitment, such as the financing of a business subject to seasonal variation in cash flow, the conversion factor should apply to the maximum unutilized amount that can be drawn under the remaining period of the facility.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "For commitments that vary in amount over the life of the commitment, such as the financing of a business subject to seasonal variation in cash flow, the conversion factor should apply to the maximum unutilized amount that can be drawn under the remaining period of the facility."
+        }
+      ]
+    },
+    {
+      "heading": "4.4.3.5. Commitment to provide a loan with a maturity of over one year",
+      "heading_level": 4,
+      "full_text": "A commitment to provide a loan that has a maturity of over one year but that must be drawn down within a period of less than one year may be treated as an under-one-year instrument, as long as any undrawn portion of the facility is automatically cancelled at the end of the drawdown period.\nHowever, if through any combination of drawdowns, repayments, re-drawdowns, or other options, the client can access a line of credit past one year, with no opportunity for the insurer to unconditionally cancel the commitment within one year, the commitment is converted at 50%.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "A commitment to provide a loan that has a maturity of over one year but that must be drawn down within a period of less than one year may be treated as an under-one-year instrument, as long as any undrawn portion of the facility is automatically cancelled at the end of the drawdown period."
+        },
+        {
+          "type": "paragraph",
+          "text": "However, if through any combination of drawdowns, repayments, re-drawdowns, or other options, the client can access a line of credit past one year, with no opportunity for the insurer to unconditionally cancel the commitment within one year, the commitment is converted at 50%."
+        }
+      ]
+    },
+    {
+      "heading": "4.4.3.6. Note issuance/revolving underwriting facilities",
+      "heading_level": 4,
+      "full_text": "Note issuance facilities and revolving underwriting facilities are arrangements whereby a borrower may issue short-term notes, typically three to six months in maturity, up to a prescribed limit over an extended period of time, commonly by means of repeated offerings to a tender panel. If at any time the notes are not sold by the tender at an acceptable price, an underwriter (or group of underwriters) undertakes to buy them at a prescribed price.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Note issuance facilities and revolving underwriting facilities are arrangements whereby a borrower may issue short-term notes, typically three to six months in maturity, up to a prescribed limit over an extended period of time, commonly by means of repeated offerings to a tender panel. If at any time the notes are not sold by the tender at an acceptable price, an underwriter (or group of underwriters) undertakes to buy them at a prescribed price."
+        }
+      ]
+    },
+    {
+      "heading": "4.4.3.7. Commitments for off-balance sheet transactions",
+      "heading_level": 4,
+      "full_text": "Where there is a commitment to provide an off-balance sheet item, companies are to apply the lower of the two applicable credit conversion factors.\n[Note: Footnotes Footnote 1 Gold contracts are treated the same as exchange rate contracts for the purpose of calculating credit risk. Return to footnote 1 referrer Footnote 2 A gross equals the sum of the potential future credit exposures (i.e., notional principal amount of each transaction times the appropriate add-on factors from section 4.1) for all transactions subject to legally enforceable netting agreements. Return to footnote 2 referrer Footnote 3 This does not include a spot transaction that is contracted to settle within the normal settlement period. Return to footnote 3 referrer]",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Where there is a commitment to provide an off-balance sheet item, companies are to apply the lower of the two applicable credit conversion factors."
+        },
+        {
+          "type": "footnote",
+          "text": "Footnotes Footnote 1 Gold contracts are treated the same as exchange rate contracts for the purpose of calculating credit risk. Return to footnote 1 referrer Footnote 2 A gross equals the sum of the potential future credit exposures (i.e., notional principal amount of each transaction times the appropriate add-on factors from section 4.1) for all transactions subject to legally enforceable netting agreements. Return to footnote 2 referrer Footnote 3 This does not include a spot transaction that is contracted to settle within the normal settlement period. Return to footnote 3 referrer"
+        }
+      ]
+    },
+    {
+      "heading": "Footnotes",
+      "heading_level": 2,
+      "full_text": "Gold contracts are treated the same as exchange rate contracts for the purpose of calculating credit risk.\nReturn to footnote 1 referrer\nA gross equals the sum of the potential future credit exposures (i.e., notional principal amount of each transaction times the appropriate add-on factors from section 4.1) for all transactions subject to legally enforceable netting agreements.\nReturn to footnote 2 referrer\nThis does not include a spot transaction that is contracted to settle within the normal settlement period.\nReturn to footnote 3 referrer",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Gold contracts are treated the same as exchange rate contracts for the purpose of calculating credit risk."
+        },
+        {
+          "type": "paragraph",
+          "text": "Return to footnote 1 referrer"
+        },
+        {
+          "type": "paragraph",
+          "text": "A gross equals the sum of the potential future credit exposures (i.e., notional principal amount of each transaction times the appropriate add-on factors from section 4.1) for all transactions subject to legally enforceable netting agreements."
+        },
+        {
+          "type": "paragraph",
+          "text": "Return to footnote 2 referrer"
+        },
+        {
+          "type": "paragraph",
+          "text": "This does not include a spot transaction that is contracted to settle within the normal settlement period."
+        },
+        {
+          "type": "paragraph",
+          "text": "Return to footnote 3 referrer"
+        }
+      ]
+    }
+  ],
+  "title_normalized": "life insurance capital adequacy test 2025 chapter 4 credit risk offbalance sheet activities",
+  "publication_type_normalized": "guideline",
+  "category_normalized": "capital_adequacy_requirements",
+  "sector_normalized": [
+    "life_insurance"
+  ],
+  "guideline_number_normalized": "",
+  "applies_to_banks": false,
+  "applies_to_trust_loan": false,
+  "applies_to_life_insurance": true,
+  "applies_to_pc_insurance": false,
+  "applies_to_foreign_bank": false,
+  "applies_to_foreign_insurance": false,
+  "applies_to_cooperative": false,
+  "applies_to_bank_holding": false,
+  "effective_date_sort_key": "2024-11-21",
+  "status_sort_key": 1,
+  "authority_sort_key": 100,
+  "bm25_text": "Life Insurance Capital Adequacy Test (2025) – Chapter 4 Credit Risk – Off-Balance Sheet Activities Guideline Capital Adequacy Requirements Life Insurance and Fraternal Companies Note 4.1. Over-the-counter derivatives contracts 4.2.1. Conditions for netting 4.2.2. Calculation of exposure Steps for determining the credit equivalent amount of netted contracts 4.3. Off-balance sheet instruments other than derivatives 4.3.1. Direct credit substitutes (100% conversion factor) 4.3.2. Repurchase and reverse repurchase agreements (100% conversion factor) 4.3.3. Forward asset purchases Footnote 3 (100% conversion factor) 4.3.4. Forward-forward deposits (100% conversion factor) 4.3.5. Partly paid shares and securities (100% conversion factor) 4.3.6. Transaction-related contingencies (50% conversion factor) 4.3.7. Trade-related contingencies (20% conversion factor) 4.4. Commitments 4.4.1. Maturity 4.4.1.1. Original maturity 4.4.1.2. Renegotiations of a commitment 4.4.2. Credit conversion factors 50% conversion factor 20% conversion factor 0% conversion factor 4.4.3.1. Undated/open-ended commitments 4.4.3.2. Evergreen commitments 4.4.3.3. Commitments drawn down in a number of tranches 4.4.3.4. Commitments for fluctuating amounts 4.4.3.5. Commitment to provide a loan with a maturity of over one year 4.4.3.6. Note issuance/revolving underwriting facilities 4.4.3.7. Commitments for off-balance sheet transactions Footnotes",
+  "vector_text_prefix": "[OSFI Guideline  | Capital Adequacy Requirements | Life Insurance and Fraternal Companies | FINAL_CURRENT | Effective 2024-11-21]",
+  "h1_title": "Life Insurance Capital Adequacy Test (2025) – Chapter 4 Credit Risk – Off-Balance Sheet Activities",
+  "regulator": "OSFI",
+  "regulator_acronym": "OSFI",
+  "jurisdiction": "Canada",
+  "short_title": "",
+  "source_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/life-insurance-capital-adequacy-test-2025-chapter-4-credit-risk-balance-sheet-activities"
+}

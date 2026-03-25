@@ -1,0 +1,422 @@
+{
+  "source_system": "osfi_guidance_library",
+  "library_row_title": "Final Revised Guideline B-20: Residential Mortgage Underwriting Practices and Procedures",
+  "library_row_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/final-revised-guideline-b-20-residential-mortgage-underwriting-practices-procedures",
+  "listing_date_raw": "October 17, 2017",
+  "listing_date_iso": "2017-10-17",
+  "listing_publication_type": "Letter",
+  "listing_category": "Sound Business and Financial Practices",
+  "listing_sector": [
+    "Banks",
+    "Foreign Bank Branches",
+    "Life Insurance and Fraternal Companies",
+    "Property and Casualty Companies",
+    "Trust and Loan Companies"
+  ],
+  "crawl_timestamp": "2026-03-11T00:00:00Z",
+  "detail_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/final-revised-guideline-b-20-residential-mortgage-underwriting-practices-procedures",
+  "canonical_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/final-revised-guideline-b-20-residential-mortgage-underwriting-practices-procedures",
+  "slug": "final-revised-guideline-b-20-residential-mortgage-underwriting-practices-procedures",
+  "title": "Final Revised Guideline B-20: Residential Mortgage Underwriting Practices and Procedures",
+  "publication_type": "Letter",
+  "category": "Sound Business and Financial Practices",
+  "document_date_raw": "October 17, 2017",
+  "document_date_iso": "2017-10-17",
+  "sector": [
+    "Banks",
+    "Foreign Bank Branches",
+    "Life Insurance and Fraternal Companies",
+    "Property and Casualty Companies",
+    "Trust and Loan Companies"
+  ],
+  "effective_date_text": "",
+  "guideline_number": "B-20",
+  "date_modified_raw": "2017-10-17T12:00:00Z",
+  "generate_pdf_url": "https://www.osfi-bsif.gc.ca/en/print/pdf/node/340",
+  "pdf_node_id": 340,
+  "direct_pdf_url": null,
+  "has_table_of_contents": true,
+  "toc_entries": [],
+  "has_related_documents": true,
+  "related_document_links_raw": [
+    {
+      "title": "Infosheet - Residential Mortgage Underwriting Practices and Procedures Guideline",
+      "url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/infosheet-residential-mortgage-underwriting-practices-procedures-guideline-b-20"
+    },
+    {
+      "title": "Mortgage Insurance",
+      "url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/mortgage-insurance"
+    }
+  ],
+  "consultation_status_text": null,
+  "consultation_status_refers_to_version": null,
+  "page_language": "en",
+  "word_count_raw_body": 2442,
+  "doc_id": "osfi.b20.transmittal",
+  "doc_family_id": "osfi.b20",
+  "version_id": "",
+  "version_label": "Final Revised Guideline B-20: Residential Mortgage Underwrit",
+  "version_sort_key": "",
+  "parent_doc_id": null,
+  "child_doc_ids": [],
+  "is_package_page": false,
+  "is_chapter_page": false,
+  "chapter_number": null,
+  "chapter_title": null,
+  "document_order_within_family": 0,
+  "supersedes_doc_id": null,
+  "superseded_by_doc_id": null,
+  "current_version_flag": true,
+  "status": "final_current",
+  "include_in_primary_corpus": false,
+  "include_in_support_corpus": true,
+  "include_in_context_corpus": false,
+  "effective_date_start": "2017-10-17",
+  "effective_date_end": null,
+  "effective_date_fye_split": false,
+  "effective_date_oct_fye": null,
+  "effective_date_dec_fye": null,
+  "is_future_effective": false,
+  "is_rescinded": false,
+  "is_draft_or_consultation": false,
+  "rescission_date": null,
+  "consultation_closing_date": null,
+  "as_of_applicability": "2026-03-23",
+  "rule_applied": "rule_5_final_current",
+  "authority_class": "official_support",
+  "authority_level": 60,
+  "nova_tier": 2,
+  "prudential_weight": 0.7,
+  "is_primary_normative": false,
+  "is_supporting_interpretive": true,
+  "is_context_only": false,
+  "document_class": "transmittal_letter",
+  "guidance_type_normalized": "letter",
+  "section_headings": [
+    {
+      "level": 2,
+      "text": "Annex",
+      "id": "h2-0"
+    }
+  ],
+  "heading_path": [
+    "Final Revised Guideline B-20: Residential Mortgage Underwriting Practices and Procedures"
+  ],
+  "toc_depth": 2,
+  "has_appendices": false,
+  "appendix_ids": [],
+  "has_tables": true,
+  "table_count": 1,
+  "has_footnotes": false,
+  "footnote_count": 0,
+  "inline_cross_references": [
+    "Guideline B-20 – Residential Mortgage Underwriting Practices and Procedure",
+    "Guideline B-20 changes"
+  ],
+  "quoted_external_references": [],
+  "raw_html_sha256": "c34c4adca687ce122af97983923dfc10b2d1e3866ec49dc9f526d461afeb5923",
+  "raw_pdf_sha256": null,
+  "normalized_text_sha256": null,
+  "raw_html_path": "bronze/osfi/html/final_current/final-revised-guideline-b-20-residential-mortgage-underwriting-practices-procedures.html",
+  "normalized_md_path": "silver/osfi/md/final_current/final-revised-guideline-b-20-residential-mortgage-underwriting-practices-procedures.md",
+  "canonical_json_path": "silver/osfi/json/final_current/final-revised-guideline-b-20-residential-mortgage-underwriting-practices-procedures.json",
+  "content_source": "HTML",
+  "parser_version": "osfi-parser-v2.1.0",
+  "normalizer_version": "osfi-normalizer-v1.4.0",
+  "quality_score": 1.0,
+  "quality_flags": [],
+  "download_timestamp": "2026-03-11T00:00:00Z",
+  "enriched_timestamp": "2026-03-23T09:53:51.563406Z",
+  "sections": [
+    {
+      "heading": "",
+      "heading_level": 2,
+      "full_text": "  - Residential mortgage underwriting practices and procedures – Guideline (2017)\n  - Infosheet - Residential Mortgage Underwriting Practices and Procedures Guideline (B-20)\n  - Mortgage Insurance\nTo: Federally-Regulated Financial Institutions (FRFIs)\nOn July 6, 2017, OSFI published a revised draft of Guideline B-20 – Residential Mortgage Underwriting Practices and Procedures . The comment period for the draft ended on August 17 and today OSFI is publishing the final version of the guideline, which comes into effect on January 1, 2018.\nOSFI received over 200 submissions from stakeholders and the public following the release of the draft. The Annex attached to this letter summarizes these submissions and OSFI’s response; thank you to everyone who provided comments.\nLead Supervisors will be in touch with FRFI’s to discuss their respective implementation plans and to address any specific questions. OSFI is also planning information seminars for FRFI’s later this fall. Details will follow.\nCarolyn Rogers Assistant Superintendent Regulation Sector",
+      "content": [
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Residential mortgage underwriting practices and procedures – Guideline (2017)"
+          ]
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Infosheet - Residential Mortgage Underwriting Practices and Procedures Guideline (B-20)",
+            "Mortgage Insurance"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "To: Federally-Regulated Financial Institutions (FRFIs)"
+        },
+        {
+          "type": "paragraph",
+          "text": "On July 6, 2017, OSFI published a revised draft of Guideline B-20 – Residential Mortgage Underwriting Practices and Procedures . The comment period for the draft ended on August 17 and today OSFI is publishing the final version of the guideline, which comes into effect on January 1, 2018."
+        },
+        {
+          "type": "paragraph",
+          "text": "OSFI received over 200 submissions from stakeholders and the public following the release of the draft. The Annex attached to this letter summarizes these submissions and OSFI’s response; thank you to everyone who provided comments."
+        },
+        {
+          "type": "paragraph",
+          "text": "Lead Supervisors will be in touch with FRFI’s to discuss their respective implementation plans and to address any specific questions. OSFI is also planning information seminars for FRFI’s later this fall. Details will follow."
+        },
+        {
+          "type": "paragraph",
+          "text": "Carolyn Rogers Assistant Superintendent Regulation Sector"
+        }
+      ]
+    },
+    {
+      "heading": "Annex",
+      "heading_level": 2,
+      "full_text": "Table: Guideline B-20: Summary of Consultation Comments and OSFI’s Responses and Revisions to the Guideline\nIndustry Comments | OSFI Response\nPurpose and Scope of the Guideline\n1. Application of Guideline: Respondents asked for clarification on the intended application of the guideline, given the proposed changes to the definition of “residential mortgage loans”. Stakeholders asked whether the change in definition from a loan to “an individual” to “a borrower” meant that certain commercial transactions were subject to the guideline. | The proposed change was intended to include retail residential mortgage loans occurring under different structures. The final version of the guideline includes revisions clarifying that it does not apply to FRFIs’ commercial lending operations.\nPrinciple 2: FRFIs’ Assessment of Borrowers’ Identity, Background and Demonstrated Willingness to Service Debt\n2. Re-qualification at Mortgage Loan Renewal: Respondents suggested that aspects of the guideline should not be applied at mortgage loan renewal, in particular, the minimum qualification rate for uninsured mortgages. | Expectations around new loan documentation and adjudication for mortgage loan renewals have not changed, and FRFIs are not expected to re-apply the qualification rate assessment to existing borrowers that are renewing mortgages. OSFI expects FRFIs will have a clearly defined risk-based approach for current and future mortgage renewals and will remain responsible for deciding what level of due diligence and review to place on borrowers’ qualifications at the time of renewal. FRFIs’ renewal practices should be articulated in internal policies governing their underwriting of residential mortgage loans.\nPrinciple 3: FRFIs’ Assessment of Borrowers’ Capacity to Service Debt\n3. Income Verification and Loan Documentation: While many respondents support the shift to \"rigorous\" income verification, some noted that it imposes a very high standard and underwriters should be permitted to apply judgement. Some also asked for more detail on the specific expectations underlying the principle. | OSFI acknowledges that “rigorous” verification implies a high standard. Income is a key factor in assessing the capacity to repay a mortgage loan, and verification of income helps to detect and deter fraud and misrepresentation. This aspect of the draft guideline has been retained and is consistent with OSFI’s principles-based approach to income verification.\n4. Minimum Qualification Rate for Uninsured Mortgages Many respondents supported the concept of a qualification rate to prudently assess borrowers’ capacity to pay, but several raised concerns around the timing, form and calibration, including: inconsistency between the qualification rates for insured and uninsured mortgages; the potential for a qualification rate of contract + 2% to incent borrowers toward variable and shorter-term fixed rate mortgages in order to reduce their contract rates and qualify for larger loans; that changes to B-20 being made too soon after other changes impacting residential mortgages. | Changes to the final guideline include the following adjustment to the minimum qualifying test “At a minimum, the qualifying rate for all uninsured mortgages should be the greater of the contractual mortgage rate plus 2% or the five-year benchmark rate published by the Bank of Canada.” The adjusted approach provides a floor intended to dampen the incentives to take variable or shorter-term fixed rate mortgages. Application of the minimum qualifying rate in the final guideline will enable access to portfolio insurance, subject to mortgage insurers’ requirements and approvals. OSFI recognizes that a number of changes have been introduced over the past 18 months. The federal government’s October 2016 qualification rate changes apply to insured mortgage loans, a different group of loans from the Guideline B-20 changes, which focus on uninsured mortgage loans.\nPrinciple 4: FRFIs’ Sound Collateral Management\n5. Restrictions on Co-Lending and Bundled Mortgages that Circumvent Limits While many respondents supported prohibiting transactions designed to circumvent regulatory requirements, some noted the proposed restriction could lead to unintended consequences including borrowers migrating to unregulated lenders. Many respondents requested that restrictions apply only to new arrangements and not existing mortgage structures. They also asked for clarity around the types of activities, transactions, and circumstances that are restricted. | The final B-20 language clarifies that: OSFI expects FRFIs to comply with any legislative requirements around arranging mortgages, including those imposed by provincial governments. The restriction applies only in limited cases, where the relevant transactions result in combined LTVs (secured against the property) that exceed the FRFI’s specific LTV limits established in its RMUP. The restriction only applies to new transactions and does not apply in cases where the other lender providing the secured funding is a municipal, territorial, provincial or the federal government.\n6. LTV Framework Limits and Property Value Adjustments: Industry members expressed concern that the guideline appeared inflexible in setting approaches to address property value risk, and that based on lenders’ existing practices, the guideline should allow for adjustment of LTV limits as an alternative approach to achieve the same outcome. Some respondents indicated challenges in defining certain market conditions (e.g., heated markets, rapid price appreciation), noting that definitions may be too broad and subjective to be applied with consistency and predictability. | OSFI has adjusted the guideline language to clarify that either: (a) LTV calculations that include valuation adjustments to specific properties, and/or (b) LTV limits that adequately incorporate the appropriate property valuation risk, can be used to determine lending thresholds. In some cases, the use of both approaches may be justified. FRFIs have discretion in how they incorporate property value risk into their LTV limit structures and/or valuation adjustments (including around measuring housing conditions or trends, such as rapid house price appreciation). The approach should be reasonable and clearly defined in their policies.\n7. The Definition of Non-Conforming Loans: The industry requested further clarity around the definition of non-conforming mortgage loans. Respondents asked whether the bulleted items (i.e., loans with insufficient income verification, loans to borrowers with low credit scores, loans to borrowers with high debt serviceability ratios, etc.) needed to all be present to define a loan as non-conforming or if the presence of any one of the bulleted items was sufficient. | OSFI has clarified the definition of non-conforming loans in the guideline as a subset of conventional mortgage loans and are broadly defined as having higher-risk attributes or deficiencies, relative to other conventional mortgages. OSFI expects FRFIs to develop and maintain a comprehensive and risk-based definition for non-conforming loans in their policies. The definition should encompass each of the types of loans identified in the guideline and should establish specific threshold limits, the breach of which, results in designating a loan as non-conforming.\n8. Implementation : Some respondents supported immediate implementation of the guideline, in light of the current environment and OSFI’s July 2016 letter regarding reinforced expectations. Others advocated delaying implementation, as the combined impact of multiple measures affecting the mortgage market could have negative economic consequences. From an operational perspective, some institutions noted they would need 3 to 6 months to properly incorporate policy changes and complete required system changes and testing. | OSFI has set January 1, 2018 as the date the guideline becomes effective. Where possible, FRFIs are expected to comply with the principles and expectations set out in this guideline as of the date of this letter.\n1. Application of Guideline:\nRespondents asked for clarification on the intended application of the guideline, given the proposed changes to the definition of “residential mortgage loans”. Stakeholders asked whether the change in definition from a loan to “an individual” to “a borrower” meant that certain commercial transactions were subject to the guideline.\nThe proposed change was intended to include retail residential mortgage loans occurring under different structures. The final version of the guideline includes revisions clarifying that it does not apply to FRFIs’ commercial lending operations.\n2. Re-qualification at Mortgage Loan Renewal:\nRespondents suggested that aspects of the guideline should not be applied at mortgage loan renewal, in particular, the minimum qualification rate for uninsured mortgages.\nExpectations around new loan documentation and adjudication for mortgage loan renewals have not changed, and FRFIs are not expected to re-apply the qualification rate assessment to existing borrowers that are renewing mortgages.\nOSFI expects FRFIs will have a clearly defined risk-based approach for current and future mortgage renewals and will remain responsible for deciding what level of due diligence and review to place on borrowers’ qualifications at the time of renewal. FRFIs’ renewal practices should be articulated in internal policies governing their underwriting of residential mortgage loans.\n3. Income Verification and Loan Documentation:\nWhile many respondents support the shift to \"rigorous\" income verification, some noted that it imposes a very high standard and underwriters should be permitted to apply judgement. Some also asked for more detail on the specific expectations underlying the principle.\nOSFI acknowledges that “rigorous” verification implies a high standard. Income is a key factor in assessing the capacity to repay a mortgage loan, and verification of income helps to detect and deter fraud and misrepresentation. This aspect of the draft guideline has been retained and is consistent with OSFI’s principles-based approach to income verification.\n4. Minimum Qualification Rate for Uninsured Mortgages\nMany respondents supported the concept of a qualification rate to prudently assess borrowers’ capacity to pay, but several raised concerns around the timing, form and calibration, including:\n  - inconsistency between the qualification rates for insured and uninsured mortgages;\n  - the potential for a qualification rate of contract + 2% to incent borrowers toward variable and shorter-term fixed rate mortgages in order to reduce their contract rates and qualify for larger loans;\n  - that changes to B-20 being made too soon after other changes impacting residential mortgages.\nChanges to the final guideline include the following adjustment to the minimum qualifying test “At a minimum, the qualifying rate for all uninsured mortgages should be the greater of the contractual mortgage rate plus 2% or the five-year benchmark rate published by the Bank of Canada.”\nThe adjusted approach provides a floor intended to dampen the incentives to take variable or shorter-term fixed rate mortgages. Application of the minimum qualifying rate in the final guideline will enable access to portfolio insurance, subject to mortgage insurers’ requirements and approvals.\nOSFI recognizes that a number of changes have been introduced over the past 18 months. The federal government’s October 2016 qualification rate changes apply to insured mortgage loans, a different group of loans from the Guideline B-20 changes, which focus on uninsured mortgage loans.\n5. Restrictions on Co-Lending and Bundled Mortgages that Circumvent Limits\nWhile many respondents supported prohibiting transactions designed to circumvent regulatory requirements, some noted the proposed restriction could lead to unintended consequences including borrowers migrating to unregulated lenders.\nMany respondents requested that restrictions apply only to new arrangements and not existing mortgage structures. They also asked for clarity around the types of activities, transactions, and circumstances that are restricted.\nThe final B-20 language clarifies that:\n  - OSFI expects FRFIs to comply with any legislative requirements around arranging mortgages, including those imposed by provincial governments.\n  - The restriction applies only in limited cases, where the relevant transactions result in combined LTVs (secured against the property) that exceed the FRFI’s specific LTV limits established in its RMUP.\nThe restriction only applies to new transactions and does not apply in cases where the other lender providing the secured funding is a municipal, territorial, provincial or the federal government.\n6. LTV Framework Limits and Property Value Adjustments:\nIndustry members expressed concern that the guideline appeared inflexible in setting approaches to address property value risk, and that based on lenders’ existing practices, the guideline should allow for adjustment of LTV limits as an alternative approach to achieve the same outcome.\nSome respondents indicated challenges in defining certain market conditions (e.g., heated markets, rapid price appreciation), noting that definitions may be too broad and subjective to be applied with consistency and predictability.\nOSFI has adjusted the guideline language to clarify that either: (a) LTV calculations that include valuation adjustments to specific properties, and/or (b) LTV limits that adequately incorporate the appropriate property valuation risk, can be used to determine lending thresholds. In some cases, the use of both approaches may be justified.\nFRFIs have discretion in how they incorporate property value risk into their LTV limit structures and/or valuation adjustments (including around measuring housing conditions or trends, such as rapid house price appreciation). The approach should be reasonable and clearly defined in their policies.\n7. The Definition of Non-Conforming Loans:\nThe industry requested further clarity around the definition of non-conforming mortgage loans.\nRespondents asked whether the bulleted items (i.e., loans with insufficient income verification, loans to borrowers with low credit scores, loans to borrowers with high debt serviceability ratios, etc.) needed to all be present to define a loan as non-conforming or if the presence of any one of the bulleted items was sufficient.\nOSFI has clarified the definition of non-conforming loans in the guideline as a subset of conventional mortgage loans and are broadly defined as having higher-risk attributes or deficiencies, relative to other conventional mortgages.\nOSFI expects FRFIs to develop and maintain a comprehensive and risk-based definition for non-conforming loans in their policies. The definition should encompass each of the types of loans identified in the guideline and should establish specific threshold limits, the breach of which, results in designating a loan as non-conforming.\n8. Implementation :\nSome respondents supported immediate implementation of the guideline, in light of the current environment and OSFI’s July 2016 letter regarding reinforced expectations. Others advocated delaying implementation, as the combined impact of multiple measures affecting the mortgage market could have negative economic consequences.\nFrom an operational perspective, some institutions noted they would need 3 to 6 months to properly incorporate policy changes and complete required system changes and testing.\nOSFI has set January 1, 2018 as the date the guideline becomes effective.\nWhere possible, FRFIs are expected to comply with the principles and expectations set out in this guideline as of the date of this letter.",
+      "content": [
+        {
+          "type": "table",
+          "caption": "Guideline B-20: Summary of Consultation Comments and OSFI’s Responses and Revisions to the Guideline",
+          "rows": [
+            [
+              "Industry Comments",
+              "OSFI Response"
+            ],
+            [
+              "Purpose and Scope of the Guideline"
+            ],
+            [
+              "1. Application of Guideline: Respondents asked for clarification on the intended application of the guideline, given the proposed changes to the definition of “residential mortgage loans”. Stakeholders asked whether the change in definition from a loan to “an individual” to “a borrower” meant that certain commercial transactions were subject to the guideline.",
+              "The proposed change was intended to include retail residential mortgage loans occurring under different structures. The final version of the guideline includes revisions clarifying that it does not apply to FRFIs’ commercial lending operations."
+            ],
+            [
+              "Principle 2: FRFIs’ Assessment of Borrowers’ Identity, Background and Demonstrated Willingness to Service Debt"
+            ],
+            [
+              "2. Re-qualification at Mortgage Loan Renewal: Respondents suggested that aspects of the guideline should not be applied at mortgage loan renewal, in particular, the minimum qualification rate for uninsured mortgages.",
+              "Expectations around new loan documentation and adjudication for mortgage loan renewals have not changed, and FRFIs are not expected to re-apply the qualification rate assessment to existing borrowers that are renewing mortgages. OSFI expects FRFIs will have a clearly defined risk-based approach for current and future mortgage renewals and will remain responsible for deciding what level of due diligence and review to place on borrowers’ qualifications at the time of renewal. FRFIs’ renewal practices should be articulated in internal policies governing their underwriting of residential mortgage loans."
+            ],
+            [
+              "Principle 3: FRFIs’ Assessment of Borrowers’ Capacity to Service Debt"
+            ],
+            [
+              "3. Income Verification and Loan Documentation: While many respondents support the shift to \"rigorous\" income verification, some noted that it imposes a very high standard and underwriters should be permitted to apply judgement. Some also asked for more detail on the specific expectations underlying the principle.",
+              "OSFI acknowledges that “rigorous” verification implies a high standard. Income is a key factor in assessing the capacity to repay a mortgage loan, and verification of income helps to detect and deter fraud and misrepresentation. This aspect of the draft guideline has been retained and is consistent with OSFI’s principles-based approach to income verification."
+            ],
+            [
+              "4. Minimum Qualification Rate for Uninsured Mortgages Many respondents supported the concept of a qualification rate to prudently assess borrowers’ capacity to pay, but several raised concerns around the timing, form and calibration, including: inconsistency between the qualification rates for insured and uninsured mortgages; the potential for a qualification rate of contract + 2% to incent borrowers toward variable and shorter-term fixed rate mortgages in order to reduce their contract rates and qualify for larger loans; that changes to B-20 being made too soon after other changes impacting residential mortgages.",
+              "Changes to the final guideline include the following adjustment to the minimum qualifying test “At a minimum, the qualifying rate for all uninsured mortgages should be the greater of the contractual mortgage rate plus 2% or the five-year benchmark rate published by the Bank of Canada.” The adjusted approach provides a floor intended to dampen the incentives to take variable or shorter-term fixed rate mortgages. Application of the minimum qualifying rate in the final guideline will enable access to portfolio insurance, subject to mortgage insurers’ requirements and approvals. OSFI recognizes that a number of changes have been introduced over the past 18 months. The federal government’s October 2016 qualification rate changes apply to insured mortgage loans, a different group of loans from the Guideline B-20 changes, which focus on uninsured mortgage loans."
+            ],
+            [
+              "Principle 4: FRFIs’ Sound Collateral Management"
+            ],
+            [
+              "5. Restrictions on Co-Lending and Bundled Mortgages that Circumvent Limits While many respondents supported prohibiting transactions designed to circumvent regulatory requirements, some noted the proposed restriction could lead to unintended consequences including borrowers migrating to unregulated lenders. Many respondents requested that restrictions apply only to new arrangements and not existing mortgage structures. They also asked for clarity around the types of activities, transactions, and circumstances that are restricted.",
+              "The final B-20 language clarifies that: OSFI expects FRFIs to comply with any legislative requirements around arranging mortgages, including those imposed by provincial governments. The restriction applies only in limited cases, where the relevant transactions result in combined LTVs (secured against the property) that exceed the FRFI’s specific LTV limits established in its RMUP. The restriction only applies to new transactions and does not apply in cases where the other lender providing the secured funding is a municipal, territorial, provincial or the federal government."
+            ],
+            [
+              "6. LTV Framework Limits and Property Value Adjustments: Industry members expressed concern that the guideline appeared inflexible in setting approaches to address property value risk, and that based on lenders’ existing practices, the guideline should allow for adjustment of LTV limits as an alternative approach to achieve the same outcome. Some respondents indicated challenges in defining certain market conditions (e.g., heated markets, rapid price appreciation), noting that definitions may be too broad and subjective to be applied with consistency and predictability.",
+              "OSFI has adjusted the guideline language to clarify that either: (a) LTV calculations that include valuation adjustments to specific properties, and/or (b) LTV limits that adequately incorporate the appropriate property valuation risk, can be used to determine lending thresholds. In some cases, the use of both approaches may be justified. FRFIs have discretion in how they incorporate property value risk into their LTV limit structures and/or valuation adjustments (including around measuring housing conditions or trends, such as rapid house price appreciation). The approach should be reasonable and clearly defined in their policies."
+            ],
+            [
+              "7. The Definition of Non-Conforming Loans: The industry requested further clarity around the definition of non-conforming mortgage loans. Respondents asked whether the bulleted items (i.e., loans with insufficient income verification, loans to borrowers with low credit scores, loans to borrowers with high debt serviceability ratios, etc.) needed to all be present to define a loan as non-conforming or if the presence of any one of the bulleted items was sufficient.",
+              "OSFI has clarified the definition of non-conforming loans in the guideline as a subset of conventional mortgage loans and are broadly defined as having higher-risk attributes or deficiencies, relative to other conventional mortgages. OSFI expects FRFIs to develop and maintain a comprehensive and risk-based definition for non-conforming loans in their policies. The definition should encompass each of the types of loans identified in the guideline and should establish specific threshold limits, the breach of which, results in designating a loan as non-conforming."
+            ],
+            [
+              "8. Implementation : Some respondents supported immediate implementation of the guideline, in light of the current environment and OSFI’s July 2016 letter regarding reinforced expectations. Others advocated delaying implementation, as the combined impact of multiple measures affecting the mortgage market could have negative economic consequences. From an operational perspective, some institutions noted they would need 3 to 6 months to properly incorporate policy changes and complete required system changes and testing.",
+              "OSFI has set January 1, 2018 as the date the guideline becomes effective. Where possible, FRFIs are expected to comply with the principles and expectations set out in this guideline as of the date of this letter."
+            ]
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "1. Application of Guideline:"
+        },
+        {
+          "type": "paragraph",
+          "text": "Respondents asked for clarification on the intended application of the guideline, given the proposed changes to the definition of “residential mortgage loans”. Stakeholders asked whether the change in definition from a loan to “an individual” to “a borrower” meant that certain commercial transactions were subject to the guideline."
+        },
+        {
+          "type": "paragraph",
+          "text": "The proposed change was intended to include retail residential mortgage loans occurring under different structures. The final version of the guideline includes revisions clarifying that it does not apply to FRFIs’ commercial lending operations."
+        },
+        {
+          "type": "paragraph",
+          "text": "2. Re-qualification at Mortgage Loan Renewal:"
+        },
+        {
+          "type": "paragraph",
+          "text": "Respondents suggested that aspects of the guideline should not be applied at mortgage loan renewal, in particular, the minimum qualification rate for uninsured mortgages."
+        },
+        {
+          "type": "paragraph",
+          "text": "Expectations around new loan documentation and adjudication for mortgage loan renewals have not changed, and FRFIs are not expected to re-apply the qualification rate assessment to existing borrowers that are renewing mortgages."
+        },
+        {
+          "type": "paragraph",
+          "text": "OSFI expects FRFIs will have a clearly defined risk-based approach for current and future mortgage renewals and will remain responsible for deciding what level of due diligence and review to place on borrowers’ qualifications at the time of renewal. FRFIs’ renewal practices should be articulated in internal policies governing their underwriting of residential mortgage loans."
+        },
+        {
+          "type": "paragraph",
+          "text": "3. Income Verification and Loan Documentation:"
+        },
+        {
+          "type": "paragraph",
+          "text": "While many respondents support the shift to \"rigorous\" income verification, some noted that it imposes a very high standard and underwriters should be permitted to apply judgement. Some also asked for more detail on the specific expectations underlying the principle."
+        },
+        {
+          "type": "paragraph",
+          "text": "OSFI acknowledges that “rigorous” verification implies a high standard. Income is a key factor in assessing the capacity to repay a mortgage loan, and verification of income helps to detect and deter fraud and misrepresentation. This aspect of the draft guideline has been retained and is consistent with OSFI’s principles-based approach to income verification."
+        },
+        {
+          "type": "paragraph",
+          "text": "4. Minimum Qualification Rate for Uninsured Mortgages"
+        },
+        {
+          "type": "paragraph",
+          "text": "Many respondents supported the concept of a qualification rate to prudently assess borrowers’ capacity to pay, but several raised concerns around the timing, form and calibration, including:"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "inconsistency between the qualification rates for insured and uninsured mortgages;",
+            "the potential for a qualification rate of contract + 2% to incent borrowers toward variable and shorter-term fixed rate mortgages in order to reduce their contract rates and qualify for larger loans;",
+            "that changes to B-20 being made too soon after other changes impacting residential mortgages."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Changes to the final guideline include the following adjustment to the minimum qualifying test “At a minimum, the qualifying rate for all uninsured mortgages should be the greater of the contractual mortgage rate plus 2% or the five-year benchmark rate published by the Bank of Canada.”"
+        },
+        {
+          "type": "paragraph",
+          "text": "The adjusted approach provides a floor intended to dampen the incentives to take variable or shorter-term fixed rate mortgages. Application of the minimum qualifying rate in the final guideline will enable access to portfolio insurance, subject to mortgage insurers’ requirements and approvals."
+        },
+        {
+          "type": "paragraph",
+          "text": "OSFI recognizes that a number of changes have been introduced over the past 18 months. The federal government’s October 2016 qualification rate changes apply to insured mortgage loans, a different group of loans from the Guideline B-20 changes, which focus on uninsured mortgage loans."
+        },
+        {
+          "type": "paragraph",
+          "text": "5. Restrictions on Co-Lending and Bundled Mortgages that Circumvent Limits"
+        },
+        {
+          "type": "paragraph",
+          "text": "While many respondents supported prohibiting transactions designed to circumvent regulatory requirements, some noted the proposed restriction could lead to unintended consequences including borrowers migrating to unregulated lenders."
+        },
+        {
+          "type": "paragraph",
+          "text": "Many respondents requested that restrictions apply only to new arrangements and not existing mortgage structures. They also asked for clarity around the types of activities, transactions, and circumstances that are restricted."
+        },
+        {
+          "type": "paragraph",
+          "text": "The final B-20 language clarifies that:"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "OSFI expects FRFIs to comply with any legislative requirements around arranging mortgages, including those imposed by provincial governments.",
+            "The restriction applies only in limited cases, where the relevant transactions result in combined LTVs (secured against the property) that exceed the FRFI’s specific LTV limits established in its RMUP."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "The restriction only applies to new transactions and does not apply in cases where the other lender providing the secured funding is a municipal, territorial, provincial or the federal government."
+        },
+        {
+          "type": "paragraph",
+          "text": "6. LTV Framework Limits and Property Value Adjustments:"
+        },
+        {
+          "type": "paragraph",
+          "text": "Industry members expressed concern that the guideline appeared inflexible in setting approaches to address property value risk, and that based on lenders’ existing practices, the guideline should allow for adjustment of LTV limits as an alternative approach to achieve the same outcome."
+        },
+        {
+          "type": "paragraph",
+          "text": "Some respondents indicated challenges in defining certain market conditions (e.g., heated markets, rapid price appreciation), noting that definitions may be too broad and subjective to be applied with consistency and predictability."
+        },
+        {
+          "type": "paragraph",
+          "text": "OSFI has adjusted the guideline language to clarify that either: (a) LTV calculations that include valuation adjustments to specific properties, and/or (b) LTV limits that adequately incorporate the appropriate property valuation risk, can be used to determine lending thresholds. In some cases, the use of both approaches may be justified."
+        },
+        {
+          "type": "paragraph",
+          "text": "FRFIs have discretion in how they incorporate property value risk into their LTV limit structures and/or valuation adjustments (including around measuring housing conditions or trends, such as rapid house price appreciation). The approach should be reasonable and clearly defined in their policies."
+        },
+        {
+          "type": "paragraph",
+          "text": "7. The Definition of Non-Conforming Loans:"
+        },
+        {
+          "type": "paragraph",
+          "text": "The industry requested further clarity around the definition of non-conforming mortgage loans."
+        },
+        {
+          "type": "paragraph",
+          "text": "Respondents asked whether the bulleted items (i.e., loans with insufficient income verification, loans to borrowers with low credit scores, loans to borrowers with high debt serviceability ratios, etc.) needed to all be present to define a loan as non-conforming or if the presence of any one of the bulleted items was sufficient."
+        },
+        {
+          "type": "paragraph",
+          "text": "OSFI has clarified the definition of non-conforming loans in the guideline as a subset of conventional mortgage loans and are broadly defined as having higher-risk attributes or deficiencies, relative to other conventional mortgages."
+        },
+        {
+          "type": "paragraph",
+          "text": "OSFI expects FRFIs to develop and maintain a comprehensive and risk-based definition for non-conforming loans in their policies. The definition should encompass each of the types of loans identified in the guideline and should establish specific threshold limits, the breach of which, results in designating a loan as non-conforming."
+        },
+        {
+          "type": "paragraph",
+          "text": "8. Implementation :"
+        },
+        {
+          "type": "paragraph",
+          "text": "Some respondents supported immediate implementation of the guideline, in light of the current environment and OSFI’s July 2016 letter regarding reinforced expectations. Others advocated delaying implementation, as the combined impact of multiple measures affecting the mortgage market could have negative economic consequences."
+        },
+        {
+          "type": "paragraph",
+          "text": "From an operational perspective, some institutions noted they would need 3 to 6 months to properly incorporate policy changes and complete required system changes and testing."
+        },
+        {
+          "type": "paragraph",
+          "text": "OSFI has set January 1, 2018 as the date the guideline becomes effective."
+        },
+        {
+          "type": "paragraph",
+          "text": "Where possible, FRFIs are expected to comply with the principles and expectations set out in this guideline as of the date of this letter."
+        }
+      ]
+    }
+  ],
+  "title_normalized": "final revised guideline b20 residential mortgage underwriting practices and procedures",
+  "publication_type_normalized": "letter",
+  "category_normalized": "sound_business_and_financial_practices",
+  "sector_normalized": [
+    "banks",
+    "foreign_bank_branches",
+    "life_insurance",
+    "pc_insurance",
+    "trust_and_loan_companies"
+  ],
+  "guideline_number_normalized": "B20",
+  "applies_to_banks": true,
+  "applies_to_trust_loan": true,
+  "applies_to_life_insurance": true,
+  "applies_to_pc_insurance": true,
+  "applies_to_foreign_bank": true,
+  "applies_to_foreign_insurance": false,
+  "applies_to_cooperative": false,
+  "applies_to_bank_holding": false,
+  "effective_date_sort_key": "2017-10-17",
+  "status_sort_key": 1,
+  "authority_sort_key": 60,
+  "bm25_text": "Final Revised Guideline B-20: Residential Mortgage Underwriting Practices and Procedures B-20 Letter Sound Business and Financial Practices Banks Foreign Bank Branches Life Insurance and Fraternal Companies Property and Casualty Companies Trust and Loan Companies Annex",
+  "vector_text_prefix": "[OSFI Letter B-20 | Sound Business and Financial Practices | Banks / Foreign Bank Branches / Life Insurance and Fraternal Companies | FINAL_CURRENT | Effective 2017-10-17]",
+  "h1_title": "Final Revised Guideline B-20: Residential Mortgage Underwriting Practices and Procedures",
+  "regulator": "OSFI",
+  "regulator_acronym": "OSFI",
+  "jurisdiction": "Canada",
+  "short_title": "B-20",
+  "source_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/final-revised-guideline-b-20-residential-mortgage-underwriting-practices-procedures"
+}

@@ -1,0 +1,1518 @@
+{
+  "source_system": "osfi_guidance_library",
+  "library_row_title": "Substantial Investments",
+  "library_row_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/substantial-investments",
+  "listing_date_raw": "June 30, 2015",
+  "listing_date_iso": "2015-06-30",
+  "listing_publication_type": "Regulatory and legislative advisory",
+  "listing_category": "Regulatory and legislative",
+  "listing_sector": [
+    "Bank Act",
+    "Cooperative Credit Associations Act",
+    "Insurance Companies Act",
+    "Trust and Loan Companies Act"
+  ],
+  "crawl_timestamp": "2026-03-11T00:00:00Z",
+  "detail_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/substantial-investments",
+  "canonical_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/substantial-investments",
+  "slug": "substantial-investments",
+  "title": "Substantial Investments",
+  "publication_type": "Regulatory and legislative advisory",
+  "category": "Regulatory and legislative",
+  "document_date_raw": "June 30, 2015",
+  "document_date_iso": "2015-06-30",
+  "sector": [
+    "Bank Act",
+    "Cooperative Credit Associations Act",
+    "Insurance Companies Act",
+    "Trust and Loan Companies Act"
+  ],
+  "effective_date_text": "",
+  "guideline_number": "",
+  "date_modified_raw": "2015-06-30T12:00:00Z",
+  "generate_pdf_url": "https://www.osfi-bsif.gc.ca/en/print/pdf/node/513",
+  "pdf_node_id": 513,
+  "direct_pdf_url": null,
+  "has_table_of_contents": true,
+  "toc_entries": [],
+  "has_related_documents": false,
+  "related_document_links_raw": [],
+  "consultation_status_text": null,
+  "consultation_status_refers_to_version": null,
+  "page_language": "en",
+  "word_count_raw_body": 9893,
+  "doc_id": "osfi.substantial-investments.advisory",
+  "doc_family_id": "osfi.substantial-investments",
+  "version_id": "",
+  "version_label": "Substantial Investments",
+  "version_sort_key": "",
+  "parent_doc_id": null,
+  "child_doc_ids": [],
+  "is_package_page": false,
+  "is_chapter_page": false,
+  "chapter_number": null,
+  "chapter_title": null,
+  "document_order_within_family": 0,
+  "supersedes_doc_id": null,
+  "superseded_by_doc_id": null,
+  "current_version_flag": true,
+  "status": "final_current",
+  "include_in_primary_corpus": true,
+  "include_in_support_corpus": false,
+  "include_in_context_corpus": false,
+  "effective_date_start": "2015-06-30",
+  "effective_date_end": null,
+  "effective_date_fye_split": false,
+  "effective_date_oct_fye": null,
+  "effective_date_dec_fye": null,
+  "is_future_effective": false,
+  "is_rescinded": false,
+  "is_draft_or_consultation": false,
+  "rescission_date": null,
+  "consultation_closing_date": null,
+  "as_of_applicability": "2026-03-23",
+  "rule_applied": "rule_5_final_current",
+  "authority_class": "primary_normative",
+  "authority_level": 100,
+  "nova_tier": 1,
+  "prudential_weight": 1.0,
+  "is_primary_normative": true,
+  "is_supporting_interpretive": false,
+  "is_context_only": false,
+  "document_class": "advisory",
+  "guidance_type_normalized": "regulatory_and_legislative_advisory",
+  "section_headings": [
+    {
+      "level": 2,
+      "text": "Introduction",
+      "id": "h2-0"
+    },
+    {
+      "level": 2,
+      "text": "Section 1. Fundamental Rules and Concepts",
+      "id": "h2-1"
+    },
+    {
+      "level": 3,
+      "text": "1.1 Prudent Person Rule",
+      "id": "h3-2"
+    },
+    {
+      "level": 3,
+      "text": "1.2 Equity Limit Rules",
+      "id": "h3-3"
+    },
+    {
+      "level": 3,
+      "text": "1.3 Concepts of Substantial Investment and Control",
+      "id": "h3-4"
+    },
+    {
+      "level": 2,
+      "text": "Section 2. General Prohibition and Categories of Substantial Investments",
+      "id": "h2-5"
+    },
+    {
+      "level": 2,
+      "text": "Section 3. Investments in PEs Footnote 17",
+      "id": "h2-6"
+    },
+    {
+      "level": 3,
+      "text": "3.1 Authorized and Restricted Business Activities – OEs",
+      "id": "h3-7"
+    },
+    {
+      "level": 4,
+      "text": "3.1.1 Authorized Business Activities",
+      "id": "h4-8"
+    },
+    {
+      "level": 4,
+      "text": "3.1.2 Restricted Business Activities",
+      "id": "h4-9"
+    },
+    {
+      "level": 3,
+      "text": "3.2 Control Requirement",
+      "id": "h3-10"
+    },
+    {
+      "level": 4,
+      "text": "3.3.1 Investments in other FREs",
+      "id": "h4-11"
+    },
+    {
+      "level": 4,
+      "text": "3.3.2 Investments in PFFIs and Certain OEs",
+      "id": "h4-12"
+    },
+    {
+      "level": 4,
+      "text": "3.3.3 Giving up Control While Retaining a Substantial Investment",
+      "id": "h4-13"
+    },
+    {
+      "level": 4,
+      "text": "3.3.4 Exceptions to Approval Requirement",
+      "id": "h4-14"
+    },
+    {
+      "level": 2,
+      "text": "Section 4. Investments via RE Subsidiaries Footnote 44",
+      "id": "h2-15"
+    },
+    {
+      "level": 2,
+      "text": "Section 5. Investments Held for a Limited Period of Time Footnote 47",
+      "id": "h2-16"
+    },
+    {
+      "level": 2,
+      "text": "Section 6. Specialized Financing Investments Footnote 49",
+      "id": "h2-17"
+    },
+    {
+      "level": 2,
+      "text": "Section 7. Changes in Categories of Substantial Investments",
+      "id": "h2-18"
+    },
+    {
+      "level": 3,
+      "text": "7.1. Reclassification",
+      "id": "h3-19"
+    },
+    {
+      "level": 3,
+      "text": "7.2 Change in the Business or Affairs of the Entity",
+      "id": "h3-20"
+    },
+    {
+      "level": 2,
+      "text": "Section 8. Notification Requests",
+      "id": "h2-21"
+    },
+    {
+      "level": 3,
+      "text": "8.1 Notification of acquisition or increase that does not require approval",
+      "id": "h3-22"
+    },
+    {
+      "level": 3,
+      "text": "8.2 Notification of reclassification as a temporary investment",
+      "id": "h3-23"
+    },
+    {
+      "level": 2,
+      "text": "Footnotes",
+      "id": "h2-24"
+    }
+  ],
+  "heading_path": [
+    "Substantial Investments"
+  ],
+  "toc_depth": 4,
+  "has_appendices": false,
+  "appendix_ids": [],
+  "has_tables": false,
+  "table_count": 0,
+  "has_footnotes": false,
+  "footnote_count": 0,
+  "inline_cross_references": [
+    "Guideline B-1 – Prudent Person Approach"
+  ],
+  "quoted_external_references": [],
+  "raw_html_sha256": "ed8d6d267634b53f06db271a190ce5f8be0a4a3e42acf44aa51a522868332d9d",
+  "raw_pdf_sha256": null,
+  "normalized_text_sha256": null,
+  "raw_html_path": "bronze/osfi/html/final_current/substantial-investments.html",
+  "normalized_md_path": "silver/osfi/md/final_current/substantial-investments.md",
+  "canonical_json_path": "silver/osfi/json/final_current/substantial-investments.json",
+  "content_source": "HTML",
+  "parser_version": "osfi-parser-v2.1.0",
+  "normalizer_version": "osfi-normalizer-v1.4.0",
+  "quality_score": 1.0,
+  "quality_flags": [],
+  "download_timestamp": "2026-03-11T00:00:00Z",
+  "enriched_timestamp": "2026-03-23T09:54:00.346280Z",
+  "sections": [
+    {
+      "heading": "",
+      "heading_level": 2,
+      "full_text": "Advisories describe how OSFI administers and interprets provisions of existing legislation, regulations or guidelines, or provide OSFI’s position regarding certain policy issues. Advisories are not law; readers should refer to the relevant provisions of the legislation, regulation or guideline, including any amendments that came into effect subsequent to the Advisory’s publication, when considering the relevancy of the Advisory.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Advisories describe how OSFI administers and interprets provisions of existing legislation, regulations or guidelines, or provide OSFI’s position regarding certain policy issues. Advisories are not law; readers should refer to the relevant provisions of the legislation, regulation or guideline, including any amendments that came into effect subsequent to the Advisory’s publication, when considering the relevancy of the Advisory."
+        }
+      ]
+    },
+    {
+      "heading": "Introduction",
+      "heading_level": 2,
+      "full_text": "This Advisory provides an overview of how the Office of the Superintendent of Financial Institutions (OSFI) administers and interprets the substantial investment regimes set out in the following statutes (individually, a Statute; collectively, the Statutes) as well as related regulations:\n  1. the Bank Act (the BA);\n  2. the Insurance Companies Act (the ICA);\n  3. the Trust and Loan Companies Act (the TLCA); and\n  4. the Cooperative Credit Associations Act (the CCAA).\nThese investment regimes apply to federally regulated financial institutions Footnote 1 , bank holding companies (BHCs), insurance holding companies (IHCs) and provincial companies Footnote 2 . These investment regimes, however, do not apply with respect to the assets of segregated funds maintained by life companies and fraternal benefit societies. Footnote 3 As a result, investments via segregated funds are outside the scope of this Advisory. Since the Statutes contain no investment regime specifically applicable to foreign insurance companies, and since the BA’s investment regime applicable to foreign banks and entities associated with a foreign bank (other than FREs, as defined below) is addressed in Advisory 2006-01-R1 , investments by these entities are also outside the scope of this Advisory.\nThis Advisory supersedes Advisories 2003-05, 2003-06, 2003-07 and 2003-08.\nExcept where stated otherwise, in this Advisory:\nFRE stands for “federally regulated entity”. FREs consist of federally regulated financial institutions, BHCs and IHCs. In addition, references in this Advisory to investments by (rather than in ) FREs include investments by provincial companies.\nMinority Investment Regulations stands for Minority Investment Regulations made under each of the Statutes.\nOE stands for “other entity”, which is an entity that is not an RE.\nPE stands for “permitted entity”. The Statutes define a PE as an entity in which an FRE is permitted to acquire a substantial investment under section 468 or 930 of the BA, section 495, 554 or 971 of the ICA, section 453 of the TLCA, or section 390 of the CCAA. Footnote 4 In OSFI’s view, an entity is a PE once all applicable approval and other requirements contained in those sections are satisfied with respect to the entity.\nPFFI stands for “provincially or foreign regulated financial institution”. Footnote 5\nRE stands for “regulated entity”. REs consist of FREs and PFFIs.\nSpecialized Financing Regulations stands for Specialized Financing Regulations made under each of the Statutes.\nOverview:\nThe Statutes impose a prudent person standard and equity acquisition limits on FREs with respect to their investments. The Statutes also impose parameters on FREs with respect to their acquisitions of control Footnote 6 of, and acquisitions and increases of substantial investments Footnote 7 in, entities. An FRE acquires control of an entity if the FRE acquires control in law or control in fact of the entity.In essence, an FRE acquires a substantial investment in an entity if the FRE, directly or via a subsidiary Footnote 8 , acquires over:\n  1. 10 per cent of the voting shares of an incorporated entity; or\n  2. 25 per cent of the ownership interests of an incorporated or an unincorporated entity. All of the above is discussed in Section 1 of the Advisory.\nGenerally, an FRE may only acquire control of, or acquire or increase a substantial investment in, entities falling within one of four categories (this is discussed in Section 2 of the Advisory). These four categories are as follows:\n  1. PEs (this category, which is subject to approval and other requirements in certain cases, is discussed in Section 3 of the Advisory);\n  2. entities whose shares or ownership interests are held via an RE that is a subsidiary of the FRE (this category is discussed in Section 4 of the Advisory);\n  3. entities whose shares or ownership interests are held for the limited period of time specified by the Statute that applies to the FRE (this category is discussed in Section 5 of the Advisory); and\n  4. entities whose shares or ownership interests are held in accordance with the Specialized Financing Regulations that apply to the FRE Footnote 9 (this category is discussed in Section 6 of the Advisory).\nWhere an FRE holds an investment under one category, it may reclassify that investment under another category, subject to meeting all applicable requirements of that other category (this is discussed in Section 7 of the Advisory). Where an FRE seeks to acquire control of, or acquire or increase a substantial investment in, an entity for which no approval is required, an FRE may be requested to notify OSFI (this is discussed in Section 8 of the Advisory).",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "This Advisory provides an overview of how the Office of the Superintendent of Financial Institutions (OSFI) administers and interprets the substantial investment regimes set out in the following statutes (individually, a Statute; collectively, the Statutes) as well as related regulations:"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "the Bank Act (the BA);",
+            "the Insurance Companies Act (the ICA);",
+            "the Trust and Loan Companies Act (the TLCA); and",
+            "the Cooperative Credit Associations Act (the CCAA)."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "These investment regimes apply to federally regulated financial institutions Footnote 1 , bank holding companies (BHCs), insurance holding companies (IHCs) and provincial companies Footnote 2 . These investment regimes, however, do not apply with respect to the assets of segregated funds maintained by life companies and fraternal benefit societies. Footnote 3 As a result, investments via segregated funds are outside the scope of this Advisory. Since the Statutes contain no investment regime specifically applicable to foreign insurance companies, and since the BA’s investment regime applicable to foreign banks and entities associated with a foreign bank (other than FREs, as defined below) is addressed in Advisory 2006-01-R1 , investments by these entities are also outside the scope of this Advisory."
+        },
+        {
+          "type": "paragraph",
+          "text": "This Advisory supersedes Advisories 2003-05, 2003-06, 2003-07 and 2003-08."
+        },
+        {
+          "type": "paragraph",
+          "text": "Except where stated otherwise, in this Advisory:"
+        },
+        {
+          "type": "paragraph",
+          "text": "FRE stands for “federally regulated entity”. FREs consist of federally regulated financial institutions, BHCs and IHCs. In addition, references in this Advisory to investments by (rather than in ) FREs include investments by provincial companies."
+        },
+        {
+          "type": "paragraph",
+          "text": "Minority Investment Regulations stands for Minority Investment Regulations made under each of the Statutes."
+        },
+        {
+          "type": "paragraph",
+          "text": "OE stands for “other entity”, which is an entity that is not an RE."
+        },
+        {
+          "type": "paragraph",
+          "text": "PE stands for “permitted entity”. The Statutes define a PE as an entity in which an FRE is permitted to acquire a substantial investment under section 468 or 930 of the BA, section 495, 554 or 971 of the ICA, section 453 of the TLCA, or section 390 of the CCAA. Footnote 4 In OSFI’s view, an entity is a PE once all applicable approval and other requirements contained in those sections are satisfied with respect to the entity."
+        },
+        {
+          "type": "paragraph",
+          "text": "PFFI stands for “provincially or foreign regulated financial institution”. Footnote 5"
+        },
+        {
+          "type": "paragraph",
+          "text": "RE stands for “regulated entity”. REs consist of FREs and PFFIs."
+        },
+        {
+          "type": "paragraph",
+          "text": "Specialized Financing Regulations stands for Specialized Financing Regulations made under each of the Statutes."
+        },
+        {
+          "type": "paragraph",
+          "text": "Overview:"
+        },
+        {
+          "type": "paragraph",
+          "text": "The Statutes impose a prudent person standard and equity acquisition limits on FREs with respect to their investments. The Statutes also impose parameters on FREs with respect to their acquisitions of control Footnote 6 of, and acquisitions and increases of substantial investments Footnote 7 in, entities. An FRE acquires control of an entity if the FRE acquires control in law or control in fact of the entity.In essence, an FRE acquires a substantial investment in an entity if the FRE, directly or via a subsidiary Footnote 8 , acquires over:"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "10 per cent of the voting shares of an incorporated entity; or",
+            "25 per cent of the ownership interests of an incorporated or an unincorporated entity. All of the above is discussed in Section 1 of the Advisory."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Generally, an FRE may only acquire control of, or acquire or increase a substantial investment in, entities falling within one of four categories (this is discussed in Section 2 of the Advisory). These four categories are as follows:"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "PEs (this category, which is subject to approval and other requirements in certain cases, is discussed in Section 3 of the Advisory);",
+            "entities whose shares or ownership interests are held via an RE that is a subsidiary of the FRE (this category is discussed in Section 4 of the Advisory);",
+            "entities whose shares or ownership interests are held for the limited period of time specified by the Statute that applies to the FRE (this category is discussed in Section 5 of the Advisory); and",
+            "entities whose shares or ownership interests are held in accordance with the Specialized Financing Regulations that apply to the FRE Footnote 9 (this category is discussed in Section 6 of the Advisory)."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Where an FRE holds an investment under one category, it may reclassify that investment under another category, subject to meeting all applicable requirements of that other category (this is discussed in Section 7 of the Advisory). Where an FRE seeks to acquire control of, or acquire or increase a substantial investment in, an entity for which no approval is required, an FRE may be requested to notify OSFI (this is discussed in Section 8 of the Advisory)."
+        }
+      ]
+    },
+    {
+      "heading": "Section 1. Fundamental Rules and Concepts",
+      "heading_level": 2,
+      "full_text": "The following rules may apply, and the following concepts do apply, to investments addressed in this Advisory.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "The following rules may apply, and the following concepts do apply, to investments addressed in this Advisory."
+        }
+      ]
+    },
+    {
+      "heading": "1.1 Prudent Person Rule",
+      "heading_level": 3,
+      "full_text": "FREs must adhere to investment policies, standards and procedures that a reasonable and prudent person would apply in respect of a portfolio of investments and loans to avoid undue risk of loss and obtain a reasonable return. Footnote 10",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "FREs must adhere to investment policies, standards and procedures that a reasonable and prudent person would apply in respect of a portfolio of investments and loans to avoid undue risk of loss and obtain a reasonable return. Footnote 10"
+        }
+      ]
+    },
+    {
+      "heading": "1.2 Equity Limit Rules",
+      "heading_level": 3,
+      "full_text": "The Statutes impose equity and aggregate limits with respect to FREs’ investment portfolios as a whole (substantial investments and otherwise). Footnote 11",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "The Statutes impose equity and aggregate limits with respect to FREs’ investment portfolios as a whole (substantial investments and otherwise). Footnote 11"
+        }
+      ]
+    },
+    {
+      "heading": "1.3 Concepts of Substantial Investment and Control",
+      "heading_level": 3,
+      "full_text": "The Statutes define both “substantial investment” Footnote 12 and “control” Footnote 13 .\nAn FRE has a substantial investment in a body corporate if the aggregate of:\n  1. the voting rights attached to any of the voting shares of the body corporate beneficially owned by the FRE and any of its subsidiaries exceeds 10 per cent of the voting rights attached to all of the outstanding voting shares of the body corporate; or\n  2. any shares (voting and non-voting) of the body corporate beneficially owned by the FRE and any of its subsidiaries represents ownership of greater than 25 per cent of the shareholders’ equity of the body corporate.\nAn FRE has a substantial investment in an unincorporated entity if the aggregate of any ownership interests beneficially owned by the FRE and its subsidiaries exceeds 25 per cent of all of the ownership interests into which the entity is divided.\nUnder the Statutes, the term “control” includes both “control in law” (also known as de jure or legal control) and “control in fact” (also known as de facto control). Footnote 14",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "The Statutes define both “substantial investment” Footnote 12 and “control” Footnote 13 ."
+        },
+        {
+          "type": "paragraph",
+          "text": "An FRE has a substantial investment in a body corporate if the aggregate of:"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "the voting rights attached to any of the voting shares of the body corporate beneficially owned by the FRE and any of its subsidiaries exceeds 10 per cent of the voting rights attached to all of the outstanding voting shares of the body corporate; or",
+            "any shares (voting and non-voting) of the body corporate beneficially owned by the FRE and any of its subsidiaries represents ownership of greater than 25 per cent of the shareholders’ equity of the body corporate."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "An FRE has a substantial investment in an unincorporated entity if the aggregate of any ownership interests beneficially owned by the FRE and its subsidiaries exceeds 25 per cent of all of the ownership interests into which the entity is divided."
+        },
+        {
+          "type": "paragraph",
+          "text": "Under the Statutes, the term “control” includes both “control in law” (also known as de jure or legal control) and “control in fact” (also known as de facto control). Footnote 14"
+        }
+      ]
+    },
+    {
+      "heading": "Section 2. General Prohibition and Categories of Substantial Investments",
+      "heading_level": 2,
+      "full_text": "Generally, an FRE cannot acquire control of, or acquire or increase a substantial investment in, any entity except an entity falling within one of the following four categories Footnote 15 :\n  1. a PE;\n  2. an entity whose shares or ownership interests are held via an RE that is a subsidiary of the FRE;\n  3. an entity whose shares or ownership interests are held for the limited period of time specified by the Statute that applies to the FRE; and\n  4. an entity whose shares or ownership interests are held in accordance with the Specialized Financing Regulations that apply to the FRE Footnote 16 .\nAn examination of each of these four categories follows.\nPractice Points – Categories of Substantial Investments\n  - Where an investment in an entity meets the requirements of one of the four categories above, it is not required to meet the requirements of another category. For example, if a trust company seeks to acquire, by way of category (d) above (i.e., specialized financing), a substantial investment in an OE whose sole business activity is providing information technology services, the trust company does not also need to meet the requirement of category (a) above (i.e., the Minister’s approval).\n  - Where an FRE holds an investment under one category above, it may reclassify that investment under another category, subject to meeting all applicable requirements of that other category. Reclassifications are addressed in greater detail in Subsection 7.1 of the Advisory.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Generally, an FRE cannot acquire control of, or acquire or increase a substantial investment in, any entity except an entity falling within one of the following four categories Footnote 15 :"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "a PE;",
+            "an entity whose shares or ownership interests are held via an RE that is a subsidiary of the FRE;",
+            "an entity whose shares or ownership interests are held for the limited period of time specified by the Statute that applies to the FRE; and",
+            "an entity whose shares or ownership interests are held in accordance with the Specialized Financing Regulations that apply to the FRE Footnote 16 ."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "An examination of each of these four categories follows."
+        },
+        {
+          "type": "paragraph",
+          "text": "Practice Points – Categories of Substantial Investments"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Where an investment in an entity meets the requirements of one of the four categories above, it is not required to meet the requirements of another category. For example, if a trust company seeks to acquire, by way of category (d) above (i.e., specialized financing), a substantial investment in an OE whose sole business activity is providing information technology services, the trust company does not also need to meet the requirement of category (a) above (i.e., the Minister’s approval).",
+            "Where an FRE holds an investment under one category above, it may reclassify that investment under another category, subject to meeting all applicable requirements of that other category. Reclassifications are addressed in greater detail in Subsection 7.1 of the Advisory."
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "Section 3. Investments in PEs Footnote 17",
+      "heading_level": 2,
+      "full_text": "A PE is a type of entity that an FRE may control, or in which an FRE may hold a substantial investment, on a permanent basis. Footnote 18 Permanency is generally a benefit that the PE and “investments via RE subsidiaries” categories have over the other categories. In addition, and in contrast to all other categories, shares of, or ownership interests in, PEs in which an FRE has a substantial investment are exempt from the equity acquisition limits. Footnote 19\nPEs may be broadly classified as follows:\n  1. REs Footnote 20 ; and\n  2. OEs that are financial intermediaries (i.e., entities that engage in financial intermediary activities that expose the entity to material market or credit risk), Footnote 21 financial agents, investment holding entities, non-financial services entities, or prescribed entities.\n  1. financial intermediaries (i.e., entities that engage in financial intermediary activities that expose the entity to material market or credit risk), Footnote 21\n  2. financial agents,\n  3. investment holding entities,\n  4. non-financial services entities, or\n  5. prescribed entities.\nFurthermore, one or more of the following three requirements may apply before an entity may be classified as a PE:\n  1. where the entity is an OE, the requirement that each of its business activities be authorized, and not restricted, by the applicable Statute;\n  2. the requirement for the FRE to control the entity, except where the Minority Investment Regulations that apply to the FRE permit otherwise; and\n  3. the requirement for the FRE to obtain the Minister’s or the Superintendent’s approval.\nAdditional details regarding the categories of PEs, and related requirements, are provided in:\nA.1 for banks and BHCs ; A.2 for life companies and IHCs ; A.3 for property and casualty companies and marine companies ; A.4 for fraternal benefit societies ; A.5 for trust and loan companies ; A.6 for associations .\nThe following is an examination of each of the three PE classification requirements referred to above.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "A PE is a type of entity that an FRE may control, or in which an FRE may hold a substantial investment, on a permanent basis. Footnote 18 Permanency is generally a benefit that the PE and “investments via RE subsidiaries” categories have over the other categories. In addition, and in contrast to all other categories, shares of, or ownership interests in, PEs in which an FRE has a substantial investment are exempt from the equity acquisition limits. Footnote 19"
+        },
+        {
+          "type": "paragraph",
+          "text": "PEs may be broadly classified as follows:"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "REs Footnote 20 ; and",
+            "OEs that are financial intermediaries (i.e., entities that engage in financial intermediary activities that expose the entity to material market or credit risk), Footnote 21 financial agents, investment holding entities, non-financial services entities, or prescribed entities."
+          ]
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "financial intermediaries (i.e., entities that engage in financial intermediary activities that expose the entity to material market or credit risk), Footnote 21",
+            "financial agents,",
+            "investment holding entities,",
+            "non-financial services entities, or",
+            "prescribed entities."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Furthermore, one or more of the following three requirements may apply before an entity may be classified as a PE:"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "where the entity is an OE, the requirement that each of its business activities be authorized, and not restricted, by the applicable Statute;",
+            "the requirement for the FRE to control the entity, except where the Minority Investment Regulations that apply to the FRE permit otherwise; and",
+            "the requirement for the FRE to obtain the Minister’s or the Superintendent’s approval."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Additional details regarding the categories of PEs, and related requirements, are provided in:"
+        },
+        {
+          "type": "paragraph",
+          "text": "A.1 for banks and BHCs ; A.2 for life companies and IHCs ; A.3 for property and casualty companies and marine companies ; A.4 for fraternal benefit societies ; A.5 for trust and loan companies ; A.6 for associations ."
+        },
+        {
+          "type": "paragraph",
+          "text": "The following is an examination of each of the three PE classification requirements referred to above."
+        }
+      ]
+    },
+    {
+      "heading": "3.1 Authorized and Restricted Business Activities – OEs",
+      "heading_level": 3,
+      "full_text": "In contrast to the RE category, the OE category is entirely based on the type(s) of business activities that the entity carries on. An FRE may only acquire control of, or acquire or increase a substantial investment in, an OE, as a PE, where all of the OE’s business activities are authorized, Footnote 22 and not restricted Footnote 23 , by the applicable Statute.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "In contrast to the RE category, the OE category is entirely based on the type(s) of business activities that the entity carries on. An FRE may only acquire control of, or acquire or increase a substantial investment in, an OE, as a PE, where all of the OE’s business activities are authorized, Footnote 22 and not restricted Footnote 23 , by the applicable Statute."
+        }
+      ]
+    },
+    {
+      "heading": "3.1.1 Authorized Business Activities",
+      "heading_level": 4,
+      "full_text": "Authorized business activities generally include activities that the FRE itself may undertake (including acquiring control of, or substantial investments in, entities). Authorized business activities also include providing any services to the FRE or members of the FRE’s group, activities related to the marketing of financial products by certain entities, and activities of a mutual fund entity or a closed-end fund. With regard to an OE that is not actively engaged in a business activity, OSFI is of the view that such an OE:\n  1. established with a view to carry on a prospective business activity, or to become an RE, may be acquired and held as a PE that carries on such activity, or as a PE that is an RE, so long as: the entity’s prospective business activity is clearly identified at the time the FRE acquires control of, or a substantial investment in, the entity, the entity takes the actions necessary toward commencing that business activity or obtaining its RE status, and the FRE complies with any applicable approval or other PE requirement discussed below that relates to the entity’s prospective business activity or prospective RE status;\n  2. in which an FRE holds control or a substantial investment as a PE, but that has ceased to actively engage in a business activity and is taking the actions necessary for its dissolution may continue to be held as a PE that carries on such activity; and\n  3. with no current or clearly identified prospective business activities (a so called “shelf” entity) cannot be acquired or held as a PE. Footnote 24\n  1. the entity’s prospective business activity is clearly identified at the time the FRE acquires control of, or a substantial investment in, the entity,\n  2. the entity takes the actions necessary toward commencing that business activity or obtaining its RE status, and\n  3. the FRE complies with any applicable approval or other PE requirement discussed below that relates to the entity’s prospective business activity or prospective RE status;",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Authorized business activities generally include activities that the FRE itself may undertake (including acquiring control of, or substantial investments in, entities). Authorized business activities also include providing any services to the FRE or members of the FRE’s group, activities related to the marketing of financial products by certain entities, and activities of a mutual fund entity or a closed-end fund. With regard to an OE that is not actively engaged in a business activity, OSFI is of the view that such an OE:"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "established with a view to carry on a prospective business activity, or to become an RE, may be acquired and held as a PE that carries on such activity, or as a PE that is an RE, so long as: the entity’s prospective business activity is clearly identified at the time the FRE acquires control of, or a substantial investment in, the entity, the entity takes the actions necessary toward commencing that business activity or obtaining its RE status, and the FRE complies with any applicable approval or other PE requirement discussed below that relates to the entity’s prospective business activity or prospective RE status;",
+            "in which an FRE holds control or a substantial investment as a PE, but that has ceased to actively engage in a business activity and is taking the actions necessary for its dissolution may continue to be held as a PE that carries on such activity; and",
+            "with no current or clearly identified prospective business activities (a so called “shelf” entity) cannot be acquired or held as a PE. Footnote 24"
+          ]
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "the entity’s prospective business activity is clearly identified at the time the FRE acquires control of, or a substantial investment in, the entity,",
+            "the entity takes the actions necessary toward commencing that business activity or obtaining its RE status, and",
+            "the FRE complies with any applicable approval or other PE requirement discussed below that relates to the entity’s prospective business activity or prospective RE status;"
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "3.1.2 Restricted Business Activities",
+      "heading_level": 4,
+      "full_text": "Restricted business activities are generally the same as ones the FRE itself may not undertake. These activities include Footnote 25 :\n  1. certain personal property leasing in Canada;\n  2. uninsured high ratio residential mortgage lending in Canada;\n  3. acting as a trustee in Canada, unless the OE acts as a trustee only with respect to a closed-end fund or a mutual fund entity, in accordance with provincial laws;\n  4. dealing in securities, except as may be permitted to the FRE, a mutual fund entity, a mutual fund distribution entity or a closed-end fund;\n  5. insurance business, where both the FRE is not governed by the ICA, and the OE engages in the activities of a finance entity;\n  6. in the case of a property and casualty company, a marine company and a fraternal benefit society, either financial intermediary activities that expose the OE to material market or credit risk, or the activities of a specialized financing entity;\n  7. acquiring control of, or acquiring or holding a substantial investment in, another entity unless: in the case of an OE that will be controlled by the FRE, the FRE itself would be permitted to acquire a substantial investment in the other entity, or in the case of an OE that will not be controlled by the FRE, the FRE itself would be permitted to acquire a substantial investment in the other entity as either: a PE, without regard to any approval or control requirement Footnote 26 , an “investment via an RE subsidiary” (see Section 4 below for more information), an entity whose shares or ownership interests are held for a limited period of time as a result of either a loan workout or the realization of a security interest (see Section 5 below for more information), or an entity whose shares or ownership interests are held in accordance with the Specialized Financing Regulations Footnote 27 (see Section 6 below for more information); and\n  8. the business of accepting deposit liabilities.\n  1. the FRE is not governed by the ICA, and\n  2. the OE engages in the activities of a finance entity;\n  1. financial intermediary activities that expose the OE to material market or credit risk, or\n  2. the activities of a specialized financing entity;\n  1. in the case of an OE that will be controlled by the FRE, the FRE itself would be permitted to acquire a substantial investment in the other entity, or\n  2. in the case of an OE that will not be controlled by the FRE, the FRE itself would be permitted to acquire a substantial investment in the other entity as either: a PE, without regard to any approval or control requirement Footnote 26 , an “investment via an RE subsidiary” (see Section 4 below for more information), an entity whose shares or ownership interests are held for a limited period of time as a result of either a loan workout or the realization of a security interest (see Section 5 below for more information), or an entity whose shares or ownership interests are held in accordance with the Specialized Financing Regulations Footnote 27 (see Section 6 below for more information); and\n  1. a PE, without regard to any approval or control requirement Footnote 26 ,\n  2. an “investment via an RE subsidiary” (see Section 4 below for more information),\n  3. an entity whose shares or ownership interests are held for a limited period of time as a result of either a loan workout or the realization of a security interest (see Section 5 below for more information), or\n  4. an entity whose shares or ownership interests are held in accordance with the Specialized Financing Regulations Footnote 27 (see Section 6 below for more information); and\nAs long as an FRE controls, or holds a substantial investment in, an OE, the OE’s business activities are subject to these restrictions.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Restricted business activities are generally the same as ones the FRE itself may not undertake. These activities include Footnote 25 :"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "certain personal property leasing in Canada;",
+            "uninsured high ratio residential mortgage lending in Canada;",
+            "acting as a trustee in Canada, unless the OE acts as a trustee only with respect to a closed-end fund or a mutual fund entity, in accordance with provincial laws;",
+            "dealing in securities, except as may be permitted to the FRE, a mutual fund entity, a mutual fund distribution entity or a closed-end fund;",
+            "insurance business, where both the FRE is not governed by the ICA, and the OE engages in the activities of a finance entity;",
+            "in the case of a property and casualty company, a marine company and a fraternal benefit society, either financial intermediary activities that expose the OE to material market or credit risk, or the activities of a specialized financing entity;",
+            "acquiring control of, or acquiring or holding a substantial investment in, another entity unless: in the case of an OE that will be controlled by the FRE, the FRE itself would be permitted to acquire a substantial investment in the other entity, or in the case of an OE that will not be controlled by the FRE, the FRE itself would be permitted to acquire a substantial investment in the other entity as either: a PE, without regard to any approval or control requirement Footnote 26 , an “investment via an RE subsidiary” (see Section 4 below for more information), an entity whose shares or ownership interests are held for a limited period of time as a result of either a loan workout or the realization of a security interest (see Section 5 below for more information), or an entity whose shares or ownership interests are held in accordance with the Specialized Financing Regulations Footnote 27 (see Section 6 below for more information); and",
+            "the business of accepting deposit liabilities."
+          ]
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "the FRE is not governed by the ICA, and",
+            "the OE engages in the activities of a finance entity;"
+          ]
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "financial intermediary activities that expose the OE to material market or credit risk, or",
+            "the activities of a specialized financing entity;"
+          ]
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "in the case of an OE that will be controlled by the FRE, the FRE itself would be permitted to acquire a substantial investment in the other entity, or",
+            "in the case of an OE that will not be controlled by the FRE, the FRE itself would be permitted to acquire a substantial investment in the other entity as either: a PE, without regard to any approval or control requirement Footnote 26 , an “investment via an RE subsidiary” (see Section 4 below for more information), an entity whose shares or ownership interests are held for a limited period of time as a result of either a loan workout or the realization of a security interest (see Section 5 below for more information), or an entity whose shares or ownership interests are held in accordance with the Specialized Financing Regulations Footnote 27 (see Section 6 below for more information); and"
+          ]
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "a PE, without regard to any approval or control requirement Footnote 26 ,",
+            "an “investment via an RE subsidiary” (see Section 4 below for more information),",
+            "an entity whose shares or ownership interests are held for a limited period of time as a result of either a loan workout or the realization of a security interest (see Section 5 below for more information), or",
+            "an entity whose shares or ownership interests are held in accordance with the Specialized Financing Regulations Footnote 27 (see Section 6 below for more information); and"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "As long as an FRE controls, or holds a substantial investment in, an OE, the OE’s business activities are subject to these restrictions."
+        }
+      ]
+    },
+    {
+      "heading": "3.2 Control Requirement",
+      "heading_level": 3,
+      "full_text": "An FRE must generally control in fact the following entities in order to hold them under the PE category:\n  1. an RE;\n  2. an investment holding entity Footnote 28 ; or\n  3. a finance entity Footnote 29 , factoring entity Footnote 30 , financial leasing entity Footnote 31 or any other OE that engages in financial intermediary activities that expose the OE to material market or credit risk Footnote 32 .\nThe FRE need not control in fact the entity, however, if the FRE complies with the Minority Investment Regulations that apply to it, which limit substantial investments in such entities (including loans to, and guarantees made with respect to, such entities) to a total of 50 per cent of regulatory capital. If the entity is a foreign entity, and the laws or customary business practices of the foreign country do not allow the FRE to control the entity, the FRE may still acquire a substantial investment in that entity where the investment exceeds the FRE’s minority investment limit. Footnote 33 In such a case, however, the FRE must include the investment when calculating its minority investment limit with respect to future acquisitions.\nIn addition, the Statutes require FREs, in the course of, or within a reasonable time after, acquiring control of a PE (other than an FRE), to obtain from the PE an undertaking to provide the Superintendent with reasonable access to the PE’s records. Footnote 34",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "An FRE must generally control in fact the following entities in order to hold them under the PE category:"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "an RE;",
+            "an investment holding entity Footnote 28 ; or",
+            "a finance entity Footnote 29 , factoring entity Footnote 30 , financial leasing entity Footnote 31 or any other OE that engages in financial intermediary activities that expose the OE to material market or credit risk Footnote 32 ."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "The FRE need not control in fact the entity, however, if the FRE complies with the Minority Investment Regulations that apply to it, which limit substantial investments in such entities (including loans to, and guarantees made with respect to, such entities) to a total of 50 per cent of regulatory capital. If the entity is a foreign entity, and the laws or customary business practices of the foreign country do not allow the FRE to control the entity, the FRE may still acquire a substantial investment in that entity where the investment exceeds the FRE’s minority investment limit. Footnote 33 In such a case, however, the FRE must include the investment when calculating its minority investment limit with respect to future acquisitions."
+        },
+        {
+          "type": "paragraph",
+          "text": "In addition, the Statutes require FREs, in the course of, or within a reasonable time after, acquiring control of a PE (other than an FRE), to obtain from the PE an undertaking to provide the Superintendent with reasonable access to the PE’s records. Footnote 34"
+        }
+      ]
+    },
+    {
+      "heading": "3.3.1 Investments in other FREs",
+      "heading_level": 4,
+      "full_text": "An FRE that seeks to acquire control, or acquire or increase a significant interest Footnote 35 in any class of shares, of another FRE must generally obtain the Minister’s approval to do so under the target FRE’s ownership regime. Footnote 36 The acquirer’s investment regime, on the other hand, does not impose any substantial investment or control related approval in such a circumstance.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "An FRE that seeks to acquire control, or acquire or increase a significant interest Footnote 35 in any class of shares, of another FRE must generally obtain the Minister’s approval to do so under the target FRE’s ownership regime. Footnote 36 The acquirer’s investment regime, on the other hand, does not impose any substantial investment or control related approval in such a circumstance."
+        }
+      ]
+    },
+    {
+      "heading": "3.3.2 Investments in PFFIs and Certain OEs",
+      "heading_level": 4,
+      "full_text": "Where an FRE seeks to acquire control of, or acquire or increase a substantial investment in one of the following two entities, as a PE, the FRE must generally obtain the Superintendent’s approval Footnote 37 :\n  1. a PFFI; or\n  2. an OE that engages in financial intermediary activities that expose the OE to material market or credit risk. Footnote 38\nIn certain circumstances, the acquisition of control of, or acquisition or increase of a substantial investment in, a PFFI or an OE described in (b) above, as a PE, instead requires the approval of the Minister. This is the case, for example, where an FRE seeks to acquire control of a PFFI or such an OE (other than a factoring entity or financial leasing entity) from an unrelated FRE, and where a large FRE seeks to acquire control of a large foreign regulated financial institution.\nApprovals tied to investments in PFFIs and such OEs allow OSFI to consider, among other things, whether the proposed investment will expose the FRE to undue risk, hinder OSFI’s ability to supervise the FRE or hinder the effective implementation of corrective measures in the future. In addition, as it relates to acquisitions of control of PFFIs, the approval process allows OSFI to consider the regulatory framework under which a PFFI operates, with a view to, among other things, understand how and to what extent the FRE could, going forward, make investments via the PFFI (these types of investments are discussed in Section 4 below). If prudential issues are identified, the Superintendent may enter into an agreement with the home regulator concerning the activities of the PFFI. Footnote 39 In addition, where an FRE acquires control of a PFFI, the Superintendent may require the FRE to provide undertakings regarding such entity. Footnote 40 The Minister’s approval is also generally required for an FRE to acquire control of, or acquire or increase a substantial investment in, as a PE, an OE that engages in information processing or technology activities, or non-financial activities that relate to the marketing of financial products by certain entities.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Where an FRE seeks to acquire control of, or acquire or increase a substantial investment in one of the following two entities, as a PE, the FRE must generally obtain the Superintendent’s approval Footnote 37 :"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "a PFFI; or",
+            "an OE that engages in financial intermediary activities that expose the OE to material market or credit risk. Footnote 38"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "In certain circumstances, the acquisition of control of, or acquisition or increase of a substantial investment in, a PFFI or an OE described in (b) above, as a PE, instead requires the approval of the Minister. This is the case, for example, where an FRE seeks to acquire control of a PFFI or such an OE (other than a factoring entity or financial leasing entity) from an unrelated FRE, and where a large FRE seeks to acquire control of a large foreign regulated financial institution."
+        },
+        {
+          "type": "paragraph",
+          "text": "Approvals tied to investments in PFFIs and such OEs allow OSFI to consider, among other things, whether the proposed investment will expose the FRE to undue risk, hinder OSFI’s ability to supervise the FRE or hinder the effective implementation of corrective measures in the future. In addition, as it relates to acquisitions of control of PFFIs, the approval process allows OSFI to consider the regulatory framework under which a PFFI operates, with a view to, among other things, understand how and to what extent the FRE could, going forward, make investments via the PFFI (these types of investments are discussed in Section 4 below). If prudential issues are identified, the Superintendent may enter into an agreement with the home regulator concerning the activities of the PFFI. Footnote 39 In addition, where an FRE acquires control of a PFFI, the Superintendent may require the FRE to provide undertakings regarding such entity. Footnote 40 The Minister’s approval is also generally required for an FRE to acquire control of, or acquire or increase a substantial investment in, as a PE, an OE that engages in information processing or technology activities, or non-financial activities that relate to the marketing of financial products by certain entities."
+        }
+      ]
+    },
+    {
+      "heading": "3.3.3 Giving up Control While Retaining a Substantial Investment",
+      "heading_level": 4,
+      "full_text": "As discussed in Subsection 3.2 above, subject to complying with the minority investment limits, an FRE may generally only acquire a substantial investment in:\n  1. an RE;\n  2. an investment holding entity; or\n  3. an OE that engages in financial intermediary activities that expose the OE to material marketor credit risk;\nif the FRE also acquires control in fact of the entity.\nWhere an FRE controls in fact such an entity and seeks to give up control while keeping a substantial investment in the entity, the FRE generally requires the Superintendent’s approval to do so Footnote 41 .",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "As discussed in Subsection 3.2 above, subject to complying with the minority investment limits, an FRE may generally only acquire a substantial investment in:"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "an RE;",
+            "an investment holding entity; or",
+            "an OE that engages in financial intermediary activities that expose the OE to material marketor credit risk;"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "if the FRE also acquires control in fact of the entity."
+        },
+        {
+          "type": "paragraph",
+          "text": "Where an FRE controls in fact such an entity and seeks to give up control while keeping a substantial investment in the entity, the FRE generally requires the Superintendent’s approval to do so Footnote 41 ."
+        }
+      ]
+    },
+    {
+      "heading": "3.3.4 Exceptions to Approval Requirement",
+      "heading_level": 4,
+      "full_text": "No PE-related approval is required under the investment regime for an FRE to, among other things,\n  1. increase a substantial investment in an entity where the FRE already controls in law the entity Footnote 42 ; or\n  2. acquire control of, or acquire or increase a substantial investment in, an OE that engages in financial intermediary activities that expose the OE to material market or credit risk, where those activities are limited to providing services exclusively to the FRE or members of the FRE’s group Footnote 43 .\nPractice Points – Investments in PEs\n  - Where an FRE seeks to acquire control of, or acquire or increase a substantial investment in, an OE, as a PE, the FRE must first examine whether each of the OE’s business activities are authorized, and not restricted, by the applicable Statute.\n  - Where an FRE seeks to acquire control of, or acquire or increase a substantial investment in, an RE or an OE, as a PE, the FRE must also examine whether it is (a) required to control the entity, and obtain the Minister's or the Superintendent's approval, and (b) requested to notify its OSFI Relationship Manager, as discussed in Section 8 of the Advisory.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "No PE-related approval is required under the investment regime for an FRE to, among other things,"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "increase a substantial investment in an entity where the FRE already controls in law the entity Footnote 42 ; or",
+            "acquire control of, or acquire or increase a substantial investment in, an OE that engages in financial intermediary activities that expose the OE to material market or credit risk, where those activities are limited to providing services exclusively to the FRE or members of the FRE’s group Footnote 43 ."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Practice Points – Investments in PEs"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Where an FRE seeks to acquire control of, or acquire or increase a substantial investment in, an OE, as a PE, the FRE must first examine whether each of the OE’s business activities are authorized, and not restricted, by the applicable Statute.",
+            "Where an FRE seeks to acquire control of, or acquire or increase a substantial investment in, an RE or an OE, as a PE, the FRE must also examine whether it is (a) required to control the entity, and obtain the Minister's or the Superintendent's approval, and (b) requested to notify its OSFI Relationship Manager, as discussed in Section 8 of the Advisory."
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "Section 4. Investments via RE Subsidiaries Footnote 44",
+      "heading_level": 2,
+      "full_text": "The Statutes provide that where an FRE controls, or acquires control of, an RE, the FRE may, through the RE, acquire control of, or acquire or increase a substantial investment in, any entity other than a foreign regulated financial institution (an Indirect Entity). Footnote 45\nAn FRE may acquire control, or acquire or increase a substantial investment in, an Indirect Entity in either of the following ways:\n  1. the FRE acquires control of an RE that already holds control of, or a substantial investment in, the Indirect Entity; or\n  2. following the FRE’s acquisition of control of the RE, the RE acquires control of, or acquires or increases a substantial investment in, the Indirect Entity by way of an acquisition of shares of, or ownership interests in, the Indirect Entity.\nSimilarly to a PE, an FRE may hold control of, or a substantial investment in, an Indirect Entity on a permanent basis (subject to the RE’s investment regime). In contrast to the PE category, however, the FREs’ investment regimes generally do not impose any approval, control or authorized business activity requirements, or business activity restrictions, with regard to Indirect Entities (the RE’s investment regime, however, may do so). Where an Indirect Entity acquisition transaction is greater than 10 per cent of the FRE’s assets, however, that transaction may be subject to the Superintendent’s approval. Footnote 46 In addition, as discussed in Paragraph 3.3.2. above, the RE’s investment activities may be constrained by undertakings concerning the RE that its FRE parent provided to the Superintendent.\nPractice Points – Investments via RE Subsidiaries\n  - An FRE must be mindful of any undertakings that may constrain its ability to acquire Indirect Entities.\n  - Where an FRE seeks to acquire control of, or acquire or increase a substantial investment in, an Indirect Entity, the FRE may be requested to notify its OSFI Relationship Manager, as discussed in Section 8 of the Advisory.\n  - An FRE cannot acquire control of, or acquire or increase a substantial investment in, a foreign regulated financial institution under this category.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "The Statutes provide that where an FRE controls, or acquires control of, an RE, the FRE may, through the RE, acquire control of, or acquire or increase a substantial investment in, any entity other than a foreign regulated financial institution (an Indirect Entity). Footnote 45"
+        },
+        {
+          "type": "paragraph",
+          "text": "An FRE may acquire control, or acquire or increase a substantial investment in, an Indirect Entity in either of the following ways:"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "the FRE acquires control of an RE that already holds control of, or a substantial investment in, the Indirect Entity; or",
+            "following the FRE’s acquisition of control of the RE, the RE acquires control of, or acquires or increases a substantial investment in, the Indirect Entity by way of an acquisition of shares of, or ownership interests in, the Indirect Entity."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Similarly to a PE, an FRE may hold control of, or a substantial investment in, an Indirect Entity on a permanent basis (subject to the RE’s investment regime). In contrast to the PE category, however, the FREs’ investment regimes generally do not impose any approval, control or authorized business activity requirements, or business activity restrictions, with regard to Indirect Entities (the RE’s investment regime, however, may do so). Where an Indirect Entity acquisition transaction is greater than 10 per cent of the FRE’s assets, however, that transaction may be subject to the Superintendent’s approval. Footnote 46 In addition, as discussed in Paragraph 3.3.2. above, the RE’s investment activities may be constrained by undertakings concerning the RE that its FRE parent provided to the Superintendent."
+        },
+        {
+          "type": "paragraph",
+          "text": "Practice Points – Investments via RE Subsidiaries"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "An FRE must be mindful of any undertakings that may constrain its ability to acquire Indirect Entities.",
+            "Where an FRE seeks to acquire control of, or acquire or increase a substantial investment in, an Indirect Entity, the FRE may be requested to notify its OSFI Relationship Manager, as discussed in Section 8 of the Advisory.",
+            "An FRE cannot acquire control of, or acquire or increase a substantial investment in, a foreign regulated financial institution under this category."
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "Section 5. Investments Held for a Limited Period of Time Footnote 47",
+      "heading_level": 2,
+      "full_text": "The Statutes allow an FRE to acquire control of, or acquire or increase a substantial investment in, any entity, provided that the FRE, within the applicable period of time:\n  1. does all things necessary to ensure it no longer controls, or no longer holds a substantial investment in, the entity;\n  2. obtains the necessary approval under this category to retain control of, or a substantial investment in, the entity for a longer or indeterminate period of time; or\n  3. reclassifies the investment from this category to another category, subject to meeting all applicable requirements of that other category. Reclassifications are addressed in greater detail in Subsection 7.1 of the Advisory.\nInvestments held for a limited period of time are categorized as follows:\n  1. temporary investments;\n  2. loan workouts; and\n  3. realization of security interests.\nDetails regarding these three categories, and related permitted holding periods, are provided in:\nB.1 for banks and BHCs ; B.2 for life companies and IHCs ; B.3 for property and casualty companies and marine companies ; B.4 for fraternal benefit societies ; B.5 for trust and loan companies ; B.6 for associations .\nPractice Points – Investments Held for a Limited Period of Time\n  - Where an FRE seeks to retain control of, or a substantial investment in, an entity acquired under this category for an indeterminate period of time, OSFI generally recommends that the FRE request an approval to reclassify the investment under the PE category, with a view to impose, in a more efficient manner, PE-related requirements with regard to that entity. Footnote 48\n  - Where an FRE reclassifies an investment as a temporary investment, the FRE is requested to notify the Director, Precedents Unit (Regulatory Affairs Division), as discussed in Section 8 of the Advisory.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "The Statutes allow an FRE to acquire control of, or acquire or increase a substantial investment in, any entity, provided that the FRE, within the applicable period of time:"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "does all things necessary to ensure it no longer controls, or no longer holds a substantial investment in, the entity;",
+            "obtains the necessary approval under this category to retain control of, or a substantial investment in, the entity for a longer or indeterminate period of time; or",
+            "reclassifies the investment from this category to another category, subject to meeting all applicable requirements of that other category. Reclassifications are addressed in greater detail in Subsection 7.1 of the Advisory."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Investments held for a limited period of time are categorized as follows:"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "temporary investments;",
+            "loan workouts; and",
+            "realization of security interests."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Details regarding these three categories, and related permitted holding periods, are provided in:"
+        },
+        {
+          "type": "paragraph",
+          "text": "B.1 for banks and BHCs ; B.2 for life companies and IHCs ; B.3 for property and casualty companies and marine companies ; B.4 for fraternal benefit societies ; B.5 for trust and loan companies ; B.6 for associations ."
+        },
+        {
+          "type": "paragraph",
+          "text": "Practice Points – Investments Held for a Limited Period of Time"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Where an FRE seeks to retain control of, or a substantial investment in, an entity acquired under this category for an indeterminate period of time, OSFI generally recommends that the FRE request an approval to reclassify the investment under the PE category, with a view to impose, in a more efficient manner, PE-related requirements with regard to that entity. Footnote 48",
+            "Where an FRE reclassifies an investment as a temporary investment, the FRE is requested to notify the Director, Precedents Unit (Regulatory Affairs Division), as discussed in Section 8 of the Advisory."
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "Section 6. Specialized Financing Investments Footnote 49",
+      "heading_level": 2,
+      "full_text": "The Statutes generally allow an FRE to acquire control of, or acquire or increase a substantial investment in, any entity, where the FRE does so in accordance with the Specialized Financing Regulations that apply to it. Footnote 50 For purposes of this Advisory, acquisitions made under this authority are referred to as “specialized investments.” The power to make such specialized investments enhances FREs’ ability to carry on their merchant banking or venture capital activities.\nBanks, life companies, trust and loan companies and retail associations may make specialized investments directly or through a specialized financing entity Footnote 51 (an SFE). BHCs, IHCs and associations other than retail associations may do so only through an SFE.\nIn essence, the Specialized Financing Regulations impose the following constraints:\n  - Non-permitted investments: An FRE may make specialized investments in any entity other than: an RE; an entity that is engaged primarily in the leasing of motor vehicles in Canada for the purpose of extending credit to a customer or financing a customer’s acquisition of a motor vehicle; an entity that is engaged primarily in providing temporary possession of personal property, including motor vehicles, to customers in Canada for a purpose other than to finance the customer’s acquisition of the property; or an entity acting as an insurance broker or agent in Canada.\n  - Holding period: The length of time that an FRE or an SFE may hold control of, or a substantial investment in, an entity by way of a specialized investment is limited to thirteen consecutive years.\n  1. an RE;\n  2. an entity that is engaged primarily in the leasing of motor vehicles in Canada for the purpose of extending credit to a customer or financing a customer’s acquisition of a motor vehicle;\n  3. an entity that is engaged primarily in providing temporary possession of personal property, including motor vehicles, to customers in Canada for a purpose other than to finance the customer’s acquisition of the property; or\n  4. an entity acting as an insurance broker or agent in Canada.\n  - Equity limit: The total book value of all shares or ownership interests that an FRE and any of its subsidiaries (including SFEs) may hold in an entity by way of a specialized investment shall not exceed $250 million.\n  - Exposure limit to all SFEs and in-house specialized financing activities: With respect to a bank, a life, trust or loan company, and a retail association, the sum of the following shall not exceed 10 per cent of the FRE’s regulatory capital: the aggregate book value of the shares or ownership interests held by the FRE and its subsidiaries in entities in which the FRE has itself made a specialized investment; the aggregate book value of the shares or ownership interests held by the FRE and its subsidiaries in SFEs; and the aggregate value of outstanding loans made by the FRE and its subsidiaries to SFEs. With respect to a BHC, an IHC or an association other than a retail association, the sum of the aggregate book value of the shares or ownership interests held by the FRE and its subsidiaries in SFEs, and of the aggregate value of outstanding loans made by the FRE and its subsidiaries to SFEs shall not exceed 10 per cent of the FRE’s regulatory capital.\n  - the aggregate book value of the shares or ownership interests held by the FRE and its subsidiaries in entities in which the FRE has itself made a specialized investment;\n  - the aggregate book value of the shares or ownership interests held by the FRE and its subsidiaries in SFEs; and\n  - the aggregate value of outstanding loans made by the FRE and its subsidiaries to SFEs.\nWith respect to a BHC, an IHC or an association other than a retail association, the sum of the aggregate book value of the shares or ownership interests held by the FRE and its subsidiaries in SFEs, and of the aggregate value of outstanding loans made by the FRE and its subsidiaries to SFEs shall not exceed 10 per cent of the FRE’s regulatory capital.\n  - Exposure limit to each SFE and its downstream entities Footnote 52 : The sum of the aggregate book value of the shares or ownership interests held by the FRE and its subsidiaries in an SFE and its downstream entities and of the aggregate value of outstanding loans made by the FRE and its subsidiaries to the SFE and its downstream entities shall not exceed 25 per cent of the FRE’s regulatory capital.\n  - Exposure limit to in-house specialized financing activities: The sum of the aggregate book value of all shares or ownership interests held by the FRE and its subsidiaries in entities in which the FRE has itself made a specialized investment and of the aggregate value of all outstanding loans made by the FRE and its subsidiaries to these entities shall not exceed 25 per cent of the FRE’s regulatory capital.\n  - Leverage limit: An SFE that is controlled by an FRE, or in which an FRE has a substantial investment, shall not have outstanding debts to persons, other than the FRE and its subsidiaries, that exceed two times its equity.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "The Statutes generally allow an FRE to acquire control of, or acquire or increase a substantial investment in, any entity, where the FRE does so in accordance with the Specialized Financing Regulations that apply to it. Footnote 50 For purposes of this Advisory, acquisitions made under this authority are referred to as “specialized investments.” The power to make such specialized investments enhances FREs’ ability to carry on their merchant banking or venture capital activities."
+        },
+        {
+          "type": "paragraph",
+          "text": "Banks, life companies, trust and loan companies and retail associations may make specialized investments directly or through a specialized financing entity Footnote 51 (an SFE). BHCs, IHCs and associations other than retail associations may do so only through an SFE."
+        },
+        {
+          "type": "paragraph",
+          "text": "In essence, the Specialized Financing Regulations impose the following constraints:"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Non-permitted investments: An FRE may make specialized investments in any entity other than: an RE; an entity that is engaged primarily in the leasing of motor vehicles in Canada for the purpose of extending credit to a customer or financing a customer’s acquisition of a motor vehicle; an entity that is engaged primarily in providing temporary possession of personal property, including motor vehicles, to customers in Canada for a purpose other than to finance the customer’s acquisition of the property; or an entity acting as an insurance broker or agent in Canada.",
+            "Holding period: The length of time that an FRE or an SFE may hold control of, or a substantial investment in, an entity by way of a specialized investment is limited to thirteen consecutive years."
+          ]
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "an RE;",
+            "an entity that is engaged primarily in the leasing of motor vehicles in Canada for the purpose of extending credit to a customer or financing a customer’s acquisition of a motor vehicle;",
+            "an entity that is engaged primarily in providing temporary possession of personal property, including motor vehicles, to customers in Canada for a purpose other than to finance the customer’s acquisition of the property; or",
+            "an entity acting as an insurance broker or agent in Canada."
+          ]
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Equity limit: The total book value of all shares or ownership interests that an FRE and any of its subsidiaries (including SFEs) may hold in an entity by way of a specialized investment shall not exceed $250 million."
+          ]
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Exposure limit to all SFEs and in-house specialized financing activities: With respect to a bank, a life, trust or loan company, and a retail association, the sum of the following shall not exceed 10 per cent of the FRE’s regulatory capital: the aggregate book value of the shares or ownership interests held by the FRE and its subsidiaries in entities in which the FRE has itself made a specialized investment; the aggregate book value of the shares or ownership interests held by the FRE and its subsidiaries in SFEs; and the aggregate value of outstanding loans made by the FRE and its subsidiaries to SFEs. With respect to a BHC, an IHC or an association other than a retail association, the sum of the aggregate book value of the shares or ownership interests held by the FRE and its subsidiaries in SFEs, and of the aggregate value of outstanding loans made by the FRE and its subsidiaries to SFEs shall not exceed 10 per cent of the FRE’s regulatory capital."
+          ]
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "the aggregate book value of the shares or ownership interests held by the FRE and its subsidiaries in entities in which the FRE has itself made a specialized investment;",
+            "the aggregate book value of the shares or ownership interests held by the FRE and its subsidiaries in SFEs; and",
+            "the aggregate value of outstanding loans made by the FRE and its subsidiaries to SFEs."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "With respect to a BHC, an IHC or an association other than a retail association, the sum of the aggregate book value of the shares or ownership interests held by the FRE and its subsidiaries in SFEs, and of the aggregate value of outstanding loans made by the FRE and its subsidiaries to SFEs shall not exceed 10 per cent of the FRE’s regulatory capital."
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Exposure limit to each SFE and its downstream entities Footnote 52 : The sum of the aggregate book value of the shares or ownership interests held by the FRE and its subsidiaries in an SFE and its downstream entities and of the aggregate value of outstanding loans made by the FRE and its subsidiaries to the SFE and its downstream entities shall not exceed 25 per cent of the FRE’s regulatory capital."
+          ]
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Exposure limit to in-house specialized financing activities: The sum of the aggregate book value of all shares or ownership interests held by the FRE and its subsidiaries in entities in which the FRE has itself made a specialized investment and of the aggregate value of all outstanding loans made by the FRE and its subsidiaries to these entities shall not exceed 25 per cent of the FRE’s regulatory capital."
+          ]
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Leverage limit: An SFE that is controlled by an FRE, or in which an FRE has a substantial investment, shall not have outstanding debts to persons, other than the FRE and its subsidiaries, that exceed two times its equity."
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "Section 7. Changes in Categories of Substantial Investments",
+      "heading_level": 2,
+      "full_text": "Despite having acquired control of, or acquired or increased a substantial investment in, an entity under a particular category, an FRE may retain control of, or its substantial investment in, that entity under another category in two circumstances.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Despite having acquired control of, or acquired or increased a substantial investment in, an entity under a particular category, an FRE may retain control of, or its substantial investment in, that entity under another category in two circumstances."
+        }
+      ]
+    },
+    {
+      "heading": "7.1. Reclassification",
+      "heading_level": 3,
+      "full_text": "Where an FRE holds an investment under one category, it may reclassify that investment under another category, subject to meeting all applicable requirements of that other category. Footnote 53 Where an FRE does so, the FRE is deemed to have acquired, effective as of the day of the reclassification, control of, or a substantial investment in, the entity under the other category. Footnote 54 For example, where a bank, as a specialized investment, controls in fact an OE whose sole business activity consists of making consumer loans, and the bank now wishes to hold that entity as a PE, the bank may do so, subject to meeting the applicable PE requirements prior to actually making the reclassification. In the current example, this means the bank must obtain the Superintendent’s approval (see class 2(c) in Appendix A.1 for more information).",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Where an FRE holds an investment under one category, it may reclassify that investment under another category, subject to meeting all applicable requirements of that other category. Footnote 53 Where an FRE does so, the FRE is deemed to have acquired, effective as of the day of the reclassification, control of, or a substantial investment in, the entity under the other category. Footnote 54 For example, where a bank, as a specialized investment, controls in fact an OE whose sole business activity consists of making consumer loans, and the bank now wishes to hold that entity as a PE, the bank may do so, subject to meeting the applicable PE requirements prior to actually making the reclassification. In the current example, this means the bank must obtain the Superintendent’s approval (see class 2(c) in Appendix A.1 for more information)."
+        }
+      ]
+    },
+    {
+      "heading": "7.2 Change in the Business or Affairs of the Entity",
+      "heading_level": 3,
+      "full_text": "Where an FRE holds control of, or a substantial investment in, a PE and the FRE becomes aware of a change in the business or affairs of the entity that causes the entity to no longer be a PE, the FRE is deemed to have acquired the shares of, or ownership interests in, the entity as a temporary investment. Footnote 55 This is the case, for example, where a life company, which holds a substantial investment in an OE whose business activity consists of providing investment counselling services, becomes aware that the OE has begun providing information processing services in Canada to entities outside the life company’s group. In such a case, assuming the life company wishes to continue to hold its substantial investment in the entity for an indeterminate period of time, the life company has the option of:\n  1. reclassifying the investment under the PE category, subject to obtaining the Minister’s approval (see class 5(a) in Appendix A.2 for more information); or\n  2. seeking the Minister’s approval to retain the investment for an indeterminate period of time under the temporary investment provision (see Appendix B.2 for more information).\nOSFI would generally recommend that the life company (and any other FRE, as the case may be) choose option (a) above. Footnote 56",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Where an FRE holds control of, or a substantial investment in, a PE and the FRE becomes aware of a change in the business or affairs of the entity that causes the entity to no longer be a PE, the FRE is deemed to have acquired the shares of, or ownership interests in, the entity as a temporary investment. Footnote 55 This is the case, for example, where a life company, which holds a substantial investment in an OE whose business activity consists of providing investment counselling services, becomes aware that the OE has begun providing information processing services in Canada to entities outside the life company’s group. In such a case, assuming the life company wishes to continue to hold its substantial investment in the entity for an indeterminate period of time, the life company has the option of:"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "reclassifying the investment under the PE category, subject to obtaining the Minister’s approval (see class 5(a) in Appendix A.2 for more information); or",
+            "seeking the Minister’s approval to retain the investment for an indeterminate period of time under the temporary investment provision (see Appendix B.2 for more information)."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "OSFI would generally recommend that the life company (and any other FRE, as the case may be) choose option (a) above. Footnote 56"
+        }
+      ]
+    },
+    {
+      "heading": "Section 8. Notification Requests",
+      "heading_level": 2,
+      "full_text": "OSFI requests to be notified in the circumstances and the manner described below.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "OSFI requests to be notified in the circumstances and the manner described below."
+        }
+      ]
+    },
+    {
+      "heading": "8.1 Notification of acquisition or increase that does not require approval",
+      "heading_level": 3,
+      "full_text": "OSFI’s supervisory work includes identifying material risk to an FRE. Material risk may arise where an FRE acquires control of, or acquires or increases a substantial investment in, an entity, including where no related approval applies to the FRE. As a result, each FRE is requested to notify promptly its OSFI Relationship Manager where both of these elements are present:\n  1. the FRE seeks to acquire control of, or acquire or increase a substantial investment in, an entity for which no approval is required under the applicable Statute; and\n  2. the acquisition or increase will be material Footnote 57 to, or will present a significant change in the business strategy of, the FRE.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "OSFI’s supervisory work includes identifying material risk to an FRE. Material risk may arise where an FRE acquires control of, or acquires or increases a substantial investment in, an entity, including where no related approval applies to the FRE. As a result, each FRE is requested to notify promptly its OSFI Relationship Manager where both of these elements are present:"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "the FRE seeks to acquire control of, or acquire or increase a substantial investment in, an entity for which no approval is required under the applicable Statute; and",
+            "the acquisition or increase will be material Footnote 57 to, or will present a significant change in the business strategy of, the FRE."
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "8.2 Notification of reclassification as a temporary investment",
+      "heading_level": 3,
+      "full_text": "An FRE that reclassifies a controlling or substantial investment as a temporary investment is requested to notify promptly the Director, Precedents Unit (Regulatory Affairs Division) of this reclassification at the following coordinates, and to provide the Director with an outline of the FRE’s future plans for such investment.\nOffice of the Superintendent of Financial Institutions 15th Floor, 255 Albert Street Ottawa, Ontario K1A 0H2 Facsimile: (613) 991-0325 Email: approvals-approbations@osfi-bsif.gc.ca\nFootnotes Footnote 1 In this Advisory, the term “federally regulated financial institutions” does not include authorized foreign banks or foreign companies authorized to insure in Canada risks. Return to footnote 1 referrer Footnote 2 The term “provincial company” is defined in subsection 2(1) of the ICA. Pursuant to subsection 656(1) of the ICA, the ICA’s investment regime applies to provincial companies. Return to footnote 2 referrer Footnote 3 See paragraphs 490(3)(a) and 550(c) of the ICA. Return to footnote 3 referrer Footnote 4 See subsections 464(1) and 925(1) of the BA; subsections 490(1), 540(1) and 966(1) of the ICA; subsection 449(1) of the TLCA; and subsection 386(1) of the CCAA. Return to footnote 4 referrer Footnote 5 These are entities referred to in paragraphs 468(1)(g) to (j) and 930(1)(g) to (j) of the BA; paragraphs 495(1)(g) to (j), 554(1)(b) and (c), and 971(1)(g) to (j) of the ICA; 453(1)(g) to (j) of the TLCA; and 390(1)(e) to (h) of the CCAA. Return to footnote 5 referrer Footnote 6 The term “control” is defined in section 3 of the Statutes. Return to footnote 6 referrer Footnote 7 The term “substantial investment” is defined in section 10 of the BA, ICA and TLCA, and section 12 of the CCAA. Return to footnote 7 referrer Footnote 8 Within the meaning of section 5 of the Statutes. Return to footnote 8 referrer Footnote 9 Property and casualty companies, marine companies and fraternal benefit societies may not acquire or hold any shares or ownership interests under the ICA’s Specialized Financing Regulations . Return to footnote 9 referrer Footnote 10 See sections 465 and 927 of the BA; sections 492, 551 and 968 of the ICA; section 450 of the TLCA; and section 387 of the CCAA. See also Guideline B-1 – Prudent Person Approach . Return to footnote 10 referrer Footnote 11 See sections 475, 477, 478, 937, 939 and 940 of the BA; sections 502, 507, 508, 561, 565, 566, 978, 982 and 983 of the ICA; sections 460, 465 and 466 of the TLCA; and sections 397 and 402 of the CCAA. See also the Investment Limits Regulations made under each of the Statutes. Return to footnote 11 referrer Footnote 12 See section 10 of the BA, ICA and TLCA, and section 12 of the CCAA, which address the concepts of “having” and “increasing” a substantial investment. Return to footnote 12 referrer Footnote 13 See section 3 of the Statutes. Return to footnote 13 referrer Footnote 14 For more information on the concept of control in fact, see Advisory 2007-02 – Control in fact . Return to footnote 14 referrer Footnote 15 See sections 466 and 928 of the BA; sections 493, 552 and 969 of the ICA; section 451 of the TLCA; and section 388 of the CCAA. Return to footnote 15 referrer Footnote 16 Banks, life companies, trust and loan companies and retail associations may acquire and hold shares or ownership interests under the Specialized Financing Regulations , either directly or through a specialized financing entity. BHCs, IHCs and associations other than retail associations may also acquire and hold such interests, but only through a specialized financing entity. Property and casualty companies, marine companies and fraternal benefit societies may not acquire or hold any shares or ownership interests under the ICA’s Specialized Financing Regulations . Return to footnote 16 referrer Footnote 17 See subsections 466(1) and 928(1) of the BA; subsections 493(1), 552(1) and 969(1) of the ICA; subsection 451(2) of the TLCA; and subsection 388(1) of the CCAA. Return to footnote 17 referrer Footnote 18 With the exception of a specialized financing entity that holds a specialized investment. See Section 6 of the Advisory for more information. Return to footnote 18 referrer Footnote 19 See sections 477, 478, 939 and 940 of the BA; sections 507, 508, 565, 982 and 983 of the ICA; sections 465 and 466 of the TLCA; and section 402 of the CCAA. Return to footnote 19 referrer Footnote 20 Insurers are the only types of REs that fraternal benefit societies may acquire as PEs. Return to footnote 20 referrer Footnote 21 This PE category, however, is not available to fraternal benefit societies, property and casualty companies or marine companies. Return to footnote 21 referrer Footnote 22 Business activities that are authorized are listed in subsections 468(2) and 930(2) of the BA; subsections 495(2), 495(4), 554(2) and 971(2) of the ICA; subsection 453(2) of the TLCA; and subsection 390(2) of the CCAA. Return to footnote 22 referrer Footnote 23 Business activities that are restricted are listed in subsections 468(3) and 930(3) of the BA; subsections 495(3), 495(5), 554(3) and 971(3) of the ICA; subsection 453(3) of the TLCA; and subsection 390(3) of the CCAA. Return to footnote 23 referrer Footnote 24 The shares of, or ownership interests in, such an OE could, however, be acquired and held as a temporary investment until such time as its prospective business activity is clearly identified. Temporary investments are discussed in Section 5 of the Advisory. Return to footnote 24 referrer Footnote 25 References to FRE in (c) to (e) below are to the FRE that holds control of, or a substantial investment in, the OE. Return to footnote 25 referrer Footnote 26 See the Exemption from Restrictions on Investments Regulations made under each of the Statutes. Return to footnote 26 referrer Footnote 27 Except in the case of fraternal benefit societies, property and casualty companies and marine companies. Return to footnote 27 referrer Footnote 28 An OE whose business includes acquiring or holding of shares of, or ownership interests in, entities in which an FRE is permitted to hold or acquire. Return to footnote 28 referrer Footnote 29 The term “finance entity” is defined in the Finance Entity Regulations made under each of the Statutes. Return to footnote 29 referrer Footnote 30 The term “factoring entity” is defined in the Factoring Entity Regulations made under each of the Statutes. Return to footnote 30 referrer Footnote 31 The term “financial leasing entity” is defined in subsections 464(1) and 925(1) of the BA; subsections 490(1) and 966(1) of the ICA; subsection 449(1) of the TLCA; and subsection 386(1) of the CCAA. Return to footnote 31 referrer Footnote 32 Fraternal benefit societies, property and casualty companies and marine companies may not acquire control of, or a substantial investment in, such OEs as PEs. Return to footnote 32 referrer Footnote 33 See subsections 468(8) and 930(8) of the BA; subsections 495(10), 554(6) and 971(8) of the ICA; subsection 453(8) of the TLCA; and subsection 390(8) of the CCAA. Return to footnote 33 referrer Footnote 34 See subsections 470(4) and 932(4) of the BA; subsections 497(4), 556(4) and 973(4) of the ICA; subsection 455(4) of the TLCA; and subsection 392(4) of the CCAA. Return to footnote 34 referrer Footnote 35 The term “significant interest” is defined in section 8 of the BA, ICA and TLCA, and section 9 of the CCAA. Return to footnote 35 referrer Footnote 36 See subsections 373(1), 377.1(1), 875(1) and 883(1) of the BA; subsections 407(1), 407.1(1), 927(1) and 932(1) of the ICA; subsections 375(1) and 375.1(1) of the TLCA; and subsections 354(1) and 354.1(1) of the CCAA. Return to footnote 36 referrer Footnote 37 Note that fraternal benefit societies must, in all cases, seek the Minister’s approval to acquire control of, or acquire or increase a substantial investment in, any entity as a PE. Return to footnote 37 referrer Footnote 38 Fraternal benefit societies, property and casualty companies and marine companies may not acquire control of, or a substantial investment in, such OEs as PEs. Return to footnote 38 referrer Footnote 39 See subsections 470(3) and 932(3) of the BA; subsections 497(3), 556(3) and 973(3) of the ICA; subsection 455(3) of the TLCA; and subsection 392(3) of the CCAA. Return to footnote 39 referrer Footnote 40 See subsections 470(2) and 932(2) of the BA; subsections 497(2), 556(2) and 973(2) of the ICA; subsection 455(2) of the TLCA; and subsection 392(2) of the CCAA. Return to footnote 40 referrer Footnote 41 See subsections 468(11) and 930(11) of the BA; subsections 495(12), 554(7) and 971(10) of the ICA; subsection 453(10) of the TLCA; and subsection 390(10) of the CCAA. Return to footnote 41 referrer Footnote 42 See subsections 468(12) and 930(12) of the BA; subsections 495(13), 554(8) and 971(11) of the ICA; subsection 453(11) of the TLCA; and subsection 390(11) of the CCAA. Return to footnote 42 referrer Footnote 43 See the Exemption from Approval for Certain Investments in Intragroup Service Entities Regulations made under each of the Statutes. Return to footnote 43 referrer Footnote 44 See subsections 466(2), (5.1) and (5.2), and 928(2), (4.1) and (4.2) of the BA; subsections 493(2), (5.1) and (5.2), 552(2), (4.1) and (4.2), and 969(2), (4.1) and (4.2) of the ICA; subsections 451(2), (5.1) and (5.2) of the TLCA; and subsections 388(2), (5.1) and (5.2) of the CCAA. Return to footnote 44 referrer Footnote 45 An FRE, however, may continue to hold a foreign regulated financial institution as an Indirect Entity if the FRE made the indirect acquisition prior to December 12, 2013. See subsections 466(5.2) and 928(4.2) of the BA; subsections 493(5.2), 552(4.2), and 969(4.2) of the ICA; subsection 451(5.2) of the TLCA; and subsection 388(5.2) of the CCAA. Return to footnote 45 referrer Footnote 46 See sections 482 and 944 of the BA; sections 512, 569 and 987 of the ICA; section 470 of the TLCA; and section 406 of the CCAA. Return to footnote 46 referrer Footnote 47 See subsections 466(3) and 928(3) of the BA; subsections 493(3), 552(3) and 969(3) of the ICA; subsection 451(3) of the TLCA; and subsection 388(3) of the CCAA. Return to footnote 47 referrer Footnote 48 As discussed in Appendices B.1 to B.6, the provisions applicable to investments held for a limited period of time allow an FRE, subject to an approval under those provisions, to hold shares of, or ownership interests in, an entity for an indeterminate period of time, where the entity is not a PE only because the FRE did not obtain an approval under the PE provisions. Return to footnote 48 referrer Footnote 49 See subsections 466(4) and 928(2) of the BA; subsections 493(4) and 969(2) of the ICA; subsection 451(4) of the TLCA; and subsections 388(2) and (4) of the CCAA. Return to footnote 49 referrer Footnote 50 Property and casualty companies and fraternal benefit societies may not acquire or hold any ownership interests under the ICA’s Specialized Financing Regulations . Return to footnote 50 referrer Footnote 51 An SFE is a type of PE. For more information, see class 4(a) in Appendix A.1 (banks and BHCs), Appendix A.2 (life companies and IHCs), Appendix A.5 (trust and loan companies) and Appendix A.6 (associations). Return to footnote 51 referrer Footnote 52 The term “downstream entities” refers to all entities controlled by the SFE as well as all entities in which the SFE has a substantial investment. Return to footnote 52 referrer Footnote 53 See subsections 466(6) and 928(5) of the BA; subsections 493(6), 552(5) and 969(5) of the ICA; subsection 451(5) of the TLCA; and subsection 388(5) of the CCAA. Return to footnote 53 referrer Footnote 54 See subsections 466(7) and 928(6) of the BA; subsections 493(7), 552(6) and 969(6) of the ICA; subsection 451(6) of the TLCA; and subsection 388(6) of the CCAA. Return to footnote 54 referrer Footnote 55 See sections 481 and 943 of the BA; sections 511, 568 and 986 of the ICA; section 469 of the TLCA; and section 405 of the CCAA. Return to footnote 55 referrer Footnote 56 This is with a view to impose, in a more efficient manner, PE-related requirements with regard to that entity. Return to footnote 56 referrer Footnote 57 In the case of a domestic systemically important bank and any of the three largest life insurance companies, OSFI generally views: an acquisition of control of an entity as being material to the FRE where the entity’s consolidated assets exceed 1% of the FRE’s consolidated assets, as shown on its last annual statement; and an acquisition, or increase, of a substantial investment in an entity (without control) as being material to the FRE where the consideration paid to acquire the shares or ownership interests is equivalent to at least 0.5% of the FRE’s consolidated assets as shown on its last annual statement. In the case of any other FRE, OSFI generally views: an acquisition of control of an entity as being material to the FRE where the entity’s consolidated assets exceed 2% of the FRE’s consolidated assets, as shown on its last annual statement; and an acquisition, or increase, of a substantial investment in an entity (without control) as being material to the FRE where the consideration paid to acquire the shares or ownership interests is equivalent to at least 1% of the FRE&rsquo;s consolidated assets, as shown on its last annual statement. Return to footnote 57 referrer",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "An FRE that reclassifies a controlling or substantial investment as a temporary investment is requested to notify promptly the Director, Precedents Unit (Regulatory Affairs Division) of this reclassification at the following coordinates, and to provide the Director with an outline of the FRE’s future plans for such investment."
+        },
+        {
+          "type": "paragraph",
+          "text": "Office of the Superintendent of Financial Institutions 15th Floor, 255 Albert Street Ottawa, Ontario K1A 0H2 Facsimile: (613) 991-0325 Email: approvals-approbations@osfi-bsif.gc.ca"
+        },
+        {
+          "type": "paragraph",
+          "text": "Footnotes Footnote 1 In this Advisory, the term “federally regulated financial institutions” does not include authorized foreign banks or foreign companies authorized to insure in Canada risks. Return to footnote 1 referrer Footnote 2 The term “provincial company” is defined in subsection 2(1) of the ICA. Pursuant to subsection 656(1) of the ICA, the ICA’s investment regime applies to provincial companies. Return to footnote 2 referrer Footnote 3 See paragraphs 490(3)(a) and 550(c) of the ICA. Return to footnote 3 referrer Footnote 4 See subsections 464(1) and 925(1) of the BA; subsections 490(1), 540(1) and 966(1) of the ICA; subsection 449(1) of the TLCA; and subsection 386(1) of the CCAA. Return to footnote 4 referrer Footnote 5 These are entities referred to in paragraphs 468(1)(g) to (j) and 930(1)(g) to (j) of the BA; paragraphs 495(1)(g) to (j), 554(1)(b) and (c), and 971(1)(g) to (j) of the ICA; 453(1)(g) to (j) of the TLCA; and 390(1)(e) to (h) of the CCAA. Return to footnote 5 referrer Footnote 6 The term “control” is defined in section 3 of the Statutes. Return to footnote 6 referrer Footnote 7 The term “substantial investment” is defined in section 10 of the BA, ICA and TLCA, and section 12 of the CCAA. Return to footnote 7 referrer Footnote 8 Within the meaning of section 5 of the Statutes. Return to footnote 8 referrer Footnote 9 Property and casualty companies, marine companies and fraternal benefit societies may not acquire or hold any shares or ownership interests under the ICA’s Specialized Financing Regulations . Return to footnote 9 referrer Footnote 10 See sections 465 and 927 of the BA; sections 492, 551 and 968 of the ICA; section 450 of the TLCA; and section 387 of the CCAA. See also Guideline B-1 – Prudent Person Approach . Return to footnote 10 referrer Footnote 11 See sections 475, 477, 478, 937, 939 and 940 of the BA; sections 502, 507, 508, 561, 565, 566, 978, 982 and 983 of the ICA; sections 460, 465 and 466 of the TLCA; and sections 397 and 402 of the CCAA. See also the Investment Limits Regulations made under each of the Statutes. Return to footnote 11 referrer Footnote 12 See section 10 of the BA, ICA and TLCA, and section 12 of the CCAA, which address the concepts of “having” and “increasing” a substantial investment. Return to footnote 12 referrer Footnote 13 See section 3 of the Statutes. Return to footnote 13 referrer Footnote 14 For more information on the concept of control in fact, see Advisory 2007-02 – Control in fact . Return to footnote 14 referrer Footnote 15 See sections 466 and 928 of the BA; sections 493, 552 and 969 of the ICA; section 451 of the TLCA; and section 388 of the CCAA. Return to footnote 15 referrer Footnote 16 Banks, life companies, trust and loan companies and retail associations may acquire and hold shares or ownership interests under the Specialized Financing Regulations , either directly or through a specialized financing entity. BHCs, IHCs and associations other than retail associations may also acquire and hold such interests, but only through a specialized financing entity. Property and casualty companies, marine companies and fraternal benefit societies may not acquire or hold any shares or ownership interests under the ICA’s Specialized Financing Regulations . Return to footnote 16 referrer Footnote 17 See subsections 466(1) and 928(1) of the BA; subsections 493(1), 552(1) and 969(1) of the ICA; subsection 451(2) of the TLCA; and subsection 388(1) of the CCAA. Return to footnote 17 referrer Footnote 18 With the exception of a specialized financing entity that holds a specialized investment. See Section 6 of the Advisory for more information. Return to footnote 18 referrer Footnote 19 See sections 477, 478, 939 and 940 of the BA; sections 507, 508, 565, 982 and 983 of the ICA; sections 465 and 466 of the TLCA; and section 402 of the CCAA. Return to footnote 19 referrer Footnote 20 Insurers are the only types of REs that fraternal benefit societies may acquire as PEs. Return to footnote 20 referrer Footnote 21 This PE category, however, is not available to fraternal benefit societies, property and casualty companies or marine companies. Return to footnote 21 referrer Footnote 22 Business activities that are authorized are listed in subsections 468(2) and 930(2) of the BA; subsections 495(2), 495(4), 554(2) and 971(2) of the ICA; subsection 453(2) of the TLCA; and subsection 390(2) of the CCAA. Return to footnote 22 referrer Footnote 23 Business activities that are restricted are listed in subsections 468(3) and 930(3) of the BA; subsections 495(3), 495(5), 554(3) and 971(3) of the ICA; subsection 453(3) of the TLCA; and subsection 390(3) of the CCAA. Return to footnote 23 referrer Footnote 24 The shares of, or ownership interests in, such an OE could, however, be acquired and held as a temporary investment until such time as its prospective business activity is clearly identified. Temporary investments are discussed in Section 5 of the Advisory. Return to footnote 24 referrer Footnote 25 References to FRE in (c) to (e) below are to the FRE that holds control of, or a substantial investment in, the OE. Return to footnote 25 referrer Footnote 26 See the Exemption from Restrictions on Investments Regulations made under each of the Statutes. Return to footnote 26 referrer Footnote 27 Except in the case of fraternal benefit societies, property and casualty companies and marine companies. Return to footnote 27 referrer Footnote 28 An OE whose business includes acquiring or holding of shares of, or ownership interests in, entities in which an FRE is permitted to hold or acquire. Return to footnote 28 referrer Footnote 29 The term “finance entity” is defined in the Finance Entity Regulations made under each of the Statutes. Return to footnote 29 referrer Footnote 30 The term “factoring entity” is defined in the Factoring Entity Regulations made under each of the Statutes. Return to footnote 30 referrer Footnote 31 The term “financial leasing entity” is defined in subsections 464(1) and 925(1) of the BA; subsections 490(1) and 966(1) of the ICA; subsection 449(1) of the TLCA; and subsection 386(1) of the CCAA. Return to footnote 31 referrer Footnote 32 Fraternal benefit societies, property and casualty companies and marine companies may not acquire control of, or a substantial investment in, such OEs as PEs. Return to footnote 32 referrer Footnote 33 See subsections 468(8) and 930(8) of the BA; subsections 495(10), 554(6) and 971(8) of the ICA; subsection 453(8) of the TLCA; and subsection 390(8) of the CCAA. Return to footnote 33 referrer Footnote 34 See subsections 470(4) and 932(4) of the BA; subsections 497(4), 556(4) and 973(4) of the ICA; subsection 455(4) of the TLCA; and subsection 392(4) of the CCAA. Return to footnote 34 referrer Footnote 35 The term “significant interest” is defined in section 8 of the BA, ICA and TLCA, and section 9 of the CCAA. Return to footnote 35 referrer Footnote 36 See subsections 373(1), 377.1(1), 875(1) and 883(1) of the BA; subsections 407(1), 407.1(1), 927(1) and 932(1) of the ICA; subsections 375(1) and 375.1(1) of the TLCA; and subsections 354(1) and 354.1(1) of the CCAA. Return to footnote 36 referrer Footnote 37 Note that fraternal benefit societies must, in all cases, seek the Minister’s approval to acquire control of, or acquire or increase a substantial investment in, any entity as a PE. Return to footnote 37 referrer Footnote 38 Fraternal benefit societies, property and casualty companies and marine companies may not acquire control of, or a substantial investment in, such OEs as PEs. Return to footnote 38 referrer Footnote 39 See subsections 470(3) and 932(3) of the BA; subsections 497(3), 556(3) and 973(3) of the ICA; subsection 455(3) of the TLCA; and subsection 392(3) of the CCAA. Return to footnote 39 referrer Footnote 40 See subsections 470(2) and 932(2) of the BA; subsections 497(2), 556(2) and 973(2) of the ICA; subsection 455(2) of the TLCA; and subsection 392(2) of the CCAA. Return to footnote 40 referrer Footnote 41 See subsections 468(11) and 930(11) of the BA; subsections 495(12), 554(7) and 971(10) of the ICA; subsection 453(10) of the TLCA; and subsection 390(10) of the CCAA. Return to footnote 41 referrer Footnote 42 See subsections 468(12) and 930(12) of the BA; subsections 495(13), 554(8) and 971(11) of the ICA; subsection 453(11) of the TLCA; and subsection 390(11) of the CCAA. Return to footnote 42 referrer Footnote 43 See the Exemption from Approval for Certain Investments in Intragroup Service Entities Regulations made under each of the Statutes. Return to footnote 43 referrer Footnote 44 See subsections 466(2), (5.1) and (5.2), and 928(2), (4.1) and (4.2) of the BA; subsections 493(2), (5.1) and (5.2), 552(2), (4.1) and (4.2), and 969(2), (4.1) and (4.2) of the ICA; subsections 451(2), (5.1) and (5.2) of the TLCA; and subsections 388(2), (5.1) and (5.2) of the CCAA. Return to footnote 44 referrer Footnote 45 An FRE, however, may continue to hold a foreign regulated financial institution as an Indirect Entity if the FRE made the indirect acquisition prior to December 12, 2013. See subsections 466(5.2) and 928(4.2) of the BA; subsections 493(5.2), 552(4.2), and 969(4.2) of the ICA; subsection 451(5.2) of the TLCA; and subsection 388(5.2) of the CCAA. Return to footnote 45 referrer Footnote 46 See sections 482 and 944 of the BA; sections 512, 569 and 987 of the ICA; section 470 of the TLCA; and section 406 of the CCAA. Return to footnote 46 referrer Footnote 47 See subsections 466(3) and 928(3) of the BA; subsections 493(3), 552(3) and 969(3) of the ICA; subsection 451(3) of the TLCA; and subsection 388(3) of the CCAA. Return to footnote 47 referrer Footnote 48 As discussed in Appendices B.1 to B.6, the provisions applicable to investments held for a limited period of time allow an FRE, subject to an approval under those provisions, to hold shares of, or ownership interests in, an entity for an indeterminate period of time, where the entity is not a PE only because the FRE did not obtain an approval under the PE provisions. Return to footnote 48 referrer Footnote 49 See subsections 466(4) and 928(2) of the BA; subsections 493(4) and 969(2) of the ICA; subsection 451(4) of the TLCA; and subsections 388(2) and (4) of the CCAA. Return to footnote 49 referrer Footnote 50 Property and casualty companies and fraternal benefit societies may not acquire or hold any ownership interests under the ICA’s Specialized Financing Regulations . Return to footnote 50 referrer Footnote 51 An SFE is a type of PE. For more information, see class 4(a) in Appendix A.1 (banks and BHCs), Appendix A.2 (life companies and IHCs), Appendix A.5 (trust and loan companies) and Appendix A.6 (associations). Return to footnote 51 referrer Footnote 52 The term “downstream entities” refers to all entities controlled by the SFE as well as all entities in which the SFE has a substantial investment. Return to footnote 52 referrer Footnote 53 See subsections 466(6) and 928(5) of the BA; subsections 493(6), 552(5) and 969(5) of the ICA; subsection 451(5) of the TLCA; and subsection 388(5) of the CCAA. Return to footnote 53 referrer Footnote 54 See subsections 466(7) and 928(6) of the BA; subsections 493(7), 552(6) and 969(6) of the ICA; subsection 451(6) of the TLCA; and subsection 388(6) of the CCAA. Return to footnote 54 referrer Footnote 55 See sections 481 and 943 of the BA; sections 511, 568 and 986 of the ICA; section 469 of the TLCA; and section 405 of the CCAA. Return to footnote 55 referrer Footnote 56 This is with a view to impose, in a more efficient manner, PE-related requirements with regard to that entity. Return to footnote 56 referrer Footnote 57 In the case of a domestic systemically important bank and any of the three largest life insurance companies, OSFI generally views: an acquisition of control of an entity as being material to the FRE where the entity’s consolidated assets exceed 1% of the FRE’s consolidated assets, as shown on its last annual statement; and an acquisition, or increase, of a substantial investment in an entity (without control) as being material to the FRE where the consideration paid to acquire the shares or ownership interests is equivalent to at least 0.5% of the FRE’s consolidated assets as shown on its last annual statement. In the case of any other FRE, OSFI generally views: an acquisition of control of an entity as being material to the FRE where the entity’s consolidated assets exceed 2% of the FRE’s consolidated assets, as shown on its last annual statement; and an acquisition, or increase, of a substantial investment in an entity (without control) as being material to the FRE where the consideration paid to acquire the shares or ownership interests is equivalent to at least 1% of the FRE&rsquo;s consolidated assets, as shown on its last annual statement. Return to footnote 57 referrer"
+        }
+      ]
+    },
+    {
+      "heading": "Footnotes",
+      "heading_level": 2,
+      "full_text": "In this Advisory, the term “federally regulated financial institutions” does not include authorized foreign banks or foreign companies authorized to insure in Canada risks.\nReturn to footnote 1 referrer\nThe term “provincial company” is defined in subsection 2(1) of the ICA. Pursuant to subsection 656(1) of the ICA, the ICA’s investment regime applies to provincial companies.\nReturn to footnote 2 referrer\nSee paragraphs 490(3)(a) and 550(c) of the ICA.\nReturn to footnote 3 referrer\nSee subsections 464(1) and 925(1) of the BA; subsections 490(1), 540(1) and 966(1) of the ICA; subsection 449(1) of the TLCA; and subsection 386(1) of the CCAA.\nReturn to footnote 4 referrer\nThese are entities referred to in paragraphs 468(1)(g) to (j) and 930(1)(g) to (j) of the BA; paragraphs 495(1)(g) to (j), 554(1)(b) and (c), and 971(1)(g) to (j) of the ICA; 453(1)(g) to (j) of the TLCA; and 390(1)(e) to (h) of the CCAA.\nReturn to footnote 5 referrer\nThe term “control” is defined in section 3 of the Statutes.\nReturn to footnote 6 referrer\nThe term “substantial investment” is defined in section 10 of the BA, ICA and TLCA, and section 12 of the CCAA.\nReturn to footnote 7 referrer\nWithin the meaning of section 5 of the Statutes.\nReturn to footnote 8 referrer\nProperty and casualty companies, marine companies and fraternal benefit societies may not acquire or hold any shares or ownership interests under the ICA’s Specialized Financing Regulations .\nReturn to footnote 9 referrer\nSee sections 465 and 927 of the BA; sections 492, 551 and 968 of the ICA; section 450 of the TLCA; and section 387 of the CCAA. See also Guideline B-1 – Prudent Person Approach .\nReturn to footnote 10 referrer\nSee sections 475, 477, 478, 937, 939 and 940 of the BA; sections 502, 507, 508, 561, 565, 566, 978, 982 and 983 of the ICA; sections 460, 465 and 466 of the TLCA; and sections 397 and 402 of the CCAA. See also the Investment Limits Regulations made under each of the Statutes.\nReturn to footnote 11 referrer\nSee section 10 of the BA, ICA and TLCA, and section 12 of the CCAA, which address the concepts of “having” and “increasing” a substantial investment.\nReturn to footnote 12 referrer\nSee section 3 of the Statutes.\nReturn to footnote 13 referrer\nFor more information on the concept of control in fact, see Advisory 2007-02 – Control in fact .\nReturn to footnote 14 referrer\nSee sections 466 and 928 of the BA; sections 493, 552 and 969 of the ICA; section 451 of the TLCA; and section 388 of the CCAA.\nReturn to footnote 15 referrer\nBanks, life companies, trust and loan companies and retail associations may acquire and hold shares or ownership interests under the Specialized Financing Regulations , either directly or through a specialized financing entity. BHCs, IHCs and associations other than retail associations may also acquire and hold such interests, but only through a specialized financing entity. Property and casualty companies, marine companies and fraternal benefit societies may not acquire or hold any shares or ownership interests under the ICA’s Specialized Financing Regulations .\nReturn to footnote 16 referrer\nSee subsections 466(1) and 928(1) of the BA; subsections 493(1), 552(1) and 969(1) of the ICA; subsection 451(2) of the TLCA; and subsection 388(1) of the CCAA.\nReturn to footnote 17 referrer\nWith the exception of a specialized financing entity that holds a specialized investment. See Section 6 of the Advisory for more information.\nReturn to footnote 18 referrer\nSee sections 477, 478, 939 and 940 of the BA; sections 507, 508, 565, 982 and 983 of the ICA; sections 465 and 466 of the TLCA; and section 402 of the CCAA.\nReturn to footnote 19 referrer\nInsurers are the only types of REs that fraternal benefit societies may acquire as PEs.\nReturn to footnote 20 referrer\nThis PE category, however, is not available to fraternal benefit societies, property and casualty companies or marine companies.\nReturn to footnote 21 referrer\nBusiness activities that are authorized are listed in subsections 468(2) and 930(2) of the BA; subsections 495(2), 495(4), 554(2) and 971(2) of the ICA; subsection 453(2) of the TLCA; and subsection 390(2) of the CCAA.\nReturn to footnote 22 referrer\nBusiness activities that are restricted are listed in subsections 468(3) and 930(3) of the BA; subsections 495(3), 495(5), 554(3) and 971(3) of the ICA; subsection 453(3) of the TLCA; and subsection 390(3) of the CCAA.\nReturn to footnote 23 referrer\nThe shares of, or ownership interests in, such an OE could, however, be acquired and held as a temporary investment until such time as its prospective business activity is clearly identified. Temporary investments are discussed in Section 5 of the Advisory.\nReturn to footnote 24 referrer\nReferences to FRE in (c) to (e) below are to the FRE that holds control of, or a substantial investment in, the OE.\nReturn to footnote 25 referrer\nSee the Exemption from Restrictions on Investments Regulations made under each of the Statutes.\nReturn to footnote 26 referrer\nExcept in the case of fraternal benefit societies, property and casualty companies and marine companies.\nReturn to footnote 27 referrer\nAn OE whose business includes acquiring or holding of shares of, or ownership interests in, entities in which an FRE is permitted to hold or acquire.\nReturn to footnote 28 referrer\nThe term “finance entity” is defined in the Finance Entity Regulations made under each of the Statutes.\nReturn to footnote 29 referrer\nThe term “factoring entity” is defined in the Factoring Entity Regulations made under each of the Statutes.\nReturn to footnote 30 referrer\nThe term “financial leasing entity” is defined in subsections 464(1) and 925(1) of the BA; subsections 490(1) and 966(1) of the ICA; subsection 449(1) of the TLCA; and subsection 386(1) of the CCAA.\nReturn to footnote 31 referrer\nFraternal benefit societies, property and casualty companies and marine companies may not acquire control of, or a substantial investment in, such OEs as PEs.\nReturn to footnote 32 referrer\nSee subsections 468(8) and 930(8) of the BA; subsections 495(10), 554(6) and 971(8) of the ICA; subsection 453(8) of the TLCA; and subsection 390(8) of the CCAA.\nReturn to footnote 33 referrer\nSee subsections 470(4) and 932(4) of the BA; subsections 497(4), 556(4) and 973(4) of the ICA; subsection 455(4) of the TLCA; and subsection 392(4) of the CCAA.\nReturn to footnote 34 referrer\nThe term “significant interest” is defined in section 8 of the BA, ICA and TLCA, and section 9 of the CCAA.\nReturn to footnote 35 referrer\nSee subsections 373(1), 377.1(1), 875(1) and 883(1) of the BA; subsections 407(1), 407.1(1), 927(1) and 932(1) of the ICA; subsections 375(1) and 375.1(1) of the TLCA; and subsections 354(1) and 354.1(1) of the CCAA.\nReturn to footnote 36 referrer\nNote that fraternal benefit societies must, in all cases, seek the Minister’s approval to acquire control of, or acquire or increase a substantial investment in, any entity as a PE.\nReturn to footnote 37 referrer\nFraternal benefit societies, property and casualty companies and marine companies may not acquire control of, or a substantial investment in, such OEs as PEs.\nReturn to footnote 38 referrer\nSee subsections 470(3) and 932(3) of the BA; subsections 497(3), 556(3) and 973(3) of the ICA; subsection 455(3) of the TLCA; and subsection 392(3) of the CCAA.\nReturn to footnote 39 referrer\nSee subsections 470(2) and 932(2) of the BA; subsections 497(2), 556(2) and 973(2) of the ICA; subsection 455(2) of the TLCA; and subsection 392(2) of the CCAA.\nReturn to footnote 40 referrer\nSee subsections 468(11) and 930(11) of the BA; subsections 495(12), 554(7) and 971(10) of the ICA; subsection 453(10) of the TLCA; and subsection 390(10) of the CCAA.\nReturn to footnote 41 referrer\nSee subsections 468(12) and 930(12) of the BA; subsections 495(13), 554(8) and 971(11) of the ICA; subsection 453(11) of the TLCA; and subsection 390(11) of the CCAA.\nReturn to footnote 42 referrer\nSee the Exemption from Approval for Certain Investments in Intragroup Service Entities Regulations made under each of the Statutes.\nReturn to footnote 43 referrer\nSee subsections 466(2), (5.1) and (5.2), and 928(2), (4.1) and (4.2) of the BA; subsections 493(2), (5.1) and (5.2), 552(2), (4.1) and (4.2), and 969(2), (4.1) and (4.2) of the ICA; subsections 451(2), (5.1) and (5.2) of the TLCA; and subsections 388(2), (5.1) and (5.2) of the CCAA.\nReturn to footnote 44 referrer\nAn FRE, however, may continue to hold a foreign regulated financial institution as an Indirect Entity if the FRE made the indirect acquisition prior to December 12, 2013. See subsections 466(5.2) and 928(4.2) of the BA; subsections 493(5.2), 552(4.2), and 969(4.2) of the ICA; subsection 451(5.2) of the TLCA; and subsection 388(5.2) of the CCAA.\nReturn to footnote 45 referrer\nSee sections 482 and 944 of the BA; sections 512, 569 and 987 of the ICA; section 470 of the TLCA; and section 406 of the CCAA.\nReturn to footnote 46 referrer\nSee subsections 466(3) and 928(3) of the BA; subsections 493(3), 552(3) and 969(3) of the ICA; subsection 451(3) of the TLCA; and subsection 388(3) of the CCAA.\nReturn to footnote 47 referrer\nAs discussed in Appendices B.1 to B.6, the provisions applicable to investments held for a limited period of time allow an FRE, subject to an approval under those provisions, to hold shares of, or ownership interests in, an entity for an indeterminate period of time, where the entity is not a PE only because the FRE did not obtain an approval under the PE provisions.\nReturn to footnote 48 referrer\nSee subsections 466(4) and 928(2) of the BA; subsections 493(4) and 969(2) of the ICA; subsection 451(4) of the TLCA; and subsections 388(2) and (4) of the CCAA.\nReturn to footnote 49 referrer\nProperty and casualty companies and fraternal benefit societies may not acquire or hold any ownership interests under the ICA’s Specialized Financing Regulations .\nReturn to footnote 50 referrer\nAn SFE is a type of PE. For more information, see class 4(a) in Appendix A.1 (banks and BHCs), Appendix A.2 (life companies and IHCs), Appendix A.5 (trust and loan companies) and Appendix A.6 (associations).\nReturn to footnote 51 referrer\nThe term “downstream entities” refers to all entities controlled by the SFE as well as all entities in which the SFE has a substantial investment.\nReturn to footnote 52 referrer\nSee subsections 466(6) and 928(5) of the BA; subsections 493(6), 552(5) and 969(5) of the ICA; subsection 451(5) of the TLCA; and subsection 388(5) of the CCAA.\nReturn to footnote 53 referrer\nSee subsections 466(7) and 928(6) of the BA; subsections 493(7), 552(6) and 969(6) of the ICA; subsection 451(6) of the TLCA; and subsection 388(6) of the CCAA.\nReturn to footnote 54 referrer\nSee sections 481 and 943 of the BA; sections 511, 568 and 986 of the ICA; section 469 of the TLCA; and section 405 of the CCAA.\nReturn to footnote 55 referrer\nThis is with a view to impose, in a more efficient manner, PE-related requirements with regard to that entity.\nReturn to footnote 56 referrer\nIn the case of a domestic systemically important bank and any of the three largest life insurance companies, OSFI generally views:\n  1. an acquisition of control of an entity as being material to the FRE where the entity’s consolidated assets exceed 1% of the FRE’s consolidated assets, as shown on its last annual statement; and\n  2. an acquisition, or increase, of a substantial investment in an entity (without control) as being material to the FRE where the consideration paid to acquire the shares or ownership interests is equivalent to at least 0.5% of the FRE’s consolidated assets as shown on its last annual statement.\nIn the case of any other FRE, OSFI generally views:\n  1. an acquisition of control of an entity as being material to the FRE where the entity’s consolidated assets exceed 2% of the FRE’s consolidated assets, as shown on its last annual statement; and\n  2. an acquisition, or increase, of a substantial investment in an entity (without control) as being material to the FRE where the consideration paid to acquire the shares or ownership interests is equivalent to at least 1% of the FRE&rsquo;s consolidated assets, as shown on its last annual statement.\nReturn to footnote 57 referrer",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "In this Advisory, the term “federally regulated financial institutions” does not include authorized foreign banks or foreign companies authorized to insure in Canada risks."
+        },
+        {
+          "type": "paragraph",
+          "text": "Return to footnote 1 referrer"
+        },
+        {
+          "type": "paragraph",
+          "text": "The term “provincial company” is defined in subsection 2(1) of the ICA. Pursuant to subsection 656(1) of the ICA, the ICA’s investment regime applies to provincial companies."
+        },
+        {
+          "type": "paragraph",
+          "text": "Return to footnote 2 referrer"
+        },
+        {
+          "type": "paragraph",
+          "text": "See paragraphs 490(3)(a) and 550(c) of the ICA."
+        },
+        {
+          "type": "paragraph",
+          "text": "Return to footnote 3 referrer"
+        },
+        {
+          "type": "paragraph",
+          "text": "See subsections 464(1) and 925(1) of the BA; subsections 490(1), 540(1) and 966(1) of the ICA; subsection 449(1) of the TLCA; and subsection 386(1) of the CCAA."
+        },
+        {
+          "type": "paragraph",
+          "text": "Return to footnote 4 referrer"
+        },
+        {
+          "type": "paragraph",
+          "text": "These are entities referred to in paragraphs 468(1)(g) to (j) and 930(1)(g) to (j) of the BA; paragraphs 495(1)(g) to (j), 554(1)(b) and (c), and 971(1)(g) to (j) of the ICA; 453(1)(g) to (j) of the TLCA; and 390(1)(e) to (h) of the CCAA."
+        },
+        {
+          "type": "paragraph",
+          "text": "Return to footnote 5 referrer"
+        },
+        {
+          "type": "paragraph",
+          "text": "The term “control” is defined in section 3 of the Statutes."
+        },
+        {
+          "type": "paragraph",
+          "text": "Return to footnote 6 referrer"
+        },
+        {
+          "type": "paragraph",
+          "text": "The term “substantial investment” is defined in section 10 of the BA, ICA and TLCA, and section 12 of the CCAA."
+        },
+        {
+          "type": "paragraph",
+          "text": "Return to footnote 7 referrer"
+        },
+        {
+          "type": "paragraph",
+          "text": "Within the meaning of section 5 of the Statutes."
+        },
+        {
+          "type": "paragraph",
+          "text": "Return to footnote 8 referrer"
+        },
+        {
+          "type": "paragraph",
+          "text": "Property and casualty companies, marine companies and fraternal benefit societies may not acquire or hold any shares or ownership interests under the ICA’s Specialized Financing Regulations ."
+        },
+        {
+          "type": "paragraph",
+          "text": "Return to footnote 9 referrer"
+        },
+        {
+          "type": "paragraph",
+          "text": "See sections 465 and 927 of the BA; sections 492, 551 and 968 of the ICA; section 450 of the TLCA; and section 387 of the CCAA. See also Guideline B-1 – Prudent Person Approach ."
+        },
+        {
+          "type": "paragraph",
+          "text": "Return to footnote 10 referrer"
+        },
+        {
+          "type": "paragraph",
+          "text": "See sections 475, 477, 478, 937, 939 and 940 of the BA; sections 502, 507, 508, 561, 565, 566, 978, 982 and 983 of the ICA; sections 460, 465 and 466 of the TLCA; and sections 397 and 402 of the CCAA. See also the Investment Limits Regulations made under each of the Statutes."
+        },
+        {
+          "type": "paragraph",
+          "text": "Return to footnote 11 referrer"
+        },
+        {
+          "type": "paragraph",
+          "text": "See section 10 of the BA, ICA and TLCA, and section 12 of the CCAA, which address the concepts of “having” and “increasing” a substantial investment."
+        },
+        {
+          "type": "paragraph",
+          "text": "Return to footnote 12 referrer"
+        },
+        {
+          "type": "paragraph",
+          "text": "See section 3 of the Statutes."
+        },
+        {
+          "type": "paragraph",
+          "text": "Return to footnote 13 referrer"
+        },
+        {
+          "type": "paragraph",
+          "text": "For more information on the concept of control in fact, see Advisory 2007-02 – Control in fact ."
+        },
+        {
+          "type": "paragraph",
+          "text": "Return to footnote 14 referrer"
+        },
+        {
+          "type": "paragraph",
+          "text": "See sections 466 and 928 of the BA; sections 493, 552 and 969 of the ICA; section 451 of the TLCA; and section 388 of the CCAA."
+        },
+        {
+          "type": "paragraph",
+          "text": "Return to footnote 15 referrer"
+        },
+        {
+          "type": "paragraph",
+          "text": "Banks, life companies, trust and loan companies and retail associations may acquire and hold shares or ownership interests under the Specialized Financing Regulations , either directly or through a specialized financing entity. BHCs, IHCs and associations other than retail associations may also acquire and hold such interests, but only through a specialized financing entity. Property and casualty companies, marine companies and fraternal benefit societies may not acquire or hold any shares or ownership interests under the ICA’s Specialized Financing Regulations ."
+        },
+        {
+          "type": "paragraph",
+          "text": "Return to footnote 16 referrer"
+        },
+        {
+          "type": "paragraph",
+          "text": "See subsections 466(1) and 928(1) of the BA; subsections 493(1), 552(1) and 969(1) of the ICA; subsection 451(2) of the TLCA; and subsection 388(1) of the CCAA."
+        },
+        {
+          "type": "paragraph",
+          "text": "Return to footnote 17 referrer"
+        },
+        {
+          "type": "paragraph",
+          "text": "With the exception of a specialized financing entity that holds a specialized investment. See Section 6 of the Advisory for more information."
+        },
+        {
+          "type": "paragraph",
+          "text": "Return to footnote 18 referrer"
+        },
+        {
+          "type": "paragraph",
+          "text": "See sections 477, 478, 939 and 940 of the BA; sections 507, 508, 565, 982 and 983 of the ICA; sections 465 and 466 of the TLCA; and section 402 of the CCAA."
+        },
+        {
+          "type": "paragraph",
+          "text": "Return to footnote 19 referrer"
+        },
+        {
+          "type": "paragraph",
+          "text": "Insurers are the only types of REs that fraternal benefit societies may acquire as PEs."
+        },
+        {
+          "type": "paragraph",
+          "text": "Return to footnote 20 referrer"
+        },
+        {
+          "type": "paragraph",
+          "text": "This PE category, however, is not available to fraternal benefit societies, property and casualty companies or marine companies."
+        },
+        {
+          "type": "paragraph",
+          "text": "Return to footnote 21 referrer"
+        },
+        {
+          "type": "paragraph",
+          "text": "Business activities that are authorized are listed in subsections 468(2) and 930(2) of the BA; subsections 495(2), 495(4), 554(2) and 971(2) of the ICA; subsection 453(2) of the TLCA; and subsection 390(2) of the CCAA."
+        },
+        {
+          "type": "paragraph",
+          "text": "Return to footnote 22 referrer"
+        },
+        {
+          "type": "paragraph",
+          "text": "Business activities that are restricted are listed in subsections 468(3) and 930(3) of the BA; subsections 495(3), 495(5), 554(3) and 971(3) of the ICA; subsection 453(3) of the TLCA; and subsection 390(3) of the CCAA."
+        },
+        {
+          "type": "paragraph",
+          "text": "Return to footnote 23 referrer"
+        },
+        {
+          "type": "paragraph",
+          "text": "The shares of, or ownership interests in, such an OE could, however, be acquired and held as a temporary investment until such time as its prospective business activity is clearly identified. Temporary investments are discussed in Section 5 of the Advisory."
+        },
+        {
+          "type": "paragraph",
+          "text": "Return to footnote 24 referrer"
+        },
+        {
+          "type": "paragraph",
+          "text": "References to FRE in (c) to (e) below are to the FRE that holds control of, or a substantial investment in, the OE."
+        },
+        {
+          "type": "paragraph",
+          "text": "Return to footnote 25 referrer"
+        },
+        {
+          "type": "paragraph",
+          "text": "See the Exemption from Restrictions on Investments Regulations made under each of the Statutes."
+        },
+        {
+          "type": "paragraph",
+          "text": "Return to footnote 26 referrer"
+        },
+        {
+          "type": "paragraph",
+          "text": "Except in the case of fraternal benefit societies, property and casualty companies and marine companies."
+        },
+        {
+          "type": "paragraph",
+          "text": "Return to footnote 27 referrer"
+        },
+        {
+          "type": "paragraph",
+          "text": "An OE whose business includes acquiring or holding of shares of, or ownership interests in, entities in which an FRE is permitted to hold or acquire."
+        },
+        {
+          "type": "paragraph",
+          "text": "Return to footnote 28 referrer"
+        },
+        {
+          "type": "paragraph",
+          "text": "The term “finance entity” is defined in the Finance Entity Regulations made under each of the Statutes."
+        },
+        {
+          "type": "paragraph",
+          "text": "Return to footnote 29 referrer"
+        },
+        {
+          "type": "paragraph",
+          "text": "The term “factoring entity” is defined in the Factoring Entity Regulations made under each of the Statutes."
+        },
+        {
+          "type": "paragraph",
+          "text": "Return to footnote 30 referrer"
+        },
+        {
+          "type": "paragraph",
+          "text": "The term “financial leasing entity” is defined in subsections 464(1) and 925(1) of the BA; subsections 490(1) and 966(1) of the ICA; subsection 449(1) of the TLCA; and subsection 386(1) of the CCAA."
+        },
+        {
+          "type": "paragraph",
+          "text": "Return to footnote 31 referrer"
+        },
+        {
+          "type": "paragraph",
+          "text": "Fraternal benefit societies, property and casualty companies and marine companies may not acquire control of, or a substantial investment in, such OEs as PEs."
+        },
+        {
+          "type": "paragraph",
+          "text": "Return to footnote 32 referrer"
+        },
+        {
+          "type": "paragraph",
+          "text": "See subsections 468(8) and 930(8) of the BA; subsections 495(10), 554(6) and 971(8) of the ICA; subsection 453(8) of the TLCA; and subsection 390(8) of the CCAA."
+        },
+        {
+          "type": "paragraph",
+          "text": "Return to footnote 33 referrer"
+        },
+        {
+          "type": "paragraph",
+          "text": "See subsections 470(4) and 932(4) of the BA; subsections 497(4), 556(4) and 973(4) of the ICA; subsection 455(4) of the TLCA; and subsection 392(4) of the CCAA."
+        },
+        {
+          "type": "paragraph",
+          "text": "Return to footnote 34 referrer"
+        },
+        {
+          "type": "paragraph",
+          "text": "The term “significant interest” is defined in section 8 of the BA, ICA and TLCA, and section 9 of the CCAA."
+        },
+        {
+          "type": "paragraph",
+          "text": "Return to footnote 35 referrer"
+        },
+        {
+          "type": "paragraph",
+          "text": "See subsections 373(1), 377.1(1), 875(1) and 883(1) of the BA; subsections 407(1), 407.1(1), 927(1) and 932(1) of the ICA; subsections 375(1) and 375.1(1) of the TLCA; and subsections 354(1) and 354.1(1) of the CCAA."
+        },
+        {
+          "type": "paragraph",
+          "text": "Return to footnote 36 referrer"
+        },
+        {
+          "type": "paragraph",
+          "text": "Note that fraternal benefit societies must, in all cases, seek the Minister’s approval to acquire control of, or acquire or increase a substantial investment in, any entity as a PE."
+        },
+        {
+          "type": "paragraph",
+          "text": "Return to footnote 37 referrer"
+        },
+        {
+          "type": "paragraph",
+          "text": "Fraternal benefit societies, property and casualty companies and marine companies may not acquire control of, or a substantial investment in, such OEs as PEs."
+        },
+        {
+          "type": "paragraph",
+          "text": "Return to footnote 38 referrer"
+        },
+        {
+          "type": "paragraph",
+          "text": "See subsections 470(3) and 932(3) of the BA; subsections 497(3), 556(3) and 973(3) of the ICA; subsection 455(3) of the TLCA; and subsection 392(3) of the CCAA."
+        },
+        {
+          "type": "paragraph",
+          "text": "Return to footnote 39 referrer"
+        },
+        {
+          "type": "paragraph",
+          "text": "See subsections 470(2) and 932(2) of the BA; subsections 497(2), 556(2) and 973(2) of the ICA; subsection 455(2) of the TLCA; and subsection 392(2) of the CCAA."
+        },
+        {
+          "type": "paragraph",
+          "text": "Return to footnote 40 referrer"
+        },
+        {
+          "type": "paragraph",
+          "text": "See subsections 468(11) and 930(11) of the BA; subsections 495(12), 554(7) and 971(10) of the ICA; subsection 453(10) of the TLCA; and subsection 390(10) of the CCAA."
+        },
+        {
+          "type": "paragraph",
+          "text": "Return to footnote 41 referrer"
+        },
+        {
+          "type": "paragraph",
+          "text": "See subsections 468(12) and 930(12) of the BA; subsections 495(13), 554(8) and 971(11) of the ICA; subsection 453(11) of the TLCA; and subsection 390(11) of the CCAA."
+        },
+        {
+          "type": "paragraph",
+          "text": "Return to footnote 42 referrer"
+        },
+        {
+          "type": "paragraph",
+          "text": "See the Exemption from Approval for Certain Investments in Intragroup Service Entities Regulations made under each of the Statutes."
+        },
+        {
+          "type": "paragraph",
+          "text": "Return to footnote 43 referrer"
+        },
+        {
+          "type": "paragraph",
+          "text": "See subsections 466(2), (5.1) and (5.2), and 928(2), (4.1) and (4.2) of the BA; subsections 493(2), (5.1) and (5.2), 552(2), (4.1) and (4.2), and 969(2), (4.1) and (4.2) of the ICA; subsections 451(2), (5.1) and (5.2) of the TLCA; and subsections 388(2), (5.1) and (5.2) of the CCAA."
+        },
+        {
+          "type": "paragraph",
+          "text": "Return to footnote 44 referrer"
+        },
+        {
+          "type": "paragraph",
+          "text": "An FRE, however, may continue to hold a foreign regulated financial institution as an Indirect Entity if the FRE made the indirect acquisition prior to December 12, 2013. See subsections 466(5.2) and 928(4.2) of the BA; subsections 493(5.2), 552(4.2), and 969(4.2) of the ICA; subsection 451(5.2) of the TLCA; and subsection 388(5.2) of the CCAA."
+        },
+        {
+          "type": "paragraph",
+          "text": "Return to footnote 45 referrer"
+        },
+        {
+          "type": "paragraph",
+          "text": "See sections 482 and 944 of the BA; sections 512, 569 and 987 of the ICA; section 470 of the TLCA; and section 406 of the CCAA."
+        },
+        {
+          "type": "paragraph",
+          "text": "Return to footnote 46 referrer"
+        },
+        {
+          "type": "paragraph",
+          "text": "See subsections 466(3) and 928(3) of the BA; subsections 493(3), 552(3) and 969(3) of the ICA; subsection 451(3) of the TLCA; and subsection 388(3) of the CCAA."
+        },
+        {
+          "type": "paragraph",
+          "text": "Return to footnote 47 referrer"
+        },
+        {
+          "type": "paragraph",
+          "text": "As discussed in Appendices B.1 to B.6, the provisions applicable to investments held for a limited period of time allow an FRE, subject to an approval under those provisions, to hold shares of, or ownership interests in, an entity for an indeterminate period of time, where the entity is not a PE only because the FRE did not obtain an approval under the PE provisions."
+        },
+        {
+          "type": "paragraph",
+          "text": "Return to footnote 48 referrer"
+        },
+        {
+          "type": "paragraph",
+          "text": "See subsections 466(4) and 928(2) of the BA; subsections 493(4) and 969(2) of the ICA; subsection 451(4) of the TLCA; and subsections 388(2) and (4) of the CCAA."
+        },
+        {
+          "type": "paragraph",
+          "text": "Return to footnote 49 referrer"
+        },
+        {
+          "type": "paragraph",
+          "text": "Property and casualty companies and fraternal benefit societies may not acquire or hold any ownership interests under the ICA’s Specialized Financing Regulations ."
+        },
+        {
+          "type": "paragraph",
+          "text": "Return to footnote 50 referrer"
+        },
+        {
+          "type": "paragraph",
+          "text": "An SFE is a type of PE. For more information, see class 4(a) in Appendix A.1 (banks and BHCs), Appendix A.2 (life companies and IHCs), Appendix A.5 (trust and loan companies) and Appendix A.6 (associations)."
+        },
+        {
+          "type": "paragraph",
+          "text": "Return to footnote 51 referrer"
+        },
+        {
+          "type": "paragraph",
+          "text": "The term “downstream entities” refers to all entities controlled by the SFE as well as all entities in which the SFE has a substantial investment."
+        },
+        {
+          "type": "paragraph",
+          "text": "Return to footnote 52 referrer"
+        },
+        {
+          "type": "paragraph",
+          "text": "See subsections 466(6) and 928(5) of the BA; subsections 493(6), 552(5) and 969(5) of the ICA; subsection 451(5) of the TLCA; and subsection 388(5) of the CCAA."
+        },
+        {
+          "type": "paragraph",
+          "text": "Return to footnote 53 referrer"
+        },
+        {
+          "type": "paragraph",
+          "text": "See subsections 466(7) and 928(6) of the BA; subsections 493(7), 552(6) and 969(6) of the ICA; subsection 451(6) of the TLCA; and subsection 388(6) of the CCAA."
+        },
+        {
+          "type": "paragraph",
+          "text": "Return to footnote 54 referrer"
+        },
+        {
+          "type": "paragraph",
+          "text": "See sections 481 and 943 of the BA; sections 511, 568 and 986 of the ICA; section 469 of the TLCA; and section 405 of the CCAA."
+        },
+        {
+          "type": "paragraph",
+          "text": "Return to footnote 55 referrer"
+        },
+        {
+          "type": "paragraph",
+          "text": "This is with a view to impose, in a more efficient manner, PE-related requirements with regard to that entity."
+        },
+        {
+          "type": "paragraph",
+          "text": "Return to footnote 56 referrer"
+        },
+        {
+          "type": "paragraph",
+          "text": "In the case of a domestic systemically important bank and any of the three largest life insurance companies, OSFI generally views:"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "an acquisition of control of an entity as being material to the FRE where the entity’s consolidated assets exceed 1% of the FRE’s consolidated assets, as shown on its last annual statement; and",
+            "an acquisition, or increase, of a substantial investment in an entity (without control) as being material to the FRE where the consideration paid to acquire the shares or ownership interests is equivalent to at least 0.5% of the FRE’s consolidated assets as shown on its last annual statement."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "In the case of any other FRE, OSFI generally views:"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "an acquisition of control of an entity as being material to the FRE where the entity’s consolidated assets exceed 2% of the FRE’s consolidated assets, as shown on its last annual statement; and",
+            "an acquisition, or increase, of a substantial investment in an entity (without control) as being material to the FRE where the consideration paid to acquire the shares or ownership interests is equivalent to at least 1% of the FRE&rsquo;s consolidated assets, as shown on its last annual statement."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Return to footnote 57 referrer"
+        }
+      ]
+    }
+  ],
+  "title_normalized": "substantial investments",
+  "publication_type_normalized": "regulatory_and_legislative_advisory",
+  "category_normalized": "regulatory_and_legislative",
+  "sector_normalized": [
+    "bank_act",
+    "cooperative_credit_associations_act",
+    "insurance_companies_act",
+    "trust_and_loan_companies_act"
+  ],
+  "guideline_number_normalized": "",
+  "applies_to_banks": true,
+  "applies_to_trust_loan": true,
+  "applies_to_life_insurance": false,
+  "applies_to_pc_insurance": false,
+  "applies_to_foreign_bank": false,
+  "applies_to_foreign_insurance": false,
+  "applies_to_cooperative": true,
+  "applies_to_bank_holding": false,
+  "effective_date_sort_key": "2015-06-30",
+  "status_sort_key": 1,
+  "authority_sort_key": 100,
+  "bm25_text": "Substantial Investments Regulatory and legislative advisory Regulatory and legislative Bank Act Cooperative Credit Associations Act Insurance Companies Act Trust and Loan Companies Act Introduction Section 1. Fundamental Rules and Concepts 1.1 Prudent Person Rule 1.2 Equity Limit Rules 1.3 Concepts of Substantial Investment and Control Section 2. General Prohibition and Categories of Substantial Investments Section 3. Investments in PEs Footnote 17 3.1 Authorized and Restricted Business Activities – OEs 3.1.1 Authorized Business Activities 3.1.2 Restricted Business Activities 3.2 Control Requirement 3.3.1 Investments in other FREs 3.3.2 Investments in PFFIs and Certain OEs 3.3.3 Giving up Control While Retaining a Substantial Investment 3.3.4 Exceptions to Approval Requirement Section 4. Investments via RE Subsidiaries Footnote 44 Section 5. Investments Held for a Limited Period of Time Footnote 47 Section 6. Specialized Financing Investments Footnote 49 Section 7. Changes in Categories of Substantial Investments 7.1. Reclassification 7.2 Change in the Business or Affairs of the Entity Section 8. Notification Requests 8.1 Notification of acquisition or increase that does not require approval 8.2 Notification of reclassification as a temporary investment Footnotes",
+  "vector_text_prefix": "[OSFI Regulatory and legislative advisory  | Regulatory and legislative | Bank Act / Cooperative Credit Associations Act / Insurance Companies Act | FINAL_CURRENT | Effective 2015-06-30]",
+  "h1_title": "Substantial Investments",
+  "regulator": "OSFI",
+  "regulator_acronym": "OSFI",
+  "jurisdiction": "Canada",
+  "short_title": "",
+  "source_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/substantial-investments"
+}

@@ -1,0 +1,503 @@
+{
+  "source_system": "osfi_guidance_library",
+  "library_row_title": "Data Collection Modernization Initiative Progress Update and Upcoming Priorities",
+  "library_row_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/data-collection-modernization-initiative-progress-update-upcoming-priorities",
+  "listing_date_raw": "June 25, 2025",
+  "listing_date_iso": "2025-06-25",
+  "listing_publication_type": "Letter",
+  "listing_category": "Supervisory Advisories",
+  "listing_sector": [
+    "Bank Holding Companies",
+    "Banks",
+    "Foreign Bank Branches",
+    "Foreign Insurance Branches",
+    "Life Insurance and Fraternal Companies",
+    "Property and Casualty Companies",
+    "Trust and Loan Companies"
+  ],
+  "crawl_timestamp": "2026-03-11T00:00:00Z",
+  "detail_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/data-collection-modernization-initiative-progress-update-upcoming-priorities",
+  "canonical_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/data-collection-modernization-initiative-progress-update-upcoming-priorities",
+  "slug": "data-collection-modernization-initiative-progress-update-upcoming-priorities",
+  "title": "Data Collection Modernization Initiative Progress Update and Upcoming Priorities",
+  "publication_type": "Letter",
+  "category": "Supervisory Advisories",
+  "document_date_raw": "June 25, 2025",
+  "document_date_iso": "2025-06-25",
+  "sector": [
+    "Bank Holding Companies",
+    "Banks",
+    "Foreign Bank Branches",
+    "Foreign Insurance Branches",
+    "Life Insurance and Fraternal Companies",
+    "Property and Casualty Companies",
+    "Trust and Loan Companies"
+  ],
+  "effective_date_text": "",
+  "guideline_number": "",
+  "date_modified_raw": "2025-06-25T12:00:00Z",
+  "generate_pdf_url": "https://www.osfi-bsif.gc.ca/en/print/pdf/node/2740",
+  "pdf_node_id": 2740,
+  "direct_pdf_url": null,
+  "has_table_of_contents": true,
+  "toc_entries": [],
+  "has_related_documents": false,
+  "related_document_links_raw": [],
+  "consultation_status_text": null,
+  "consultation_status_refers_to_version": null,
+  "page_language": "en",
+  "word_count_raw_body": 876,
+  "doc_id": "osfi.data-collection-modernization-initiative-progress-.transmittal",
+  "doc_family_id": "osfi.data-collection-modernization-initiative-progress-",
+  "version_id": "",
+  "version_label": "Data Collection Modernization Initiative Progress Update and",
+  "version_sort_key": "",
+  "parent_doc_id": null,
+  "child_doc_ids": [],
+  "is_package_page": false,
+  "is_chapter_page": false,
+  "chapter_number": null,
+  "chapter_title": null,
+  "document_order_within_family": 0,
+  "supersedes_doc_id": null,
+  "superseded_by_doc_id": null,
+  "current_version_flag": true,
+  "status": "final_current",
+  "include_in_primary_corpus": false,
+  "include_in_support_corpus": true,
+  "include_in_context_corpus": false,
+  "effective_date_start": "2025-06-25",
+  "effective_date_end": null,
+  "effective_date_fye_split": false,
+  "effective_date_oct_fye": null,
+  "effective_date_dec_fye": null,
+  "is_future_effective": false,
+  "is_rescinded": false,
+  "is_draft_or_consultation": false,
+  "rescission_date": null,
+  "consultation_closing_date": null,
+  "as_of_applicability": "2026-03-23",
+  "rule_applied": "rule_5_final_current",
+  "authority_class": "official_support",
+  "authority_level": 60,
+  "nova_tier": 2,
+  "prudential_weight": 0.7,
+  "is_primary_normative": false,
+  "is_supporting_interpretive": true,
+  "is_context_only": false,
+  "document_class": "transmittal_letter",
+  "guidance_type_normalized": "letter",
+  "section_headings": [
+    {
+      "level": 2,
+      "text": "Progress update and upcoming priorities",
+      "id": "h2-0"
+    },
+    {
+      "level": 3,
+      "text": "Figure 1: DCM Project Timeline (2023 – 2028)",
+      "id": "h3-1"
+    },
+    {
+      "level": 4,
+      "text": "May 2023 Launch DCM",
+      "id": "h4-2"
+    },
+    {
+      "level": 4,
+      "text": "May-June 2025",
+      "id": "h4-3"
+    },
+    {
+      "level": 4,
+      "text": "Late fall 2025",
+      "id": "h4-4"
+    },
+    {
+      "level": 4,
+      "text": "Early 2026",
+      "id": "h4-5"
+    },
+    {
+      "level": 4,
+      "text": "September 2026",
+      "id": "h4-6"
+    },
+    {
+      "level": 2,
+      "text": "Technology",
+      "id": "h2-7"
+    },
+    {
+      "level": 2,
+      "text": "Data",
+      "id": "h2-8"
+    }
+  ],
+  "heading_path": [
+    "Data Collection Modernization Initiative Progress Update and Upcoming Priorities"
+  ],
+  "toc_depth": 4,
+  "has_appendices": false,
+  "appendix_ids": [],
+  "has_tables": true,
+  "table_count": 1,
+  "has_footnotes": false,
+  "footnote_count": 0,
+  "inline_cross_references": [],
+  "quoted_external_references": [],
+  "raw_html_sha256": "74bde15de04dcd3ce379e67d0b10252f9e17eaf3ab6d75678b21be7ef2260a6d",
+  "raw_pdf_sha256": null,
+  "normalized_text_sha256": null,
+  "raw_html_path": "bronze/osfi/html/final_current/data-collection-modernization-initiative-progress-update-upcoming-priorities.html",
+  "normalized_md_path": "silver/osfi/md/final_current/data-collection-modernization-initiative-progress-update-upcoming-priorities.md",
+  "canonical_json_path": "silver/osfi/json/final_current/data-collection-modernization-initiative-progress-update-upcoming-priorities.json",
+  "content_source": "HTML",
+  "parser_version": "osfi-parser-v2.1.0",
+  "normalizer_version": "osfi-normalizer-v1.4.0",
+  "quality_score": 1.0,
+  "quality_flags": [],
+  "download_timestamp": "2026-03-11T00:00:00Z",
+  "enriched_timestamp": "2026-03-23T09:53:50.957127Z",
+  "sections": [
+    {
+      "heading": "",
+      "heading_level": 2,
+      "full_text": "  - Modernizing how we collect data from institutions\n  - Data Collection Modernization (DCM) Initiative launch and participation in the industry questionnaire (open until July 28, 2023)\nThe Office of Superintendent of Financial Institutions (OSFI) is leading the Data Collection Modernization (DCM) project in partnership with the Bank of Canada and the Canada Deposit Insurance Corporation. The DCM project is a multiyear initiative running from May 2023 to April 2028 with two key objectives:\n  1. modernize the regulatory data collection technology platform\n  2. advance prioritized data initiatives and enhance data quality\nOver time, both the technology and data initiatives aim to better manage regulatory reporting burden.",
+      "content": [
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Modernizing how we collect data from institutions",
+            "Data Collection Modernization (DCM) Initiative launch and participation in the industry questionnaire (open until July 28, 2023)"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "The Office of Superintendent of Financial Institutions (OSFI) is leading the Data Collection Modernization (DCM) project in partnership with the Bank of Canada and the Canada Deposit Insurance Corporation. The DCM project is a multiyear initiative running from May 2023 to April 2028 with two key objectives:"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "modernize the regulatory data collection technology platform",
+            "advance prioritized data initiatives and enhance data quality"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Over time, both the technology and data initiatives aim to better manage regulatory reporting burden."
+        }
+      ]
+    },
+    {
+      "heading": "Progress update and upcoming priorities",
+      "heading_level": 2,
+      "full_text": "During the planning phase between May 2023 to April 2025, we created a foundation for implementing the technology and data initiatives through active industry engagements. Figure 1 below highlights key achievements and the next phase of project implementation.\n[Image: Figure 1: DCM Project Timeline (2023 – 2028)] (https://www.osfi-bsif.gc.ca/sites/default/files/images/DCM-project-timeline-fig1-EN.png)",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "During the planning phase between May 2023 to April 2025, we created a foundation for implementing the technology and data initiatives through active industry engagements. Figure 1 below highlights key achievements and the next phase of project implementation."
+        },
+        {
+          "type": "image",
+          "src": "https://www.osfi-bsif.gc.ca/sites/default/files/images/DCM-project-timeline-fig1-EN.png",
+          "alt": "Figure 1 outlines a multi-year roadmap for three initiatives under the Data Collection Modernization project. The three initiatives are data, technology and industry engagement. For each of the initiative, the figure displays achievements made during the planning phase of the project between April 2023 and April 2025. It also displays planned activities for the next phase of the project implementation.",
+          "caption": "Figure 1: DCM Project Timeline (2023 – 2028)"
+        }
+      ]
+    },
+    {
+      "heading": "Figure 1: DCM Project Timeline (2023 – 2028)",
+      "heading_level": 3,
+      "full_text": "[Image: Figure 1 outlines a multi-year roadmap for three initiatives under the Data Collection Modernization project. The three initiatives are data, technology and industry engagement. For each of the initiative, the figure displays achievements made during the planning phase of the project between April 2023 and April 2025. It also displays planned activities for the next phase of the project implementation.] (https://www.osfi-bsif.gc.ca/sites/default/files/images/DCM-project-timeline-fig1-EN.png)",
+      "content": [
+        {
+          "type": "image",
+          "src": "https://www.osfi-bsif.gc.ca/sites/default/files/images/DCM-project-timeline-fig1-EN.png",
+          "alt": "Figure 1 outlines a multi-year roadmap for three initiatives under the Data Collection Modernization project. The three initiatives are data, technology and industry engagement. For each of the initiative, the figure displays achievements made during the planning phase of the project between April 2023 and April 2025. It also displays planned activities for the next phase of the project implementation.",
+          "caption": "Figure 1 outlines a multi-year roadmap for three initiatives under the Data Collection Modernization project. The three initiatives are data, technology and industry engagement. For each of the initiative, the figure displays achievements made during the planning phase of the project between April 2023 and April 2025. It also displays planned activities for the next phase of the project implementation."
+        }
+      ]
+    },
+    {
+      "heading": "May 2023 Launch DCM",
+      "heading_level": 4,
+      "full_text": "  - Data – Conducted current state data assessment and prioritized data sets\n  - Technology – Completed procurement\n  - Industry engagement – Built industry awareness",
+      "content": [
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Data – Conducted current state data assessment and prioritized data sets",
+            "Technology – Completed procurement",
+            "Industry engagement – Built industry awareness"
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "May-June 2025",
+      "heading_level": 4,
+      "full_text": "  - Technology – Entered implementation phase\n  - Industry engagement – Began active engagements",
+      "content": [
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Technology – Entered implementation phase",
+            "Industry engagement – Began active engagements"
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "Late fall 2025",
+      "heading_level": 4,
+      "full_text": "  - Technology – Share implementation details\n  - Industry engagement – Technology Forum / Industry webinar",
+      "content": [
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Technology – Share implementation details",
+            "Industry engagement – Technology Forum / Industry webinar"
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "Early 2026",
+      "heading_level": 4,
+      "full_text": "  - Data – Share detailed implementation plan and solicit feedback\n  - Industry engagement – Establish Data Forum and Working Group(s)",
+      "content": [
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Data – Share detailed implementation plan and solicit feedback",
+            "Industry engagement – Establish Data Forum and Working Group(s)"
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "September 2026",
+      "heading_level": 4,
+      "full_text": "  - Data – Implementation of prioritized data sets\n  - Technology – On board financial returns by industry segment Corporate returns (All filers) DTI Insurance Pensions\n  - Corporate returns (All filers)\n  - DTI\n  - Insurance\n  - Pensions\nUnderpinned by robust project governance and project management\nIn May 2025, the DCM implementation phase began. During this phase, we will establish a Technology Forum to rollout the new Regnology data collection platform by industry segment. In parallel, we will establish a new Data Forum as well as working groups to initiate work on prioritized data initiatives. Detailed implementation plans will be shared first through the forums and then broadly with all industry stakeholders via webinars.\nWe will establish a regular cadence for touchpoints to actively engage with the industry and invite their participation (see Table 1 below). Industry associations and federally regulated financial institutions and pension plans support this approach.\nTable: Table 1: DCM Active Industry Engagement\nActive Engagement Stream | Membership | Launch date | Frequency | Objectives\nCoordinate efforts on key initiatives | Enable industry internal readiness | Advance data quality | Coordinate operational needs | Invite tactical advice | Coordinate industry-wide action for implementation\nStrategic Council | Senior leaders of key institutions | Banking - June 2025 Insurance - July 2025 | Annually or as needed | True ✓ | True ✓ | True ✓ | not applicable | not applicable | not applicable\nTechnology Forum | Management leaders across 3 sectors | Late fall 2025 Banking, Insurance and Private Pension Plans | Quarterly for project duration | True ✓ | True ✓ | True ✓ | True ✓ | True ✓ | not applicable\nData Forum | Management leaders of key institutions | Early 2026 Banking sector | Quarterly | True ✓ | True ✓ | True ✓ | True ✓ | True ✓ | not applicable\nData Working Groups | Subject matter experts | Early 2026 Banking sector | Monthly or as required | not applicable | not applicable | not applicable | True ✓ | True ✓ | not applicable\nIndustry webinars | All regulated institutions | TBD Banking, Insurance and Private Pension Plans | As required | not applicable | not applicable | not applicable | not applicable | not applicable | True ✓\nBanking - June 2025 Insurance - July 2025\nLate fall 2025 Banking, Insurance and Private Pension Plans\nEarly 2026 Banking sector\nData Working Groups\nEarly 2026 Banking sector",
+      "content": [
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Data – Implementation of prioritized data sets",
+            "Technology – On board financial returns by industry segment Corporate returns (All filers) DTI Insurance Pensions"
+          ]
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Corporate returns (All filers)",
+            "DTI",
+            "Insurance",
+            "Pensions"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Underpinned by robust project governance and project management"
+        },
+        {
+          "type": "paragraph",
+          "text": "In May 2025, the DCM implementation phase began. During this phase, we will establish a Technology Forum to rollout the new Regnology data collection platform by industry segment. In parallel, we will establish a new Data Forum as well as working groups to initiate work on prioritized data initiatives. Detailed implementation plans will be shared first through the forums and then broadly with all industry stakeholders via webinars."
+        },
+        {
+          "type": "paragraph",
+          "text": "We will establish a regular cadence for touchpoints to actively engage with the industry and invite their participation (see Table 1 below). Industry associations and federally regulated financial institutions and pension plans support this approach."
+        },
+        {
+          "type": "table",
+          "caption": "Table 1: DCM Active Industry Engagement",
+          "rows": [
+            [
+              "Active Engagement Stream",
+              "Membership",
+              "Launch date",
+              "Frequency",
+              "Objectives"
+            ],
+            [
+              "Coordinate efforts on key initiatives",
+              "Enable industry internal readiness",
+              "Advance data quality",
+              "Coordinate operational needs",
+              "Invite tactical advice",
+              "Coordinate industry-wide action for implementation"
+            ],
+            [
+              "Strategic Council",
+              "Senior leaders of key institutions",
+              "Banking - June 2025 Insurance - July 2025",
+              "Annually or as needed",
+              "True ✓",
+              "True ✓",
+              "True ✓",
+              "not applicable",
+              "not applicable",
+              "not applicable"
+            ],
+            [
+              "Technology Forum",
+              "Management leaders across 3 sectors",
+              "Late fall 2025 Banking, Insurance and Private Pension Plans",
+              "Quarterly for project duration",
+              "True ✓",
+              "True ✓",
+              "True ✓",
+              "True ✓",
+              "True ✓",
+              "not applicable"
+            ],
+            [
+              "Data Forum",
+              "Management leaders of key institutions",
+              "Early 2026 Banking sector",
+              "Quarterly",
+              "True ✓",
+              "True ✓",
+              "True ✓",
+              "True ✓",
+              "True ✓",
+              "not applicable"
+            ],
+            [
+              "Data Working Groups",
+              "Subject matter experts",
+              "Early 2026 Banking sector",
+              "Monthly or as required",
+              "not applicable",
+              "not applicable",
+              "not applicable",
+              "True ✓",
+              "True ✓",
+              "not applicable"
+            ],
+            [
+              "Industry webinars",
+              "All regulated institutions",
+              "TBD Banking, Insurance and Private Pension Plans",
+              "As required",
+              "not applicable",
+              "not applicable",
+              "not applicable",
+              "not applicable",
+              "not applicable",
+              "True ✓"
+            ]
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Banking - June 2025 Insurance - July 2025"
+        },
+        {
+          "type": "paragraph",
+          "text": "Late fall 2025 Banking, Insurance and Private Pension Plans"
+        },
+        {
+          "type": "paragraph",
+          "text": "Early 2026 Banking sector"
+        },
+        {
+          "type": "paragraph",
+          "text": "Data Working Groups"
+        },
+        {
+          "type": "paragraph",
+          "text": "Early 2026 Banking sector"
+        }
+      ]
+    },
+    {
+      "heading": "Technology",
+      "heading_level": 2,
+      "full_text": "The technology implementation plan will address change management strategies for data migration, sequential industry onboarding, and filer support. The new technology platform, once implemented, will provide a centralized channel for filers to efficiently submit all regulatory data. It will process large amounts of data in a variety of formats and structures, including during peak filing periods",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "The technology implementation plan will address change management strategies for data migration, sequential industry onboarding, and filer support. The new technology platform, once implemented, will provide a centralized channel for filers to efficiently submit all regulatory data. It will process large amounts of data in a variety of formats and structures, including during peak filing periods"
+        }
+      ]
+    },
+    {
+      "heading": "Data",
+      "heading_level": 2,
+      "full_text": "In addition to migrating existing regulatory returns to the new technology platform, three data priorities were identified as critical to supporting risk-intelligent decision-making in the banking sector:\n  1. real estate secured lending (RESL)\n  2. non-retail lending (corporate and commercial real estate)\n  3. securities holdings\nInternal regulatory data assessments and the current risk landscape informed these priorities. We will leverage existing RESL and non-retail regulatory data collections to inform project work and manage regulatory burden. For securities holdings, data collection efforts are already underway via the Bank of Canada with test runs beginning shortly.\nWe look forward to collaborating with you and your teams on this critical initiative through various engagement streams. For comments or questions, contact Shaheena Mukhi at dcm-mcd@osfi-bsif.gc.ca .\nRegards,\nAndrew Miller, Chief Data Officer",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "In addition to migrating existing regulatory returns to the new technology platform, three data priorities were identified as critical to supporting risk-intelligent decision-making in the banking sector:"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "real estate secured lending (RESL)",
+            "non-retail lending (corporate and commercial real estate)",
+            "securities holdings"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Internal regulatory data assessments and the current risk landscape informed these priorities. We will leverage existing RESL and non-retail regulatory data collections to inform project work and manage regulatory burden. For securities holdings, data collection efforts are already underway via the Bank of Canada with test runs beginning shortly."
+        },
+        {
+          "type": "paragraph",
+          "text": "We look forward to collaborating with you and your teams on this critical initiative through various engagement streams. For comments or questions, contact Shaheena Mukhi at dcm-mcd@osfi-bsif.gc.ca ."
+        },
+        {
+          "type": "paragraph",
+          "text": "Regards,"
+        },
+        {
+          "type": "paragraph",
+          "text": "Andrew Miller, Chief Data Officer"
+        }
+      ]
+    }
+  ],
+  "title_normalized": "data collection modernization initiative progress update and upcoming priorities",
+  "publication_type_normalized": "letter",
+  "category_normalized": "supervisory_advisories",
+  "sector_normalized": [
+    "bank_holding_companies",
+    "banks",
+    "foreign_bank_branches",
+    "foreign_insurance_branches",
+    "life_insurance",
+    "pc_insurance",
+    "trust_and_loan_companies"
+  ],
+  "guideline_number_normalized": "",
+  "applies_to_banks": true,
+  "applies_to_trust_loan": true,
+  "applies_to_life_insurance": true,
+  "applies_to_pc_insurance": true,
+  "applies_to_foreign_bank": true,
+  "applies_to_foreign_insurance": true,
+  "applies_to_cooperative": false,
+  "applies_to_bank_holding": true,
+  "effective_date_sort_key": "2025-06-25",
+  "status_sort_key": 1,
+  "authority_sort_key": 60,
+  "bm25_text": "Data Collection Modernization Initiative Progress Update and Upcoming Priorities Letter Supervisory Advisories Bank Holding Companies Banks Foreign Bank Branches Foreign Insurance Branches Life Insurance and Fraternal Companies Property and Casualty Companies Trust and Loan Companies Progress update and upcoming priorities Figure 1: DCM Project Timeline (2023 – 2028) May 2023 Launch DCM May-June 2025 Late fall 2025 Early 2026 September 2026 Technology Data",
+  "vector_text_prefix": "[OSFI Letter  | Supervisory Advisories | Bank Holding Companies / Banks / Foreign Bank Branches | FINAL_CURRENT | Effective 2025-06-25]",
+  "h1_title": "Data Collection Modernization Initiative Progress Update and Upcoming Priorities",
+  "regulator": "OSFI",
+  "regulator_acronym": "OSFI",
+  "jurisdiction": "Canada",
+  "short_title": "",
+  "source_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/data-collection-modernization-initiative-progress-update-upcoming-priorities"
+}

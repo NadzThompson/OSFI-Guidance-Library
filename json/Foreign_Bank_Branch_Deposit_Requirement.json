@@ -1,0 +1,1639 @@
+{
+  "source_system": "osfi_guidance_library",
+  "library_row_title": "Foreign Bank Branch Deposit Requirement",
+  "library_row_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/foreign-bank-branch-deposit-requirement",
+  "listing_date_raw": "December 31, 2019",
+  "listing_date_iso": "2019-12-31",
+  "listing_publication_type": "Guideline",
+  "listing_category": "Capital Adequacy Requirements",
+  "listing_sector": [
+    "Foreign Bank Branches"
+  ],
+  "crawl_timestamp": "2026-03-11T00:00:00Z",
+  "detail_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/foreign-bank-branch-deposit-requirement",
+  "canonical_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/foreign-bank-branch-deposit-requirement",
+  "slug": "foreign-bank-branch-deposit-requirement",
+  "title": "Foreign Bank Branch Deposit Requirement",
+  "publication_type": "Guideline",
+  "category": "Capital Adequacy Requirements",
+  "document_date_raw": "December 31, 2019",
+  "document_date_iso": "2019-12-31",
+  "sector": [
+    "Foreign Bank Branches"
+  ],
+  "effective_date_text": "",
+  "guideline_number": "",
+  "date_modified_raw": "2019-12-31T12:00:00Z",
+  "generate_pdf_url": "https://www.osfi-bsif.gc.ca/en/print/pdf/node/564",
+  "pdf_node_id": 564,
+  "direct_pdf_url": null,
+  "has_table_of_contents": true,
+  "toc_entries": [],
+  "has_related_documents": false,
+  "related_document_links_raw": [],
+  "consultation_status_text": null,
+  "consultation_status_refers_to_version": null,
+  "page_language": "en",
+  "word_count_raw_body": 12354,
+  "doc_id": "osfi.a1.standalone",
+  "doc_family_id": "osfi.a1",
+  "version_id": "",
+  "version_label": "Foreign Bank Branch Deposit Requirement",
+  "version_sort_key": "",
+  "parent_doc_id": null,
+  "child_doc_ids": [],
+  "is_package_page": false,
+  "is_chapter_page": false,
+  "chapter_number": null,
+  "chapter_title": null,
+  "document_order_within_family": 0,
+  "supersedes_doc_id": null,
+  "superseded_by_doc_id": null,
+  "current_version_flag": true,
+  "status": "final_current",
+  "include_in_primary_corpus": true,
+  "include_in_support_corpus": false,
+  "include_in_context_corpus": false,
+  "effective_date_start": "2019-12-31",
+  "effective_date_end": null,
+  "effective_date_fye_split": false,
+  "effective_date_oct_fye": null,
+  "effective_date_dec_fye": null,
+  "is_future_effective": false,
+  "is_rescinded": false,
+  "is_draft_or_consultation": false,
+  "rescission_date": null,
+  "consultation_closing_date": null,
+  "as_of_applicability": "2026-03-23",
+  "rule_applied": "rule_5_final_current",
+  "authority_class": "primary_normative",
+  "authority_level": 100,
+  "nova_tier": 1,
+  "prudential_weight": 1.0,
+  "is_primary_normative": true,
+  "is_supporting_interpretive": false,
+  "is_context_only": false,
+  "document_class": "standalone_guideline",
+  "guidance_type_normalized": "guideline",
+  "section_headings": [
+    {
+      "level": 2,
+      "text": "Introduction",
+      "id": "h2-0"
+    },
+    {
+      "level": 2,
+      "text": "FBBD Requirement",
+      "id": "h2-1"
+    },
+    {
+      "level": 2,
+      "text": "Deposit Agreement",
+      "id": "h2-2"
+    },
+    {
+      "level": 2,
+      "text": "Qualifying Assets, Additions and Withdrawals",
+      "id": "h2-3"
+    },
+    {
+      "level": 2,
+      "text": "Reporting",
+      "id": "h2-4"
+    },
+    {
+      "level": 2,
+      "text": "Further Information",
+      "id": "h2-5"
+    },
+    {
+      "level": 3,
+      "text": "FOREIGN BANK BRANCH DEPOSIT AGREEMENT",
+      "id": "h3-6"
+    },
+    {
+      "level": 4,
+      "text": "APPOINTMENT OF DEPOSITORY",
+      "id": "h4-7"
+    },
+    {
+      "level": 4,
+      "text": "DEPOSITED ASSETS",
+      "id": "h4-8"
+    },
+    {
+      "level": 4,
+      "text": "DEPOSITING, VARYING, EXCHANGING OR WITHDRAWING ASSETS",
+      "id": "h4-9"
+    },
+    {
+      "level": 4,
+      "text": "ASSETS IN DEPOSITORY'S NAME",
+      "id": "h4-10"
+    },
+    {
+      "level": 4,
+      "text": "POWERS AND AUTHORITY OF DEPOSITORY",
+      "id": "h4-11"
+    },
+    {
+      "level": 4,
+      "text": "ACCOUNTABILITY OF DEPOSITORY",
+      "id": "h4-12"
+    },
+    {
+      "level": 4,
+      "text": "DIRECTION OF AUTHORIZED FOREIGN BANK",
+      "id": "h4-13"
+    },
+    {
+      "level": 4,
+      "text": "CDS CLEARING AND DEPOSITORY SERVICES INC.",
+      "id": "h4-14"
+    },
+    {
+      "level": 4,
+      "text": "PAYMENTS ON ACCOUNT OF AN INTEREST IN REAL ESTATE",
+      "id": "h4-15"
+    },
+    {
+      "level": 4,
+      "text": "EXERCISE OF RIGHTS ATTACHED TO AN ASSET",
+      "id": "h4-16"
+    },
+    {
+      "level": 4,
+      "text": "STATEMENT OF ASSETS",
+      "id": "h4-17"
+    },
+    {
+      "level": 4,
+      "text": "ACCESS",
+      "id": "h4-18"
+    },
+    {
+      "level": 4,
+      "text": "COMPENSATION OF DEPOSITORY",
+      "id": "h4-19"
+    },
+    {
+      "level": 4,
+      "text": "INTEREST ON MONIES HELD ON DEPOSIT",
+      "id": "h4-20"
+    },
+    {
+      "level": 4,
+      "text": "AMENDMENTS",
+      "id": "h4-21"
+    },
+    {
+      "level": 4,
+      "text": "TERMINATION",
+      "id": "h4-22"
+    },
+    {
+      "level": 4,
+      "text": "APPOINTMENT OF NEW DEPOSITORY",
+      "id": "h4-23"
+    },
+    {
+      "level": 4,
+      "text": "WAIVER",
+      "id": "h4-24"
+    },
+    {
+      "level": 4,
+      "text": "FURTHER ASSURANCES",
+      "id": "h4-25"
+    },
+    {
+      "level": 4,
+      "text": "NOTICES",
+      "id": "h4-26"
+    },
+    {
+      "level": 4,
+      "text": "EXECUTION IN COUNTERPART",
+      "id": "h4-27"
+    },
+    {
+      "level": 4,
+      "text": "PARTIAL INVALIDITY",
+      "id": "h4-28"
+    },
+    {
+      "level": 4,
+      "text": "EFFECTIVE DATE",
+      "id": "h4-29"
+    },
+    {
+      "level": 4,
+      "text": "PROPER LAW",
+      "id": "h4-30"
+    },
+    {
+      "level": 4,
+      "text": "EXISTING AGREEMENTS",
+      "id": "h4-31"
+    },
+    {
+      "level": 4,
+      "text": "MISCELLANEOUS",
+      "id": "h4-32"
+    },
+    {
+      "level": 3,
+      "text": "Asset Withdrawal Request Form and Declaration",
+      "id": "h3-33"
+    },
+    {
+      "level": 3,
+      "text": "ABC Foreign Bank Branch as at XX/XX/20XX",
+      "id": "h3-34"
+    }
+  ],
+  "heading_path": [
+    "Foreign Bank Branch Deposit Requirement"
+  ],
+  "toc_depth": 4,
+  "has_appendices": false,
+  "appendix_ids": [],
+  "has_tables": true,
+  "table_count": 3,
+  "has_footnotes": false,
+  "footnote_count": 0,
+  "inline_cross_references": [],
+  "quoted_external_references": [],
+  "raw_html_sha256": "306c69ecf02a5dfcdc8161b28fface40f06aa49c2c84f4ac6b1650fae6bb7aed",
+  "raw_pdf_sha256": null,
+  "normalized_text_sha256": null,
+  "raw_html_path": "bronze/osfi/html/final_current/foreign-bank-branch-deposit-requirement.html",
+  "normalized_md_path": "silver/osfi/md/final_current/foreign-bank-branch-deposit-requirement.md",
+  "canonical_json_path": "silver/osfi/json/final_current/foreign-bank-branch-deposit-requirement.json",
+  "content_source": "HTML",
+  "parser_version": "osfi-parser-v2.1.0",
+  "normalizer_version": "osfi-normalizer-v1.4.0",
+  "quality_score": 1.0,
+  "quality_flags": [],
+  "download_timestamp": "2026-03-11T00:00:00Z",
+  "enriched_timestamp": "2026-03-23T09:53:51.677727Z",
+  "sections": [
+    {
+      "heading": "",
+      "heading_level": 2,
+      "full_text": "  - Changes to the Foreign Bank Branch Deposit Requirement (Guideline A-10)\n  - Foreign Bank Branch Deposit Requirement Guideline – Guideline impact analysis statement (2019)",
+      "content": [
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Changes to the Foreign Bank Branch Deposit Requirement (Guideline A-10)",
+            "Foreign Bank Branch Deposit Requirement Guideline – Guideline impact analysis statement (2019)"
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "Introduction",
+      "heading_level": 2,
+      "full_text": "This guideline addresses OSFI's expectations with respect to the minimum deposit, to be held in trust, which authorized foreign banks must maintain in respect of their business in Canada.\nPursuant to subsection 534(3) of the Bank Act (the Act), every foreign bank branch (FBB) must deposit unencumbered assets with an approved financial institution in Canada (the Depository) before the Superintendent will issue an Order to Commence and Carry on Business. This deposit is called a FBB Deposit (FBBD) and subsequent to the making of the Order to Commence and Carry on Business by the Superintendent, the FBB must maintain the required FBBD at all times.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "This guideline addresses OSFI's expectations with respect to the minimum deposit, to be held in trust, which authorized foreign banks must maintain in respect of their business in Canada."
+        },
+        {
+          "type": "paragraph",
+          "text": "Pursuant to subsection 534(3) of the Bank Act (the Act), every foreign bank branch (FBB) must deposit unencumbered assets with an approved financial institution in Canada (the Depository) before the Superintendent will issue an Order to Commence and Carry on Business. This deposit is called a FBB Deposit (FBBD) and subsequent to the making of the Order to Commence and Carry on Business by the Superintendent, the FBB must maintain the required FBBD at all times."
+        }
+      ]
+    },
+    {
+      "heading": "FBBD Requirement",
+      "heading_level": 2,
+      "full_text": "A lending branch, which is subject to the restrictions and requirements of subsection 524(2) of the Act, is required to deposit and maintain a FBBD of $100,000. For a full-service branch, the initial FBBD requirement is set at $5 million, and must be maintained at the greater of $5 million and five per cent of the liabilities of the authorized foreign bank in respect of its business in Canada, as required by subsection 582(1) of the Act. For greater certainty, these liabilities should exclude amounts payable to the head office. Furthermore, OSFI expects full-service branches to maintain an additional amount above this requirement to take into account the projected fluctuation in the FBB's liabilities.\nPursuant to section 617 of the Act, the Superintendent may require the FBB to maintain additional assets with the approved Depository where, in the opinion of the Superintendent, they are necessary to protect depositors and creditors of the FBB. For example, this may occur where the Superintendent is concerned with the financial strength of the foreign bank.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "A lending branch, which is subject to the restrictions and requirements of subsection 524(2) of the Act, is required to deposit and maintain a FBBD of $100,000. For a full-service branch, the initial FBBD requirement is set at $5 million, and must be maintained at the greater of $5 million and five per cent of the liabilities of the authorized foreign bank in respect of its business in Canada, as required by subsection 582(1) of the Act. For greater certainty, these liabilities should exclude amounts payable to the head office. Furthermore, OSFI expects full-service branches to maintain an additional amount above this requirement to take into account the projected fluctuation in the FBB's liabilities."
+        },
+        {
+          "type": "paragraph",
+          "text": "Pursuant to section 617 of the Act, the Superintendent may require the FBB to maintain additional assets with the approved Depository where, in the opinion of the Superintendent, they are necessary to protect depositors and creditors of the FBB. For example, this may occur where the Superintendent is concerned with the financial strength of the foreign bank."
+        }
+      ]
+    },
+    {
+      "heading": "Deposit Agreement",
+      "heading_level": 2,
+      "full_text": "An application by a foreign bank to establish an FBB must contain a statement identifying the proposed Depository and the general terms and conditions of the deposit agreement. The deposit agreement must be signed by the FBB The Standard Form Deposit Agreement should include both the name of the foreign bank as well as the name under which the authorized foreign bank branch will carry on business in Canada. , the Depository and the Superintendent. The required pro forma FBBD Agreement is attached as Appendix I. The FBB may only have one deposit agreement in place with one Depository at a time and the Depository cannot be affiliated with the FBB. The deposit agreement may not be terminated without the prior written approval of the Superintendent. Requests to terminate the deposit agreement typically occur where either the FBB changes its Depository or the FBB ceases operations in Canada. Such requests must be submitted in writing at least 30 days before the proposed termination date. No termination shall be effective until OSFI has approved the asset withdrawal request and, where applicable, another financial institution has been designated as Depository by the FBB and approved by the Superintendent.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "An application by a foreign bank to establish an FBB must contain a statement identifying the proposed Depository and the general terms and conditions of the deposit agreement. The deposit agreement must be signed by the FBB The Standard Form Deposit Agreement should include both the name of the foreign bank as well as the name under which the authorized foreign bank branch will carry on business in Canada. , the Depository and the Superintendent. The required pro forma FBBD Agreement is attached as Appendix I. The FBB may only have one deposit agreement in place with one Depository at a time and the Depository cannot be affiliated with the FBB. The deposit agreement may not be terminated without the prior written approval of the Superintendent. Requests to terminate the deposit agreement typically occur where either the FBB changes its Depository or the FBB ceases operations in Canada. Such requests must be submitted in writing at least 30 days before the proposed termination date. No termination shall be effective until OSFI has approved the asset withdrawal request and, where applicable, another financial institution has been designated as Depository by the FBB and approved by the Superintendent."
+        }
+      ]
+    },
+    {
+      "heading": "Qualifying Assets, Additions and Withdrawals",
+      "heading_level": 2,
+      "full_text": "The assets forming the FBBD must be unencumbered and may not be used for securities lending purposes. A list of pre-approved asset classes can be found in Schedule \"A\" of the FBBD Agreement. These pre-approved assets may be added to the FBBD or replaced with other pre-approved assets of equivalent value without the Superintendent's approval. Assets falling into a class not found on the list of pre-approved assets cannot be added to the FBBD without the prior approval of the Superintendent. Approval of other types of assets is dependent on both the quality of the assets and the financial strength of the foreign bank. Requests to add assets not found on the list of pre-approved assets should describe the type and amount of assets to be added.\nWhere the FBB seeks to withdraw assets, the prior approval of the Superintendent is generally required unless the assets are being replaced with pre-approved assets An FBB should look to its own FBBD Agreement for approval requirements. . The request to withdraw assets should include the proposed time frame of the withdrawal and must be accompanied by a signed statement by branch management of the FBB that the withdrawal would not cause the FBBD to fall below the required level. A sample of a withdrawal request and accompanying declaration can be found as Appendix II.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "The assets forming the FBBD must be unencumbered and may not be used for securities lending purposes. A list of pre-approved asset classes can be found in Schedule \"A\" of the FBBD Agreement. These pre-approved assets may be added to the FBBD or replaced with other pre-approved assets of equivalent value without the Superintendent's approval. Assets falling into a class not found on the list of pre-approved assets cannot be added to the FBBD without the prior approval of the Superintendent. Approval of other types of assets is dependent on both the quality of the assets and the financial strength of the foreign bank. Requests to add assets not found on the list of pre-approved assets should describe the type and amount of assets to be added."
+        },
+        {
+          "type": "paragraph",
+          "text": "Where the FBB seeks to withdraw assets, the prior approval of the Superintendent is generally required unless the assets are being replaced with pre-approved assets An FBB should look to its own FBBD Agreement for approval requirements. . The request to withdraw assets should include the proposed time frame of the withdrawal and must be accompanied by a signed statement by branch management of the FBB that the withdrawal would not cause the FBBD to fall below the required level. A sample of a withdrawal request and accompanying declaration can be found as Appendix II."
+        }
+      ]
+    },
+    {
+      "heading": "Reporting",
+      "heading_level": 2,
+      "full_text": "The Depository must provide a monthly statement to the FBB reporting all transactions affecting the FBBD. The statement should list assets on deposit and value them in accordance with Canadian accounting principles used to prepare annual financial statements. A full-service branch must ensure that a copy of the monthly statement is forwarded to the Superintendent. A lending branch must provide an annual statement to the Superintendent.\nIn addition, a full-service branch must record daily the amount of liabilities requiring FBBD coverage. At each quarter end, it must calculate and report to OSFI the average of these liabilities for the period (Appendix III) as well as other information requested by OSFI.\nFinally, pursuant to section 600 of the Act, the Superintendent may require any other form of reporting as deemed necessary.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "The Depository must provide a monthly statement to the FBB reporting all transactions affecting the FBBD. The statement should list assets on deposit and value them in accordance with Canadian accounting principles used to prepare annual financial statements. A full-service branch must ensure that a copy of the monthly statement is forwarded to the Superintendent. A lending branch must provide an annual statement to the Superintendent."
+        },
+        {
+          "type": "paragraph",
+          "text": "In addition, a full-service branch must record daily the amount of liabilities requiring FBBD coverage. At each quarter end, it must calculate and report to OSFI the average of these liabilities for the period (Appendix III) as well as other information requested by OSFI."
+        },
+        {
+          "type": "paragraph",
+          "text": "Finally, pursuant to section 600 of the Act, the Superintendent may require any other form of reporting as deemed necessary."
+        }
+      ]
+    },
+    {
+      "heading": "Further Information",
+      "heading_level": 2,
+      "full_text": "Reporting forms for the FBBD are described in the Manual of Reporting Forms and Instructions section of the OSFI website. The completed FBBD Agreement (Appendix I) must be submitted to the Securities Administration Unit at SAAR-SSAVMRCA@osfi-bsif.gc.ca .\nOnce OSFI approves the FBBD Agreement, the Securities Administration Unit will be responsible for processing any requests related to the deposit account such as the withdrawal of assets. Questions regarding this process may be forwarded to SAAR-SSAVMRCA@osfi-bsif.gc.ca .",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Reporting forms for the FBBD are described in the Manual of Reporting Forms and Instructions section of the OSFI website. The completed FBBD Agreement (Appendix I) must be submitted to the Securities Administration Unit at SAAR-SSAVMRCA@osfi-bsif.gc.ca ."
+        },
+        {
+          "type": "paragraph",
+          "text": "Once OSFI approves the FBBD Agreement, the Securities Administration Unit will be responsible for processing any requests related to the deposit account such as the withdrawal of assets. Questions regarding this process may be forwarded to SAAR-SSAVMRCA@osfi-bsif.gc.ca ."
+        }
+      ]
+    },
+    {
+      "heading": "FOREIGN BANK BRANCH DEPOSIT AGREEMENT",
+      "heading_level": 3,
+      "full_text": "DEPOSIT AGREEMENT MADE THE Line to fill out ______ DAY OF Line to fill out __________, Line to fill out _____ BETWEEN (AUTHORIZED FOREIGN BANK) AND (CANADIAN FINANCIAL INSTITUTION) AND THE SUPERINTENDENT OF FINANCIAL INSTITUTIONS\n  - Clause 1 - APPOINTMENT OF DEPOSITORY\n  - Clause 2 - DEPOSITED ASSETS\n  - Clause 3 - DEPOSITING, VARYING, EXCHANGING OR WITHDRAWING ASSETS\n  - Clause 4 - ASSETS IN DEPOSITORY'S NAME\n  - Clause 5 - POWERS AND AUTHORITY OF DEPOSITORY\n  - Clause 6 - ACCOUNTABILITY OF DEPOSITORY\n  - Clause 7 - DIRECTION OF AUTHORIZED FOREIGN BANK\n  - Clause 8 - CDS CLEARING AND DEPOSITORY SERVICES INC.\n  - Clause 9 - PAYMENTS ON ACCOUNT OF AN INTEREST IN REAL ESTATE\n  - Clause 10 - EXERCISE OF RIGHTS ATTACHED TO AN ASSET\n  - Clause 11 - STATEMENTS OF ASSETS\n  - Clause 12 - ACCESS\n  - Clause 13 - COMPENSATION OF DEPOSITORY\n  - Clause 14 - INTEREST ON MONIES HELD ON DEPOSIT\n  - Clause 15 - AMENDMENTS\n  - Clause 16 - TERMINATION\n  - Clause 17 - APPOINTMENT OF NEW DEPOSITORY\n  - Clause 18 - WAIVER\n  - Clause 19 - FURTHER ASSURANCES\n  - Clause 20 - NOTICES\n  - Clause 21 - EXECUTION IN COUNTERPART\n  - Clause 22 - PARTIAL INVALIDITY\n  - Clause 23 - EFFECTIVE DATE\n  - Clause 24 - PROPER LAW\n  - Clause 25 - EXISTING AGREEMENTS\n  - Clause 26 - MISCELLANEOUS\n  - SCHEDULE \"A\"\n  - SCHEDULE \"B\"\n  - SCHEDULE \"C\"\nTHIS DEPOSIT AGREEMENT made in triplicate on the Line to fill out _____ day of Line to fill out _____________, Line to fill out _____\nBETWEEN:\nLine to fill out __________________________, a foreign bank duly organized and existing under the laws of Line to fill out ___________________, operating in Canada under the name Line to fill out ___________________. (hereinafter called the \"Authorized Foreign Bank\")\nAND:\nLine to fill out __________________________, a Canadian financial institution incorporated under the laws of Line to fill out ___________________ (hereinafter called the \"Depository\")\nAND:\nThe Superintendent of Financial Institutions (hereinafter called the \"Superintendent\")\nWHEREAS the Authorized Foreign Bank is authorized by an order of the Minister of Finance (hereinafter called the \"Minister\") made under the Bank Act (hereinafter called the \"Act\") to establish a branch in Canada to carry on business in Canada;\nWHEREAS the Act requires a foreign bank authorized under the Act to establish a branch in Canada to carry on business in Canada to maintain on deposit with a Canadian financial institution approved by the Superintendent pursuant to a deposit agreement entered into with the prior approval of the Superintendent unencumbered assets of a type approved by the Superintendent having a total value determined in accordance with the Act.\nNOW THEREFORE the parties hereto agree with one another as follows:",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "DEPOSIT AGREEMENT MADE THE Line to fill out ______ DAY OF Line to fill out __________, Line to fill out _____ BETWEEN (AUTHORIZED FOREIGN BANK) AND (CANADIAN FINANCIAL INSTITUTION) AND THE SUPERINTENDENT OF FINANCIAL INSTITUTIONS"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Clause 1 - APPOINTMENT OF DEPOSITORY",
+            "Clause 2 - DEPOSITED ASSETS",
+            "Clause 3 - DEPOSITING, VARYING, EXCHANGING OR WITHDRAWING ASSETS",
+            "Clause 4 - ASSETS IN DEPOSITORY'S NAME",
+            "Clause 5 - POWERS AND AUTHORITY OF DEPOSITORY",
+            "Clause 6 - ACCOUNTABILITY OF DEPOSITORY",
+            "Clause 7 - DIRECTION OF AUTHORIZED FOREIGN BANK",
+            "Clause 8 - CDS CLEARING AND DEPOSITORY SERVICES INC.",
+            "Clause 9 - PAYMENTS ON ACCOUNT OF AN INTEREST IN REAL ESTATE",
+            "Clause 10 - EXERCISE OF RIGHTS ATTACHED TO AN ASSET",
+            "Clause 11 - STATEMENTS OF ASSETS",
+            "Clause 12 - ACCESS",
+            "Clause 13 - COMPENSATION OF DEPOSITORY",
+            "Clause 14 - INTEREST ON MONIES HELD ON DEPOSIT",
+            "Clause 15 - AMENDMENTS",
+            "Clause 16 - TERMINATION",
+            "Clause 17 - APPOINTMENT OF NEW DEPOSITORY",
+            "Clause 18 - WAIVER",
+            "Clause 19 - FURTHER ASSURANCES",
+            "Clause 20 - NOTICES",
+            "Clause 21 - EXECUTION IN COUNTERPART",
+            "Clause 22 - PARTIAL INVALIDITY",
+            "Clause 23 - EFFECTIVE DATE",
+            "Clause 24 - PROPER LAW",
+            "Clause 25 - EXISTING AGREEMENTS",
+            "Clause 26 - MISCELLANEOUS",
+            "SCHEDULE \"A\"",
+            "SCHEDULE \"B\"",
+            "SCHEDULE \"C\""
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "THIS DEPOSIT AGREEMENT made in triplicate on the Line to fill out _____ day of Line to fill out _____________, Line to fill out _____"
+        },
+        {
+          "type": "paragraph",
+          "text": "BETWEEN:"
+        },
+        {
+          "type": "paragraph",
+          "text": "Line to fill out __________________________, a foreign bank duly organized and existing under the laws of Line to fill out ___________________, operating in Canada under the name Line to fill out ___________________. (hereinafter called the \"Authorized Foreign Bank\")"
+        },
+        {
+          "type": "paragraph",
+          "text": "AND:"
+        },
+        {
+          "type": "paragraph",
+          "text": "Line to fill out __________________________, a Canadian financial institution incorporated under the laws of Line to fill out ___________________ (hereinafter called the \"Depository\")"
+        },
+        {
+          "type": "paragraph",
+          "text": "AND:"
+        },
+        {
+          "type": "paragraph",
+          "text": "The Superintendent of Financial Institutions (hereinafter called the \"Superintendent\")"
+        },
+        {
+          "type": "paragraph",
+          "text": "WHEREAS the Authorized Foreign Bank is authorized by an order of the Minister of Finance (hereinafter called the \"Minister\") made under the Bank Act (hereinafter called the \"Act\") to establish a branch in Canada to carry on business in Canada;"
+        },
+        {
+          "type": "paragraph",
+          "text": "WHEREAS the Act requires a foreign bank authorized under the Act to establish a branch in Canada to carry on business in Canada to maintain on deposit with a Canadian financial institution approved by the Superintendent pursuant to a deposit agreement entered into with the prior approval of the Superintendent unencumbered assets of a type approved by the Superintendent having a total value determined in accordance with the Act."
+        },
+        {
+          "type": "paragraph",
+          "text": "NOW THEREFORE the parties hereto agree with one another as follows:"
+        }
+      ]
+    },
+    {
+      "heading": "APPOINTMENT OF DEPOSITORY",
+      "heading_level": 4,
+      "full_text": "  1. The Authorized Foreign Bank appoints, as depository, the Depository to hold for the purposes of the Act the assets that the Authorized Foreign Bank may deposit with the Depository pursuant this Agreement.\nThe Authorized Foreign Bank appoints, as depository, the Depository to hold for the purposes of the Act the assets that the Authorized Foreign Bank may deposit with the Depository pursuant this Agreement.",
+      "content": [
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "The Authorized Foreign Bank appoints, as depository, the Depository to hold for the purposes of the Act the assets that the Authorized Foreign Bank may deposit with the Depository pursuant this Agreement."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "The Authorized Foreign Bank appoints, as depository, the Depository to hold for the purposes of the Act the assets that the Authorized Foreign Bank may deposit with the Depository pursuant this Agreement."
+        }
+      ]
+    },
+    {
+      "heading": "DEPOSITED ASSETS",
+      "heading_level": 4,
+      "full_text": "  1. Subject to subclause 6(b) Text for screen readers: b = 2 , the Authorized Foreign Bank shall have the sole responsibility to deposit with the Depository assets so that, at any time, the total value of those assets, when determined on the basis prescribed under the Act, is at least equal to the value of the assets that the Act requires the Authorized Foreign Bank to maintain on deposit at that time. Assets deposited under this Agreement shall be held by the Depository in an account identified in its records as separate and distinct from other accounts of the Depository. The Authorized Foreign Bank shall ensure that assets deposited under this Agreement are at the time of deposit, and remain, free of all liens, charges and encumbrances of any nature except for the charge customarily required to be given by the relevant participant in the CDS Clearing and Depository Services Inc. under the rules governing participation in the CDS Clearing and Depository Services Inc. on an asset deposited, and recorded in book-based form, with the CDS Clearing and Depository Services Inc. The Depository shall have no responsibility for ensuring that assets deposited are at the time of deposit, and remain, free of all liens, charges and encumbrances of any nature. The Depository acknowledges and agrees that, subject to clause 17, it has no right, title, interest or claim of any kind in or to any of the assets deposited with it pursuant to this Agreement; and it shall not allege any such right, title, interest or claim. Assets deposited under this Agreement may not be used as part of a securities lending program.\n  1. Subject to subclause 6(b) Text for screen readers: b = 2 , the Authorized Foreign Bank shall have the sole responsibility to deposit with the Depository assets so that, at any time, the total value of those assets, when determined on the basis prescribed under the Act, is at least equal to the value of the assets that the Act requires the Authorized Foreign Bank to maintain on deposit at that time.\n  2. Assets deposited under this Agreement shall be held by the Depository in an account identified in its records as separate and distinct from other accounts of the Depository.\n  3. The Authorized Foreign Bank shall ensure that assets deposited under this Agreement are at the time of deposit, and remain, free of all liens, charges and encumbrances of any nature except for the charge customarily required to be given by the relevant participant in the CDS Clearing and Depository Services Inc. under the rules governing participation in the CDS Clearing and Depository Services Inc. on an asset deposited, and recorded in book-based form, with the CDS Clearing and Depository Services Inc. The Depository shall have no responsibility for ensuring that assets deposited are at the time of deposit, and remain, free of all liens, charges and encumbrances of any nature.\n  4. The Depository acknowledges and agrees that, subject to clause 17, it has no right, title, interest or claim of any kind in or to any of the assets deposited with it pursuant to this Agreement; and it shall not allege any such right, title, interest or claim.\n  5. Assets deposited under this Agreement may not be used as part of a securities lending program.\nSubject to subclause 6(b) Text for screen readers: b = 2 , the Authorized Foreign Bank shall have the sole responsibility to deposit with the Depository assets so that, at any time, the total value of those assets, when determined on the basis prescribed under the Act, is at least equal to the value of the assets that the Act requires the Authorized Foreign Bank to maintain on deposit at that time.\nAssets deposited under this Agreement shall be held by the Depository in an account identified in its records as separate and distinct from other accounts of the Depository.\nThe Authorized Foreign Bank shall ensure that assets deposited under this Agreement are at the time of deposit, and remain, free of all liens, charges and encumbrances of any nature except for the charge customarily required to be given by the relevant participant in the CDS Clearing and Depository Services Inc. under the rules governing participation in the CDS Clearing and Depository Services Inc. on an asset deposited, and recorded in book-based form, with the CDS Clearing and Depository Services Inc. The Depository shall have no responsibility for ensuring that assets deposited are at the time of deposit, and remain, free of all liens, charges and encumbrances of any nature.\nThe Depository acknowledges and agrees that, subject to clause 17,\n  1. it has no right, title, interest or claim of any kind in or to any of the assets deposited with it pursuant to this Agreement; and\n  2. it shall not allege any such right, title, interest or claim.\nit has no right, title, interest or claim of any kind in or to any of the assets deposited with it pursuant to this Agreement; and\nit shall not allege any such right, title, interest or claim.",
+      "content": [
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "Subject to subclause 6(b) Text for screen readers: b = 2 , the Authorized Foreign Bank shall have the sole responsibility to deposit with the Depository assets so that, at any time, the total value of those assets, when determined on the basis prescribed under the Act, is at least equal to the value of the assets that the Act requires the Authorized Foreign Bank to maintain on deposit at that time. Assets deposited under this Agreement shall be held by the Depository in an account identified in its records as separate and distinct from other accounts of the Depository. The Authorized Foreign Bank shall ensure that assets deposited under this Agreement are at the time of deposit, and remain, free of all liens, charges and encumbrances of any nature except for the charge customarily required to be given by the relevant participant in the CDS Clearing and Depository Services Inc. under the rules governing participation in the CDS Clearing and Depository Services Inc. on an asset deposited, and recorded in book-based form, with the CDS Clearing and Depository Services Inc. The Depository shall have no responsibility for ensuring that assets deposited are at the time of deposit, and remain, free of all liens, charges and encumbrances of any nature. The Depository acknowledges and agrees that, subject to clause 17, it has no right, title, interest or claim of any kind in or to any of the assets deposited with it pursuant to this Agreement; and it shall not allege any such right, title, interest or claim. Assets deposited under this Agreement may not be used as part of a securities lending program."
+          ]
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "Subject to subclause 6(b) Text for screen readers: b = 2 , the Authorized Foreign Bank shall have the sole responsibility to deposit with the Depository assets so that, at any time, the total value of those assets, when determined on the basis prescribed under the Act, is at least equal to the value of the assets that the Act requires the Authorized Foreign Bank to maintain on deposit at that time.",
+            "Assets deposited under this Agreement shall be held by the Depository in an account identified in its records as separate and distinct from other accounts of the Depository.",
+            "The Authorized Foreign Bank shall ensure that assets deposited under this Agreement are at the time of deposit, and remain, free of all liens, charges and encumbrances of any nature except for the charge customarily required to be given by the relevant participant in the CDS Clearing and Depository Services Inc. under the rules governing participation in the CDS Clearing and Depository Services Inc. on an asset deposited, and recorded in book-based form, with the CDS Clearing and Depository Services Inc. The Depository shall have no responsibility for ensuring that assets deposited are at the time of deposit, and remain, free of all liens, charges and encumbrances of any nature.",
+            "The Depository acknowledges and agrees that, subject to clause 17, it has no right, title, interest or claim of any kind in or to any of the assets deposited with it pursuant to this Agreement; and it shall not allege any such right, title, interest or claim.",
+            "Assets deposited under this Agreement may not be used as part of a securities lending program."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Subject to subclause 6(b) Text for screen readers: b = 2 , the Authorized Foreign Bank shall have the sole responsibility to deposit with the Depository assets so that, at any time, the total value of those assets, when determined on the basis prescribed under the Act, is at least equal to the value of the assets that the Act requires the Authorized Foreign Bank to maintain on deposit at that time."
+        },
+        {
+          "type": "paragraph",
+          "text": "Assets deposited under this Agreement shall be held by the Depository in an account identified in its records as separate and distinct from other accounts of the Depository."
+        },
+        {
+          "type": "paragraph",
+          "text": "The Authorized Foreign Bank shall ensure that assets deposited under this Agreement are at the time of deposit, and remain, free of all liens, charges and encumbrances of any nature except for the charge customarily required to be given by the relevant participant in the CDS Clearing and Depository Services Inc. under the rules governing participation in the CDS Clearing and Depository Services Inc. on an asset deposited, and recorded in book-based form, with the CDS Clearing and Depository Services Inc. The Depository shall have no responsibility for ensuring that assets deposited are at the time of deposit, and remain, free of all liens, charges and encumbrances of any nature."
+        },
+        {
+          "type": "paragraph",
+          "text": "The Depository acknowledges and agrees that, subject to clause 17,"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "it has no right, title, interest or claim of any kind in or to any of the assets deposited with it pursuant to this Agreement; and",
+            "it shall not allege any such right, title, interest or claim."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "it has no right, title, interest or claim of any kind in or to any of the assets deposited with it pursuant to this Agreement; and"
+        },
+        {
+          "type": "paragraph",
+          "text": "it shall not allege any such right, title, interest or claim."
+        }
+      ]
+    },
+    {
+      "heading": "DEPOSITING, VARYING, EXCHANGING OR WITHDRAWING ASSETS",
+      "heading_level": 4,
+      "full_text": "  1. Subject to clause 2 and subclause (b) Text for screen readers: b = 2 , prior to depositing an asset or withdrawing a deposited asset, the Authorized Foreign Bank shall obtain the written approval of the Superintendent. Upon receipt of a copy of that written approval, the Depository shall follow the written direction of the Authorized Foreign Bank in respect of the asset. Unless the Superintendent has otherwise directed by written notice to both the Authorized Foreign Bank and the Depository, the Authorized Foreign Bank may, without the prior written approval of the Superintendent, deposit an asset listed in Schedule \"A\" of this Agreement, or withdraw a deposited asset on condition that the asset withdrawn is replaced, either prior to or simultaneously with, an asset or assets listed in Schedule \"A\" the market value of which on the date of the withdrawal is, and is certified by the Authorized Foreign Bank to the Depository to be, at least equal to the market value of the asset withdrawn.\n  1. Subject to clause 2 and subclause (b) Text for screen readers: b = 2 , prior to depositing an asset or withdrawing a deposited asset, the Authorized Foreign Bank shall obtain the written approval of the Superintendent. Upon receipt of a copy of that written approval, the Depository shall follow the written direction of the Authorized Foreign Bank in respect of the asset.\n  2. Unless the Superintendent has otherwise directed by written notice to both the Authorized Foreign Bank and the Depository, the Authorized Foreign Bank may, without the prior written approval of the Superintendent, deposit an asset listed in Schedule \"A\" of this Agreement, or withdraw a deposited asset on condition that the asset withdrawn is replaced, either prior to or simultaneously with, an asset or assets listed in Schedule \"A\" the market value of which on the date of the withdrawal is, and is certified by the Authorized Foreign Bank to the Depository to be, at least equal to the market value of the asset withdrawn.\nSubject to clause 2 and subclause (b) Text for screen readers: b = 2 , prior to depositing an asset or withdrawing a deposited asset, the Authorized Foreign Bank shall obtain the written approval of the Superintendent. Upon receipt of a copy of that written approval, the Depository shall follow the written direction of the Authorized Foreign Bank in respect of the asset.\nUnless the Superintendent has otherwise directed by written notice to both the Authorized Foreign Bank and the Depository, the Authorized Foreign Bank may, without the prior written approval of the Superintendent,\n  1. deposit an asset listed in Schedule \"A\" of this Agreement, or\n  2. withdraw a deposited asset on condition that the asset withdrawn is replaced, either prior to or simultaneously with, an asset or assets listed in Schedule \"A\" the market value of which on the date of the withdrawal is, and is certified by the Authorized Foreign Bank to the Depository to be, at least equal to the market value of the asset withdrawn.\ndeposit an asset listed in Schedule \"A\" of this Agreement, or\nwithdraw a deposited asset on condition that the asset withdrawn is replaced, either prior to or simultaneously with, an asset or assets listed in Schedule \"A\" the market value of which on the date of the withdrawal is, and is certified by the Authorized Foreign Bank to the Depository to be, at least equal to the market value of the asset withdrawn.",
+      "content": [
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "Subject to clause 2 and subclause (b) Text for screen readers: b = 2 , prior to depositing an asset or withdrawing a deposited asset, the Authorized Foreign Bank shall obtain the written approval of the Superintendent. Upon receipt of a copy of that written approval, the Depository shall follow the written direction of the Authorized Foreign Bank in respect of the asset. Unless the Superintendent has otherwise directed by written notice to both the Authorized Foreign Bank and the Depository, the Authorized Foreign Bank may, without the prior written approval of the Superintendent, deposit an asset listed in Schedule \"A\" of this Agreement, or withdraw a deposited asset on condition that the asset withdrawn is replaced, either prior to or simultaneously with, an asset or assets listed in Schedule \"A\" the market value of which on the date of the withdrawal is, and is certified by the Authorized Foreign Bank to the Depository to be, at least equal to the market value of the asset withdrawn."
+          ]
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "Subject to clause 2 and subclause (b) Text for screen readers: b = 2 , prior to depositing an asset or withdrawing a deposited asset, the Authorized Foreign Bank shall obtain the written approval of the Superintendent. Upon receipt of a copy of that written approval, the Depository shall follow the written direction of the Authorized Foreign Bank in respect of the asset.",
+            "Unless the Superintendent has otherwise directed by written notice to both the Authorized Foreign Bank and the Depository, the Authorized Foreign Bank may, without the prior written approval of the Superintendent, deposit an asset listed in Schedule \"A\" of this Agreement, or withdraw a deposited asset on condition that the asset withdrawn is replaced, either prior to or simultaneously with, an asset or assets listed in Schedule \"A\" the market value of which on the date of the withdrawal is, and is certified by the Authorized Foreign Bank to the Depository to be, at least equal to the market value of the asset withdrawn."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Subject to clause 2 and subclause (b) Text for screen readers: b = 2 , prior to depositing an asset or withdrawing a deposited asset, the Authorized Foreign Bank shall obtain the written approval of the Superintendent. Upon receipt of a copy of that written approval, the Depository shall follow the written direction of the Authorized Foreign Bank in respect of the asset."
+        },
+        {
+          "type": "paragraph",
+          "text": "Unless the Superintendent has otherwise directed by written notice to both the Authorized Foreign Bank and the Depository, the Authorized Foreign Bank may, without the prior written approval of the Superintendent,"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "deposit an asset listed in Schedule \"A\" of this Agreement, or",
+            "withdraw a deposited asset on condition that the asset withdrawn is replaced, either prior to or simultaneously with, an asset or assets listed in Schedule \"A\" the market value of which on the date of the withdrawal is, and is certified by the Authorized Foreign Bank to the Depository to be, at least equal to the market value of the asset withdrawn."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "deposit an asset listed in Schedule \"A\" of this Agreement, or"
+        },
+        {
+          "type": "paragraph",
+          "text": "withdraw a deposited asset on condition that the asset withdrawn is replaced, either prior to or simultaneously with, an asset or assets listed in Schedule \"A\" the market value of which on the date of the withdrawal is, and is certified by the Authorized Foreign Bank to the Depository to be, at least equal to the market value of the asset withdrawn."
+        }
+      ]
+    },
+    {
+      "heading": "ASSETS IN DEPOSITORY'S NAME",
+      "heading_level": 4,
+      "full_text": "  1. Subject to clause 8, the Depository shall register in its name or, subject to the written approval of the Superintendent, in the name of its nominee, any deposited asset that can be issued in registered form. [Notwithstanding the foregoing but subject to the prior approval of the Superintendent, the Authorized Foreign Bank may deposit with the Depository, and the Depository shall not be required to register in its name, mortgages on real estate acquired by or on behalf of the Authorized Foreign Bank under an agreement whereby the mortgages are to be administered by a third party.] If not applicable, the paragraph may be deleted from the Agreement.\nSubject to clause 8, the Depository shall register in its name or, subject to the written approval of the Superintendent, in the name of its nominee, any deposited asset that can be issued in registered form.\n[Notwithstanding the foregoing but subject to the prior approval of the Superintendent, the Authorized Foreign Bank may deposit with the Depository, and the Depository shall not be required to register in its name, mortgages on real estate acquired by or on behalf of the Authorized Foreign Bank under an agreement whereby the mortgages are to be administered by a third party.] If not applicable, the paragraph may be deleted from the Agreement.",
+      "content": [
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "Subject to clause 8, the Depository shall register in its name or, subject to the written approval of the Superintendent, in the name of its nominee, any deposited asset that can be issued in registered form. [Notwithstanding the foregoing but subject to the prior approval of the Superintendent, the Authorized Foreign Bank may deposit with the Depository, and the Depository shall not be required to register in its name, mortgages on real estate acquired by or on behalf of the Authorized Foreign Bank under an agreement whereby the mortgages are to be administered by a third party.] If not applicable, the paragraph may be deleted from the Agreement."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Subject to clause 8, the Depository shall register in its name or, subject to the written approval of the Superintendent, in the name of its nominee, any deposited asset that can be issued in registered form."
+        },
+        {
+          "type": "paragraph",
+          "text": "[Notwithstanding the foregoing but subject to the prior approval of the Superintendent, the Authorized Foreign Bank may deposit with the Depository, and the Depository shall not be required to register in its name, mortgages on real estate acquired by or on behalf of the Authorized Foreign Bank under an agreement whereby the mortgages are to be administered by a third party.] If not applicable, the paragraph may be deleted from the Agreement."
+        }
+      ]
+    },
+    {
+      "heading": "POWERS AND AUTHORITY OF DEPOSITORY",
+      "heading_level": 4,
+      "full_text": "  1. Subject to clause 3, the Depository, on the written direction of the Authorized Foreign Bank, shall have full authority to deal with, vary and exchange the deposited assets and to demand, recover, sue for and receive such sums of money which shall hereafter become due or appear to be due or payable or belonging to the Authorized Foreign Bank in connection with such deposited assets, including all dividends and interest which may become due or appear to be due, with power to compromise any claim upon such terms as the Depository, under direction as aforesaid, shall see fit; upon recovery or receipt for the Authorized Foreign Bank and in its name and as its act and deed to give such good and sufficient acquittances as may be requested; and as to the deposited assets so held to exercise and execute all powers vested in the Authorized Foreign Bank by debtors or other obligors specified therein; and also, under direction as aforesaid, for the Authorized Foreign Bank and in its name or otherwise in its behalf, to make purchases and sales of shares, stocks and bonds and other assets deposited or to be deposited under this Agreement; and in that connection, for the Authorized Foreign Bank and in its name and as its act and deed, to give all such assurances, covenants or other documents as shall be required and as the Depository shall see fit; as well as to give receipts in its own name or in the name of the Authorized Foreign Bank for any sums paid, which receipts shall exempt the person or persons paying from all responsibility of seeing to the application thereof. Subject to the prior written approval of the Authorized Foreign Bank, which approval must not be unreasonably withheld, the Depository may employ agents and counsel (who may be counsel to the Authorized Foreign Bank) and other professional advisors at the expense of the Authorized Foreign Bank. The Depository may, from time to time, deal with securities of the same class and nature as may constitute the deposited assets on its own behalf or on behalf of accounts it manages, subject to Part XI of the Trust and Loan Companies Act (Part XI of the Act), be affiliated with any party to whom or from whom such securities may be sold or purchased, or use in other capacities knowledge gained in its capacity hereunder without being liable to account therefore in law or in equity except where the use would be detrimental, prejudicial, or adverse to the best interests of the Authorized Foreign Bank.\n  1. Subject to clause 3, the Depository, on the written direction of the Authorized Foreign Bank, shall have full authority to deal with, vary and exchange the deposited assets and to demand, recover, sue for and receive such sums of money which shall hereafter become due or appear to be due or payable or belonging to the Authorized Foreign Bank in connection with such deposited assets, including all dividends and interest which may become due or appear to be due, with power to compromise any claim upon such terms as the Depository, under direction as aforesaid, shall see fit; upon recovery or receipt for the Authorized Foreign Bank and in its name and as its act and deed to give such good and sufficient acquittances as may be requested; and as to the deposited assets so held to exercise and execute all powers vested in the Authorized Foreign Bank by debtors or other obligors specified therein; and also, under direction as aforesaid, for the Authorized Foreign Bank and in its name or otherwise in its behalf, to make purchases and sales of shares, stocks and bonds and other assets deposited or to be deposited under this Agreement; and in that connection, for the Authorized Foreign Bank and in its name and as its act and deed, to give all such assurances, covenants or other documents as shall be required and as the Depository shall see fit; as well as to give receipts in its own name or in the name of the Authorized Foreign Bank for any sums paid, which receipts shall exempt the person or persons paying from all responsibility of seeing to the application thereof.\n  2. Subject to the prior written approval of the Authorized Foreign Bank, which approval must not be unreasonably withheld, the Depository may employ agents and counsel (who may be counsel to the Authorized Foreign Bank) and other professional advisors at the expense of the Authorized Foreign Bank.\n  3. The Depository may, from time to time, deal with securities of the same class and nature as may constitute the deposited assets on its own behalf or on behalf of accounts it manages, subject to Part XI of the Trust and Loan Companies Act (Part XI of the Act), be affiliated with any party to whom or from whom such securities may be sold or purchased, or use in other capacities knowledge gained in its capacity hereunder without being liable to account therefore in law or in equity except where the use would be detrimental, prejudicial, or adverse to the best interests of the Authorized Foreign Bank.\nSubject to clause 3, the Depository, on the written direction of the Authorized Foreign Bank, shall have full authority to deal with, vary and exchange the deposited assets and to demand, recover, sue for and receive such sums of money which shall hereafter become due or appear to be due or payable or belonging to the Authorized Foreign Bank in connection with such deposited assets, including all dividends and interest which may become due or appear to be due, with power to compromise any claim upon such terms as the Depository, under direction as aforesaid, shall see fit; upon recovery or receipt for the Authorized Foreign Bank and in its name and as its act and deed to give such good and sufficient acquittances as may be requested; and as to the deposited assets so held to exercise and execute all powers vested in the Authorized Foreign Bank by debtors or other obligors specified therein; and also, under direction as aforesaid, for the Authorized Foreign Bank and in its name or otherwise in its behalf, to make purchases and sales of shares, stocks and bonds and other assets deposited or to be deposited under this Agreement; and in that connection, for the Authorized Foreign Bank and in its name and as its act and deed, to give all such assurances, covenants or other documents as shall be required and as the Depository shall see fit; as well as to give receipts in its own name or in the name of the Authorized Foreign Bank for any sums paid, which receipts shall exempt the person or persons paying from all responsibility of seeing to the application thereof.\nSubject to the prior written approval of the Authorized Foreign Bank, which approval must not be unreasonably withheld, the Depository may employ agents and counsel (who may be counsel to the Authorized Foreign Bank) and other professional advisors at the expense of the Authorized Foreign Bank.\nThe Depository may, from time to time,\n  1. deal with securities of the same class and nature as may constitute the deposited assets on its own behalf or on behalf of accounts it manages,\n  2. subject to Part XI of the Trust and Loan Companies Act (Part XI of the Act), be affiliated with any party to whom or from whom such securities may be sold or purchased, or\n  3. use in other capacities knowledge gained in its capacity hereunder without being liable to account therefore in law or in equity except where the use would be detrimental, prejudicial, or adverse to the best interests of the Authorized Foreign Bank.\ndeal with securities of the same class and nature as may constitute the deposited assets on its own behalf or on behalf of accounts it manages,\nsubject to Part XI of the Trust and Loan Companies Act (Part XI of the Act), be affiliated with any party to whom or from whom such securities may be sold or purchased, or\nuse in other capacities knowledge gained in its capacity hereunder without being liable to account therefore in law or in equity except where the use would be detrimental, prejudicial, or adverse to the best interests of the Authorized Foreign Bank.",
+      "content": [
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "Subject to clause 3, the Depository, on the written direction of the Authorized Foreign Bank, shall have full authority to deal with, vary and exchange the deposited assets and to demand, recover, sue for and receive such sums of money which shall hereafter become due or appear to be due or payable or belonging to the Authorized Foreign Bank in connection with such deposited assets, including all dividends and interest which may become due or appear to be due, with power to compromise any claim upon such terms as the Depository, under direction as aforesaid, shall see fit; upon recovery or receipt for the Authorized Foreign Bank and in its name and as its act and deed to give such good and sufficient acquittances as may be requested; and as to the deposited assets so held to exercise and execute all powers vested in the Authorized Foreign Bank by debtors or other obligors specified therein; and also, under direction as aforesaid, for the Authorized Foreign Bank and in its name or otherwise in its behalf, to make purchases and sales of shares, stocks and bonds and other assets deposited or to be deposited under this Agreement; and in that connection, for the Authorized Foreign Bank and in its name and as its act and deed, to give all such assurances, covenants or other documents as shall be required and as the Depository shall see fit; as well as to give receipts in its own name or in the name of the Authorized Foreign Bank for any sums paid, which receipts shall exempt the person or persons paying from all responsibility of seeing to the application thereof. Subject to the prior written approval of the Authorized Foreign Bank, which approval must not be unreasonably withheld, the Depository may employ agents and counsel (who may be counsel to the Authorized Foreign Bank) and other professional advisors at the expense of the Authorized Foreign Bank. The Depository may, from time to time, deal with securities of the same class and nature as may constitute the deposited assets on its own behalf or on behalf of accounts it manages, subject to Part XI of the Trust and Loan Companies Act (Part XI of the Act), be affiliated with any party to whom or from whom such securities may be sold or purchased, or use in other capacities knowledge gained in its capacity hereunder without being liable to account therefore in law or in equity except where the use would be detrimental, prejudicial, or adverse to the best interests of the Authorized Foreign Bank."
+          ]
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "Subject to clause 3, the Depository, on the written direction of the Authorized Foreign Bank, shall have full authority to deal with, vary and exchange the deposited assets and to demand, recover, sue for and receive such sums of money which shall hereafter become due or appear to be due or payable or belonging to the Authorized Foreign Bank in connection with such deposited assets, including all dividends and interest which may become due or appear to be due, with power to compromise any claim upon such terms as the Depository, under direction as aforesaid, shall see fit; upon recovery or receipt for the Authorized Foreign Bank and in its name and as its act and deed to give such good and sufficient acquittances as may be requested; and as to the deposited assets so held to exercise and execute all powers vested in the Authorized Foreign Bank by debtors or other obligors specified therein; and also, under direction as aforesaid, for the Authorized Foreign Bank and in its name or otherwise in its behalf, to make purchases and sales of shares, stocks and bonds and other assets deposited or to be deposited under this Agreement; and in that connection, for the Authorized Foreign Bank and in its name and as its act and deed, to give all such assurances, covenants or other documents as shall be required and as the Depository shall see fit; as well as to give receipts in its own name or in the name of the Authorized Foreign Bank for any sums paid, which receipts shall exempt the person or persons paying from all responsibility of seeing to the application thereof.",
+            "Subject to the prior written approval of the Authorized Foreign Bank, which approval must not be unreasonably withheld, the Depository may employ agents and counsel (who may be counsel to the Authorized Foreign Bank) and other professional advisors at the expense of the Authorized Foreign Bank.",
+            "The Depository may, from time to time, deal with securities of the same class and nature as may constitute the deposited assets on its own behalf or on behalf of accounts it manages, subject to Part XI of the Trust and Loan Companies Act (Part XI of the Act), be affiliated with any party to whom or from whom such securities may be sold or purchased, or use in other capacities knowledge gained in its capacity hereunder without being liable to account therefore in law or in equity except where the use would be detrimental, prejudicial, or adverse to the best interests of the Authorized Foreign Bank."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Subject to clause 3, the Depository, on the written direction of the Authorized Foreign Bank, shall have full authority to deal with, vary and exchange the deposited assets and to demand, recover, sue for and receive such sums of money which shall hereafter become due or appear to be due or payable or belonging to the Authorized Foreign Bank in connection with such deposited assets, including all dividends and interest which may become due or appear to be due, with power to compromise any claim upon such terms as the Depository, under direction as aforesaid, shall see fit; upon recovery or receipt for the Authorized Foreign Bank and in its name and as its act and deed to give such good and sufficient acquittances as may be requested; and as to the deposited assets so held to exercise and execute all powers vested in the Authorized Foreign Bank by debtors or other obligors specified therein; and also, under direction as aforesaid, for the Authorized Foreign Bank and in its name or otherwise in its behalf, to make purchases and sales of shares, stocks and bonds and other assets deposited or to be deposited under this Agreement; and in that connection, for the Authorized Foreign Bank and in its name and as its act and deed, to give all such assurances, covenants or other documents as shall be required and as the Depository shall see fit; as well as to give receipts in its own name or in the name of the Authorized Foreign Bank for any sums paid, which receipts shall exempt the person or persons paying from all responsibility of seeing to the application thereof."
+        },
+        {
+          "type": "paragraph",
+          "text": "Subject to the prior written approval of the Authorized Foreign Bank, which approval must not be unreasonably withheld, the Depository may employ agents and counsel (who may be counsel to the Authorized Foreign Bank) and other professional advisors at the expense of the Authorized Foreign Bank."
+        },
+        {
+          "type": "paragraph",
+          "text": "The Depository may, from time to time,"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "deal with securities of the same class and nature as may constitute the deposited assets on its own behalf or on behalf of accounts it manages,",
+            "subject to Part XI of the Trust and Loan Companies Act (Part XI of the Act), be affiliated with any party to whom or from whom such securities may be sold or purchased, or",
+            "use in other capacities knowledge gained in its capacity hereunder without being liable to account therefore in law or in equity except where the use would be detrimental, prejudicial, or adverse to the best interests of the Authorized Foreign Bank."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "deal with securities of the same class and nature as may constitute the deposited assets on its own behalf or on behalf of accounts it manages,"
+        },
+        {
+          "type": "paragraph",
+          "text": "subject to Part XI of the Trust and Loan Companies Act (Part XI of the Act), be affiliated with any party to whom or from whom such securities may be sold or purchased, or"
+        },
+        {
+          "type": "paragraph",
+          "text": "use in other capacities knowledge gained in its capacity hereunder without being liable to account therefore in law or in equity except where the use would be detrimental, prejudicial, or adverse to the best interests of the Authorized Foreign Bank."
+        }
+      ]
+    },
+    {
+      "heading": "ACCOUNTABILITY OF DEPOSITORY",
+      "heading_level": 4,
+      "full_text": "  1. Subject to subparagraph (b) Text for screen readers: b = 2 , the Depository will exercise its powers and carry out its obligations under this Agreement as Depository honestly and in good faith and in connection therewith will exercise that degree of care, diligence and skill that a reasonable and prudent person would exercise in comparable circumstances. Where the Superintendent determines that a deposited asset is withdrawn other than in accordance with clause 3, the Superintendent shall so notify the Depository. Within thirty (30) days of the day on which the Depository is notified by the Superintendent, the Depository shall replace that asset with an asset or assets of the kind listed in Schedule \"A\" so that the market value of the deposited assets on the replacement date is equal to the lesser of: the total market value of the assets that the Act requires the Authorized Foreign Bank to maintain on deposit on the replacement date; and the total market value of assets deposited on the day when the deposited asset was withdrawn other than in accordance with clause 3 determined before giving effect to the withdrawal. In each instance where the Depository replaces an asset in accordance with this paragraph, the Authorized Foreign Bank shall immediately reimburse the Depository for all loss, damage, expense, and costs incurred by the Depository in respect of the replacement.\n  1. Subject to subparagraph (b) Text for screen readers: b = 2 , the Depository will exercise its powers and carry out its obligations under this Agreement as Depository honestly and in good faith and in connection therewith will exercise that degree of care, diligence and skill that a reasonable and prudent person would exercise in comparable circumstances.\n  2. Where the Superintendent determines that a deposited asset is withdrawn other than in accordance with clause 3, the Superintendent shall so notify the Depository. Within thirty (30) days of the day on which the Depository is notified by the Superintendent, the Depository shall replace that asset with an asset or assets of the kind listed in Schedule \"A\" so that the market value of the deposited assets on the replacement date is equal to the lesser of: the total market value of the assets that the Act requires the Authorized Foreign Bank to maintain on deposit on the replacement date; and the total market value of assets deposited on the day when the deposited asset was withdrawn other than in accordance with clause 3 determined before giving effect to the withdrawal. In each instance where the Depository replaces an asset in accordance with this paragraph, the Authorized Foreign Bank shall immediately reimburse the Depository for all loss, damage, expense, and costs incurred by the Depository in respect of the replacement.\nSubject to subparagraph (b) Text for screen readers: b = 2 , the Depository will exercise its powers and carry out its obligations under this Agreement as Depository honestly and in good faith and in connection therewith will exercise that degree of care, diligence and skill that a reasonable and prudent person would exercise in comparable circumstances.\nWhere the Superintendent determines that a deposited asset is withdrawn other than in accordance with clause 3, the Superintendent shall so notify the Depository. Within thirty (30) days of the day on which the Depository is notified by the Superintendent, the Depository shall replace that asset with an asset or assets of the kind listed in Schedule \"A\" so that the market value of the deposited assets on the replacement date is equal to the lesser of:\n  1. the total market value of the assets that the Act requires the Authorized Foreign Bank to maintain on deposit on the replacement date; and\n  2. the total market value of assets deposited on the day when the deposited asset was withdrawn other than in accordance with clause 3 determined before giving effect to the withdrawal.\nthe total market value of the assets that the Act requires the Authorized Foreign Bank to maintain on deposit on the replacement date; and\nthe total market value of assets deposited on the day when the deposited asset was withdrawn other than in accordance with clause 3 determined before giving effect to the withdrawal.\nIn each instance where the Depository replaces an asset in accordance with this paragraph, the Authorized Foreign Bank shall immediately reimburse the Depository for all loss, damage, expense, and costs incurred by the Depository in respect of the replacement.",
+      "content": [
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "Subject to subparagraph (b) Text for screen readers: b = 2 , the Depository will exercise its powers and carry out its obligations under this Agreement as Depository honestly and in good faith and in connection therewith will exercise that degree of care, diligence and skill that a reasonable and prudent person would exercise in comparable circumstances. Where the Superintendent determines that a deposited asset is withdrawn other than in accordance with clause 3, the Superintendent shall so notify the Depository. Within thirty (30) days of the day on which the Depository is notified by the Superintendent, the Depository shall replace that asset with an asset or assets of the kind listed in Schedule \"A\" so that the market value of the deposited assets on the replacement date is equal to the lesser of: the total market value of the assets that the Act requires the Authorized Foreign Bank to maintain on deposit on the replacement date; and the total market value of assets deposited on the day when the deposited asset was withdrawn other than in accordance with clause 3 determined before giving effect to the withdrawal. In each instance where the Depository replaces an asset in accordance with this paragraph, the Authorized Foreign Bank shall immediately reimburse the Depository for all loss, damage, expense, and costs incurred by the Depository in respect of the replacement."
+          ]
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "Subject to subparagraph (b) Text for screen readers: b = 2 , the Depository will exercise its powers and carry out its obligations under this Agreement as Depository honestly and in good faith and in connection therewith will exercise that degree of care, diligence and skill that a reasonable and prudent person would exercise in comparable circumstances.",
+            "Where the Superintendent determines that a deposited asset is withdrawn other than in accordance with clause 3, the Superintendent shall so notify the Depository. Within thirty (30) days of the day on which the Depository is notified by the Superintendent, the Depository shall replace that asset with an asset or assets of the kind listed in Schedule \"A\" so that the market value of the deposited assets on the replacement date is equal to the lesser of: the total market value of the assets that the Act requires the Authorized Foreign Bank to maintain on deposit on the replacement date; and the total market value of assets deposited on the day when the deposited asset was withdrawn other than in accordance with clause 3 determined before giving effect to the withdrawal. In each instance where the Depository replaces an asset in accordance with this paragraph, the Authorized Foreign Bank shall immediately reimburse the Depository for all loss, damage, expense, and costs incurred by the Depository in respect of the replacement."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Subject to subparagraph (b) Text for screen readers: b = 2 , the Depository will exercise its powers and carry out its obligations under this Agreement as Depository honestly and in good faith and in connection therewith will exercise that degree of care, diligence and skill that a reasonable and prudent person would exercise in comparable circumstances."
+        },
+        {
+          "type": "paragraph",
+          "text": "Where the Superintendent determines that a deposited asset is withdrawn other than in accordance with clause 3, the Superintendent shall so notify the Depository. Within thirty (30) days of the day on which the Depository is notified by the Superintendent, the Depository shall replace that asset with an asset or assets of the kind listed in Schedule \"A\" so that the market value of the deposited assets on the replacement date is equal to the lesser of:"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "the total market value of the assets that the Act requires the Authorized Foreign Bank to maintain on deposit on the replacement date; and",
+            "the total market value of assets deposited on the day when the deposited asset was withdrawn other than in accordance with clause 3 determined before giving effect to the withdrawal."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "the total market value of the assets that the Act requires the Authorized Foreign Bank to maintain on deposit on the replacement date; and"
+        },
+        {
+          "type": "paragraph",
+          "text": "the total market value of assets deposited on the day when the deposited asset was withdrawn other than in accordance with clause 3 determined before giving effect to the withdrawal."
+        },
+        {
+          "type": "paragraph",
+          "text": "In each instance where the Depository replaces an asset in accordance with this paragraph, the Authorized Foreign Bank shall immediately reimburse the Depository for all loss, damage, expense, and costs incurred by the Depository in respect of the replacement."
+        }
+      ]
+    },
+    {
+      "heading": "DIRECTION OF AUTHORIZED FOREIGN BANK",
+      "heading_level": 4,
+      "full_text": "  1. The Authorized Foreign Bank shall identify to the Depository, in writing, those Authorized Foreign Bank representatives authorized to direct the Depository in respect of a matter under this Agreement. The Depository shall act only upon the written directions of those Authorized Foreign Bank representatives and shall have no duty to verify the appropriateness of any directions which shall be binding on the Authorized Foreign Bank.\nThe Authorized Foreign Bank shall identify to the Depository, in writing, those Authorized Foreign Bank representatives authorized to direct the Depository in respect of a matter under this Agreement. The Depository shall act only upon the written directions of those Authorized Foreign Bank representatives and shall have no duty to verify the appropriateness of any directions which shall be binding on the Authorized Foreign Bank.",
+      "content": [
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "The Authorized Foreign Bank shall identify to the Depository, in writing, those Authorized Foreign Bank representatives authorized to direct the Depository in respect of a matter under this Agreement. The Depository shall act only upon the written directions of those Authorized Foreign Bank representatives and shall have no duty to verify the appropriateness of any directions which shall be binding on the Authorized Foreign Bank."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "The Authorized Foreign Bank shall identify to the Depository, in writing, those Authorized Foreign Bank representatives authorized to direct the Depository in respect of a matter under this Agreement. The Depository shall act only upon the written directions of those Authorized Foreign Bank representatives and shall have no duty to verify the appropriateness of any directions which shall be binding on the Authorized Foreign Bank."
+        }
+      ]
+    },
+    {
+      "heading": "CDS CLEARING AND DEPOSITORY SERVICES INC.",
+      "heading_level": 4,
+      "full_text": "  1. Subject to the written approval of the Superintendent, the Depository, on the written direction of the Authorized Foreign Bank, may deposit certain of the deposited assets with the CDS Clearing and Depository Services Inc. and shall have the same responsibility for the deposited assets whether in the possession of the Depository or deposited with the CDS Clearing and Depository Services Inc.\nSubject to the written approval of the Superintendent, the Depository, on the written direction of the Authorized Foreign Bank, may deposit certain of the deposited assets with the CDS Clearing and Depository Services Inc. and shall have the same responsibility for the deposited assets whether in the possession of the Depository or deposited with the CDS Clearing and Depository Services Inc.",
+      "content": [
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "Subject to the written approval of the Superintendent, the Depository, on the written direction of the Authorized Foreign Bank, may deposit certain of the deposited assets with the CDS Clearing and Depository Services Inc. and shall have the same responsibility for the deposited assets whether in the possession of the Depository or deposited with the CDS Clearing and Depository Services Inc."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Subject to the written approval of the Superintendent, the Depository, on the written direction of the Authorized Foreign Bank, may deposit certain of the deposited assets with the CDS Clearing and Depository Services Inc. and shall have the same responsibility for the deposited assets whether in the possession of the Depository or deposited with the CDS Clearing and Depository Services Inc."
+        }
+      ]
+    },
+    {
+      "heading": "PAYMENTS ON ACCOUNT OF AN INTEREST IN REAL ESTATE",
+      "heading_level": 4,
+      "full_text": "  1. Unless the Authorized Foreign Bank and the Depository are otherwise directed in writing by the Superintendent, the Authorized Foreign Bank may collect payments on account of any interest in real estate by way of a lease, mortgage or otherwise deposited with the Depository, provided that the Authorized Foreign Bank shall, forthwith pay to the Depository any monies collected on account of the principal of any mortgage, and on or before the tenth day of each month, notify in writing the Depository and the Superintendent of the balance of principal on any mortgage on account of which the Authorized Foreign Bank collected a principal payment and account for all monies collected hereunder, which information shall be contained in a statutory declaration of an officer of the Authorized Foreign Bank.\nUnless the Authorized Foreign Bank and the Depository are otherwise directed in writing by the Superintendent, the Authorized Foreign Bank may collect payments on account of any interest in real estate by way of a lease, mortgage or otherwise deposited with the Depository, provided that the Authorized Foreign Bank shall,\n  1. forthwith pay to the Depository any monies collected on account of the principal of any mortgage, and\n  2. on or before the tenth day of each month, notify in writing the Depository and the Superintendent of the balance of principal on any mortgage on account of which the Authorized Foreign Bank collected a principal payment and account for all monies collected hereunder, which information shall be contained in a statutory declaration of an officer of the Authorized Foreign Bank.\nforthwith pay to the Depository any monies collected on account of the principal of any mortgage, and\non or before the tenth day of each month, notify in writing the Depository and the Superintendent of the balance of principal on any mortgage on account of which the Authorized Foreign Bank collected a principal payment and account for all monies collected hereunder, which information shall be contained in a statutory declaration of an officer of the Authorized Foreign Bank.",
+      "content": [
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "Unless the Authorized Foreign Bank and the Depository are otherwise directed in writing by the Superintendent, the Authorized Foreign Bank may collect payments on account of any interest in real estate by way of a lease, mortgage or otherwise deposited with the Depository, provided that the Authorized Foreign Bank shall, forthwith pay to the Depository any monies collected on account of the principal of any mortgage, and on or before the tenth day of each month, notify in writing the Depository and the Superintendent of the balance of principal on any mortgage on account of which the Authorized Foreign Bank collected a principal payment and account for all monies collected hereunder, which information shall be contained in a statutory declaration of an officer of the Authorized Foreign Bank."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Unless the Authorized Foreign Bank and the Depository are otherwise directed in writing by the Superintendent, the Authorized Foreign Bank may collect payments on account of any interest in real estate by way of a lease, mortgage or otherwise deposited with the Depository, provided that the Authorized Foreign Bank shall,"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "forthwith pay to the Depository any monies collected on account of the principal of any mortgage, and",
+            "on or before the tenth day of each month, notify in writing the Depository and the Superintendent of the balance of principal on any mortgage on account of which the Authorized Foreign Bank collected a principal payment and account for all monies collected hereunder, which information shall be contained in a statutory declaration of an officer of the Authorized Foreign Bank."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "forthwith pay to the Depository any monies collected on account of the principal of any mortgage, and"
+        },
+        {
+          "type": "paragraph",
+          "text": "on or before the tenth day of each month, notify in writing the Depository and the Superintendent of the balance of principal on any mortgage on account of which the Authorized Foreign Bank collected a principal payment and account for all monies collected hereunder, which information shall be contained in a statutory declaration of an officer of the Authorized Foreign Bank."
+        }
+      ]
+    },
+    {
+      "heading": "EXERCISE OF RIGHTS ATTACHED TO AN ASSET",
+      "heading_level": 4,
+      "full_text": "  1. Unless the Depository is otherwise directed in writing by the Superintendent, the Depository shall hand over to the Authorized Foreign Bank all income upon the deposited assets collected by the Depository as the same is collected; and the Authorized Foreign Bank shall be entitled at all times to exercise, through such officer or other person designated by it, the right of attending, acting and voting at meetings of corporations or security holders or otherwise in respect of deposited assets and the Depository shall, at the request of the Authorized Foreign Bank, execute and deliver such instruments of proxy or attorney as may be reasonably required to enable the Authorized Foreign Bank through such officer or person to exercise such rights.\nUnless the Depository is otherwise directed in writing by the Superintendent,\n  1. the Depository shall hand over to the Authorized Foreign Bank all income upon the deposited assets collected by the Depository as the same is collected; and\n  2. the Authorized Foreign Bank shall be entitled at all times to exercise, through such officer or other person designated by it, the right of attending, acting and voting at meetings of corporations or security holders or otherwise in respect of deposited assets and the Depository shall, at the request of the Authorized Foreign Bank, execute and deliver such instruments of proxy or attorney as may be reasonably required to enable the Authorized Foreign Bank through such officer or person to exercise such rights.\nthe Depository shall hand over to the Authorized Foreign Bank all income upon the deposited assets collected by the Depository as the same is collected; and\nthe Authorized Foreign Bank shall be entitled at all times to exercise, through such officer or other person designated by it, the right of attending, acting and voting at meetings of corporations or security holders or otherwise in respect of deposited assets and the Depository shall, at the request of the Authorized Foreign Bank, execute and deliver such instruments of proxy or attorney as may be reasonably required to enable the Authorized Foreign Bank through such officer or person to exercise such rights.",
+      "content": [
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "Unless the Depository is otherwise directed in writing by the Superintendent, the Depository shall hand over to the Authorized Foreign Bank all income upon the deposited assets collected by the Depository as the same is collected; and the Authorized Foreign Bank shall be entitled at all times to exercise, through such officer or other person designated by it, the right of attending, acting and voting at meetings of corporations or security holders or otherwise in respect of deposited assets and the Depository shall, at the request of the Authorized Foreign Bank, execute and deliver such instruments of proxy or attorney as may be reasonably required to enable the Authorized Foreign Bank through such officer or person to exercise such rights."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Unless the Depository is otherwise directed in writing by the Superintendent,"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "the Depository shall hand over to the Authorized Foreign Bank all income upon the deposited assets collected by the Depository as the same is collected; and",
+            "the Authorized Foreign Bank shall be entitled at all times to exercise, through such officer or other person designated by it, the right of attending, acting and voting at meetings of corporations or security holders or otherwise in respect of deposited assets and the Depository shall, at the request of the Authorized Foreign Bank, execute and deliver such instruments of proxy or attorney as may be reasonably required to enable the Authorized Foreign Bank through such officer or person to exercise such rights."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "the Depository shall hand over to the Authorized Foreign Bank all income upon the deposited assets collected by the Depository as the same is collected; and"
+        },
+        {
+          "type": "paragraph",
+          "text": "the Authorized Foreign Bank shall be entitled at all times to exercise, through such officer or other person designated by it, the right of attending, acting and voting at meetings of corporations or security holders or otherwise in respect of deposited assets and the Depository shall, at the request of the Authorized Foreign Bank, execute and deliver such instruments of proxy or attorney as may be reasonably required to enable the Authorized Foreign Bank through such officer or person to exercise such rights."
+        }
+      ]
+    },
+    {
+      "heading": "STATEMENT OF ASSETS",
+      "heading_level": 4,
+      "full_text": "  1. Unless the Superintendent otherwise directs the Depository in writing, the Depository shall, on or before the fifteenth day of each month, or, if the fifteenth day is not a business day of the Depository, on or before the first business day of the Depository following the fifteenth day, and at such other times as requested by notice in writing to the Depository from the Superintendent, file with the Superintendent, and if the Authorized Foreign Bank so elects, with the Authorized Foreign Bank, a declaration in the form of Schedule \"B\" of this Agreement, or in such other form as may be prescribed by the Superintendent from time to time, together with a diskette containing that information as may be prescribed by the Superintendent from time to time, of all assets deposited with the Depository under this Agreement and other agreements entered into for similar purposes under the Act as at the close of business on the Depository's last business day in the immediately preceding month, and where the Authorized Foreign Bank does not elect under subparagraph (i) Text for screen readers: i = 1 , with the Authorized Foreign Bank a statement containing that information as may be prescribed by the Authorized Foreign Bank from time to time of all assets deposited with the Depository under this Agreement. Unless the Superintendent otherwise directs in writing, the Depository shall on or before the fifteenth day of January in each year, or, if the fifteenth day is not a business day of the Depository, on or before the first business day of the Depository following the fifteenth day, and at such other times as requested by notice in writing to the Depository from the Superintendent, file with the Superintendent, and if the Authorized Foreign Bank so elects, with the Authorized Foreign Bank, a declaration in the form of Schedule \"C\" or in such other form as may be prescribed by the Superintendent from time to time, together with a diskette containing that information as may be prescribed by the Superintendent from time to time, of all assets deposited with the Depository under this Agreement as at the close of business on the Depository's last business day in the immediately preceding month, and where the Authorized Foreign Bank does not elect under subparagraph (i) Text for screen readers: i = 1 , with the Authorized Foreign Bank a statement containing that information as may be agreed upon by the Authorized Foreign Bank and the Depository from time to time of all assets deposited with the Depository under this Agreement.\n  1. Unless the Superintendent otherwise directs the Depository in writing, the Depository shall, on or before the fifteenth day of each month, or, if the fifteenth day is not a business day of the Depository, on or before the first business day of the Depository following the fifteenth day, and at such other times as requested by notice in writing to the Depository from the Superintendent, file with the Superintendent, and if the Authorized Foreign Bank so elects, with the Authorized Foreign Bank, a declaration in the form of Schedule \"B\" of this Agreement, or in such other form as may be prescribed by the Superintendent from time to time, together with a diskette containing that information as may be prescribed by the Superintendent from time to time, of all assets deposited with the Depository under this Agreement and other agreements entered into for similar purposes under the Act as at the close of business on the Depository's last business day in the immediately preceding month, and where the Authorized Foreign Bank does not elect under subparagraph (i) Text for screen readers: i = 1 , with the Authorized Foreign Bank a statement containing that information as may be prescribed by the Authorized Foreign Bank from time to time of all assets deposited with the Depository under this Agreement.\n  2. Unless the Superintendent otherwise directs in writing, the Depository shall on or before the fifteenth day of January in each year, or, if the fifteenth day is not a business day of the Depository, on or before the first business day of the Depository following the fifteenth day, and at such other times as requested by notice in writing to the Depository from the Superintendent, file with the Superintendent, and if the Authorized Foreign Bank so elects, with the Authorized Foreign Bank, a declaration in the form of Schedule \"C\" or in such other form as may be prescribed by the Superintendent from time to time, together with a diskette containing that information as may be prescribed by the Superintendent from time to time, of all assets deposited with the Depository under this Agreement as at the close of business on the Depository's last business day in the immediately preceding month, and where the Authorized Foreign Bank does not elect under subparagraph (i) Text for screen readers: i = 1 , with the Authorized Foreign Bank a statement containing that information as may be agreed upon by the Authorized Foreign Bank and the Depository from time to time of all assets deposited with the Depository under this Agreement.\nUnless the Superintendent otherwise directs the Depository in writing, the Depository shall, on or before the fifteenth day of each month, or, if the fifteenth day is not a business day of the Depository, on or before the first business day of the Depository following the fifteenth day, and at such other times as requested by notice in writing to the Depository from the Superintendent, file\n  1. with the Superintendent, and if the Authorized Foreign Bank so elects, with the Authorized Foreign Bank, a declaration in the form of Schedule \"B\" of this Agreement, or in such other form as may be prescribed by the Superintendent from time to time, together with a diskette containing that information as may be prescribed by the Superintendent from time to time, of all assets deposited with the Depository under this Agreement and other agreements entered into for similar purposes under the Act as at the close of business on the Depository's last business day in the immediately preceding month, and\n  2. where the Authorized Foreign Bank does not elect under subparagraph (i) Text for screen readers: i = 1 , with the Authorized Foreign Bank a statement containing that information as may be prescribed by the Authorized Foreign Bank from time to time of all assets deposited with the Depository under this Agreement.\nwith the Superintendent, and if the Authorized Foreign Bank so elects, with the Authorized Foreign Bank, a declaration in the form of Schedule \"B\" of this Agreement, or in such other form as may be prescribed by the Superintendent from time to time, together with a diskette containing that information as may be prescribed by the Superintendent from time to time, of all assets deposited with the Depository under this Agreement and other agreements entered into for similar purposes under the Act as at the close of business on the Depository's last business day in the immediately preceding month, and\nwhere the Authorized Foreign Bank does not elect under subparagraph (i) Text for screen readers: i = 1 , with the Authorized Foreign Bank a statement containing that information as may be prescribed by the Authorized Foreign Bank from time to time of all assets deposited with the Depository under this Agreement.\nUnless the Superintendent otherwise directs in writing, the Depository shall on or before the fifteenth day of January in each year, or, if the fifteenth day is not a business day of the Depository, on or before the first business day of the Depository following the fifteenth day, and at such other times as requested by notice in writing to the Depository from the Superintendent, file\n  1. with the Superintendent, and if the Authorized Foreign Bank so elects, with the Authorized Foreign Bank, a declaration in the form of Schedule \"C\" or in such other form as may be prescribed by the Superintendent from time to time, together with a diskette containing that information as may be prescribed by the Superintendent from time to time, of all assets deposited with the Depository under this Agreement as at the close of business on the Depository's last business day in the immediately preceding month, and\n  2. where the Authorized Foreign Bank does not elect under subparagraph (i) Text for screen readers: i = 1 , with the Authorized Foreign Bank a statement containing that information as may be agreed upon by the Authorized Foreign Bank and the Depository from time to time of all assets deposited with the Depository under this Agreement.\nwith the Superintendent, and if the Authorized Foreign Bank so elects, with the Authorized Foreign Bank, a declaration in the form of Schedule \"C\" or in such other form as may be prescribed by the Superintendent from time to time, together with a diskette containing that information as may be prescribed by the Superintendent from time to time, of all assets deposited with the Depository under this Agreement as at the close of business on the Depository's last business day in the immediately preceding month, and\nwhere the Authorized Foreign Bank does not elect under subparagraph (i) Text for screen readers: i = 1 , with the Authorized Foreign Bank a statement containing that information as may be agreed upon by the Authorized Foreign Bank and the Depository from time to time of all assets deposited with the Depository under this Agreement.",
+      "content": [
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "Unless the Superintendent otherwise directs the Depository in writing, the Depository shall, on or before the fifteenth day of each month, or, if the fifteenth day is not a business day of the Depository, on or before the first business day of the Depository following the fifteenth day, and at such other times as requested by notice in writing to the Depository from the Superintendent, file with the Superintendent, and if the Authorized Foreign Bank so elects, with the Authorized Foreign Bank, a declaration in the form of Schedule \"B\" of this Agreement, or in such other form as may be prescribed by the Superintendent from time to time, together with a diskette containing that information as may be prescribed by the Superintendent from time to time, of all assets deposited with the Depository under this Agreement and other agreements entered into for similar purposes under the Act as at the close of business on the Depository's last business day in the immediately preceding month, and where the Authorized Foreign Bank does not elect under subparagraph (i) Text for screen readers: i = 1 , with the Authorized Foreign Bank a statement containing that information as may be prescribed by the Authorized Foreign Bank from time to time of all assets deposited with the Depository under this Agreement. Unless the Superintendent otherwise directs in writing, the Depository shall on or before the fifteenth day of January in each year, or, if the fifteenth day is not a business day of the Depository, on or before the first business day of the Depository following the fifteenth day, and at such other times as requested by notice in writing to the Depository from the Superintendent, file with the Superintendent, and if the Authorized Foreign Bank so elects, with the Authorized Foreign Bank, a declaration in the form of Schedule \"C\" or in such other form as may be prescribed by the Superintendent from time to time, together with a diskette containing that information as may be prescribed by the Superintendent from time to time, of all assets deposited with the Depository under this Agreement as at the close of business on the Depository's last business day in the immediately preceding month, and where the Authorized Foreign Bank does not elect under subparagraph (i) Text for screen readers: i = 1 , with the Authorized Foreign Bank a statement containing that information as may be agreed upon by the Authorized Foreign Bank and the Depository from time to time of all assets deposited with the Depository under this Agreement."
+          ]
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "Unless the Superintendent otherwise directs the Depository in writing, the Depository shall, on or before the fifteenth day of each month, or, if the fifteenth day is not a business day of the Depository, on or before the first business day of the Depository following the fifteenth day, and at such other times as requested by notice in writing to the Depository from the Superintendent, file with the Superintendent, and if the Authorized Foreign Bank so elects, with the Authorized Foreign Bank, a declaration in the form of Schedule \"B\" of this Agreement, or in such other form as may be prescribed by the Superintendent from time to time, together with a diskette containing that information as may be prescribed by the Superintendent from time to time, of all assets deposited with the Depository under this Agreement and other agreements entered into for similar purposes under the Act as at the close of business on the Depository's last business day in the immediately preceding month, and where the Authorized Foreign Bank does not elect under subparagraph (i) Text for screen readers: i = 1 , with the Authorized Foreign Bank a statement containing that information as may be prescribed by the Authorized Foreign Bank from time to time of all assets deposited with the Depository under this Agreement.",
+            "Unless the Superintendent otherwise directs in writing, the Depository shall on or before the fifteenth day of January in each year, or, if the fifteenth day is not a business day of the Depository, on or before the first business day of the Depository following the fifteenth day, and at such other times as requested by notice in writing to the Depository from the Superintendent, file with the Superintendent, and if the Authorized Foreign Bank so elects, with the Authorized Foreign Bank, a declaration in the form of Schedule \"C\" or in such other form as may be prescribed by the Superintendent from time to time, together with a diskette containing that information as may be prescribed by the Superintendent from time to time, of all assets deposited with the Depository under this Agreement as at the close of business on the Depository's last business day in the immediately preceding month, and where the Authorized Foreign Bank does not elect under subparagraph (i) Text for screen readers: i = 1 , with the Authorized Foreign Bank a statement containing that information as may be agreed upon by the Authorized Foreign Bank and the Depository from time to time of all assets deposited with the Depository under this Agreement."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Unless the Superintendent otherwise directs the Depository in writing, the Depository shall, on or before the fifteenth day of each month, or, if the fifteenth day is not a business day of the Depository, on or before the first business day of the Depository following the fifteenth day, and at such other times as requested by notice in writing to the Depository from the Superintendent, file"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "with the Superintendent, and if the Authorized Foreign Bank so elects, with the Authorized Foreign Bank, a declaration in the form of Schedule \"B\" of this Agreement, or in such other form as may be prescribed by the Superintendent from time to time, together with a diskette containing that information as may be prescribed by the Superintendent from time to time, of all assets deposited with the Depository under this Agreement and other agreements entered into for similar purposes under the Act as at the close of business on the Depository's last business day in the immediately preceding month, and",
+            "where the Authorized Foreign Bank does not elect under subparagraph (i) Text for screen readers: i = 1 , with the Authorized Foreign Bank a statement containing that information as may be prescribed by the Authorized Foreign Bank from time to time of all assets deposited with the Depository under this Agreement."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "with the Superintendent, and if the Authorized Foreign Bank so elects, with the Authorized Foreign Bank, a declaration in the form of Schedule \"B\" of this Agreement, or in such other form as may be prescribed by the Superintendent from time to time, together with a diskette containing that information as may be prescribed by the Superintendent from time to time, of all assets deposited with the Depository under this Agreement and other agreements entered into for similar purposes under the Act as at the close of business on the Depository's last business day in the immediately preceding month, and"
+        },
+        {
+          "type": "paragraph",
+          "text": "where the Authorized Foreign Bank does not elect under subparagraph (i) Text for screen readers: i = 1 , with the Authorized Foreign Bank a statement containing that information as may be prescribed by the Authorized Foreign Bank from time to time of all assets deposited with the Depository under this Agreement."
+        },
+        {
+          "type": "paragraph",
+          "text": "Unless the Superintendent otherwise directs in writing, the Depository shall on or before the fifteenth day of January in each year, or, if the fifteenth day is not a business day of the Depository, on or before the first business day of the Depository following the fifteenth day, and at such other times as requested by notice in writing to the Depository from the Superintendent, file"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "with the Superintendent, and if the Authorized Foreign Bank so elects, with the Authorized Foreign Bank, a declaration in the form of Schedule \"C\" or in such other form as may be prescribed by the Superintendent from time to time, together with a diskette containing that information as may be prescribed by the Superintendent from time to time, of all assets deposited with the Depository under this Agreement as at the close of business on the Depository's last business day in the immediately preceding month, and",
+            "where the Authorized Foreign Bank does not elect under subparagraph (i) Text for screen readers: i = 1 , with the Authorized Foreign Bank a statement containing that information as may be agreed upon by the Authorized Foreign Bank and the Depository from time to time of all assets deposited with the Depository under this Agreement."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "with the Superintendent, and if the Authorized Foreign Bank so elects, with the Authorized Foreign Bank, a declaration in the form of Schedule \"C\" or in such other form as may be prescribed by the Superintendent from time to time, together with a diskette containing that information as may be prescribed by the Superintendent from time to time, of all assets deposited with the Depository under this Agreement as at the close of business on the Depository's last business day in the immediately preceding month, and"
+        },
+        {
+          "type": "paragraph",
+          "text": "where the Authorized Foreign Bank does not elect under subparagraph (i) Text for screen readers: i = 1 , with the Authorized Foreign Bank a statement containing that information as may be agreed upon by the Authorized Foreign Bank and the Depository from time to time of all assets deposited with the Depository under this Agreement."
+        }
+      ]
+    },
+    {
+      "heading": "ACCESS",
+      "heading_level": 4,
+      "full_text": "  1. The Depository shall at all times, upon reasonable notice, permit the Superintendent and the Authorized Foreign Bank access, for purposes of examination, to all assets deposited with the Depository under this Agreement and to the records of the Depository and any agent of the Depository in relation thereto.\nThe Depository shall at all times, upon reasonable notice, permit the Superintendent and the Authorized Foreign Bank access, for purposes of examination, to all assets deposited with the Depository under this Agreement and to the records of the Depository and any agent of the Depository in relation thereto.",
+      "content": [
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "The Depository shall at all times, upon reasonable notice, permit the Superintendent and the Authorized Foreign Bank access, for purposes of examination, to all assets deposited with the Depository under this Agreement and to the records of the Depository and any agent of the Depository in relation thereto."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "The Depository shall at all times, upon reasonable notice, permit the Superintendent and the Authorized Foreign Bank access, for purposes of examination, to all assets deposited with the Depository under this Agreement and to the records of the Depository and any agent of the Depository in relation thereto."
+        }
+      ]
+    },
+    {
+      "heading": "COMPENSATION OF DEPOSITORY",
+      "heading_level": 4,
+      "full_text": "  1. The Depository is entitled to reasonable compensation for its services and expenses under this Agreement as may be agreed upon by the Authorized Foreign Bank and Depository, and if no such agreement is reached, either the Authorized Foreign Bank or the Depository may on ten days notice in writing apply to a court of competent jurisdiction to fix the compensation that the Authorized Foreign Bank shall pay the Depository.\nThe Depository is entitled to reasonable compensation for its services and expenses under this Agreement as may be agreed upon by the Authorized Foreign Bank and Depository, and if no such agreement is reached, either the Authorized Foreign Bank or the Depository may on ten days notice in writing apply to a court of competent jurisdiction to fix the compensation that the Authorized Foreign Bank shall pay the Depository.",
+      "content": [
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "The Depository is entitled to reasonable compensation for its services and expenses under this Agreement as may be agreed upon by the Authorized Foreign Bank and Depository, and if no such agreement is reached, either the Authorized Foreign Bank or the Depository may on ten days notice in writing apply to a court of competent jurisdiction to fix the compensation that the Authorized Foreign Bank shall pay the Depository."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "The Depository is entitled to reasonable compensation for its services and expenses under this Agreement as may be agreed upon by the Authorized Foreign Bank and Depository, and if no such agreement is reached, either the Authorized Foreign Bank or the Depository may on ten days notice in writing apply to a court of competent jurisdiction to fix the compensation that the Authorized Foreign Bank shall pay the Depository."
+        }
+      ]
+    },
+    {
+      "heading": "INTEREST ON MONIES HELD ON DEPOSIT",
+      "heading_level": 4,
+      "full_text": "  1. The Depository or its affiliate shall pay the Authorized Foreign Bank interest on monies held on deposit under this Agreement at a rate that is not less than the rate paid by the Depository on the same or similar accounts.\nThe Depository or its affiliate shall pay the Authorized Foreign Bank interest on monies held on deposit under this Agreement at a rate that is not less than the rate paid by the Depository on the same or similar accounts.",
+      "content": [
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "The Depository or its affiliate shall pay the Authorized Foreign Bank interest on monies held on deposit under this Agreement at a rate that is not less than the rate paid by the Depository on the same or similar accounts."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "The Depository or its affiliate shall pay the Authorized Foreign Bank interest on monies held on deposit under this Agreement at a rate that is not less than the rate paid by the Depository on the same or similar accounts."
+        }
+      ]
+    },
+    {
+      "heading": "AMENDMENTS",
+      "heading_level": 4,
+      "full_text": "  1. The parties may amend this Agreement which amendment shall be valid and binding upon the parties only when evidenced by a written agreement executed by them. The Authorized Foreign Bank and the Depository shall make those amendments to this Agreement that the Superintendent reasonably requires.\n  1. The parties may amend this Agreement which amendment shall be valid and binding upon the parties only when evidenced by a written agreement executed by them.\n  2. The Authorized Foreign Bank and the Depository shall make those amendments to this Agreement that the Superintendent reasonably requires.\nThe parties may amend this Agreement which amendment shall be valid and binding upon the parties only when evidenced by a written agreement executed by them.\nThe Authorized Foreign Bank and the Depository shall make those amendments to this Agreement that the Superintendent reasonably requires.",
+      "content": [
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "The parties may amend this Agreement which amendment shall be valid and binding upon the parties only when evidenced by a written agreement executed by them. The Authorized Foreign Bank and the Depository shall make those amendments to this Agreement that the Superintendent reasonably requires."
+          ]
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "The parties may amend this Agreement which amendment shall be valid and binding upon the parties only when evidenced by a written agreement executed by them.",
+            "The Authorized Foreign Bank and the Depository shall make those amendments to this Agreement that the Superintendent reasonably requires."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "The parties may amend this Agreement which amendment shall be valid and binding upon the parties only when evidenced by a written agreement executed by them."
+        },
+        {
+          "type": "paragraph",
+          "text": "The Authorized Foreign Bank and the Depository shall make those amendments to this Agreement that the Superintendent reasonably requires."
+        }
+      ]
+    },
+    {
+      "heading": "TERMINATION",
+      "heading_level": 4,
+      "full_text": "  1. The Depository and, subject to the prior written approval of the Superintendent, the Authorized Foreign Bank, may terminate this Agreement on at least thirty (30) days notice in writing to the Superintendent and the other party specifying in the notice the date of termination. Upon the date of termination specified in the notice, the Depository shall be discharged from any further responsibilities to carry out the terms provided in this Agreement save for its obligations under clause 17.\nThe Depository and, subject to the prior written approval of the Superintendent, the Authorized Foreign Bank, may terminate this Agreement on at least thirty (30) days notice in writing to the Superintendent and the other party specifying in the notice the date of termination. Upon the date of termination specified in the notice, the Depository shall be discharged from any further responsibilities to carry out the terms provided in this Agreement save for its obligations under clause 17.",
+      "content": [
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "The Depository and, subject to the prior written approval of the Superintendent, the Authorized Foreign Bank, may terminate this Agreement on at least thirty (30) days notice in writing to the Superintendent and the other party specifying in the notice the date of termination. Upon the date of termination specified in the notice, the Depository shall be discharged from any further responsibilities to carry out the terms provided in this Agreement save for its obligations under clause 17."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "The Depository and, subject to the prior written approval of the Superintendent, the Authorized Foreign Bank, may terminate this Agreement on at least thirty (30) days notice in writing to the Superintendent and the other party specifying in the notice the date of termination. Upon the date of termination specified in the notice, the Depository shall be discharged from any further responsibilities to carry out the terms provided in this Agreement save for its obligations under clause 17."
+        }
+      ]
+    },
+    {
+      "heading": "APPOINTMENT OF NEW DEPOSITORY",
+      "heading_level": 4,
+      "full_text": "  1. As soon as practicable, on the Depository ceasing to carry on business, or refusing to act as a depository, on the Depository becoming insolvent, being deemed insolvent or admitting that it is insolvent within the meaning of any statute, or becoming (whether voluntarily or involuntarily) subject to any proceedings for its winding-up, liquidation or dissolution, on the Superintendent taking control of the assets of, or taking control of, the Depository under [the Act] or [the Trust and Loan Companies Act ], on the Depository defaulting in its duties or obligations or any of them hereunder and not commencing to rectify the default within thirty (30) days after written notice from the Authorized Foreign Bank or the Superintendent specifying the default and requiring the Depository to remedy the same, or after giving or receiving a notice under clause 16, the Authorized Foreign Bank shall appoint another Canadian financial institution in accordance with the Act and the Depository shall execute all documents that the Authorized Foreign Bank shall deem necessary to deposit with that financial institution the assets deposited under this Agreement and transfer in writing to that institution all its rights and obligations under this Agreement, except that the Depository may withhold an amount equal to the aggregate of any unpaid compensation for its services and expenses to the date of the transfer and any losses, damages, expenses and costs owing to the Depository pursuant to subclause 6(b) Text for screen readers: 6(b) = 6(2) .\nAs soon as practicable,\n  1. on the Depository ceasing to carry on business, or refusing to act as a depository,\n  2. on the Depository becoming insolvent, being deemed insolvent or admitting that it is insolvent within the meaning of any statute, or becoming (whether voluntarily or involuntarily) subject to any proceedings for its winding-up, liquidation or dissolution,\n  3. on the Superintendent taking control of the assets of, or taking control of, the Depository under [the Act] or [the Trust and Loan Companies Act ],\n  4. on the Depository defaulting in its duties or obligations or any of them hereunder and not commencing to rectify the default within thirty (30) days after written notice from the Authorized Foreign Bank or the Superintendent specifying the default and requiring the Depository to remedy the same, or\n  5. after giving or receiving a notice under clause 16,\non the Depository ceasing to carry on business, or refusing to act as a depository,\non the Depository becoming insolvent, being deemed insolvent or admitting that it is insolvent within the meaning of any statute, or becoming (whether voluntarily or involuntarily) subject to any proceedings for its winding-up, liquidation or dissolution,\non the Superintendent taking control of the assets of, or taking control of, the Depository under [the Act] or [the Trust and Loan Companies Act ],\non the Depository defaulting in its duties or obligations or any of them hereunder and not commencing to rectify the default within thirty (30) days after written notice from the Authorized Foreign Bank or the Superintendent specifying the default and requiring the Depository to remedy the same, or\nafter giving or receiving a notice under clause 16,\nthe Authorized Foreign Bank shall appoint another Canadian financial institution in accordance with the Act and the Depository shall execute all documents that the Authorized Foreign Bank shall deem necessary to deposit with that financial institution the assets deposited under this Agreement and transfer in writing to that institution all its rights and obligations under this Agreement, except that the Depository may withhold an amount equal to the aggregate of any unpaid compensation for its services and expenses to the date of the transfer and any losses, damages, expenses and costs owing to the Depository pursuant to subclause 6(b) Text for screen readers: 6(b) = 6(2) .",
+      "content": [
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "As soon as practicable, on the Depository ceasing to carry on business, or refusing to act as a depository, on the Depository becoming insolvent, being deemed insolvent or admitting that it is insolvent within the meaning of any statute, or becoming (whether voluntarily or involuntarily) subject to any proceedings for its winding-up, liquidation or dissolution, on the Superintendent taking control of the assets of, or taking control of, the Depository under [the Act] or [the Trust and Loan Companies Act ], on the Depository defaulting in its duties or obligations or any of them hereunder and not commencing to rectify the default within thirty (30) days after written notice from the Authorized Foreign Bank or the Superintendent specifying the default and requiring the Depository to remedy the same, or after giving or receiving a notice under clause 16, the Authorized Foreign Bank shall appoint another Canadian financial institution in accordance with the Act and the Depository shall execute all documents that the Authorized Foreign Bank shall deem necessary to deposit with that financial institution the assets deposited under this Agreement and transfer in writing to that institution all its rights and obligations under this Agreement, except that the Depository may withhold an amount equal to the aggregate of any unpaid compensation for its services and expenses to the date of the transfer and any losses, damages, expenses and costs owing to the Depository pursuant to subclause 6(b) Text for screen readers: 6(b) = 6(2) ."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "As soon as practicable,"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "on the Depository ceasing to carry on business, or refusing to act as a depository,",
+            "on the Depository becoming insolvent, being deemed insolvent or admitting that it is insolvent within the meaning of any statute, or becoming (whether voluntarily or involuntarily) subject to any proceedings for its winding-up, liquidation or dissolution,",
+            "on the Superintendent taking control of the assets of, or taking control of, the Depository under [the Act] or [the Trust and Loan Companies Act ],",
+            "on the Depository defaulting in its duties or obligations or any of them hereunder and not commencing to rectify the default within thirty (30) days after written notice from the Authorized Foreign Bank or the Superintendent specifying the default and requiring the Depository to remedy the same, or",
+            "after giving or receiving a notice under clause 16,"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "on the Depository ceasing to carry on business, or refusing to act as a depository,"
+        },
+        {
+          "type": "paragraph",
+          "text": "on the Depository becoming insolvent, being deemed insolvent or admitting that it is insolvent within the meaning of any statute, or becoming (whether voluntarily or involuntarily) subject to any proceedings for its winding-up, liquidation or dissolution,"
+        },
+        {
+          "type": "paragraph",
+          "text": "on the Superintendent taking control of the assets of, or taking control of, the Depository under [the Act] or [the Trust and Loan Companies Act ],"
+        },
+        {
+          "type": "paragraph",
+          "text": "on the Depository defaulting in its duties or obligations or any of them hereunder and not commencing to rectify the default within thirty (30) days after written notice from the Authorized Foreign Bank or the Superintendent specifying the default and requiring the Depository to remedy the same, or"
+        },
+        {
+          "type": "paragraph",
+          "text": "after giving or receiving a notice under clause 16,"
+        },
+        {
+          "type": "paragraph",
+          "text": "the Authorized Foreign Bank shall appoint another Canadian financial institution in accordance with the Act and the Depository shall execute all documents that the Authorized Foreign Bank shall deem necessary to deposit with that financial institution the assets deposited under this Agreement and transfer in writing to that institution all its rights and obligations under this Agreement, except that the Depository may withhold an amount equal to the aggregate of any unpaid compensation for its services and expenses to the date of the transfer and any losses, damages, expenses and costs owing to the Depository pursuant to subclause 6(b) Text for screen readers: 6(b) = 6(2) ."
+        }
+      ]
+    },
+    {
+      "heading": "WAIVER",
+      "heading_level": 4,
+      "full_text": "  1. No waiver by any party of any breach of any of the covenants, provisos, conditions, restrictions or stipulations herein contained shall take effect or be binding upon that party unless the waiver is expressed in writing under the authority of that party and, in the case of a waiver by the Authorized Foreign Bank or the Depository, is approved in writing by the Superintendent. Any waiver so given and approved shall extend only to the particular breach so waived and shall not limit or affect any rights with respect to any other future breach.\nNo waiver by any party of any breach of any of the covenants, provisos, conditions, restrictions or stipulations herein contained shall take effect or be binding upon that party unless the waiver is expressed in writing under the authority of that party and, in the case of a waiver by the Authorized Foreign Bank or the Depository, is approved in writing by the Superintendent. Any waiver so given and approved shall extend only to the particular breach so waived and shall not limit or affect any rights with respect to any other future breach.",
+      "content": [
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "No waiver by any party of any breach of any of the covenants, provisos, conditions, restrictions or stipulations herein contained shall take effect or be binding upon that party unless the waiver is expressed in writing under the authority of that party and, in the case of a waiver by the Authorized Foreign Bank or the Depository, is approved in writing by the Superintendent. Any waiver so given and approved shall extend only to the particular breach so waived and shall not limit or affect any rights with respect to any other future breach."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "No waiver by any party of any breach of any of the covenants, provisos, conditions, restrictions or stipulations herein contained shall take effect or be binding upon that party unless the waiver is expressed in writing under the authority of that party and, in the case of a waiver by the Authorized Foreign Bank or the Depository, is approved in writing by the Superintendent. Any waiver so given and approved shall extend only to the particular breach so waived and shall not limit or affect any rights with respect to any other future breach."
+        }
+      ]
+    },
+    {
+      "heading": "FURTHER ASSURANCES",
+      "heading_level": 4,
+      "full_text": "  1. Each of the parties hereto shall execute and deliver all such instruments and assurances and do all other acts and things as are necessary to give full effect to carry out their respective obligations under this Agreement.\nEach of the parties hereto shall execute and deliver all such instruments and assurances and do all other acts and things as are necessary to give full effect to carry out their respective obligations under this Agreement.",
+      "content": [
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "Each of the parties hereto shall execute and deliver all such instruments and assurances and do all other acts and things as are necessary to give full effect to carry out their respective obligations under this Agreement."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Each of the parties hereto shall execute and deliver all such instruments and assurances and do all other acts and things as are necessary to give full effect to carry out their respective obligations under this Agreement."
+        }
+      ]
+    },
+    {
+      "heading": "NOTICES",
+      "heading_level": 4,
+      "full_text": "  1. Notices under this Agreement shall be served either: personally by delivering them to the party on whom they are to be served at that party's address hereinafter given, provided such delivery shall be during the addressee's normal business hours. Personally served notices shall be deemed received by the addressee when actually delivered as aforesaid; by email or facsimile (or by any other like method by which a written and recorded message may be sent) directed to the party on whom they are to be served at that party's address hereinafter given. Notices so served shall be deemed received by the addressee: (i) when actually received by the addressee if received within the normal working hours of the addressee's business day or (ii) at the commencement of the next ensuing business day of the addressee following transmission thereof, whichever is the earlier; or by prepaid first class mail addressed to the party on whom they are to be served at that party's address hereinafter given, provided that if delivery by prepaid first class mail of any notice is or is likely to be delayed due to interruption or suspension of the postal service because of a mail strike, slowdown or other labour dispute which might affect the delivery of the notice, then the notice shall be effective only if delivered personally or by email or facsimile (or by any other like method by which a written and recorded message may be sent). Notices so served shall be deemed received on the fifth (5th) day following the day on which they are so mailed. Unless changed by written notice to the other parties, the address for services of notices hereunder of each of the respective parties shall be as follows: Authorized Foreign Bank : [main office in Canada] Attention: [appropriate individual from branch management] Telephone: Facsimile: Email: Depository : Telephone: Facsimile: Email: Superintendent : Superintendent of Financial Institutions 121 King Street West, 19 th Floor Toronto, Ontario M5H 3T9 Attention: Assistant Superintendent, Supervision Facsimile: (416) 973-1171 Email: SAAR-SSAVMRCA@osfi-bsif.gc.ca\n  1. Notices under this Agreement shall be served either: personally by delivering them to the party on whom they are to be served at that party's address hereinafter given, provided such delivery shall be during the addressee's normal business hours. Personally served notices shall be deemed received by the addressee when actually delivered as aforesaid; by email or facsimile (or by any other like method by which a written and recorded message may be sent) directed to the party on whom they are to be served at that party's address hereinafter given. Notices so served shall be deemed received by the addressee: (i) when actually received by the addressee if received within the normal working hours of the addressee's business day or (ii) at the commencement of the next ensuing business day of the addressee following transmission thereof, whichever is the earlier; or by prepaid first class mail addressed to the party on whom they are to be served at that party's address hereinafter given, provided that if delivery by prepaid first class mail of any notice is or is likely to be delayed due to interruption or suspension of the postal service because of a mail strike, slowdown or other labour dispute which might affect the delivery of the notice, then the notice shall be effective only if delivered personally or by email or facsimile (or by any other like method by which a written and recorded message may be sent). Notices so served shall be deemed received on the fifth (5th) day following the day on which they are so mailed.\n  2. Unless changed by written notice to the other parties, the address for services of notices hereunder of each of the respective parties shall be as follows: Authorized Foreign Bank : [main office in Canada] Attention: [appropriate individual from branch management] Telephone: Facsimile: Email: Depository : Telephone: Facsimile: Email: Superintendent : Superintendent of Financial Institutions 121 King Street West, 19 th Floor Toronto, Ontario M5H 3T9 Attention: Assistant Superintendent, Supervision Facsimile: (416) 973-1171 Email: SAAR-SSAVMRCA@osfi-bsif.gc.ca\nNotices under this Agreement shall be served either:\n  1. personally by delivering them to the party on whom they are to be served at that party's address hereinafter given, provided such delivery shall be during the addressee's normal business hours. Personally served notices shall be deemed received by the addressee when actually delivered as aforesaid;\n  2. by email or facsimile (or by any other like method by which a written and recorded message may be sent) directed to the party on whom they are to be served at that party's address hereinafter given. Notices so served shall be deemed received by the addressee: (i) when actually received by the addressee if received within the normal working hours of the addressee's business day or (ii) at the commencement of the next ensuing business day of the addressee following transmission thereof, whichever is the earlier; or\n  3. by prepaid first class mail addressed to the party on whom they are to be served at that party's address hereinafter given, provided that if delivery by prepaid first class mail of any notice is or is likely to be delayed due to interruption or suspension of the postal service because of a mail strike, slowdown or other labour dispute which might affect the delivery of the notice, then the notice shall be effective only if delivered personally or by email or facsimile (or by any other like method by which a written and recorded message may be sent). Notices so served shall be deemed received on the fifth (5th) day following the day on which they are so mailed.\npersonally by delivering them to the party on whom they are to be served at that party's address hereinafter given, provided such delivery shall be during the addressee's normal business hours. Personally served notices shall be deemed received by the addressee when actually delivered as aforesaid;\nby email or facsimile (or by any other like method by which a written and recorded message may be sent) directed to the party on whom they are to be served at that party's address hereinafter given. Notices so served shall be deemed received by the addressee: (i) when actually received by the addressee if received within the normal working hours of the addressee's business day or (ii) at the commencement of the next ensuing business day of the addressee following transmission thereof, whichever is the earlier; or\nby prepaid first class mail addressed to the party on whom they are to be served at that party's address hereinafter given, provided that if delivery by prepaid first class mail of any notice is or is likely to be delayed due to interruption or suspension of the postal service because of a mail strike, slowdown or other labour dispute which might affect the delivery of the notice, then the notice shall be effective only if delivered personally or by email or facsimile (or by any other like method by which a written and recorded message may be sent). Notices so served shall be deemed received on the fifth (5th) day following the day on which they are so mailed.\nUnless changed by written notice to the other parties, the address for services of notices hereunder of each of the respective parties shall be as follows:\nAuthorized Foreign Bank : [main office in Canada]\nAttention: [appropriate individual from branch management] Telephone: Facsimile: Email:\nDepository :\nTelephone: Facsimile: Email:\nSuperintendent :\nSuperintendent of Financial Institutions 121 King Street West, 19 th Floor Toronto, Ontario M5H 3T9\nAttention: Assistant Superintendent, Supervision Facsimile: (416) 973-1171 Email: SAAR-SSAVMRCA@osfi-bsif.gc.ca",
+      "content": [
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "Notices under this Agreement shall be served either: personally by delivering them to the party on whom they are to be served at that party's address hereinafter given, provided such delivery shall be during the addressee's normal business hours. Personally served notices shall be deemed received by the addressee when actually delivered as aforesaid; by email or facsimile (or by any other like method by which a written and recorded message may be sent) directed to the party on whom they are to be served at that party's address hereinafter given. Notices so served shall be deemed received by the addressee: (i) when actually received by the addressee if received within the normal working hours of the addressee's business day or (ii) at the commencement of the next ensuing business day of the addressee following transmission thereof, whichever is the earlier; or by prepaid first class mail addressed to the party on whom they are to be served at that party's address hereinafter given, provided that if delivery by prepaid first class mail of any notice is or is likely to be delayed due to interruption or suspension of the postal service because of a mail strike, slowdown or other labour dispute which might affect the delivery of the notice, then the notice shall be effective only if delivered personally or by email or facsimile (or by any other like method by which a written and recorded message may be sent). Notices so served shall be deemed received on the fifth (5th) day following the day on which they are so mailed. Unless changed by written notice to the other parties, the address for services of notices hereunder of each of the respective parties shall be as follows: Authorized Foreign Bank : [main office in Canada] Attention: [appropriate individual from branch management] Telephone: Facsimile: Email: Depository : Telephone: Facsimile: Email: Superintendent : Superintendent of Financial Institutions 121 King Street West, 19 th Floor Toronto, Ontario M5H 3T9 Attention: Assistant Superintendent, Supervision Facsimile: (416) 973-1171 Email: SAAR-SSAVMRCA@osfi-bsif.gc.ca"
+          ]
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "Notices under this Agreement shall be served either: personally by delivering them to the party on whom they are to be served at that party's address hereinafter given, provided such delivery shall be during the addressee's normal business hours. Personally served notices shall be deemed received by the addressee when actually delivered as aforesaid; by email or facsimile (or by any other like method by which a written and recorded message may be sent) directed to the party on whom they are to be served at that party's address hereinafter given. Notices so served shall be deemed received by the addressee: (i) when actually received by the addressee if received within the normal working hours of the addressee's business day or (ii) at the commencement of the next ensuing business day of the addressee following transmission thereof, whichever is the earlier; or by prepaid first class mail addressed to the party on whom they are to be served at that party's address hereinafter given, provided that if delivery by prepaid first class mail of any notice is or is likely to be delayed due to interruption or suspension of the postal service because of a mail strike, slowdown or other labour dispute which might affect the delivery of the notice, then the notice shall be effective only if delivered personally or by email or facsimile (or by any other like method by which a written and recorded message may be sent). Notices so served shall be deemed received on the fifth (5th) day following the day on which they are so mailed.",
+            "Unless changed by written notice to the other parties, the address for services of notices hereunder of each of the respective parties shall be as follows: Authorized Foreign Bank : [main office in Canada] Attention: [appropriate individual from branch management] Telephone: Facsimile: Email: Depository : Telephone: Facsimile: Email: Superintendent : Superintendent of Financial Institutions 121 King Street West, 19 th Floor Toronto, Ontario M5H 3T9 Attention: Assistant Superintendent, Supervision Facsimile: (416) 973-1171 Email: SAAR-SSAVMRCA@osfi-bsif.gc.ca"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Notices under this Agreement shall be served either:"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "personally by delivering them to the party on whom they are to be served at that party's address hereinafter given, provided such delivery shall be during the addressee's normal business hours. Personally served notices shall be deemed received by the addressee when actually delivered as aforesaid;",
+            "by email or facsimile (or by any other like method by which a written and recorded message may be sent) directed to the party on whom they are to be served at that party's address hereinafter given. Notices so served shall be deemed received by the addressee: (i) when actually received by the addressee if received within the normal working hours of the addressee's business day or (ii) at the commencement of the next ensuing business day of the addressee following transmission thereof, whichever is the earlier; or",
+            "by prepaid first class mail addressed to the party on whom they are to be served at that party's address hereinafter given, provided that if delivery by prepaid first class mail of any notice is or is likely to be delayed due to interruption or suspension of the postal service because of a mail strike, slowdown or other labour dispute which might affect the delivery of the notice, then the notice shall be effective only if delivered personally or by email or facsimile (or by any other like method by which a written and recorded message may be sent). Notices so served shall be deemed received on the fifth (5th) day following the day on which they are so mailed."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "personally by delivering them to the party on whom they are to be served at that party's address hereinafter given, provided such delivery shall be during the addressee's normal business hours. Personally served notices shall be deemed received by the addressee when actually delivered as aforesaid;"
+        },
+        {
+          "type": "paragraph",
+          "text": "by email or facsimile (or by any other like method by which a written and recorded message may be sent) directed to the party on whom they are to be served at that party's address hereinafter given. Notices so served shall be deemed received by the addressee: (i) when actually received by the addressee if received within the normal working hours of the addressee's business day or (ii) at the commencement of the next ensuing business day of the addressee following transmission thereof, whichever is the earlier; or"
+        },
+        {
+          "type": "paragraph",
+          "text": "by prepaid first class mail addressed to the party on whom they are to be served at that party's address hereinafter given, provided that if delivery by prepaid first class mail of any notice is or is likely to be delayed due to interruption or suspension of the postal service because of a mail strike, slowdown or other labour dispute which might affect the delivery of the notice, then the notice shall be effective only if delivered personally or by email or facsimile (or by any other like method by which a written and recorded message may be sent). Notices so served shall be deemed received on the fifth (5th) day following the day on which they are so mailed."
+        },
+        {
+          "type": "paragraph",
+          "text": "Unless changed by written notice to the other parties, the address for services of notices hereunder of each of the respective parties shall be as follows:"
+        },
+        {
+          "type": "paragraph",
+          "text": "Authorized Foreign Bank : [main office in Canada]"
+        },
+        {
+          "type": "paragraph",
+          "text": "Attention: [appropriate individual from branch management] Telephone: Facsimile: Email:"
+        },
+        {
+          "type": "paragraph",
+          "text": "Depository :"
+        },
+        {
+          "type": "paragraph",
+          "text": "Telephone: Facsimile: Email:"
+        },
+        {
+          "type": "paragraph",
+          "text": "Superintendent :"
+        },
+        {
+          "type": "paragraph",
+          "text": "Superintendent of Financial Institutions 121 King Street West, 19 th Floor Toronto, Ontario M5H 3T9"
+        },
+        {
+          "type": "paragraph",
+          "text": "Attention: Assistant Superintendent, Supervision Facsimile: (416) 973-1171 Email: SAAR-SSAVMRCA@osfi-bsif.gc.ca"
+        }
+      ]
+    },
+    {
+      "heading": "EXECUTION IN COUNTERPART",
+      "heading_level": 4,
+      "full_text": "  1. This Agreement may be executed and delivered in counterparts, each of which, when so executed and delivered, shall be deemed to be an original; all counterparts together shall constitute one and the same agreement.\nThis Agreement may be executed and delivered in counterparts, each of which, when so executed and delivered, shall be deemed to be an original; all counterparts together shall constitute one and the same agreement.",
+      "content": [
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "This Agreement may be executed and delivered in counterparts, each of which, when so executed and delivered, shall be deemed to be an original; all counterparts together shall constitute one and the same agreement."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "This Agreement may be executed and delivered in counterparts, each of which, when so executed and delivered, shall be deemed to be an original; all counterparts together shall constitute one and the same agreement."
+        }
+      ]
+    },
+    {
+      "heading": "PARTIAL INVALIDITY",
+      "heading_level": 4,
+      "full_text": "  1. If at any time any provision hereof is or becomes illegal, invalid or unenforceable in any respect under the law of any jurisdiction, neither the legality, validity or enforceability of the remaining provisions hereof nor the legality, validity or enforceability of such provision under the law of any other jurisdiction shall in any way be affected or impaired thereby.\nIf at any time any provision hereof is or becomes illegal, invalid or unenforceable in any respect under the law of any jurisdiction, neither the legality, validity or enforceability of the remaining provisions hereof nor the legality, validity or enforceability of such provision under the law of any other jurisdiction shall in any way be affected or impaired thereby.",
+      "content": [
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "If at any time any provision hereof is or becomes illegal, invalid or unenforceable in any respect under the law of any jurisdiction, neither the legality, validity or enforceability of the remaining provisions hereof nor the legality, validity or enforceability of such provision under the law of any other jurisdiction shall in any way be affected or impaired thereby."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "If at any time any provision hereof is or becomes illegal, invalid or unenforceable in any respect under the law of any jurisdiction, neither the legality, validity or enforceability of the remaining provisions hereof nor the legality, validity or enforceability of such provision under the law of any other jurisdiction shall in any way be affected or impaired thereby."
+        }
+      ]
+    },
+    {
+      "heading": "EFFECTIVE DATE",
+      "heading_level": 4,
+      "full_text": "  1. This Agreement shall take effect as of the date and year first above written.\nThis Agreement shall take effect as of the date and year first above written.",
+      "content": [
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "This Agreement shall take effect as of the date and year first above written."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "This Agreement shall take effect as of the date and year first above written."
+        }
+      ]
+    },
+    {
+      "heading": "PROPER LAW",
+      "heading_level": 4,
+      "full_text": "  1. This Agreement shall be governed by the laws of the Province of Ontario and the federal laws of Canada applicable therein.\nThis Agreement shall be governed by the laws of the Province of Ontario and the federal laws of Canada applicable therein.",
+      "content": [
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "This Agreement shall be governed by the laws of the Province of Ontario and the federal laws of Canada applicable therein."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "This Agreement shall be governed by the laws of the Province of Ontario and the federal laws of Canada applicable therein."
+        }
+      ]
+    },
+    {
+      "heading": "EXISTING AGREEMENTS",
+      "heading_level": 4,
+      "full_text": "  1. This Agreement supersedes and replaces that (those) Deposit Agreement(s) made as of the Line to fill out ____ day of Line to fill out __________________ , Line to fill out _____ (if applicable).\nThis Agreement supersedes and replaces that (those) Deposit Agreement(s) made as of the Line to fill out ____ day of Line to fill out __________________ , Line to fill out _____ (if applicable).",
+      "content": [
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "This Agreement supersedes and replaces that (those) Deposit Agreement(s) made as of the Line to fill out ____ day of Line to fill out __________________ , Line to fill out _____ (if applicable)."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "This Agreement supersedes and replaces that (those) Deposit Agreement(s) made as of the Line to fill out ____ day of Line to fill out __________________ , Line to fill out _____ (if applicable)."
+        }
+      ]
+    },
+    {
+      "heading": "MISCELLANEOUS",
+      "heading_level": 4,
+      "full_text": "  1. Paragraph headings and other headings or captions or the index or the title hereto shall not be used in construing or interpreting any provision of this Agreement or the relationship of the parties to this Agreement. IN WITNESS WHEREOF the Authorized Foreign Bank, the Depository and the Superintendent have executed this Agreement as of the date and year first above written. (Authorized Foreign Bank) Name and Title Name and Title (Depository) Name and Title Name and Title Superintendent of Financial Institutions\nParagraph headings and other headings or captions or the index or the title hereto shall not be used in construing or interpreting any provision of this Agreement or the relationship of the parties to this Agreement.\nIN WITNESS WHEREOF the Authorized Foreign Bank, the Depository and the Superintendent have executed this Agreement as of the date and year first above written.\n(Authorized Foreign Bank)\nName and Title\nName and Title\n(Depository)\nName and Title\nName and Title\nSuperintendent of Financial Institutions\nSCHEDULE \"A\" to the Deposit Agreement made the Line to fill out ____ day of Line to fill out __________________, _____ between, Line to fill out ____________________________, Line to fill out ____________________________ and the Superintendent of Financial Institutions\nPRE-APPROVED ASSETS\nPAYABLE IN CANADIAN DOLLARS\n  1. Cash\n  2. Securities issued or guaranteed by: Government of Canada a Canadian Province a Canadian municipal or school corporation\n  3. Bankers' Acceptances accepted by: a bank (other than an affiliate of the authorized foreign bank) listed in Schedules I or II of the Bank Act , or another authorized foreign bank (other than an affiliate) listed in Schedule III of the Bank Act .\nCash\nSecurities issued or guaranteed by:\n  1. Government of Canada\n  2. a Canadian Province\n  3. a Canadian municipal or school corporation\nGovernment of Canada\na Canadian Province\na Canadian municipal or school corporation\nBankers' Acceptances accepted by:\n  1. a bank (other than an affiliate of the authorized foreign bank) listed in Schedules I or II of the Bank Act , or\n  2. another authorized foreign bank (other than an affiliate) listed in Schedule III of the Bank Act .\na bank (other than an affiliate of the authorized foreign bank) listed in Schedules I or II of the Bank Act , or\nanother authorized foreign bank (other than an affiliate) listed in Schedule III of the Bank Act .\nSCHEDULE \"B\" to the Deposit Agreement made the ____ day of Line to fill out __________________, between Line to fill out ____________________________, Line to fill out ____________________________ and the Superintendent of Financial Institutions.\nWHEREAS Line to fill out ____________________________________, a Canadian Financial Institution incorporated under the laws of Line to fill out __________________, has been appointed by certain Deposit Agreements the Depository for the authorized foreign banks referred to in the attached Schedule (hereinafter called the \"Authorized Foreign Banks\") for the purposes and under the provisions of the Bank Act .\nNOW THEREFORE IT IS WITNESSED that the said Canadian Financial Institution, as such Depository, hereby acknowledges and declares that it now holds for the Authorized Foreign Banks assets the total values of which, as at Line to fill out __________________, Line to fill out _____, based on the values as last determined on the basis prescribed by the Act, are summarized in the attached Schedule and details in respect of which are set forth in the diskette accompanying this Declaration, being property of the Authorized Foreign Banks in accordance with the terms and provisions of the said Deposit Agreements, and that the said Depository declares that it will continue to hold said assets under and subject to all the terms and provisions of the said Depository Agreements.\nDATED at the City of Line to fill out ____________________ this Line to fill out ____ day of Line to fill out __________________, Line to fill out ____.\nNAME OF DEPOSITORY\nLine to fill out _____________________________________________\nPrint Name & Title of Authorized Signing Officer\nAuthorized Foreign Bank Institutions Code | Full Authorized Foreign Bank Name | Value\nblank | blank | blank\nSCHEDULE \"C\" to the Deposit Agreement made the Line to fill out ____ day of __________________, Line to fill out _____ between Line to fill out ____________________________, Line to fill out ____________________________ and the Superintendent of Financial Institutions.\nWHEREAS Line to fill out ____________________________________, a Canadian Financial Institution under the laws of Line to fill out _____________________, has been appointed by a certain Deposit Agreement dated as of the Line to fill out ____ day of Line to fill out __________________, Line to fill out _____, the Depository for Line to fill out ________________________ (hereinafter called the \"Authorized Foreign Bank\") for the purposes and under the provisions of the Bank Act .\nNOW THEREFORE IT IS WITNESSED that the said Canadian Financial Institution, as such Depository, hereby acknowledges and declares that it now holds for the Authorized Foreign Bank under said Deposit Agreement assets the total value of which, based on the value as last determined on the basis prescribed by the Act , is summarized in the attached Schedule and details in respect of which are set forth in the diskette accompanying this Declaration, being property of the Authorized Foreign Bank in accordance with the terms and provisions of the said Deposit Agreement, and that the said Depository declares that it will continue to hold said assets under and subject to all the terms and provisions of the said Deposit Agreement.\nDATED at the City of Line to fill out ____________________ this Line to fill out ____ day of Line to fill out __________________, Line to fill out _____.\nCANADIAN FINANCIAL INSTITUTION",
+      "content": [
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "Paragraph headings and other headings or captions or the index or the title hereto shall not be used in construing or interpreting any provision of this Agreement or the relationship of the parties to this Agreement. IN WITNESS WHEREOF the Authorized Foreign Bank, the Depository and the Superintendent have executed this Agreement as of the date and year first above written. (Authorized Foreign Bank) Name and Title Name and Title (Depository) Name and Title Name and Title Superintendent of Financial Institutions"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Paragraph headings and other headings or captions or the index or the title hereto shall not be used in construing or interpreting any provision of this Agreement or the relationship of the parties to this Agreement."
+        },
+        {
+          "type": "paragraph",
+          "text": "IN WITNESS WHEREOF the Authorized Foreign Bank, the Depository and the Superintendent have executed this Agreement as of the date and year first above written."
+        },
+        {
+          "type": "paragraph",
+          "text": "(Authorized Foreign Bank)"
+        },
+        {
+          "type": "paragraph",
+          "text": "Name and Title"
+        },
+        {
+          "type": "paragraph",
+          "text": "Name and Title"
+        },
+        {
+          "type": "paragraph",
+          "text": "(Depository)"
+        },
+        {
+          "type": "paragraph",
+          "text": "Name and Title"
+        },
+        {
+          "type": "paragraph",
+          "text": "Name and Title"
+        },
+        {
+          "type": "paragraph",
+          "text": "Superintendent of Financial Institutions"
+        },
+        {
+          "type": "paragraph",
+          "text": "SCHEDULE \"A\" to the Deposit Agreement made the Line to fill out ____ day of Line to fill out __________________, _____ between, Line to fill out ____________________________, Line to fill out ____________________________ and the Superintendent of Financial Institutions"
+        },
+        {
+          "type": "paragraph",
+          "text": "PRE-APPROVED ASSETS"
+        },
+        {
+          "type": "paragraph",
+          "text": "PAYABLE IN CANADIAN DOLLARS"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "Cash",
+            "Securities issued or guaranteed by: Government of Canada a Canadian Province a Canadian municipal or school corporation",
+            "Bankers' Acceptances accepted by: a bank (other than an affiliate of the authorized foreign bank) listed in Schedules I or II of the Bank Act , or another authorized foreign bank (other than an affiliate) listed in Schedule III of the Bank Act ."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Cash"
+        },
+        {
+          "type": "paragraph",
+          "text": "Securities issued or guaranteed by:"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "Government of Canada",
+            "a Canadian Province",
+            "a Canadian municipal or school corporation"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Government of Canada"
+        },
+        {
+          "type": "paragraph",
+          "text": "a Canadian Province"
+        },
+        {
+          "type": "paragraph",
+          "text": "a Canadian municipal or school corporation"
+        },
+        {
+          "type": "paragraph",
+          "text": "Bankers' Acceptances accepted by:"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "a bank (other than an affiliate of the authorized foreign bank) listed in Schedules I or II of the Bank Act , or",
+            "another authorized foreign bank (other than an affiliate) listed in Schedule III of the Bank Act ."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "a bank (other than an affiliate of the authorized foreign bank) listed in Schedules I or II of the Bank Act , or"
+        },
+        {
+          "type": "paragraph",
+          "text": "another authorized foreign bank (other than an affiliate) listed in Schedule III of the Bank Act ."
+        },
+        {
+          "type": "paragraph",
+          "text": "SCHEDULE \"B\" to the Deposit Agreement made the ____ day of Line to fill out __________________, between Line to fill out ____________________________, Line to fill out ____________________________ and the Superintendent of Financial Institutions."
+        },
+        {
+          "type": "paragraph",
+          "text": "WHEREAS Line to fill out ____________________________________, a Canadian Financial Institution incorporated under the laws of Line to fill out __________________, has been appointed by certain Deposit Agreements the Depository for the authorized foreign banks referred to in the attached Schedule (hereinafter called the \"Authorized Foreign Banks\") for the purposes and under the provisions of the Bank Act ."
+        },
+        {
+          "type": "paragraph",
+          "text": "NOW THEREFORE IT IS WITNESSED that the said Canadian Financial Institution, as such Depository, hereby acknowledges and declares that it now holds for the Authorized Foreign Banks assets the total values of which, as at Line to fill out __________________, Line to fill out _____, based on the values as last determined on the basis prescribed by the Act, are summarized in the attached Schedule and details in respect of which are set forth in the diskette accompanying this Declaration, being property of the Authorized Foreign Banks in accordance with the terms and provisions of the said Deposit Agreements, and that the said Depository declares that it will continue to hold said assets under and subject to all the terms and provisions of the said Depository Agreements."
+        },
+        {
+          "type": "paragraph",
+          "text": "DATED at the City of Line to fill out ____________________ this Line to fill out ____ day of Line to fill out __________________, Line to fill out ____."
+        },
+        {
+          "type": "paragraph",
+          "text": "NAME OF DEPOSITORY"
+        },
+        {
+          "type": "paragraph",
+          "text": "Line to fill out _____________________________________________"
+        },
+        {
+          "type": "paragraph",
+          "text": "Print Name & Title of Authorized Signing Officer"
+        },
+        {
+          "type": "table",
+          "caption": "",
+          "rows": [
+            [
+              "Authorized Foreign Bank Institutions Code",
+              "Full Authorized Foreign Bank Name",
+              "Value"
+            ],
+            [
+              "blank",
+              "blank",
+              "blank"
+            ]
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "SCHEDULE \"C\" to the Deposit Agreement made the Line to fill out ____ day of __________________, Line to fill out _____ between Line to fill out ____________________________, Line to fill out ____________________________ and the Superintendent of Financial Institutions."
+        },
+        {
+          "type": "paragraph",
+          "text": "WHEREAS Line to fill out ____________________________________, a Canadian Financial Institution under the laws of Line to fill out _____________________, has been appointed by a certain Deposit Agreement dated as of the Line to fill out ____ day of Line to fill out __________________, Line to fill out _____, the Depository for Line to fill out ________________________ (hereinafter called the \"Authorized Foreign Bank\") for the purposes and under the provisions of the Bank Act ."
+        },
+        {
+          "type": "paragraph",
+          "text": "NOW THEREFORE IT IS WITNESSED that the said Canadian Financial Institution, as such Depository, hereby acknowledges and declares that it now holds for the Authorized Foreign Bank under said Deposit Agreement assets the total value of which, based on the value as last determined on the basis prescribed by the Act , is summarized in the attached Schedule and details in respect of which are set forth in the diskette accompanying this Declaration, being property of the Authorized Foreign Bank in accordance with the terms and provisions of the said Deposit Agreement, and that the said Depository declares that it will continue to hold said assets under and subject to all the terms and provisions of the said Deposit Agreement."
+        },
+        {
+          "type": "paragraph",
+          "text": "DATED at the City of Line to fill out ____________________ this Line to fill out ____ day of Line to fill out __________________, Line to fill out _____."
+        },
+        {
+          "type": "paragraph",
+          "text": "CANADIAN FINANCIAL INSTITUTION"
+        }
+      ]
+    },
+    {
+      "heading": "Asset Withdrawal Request Form and Declaration",
+      "heading_level": 3,
+      "full_text": "To the Superintendent of Financial Institutions:\nWe (name of foreign bank branch) hereby request approval to withdraw the following assets from the depository account with Line to fill out ____________________ (name of depository).\nAssets |  | Value\nTotal amount of withdrawal |  | \nForeign Bank Branch Deposit (FBBD) Calculation as of prior month end\nTotal value of deposit account |  | \nAmount of foreign bank branch liabilities As defined by OSFI. (See Appendix III) |  | \nIt is hereby certified that the assets remaining on deposit pursuant to the Standard Deposit Agreement after this withdrawal, and valued in accordance with paragraph 582(1) of the Bank Act , amount to $\nLine to fill out ________. The amount required to be maintained on deposit pursuant to subparagraph 582(1)( b ) of the Bank Act is $ Line to fill out ________ as of this date.\nLine to fill out __________________________________\n(appropriate individual from branch management)",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "To the Superintendent of Financial Institutions:"
+        },
+        {
+          "type": "paragraph",
+          "text": "We (name of foreign bank branch) hereby request approval to withdraw the following assets from the depository account with Line to fill out ____________________ (name of depository)."
+        },
+        {
+          "type": "table",
+          "caption": "",
+          "rows": [
+            [
+              "Assets",
+              "",
+              "Value"
+            ],
+            [
+              "Total amount of withdrawal",
+              "",
+              ""
+            ],
+            [
+              "Foreign Bank Branch Deposit (FBBD) Calculation as of prior month end"
+            ],
+            [
+              "Total value of deposit account",
+              "",
+              ""
+            ],
+            [
+              "Amount of foreign bank branch liabilities As defined by OSFI. (See Appendix III)",
+              "",
+              ""
+            ]
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "It is hereby certified that the assets remaining on deposit pursuant to the Standard Deposit Agreement after this withdrawal, and valued in accordance with paragraph 582(1) of the Bank Act , amount to $"
+        },
+        {
+          "type": "paragraph",
+          "text": "Line to fill out ________. The amount required to be maintained on deposit pursuant to subparagraph 582(1)( b ) of the Bank Act is $ Line to fill out ________ as of this date."
+        },
+        {
+          "type": "paragraph",
+          "text": "Line to fill out __________________________________"
+        },
+        {
+          "type": "paragraph",
+          "text": "(appropriate individual from branch management)"
+        }
+      ]
+    },
+    {
+      "heading": "ABC Foreign Bank Branch as at XX/XX/20XX",
+      "heading_level": 3,
+      "full_text": "Table: Foreign Bank Branch Deposit Report\nin thousands of dollars | As at quarter-end | Average for the quarter\nForeign Bank Branch Deposit Qualifying Assets Pre-approved asset classes Cash Securities issued or guaranteed by Canada Securities issued or guaranteed by a Canadian province Securities issued or guaranteed by a Canadian municipal or school corporation BAs accepted by a Schedule I or II bank (other than an affiliate) BAs accepted by a Schedule III bank (other than an affiliate) Assets approved by the Superintendent Deposits with regulated financial institutions Securities Other assets |  | \nForeign Bank Branch Deposit | A | \nForeign Bank Branch Liabilities Total balance sheet liabilities Less: Due to Head Office |  | \nForeign Bank Branch Liabilities | B | \nForeign Bank Branch Deposit Ratio Foreign bank branch deposit as a % of liabilities. (A / B x 100) |  | \n  1. Foreign Bank Branch Deposit Qualifying Assets Pre-approved asset classes Cash Securities issued or guaranteed by Canada Securities issued or guaranteed by a Canadian province Securities issued or guaranteed by a Canadian municipal or school corporation BAs accepted by a Schedule I or II bank (other than an affiliate) BAs accepted by a Schedule III bank (other than an affiliate) Assets approved by the Superintendent Deposits with regulated financial institutions Securities Other assets\nForeign Bank Branch Deposit\nQualifying Assets\n  1. Pre-approved asset classes Cash Securities issued or guaranteed by Canada Securities issued or guaranteed by a Canadian province Securities issued or guaranteed by a Canadian municipal or school corporation BAs accepted by a Schedule I or II bank (other than an affiliate) BAs accepted by a Schedule III bank (other than an affiliate)\n  2. Assets approved by the Superintendent Deposits with regulated financial institutions Securities Other assets\n  1. Cash\n  2. Securities issued or guaranteed by Canada\n  3. Securities issued or guaranteed by a Canadian province\n  4. Securities issued or guaranteed by a Canadian municipal or school corporation\n  5. BAs accepted by a Schedule I or II bank (other than an affiliate)\n  6. BAs accepted by a Schedule III bank (other than an affiliate)\nAssets approved by the Superintendent\n  1. Deposits with regulated financial institutions\n  2. Securities\n  3. Other assets\n  1. Foreign Bank Branch Liabilities Total balance sheet liabilities Less: Due to Head Office\n  1. Total balance sheet liabilities\n  2. Less: Due to Head Office\n  1. Foreign Bank Branch Deposit Ratio Foreign bank branch deposit as a % of liabilities. (A / B x 100)\nForeign Bank Branch Deposit Ratio\nForeign bank branch deposit as a % of liabilities. (A / B x 100)",
+      "content": [
+        {
+          "type": "table",
+          "caption": "Foreign Bank Branch Deposit Report",
+          "rows": [
+            [
+              "in thousands of dollars",
+              "As at quarter-end",
+              "Average for the quarter"
+            ],
+            [
+              "Foreign Bank Branch Deposit Qualifying Assets Pre-approved asset classes Cash Securities issued or guaranteed by Canada Securities issued or guaranteed by a Canadian province Securities issued or guaranteed by a Canadian municipal or school corporation BAs accepted by a Schedule I or II bank (other than an affiliate) BAs accepted by a Schedule III bank (other than an affiliate) Assets approved by the Superintendent Deposits with regulated financial institutions Securities Other assets",
+              "",
+              ""
+            ],
+            [
+              "Foreign Bank Branch Deposit",
+              "A",
+              ""
+            ],
+            [
+              "Foreign Bank Branch Liabilities Total balance sheet liabilities Less: Due to Head Office",
+              "",
+              ""
+            ],
+            [
+              "Foreign Bank Branch Liabilities",
+              "B",
+              ""
+            ],
+            [
+              "Foreign Bank Branch Deposit Ratio Foreign bank branch deposit as a % of liabilities. (A / B x 100)",
+              "",
+              ""
+            ]
+          ]
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "Foreign Bank Branch Deposit Qualifying Assets Pre-approved asset classes Cash Securities issued or guaranteed by Canada Securities issued or guaranteed by a Canadian province Securities issued or guaranteed by a Canadian municipal or school corporation BAs accepted by a Schedule I or II bank (other than an affiliate) BAs accepted by a Schedule III bank (other than an affiliate) Assets approved by the Superintendent Deposits with regulated financial institutions Securities Other assets"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Foreign Bank Branch Deposit"
+        },
+        {
+          "type": "paragraph",
+          "text": "Qualifying Assets"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "Pre-approved asset classes Cash Securities issued or guaranteed by Canada Securities issued or guaranteed by a Canadian province Securities issued or guaranteed by a Canadian municipal or school corporation BAs accepted by a Schedule I or II bank (other than an affiliate) BAs accepted by a Schedule III bank (other than an affiliate)",
+            "Assets approved by the Superintendent Deposits with regulated financial institutions Securities Other assets"
+          ]
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "Cash",
+            "Securities issued or guaranteed by Canada",
+            "Securities issued or guaranteed by a Canadian province",
+            "Securities issued or guaranteed by a Canadian municipal or school corporation",
+            "BAs accepted by a Schedule I or II bank (other than an affiliate)",
+            "BAs accepted by a Schedule III bank (other than an affiliate)"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Assets approved by the Superintendent"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "Deposits with regulated financial institutions",
+            "Securities",
+            "Other assets"
+          ]
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "Foreign Bank Branch Liabilities Total balance sheet liabilities Less: Due to Head Office"
+          ]
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "Total balance sheet liabilities",
+            "Less: Due to Head Office"
+          ]
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "Foreign Bank Branch Deposit Ratio Foreign bank branch deposit as a % of liabilities. (A / B x 100)"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Foreign Bank Branch Deposit Ratio"
+        },
+        {
+          "type": "paragraph",
+          "text": "Foreign bank branch deposit as a % of liabilities. (A / B x 100)"
+        }
+      ]
+    }
+  ],
+  "title_normalized": "foreign bank branch deposit requirement",
+  "publication_type_normalized": "guideline",
+  "category_normalized": "capital_adequacy_requirements",
+  "sector_normalized": [
+    "foreign_bank_branches"
+  ],
+  "guideline_number_normalized": "",
+  "applies_to_banks": false,
+  "applies_to_trust_loan": false,
+  "applies_to_life_insurance": false,
+  "applies_to_pc_insurance": false,
+  "applies_to_foreign_bank": true,
+  "applies_to_foreign_insurance": false,
+  "applies_to_cooperative": false,
+  "applies_to_bank_holding": false,
+  "effective_date_sort_key": "2019-12-31",
+  "status_sort_key": 1,
+  "authority_sort_key": 100,
+  "bm25_text": "Foreign Bank Branch Deposit Requirement Guideline Capital Adequacy Requirements Foreign Bank Branches Introduction FBBD Requirement Deposit Agreement Qualifying Assets, Additions and Withdrawals Reporting Further Information FOREIGN BANK BRANCH DEPOSIT AGREEMENT APPOINTMENT OF DEPOSITORY DEPOSITED ASSETS DEPOSITING, VARYING, EXCHANGING OR WITHDRAWING ASSETS ASSETS IN DEPOSITORY'S NAME POWERS AND AUTHORITY OF DEPOSITORY ACCOUNTABILITY OF DEPOSITORY DIRECTION OF AUTHORIZED FOREIGN BANK CDS CLEARING AND DEPOSITORY SERVICES INC. PAYMENTS ON ACCOUNT OF AN INTEREST IN REAL ESTATE EXERCISE OF RIGHTS ATTACHED TO AN ASSET STATEMENT OF ASSETS ACCESS COMPENSATION OF DEPOSITORY INTEREST ON MONIES HELD ON DEPOSIT AMENDMENTS TERMINATION APPOINTMENT OF NEW DEPOSITORY WAIVER FURTHER ASSURANCES NOTICES EXECUTION IN COUNTERPART PARTIAL INVALIDITY EFFECTIVE DATE PROPER LAW EXISTING AGREEMENTS MISCELLANEOUS Asset Withdrawal Request Form and Declaration ABC Foreign Bank Branch as at XX/XX/20XX",
+  "vector_text_prefix": "[OSFI Guideline  | Capital Adequacy Requirements | Foreign Bank Branches | FINAL_CURRENT | Effective 2019-12-31]",
+  "h1_title": "Foreign Bank Branch Deposit Requirement",
+  "regulator": "OSFI",
+  "regulator_acronym": "OSFI",
+  "jurisdiction": "Canada",
+  "short_title": "",
+  "source_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/foreign-bank-branch-deposit-requirement"
+}

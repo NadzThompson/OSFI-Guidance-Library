@@ -1,0 +1,554 @@
+{
+  "source_system": "osfi_guidance_library",
+  "library_row_title": "Life Insurance Capital Adequacy Test (2025) – Chapter 12 Life Insurers Operating in Canada on a Branch Basis",
+  "library_row_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/life-insurance-capital-adequacy-test-2025-chapter-12-life-insurers-operating-canada-branch-basis",
+  "listing_date_raw": "Issue date November 21, 2024",
+  "listing_date_iso": "",
+  "listing_publication_type": "Guideline",
+  "listing_category": "Capital Adequacy Requirements",
+  "listing_sector": [
+    "Life Insurance and Fraternal Companies"
+  ],
+  "crawl_timestamp": "2026-03-11T00:00:00Z",
+  "detail_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/life-insurance-capital-adequacy-test-2025-chapter-12-life-insurers-operating-canada-branch-basis",
+  "canonical_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/life-insurance-capital-adequacy-test-2025-chapter-12-life-insurers-operating-canada-branch-basis",
+  "slug": "life-insurance-capital-adequacy-test-2025-chapter-12-life-insurers-operating-canada-branch-basis",
+  "title": "Life Insurance Capital Adequacy Test (2025) – Chapter 12 Life Insurers Operating in Canada on a Branch Basis",
+  "publication_type": "Guideline",
+  "category": "Capital Adequacy Requirements",
+  "document_date_raw": "Issue date November 21, 2024",
+  "document_date_iso": "",
+  "sector": [
+    "Life Insurance and Fraternal Companies"
+  ],
+  "effective_date_text": "",
+  "guideline_number": "",
+  "date_modified_raw": "2025-01-01T12:00:00Z",
+  "generate_pdf_url": null,
+  "pdf_node_id": null,
+  "direct_pdf_url": "https://www.osfi-bsif.gc.ca/sites/default/files/documents/2025-licat-guideline-ligne-directrice-tsav-en.pdf",
+  "has_table_of_contents": true,
+  "toc_entries": [],
+  "has_related_documents": true,
+  "related_document_links_raw": [
+    {
+      "title": "Life Insurance Capital Adequacy Test – Backgrounder (2025)",
+      "url": "https://www.osfi-bsif.gc.ca/en/news/backgrounder-final-life-insurance-capital-adequacy-test-licat-guideline-2025"
+    },
+    {
+      "title": "Life Insurance Capital Adequacy Test – Letter (2025)",
+      "url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/life-insurance-capital-adequacy-test-2025-letter"
+    },
+    {
+      "title": "Life Insurance Capital Adequacy Test – Filing Instructions (2025)",
+      "url": "https://www.osfi-bsif.gc.ca/en/data-forms/reporting-returns/filing-financial-returns/financial-reporting-instructions/2025-life-insurance-capital-adequacy-test-filing-instructions-0"
+    }
+  ],
+  "consultation_status_text": null,
+  "consultation_status_refers_to_version": null,
+  "page_language": "en",
+  "word_count_raw_body": 2280,
+  "doc_id": "osfi.licat.2025.chapter12.chapter",
+  "doc_family_id": "osfi.licat",
+  "version_id": "2025",
+  "version_label": "Life Insurance Capital Adequacy Test (2025) – Chapter 12 Lif",
+  "version_sort_key": "2025-11",
+  "parent_doc_id": "osfi.licat.2025.package",
+  "child_doc_ids": [],
+  "is_package_page": false,
+  "is_chapter_page": true,
+  "chapter_number": 12,
+  "chapter_title": null,
+  "document_order_within_family": 12,
+  "supersedes_doc_id": null,
+  "superseded_by_doc_id": null,
+  "current_version_flag": true,
+  "status": "final_current",
+  "include_in_primary_corpus": true,
+  "include_in_support_corpus": false,
+  "include_in_context_corpus": false,
+  "effective_date_start": "2024-11-21",
+  "effective_date_end": null,
+  "effective_date_fye_split": false,
+  "effective_date_oct_fye": null,
+  "effective_date_dec_fye": null,
+  "is_future_effective": false,
+  "is_rescinded": false,
+  "is_draft_or_consultation": false,
+  "rescission_date": null,
+  "consultation_closing_date": null,
+  "as_of_applicability": "2026-03-23",
+  "rule_applied": "rule_5_final_current",
+  "authority_class": "primary_normative",
+  "authority_level": 100,
+  "nova_tier": 1,
+  "prudential_weight": 1.0,
+  "is_primary_normative": true,
+  "is_supporting_interpretive": false,
+  "is_context_only": false,
+  "document_class": "chapter_guideline",
+  "guidance_type_normalized": "guideline",
+  "section_headings": [
+    {
+      "level": 2,
+      "text": "Note",
+      "id": "h2-0"
+    },
+    {
+      "level": 2,
+      "text": "12.1. LIMAT Ratios",
+      "id": "h2-1"
+    },
+    {
+      "level": 2,
+      "text": "12.2. Available Margin",
+      "id": "h2-2"
+    },
+    {
+      "level": 3,
+      "text": "12.2.1. Assets Available",
+      "id": "h3-3"
+    },
+    {
+      "level": 3,
+      "text": "12.2.2. Vested Assets",
+      "id": "h3-4"
+    },
+    {
+      "level": 3,
+      "text": "12.2.3. Other Admitted Assets",
+      "id": "h3-5"
+    },
+    {
+      "level": 3,
+      "text": "12.2.4. Deductions/adjustments",
+      "id": "h3-6"
+    },
+    {
+      "level": 3,
+      "text": "12.2.5. Assets Required",
+      "id": "h3-7"
+    },
+    {
+      "level": 2,
+      "text": "12.3. Surplus Allowance and Eligible Deposits",
+      "id": "h2-8"
+    },
+    {
+      "level": 2,
+      "text": "12.4. Required Margin",
+      "id": "h2-9"
+    },
+    {
+      "level": 2,
+      "text": "Footnotes",
+      "id": "h2-10"
+    }
+  ],
+  "heading_path": [
+    "Life Insurance Capital Adequacy Test (2025) – Chapter 12 Life Insurers Operating in Canada on a Branch Basis"
+  ],
+  "toc_depth": 3,
+  "has_appendices": false,
+  "appendix_ids": [],
+  "has_tables": false,
+  "table_count": 0,
+  "has_footnotes": true,
+  "footnote_count": 1,
+  "inline_cross_references": [
+    "Guideline A-4: Regulatory Capital and Internal Capital Targets",
+    "Guideline E-4"
+  ],
+  "quoted_external_references": [],
+  "raw_html_sha256": "c15fdfb6b9918efdbd685b026404804f1f2db2d936ced36c7836a26b41f44502",
+  "raw_pdf_sha256": null,
+  "normalized_text_sha256": null,
+  "raw_html_path": "bronze/osfi/html/final_current/life-insurance-capital-adequacy-test-2025-chapter-12-life-insurers-operating-canada-branch-basis.html",
+  "normalized_md_path": "silver/osfi/md/final_current/life-insurance-capital-adequacy-test-2025-chapter-12-life-insurers-operating-canada-branch-basis.md",
+  "canonical_json_path": "silver/osfi/json/final_current/life-insurance-capital-adequacy-test-2025-chapter-12-life-insurers-operating-canada-branch-basis.json",
+  "content_source": "HTML",
+  "parser_version": "osfi-parser-v2.1.0",
+  "normalizer_version": "osfi-normalizer-v1.4.0",
+  "quality_score": 1.0,
+  "quality_flags": [],
+  "download_timestamp": "2026-03-11T00:00:00Z",
+  "enriched_timestamp": "2026-03-23T09:53:53.499553Z",
+  "sections": [
+    {
+      "heading": "",
+      "heading_level": 2,
+      "full_text": "  - Life Insurance Capital Adequacy Test – Backgrounder (2025)\n  - Life Insurance Capital Adequacy Test – Letter (2025)\n  - Life Insurance Capital Adequacy Test – Filing Instructions (2025)",
+      "content": [
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Life Insurance Capital Adequacy Test – Backgrounder (2025)",
+            "Life Insurance Capital Adequacy Test – Letter (2025)",
+            "Life Insurance Capital Adequacy Test – Filing Instructions (2025)"
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "Note",
+      "heading_level": 2,
+      "full_text": "A Regulatory Notice on Adjustments to the Life Insurance Capital Adequacy Test – Guideline (2025) was published and became effective on May 22, 2025. These adjustments are expected to be incorporated in the next version of the LICAT guideline.\nThe Life Insurance Margin Adequacy Test (LIMAT) set out in this guideline, along with Guideline A-4: Regulatory Capital and Internal Capital Targets , provide the framework within which the Superintendent assesses whether life insurers operating in Canada on a branch basis (branches) maintain an adequate margin pursuant to subsection 608(1). Under subsection 608(1) of the ICA, a foreign insurer is required to maintain in Canada an adequate margin of assets over liabilities in respect of its insurance business in Canada.\nIn addition, foreign insurers are required to maintain assets in Canada, with respect to their life insurance business in Canada, that are sufficient to cover:\n  1. reserves for actuarial and other policy liabilities;\n  2. unpaid claims; and\n  3. other liabilities and amounts related to the carrying on of their life insurance business in Canada.\nThese requirements are prescribed in accordance with the Assets (Foreign Companies) Regulations .",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "A Regulatory Notice on Adjustments to the Life Insurance Capital Adequacy Test – Guideline (2025) was published and became effective on May 22, 2025. These adjustments are expected to be incorporated in the next version of the LICAT guideline."
+        },
+        {
+          "type": "paragraph",
+          "text": "The Life Insurance Margin Adequacy Test (LIMAT) set out in this guideline, along with Guideline A-4: Regulatory Capital and Internal Capital Targets , provide the framework within which the Superintendent assesses whether life insurers operating in Canada on a branch basis (branches) maintain an adequate margin pursuant to subsection 608(1). Under subsection 608(1) of the ICA, a foreign insurer is required to maintain in Canada an adequate margin of assets over liabilities in respect of its insurance business in Canada."
+        },
+        {
+          "type": "paragraph",
+          "text": "In addition, foreign insurers are required to maintain assets in Canada, with respect to their life insurance business in Canada, that are sufficient to cover:"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "reserves for actuarial and other policy liabilities;",
+            "unpaid claims; and",
+            "other liabilities and amounts related to the carrying on of their life insurance business in Canada."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "These requirements are prescribed in accordance with the Assets (Foreign Companies) Regulations ."
+        }
+      ]
+    },
+    {
+      "heading": "12.1. LIMAT Ratios",
+      "heading_level": 2,
+      "full_text": "The LIMAT Total Ratio measures the adequacy of assets available to meet the margin requirements, as determined in accordance with this guideline. The Total Ratio focuses on policyholder and creditor protection. The formula used to calculate the Total Ratio is:\nAvailable Margin + Surplus Allowance + Eligible Deposits Required Margin\nThe LIMAT Core Ratio makes an adjustment to the Total Ratio calculation by excluding Other Admitted Assets, and focuses on financial strength. The formula used to calculate the Core Ratio is:\nAvailable Margin + 70% of Surplus Allowance + 70% of Eligible Deposits − Other Admitted Assets Required Margin",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "The LIMAT Total Ratio measures the adequacy of assets available to meet the margin requirements, as determined in accordance with this guideline. The Total Ratio focuses on policyholder and creditor protection. The formula used to calculate the Total Ratio is:"
+        },
+        {
+          "type": "paragraph",
+          "text": "Available Margin + Surplus Allowance + Eligible Deposits Required Margin"
+        },
+        {
+          "type": "paragraph",
+          "text": "The LIMAT Core Ratio makes an adjustment to the Total Ratio calculation by excluding Other Admitted Assets, and focuses on financial strength. The formula used to calculate the Core Ratio is:"
+        },
+        {
+          "type": "paragraph",
+          "text": "Available Margin + 70% of Surplus Allowance + 70% of Eligible Deposits − Other Admitted Assets Required Margin"
+        }
+      ]
+    },
+    {
+      "heading": "12.2. Available Margin",
+      "heading_level": 2,
+      "full_text": "The Available Margin is the difference between Assets Available and Assets Required.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "The Available Margin is the difference between Assets Available and Assets Required."
+        }
+      ]
+    },
+    {
+      "heading": "12.2.1. Assets Available",
+      "heading_level": 3,
+      "full_text": "Assets Available consists of:\n  1. Vested Assets;\n  2. investment income due and accrued on Vested Assets; and\n  3. Other Admitted Assets, as specified in section 12.2.3;\nless:\n  1. Deductions/Adjustments per section 12.2.4",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Assets Available consists of:"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "Vested Assets;",
+            "investment income due and accrued on Vested Assets; and",
+            "Other Admitted Assets, as specified in section 12.2.3;"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "less:"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "Deductions/Adjustments per section 12.2.4"
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "12.2.2. Vested Assets",
+      "heading_level": 3,
+      "full_text": "Vested Assets are to be valued in accordance with the Insurance Companies Act .",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Vested Assets are to be valued in accordance with the Insurance Companies Act ."
+        }
+      ]
+    },
+    {
+      "heading": "12.2.3. Other Admitted Assets",
+      "heading_level": 3,
+      "full_text": "The amount of Other Admitted Assets included in Assets Available is the lesser of:\n  1. balance sheet values of amounts due from federally or provincially regulated insurers that are not in arrears, are unencumbered, are under the control of the Chief Agent, and that have not been deducted from Assets Required; plus negative reserves (excluding future business assumed through reinsurance contracts held) included in Assets Required; plus the requirement for offsetting liabilities ceded under unregistered reinsurance in section 10.2.2 net of the credit applied; plus the requirement for negative liabilities ceded under unregistered reinsurance in section 10.2.4; less tax adjustments and amounts recoverable on surrender related to policy-by-policy negative reserves ceded under unregistered reinsurance (qq.v. sections 10.2.5 and 10.2.6); plus aggregate negative liabilities ceded under unregistered reinsurance below the applicable limit (q.v. section 10.2.7); plus 75% of cash surrender value deficiencies taken over all aggregated sets (q.v. section 2.1.2.8); plus the adjustment amount to amortize the impact in the current period on Assets Required on account of each net defined benefit pension plan recognized as a liability on the branch's balance sheet, net of any associated deferred tax assets; plus balance sheet values of right of use assets associated with owner-occupied leased properties, as recognised on the branch's balance sheet in accordance with relevant accounting standards.\n  1. balance sheet values of amounts due from federally or provincially regulated insurers that are not in arrears, are unencumbered, are under the control of the Chief Agent, and that have not been deducted from Assets Required; plus\n  2. negative reserves (excluding future business assumed through reinsurance contracts held) included in Assets Required; plus\n  3. the requirement for offsetting liabilities ceded under unregistered reinsurance in section 10.2.2 net of the credit applied; plus\n  4. the requirement for negative liabilities ceded under unregistered reinsurance in section 10.2.4; less\n  5. tax adjustments and amounts recoverable on surrender related to policy-by-policy negative reserves ceded under unregistered reinsurance (qq.v. sections 10.2.5 and 10.2.6); plus\n  6. aggregate negative liabilities ceded under unregistered reinsurance below the applicable limit (q.v. section 10.2.7); plus\n  7. 75% of cash surrender value deficiencies taken over all aggregated sets (q.v. section 2.1.2.8); plus\n  8. the adjustment amount to amortize the impact in the current period on Assets Required on account of each net defined benefit pension plan recognized as a liability on the branch's balance sheet, net of any associated deferred tax assets; plus\n  9. balance sheet values of right of use assets associated with owner-occupied leased properties, as recognised on the branch's balance sheet in accordance with relevant accounting standards.\n  1. 50% of the difference between Required Margin, and the total risk adjustment reported in the financial statements calculated net of registered reinsurance only.\nAssets under the control of the Chief Agent may be included in Other Admitted Assets only if the following conditions are met:\n  1. records and record keeping facilities in Canada are satisfactory to OSFI Footnote 1 ;\n  2. the branch has received an unqualified auditor's opinion; and\n  3. the Superintendent receives an undertaking from the head office of the insurer and the Chief Agent specifying that the assets referred to in section Ai) and Aix) above that are under the control of the Chief Agent will be maintained in Canada.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "The amount of Other Admitted Assets included in Assets Available is the lesser of:"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "balance sheet values of amounts due from federally or provincially regulated insurers that are not in arrears, are unencumbered, are under the control of the Chief Agent, and that have not been deducted from Assets Required; plus negative reserves (excluding future business assumed through reinsurance contracts held) included in Assets Required; plus the requirement for offsetting liabilities ceded under unregistered reinsurance in section 10.2.2 net of the credit applied; plus the requirement for negative liabilities ceded under unregistered reinsurance in section 10.2.4; less tax adjustments and amounts recoverable on surrender related to policy-by-policy negative reserves ceded under unregistered reinsurance (qq.v. sections 10.2.5 and 10.2.6); plus aggregate negative liabilities ceded under unregistered reinsurance below the applicable limit (q.v. section 10.2.7); plus 75% of cash surrender value deficiencies taken over all aggregated sets (q.v. section 2.1.2.8); plus the adjustment amount to amortize the impact in the current period on Assets Required on account of each net defined benefit pension plan recognized as a liability on the branch's balance sheet, net of any associated deferred tax assets; plus balance sheet values of right of use assets associated with owner-occupied leased properties, as recognised on the branch's balance sheet in accordance with relevant accounting standards."
+          ]
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "balance sheet values of amounts due from federally or provincially regulated insurers that are not in arrears, are unencumbered, are under the control of the Chief Agent, and that have not been deducted from Assets Required; plus",
+            "negative reserves (excluding future business assumed through reinsurance contracts held) included in Assets Required; plus",
+            "the requirement for offsetting liabilities ceded under unregistered reinsurance in section 10.2.2 net of the credit applied; plus",
+            "the requirement for negative liabilities ceded under unregistered reinsurance in section 10.2.4; less",
+            "tax adjustments and amounts recoverable on surrender related to policy-by-policy negative reserves ceded under unregistered reinsurance (qq.v. sections 10.2.5 and 10.2.6); plus",
+            "aggregate negative liabilities ceded under unregistered reinsurance below the applicable limit (q.v. section 10.2.7); plus",
+            "75% of cash surrender value deficiencies taken over all aggregated sets (q.v. section 2.1.2.8); plus",
+            "the adjustment amount to amortize the impact in the current period on Assets Required on account of each net defined benefit pension plan recognized as a liability on the branch's balance sheet, net of any associated deferred tax assets; plus",
+            "balance sheet values of right of use assets associated with owner-occupied leased properties, as recognised on the branch's balance sheet in accordance with relevant accounting standards."
+          ]
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "50% of the difference between Required Margin, and the total risk adjustment reported in the financial statements calculated net of registered reinsurance only."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Assets under the control of the Chief Agent may be included in Other Admitted Assets only if the following conditions are met:"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "records and record keeping facilities in Canada are satisfactory to OSFI Footnote 1 ;",
+            "the branch has received an unqualified auditor's opinion; and",
+            "the Superintendent receives an undertaking from the head office of the insurer and the Chief Agent specifying that the assets referred to in section Ai) and Aix) above that are under the control of the Chief Agent will be maintained in Canada."
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "12.2.4. Deductions/adjustments",
+      "heading_level": 3,
+      "full_text": "The following amounts are deducted from Assets Available:\n  1. accumulated net after tax revaluation losses in excess of gains on owner-occupied properties vested in trust;\n  2. net after tax revaluation gains on owner-occupied properties vested in trust; and\n  3. negative dividend stabilization reserves (DSRs) and negative reserves resulting from similar experience levelling mechanisms related to participating business (q.v. section 9.1.1), calculated by participating block.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "The following amounts are deducted from Assets Available:"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "accumulated net after tax revaluation losses in excess of gains on owner-occupied properties vested in trust;",
+            "net after tax revaluation gains on owner-occupied properties vested in trust; and",
+            "negative dividend stabilization reserves (DSRs) and negative reserves resulting from similar experience levelling mechanisms related to participating business (q.v. section 9.1.1), calculated by participating block."
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "12.2.5. Assets Required",
+      "heading_level": 3,
+      "full_text": "Assets Required in respect of a branch's insurance business in Canada consists of:\n  1. insurance contract liabilities Footnote 2 , net of all reinsurance ceded;\n  2. policyholder amounts on deposit;\n  3. accounts payable;\n  4. income taxes payable;\n  5. mortgage loans and other real estate encumbrances;\n  6. deferred income tax liabilities;\n  7. each net defined benefit pension plan recognized as a liability on the branch's balance sheet net of any associated deferred tax asset that would be extinguished if the liability were otherwise derecognized under relevant accounting standards;\n  8. any and all other liabilities that pertain to Canadian creditors and that are associated with the operations of the insurer in Canada Footnote 3 ;\n  9. volatility adjustment for changes in cost of guarantee liabilities (see below);\n  10. negative reserves net of all reinsurance (q.v. section 2.1.2.9);\n  11. requirements for liabilities ceded under unregistered reinsurance specified in section 10.2.1 net of any applicable credit;\n  12. requirements for offsetting liabilities ceded under unregistered reinsurance in section 10.2.2 net of any applicable credit;\n  13. requirements for excesses of reinsurance contracts held over direct liabilities in section 10.2.3;\n  14. the requirement for negative liabilities ceded with recourse under unregistered reinsurance in section 10.2.4;\n  15. cash surrender value deficiencies taken over all aggregated sets (q.v. section 2.1.2.8); and\n  16. all contractual service margins that are assets;\n  17. asset components of all insurance contracts for which the asset and liability components cannot be netted (see below);\n  18. The difference between Restated Liabilities for segregated fund guarantees (q.v. section 7.1) and the Best Estimate Liability for these guarantees after applicable smoothing transition measure (q.v. section 7.5.3), if positive;\nless:\n  1. all contractual service margins that are liabilities;\n  2. tax adjustments related to policy-by-policy negative reserves ceded under unregistered reinsurance (q.v. section 10.2.5); and\n  3. amounts recoverable on surrender related to policy-by-policy negative reserves ceded under unregistered reinsurance (q.v. section 10.2.6).\nThe volatility adjustment in item 9) above is the same as that described in section 2.1.1, with the exception that, if the option to use the adjustment is chosen, the applicable percentage of any increase in the liability for cost of guarantees caused by market movements between the end of the previous quarter and the reporting date is subtracted from Assets Required, and the applicable percentage of any decrease in the liability for cost of guarantees caused by market movements between the previous quarter and the reporting date is added to Assets Required.\nFor item 17) above, if an insurance contract comprises two or more distinct legal obligations for which, on a Best Estimate basis, at least one of the obligations is an asset and at least one of the obligations is a liability (e.g. funds withheld reinsurance), then the Best Estimate value of all legal obligations under the contract that are assets should be added to Assets Required unless:\n  1. The branch has executed a written, bilateral netting contract or agreement with the counterparty to the contract that creates a single legal obligation. The result of such an arrangement is that the branch has only one obligation for payment or one claim to receive funds based on the net sum of the liabilities and amounts due in the event the counterparty to the agreement fails to perform due to default, bankruptcy, liquidation or similar circumstances.\n  2. The netting arrangement specifies that only the liabilities to the counterparty arising out of the Canadian operations of the foreign insurer may be taken into consideration in determining the net amount owed. In particular, the counterparty is not able to net amounts due to the branch against any liabilities of the home office or affiliates of the branch that are not liabilities arising out of the Canadian operations of the foreign insurer.\n  3. The branch has written and reasoned legal opinions confirming that, in the event of any legal challenge, the relevant courts or administrative authorities will find the amount owed under the netting agreement to be the net amount under the laws of all relevant jurisdictions. In reaching this conclusion, legal opinions must address the validity and enforceability of the entire netting agreement under its terms. The laws of “all relevant jurisdictions” are: a) the law of the jurisdiction where the counterparty is incorporated and, if the foreign branch of a counterparty is involved, the laws of the jurisdiction in which the branch is located; b) the law governing the individual insurance transaction; and c) the law governing any contracts or agreements required to effect the netting arrangement. The legal opinions must be generally recognized as such by the legal community in the firm's home country or by a memorandum of law that addresses all relevant issues in a reasoned manner.\n  4. The branch has procedures in place to update legal opinions as necessary to ensure continuing enforceability of the netting arrangement in light of possible changes in relevant law.\n  5. The netting contract/agreements terms and conditions, and the quality and content of the legal opinions, meet the conditions of this guideline, and have been submitted to OSFI for review prior to the branch excluding the asset amounts from Assets Required.\n  1. The laws of “all relevant jurisdictions” are: a) the law of the jurisdiction where the counterparty is incorporated and, if the foreign branch of a counterparty is involved, the laws of the jurisdiction in which the branch is located; b) the law governing the individual insurance transaction; and c) the law governing any contracts or agreements required to effect the netting arrangement.\n  2. The legal opinions must be generally recognized as such by the legal community in the firm's home country or by a memorandum of law that addresses all relevant issues in a reasoned manner.\nIf the asset amounts under a contract are added to Assets Required in item 17) above, then the contract may be excluded from the negative reserve requirement in item 10).",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Assets Required in respect of a branch's insurance business in Canada consists of:"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "insurance contract liabilities Footnote 2 , net of all reinsurance ceded;",
+            "policyholder amounts on deposit;",
+            "accounts payable;",
+            "income taxes payable;",
+            "mortgage loans and other real estate encumbrances;",
+            "deferred income tax liabilities;",
+            "each net defined benefit pension plan recognized as a liability on the branch's balance sheet net of any associated deferred tax asset that would be extinguished if the liability were otherwise derecognized under relevant accounting standards;",
+            "any and all other liabilities that pertain to Canadian creditors and that are associated with the operations of the insurer in Canada Footnote 3 ;",
+            "volatility adjustment for changes in cost of guarantee liabilities (see below);",
+            "negative reserves net of all reinsurance (q.v. section 2.1.2.9);",
+            "requirements for liabilities ceded under unregistered reinsurance specified in section 10.2.1 net of any applicable credit;",
+            "requirements for offsetting liabilities ceded under unregistered reinsurance in section 10.2.2 net of any applicable credit;",
+            "requirements for excesses of reinsurance contracts held over direct liabilities in section 10.2.3;",
+            "the requirement for negative liabilities ceded with recourse under unregistered reinsurance in section 10.2.4;",
+            "cash surrender value deficiencies taken over all aggregated sets (q.v. section 2.1.2.8); and",
+            "all contractual service margins that are assets;",
+            "asset components of all insurance contracts for which the asset and liability components cannot be netted (see below);",
+            "The difference between Restated Liabilities for segregated fund guarantees (q.v. section 7.1) and the Best Estimate Liability for these guarantees after applicable smoothing transition measure (q.v. section 7.5.3), if positive;"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "less:"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "all contractual service margins that are liabilities;",
+            "tax adjustments related to policy-by-policy negative reserves ceded under unregistered reinsurance (q.v. section 10.2.5); and",
+            "amounts recoverable on surrender related to policy-by-policy negative reserves ceded under unregistered reinsurance (q.v. section 10.2.6)."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "The volatility adjustment in item 9) above is the same as that described in section 2.1.1, with the exception that, if the option to use the adjustment is chosen, the applicable percentage of any increase in the liability for cost of guarantees caused by market movements between the end of the previous quarter and the reporting date is subtracted from Assets Required, and the applicable percentage of any decrease in the liability for cost of guarantees caused by market movements between the previous quarter and the reporting date is added to Assets Required."
+        },
+        {
+          "type": "paragraph",
+          "text": "For item 17) above, if an insurance contract comprises two or more distinct legal obligations for which, on a Best Estimate basis, at least one of the obligations is an asset and at least one of the obligations is a liability (e.g. funds withheld reinsurance), then the Best Estimate value of all legal obligations under the contract that are assets should be added to Assets Required unless:"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "The branch has executed a written, bilateral netting contract or agreement with the counterparty to the contract that creates a single legal obligation. The result of such an arrangement is that the branch has only one obligation for payment or one claim to receive funds based on the net sum of the liabilities and amounts due in the event the counterparty to the agreement fails to perform due to default, bankruptcy, liquidation or similar circumstances.",
+            "The netting arrangement specifies that only the liabilities to the counterparty arising out of the Canadian operations of the foreign insurer may be taken into consideration in determining the net amount owed. In particular, the counterparty is not able to net amounts due to the branch against any liabilities of the home office or affiliates of the branch that are not liabilities arising out of the Canadian operations of the foreign insurer.",
+            "The branch has written and reasoned legal opinions confirming that, in the event of any legal challenge, the relevant courts or administrative authorities will find the amount owed under the netting agreement to be the net amount under the laws of all relevant jurisdictions. In reaching this conclusion, legal opinions must address the validity and enforceability of the entire netting agreement under its terms. The laws of “all relevant jurisdictions” are: a) the law of the jurisdiction where the counterparty is incorporated and, if the foreign branch of a counterparty is involved, the laws of the jurisdiction in which the branch is located; b) the law governing the individual insurance transaction; and c) the law governing any contracts or agreements required to effect the netting arrangement. The legal opinions must be generally recognized as such by the legal community in the firm's home country or by a memorandum of law that addresses all relevant issues in a reasoned manner.",
+            "The branch has procedures in place to update legal opinions as necessary to ensure continuing enforceability of the netting arrangement in light of possible changes in relevant law.",
+            "The netting contract/agreements terms and conditions, and the quality and content of the legal opinions, meet the conditions of this guideline, and have been submitted to OSFI for review prior to the branch excluding the asset amounts from Assets Required."
+          ]
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "The laws of “all relevant jurisdictions” are: a) the law of the jurisdiction where the counterparty is incorporated and, if the foreign branch of a counterparty is involved, the laws of the jurisdiction in which the branch is located; b) the law governing the individual insurance transaction; and c) the law governing any contracts or agreements required to effect the netting arrangement.",
+            "The legal opinions must be generally recognized as such by the legal community in the firm's home country or by a memorandum of law that addresses all relevant issues in a reasoned manner."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "If the asset amounts under a contract are added to Assets Required in item 17) above, then the contract may be excluded from the negative reserve requirement in item 10)."
+        }
+      ]
+    },
+    {
+      "heading": "12.3. Surplus Allowance and Eligible Deposits",
+      "heading_level": 2,
+      "full_text": "The Surplus Allowance for a branch is calculated in respect of its insurance business in Canada, in the manner described in section 1.1.3.\nEligible Deposits, as described in section 1.1.4, may be recognized in the calculation of the Total Ratio and Core Ratio.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "The Surplus Allowance for a branch is calculated in respect of its insurance business in Canada, in the manner described in section 1.1.3."
+        },
+        {
+          "type": "paragraph",
+          "text": "Eligible Deposits, as described in section 1.1.4, may be recognized in the calculation of the Total Ratio and Core Ratio."
+        }
+      ]
+    },
+    {
+      "heading": "12.4. Required Margin",
+      "heading_level": 2,
+      "full_text": "A branch's Required Margin is calculated in the same way as the Base Solvency Buffer described in section 1.1.5, and applies to:\n  1. Vested Assets;\n  2. liabilities in respect of insurance business in Canada; and\n  3. balance sheet values of assets under the control of the Chief Agent, if these are taken into consideration in determining Other Admitted Assets above.\nThe Required Margin forms part of the vesting requirements for foreign insurers.\n[Note: Footnotes Footnote 1 Refer to Guideline E-4, Foreign Entities Operating in Canada on a Branch Basis . Return to footnote 1 referrer Footnote 2 Includes amounts for outstanding claims and adjustments expenses, as well as provisions for policyholder dividends, experience rating refunds and discretionary participation features. These amounts must be included in Assets Required irrespective of whether they are classified as liabilities or equity for financial reporting purposes. Return to footnote 2 referrer Footnote 3 Includes liabilities associated with leased properties, plant and equipment recognised as right of use assets on the branch's balance sheet in accordance with relevant accounting standards and OSFI instructions. Return to footnote 3 referrer]",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "A branch's Required Margin is calculated in the same way as the Base Solvency Buffer described in section 1.1.5, and applies to:"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "Vested Assets;",
+            "liabilities in respect of insurance business in Canada; and",
+            "balance sheet values of assets under the control of the Chief Agent, if these are taken into consideration in determining Other Admitted Assets above."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "The Required Margin forms part of the vesting requirements for foreign insurers."
+        },
+        {
+          "type": "footnote",
+          "text": "Footnotes Footnote 1 Refer to Guideline E-4, Foreign Entities Operating in Canada on a Branch Basis . Return to footnote 1 referrer Footnote 2 Includes amounts for outstanding claims and adjustments expenses, as well as provisions for policyholder dividends, experience rating refunds and discretionary participation features. These amounts must be included in Assets Required irrespective of whether they are classified as liabilities or equity for financial reporting purposes. Return to footnote 2 referrer Footnote 3 Includes liabilities associated with leased properties, plant and equipment recognised as right of use assets on the branch's balance sheet in accordance with relevant accounting standards and OSFI instructions. Return to footnote 3 referrer"
+        }
+      ]
+    },
+    {
+      "heading": "Footnotes",
+      "heading_level": 2,
+      "full_text": "Refer to Guideline E-4, Foreign Entities Operating in Canada on a Branch Basis .\nReturn to footnote 1 referrer\nIncludes amounts for outstanding claims and adjustments expenses, as well as provisions for policyholder dividends, experience rating refunds and discretionary participation features. These amounts must be included in Assets Required irrespective of whether they are classified as liabilities or equity for financial reporting purposes.\nReturn to footnote 2 referrer\nIncludes liabilities associated with leased properties, plant and equipment recognised as right of use assets on the branch's balance sheet in accordance with relevant accounting standards and OSFI instructions.\nReturn to footnote 3 referrer",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Refer to Guideline E-4, Foreign Entities Operating in Canada on a Branch Basis ."
+        },
+        {
+          "type": "paragraph",
+          "text": "Return to footnote 1 referrer"
+        },
+        {
+          "type": "paragraph",
+          "text": "Includes amounts for outstanding claims and adjustments expenses, as well as provisions for policyholder dividends, experience rating refunds and discretionary participation features. These amounts must be included in Assets Required irrespective of whether they are classified as liabilities or equity for financial reporting purposes."
+        },
+        {
+          "type": "paragraph",
+          "text": "Return to footnote 2 referrer"
+        },
+        {
+          "type": "paragraph",
+          "text": "Includes liabilities associated with leased properties, plant and equipment recognised as right of use assets on the branch's balance sheet in accordance with relevant accounting standards and OSFI instructions."
+        },
+        {
+          "type": "paragraph",
+          "text": "Return to footnote 3 referrer"
+        }
+      ]
+    }
+  ],
+  "title_normalized": "life insurance capital adequacy test 2025 chapter 12 life insurers operating in canada on a branch basis",
+  "publication_type_normalized": "guideline",
+  "category_normalized": "capital_adequacy_requirements",
+  "sector_normalized": [
+    "life_insurance"
+  ],
+  "guideline_number_normalized": "",
+  "applies_to_banks": false,
+  "applies_to_trust_loan": false,
+  "applies_to_life_insurance": true,
+  "applies_to_pc_insurance": false,
+  "applies_to_foreign_bank": false,
+  "applies_to_foreign_insurance": false,
+  "applies_to_cooperative": false,
+  "applies_to_bank_holding": false,
+  "effective_date_sort_key": "2024-11-21",
+  "status_sort_key": 1,
+  "authority_sort_key": 100,
+  "bm25_text": "Life Insurance Capital Adequacy Test (2025) – Chapter 12 Life Insurers Operating in Canada on a Branch Basis Guideline Capital Adequacy Requirements Life Insurance and Fraternal Companies Note 12.1. LIMAT Ratios 12.2. Available Margin 12.2.1. Assets Available 12.2.2. Vested Assets 12.2.3. Other Admitted Assets 12.2.4. Deductions/adjustments 12.2.5. Assets Required 12.3. Surplus Allowance and Eligible Deposits 12.4. Required Margin Footnotes",
+  "vector_text_prefix": "[OSFI Guideline  | Capital Adequacy Requirements | Life Insurance and Fraternal Companies | FINAL_CURRENT | Effective 2024-11-21]",
+  "h1_title": "Life Insurance Capital Adequacy Test (2025) – Chapter 12 Life Insurers Operating in Canada on a Branch Basis",
+  "regulator": "OSFI",
+  "regulator_acronym": "OSFI",
+  "jurisdiction": "Canada",
+  "short_title": "",
+  "source_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/life-insurance-capital-adequacy-test-2025-chapter-12-life-insurers-operating-canada-branch-basis"
+}

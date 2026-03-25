@@ -1,0 +1,1069 @@
+{
+  "source_system": "osfi_guidance_library",
+  "library_row_title": "Assurance on Capital, Leverage and Liquidity Returns - Guideline (2022)",
+  "library_row_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/assurance-capital-leverage-liquidity-returns-guideline-2022",
+  "listing_date_raw": "November 30, 2022",
+  "listing_date_iso": "2022-11-30",
+  "listing_publication_type": "Guideline",
+  "listing_category": "Accounting and Disclosure",
+  "listing_sector": [
+    "Banks",
+    "Life Insurance and Fraternal Companies",
+    "Property and Casualty Companies",
+    "Trust and Loan Companies"
+  ],
+  "crawl_timestamp": "2026-03-11T00:00:00Z",
+  "detail_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/assurance-capital-leverage-liquidity-returns-guideline-2022",
+  "canonical_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/assurance-capital-leverage-liquidity-returns-guideline-2022",
+  "slug": "assurance-capital-leverage-liquidity-returns-guideline-2022",
+  "title": "Assurance on Capital, Leverage and Liquidity Returns - Guideline (2022)",
+  "publication_type": "Guideline",
+  "category": "Accounting and Disclosure",
+  "document_date_raw": "November 30, 2022",
+  "document_date_iso": "2022-11-30",
+  "sector": [
+    "Banks",
+    "Life Insurance and Fraternal Companies",
+    "Property and Casualty Companies",
+    "Trust and Loan Companies"
+  ],
+  "effective_date_text": "",
+  "guideline_number": "",
+  "date_modified_raw": "2022-11-30T12:00:00Z",
+  "generate_pdf_url": "https://www.osfi-bsif.gc.ca/en/print/pdf/node/565",
+  "pdf_node_id": 565,
+  "direct_pdf_url": "https://www.osfi-bsif.gc.ca/sites/default/files/documents/accrsk_EN.pdf",
+  "has_table_of_contents": true,
+  "toc_entries": [],
+  "has_related_documents": false,
+  "related_document_links_raw": [],
+  "consultation_status_text": null,
+  "consultation_status_refers_to_version": null,
+  "page_language": "en",
+  "word_count_raw_body": 3983,
+  "doc_id": "osfi.assurance-capital-leverage-liquidity-returns-guide.2022.package",
+  "doc_family_id": "osfi.assurance-capital-leverage-liquidity-returns-guide",
+  "version_id": "2022",
+  "version_label": "Assurance on Capital, Leverage and Liquidity Returns - Guide",
+  "version_sort_key": "2022-11",
+  "parent_doc_id": null,
+  "child_doc_ids": [],
+  "is_package_page": true,
+  "is_chapter_page": false,
+  "chapter_number": null,
+  "chapter_title": null,
+  "document_order_within_family": 0,
+  "supersedes_doc_id": null,
+  "superseded_by_doc_id": null,
+  "current_version_flag": true,
+  "status": "final_current",
+  "include_in_primary_corpus": true,
+  "include_in_support_corpus": false,
+  "include_in_context_corpus": false,
+  "effective_date_start": "2022-11-30",
+  "effective_date_end": null,
+  "effective_date_fye_split": false,
+  "effective_date_oct_fye": null,
+  "effective_date_dec_fye": null,
+  "is_future_effective": false,
+  "is_rescinded": false,
+  "is_draft_or_consultation": false,
+  "rescission_date": null,
+  "consultation_closing_date": null,
+  "as_of_applicability": "2026-03-23",
+  "rule_applied": "rule_5_final_current",
+  "authority_class": "primary_normative",
+  "authority_level": 100,
+  "nova_tier": 1,
+  "prudential_weight": 1.0,
+  "is_primary_normative": true,
+  "is_supporting_interpretive": false,
+  "is_context_only": false,
+  "document_class": "package_guideline",
+  "guidance_type_normalized": "guideline",
+  "section_headings": [
+    {
+      "level": 2,
+      "text": "1. Purpose",
+      "id": "h2-0"
+    },
+    {
+      "level": 2,
+      "text": "2. Scope",
+      "id": "h2-1"
+    },
+    {
+      "level": 2,
+      "text": "3. Guiding Principles",
+      "id": "h2-2"
+    },
+    {
+      "level": 2,
+      "text": "4. Assurance Expectations for Capital, Leverage and Liquidity Returns",
+      "id": "h2-3"
+    },
+    {
+      "level": 3,
+      "text": "4.1 External Audit Opinion",
+      "id": "h3-4"
+    },
+    {
+      "level": 5,
+      "text": "Scope",
+      "id": "h5-5"
+    },
+    {
+      "level": 5,
+      "text": "Frequency and Filing Requirement",
+      "id": "h5-6"
+    },
+    {
+      "level": 4,
+      "text": "4.1.2 External Audit Opinion for DTIs",
+      "id": "h4-7"
+    },
+    {
+      "level": 5,
+      "text": "4.1.2.1 External Audit Opinion for D-SIBs",
+      "id": "h5-8"
+    },
+    {
+      "level": 5,
+      "text": "4.1.2.2 External Audit Opinion for SMSBs",
+      "id": "h5-9"
+    },
+    {
+      "level": 4,
+      "text": "4.1.3 Materiality Considerations",
+      "id": "h4-10"
+    },
+    {
+      "level": 3,
+      "text": "4.2 Senior Management Attestation",
+      "id": "h3-11"
+    },
+    {
+      "level": 5,
+      "text": "Scope",
+      "id": "h5-12"
+    },
+    {
+      "level": 5,
+      "text": "Frequency and Filing Requirement",
+      "id": "h5-13"
+    },
+    {
+      "level": 5,
+      "text": "Scope",
+      "id": "h5-14"
+    },
+    {
+      "level": 5,
+      "text": "Frequency and Filing Requirement",
+      "id": "h5-15"
+    },
+    {
+      "level": 5,
+      "text": "Frequency and Filing Requirement",
+      "id": "h5-16"
+    },
+    {
+      "level": 3,
+      "text": "4.3 Internal Audit Opinion",
+      "id": "h3-17"
+    },
+    {
+      "level": 5,
+      "text": "Scope",
+      "id": "h5-18"
+    },
+    {
+      "level": 5,
+      "text": "Frequency and Filing Requirement",
+      "id": "h5-19"
+    },
+    {
+      "level": 5,
+      "text": "Scope",
+      "id": "h5-20"
+    },
+    {
+      "level": 5,
+      "text": "Frequency and Filing Requirement",
+      "id": "h5-21"
+    },
+    {
+      "level": 5,
+      "text": "Frequency and Filing Requirement",
+      "id": "h5-22"
+    },
+    {
+      "level": 4,
+      "text": "4.3.4 Guideline Administration",
+      "id": "h4-23"
+    },
+    {
+      "level": 2,
+      "text": "Annex A",
+      "id": "h2-24"
+    },
+    {
+      "level": 2,
+      "text": "Annex B",
+      "id": "h2-25"
+    },
+    {
+      "level": 2,
+      "text": "Footnotes",
+      "id": "h2-26"
+    }
+  ],
+  "heading_path": [
+    "Assurance on Capital, Leverage and Liquidity Returns - Guideline (2022)"
+  ],
+  "toc_depth": 5,
+  "has_appendices": false,
+  "appendix_ids": [],
+  "has_tables": true,
+  "table_count": 6,
+  "has_footnotes": false,
+  "footnote_count": 0,
+  "inline_cross_references": [
+    "Guideline E-15"
+  ],
+  "quoted_external_references": [],
+  "raw_html_sha256": "5c7a6adb519cfe3dd20e5761d779f0b4e9b4850ef4cba20b62ef46996c3558b3",
+  "raw_pdf_sha256": null,
+  "normalized_text_sha256": null,
+  "raw_html_path": "bronze/osfi/html/final_current/assurance-capital-leverage-liquidity-returns-guideline-2022.html",
+  "normalized_md_path": "silver/osfi/md/final_current/assurance-capital-leverage-liquidity-returns-guideline-2022.md",
+  "canonical_json_path": "silver/osfi/json/final_current/assurance-capital-leverage-liquidity-returns-guideline-2022.json",
+  "content_source": "HTML",
+  "parser_version": "osfi-parser-v2.1.0",
+  "normalizer_version": "osfi-normalizer-v1.4.0",
+  "quality_score": 1.0,
+  "quality_flags": [],
+  "download_timestamp": "2026-03-11T00:00:00Z",
+  "enriched_timestamp": "2026-03-23T09:53:46.756010Z",
+  "sections": [
+    {
+      "heading": "",
+      "heading_level": 2,
+      "full_text": "  - Assurance on Capital, Leverage and Liquidity Returns Guideline – Clarifications\n  - Assurance on Capital, Leverage and Liquidity Returns – Letter (2022)\n  - Assurance on Capital, Leverage and Liquidity Returns – Guideline at a glance (2022)\n  - Assurance on Capital, Leverage and Liquidity Returns – Discussion paper (2021) (PDF, 584 KB)\n  - OSFI issues new guideline for assurance on capital, leverage and liquidity returns",
+      "content": [
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Assurance on Capital, Leverage and Liquidity Returns Guideline – Clarifications",
+            "Assurance on Capital, Leverage and Liquidity Returns – Letter (2022)",
+            "Assurance on Capital, Leverage and Liquidity Returns – Guideline at a glance (2022)",
+            "Assurance on Capital, Leverage and Liquidity Returns – Discussion paper (2021) (PDF, 584 KB)",
+            "OSFI issues new guideline for assurance on capital, leverage and liquidity returns"
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "1. Purpose",
+      "heading_level": 2,
+      "full_text": "This Guideline sets out OSFI’s assurance expectations for capital, leverage and liquidity returns. Regulatory returns are key contributors to the assessment of safety and soundness of a federally regulated financial institution (FRFI). This guideline seeks to inform external auditors and institutions in the work to be performed on their regulatory returns in an effort to enhance and align these expectations across all FRFIs.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "This Guideline sets out OSFI’s assurance expectations for capital, leverage and liquidity returns. Regulatory returns are key contributors to the assessment of safety and soundness of a federally regulated financial institution (FRFI). This guideline seeks to inform external auditors and institutions in the work to be performed on their regulatory returns in an effort to enhance and align these expectations across all FRFIs."
+        }
+      ]
+    },
+    {
+      "heading": "2. Scope",
+      "heading_level": 2,
+      "full_text": "The assurance expectations apply to the capital returns of all federally regulated insurers (FRIs). The returns in scope for life, property and casualty (P&C), and mortgage insurers include the Life Insurance Capital Adequacy Test (LICAT) / Life Insurance Margin Test (LIMAT), Minimum Capital Test (MCT) / Branch Adequacy of Assets Test (BAAT), and Mortgage Insurer Capital Adequacy Test (MICAT), respectively.\nThe assurance expectations apply to the capital, leverage and liquidity returns of all federally regulated deposit-taking institutions (DTIs). The returns in scope for domestic systemically important banks (D-SIBs) and small and medium sized deposit-taking institutions (SMSBs) include the Basel Capital Adequacy Return (BCAR), Leverage Requirements Return (LRR), Liquidity Coverage Ratio (LCR), Net Stable Funding Ratio (NSFR), Net Cumulative Cash Flow (NCCF) and the Operating Cash Flow Statement (OCFS) returns.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "The assurance expectations apply to the capital returns of all federally regulated insurers (FRIs). The returns in scope for life, property and casualty (P&C), and mortgage insurers include the Life Insurance Capital Adequacy Test (LICAT) / Life Insurance Margin Test (LIMAT), Minimum Capital Test (MCT) / Branch Adequacy of Assets Test (BAAT), and Mortgage Insurer Capital Adequacy Test (MICAT), respectively."
+        },
+        {
+          "type": "paragraph",
+          "text": "The assurance expectations apply to the capital, leverage and liquidity returns of all federally regulated deposit-taking institutions (DTIs). The returns in scope for domestic systemically important banks (D-SIBs) and small and medium sized deposit-taking institutions (SMSBs) include the Basel Capital Adequacy Return (BCAR), Leverage Requirements Return (LRR), Liquidity Coverage Ratio (LCR), Net Stable Funding Ratio (NSFR), Net Cumulative Cash Flow (NCCF) and the Operating Cash Flow Statement (OCFS) returns."
+        }
+      ]
+    },
+    {
+      "heading": "3. Guiding Principles",
+      "heading_level": 2,
+      "full_text": "The assurance expectations for key regulatory returns are guided by the following principles:\n  1. Assurance expectations should contribute to public confidence in the Canadian financial system.\n  2. Assurance expectations should be risk-based and principles-based.\n  3. Assurance expectations should consider OSFI’s reliance on external auditors and the use of the work of others, including a FRFI’s oversight function.\n  4. Assurance expectations should reflect a FRFI’s size, nature, complexity, and business activities.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "The assurance expectations for key regulatory returns are guided by the following principles:"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "Assurance expectations should contribute to public confidence in the Canadian financial system.",
+            "Assurance expectations should be risk-based and principles-based.",
+            "Assurance expectations should consider OSFI’s reliance on external auditors and the use of the work of others, including a FRFI’s oversight function.",
+            "Assurance expectations should reflect a FRFI’s size, nature, complexity, and business activities."
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "4. Assurance Expectations for Capital, Leverage and Liquidity Returns",
+      "heading_level": 2,
+      "full_text": "In line with the guiding principles outlined above, OSFI’s three-step approach to enhance and align assurance expectations over capital, leverage and liquidity returns include:\n  1. External audit opinion on the numerator and denominator of key regulatory ratios - An external audit opinion is expected to provide independent, third-party assurance regarding a FRFI’s key regulatory ratios.\n  2. Senior management attestation on key regulatory returns following an internal review of the returns - Senior management attestation is expected to enhance the internal governance and controls around key regulatory returns as well as provide assurance on the accuracy and completeness of these returns.\n  3. Internal audit opinion on key regulatory returns including related controls and processes - An internal audit opinion is expected to provide assurance over the processes and controls surrounding key regulatory returns.\nOSFI’s approach takes into consideration the proportionality initiative for SMSBs, the extent to which the expectations represent new or pre-existing requirements, and the number of ratios and returns in scope.\nOSFI expects these assurance assessment responsibilities to be implemented by qualified individuals with the appropriate skills and knowledge of the business and regulatory requirements on which they are expected to opine/attest.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "In line with the guiding principles outlined above, OSFI’s three-step approach to enhance and align assurance expectations over capital, leverage and liquidity returns include:"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "External audit opinion on the numerator and denominator of key regulatory ratios - An external audit opinion is expected to provide independent, third-party assurance regarding a FRFI’s key regulatory ratios.",
+            "Senior management attestation on key regulatory returns following an internal review of the returns - Senior management attestation is expected to enhance the internal governance and controls around key regulatory returns as well as provide assurance on the accuracy and completeness of these returns.",
+            "Internal audit opinion on key regulatory returns including related controls and processes - An internal audit opinion is expected to provide assurance over the processes and controls surrounding key regulatory returns."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "OSFI’s approach takes into consideration the proportionality initiative for SMSBs, the extent to which the expectations represent new or pre-existing requirements, and the number of ratios and returns in scope."
+        },
+        {
+          "type": "paragraph",
+          "text": "OSFI expects these assurance assessment responsibilities to be implemented by qualified individuals with the appropriate skills and knowledge of the business and regulatory requirements on which they are expected to opine/attest."
+        }
+      ]
+    },
+    {
+      "heading": "4.1 External Audit Opinion",
+      "heading_level": 3,
+      "full_text": "OSFI expects an external audit opinion on whether the numerator and denominator of key regulatory ratios have been prepared, in all material respects, in accordance with the relevant regulatory framework.\nThe key regulatory ratios in scope and external audit filing requirements for FRIs and DTIs are discussed below and summarized in Table 1 of Annex A and Annex B , respectively.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "OSFI expects an external audit opinion on whether the numerator and denominator of key regulatory ratios have been prepared, in all material respects, in accordance with the relevant regulatory framework."
+        },
+        {
+          "type": "paragraph",
+          "text": "The key regulatory ratios in scope and external audit filing requirements for FRIs and DTIs are discussed below and summarized in Table 1 of Annex A and Annex B , respectively."
+        }
+      ]
+    },
+    {
+      "heading": "Scope",
+      "heading_level": 5,
+      "full_text": "Life Insurers : OSFI expects external auditors to evaluate and opine on whether the numerator and denominator of the ratios listed on page 10.100 of the LICAT at the year-end reporting date have been prepared, in all material respects, in accordance with the appropriate regulatory framework. For Life Insurers operating in Canada on a branch basis, an external audit opinion is required on whether the numerator and denominator of the ratios listed on page 120.000 of the LIMAT at the year-end reporting date have been prepared, in all material respects, in accordance with the appropriate regulatory framework.\nP&C Insurers : OSFI expects external auditors to opine on whether the numerator and denominator of the ratios listed on page 10.00 of the MCT/BAAT at the year-end reporting date have been prepared, in all material respects, in accordance with the appropriate regulatory framework.\nMortgage Insurers : OSFI expects external auditors to evaluate and opine on whether the numerator and denominator of the ratios listed on page 10.10 of the MICAT schedule at the year-end reporting date have been prepared, in all material respects, in accordance with the appropriate regulatory framework.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Life Insurers : OSFI expects external auditors to evaluate and opine on whether the numerator and denominator of the ratios listed on page 10.100 of the LICAT at the year-end reporting date have been prepared, in all material respects, in accordance with the appropriate regulatory framework. For Life Insurers operating in Canada on a branch basis, an external audit opinion is required on whether the numerator and denominator of the ratios listed on page 120.000 of the LIMAT at the year-end reporting date have been prepared, in all material respects, in accordance with the appropriate regulatory framework."
+        },
+        {
+          "type": "paragraph",
+          "text": "P&C Insurers : OSFI expects external auditors to opine on whether the numerator and denominator of the ratios listed on page 10.00 of the MCT/BAAT at the year-end reporting date have been prepared, in all material respects, in accordance with the appropriate regulatory framework."
+        },
+        {
+          "type": "paragraph",
+          "text": "Mortgage Insurers : OSFI expects external auditors to evaluate and opine on whether the numerator and denominator of the ratios listed on page 10.10 of the MICAT schedule at the year-end reporting date have been prepared, in all material respects, in accordance with the appropriate regulatory framework."
+        }
+      ]
+    },
+    {
+      "heading": "Frequency and Filing Requirement",
+      "heading_level": 5,
+      "full_text": "The enhanced external audit assurance requirements for FRIs commence in fiscal 2025.\nExternal auditors are expected to provide their opinion to the OSFI lead supervisor annually within 90 days of fiscal year-end. For foreign branches, external audit opinions are expected to accompany the May 31 filing submissions.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "The enhanced external audit assurance requirements for FRIs commence in fiscal 2025."
+        },
+        {
+          "type": "paragraph",
+          "text": "External auditors are expected to provide their opinion to the OSFI lead supervisor annually within 90 days of fiscal year-end. For foreign branches, external audit opinions are expected to accompany the May 31 filing submissions."
+        }
+      ]
+    },
+    {
+      "heading": "4.1.2 External Audit Opinion for DTIs",
+      "heading_level": 4,
+      "full_text": "Capital, leverage, and liquidity are all important measures of financial safety and soundness in the DTI industry. As such, external auditors should opine on whether the numerator and denominator of key capital, leverage, and liquidity ratios have been prepared, in all material respects, in accordance with the appropriate regulatory frameworks, including whether regulatory capital model implementation is consistent with the OSFI-approved models.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Capital, leverage, and liquidity are all important measures of financial safety and soundness in the DTI industry. As such, external auditors should opine on whether the numerator and denominator of key capital, leverage, and liquidity ratios have been prepared, in all material respects, in accordance with the appropriate regulatory frameworks, including whether regulatory capital model implementation is consistent with the OSFI-approved models."
+        }
+      ]
+    },
+    {
+      "heading": "4.1.2.1 External Audit Opinion for D-SIBs",
+      "heading_level": 5,
+      "full_text": "These expectations apply to the key regulatory returns filed by D-SIBs on a consolidated basis. Wholly-owned subsidiaries of D-SIBs are exempt from these requirements.\nOSFI expects external auditors to evaluate and opine on whether the numerator and denominator of the ratios listed on Schedule 10.010 of the BCAR, the Leverage and Total Loss Absorbing Capacity (TLAC) Leverage Ratios schedule of the LRR, and the LCR and NSFR returns at the year-end reporting date have been prepared, in all material respects, in accordance with the appropriate regulatory frameworks.\nThe external audit assurance requirements for D-SIBs commence in fiscal 2025.\nExternal auditors are expected to provide their opinion to the OSFI lead supervisor annually within 90 days of the fiscal year-end.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "These expectations apply to the key regulatory returns filed by D-SIBs on a consolidated basis. Wholly-owned subsidiaries of D-SIBs are exempt from these requirements."
+        },
+        {
+          "type": "paragraph",
+          "text": "OSFI expects external auditors to evaluate and opine on whether the numerator and denominator of the ratios listed on Schedule 10.010 of the BCAR, the Leverage and Total Loss Absorbing Capacity (TLAC) Leverage Ratios schedule of the LRR, and the LCR and NSFR returns at the year-end reporting date have been prepared, in all material respects, in accordance with the appropriate regulatory frameworks."
+        },
+        {
+          "type": "paragraph",
+          "text": "The external audit assurance requirements for D-SIBs commence in fiscal 2025."
+        },
+        {
+          "type": "paragraph",
+          "text": "External auditors are expected to provide their opinion to the OSFI lead supervisor annually within 90 days of the fiscal year-end."
+        }
+      ]
+    },
+    {
+      "heading": "4.1.2.2 External Audit Opinion for SMSBs",
+      "heading_level": 5,
+      "full_text": "These expectations apply to the key regulatory returns filed by SMSBs on a consolidated basis. Wholly-owned subsidiaries of SMSBs are exempt from these requirements. Footnote 2\nThe external audit assurance requirements for SMSBs’ capital, leverage and liquidity returns commence in fiscal 2025.\nExternal auditors of SMSBs are expected to provide their opinion to the OSFI lead supervisor annually within 90 days of the fiscal year-end. External auditors for Category II and III SMSBs may stagger submission of their opinions biennially beginning in fiscal 2025.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "These expectations apply to the key regulatory returns filed by SMSBs on a consolidated basis. Wholly-owned subsidiaries of SMSBs are exempt from these requirements. Footnote 2"
+        },
+        {
+          "type": "paragraph",
+          "text": "The external audit assurance requirements for SMSBs’ capital, leverage and liquidity returns commence in fiscal 2025."
+        },
+        {
+          "type": "paragraph",
+          "text": "External auditors of SMSBs are expected to provide their opinion to the OSFI lead supervisor annually within 90 days of the fiscal year-end. External auditors for Category II and III SMSBs may stagger submission of their opinions biennially beginning in fiscal 2025."
+        }
+      ]
+    },
+    {
+      "heading": "4.1.3 Materiality Considerations",
+      "heading_level": 4,
+      "full_text": "To plan the extent, timing, and nature of their procedures, the external auditor should establish an appropriate, risk-based materiality level for the numerator and denominator of a FRFI’s key regulatory ratios. The determination of materiality requires an external auditor’s professional judgement and should be based on a combination of quantitative and qualitative factors. Consideration should include, but not be limited to, the following:\n  - the size, nature, and complexity of a FRFI’s operations;\n  - any breach or near breach of a FRFI’s internal target for capital, leverage, or liquidity requirements; and\n  - offsetting misstatements in the numerator and denominator of a regulatory ratio that may cause the subject matter information to be materially misstated.\nSuch factors may lead the auditor to set materiality at a level that is lower than the materiality used for financial statement audits.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "To plan the extent, timing, and nature of their procedures, the external auditor should establish an appropriate, risk-based materiality level for the numerator and denominator of a FRFI’s key regulatory ratios. The determination of materiality requires an external auditor’s professional judgement and should be based on a combination of quantitative and qualitative factors. Consideration should include, but not be limited to, the following:"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "the size, nature, and complexity of a FRFI’s operations;",
+            "any breach or near breach of a FRFI’s internal target for capital, leverage, or liquidity requirements; and",
+            "offsetting misstatements in the numerator and denominator of a regulatory ratio that may cause the subject matter information to be materially misstated."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Such factors may lead the auditor to set materiality at a level that is lower than the materiality used for financial statement audits."
+        }
+      ]
+    },
+    {
+      "heading": "4.2 Senior Management Attestation",
+      "heading_level": 3,
+      "full_text": "OSFI expects FRFIs to have appropriate governance in place to ensure regulatory returns are prepared, in all material respects, in accordance with the relevant regulatory frameworks. Senior management is responsible for ensuring that appropriate policies, procedures, and controls exist to monitor the accuracy and completeness of all regulatory returns on an ongoing basis. As such, OSFI expects FRFIs’ key regulatory return filings to be accompanied by senior management attestation that the returns are accurate, complete, and in compliance with the minimum regulatory requirements at the reporting date.\nFRFIs should perform a review of their key regulatory returns to inform their management attestations. This review should be performed by an individual not directly involved in the preparation of the returns, and with the appropriate authority, knowledge, and expertise to interpret the applicable regulatory guidance.\nUnadjusted errors below misstatement posting thresholds identified by external auditors in the performance of their work can aid OSFI in understanding where errors reside in regulatory ratio calculations, which can support their effective supervision. Annually, management attestation submissions are to be accompanied by the summary of unadjusted errors Footnote 5 to enhance OSFI’s understanding of the FRFIs’ key regulatory returns.\nThe key returns/schedules in scope, filing requirements, and frequency of senior management attestation and review for FRIs and DTIs are discussed below and summarized in Table 2 of Annex A and Annex B , respectively.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "OSFI expects FRFIs to have appropriate governance in place to ensure regulatory returns are prepared, in all material respects, in accordance with the relevant regulatory frameworks. Senior management is responsible for ensuring that appropriate policies, procedures, and controls exist to monitor the accuracy and completeness of all regulatory returns on an ongoing basis. As such, OSFI expects FRFIs’ key regulatory return filings to be accompanied by senior management attestation that the returns are accurate, complete, and in compliance with the minimum regulatory requirements at the reporting date."
+        },
+        {
+          "type": "paragraph",
+          "text": "FRFIs should perform a review of their key regulatory returns to inform their management attestations. This review should be performed by an individual not directly involved in the preparation of the returns, and with the appropriate authority, knowledge, and expertise to interpret the applicable regulatory guidance."
+        },
+        {
+          "type": "paragraph",
+          "text": "Unadjusted errors below misstatement posting thresholds identified by external auditors in the performance of their work can aid OSFI in understanding where errors reside in regulatory ratio calculations, which can support their effective supervision. Annually, management attestation submissions are to be accompanied by the summary of unadjusted errors Footnote 5 to enhance OSFI’s understanding of the FRFIs’ key regulatory returns."
+        },
+        {
+          "type": "paragraph",
+          "text": "The key returns/schedules in scope, filing requirements, and frequency of senior management attestation and review for FRIs and DTIs are discussed below and summarized in Table 2 of Annex A and Annex B , respectively."
+        }
+      ]
+    },
+    {
+      "heading": "Scope",
+      "heading_level": 5,
+      "full_text": "Life Insurers : OSFI expects review and senior management attestation on the accuracy and completeness of the LICAT Cover schedule. For Life Insurers operating in Canada on a branch basis, review and senior management attestation is required on the information listed on the LIMAT Cover schedule.\nP&C Insurers : OSFI expects review and senior management attestation on the accuracy and completeness of the MCT/BAAT Cover schedule.\nMortgage Insurers : OSFI expects review and senior management attestation on the accuracy and completeness of the MICAT Cover schedule.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Life Insurers : OSFI expects review and senior management attestation on the accuracy and completeness of the LICAT Cover schedule. For Life Insurers operating in Canada on a branch basis, review and senior management attestation is required on the information listed on the LIMAT Cover schedule."
+        },
+        {
+          "type": "paragraph",
+          "text": "P&C Insurers : OSFI expects review and senior management attestation on the accuracy and completeness of the MCT/BAAT Cover schedule."
+        },
+        {
+          "type": "paragraph",
+          "text": "Mortgage Insurers : OSFI expects review and senior management attestation on the accuracy and completeness of the MICAT Cover schedule."
+        }
+      ]
+    },
+    {
+      "heading": "Frequency and Filing Requirement",
+      "heading_level": 5,
+      "full_text": "The enhanced senior management attestations requirements for FRIs’ capital returns commence in fiscal 2024. OSFI will continue to expect senior management attestations to be submitted to the lead supervisor based on the FRI’s filing frequency and requirements.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "The enhanced senior management attestations requirements for FRIs’ capital returns commence in fiscal 2024. OSFI will continue to expect senior management attestations to be submitted to the lead supervisor based on the FRI’s filing frequency and requirements."
+        }
+      ]
+    },
+    {
+      "heading": "Scope",
+      "heading_level": 5,
+      "full_text": "OSFI expects review and senior management attestation on the accuracy and completeness of the BCAR, LRR, LCR, NSFR, and Comprehensive NCCF Cover schedules.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "OSFI expects review and senior management attestation on the accuracy and completeness of the BCAR, LRR, LCR, NSFR, and Comprehensive NCCF Cover schedules."
+        }
+      ]
+    },
+    {
+      "heading": "Frequency and Filing Requirement",
+      "heading_level": 5,
+      "full_text": "The internal review and senior management attestation requirements for D-SIBs’ capital, leverage and liquidity returns commence in fiscal 2024.\nOSFI expects senior management attestations to be submitted to the lead supervisor based on the DTI’s filing frequency and requirements for the respective regulatory returns.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "The internal review and senior management attestation requirements for D-SIBs’ capital, leverage and liquidity returns commence in fiscal 2024."
+        },
+        {
+          "type": "paragraph",
+          "text": "OSFI expects senior management attestations to be submitted to the lead supervisor based on the DTI’s filing frequency and requirements for the respective regulatory returns."
+        }
+      ]
+    },
+    {
+      "heading": "Frequency and Filing Requirement",
+      "heading_level": 5,
+      "full_text": "The internal review and senior management attestation requirements for SMSBs’ capital, leverage and liquidity returns commence in fiscal 2024.\nOSFI expects senior management attestations to be submitted to the lead supervisor based on the SMSB’s filing frequency and requirements for the respective regulatory returns. In consideration of their size, nature, complexity, and business activities, Category II and III SMSBs may provide the review and attestation biennially.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "The internal review and senior management attestation requirements for SMSBs’ capital, leverage and liquidity returns commence in fiscal 2024."
+        },
+        {
+          "type": "paragraph",
+          "text": "OSFI expects senior management attestations to be submitted to the lead supervisor based on the SMSB’s filing frequency and requirements for the respective regulatory returns. In consideration of their size, nature, complexity, and business activities, Category II and III SMSBs may provide the review and attestation biennially."
+        }
+      ]
+    },
+    {
+      "heading": "4.3 Internal Audit Opinion",
+      "heading_level": 3,
+      "full_text": "The internal audit opinion should objectively assess the following:\n  - the effectiveness of internal controls in place for all schedules and line items with respect to a FRFI’s key regulatory returns;\n  - the effectiveness of management information systems and processes; and\n  - the monitoring of compliance with approved regulatory models.\nA FRFI may appoint any independent qualified party to perform such procedures.\nThe internal audit may be completed at any time during the fiscal year. If the internal audit opinion does not include testing of controls at year-end, the FRFI must attest to OSFI that the processes and controls continue to be in place and no material changes occurred at year-end.\nThe key returns in scope, filing requirements, and frequency for submission of the internal audit opinion of FRIs and DTIs are discussed below and summarized in Table 3 of Annex A and Annex B , respectively.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "The internal audit opinion should objectively assess the following:"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "the effectiveness of internal controls in place for all schedules and line items with respect to a FRFI’s key regulatory returns;",
+            "the effectiveness of management information systems and processes; and",
+            "the monitoring of compliance with approved regulatory models."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "A FRFI may appoint any independent qualified party to perform such procedures."
+        },
+        {
+          "type": "paragraph",
+          "text": "The internal audit may be completed at any time during the fiscal year. If the internal audit opinion does not include testing of controls at year-end, the FRFI must attest to OSFI that the processes and controls continue to be in place and no material changes occurred at year-end."
+        },
+        {
+          "type": "paragraph",
+          "text": "The key returns in scope, filing requirements, and frequency for submission of the internal audit opinion of FRIs and DTIs are discussed below and summarized in Table 3 of Annex A and Annex B , respectively."
+        }
+      ]
+    },
+    {
+      "heading": "Scope",
+      "heading_level": 5,
+      "full_text": "Life Insurers : OSFI expects internal auditors to evaluate and opine on the effectiveness of the processes and internal controls in place for the LICAT, including related systems. For Life Insurers operating in Canada on a branch basis, an internal audit opinion is required for the LIMAT.\nP&C Insurers : OSFI expects internal auditors to evaluate and opine on the effectiveness of the processes and internal controls in place for the MCT/BAAT, including related systems.\nMortgage Insurers : OSFI expects internal auditors to evaluate and opine on the effectiveness of the processes and internal controls in place for the MICAT, including related systems.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Life Insurers : OSFI expects internal auditors to evaluate and opine on the effectiveness of the processes and internal controls in place for the LICAT, including related systems. For Life Insurers operating in Canada on a branch basis, an internal audit opinion is required for the LIMAT."
+        },
+        {
+          "type": "paragraph",
+          "text": "P&C Insurers : OSFI expects internal auditors to evaluate and opine on the effectiveness of the processes and internal controls in place for the MCT/BAAT, including related systems."
+        },
+        {
+          "type": "paragraph",
+          "text": "Mortgage Insurers : OSFI expects internal auditors to evaluate and opine on the effectiveness of the processes and internal controls in place for the MICAT, including related systems."
+        }
+      ]
+    },
+    {
+      "heading": "Frequency and Filing Requirement",
+      "heading_level": 5,
+      "full_text": "The internal audit assurance requirements for the capital returns of FRIs commence in fiscal 2023.\nInternal auditors are expected to provide their opinion to the OSFI lead supervisor within 90 days of the fiscal year-end at a minimum once every three years based on the FRI’s internal risk-based frequency of review.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "The internal audit assurance requirements for the capital returns of FRIs commence in fiscal 2023."
+        },
+        {
+          "type": "paragraph",
+          "text": "Internal auditors are expected to provide their opinion to the OSFI lead supervisor within 90 days of the fiscal year-end at a minimum once every three years based on the FRI’s internal risk-based frequency of review."
+        }
+      ]
+    },
+    {
+      "heading": "Scope",
+      "heading_level": 5,
+      "full_text": "OSFI expects internal auditors to evaluate and opine on the effectiveness of the processes and internal controls in place for the BCAR, LRR, LCR, NSFR, and Comprehensive NCCF returns, including related systems and models.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "OSFI expects internal auditors to evaluate and opine on the effectiveness of the processes and internal controls in place for the BCAR, LRR, LCR, NSFR, and Comprehensive NCCF returns, including related systems and models."
+        }
+      ]
+    },
+    {
+      "heading": "Frequency and Filing Requirement",
+      "heading_level": 5,
+      "full_text": "The internal audit assurance requirements for D-SIBs’ capital, liquidity and leverage returns commence in fiscal 2023.\nInternal auditors are expected to provide their opinion to the OSFI lead supervisor within 90 days of the fiscal year-end at a minimum once every three years based on the D-SIB’s internal risk-based frequency of review.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "The internal audit assurance requirements for D-SIBs’ capital, liquidity and leverage returns commence in fiscal 2023."
+        },
+        {
+          "type": "paragraph",
+          "text": "Internal auditors are expected to provide their opinion to the OSFI lead supervisor within 90 days of the fiscal year-end at a minimum once every three years based on the D-SIB’s internal risk-based frequency of review."
+        }
+      ]
+    },
+    {
+      "heading": "Frequency and Filing Requirement",
+      "heading_level": 5,
+      "full_text": "The internal audit assurance requirements for SMSBs’ capital, liquidity and leverage returns commence in fiscal 2023.\nInternal auditors are expected to provide their opinion to the OSFI lead supervisor within 90 days of the fiscal year-end at a minimum once every three years based on the SMSB’s internal risk-based frequency of review.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "The internal audit assurance requirements for SMSBs’ capital, liquidity and leverage returns commence in fiscal 2023."
+        },
+        {
+          "type": "paragraph",
+          "text": "Internal auditors are expected to provide their opinion to the OSFI lead supervisor within 90 days of the fiscal year-end at a minimum once every three years based on the SMSB’s internal risk-based frequency of review."
+        }
+      ]
+    },
+    {
+      "heading": "4.3.4 Guideline Administration",
+      "heading_level": 4,
+      "full_text": "OSFI may assess the effectiveness of the work undertaken by internal audit and verify that appropriate and timely corrective action is taken in response to any control weaknesses identified. Notwithstanding the requirements outlined above, if OSFI supervisory review of the internal audit work and ensuing opinion is deemed to be inadequate or ineffective, OSFI may require additional testing by internal and/or external auditors with respect to the areas of concern.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "OSFI may assess the effectiveness of the work undertaken by internal audit and verify that appropriate and timely corrective action is taken in response to any control weaknesses identified. Notwithstanding the requirements outlined above, if OSFI supervisory review of the internal audit work and ensuing opinion is deemed to be inadequate or ineffective, OSFI may require additional testing by internal and/or external auditors with respect to the areas of concern."
+        }
+      ]
+    },
+    {
+      "heading": "Annex A",
+      "heading_level": 2,
+      "full_text": "Summary of Assurance Expectations for FRIs\nTable: Table 1 – External Audit\nIndustry | Regulatory Return / Schedule | Filing Requirement | Frequency\nLife Insurer | LICAT Schedule 10.100 / LIMAT Schedule 120.000 | Within 90 days of fiscal year-end Annex A Table 1 footnote 1 | Annual at year-end reporting date beginning fiscal 2025\nP&C Insurer | MCT / BAAT Schedule 10.00 | Within 90 days of fiscal year-end Annex A Table 1 footnote 1 | Annual at year-end reporting date beginning fiscal 2025\nMortgage Insurer | MICAT Schedule 10.10 | Within 90 days of fiscal year-end | Annual at year-end reporting date beginning fiscal 2025\nAnnex A - Table 1 footnotes Annex A - Table 1 footnote 1 Foreign Life/P&C entities may retain their May 31 filing schedules for the LIMAT/BAAT. Return to Annex A - Table 1 footnote 1 referrer\nAnnex A - Table 1 footnotes Annex A - Table 1 footnote 1 Foreign Life/P&C entities may retain their May 31 filing schedules for the LIMAT/BAAT. Return to Annex A - Table 1 footnote 1 referrer\nAnnex A - Table 1 footnotes\nForeign Life/P&C entities may retain their May 31 filing schedules for the LIMAT/BAAT.\nReturn to Annex A - Table 1 footnote 1 referrer\nTable: Table 2 – Senior Management Attestation and Review Annex A - Table 2 footnote 1\nIndustry | Regulatory Return / Schedule | Filing Requirement | Frequency\nLife Insurer | LICAT / LIMAT COVER Schedule | According to quarterly filing requirements | Quarterly beginning fiscal 2024\nP&C Insurer | MCT / BAAT COVER Schedule | According to quarterly filing requirements | Quarterly beginning fiscal 2024\nMortgage Insurer | MICAT COVER Schedule | According to quarterly filing requirements | Quarterly beginning fiscal 2024\nAnnex A - Table 2 footnotes Annex A - Table 2 footnote 1 On an annual basis, management attestation submissions are to be accompanied with the FRFI’s summary of unadjusted errors impacting the calculation of regulatory ratios. Return to Annex A - Table 2 footnote 1 referrer\nAnnex A - Table 2 footnotes Annex A - Table 2 footnote 1 On an annual basis, management attestation submissions are to be accompanied with the FRFI’s summary of unadjusted errors impacting the calculation of regulatory ratios. Return to Annex A - Table 2 footnote 1 referrer\nAnnex A - Table 2 footnotes\nOn an annual basis, management attestation submissions are to be accompanied with the FRFI’s summary of unadjusted errors impacting the calculation of regulatory ratios.\nReturn to Annex A - Table 2 footnote 1 referrer\nTable: Table 3 – Internal Audit\nIndustry | Regulatory Return | Filing Requirement | Frequency\nLife Insurer | LICAT / LIMAT | Within 90 days of fiscal year-end | Effective beginning fiscal 2023 - Minimum once every three years based on FRI’s frequency of review\nP&C Insurer | MCT / BAAT | Within 90 days of fiscal year-end | Effective beginning fiscal 2023 - Minimum once every three years based on FRI’s frequency of review\nMortgage Insurer | MICAT | Within 90 days of fiscal year-end | Effective beginning fiscal 2023 - Minimum once every three years based on FRI’s frequency of review",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Summary of Assurance Expectations for FRIs"
+        },
+        {
+          "type": "table",
+          "caption": "Table 1 – External Audit",
+          "rows": [
+            [
+              "Industry",
+              "Regulatory Return / Schedule",
+              "Filing Requirement",
+              "Frequency"
+            ],
+            [
+              "Life Insurer",
+              "LICAT Schedule 10.100 / LIMAT Schedule 120.000",
+              "Within 90 days of fiscal year-end Annex A Table 1 footnote 1",
+              "Annual at year-end reporting date beginning fiscal 2025"
+            ],
+            [
+              "P&C Insurer",
+              "MCT / BAAT Schedule 10.00",
+              "Within 90 days of fiscal year-end Annex A Table 1 footnote 1",
+              "Annual at year-end reporting date beginning fiscal 2025"
+            ],
+            [
+              "Mortgage Insurer",
+              "MICAT Schedule 10.10",
+              "Within 90 days of fiscal year-end",
+              "Annual at year-end reporting date beginning fiscal 2025"
+            ],
+            [
+              "Annex A - Table 1 footnotes Annex A - Table 1 footnote 1 Foreign Life/P&C entities may retain their May 31 filing schedules for the LIMAT/BAAT. Return to Annex A - Table 1 footnote 1 referrer"
+            ]
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Annex A - Table 1 footnotes Annex A - Table 1 footnote 1 Foreign Life/P&C entities may retain their May 31 filing schedules for the LIMAT/BAAT. Return to Annex A - Table 1 footnote 1 referrer"
+        },
+        {
+          "type": "paragraph",
+          "text": "Annex A - Table 1 footnotes"
+        },
+        {
+          "type": "paragraph",
+          "text": "Foreign Life/P&C entities may retain their May 31 filing schedules for the LIMAT/BAAT."
+        },
+        {
+          "type": "paragraph",
+          "text": "Return to Annex A - Table 1 footnote 1 referrer"
+        },
+        {
+          "type": "table",
+          "caption": "Table 2 – Senior Management Attestation and Review Annex A - Table 2 footnote 1",
+          "rows": [
+            [
+              "Industry",
+              "Regulatory Return / Schedule",
+              "Filing Requirement",
+              "Frequency"
+            ],
+            [
+              "Life Insurer",
+              "LICAT / LIMAT COVER Schedule",
+              "According to quarterly filing requirements",
+              "Quarterly beginning fiscal 2024"
+            ],
+            [
+              "P&C Insurer",
+              "MCT / BAAT COVER Schedule",
+              "According to quarterly filing requirements",
+              "Quarterly beginning fiscal 2024"
+            ],
+            [
+              "Mortgage Insurer",
+              "MICAT COVER Schedule",
+              "According to quarterly filing requirements",
+              "Quarterly beginning fiscal 2024"
+            ],
+            [
+              "Annex A - Table 2 footnotes Annex A - Table 2 footnote 1 On an annual basis, management attestation submissions are to be accompanied with the FRFI’s summary of unadjusted errors impacting the calculation of regulatory ratios. Return to Annex A - Table 2 footnote 1 referrer"
+            ]
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Annex A - Table 2 footnotes Annex A - Table 2 footnote 1 On an annual basis, management attestation submissions are to be accompanied with the FRFI’s summary of unadjusted errors impacting the calculation of regulatory ratios. Return to Annex A - Table 2 footnote 1 referrer"
+        },
+        {
+          "type": "paragraph",
+          "text": "Annex A - Table 2 footnotes"
+        },
+        {
+          "type": "paragraph",
+          "text": "On an annual basis, management attestation submissions are to be accompanied with the FRFI’s summary of unadjusted errors impacting the calculation of regulatory ratios."
+        },
+        {
+          "type": "paragraph",
+          "text": "Return to Annex A - Table 2 footnote 1 referrer"
+        },
+        {
+          "type": "table",
+          "caption": "Table 3 – Internal Audit",
+          "rows": [
+            [
+              "Industry",
+              "Regulatory Return",
+              "Filing Requirement",
+              "Frequency"
+            ],
+            [
+              "Life Insurer",
+              "LICAT / LIMAT",
+              "Within 90 days of fiscal year-end",
+              "Effective beginning fiscal 2023 - Minimum once every three years based on FRI’s frequency of review"
+            ],
+            [
+              "P&C Insurer",
+              "MCT / BAAT",
+              "Within 90 days of fiscal year-end",
+              "Effective beginning fiscal 2023 - Minimum once every three years based on FRI’s frequency of review"
+            ],
+            [
+              "Mortgage Insurer",
+              "MICAT",
+              "Within 90 days of fiscal year-end",
+              "Effective beginning fiscal 2023 - Minimum once every three years based on FRI’s frequency of review"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "Annex B",
+      "heading_level": 2,
+      "full_text": "Summary of Assurance Expectations for DTIs\nTable: Table 1 – External Audit\nIndustry | Regulatory Return / Schedule | Filing Requirement | Frequency\nD-SIB | BCAR Schedule 10.010 LRR Leverage & TLAC Leverage Ratios Schedule LCR Annex B - Table 1 footnote 1 , NSFR Annex B - Table 1 footnote 2 | Within 90 days of fiscal year-end | Annual at year-end reporting date beginning fiscal 2025\nSMSB Category I | BCAR Schedule 10.010 LRR Leverage & TLAC Leverage Ratios Schedule LCR Annex B - Table 1 footnote 1 , NSFR Annex B - Table 1 footnote 2 | Within 90 days of fiscal year-end | Annual at year-end reporting date beginning fiscal 2025\nSMSB Category II | BCAR Schedule 10.010 LRR Leverage & TLAC Leverage Ratios Schedule LCR Annex B - Table 1 footnote 1 | Within 90 days of fiscal year-end | Biennial at year-end reporting date beginning fiscal 2025\nSMSB Category III | BCAR Schedule 10.011 | Within 90 days of fiscal year-end | Biennial at year-end reporting date beginning fiscal 2025\nAnnex B - Table 1 footnotes Annex B - Table 1 footnote 1 To better capture potential currency mismatches, LCR should be evaluated in significant currencies for the purposes of OSFI’s assurance requirements. Return to Annex B - Table 1 footnote 1 referrer Annex B - Table 1 footnote 2 For SMSBs, assurance on NSFR is only required of Category I SMSBs with significant reliance on wholesale funding. Return to Annex B - Table 1 footnote 2 referrer\nAnnex B - Table 1 footnotes Annex B - Table 1 footnote 1 To better capture potential currency mismatches, LCR should be evaluated in significant currencies for the purposes of OSFI’s assurance requirements. Return to Annex B - Table 1 footnote 1 referrer Annex B - Table 1 footnote 2 For SMSBs, assurance on NSFR is only required of Category I SMSBs with significant reliance on wholesale funding. Return to Annex B - Table 1 footnote 2 referrer\nAnnex B - Table 1 footnotes\nTo better capture potential currency mismatches, LCR should be evaluated in significant currencies for the purposes of OSFI’s assurance requirements.\nReturn to Annex B - Table 1 footnote 1 referrer\nFor SMSBs, assurance on NSFR is only required of Category I SMSBs with significant reliance on wholesale funding.\nReturn to Annex B - Table 1 footnote 2 referrer\nTable: Table 2 – Senior Management Attestation and Review Annex B - Table 2 footnote 1\nIndustry | Regulatory Return / Schedule | Filing Requirement | Frequency\nD-SIB | BCAR Cover Schedule (new) / LRR Cover Schedule (new) / LCR Cover Schedule (new) / Comprehensive NCCF Cover Schedule (new) / NSFR Cover Schedule (new) | According to quarterly filing requirements | Effective beginning fiscal 2024\nSMSB Category I | BCAR Cover Schedule (new) / LRR Cover Schedule (new) / LCR Cover Schedule (new) / Comprehensive NCCF Cover Schedule (new) / NSFR Cover Schedule (new) | According to quarterly filing requirements | Effective beginning fiscal 2024\nSMSB Category II | BCAR Cover Schedule (new) / LRR Cover Schedule (new) / LCR Cover Schedule (new) / Streamlined NCCF Cover Schedule (new) | According to quarterly filing requirements | Effective beginning fiscal 2024 Annex B - Table 2 footnote 2\nSMSB Category III | BCAR Cover Schedule (new) / OCFS Cover Schedule (new) | According to quarterly filing requirements | Effective beginning fiscal 2024 Annex B - Table 2 footnote 2\nAnnex B - Table 2 footnotes Annex B - Table 2 footnote 1 On an annual basis, management attestation submissions are to be accompanied with the FRFI’s summary of any unadjusted errors impacting the calculation of regulatory ratios. Return to Annex B - Table 2 footnote 1 referrer Annex B - Table 2 footnote 2 Category II and III SMSBs may review and attest biennially. Return to Annex B - Table 2 footnote 2 referrer\nAnnex B - Table 2 footnotes Annex B - Table 2 footnote 1 On an annual basis, management attestation submissions are to be accompanied with the FRFI’s summary of any unadjusted errors impacting the calculation of regulatory ratios. Return to Annex B - Table 2 footnote 1 referrer Annex B - Table 2 footnote 2 Category II and III SMSBs may review and attest biennially. Return to Annex B - Table 2 footnote 2 referrer\nAnnex B - Table 2 footnotes\nOn an annual basis, management attestation submissions are to be accompanied with the FRFI’s summary of any unadjusted errors impacting the calculation of regulatory ratios.\nReturn to Annex B - Table 2 footnote 1 referrer\nReturn to Annex B - Table 2 footnote 2 referrer\nTable: Table 3 – Internal Audit\nIndustry | Regulatory Return | Filing Requirement | Frequency\nD-SIB | BCAR / LRR / LCR / NSFR / Comprehensive NCCF | Within 90 days of fiscal year-end | Effective beginning fiscal 2023 - Minimum once every three years based on DTI’s frequency of review\nSMSB Category I | BCAR / LRR / LCR / NSFR / Comprehensive NCCF | Within 90 days of fiscal year-end | Effective beginning fiscal 2023 - Minimum once every three years based on DTI’s frequency of review\nSMSB Category II | BCAR / LRR / LCR / Streamlined NCCF | Within 90 days of fiscal year-end | Effective beginning fiscal 2023 - Minimum once every three years based on DTI’s frequency of review\nSMSB Category III | BCAR / OCFS | Within 90 days of fiscal year-end | Effective beginning fiscal 2023 - Minimum once every three years based on DTI’s frequency of review\nFootnotes Footnote 1 This Assurance Guideline does not replace, or in any way alter, the requirements in Guideline E-15, Appointed Actuary: Legal Requirements, Qualifications and Peer Review . Return to footnote 1 referrer Footnote 2 Consistent with OSFI’s Guideline, Small and Medium-Sized Deposit-Taking Institutions (SMSBs) Capital and Liquidity Requirements , the assurance expectations for SMSBs do not apply to Foreign Bank Branches. Return to footnote 2 referrer Footnote 3 For an explanation of OSFI’s segmentation of SMSBs, see OSFI’s Small and Medium-Sized Deposit-Taking Institutions (SMSBs) Capital and Liquidity Requirements , section entitled “ Segmentation of SMSBs .” Return to footnote 3 referrer Footnote 4 Assurance on NSFR is only required of Category I SMSBs with significant reliance on wholesale funding, as detailed in the LAR . Return to footnote 4 referrer Footnote 5 Submission of unadjusted errors requested are limited to those impacting the calculation of regulatory ratios and will not be shared by OSFI with external parties. Return to footnote 5 referrer",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Summary of Assurance Expectations for DTIs"
+        },
+        {
+          "type": "table",
+          "caption": "Table 1 – External Audit",
+          "rows": [
+            [
+              "Industry",
+              "Regulatory Return / Schedule",
+              "Filing Requirement",
+              "Frequency"
+            ],
+            [
+              "D-SIB",
+              "BCAR Schedule 10.010 LRR Leverage & TLAC Leverage Ratios Schedule LCR Annex B - Table 1 footnote 1 , NSFR Annex B - Table 1 footnote 2",
+              "Within 90 days of fiscal year-end",
+              "Annual at year-end reporting date beginning fiscal 2025"
+            ],
+            [
+              "SMSB Category I",
+              "BCAR Schedule 10.010 LRR Leverage & TLAC Leverage Ratios Schedule LCR Annex B - Table 1 footnote 1 , NSFR Annex B - Table 1 footnote 2",
+              "Within 90 days of fiscal year-end",
+              "Annual at year-end reporting date beginning fiscal 2025"
+            ],
+            [
+              "SMSB Category II",
+              "BCAR Schedule 10.010 LRR Leverage & TLAC Leverage Ratios Schedule LCR Annex B - Table 1 footnote 1",
+              "Within 90 days of fiscal year-end",
+              "Biennial at year-end reporting date beginning fiscal 2025"
+            ],
+            [
+              "SMSB Category III",
+              "BCAR Schedule 10.011",
+              "Within 90 days of fiscal year-end",
+              "Biennial at year-end reporting date beginning fiscal 2025"
+            ],
+            [
+              "Annex B - Table 1 footnotes Annex B - Table 1 footnote 1 To better capture potential currency mismatches, LCR should be evaluated in significant currencies for the purposes of OSFI’s assurance requirements. Return to Annex B - Table 1 footnote 1 referrer Annex B - Table 1 footnote 2 For SMSBs, assurance on NSFR is only required of Category I SMSBs with significant reliance on wholesale funding. Return to Annex B - Table 1 footnote 2 referrer"
+            ]
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Annex B - Table 1 footnotes Annex B - Table 1 footnote 1 To better capture potential currency mismatches, LCR should be evaluated in significant currencies for the purposes of OSFI’s assurance requirements. Return to Annex B - Table 1 footnote 1 referrer Annex B - Table 1 footnote 2 For SMSBs, assurance on NSFR is only required of Category I SMSBs with significant reliance on wholesale funding. Return to Annex B - Table 1 footnote 2 referrer"
+        },
+        {
+          "type": "paragraph",
+          "text": "Annex B - Table 1 footnotes"
+        },
+        {
+          "type": "paragraph",
+          "text": "To better capture potential currency mismatches, LCR should be evaluated in significant currencies for the purposes of OSFI’s assurance requirements."
+        },
+        {
+          "type": "paragraph",
+          "text": "Return to Annex B - Table 1 footnote 1 referrer"
+        },
+        {
+          "type": "paragraph",
+          "text": "For SMSBs, assurance on NSFR is only required of Category I SMSBs with significant reliance on wholesale funding."
+        },
+        {
+          "type": "paragraph",
+          "text": "Return to Annex B - Table 1 footnote 2 referrer"
+        },
+        {
+          "type": "table",
+          "caption": "Table 2 – Senior Management Attestation and Review Annex B - Table 2 footnote 1",
+          "rows": [
+            [
+              "Industry",
+              "Regulatory Return / Schedule",
+              "Filing Requirement",
+              "Frequency"
+            ],
+            [
+              "D-SIB",
+              "BCAR Cover Schedule (new) / LRR Cover Schedule (new) / LCR Cover Schedule (new) / Comprehensive NCCF Cover Schedule (new) / NSFR Cover Schedule (new)",
+              "According to quarterly filing requirements",
+              "Effective beginning fiscal 2024"
+            ],
+            [
+              "SMSB Category I",
+              "BCAR Cover Schedule (new) / LRR Cover Schedule (new) / LCR Cover Schedule (new) / Comprehensive NCCF Cover Schedule (new) / NSFR Cover Schedule (new)",
+              "According to quarterly filing requirements",
+              "Effective beginning fiscal 2024"
+            ],
+            [
+              "SMSB Category II",
+              "BCAR Cover Schedule (new) / LRR Cover Schedule (new) / LCR Cover Schedule (new) / Streamlined NCCF Cover Schedule (new)",
+              "According to quarterly filing requirements",
+              "Effective beginning fiscal 2024 Annex B - Table 2 footnote 2"
+            ],
+            [
+              "SMSB Category III",
+              "BCAR Cover Schedule (new) / OCFS Cover Schedule (new)",
+              "According to quarterly filing requirements",
+              "Effective beginning fiscal 2024 Annex B - Table 2 footnote 2"
+            ],
+            [
+              "Annex B - Table 2 footnotes Annex B - Table 2 footnote 1 On an annual basis, management attestation submissions are to be accompanied with the FRFI’s summary of any unadjusted errors impacting the calculation of regulatory ratios. Return to Annex B - Table 2 footnote 1 referrer Annex B - Table 2 footnote 2 Category II and III SMSBs may review and attest biennially. Return to Annex B - Table 2 footnote 2 referrer"
+            ]
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Annex B - Table 2 footnotes Annex B - Table 2 footnote 1 On an annual basis, management attestation submissions are to be accompanied with the FRFI’s summary of any unadjusted errors impacting the calculation of regulatory ratios. Return to Annex B - Table 2 footnote 1 referrer Annex B - Table 2 footnote 2 Category II and III SMSBs may review and attest biennially. Return to Annex B - Table 2 footnote 2 referrer"
+        },
+        {
+          "type": "paragraph",
+          "text": "Annex B - Table 2 footnotes"
+        },
+        {
+          "type": "paragraph",
+          "text": "On an annual basis, management attestation submissions are to be accompanied with the FRFI’s summary of any unadjusted errors impacting the calculation of regulatory ratios."
+        },
+        {
+          "type": "paragraph",
+          "text": "Return to Annex B - Table 2 footnote 1 referrer"
+        },
+        {
+          "type": "paragraph",
+          "text": "Return to Annex B - Table 2 footnote 2 referrer"
+        },
+        {
+          "type": "table",
+          "caption": "Table 3 – Internal Audit",
+          "rows": [
+            [
+              "Industry",
+              "Regulatory Return",
+              "Filing Requirement",
+              "Frequency"
+            ],
+            [
+              "D-SIB",
+              "BCAR / LRR / LCR / NSFR / Comprehensive NCCF",
+              "Within 90 days of fiscal year-end",
+              "Effective beginning fiscal 2023 - Minimum once every three years based on DTI’s frequency of review"
+            ],
+            [
+              "SMSB Category I",
+              "BCAR / LRR / LCR / NSFR / Comprehensive NCCF",
+              "Within 90 days of fiscal year-end",
+              "Effective beginning fiscal 2023 - Minimum once every three years based on DTI’s frequency of review"
+            ],
+            [
+              "SMSB Category II",
+              "BCAR / LRR / LCR / Streamlined NCCF",
+              "Within 90 days of fiscal year-end",
+              "Effective beginning fiscal 2023 - Minimum once every three years based on DTI’s frequency of review"
+            ],
+            [
+              "SMSB Category III",
+              "BCAR / OCFS",
+              "Within 90 days of fiscal year-end",
+              "Effective beginning fiscal 2023 - Minimum once every three years based on DTI’s frequency of review"
+            ]
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Footnotes Footnote 1 This Assurance Guideline does not replace, or in any way alter, the requirements in Guideline E-15, Appointed Actuary: Legal Requirements, Qualifications and Peer Review . Return to footnote 1 referrer Footnote 2 Consistent with OSFI’s Guideline, Small and Medium-Sized Deposit-Taking Institutions (SMSBs) Capital and Liquidity Requirements , the assurance expectations for SMSBs do not apply to Foreign Bank Branches. Return to footnote 2 referrer Footnote 3 For an explanation of OSFI’s segmentation of SMSBs, see OSFI’s Small and Medium-Sized Deposit-Taking Institutions (SMSBs) Capital and Liquidity Requirements , section entitled “ Segmentation of SMSBs .” Return to footnote 3 referrer Footnote 4 Assurance on NSFR is only required of Category I SMSBs with significant reliance on wholesale funding, as detailed in the LAR . Return to footnote 4 referrer Footnote 5 Submission of unadjusted errors requested are limited to those impacting the calculation of regulatory ratios and will not be shared by OSFI with external parties. Return to footnote 5 referrer"
+        }
+      ]
+    },
+    {
+      "heading": "Footnotes",
+      "heading_level": 2,
+      "full_text": "This Assurance Guideline does not replace, or in any way alter, the requirements in Guideline E-15, Appointed Actuary: Legal Requirements, Qualifications and Peer Review .\nReturn to footnote 1 referrer\nConsistent with OSFI’s Guideline, Small and Medium-Sized Deposit-Taking Institutions (SMSBs) Capital and Liquidity Requirements , the assurance expectations for SMSBs do not apply to Foreign Bank Branches.\nReturn to footnote 2 referrer\nFor an explanation of OSFI’s segmentation of SMSBs, see OSFI’s Small and Medium-Sized Deposit-Taking Institutions (SMSBs) Capital and Liquidity Requirements , section entitled “ Segmentation of SMSBs .”\nReturn to footnote 3 referrer\nAssurance on NSFR is only required of Category I SMSBs with significant reliance on wholesale funding, as detailed in the LAR .\nReturn to footnote 4 referrer\nSubmission of unadjusted errors requested are limited to those impacting the calculation of regulatory ratios and will not be shared by OSFI with external parties.\nReturn to footnote 5 referrer",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "This Assurance Guideline does not replace, or in any way alter, the requirements in Guideline E-15, Appointed Actuary: Legal Requirements, Qualifications and Peer Review ."
+        },
+        {
+          "type": "paragraph",
+          "text": "Return to footnote 1 referrer"
+        },
+        {
+          "type": "paragraph",
+          "text": "Consistent with OSFI’s Guideline, Small and Medium-Sized Deposit-Taking Institutions (SMSBs) Capital and Liquidity Requirements , the assurance expectations for SMSBs do not apply to Foreign Bank Branches."
+        },
+        {
+          "type": "paragraph",
+          "text": "Return to footnote 2 referrer"
+        },
+        {
+          "type": "paragraph",
+          "text": "For an explanation of OSFI’s segmentation of SMSBs, see OSFI’s Small and Medium-Sized Deposit-Taking Institutions (SMSBs) Capital and Liquidity Requirements , section entitled “ Segmentation of SMSBs .”"
+        },
+        {
+          "type": "paragraph",
+          "text": "Return to footnote 3 referrer"
+        },
+        {
+          "type": "paragraph",
+          "text": "Assurance on NSFR is only required of Category I SMSBs with significant reliance on wholesale funding, as detailed in the LAR ."
+        },
+        {
+          "type": "paragraph",
+          "text": "Return to footnote 4 referrer"
+        },
+        {
+          "type": "paragraph",
+          "text": "Submission of unadjusted errors requested are limited to those impacting the calculation of regulatory ratios and will not be shared by OSFI with external parties."
+        },
+        {
+          "type": "paragraph",
+          "text": "Return to footnote 5 referrer"
+        }
+      ]
+    }
+  ],
+  "title_normalized": "assurance on capital leverage and liquidity returns guideline 2022",
+  "publication_type_normalized": "guideline",
+  "category_normalized": "accounting_and_disclosure",
+  "sector_normalized": [
+    "banks",
+    "life_insurance",
+    "pc_insurance",
+    "trust_and_loan_companies"
+  ],
+  "guideline_number_normalized": "",
+  "applies_to_banks": true,
+  "applies_to_trust_loan": true,
+  "applies_to_life_insurance": true,
+  "applies_to_pc_insurance": true,
+  "applies_to_foreign_bank": false,
+  "applies_to_foreign_insurance": false,
+  "applies_to_cooperative": false,
+  "applies_to_bank_holding": false,
+  "effective_date_sort_key": "2022-11-30",
+  "status_sort_key": 1,
+  "authority_sort_key": 100,
+  "bm25_text": "Assurance on Capital, Leverage and Liquidity Returns - Guideline (2022) Guideline Accounting and Disclosure Banks Life Insurance and Fraternal Companies Property and Casualty Companies Trust and Loan Companies 1. Purpose 2. Scope 3. Guiding Principles 4. Assurance Expectations for Capital, Leverage and Liquidity Returns 4.1 External Audit Opinion Scope Frequency and Filing Requirement 4.1.2 External Audit Opinion for DTIs 4.1.2.1 External Audit Opinion for D-SIBs 4.1.2.2 External Audit Opinion for SMSBs 4.1.3 Materiality Considerations 4.2 Senior Management Attestation Scope Frequency and Filing Requirement Scope Frequency and Filing Requirement Frequency and Filing Requirement 4.3 Internal Audit Opinion Scope Frequency and Filing Requirement Scope Frequency and Filing Requirement Frequency and Filing Requirement 4.3.4 Guideline Administration Annex A Annex B Footnotes",
+  "vector_text_prefix": "[OSFI Guideline  | Accounting and Disclosure | Banks / Life Insurance and Fraternal Companies / Property and Casualty Companies | FINAL_CURRENT | Effective 2022-11-30]",
+  "h1_title": "Assurance on Capital, Leverage and Liquidity Returns - Guideline (2022)",
+  "regulator": "OSFI",
+  "regulator_acronym": "OSFI",
+  "jurisdiction": "Canada",
+  "short_title": "",
+  "source_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/assurance-capital-leverage-liquidity-returns-guideline-2022"
+}

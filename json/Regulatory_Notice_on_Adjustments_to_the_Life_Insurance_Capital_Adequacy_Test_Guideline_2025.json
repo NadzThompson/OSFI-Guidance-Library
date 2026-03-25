@@ -1,0 +1,253 @@
+{
+  "source_system": "osfi_guidance_library",
+  "library_row_title": "Regulatory Notice on Adjustments to the Life Insurance Capital Adequacy Test Guideline (2025)",
+  "library_row_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/regulatory-notice-adjustments-life-insurance-capital-adequacy-test-guideline-2025",
+  "listing_date_raw": "May 22, 2025",
+  "listing_date_iso": "2025-05-22",
+  "listing_publication_type": "Regulatory notice",
+  "listing_category": "Capital Adequacy Requirements",
+  "listing_sector": [
+    "Foreign Insurance Branches",
+    "Life Insurance and Fraternal Companies"
+  ],
+  "crawl_timestamp": "2026-03-11T00:00:00Z",
+  "detail_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/regulatory-notice-adjustments-life-insurance-capital-adequacy-test-guideline-2025",
+  "canonical_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/regulatory-notice-adjustments-life-insurance-capital-adequacy-test-guideline-2025",
+  "slug": "regulatory-notice-adjustments-life-insurance-capital-adequacy-test-guideline-2025",
+  "title": "Regulatory Notice on Adjustments to the Life Insurance Capital Adequacy Test Guideline (2025)",
+  "publication_type": "Regulatory notice",
+  "category": "Capital Adequacy Requirements",
+  "document_date_raw": "May 22, 2025",
+  "document_date_iso": "2025-05-22",
+  "sector": [
+    "Foreign Insurance Branches",
+    "Life Insurance and Fraternal Companies"
+  ],
+  "effective_date_text": "",
+  "guideline_number": "",
+  "date_modified_raw": "2025-05-22T12:00:00Z",
+  "generate_pdf_url": "https://www.osfi-bsif.gc.ca/en/print/pdf/node/2654",
+  "pdf_node_id": 2654,
+  "direct_pdf_url": null,
+  "has_table_of_contents": true,
+  "toc_entries": [],
+  "has_related_documents": true,
+  "related_document_links_raw": [
+    {
+      "title": "Regulatory Notice on Adjustments to the Life Insurance Capital Adequacy Test Gui",
+      "url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/regulatory-notice-adjustments-life-insurance-capital-adequacy-test-guideline-2025-letter"
+    }
+  ],
+  "consultation_status_text": null,
+  "consultation_status_refers_to_version": null,
+  "page_language": "en",
+  "word_count_raw_body": 400,
+  "doc_id": "osfi.licat.2025.package",
+  "doc_family_id": "osfi.licat",
+  "version_id": "2025",
+  "version_label": "Regulatory Notice on Adjustments to the Life Insurance Capit",
+  "version_sort_key": "2025-05",
+  "parent_doc_id": null,
+  "child_doc_ids": [],
+  "is_package_page": true,
+  "is_chapter_page": false,
+  "chapter_number": null,
+  "chapter_title": null,
+  "document_order_within_family": 0,
+  "supersedes_doc_id": null,
+  "superseded_by_doc_id": null,
+  "current_version_flag": true,
+  "status": "final_current",
+  "include_in_primary_corpus": true,
+  "include_in_support_corpus": false,
+  "include_in_context_corpus": false,
+  "effective_date_start": "2025-05-22",
+  "effective_date_end": null,
+  "effective_date_fye_split": false,
+  "effective_date_oct_fye": null,
+  "effective_date_dec_fye": null,
+  "is_future_effective": false,
+  "is_rescinded": false,
+  "is_draft_or_consultation": false,
+  "rescission_date": null,
+  "consultation_closing_date": null,
+  "as_of_applicability": "2026-03-23",
+  "rule_applied": "rule_5_final_current",
+  "authority_class": "primary_normative",
+  "authority_level": 100,
+  "nova_tier": 1,
+  "prudential_weight": 1.0,
+  "is_primary_normative": true,
+  "is_supporting_interpretive": false,
+  "is_context_only": false,
+  "document_class": "package_guideline",
+  "guidance_type_normalized": "regulatory_notice",
+  "section_headings": [
+    {
+      "level": 2,
+      "text": "1. Overview",
+      "id": "h2-0"
+    },
+    {
+      "level": 2,
+      "text": "2. Background",
+      "id": "h2-1"
+    },
+    {
+      "level": 3,
+      "text": "A. Removing the aggregate reduction limit on Tier 1 capital deduction (section 10.5)",
+      "id": "h3-2"
+    },
+    {
+      "level": 3,
+      "text": "B. Changes to SFG credit risk and market risk capital requirements (sections 7.2.1 and 7.2.2)",
+      "id": "h3-3"
+    },
+    {
+      "level": 2,
+      "text": "4. Conclusion",
+      "id": "h2-4"
+    }
+  ],
+  "heading_path": [
+    "Regulatory Notice on Adjustments to the Life Insurance Capital Adequacy Test Guideline (2025)"
+  ],
+  "toc_depth": 3,
+  "has_appendices": false,
+  "appendix_ids": [],
+  "has_tables": false,
+  "table_count": 0,
+  "has_footnotes": false,
+  "footnote_count": 0,
+  "inline_cross_references": [],
+  "quoted_external_references": [],
+  "raw_html_sha256": "f031d171cfa3f2cf04dc421611b4704dda9640590ac38cd0f11ec6a98345ee62",
+  "raw_pdf_sha256": null,
+  "normalized_text_sha256": null,
+  "raw_html_path": "bronze/osfi/html/final_current/regulatory-notice-adjustments-life-insurance-capital-adequacy-test-guideline-2025.html",
+  "normalized_md_path": "silver/osfi/md/final_current/regulatory-notice-adjustments-life-insurance-capital-adequacy-test-guideline-2025.md",
+  "canonical_json_path": "silver/osfi/json/final_current/regulatory-notice-adjustments-life-insurance-capital-adequacy-test-guideline-2025.json",
+  "content_source": "HTML",
+  "parser_version": "osfi-parser-v2.1.0",
+  "normalizer_version": "osfi-normalizer-v1.4.0",
+  "quality_score": 0.5,
+  "quality_flags": [
+    "thin_body_text"
+  ],
+  "download_timestamp": "2026-03-11T00:00:00Z",
+  "enriched_timestamp": "2026-03-23T09:53:58.875894Z",
+  "sections": [
+    {
+      "heading": "",
+      "heading_level": 2,
+      "full_text": "  - Regulatory Notice on Adjustments to the Life Insurance Capital Adequacy Test Guideline (2025) – Letter",
+      "content": [
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Regulatory Notice on Adjustments to the Life Insurance Capital Adequacy Test Guideline (2025) – Letter"
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "1. Overview",
+      "heading_level": 2,
+      "full_text": "This regulatory notice applies to all federally regulated life insurers, including Canadian branches of foreign life companies, fraternal benefit societies, regulated life insurance holding companies and non-operating life insurance companies. It communicates adjustments to the 2025 Life Insurance Capital Adequacy Test guideline (LICAT guideline) to remove the limit applicable to deductions from available capital for stop-loss reinsurance arrangements and align capital treatment of unregistered reinsurance of segregated fund guarantees (SFG) with other products.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "This regulatory notice applies to all federally regulated life insurers, including Canadian branches of foreign life companies, fraternal benefit societies, regulated life insurance holding companies and non-operating life insurance companies. It communicates adjustments to the 2025 Life Insurance Capital Adequacy Test guideline (LICAT guideline) to remove the limit applicable to deductions from available capital for stop-loss reinsurance arrangements and align capital treatment of unregistered reinsurance of segregated fund guarantees (SFG) with other products."
+        }
+      ]
+    },
+    {
+      "heading": "2. Background",
+      "heading_level": 2,
+      "full_text": "Section 10.5 of the LICAT guideline (Adjustment to Available Capital for Stop-loss Arrangements) outlines the capital treatment for certain stop-loss reinsurance arrangements. Specifically, a ceding insurer may reduce its Tier 1 capital deduction with respect to negative reserves for risks it has reinsured under a registered stop-loss arrangement. The aggregate reduction amount for all such arrangements is limited to 5% of Net Tier 1 capital prior to reduction for these arrangements. A corresponding reduction and limit apply to foreign insurers operating in Canada on a branch basis.\nSections 7.2.1 and 7.2.2 of the LICAT guideline (Credit Risk and Market Risk, respectively) state that the credit risk and market risk capital requirements for segregated fund guarantees (SFG) are calculated net of all reinsurance.\nChanges to these sections are necessary to make the capital treatment commensurate with the risk exposure. We publish this interim guidance to provide timely and clear guidance to insurers using stop-loss and SFG reinsurance transactions.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Section 10.5 of the LICAT guideline (Adjustment to Available Capital for Stop-loss Arrangements) outlines the capital treatment for certain stop-loss reinsurance arrangements. Specifically, a ceding insurer may reduce its Tier 1 capital deduction with respect to negative reserves for risks it has reinsured under a registered stop-loss arrangement. The aggregate reduction amount for all such arrangements is limited to 5% of Net Tier 1 capital prior to reduction for these arrangements. A corresponding reduction and limit apply to foreign insurers operating in Canada on a branch basis."
+        },
+        {
+          "type": "paragraph",
+          "text": "Sections 7.2.1 and 7.2.2 of the LICAT guideline (Credit Risk and Market Risk, respectively) state that the credit risk and market risk capital requirements for segregated fund guarantees (SFG) are calculated net of all reinsurance."
+        },
+        {
+          "type": "paragraph",
+          "text": "Changes to these sections are necessary to make the capital treatment commensurate with the risk exposure. We publish this interim guidance to provide timely and clear guidance to insurers using stop-loss and SFG reinsurance transactions."
+        }
+      ]
+    },
+    {
+      "heading": "A. Removing the aggregate reduction limit on Tier 1 capital deduction (section 10.5)",
+      "heading_level": 3,
+      "full_text": "The limit that applies to the aggregate reduction amount on the Tier 1 capital deduction (for Canadian insurers) and the reduction in the amount included in Assets Required (for a foreign insurer operating in Canada on a branch basis) no longer applies.\nShould we observe material deterioration in the insurer’s capital quality because of these arrangements, we may take supervisory actions to ensure the insurer’s capital quality remains satisfactory.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "The limit that applies to the aggregate reduction amount on the Tier 1 capital deduction (for Canadian insurers) and the reduction in the amount included in Assets Required (for a foreign insurer operating in Canada on a branch basis) no longer applies."
+        },
+        {
+          "type": "paragraph",
+          "text": "Should we observe material deterioration in the insurer’s capital quality because of these arrangements, we may take supervisory actions to ensure the insurer’s capital quality remains satisfactory."
+        }
+      ]
+    },
+    {
+      "heading": "B. Changes to SFG credit risk and market risk capital requirements (sections 7.2.1 and 7.2.2)",
+      "heading_level": 3,
+      "full_text": "An insurer should calculate its credit risk and market risk capital requirements for SFG net of registered reinsurance only. In other words, it may not reduce credit and market risk capital requirements to reflect risk mitigation from unregistered reinsurance.\nRefer to Section 7.6 on the recognition of Eligible Deposits held for unregistered reinsurance of SFG.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "An insurer should calculate its credit risk and market risk capital requirements for SFG net of registered reinsurance only. In other words, it may not reduce credit and market risk capital requirements to reflect risk mitigation from unregistered reinsurance."
+        },
+        {
+          "type": "paragraph",
+          "text": "Refer to Section 7.6 on the recognition of Eligible Deposits held for unregistered reinsurance of SFG."
+        }
+      ]
+    },
+    {
+      "heading": "4. Conclusion",
+      "heading_level": 2,
+      "full_text": "The adjustments outlined above have immediate effect. They are expected to be incorporated in the next version of the LICAT guideline, at which point this regulatory notice will be rescinded.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "The adjustments outlined above have immediate effect. They are expected to be incorporated in the next version of the LICAT guideline, at which point this regulatory notice will be rescinded."
+        }
+      ]
+    }
+  ],
+  "title_normalized": "regulatory notice on adjustments to the life insurance capital adequacy test guideline 2025",
+  "publication_type_normalized": "regulatory_notice",
+  "category_normalized": "capital_adequacy_requirements",
+  "sector_normalized": [
+    "foreign_insurance_branches",
+    "life_insurance"
+  ],
+  "guideline_number_normalized": "",
+  "applies_to_banks": false,
+  "applies_to_trust_loan": false,
+  "applies_to_life_insurance": true,
+  "applies_to_pc_insurance": false,
+  "applies_to_foreign_bank": false,
+  "applies_to_foreign_insurance": true,
+  "applies_to_cooperative": false,
+  "applies_to_bank_holding": false,
+  "effective_date_sort_key": "2025-05-22",
+  "status_sort_key": 1,
+  "authority_sort_key": 100,
+  "bm25_text": "Regulatory Notice on Adjustments to the Life Insurance Capital Adequacy Test Guideline (2025) Regulatory notice Capital Adequacy Requirements Foreign Insurance Branches Life Insurance and Fraternal Companies 1. Overview 2. Background A. Removing the aggregate reduction limit on Tier 1 capital deduction (section 10.5) B. Changes to SFG credit risk and market risk capital requirements (sections 7.2.1 and 7.2.2) 4. Conclusion",
+  "vector_text_prefix": "[OSFI Regulatory notice  | Capital Adequacy Requirements | Foreign Insurance Branches / Life Insurance and Fraternal Companies | FINAL_CURRENT | Effective 2025-05-22]",
+  "h1_title": "Regulatory Notice on Adjustments to the Life Insurance Capital Adequacy Test Guideline (2025)",
+  "regulator": "OSFI",
+  "regulator_acronym": "OSFI",
+  "jurisdiction": "Canada",
+  "short_title": "",
+  "source_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/regulatory-notice-adjustments-life-insurance-capital-adequacy-test-guideline-2025"
+}

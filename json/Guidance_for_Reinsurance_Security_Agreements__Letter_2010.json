@@ -1,0 +1,188 @@
+{
+  "source_system": "osfi_guidance_library",
+  "library_row_title": "Guidance for Reinsurance Security Agreements – Letter (2010)",
+  "library_row_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/guidance-reinsurance-security-agreements-letter-2010",
+  "listing_date_raw": "December 24, 2010",
+  "listing_date_iso": "2010-12-24",
+  "listing_publication_type": "Letter",
+  "listing_category": "",
+  "listing_sector": [
+    "Life Insurance and Fraternal Companies",
+    "Property and Casualty Companies"
+  ],
+  "crawl_timestamp": "2026-03-11T00:00:00Z",
+  "detail_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/guidance-reinsurance-security-agreements-letter-2010",
+  "canonical_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/guidance-reinsurance-security-agreements-letter-2010",
+  "slug": "guidance-reinsurance-security-agreements-letter-2010",
+  "title": "Guidance for Reinsurance Security Agreements – Letter (2010)",
+  "publication_type": "Letter",
+  "category": "",
+  "document_date_raw": "December 24, 2010",
+  "document_date_iso": "2010-12-24",
+  "sector": [
+    "Life Insurance and Fraternal Companies",
+    "Property and Casualty Companies"
+  ],
+  "effective_date_text": "",
+  "guideline_number": "",
+  "date_modified_raw": "2010-12-24T12:00:00Z",
+  "generate_pdf_url": "https://www.osfi-bsif.gc.ca/en/print/pdf/node/395",
+  "pdf_node_id": 395,
+  "direct_pdf_url": null,
+  "has_table_of_contents": true,
+  "toc_entries": [],
+  "has_related_documents": true,
+  "related_document_links_raw": [
+    {
+      "title": "Questions and Answers - Guidance for Reinsurance Security Agreements",
+      "url": "https://www.osfi-bsif.gc.ca/en/data-forms/applications-approvals/questions-answers-guidance-reinsurance-security-agreements"
+    }
+  ],
+  "consultation_status_text": null,
+  "consultation_status_refers_to_version": null,
+  "page_language": "en",
+  "word_count_raw_body": 182,
+  "doc_id": "osfi.guidance-reinsurance-security-agreements.2010.transmittal",
+  "doc_family_id": "osfi.guidance-reinsurance-security-agreements",
+  "version_id": "2010",
+  "version_label": "Guidance for Reinsurance Security Agreements – Letter (2010)",
+  "version_sort_key": "2010-12",
+  "parent_doc_id": null,
+  "child_doc_ids": [],
+  "is_package_page": false,
+  "is_chapter_page": false,
+  "chapter_number": null,
+  "chapter_title": null,
+  "document_order_within_family": 0,
+  "supersedes_doc_id": null,
+  "superseded_by_doc_id": null,
+  "current_version_flag": true,
+  "status": "final_current",
+  "include_in_primary_corpus": false,
+  "include_in_support_corpus": true,
+  "include_in_context_corpus": false,
+  "effective_date_start": "2010-12-24",
+  "effective_date_end": null,
+  "effective_date_fye_split": false,
+  "effective_date_oct_fye": null,
+  "effective_date_dec_fye": null,
+  "is_future_effective": false,
+  "is_rescinded": false,
+  "is_draft_or_consultation": false,
+  "rescission_date": null,
+  "consultation_closing_date": null,
+  "as_of_applicability": "2026-03-23",
+  "rule_applied": "rule_5_final_current",
+  "authority_class": "official_support",
+  "authority_level": 60,
+  "nova_tier": 2,
+  "prudential_weight": 0.7,
+  "is_primary_normative": false,
+  "is_supporting_interpretive": true,
+  "is_context_only": false,
+  "document_class": "transmittal_letter",
+  "guidance_type_normalized": "letter",
+  "section_headings": [],
+  "heading_path": [
+    "Guidance for Reinsurance Security Agreements – Letter (2010)"
+  ],
+  "toc_depth": 0,
+  "has_appendices": false,
+  "appendix_ids": [],
+  "has_tables": false,
+  "table_count": 0,
+  "has_footnotes": false,
+  "footnote_count": 0,
+  "inline_cross_references": [],
+  "quoted_external_references": [],
+  "raw_html_sha256": "55a96c57834559e7e73021cc903a09c51b32e969dd16df3965857ea6b9ef5404",
+  "raw_pdf_sha256": null,
+  "normalized_text_sha256": null,
+  "raw_html_path": "bronze/osfi/html/final_current/guidance-reinsurance-security-agreements-letter-2010.html",
+  "normalized_md_path": "silver/osfi/md/final_current/guidance-reinsurance-security-agreements-letter-2010.md",
+  "canonical_json_path": "silver/osfi/json/final_current/guidance-reinsurance-security-agreements-letter-2010.json",
+  "content_source": "HTML",
+  "parser_version": "osfi-parser-v2.1.0",
+  "normalizer_version": "osfi-normalizer-v1.4.0",
+  "quality_score": 0.5,
+  "quality_flags": [
+    "thin_body_text"
+  ],
+  "download_timestamp": "2026-03-11T00:00:00Z",
+  "enriched_timestamp": "2026-03-23T09:53:51.999296Z",
+  "sections": [
+    {
+      "heading": "",
+      "heading_level": 2,
+      "full_text": "  - Guidance for Reinsurance Security Agreements\n  - Reinsurance Trust Agreements\n  - Questions and Answers - Guidance for Reinsurance Security Agreements\nTo: Federally Regulated Life Insurance Companies, including Fraternal Benefit Societies, Federally Regulated Property and Casualty Insurance Companies\nThe Guidance for Reinsurance Security Agreements (RSAs) is now being released in final form following public consultations on a draft version of the Guidance issued in August 2010.\nThe Guidance sets out OSFI’s minimum standards with respect to collateral secured through the establishment of an RSA. It also outlines OSFI’s expectations regarding the operation by companies of the RSA process. It applies to all federally regulated insurers, including life insurers and property and casualty insurers, domestic insurance companies and foreign insurance companies in respect of their insurance business in Canada, registered reinsurers, and fraternal benefit societies, for reinsurance cessions and retrocessions.\nPlease refer to the Implementation section of the Guidance for details on OSFI’s implementation expectations and corresponding timelines.\nQuestions relating to the Guidance section on the Supervision of RSAs should be addressed by e-mail at SAAR-SSAVMRCA@osfi-bsif.gc.ca .\nMark E. White Assistant Superintendent Regulation Sector",
+      "content": [
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Guidance for Reinsurance Security Agreements",
+            "Reinsurance Trust Agreements"
+          ]
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Questions and Answers - Guidance for Reinsurance Security Agreements"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "To: Federally Regulated Life Insurance Companies, including Fraternal Benefit Societies, Federally Regulated Property and Casualty Insurance Companies"
+        },
+        {
+          "type": "paragraph",
+          "text": "The Guidance for Reinsurance Security Agreements (RSAs) is now being released in final form following public consultations on a draft version of the Guidance issued in August 2010."
+        },
+        {
+          "type": "paragraph",
+          "text": "The Guidance sets out OSFI’s minimum standards with respect to collateral secured through the establishment of an RSA. It also outlines OSFI’s expectations regarding the operation by companies of the RSA process. It applies to all federally regulated insurers, including life insurers and property and casualty insurers, domestic insurance companies and foreign insurance companies in respect of their insurance business in Canada, registered reinsurers, and fraternal benefit societies, for reinsurance cessions and retrocessions."
+        },
+        {
+          "type": "paragraph",
+          "text": "Please refer to the Implementation section of the Guidance for details on OSFI’s implementation expectations and corresponding timelines."
+        },
+        {
+          "type": "paragraph",
+          "text": "Questions relating to the Guidance section on the Supervision of RSAs should be addressed by e-mail at SAAR-SSAVMRCA@osfi-bsif.gc.ca ."
+        },
+        {
+          "type": "paragraph",
+          "text": "Mark E. White Assistant Superintendent Regulation Sector"
+        }
+      ]
+    }
+  ],
+  "title_normalized": "guidance for reinsurance security agreements letter 2010",
+  "publication_type_normalized": "letter",
+  "category_normalized": "",
+  "sector_normalized": [
+    "life_insurance",
+    "pc_insurance"
+  ],
+  "guideline_number_normalized": "",
+  "applies_to_banks": false,
+  "applies_to_trust_loan": false,
+  "applies_to_life_insurance": true,
+  "applies_to_pc_insurance": true,
+  "applies_to_foreign_bank": false,
+  "applies_to_foreign_insurance": false,
+  "applies_to_cooperative": false,
+  "applies_to_bank_holding": false,
+  "effective_date_sort_key": "2010-12-24",
+  "status_sort_key": 1,
+  "authority_sort_key": 60,
+  "bm25_text": "Guidance for Reinsurance Security Agreements – Letter (2010) Letter Life Insurance and Fraternal Companies Property and Casualty Companies",
+  "vector_text_prefix": "[OSFI Letter  |  | Life Insurance and Fraternal Companies / Property and Casualty Companies | FINAL_CURRENT | Effective 2010-12-24]",
+  "h1_title": "Guidance for Reinsurance Security Agreements – Letter (2010)",
+  "regulator": "OSFI",
+  "regulator_acronym": "OSFI",
+  "jurisdiction": "Canada",
+  "short_title": "",
+  "source_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/guidance-reinsurance-security-agreements-letter-2010"
+}

@@ -1,0 +1,996 @@
+{
+  "source_system": "osfi_guidance_library",
+  "library_row_title": "Corporate Governance – Guideline (2018)",
+  "library_row_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/corporate-governance-guideline-2018",
+  "listing_date_raw": "September 30, 2018",
+  "listing_date_iso": "2018-09-30",
+  "listing_publication_type": "Guideline",
+  "listing_category": "Sound Business and Financial Practices",
+  "listing_sector": [
+    "Banks",
+    "Life Insurance and Fraternal Companies",
+    "Property and Casualty Companies",
+    "Trust and Loan Companies"
+  ],
+  "crawl_timestamp": "2026-03-11T00:00:00Z",
+  "detail_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/corporate-governance-guideline-2018",
+  "canonical_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/corporate-governance-guideline-2018",
+  "slug": "corporate-governance-guideline-2018",
+  "title": "Corporate Governance – Guideline (2018)",
+  "publication_type": "Guideline",
+  "category": "Sound Business and Financial Practices",
+  "document_date_raw": "September 30, 2018",
+  "document_date_iso": "2018-09-30",
+  "sector": [
+    "Banks",
+    "Life Insurance and Fraternal Companies",
+    "Property and Casualty Companies",
+    "Trust and Loan Companies"
+  ],
+  "effective_date_text": "",
+  "guideline_number": "",
+  "date_modified_raw": "2018-09-30T12:00:00Z",
+  "generate_pdf_url": "https://www.osfi-bsif.gc.ca/en/print/pdf/node/592",
+  "pdf_node_id": 592,
+  "direct_pdf_url": "http://www.financialstabilityboard.org/publications/r_0904b.pdf",
+  "has_table_of_contents": true,
+  "toc_entries": [],
+  "has_related_documents": true,
+  "related_document_links_raw": [],
+  "consultation_status_text": null,
+  "consultation_status_refers_to_version": null,
+  "page_language": "en",
+  "word_count_raw_body": 4826,
+  "doc_id": "osfi.corporate_governance.2018.package",
+  "doc_family_id": "osfi.corporate_governance",
+  "version_id": "2018",
+  "version_label": "Corporate Governance – Guideline (2018)",
+  "version_sort_key": "2018-09",
+  "parent_doc_id": null,
+  "child_doc_ids": [],
+  "is_package_page": true,
+  "is_chapter_page": false,
+  "chapter_number": null,
+  "chapter_title": null,
+  "document_order_within_family": 0,
+  "supersedes_doc_id": null,
+  "superseded_by_doc_id": null,
+  "current_version_flag": true,
+  "status": "final_current",
+  "include_in_primary_corpus": true,
+  "include_in_support_corpus": false,
+  "include_in_context_corpus": false,
+  "effective_date_start": "2018-09-30",
+  "effective_date_end": null,
+  "effective_date_fye_split": false,
+  "effective_date_oct_fye": null,
+  "effective_date_dec_fye": null,
+  "is_future_effective": false,
+  "is_rescinded": false,
+  "is_draft_or_consultation": false,
+  "rescission_date": null,
+  "consultation_closing_date": null,
+  "as_of_applicability": "2026-03-23",
+  "rule_applied": "rule_5_final_current",
+  "authority_class": "primary_normative",
+  "authority_level": 100,
+  "nova_tier": 1,
+  "prudential_weight": 1.0,
+  "is_primary_normative": true,
+  "is_supporting_interpretive": false,
+  "is_context_only": false,
+  "document_class": "package_guideline",
+  "guidance_type_normalized": "guideline",
+  "section_headings": [
+    {
+      "level": 2,
+      "text": "I. Purpose and Scope of the Guideline",
+      "id": "h2-0"
+    },
+    {
+      "level": 3,
+      "text": "Corporate Governance for Financial Institutions",
+      "id": "h3-1"
+    },
+    {
+      "level": 2,
+      "text": "II. The Board of Directors",
+      "id": "h2-2"
+    },
+    {
+      "level": 3,
+      "text": "The Role of the Board",
+      "id": "h3-3"
+    },
+    {
+      "level": 5,
+      "text": "Strategy",
+      "id": "h5-4"
+    },
+    {
+      "level": 5,
+      "text": "Risk Management and Oversight",
+      "id": "h5-5"
+    },
+    {
+      "level": 5,
+      "text": "Board, Senior Management and Oversight Functions",
+      "id": "h5-6"
+    },
+    {
+      "level": 5,
+      "text": "Audit Plans",
+      "id": "h5-7"
+    },
+    {
+      "level": 5,
+      "text": "Operational and Business Policies",
+      "id": "h5-8"
+    },
+    {
+      "level": 5,
+      "text": "Business Performance and Effectiveness of Risk Management",
+      "id": "h5-9"
+    },
+    {
+      "level": 3,
+      "text": "The Board and Senior Management",
+      "id": "h3-10"
+    },
+    {
+      "level": 3,
+      "text": "The Board and the Oversight Functions",
+      "id": "h3-11"
+    },
+    {
+      "level": 3,
+      "text": "Boards of Subsidiaries or with FRFI Subsidiaries",
+      "id": "h3-12"
+    },
+    {
+      "level": 3,
+      "text": "Board Effectiveness",
+      "id": "h3-13"
+    },
+    {
+      "level": 4,
+      "text": "Board Composition",
+      "id": "h4-14"
+    },
+    {
+      "level": 4,
+      "text": "Board Independence",
+      "id": "h4-15"
+    },
+    {
+      "level": 2,
+      "text": "III. Risk Governance",
+      "id": "h2-16"
+    },
+    {
+      "level": 3,
+      "text": "General",
+      "id": "h3-17"
+    },
+    {
+      "level": 3,
+      "text": "Risk Appetite Framework",
+      "id": "h3-18"
+    },
+    {
+      "level": 3,
+      "text": "Oversight of Risk",
+      "id": "h3-19"
+    },
+    {
+      "level": 4,
+      "text": "Board Risk Committee",
+      "id": "h4-20"
+    },
+    {
+      "level": 4,
+      "text": "Chief Risk Officer",
+      "id": "h4-21"
+    },
+    {
+      "level": 2,
+      "text": "IV. The Role of the Audit Committee",
+      "id": "h2-22"
+    },
+    {
+      "level": 3,
+      "text": "The Role of Corporate Governance in OSFI's Supervisory Process",
+      "id": "h3-23"
+    },
+    {
+      "level": 3,
+      "text": "OSFI's Supervisory Assessment",
+      "id": "h3-24"
+    },
+    {
+      "level": 3,
+      "text": "Changes to the Board or Senior Management",
+      "id": "h3-25"
+    },
+    {
+      "level": 2,
+      "text": "Annex A – The Special Nature of Financial Institutions",
+      "id": "h2-26"
+    },
+    {
+      "level": 2,
+      "text": "Annex B – Risk Appetite Framework",
+      "id": "h2-27"
+    },
+    {
+      "level": 3,
+      "text": "Risk Appetite Statement",
+      "id": "h3-28"
+    },
+    {
+      "level": 3,
+      "text": "Risk Limits",
+      "id": "h3-29"
+    },
+    {
+      "level": 3,
+      "text": "Implementation of the Risk Appetite Framework",
+      "id": "h3-30"
+    }
+  ],
+  "heading_path": [
+    "Corporate Governance – Guideline (2018)"
+  ],
+  "toc_depth": 5,
+  "has_appendices": false,
+  "appendix_ids": [],
+  "has_tables": false,
+  "table_count": 0,
+  "has_footnotes": false,
+  "footnote_count": 0,
+  "inline_cross_references": [
+    "Guideline E-4</a>",
+    "Guideline E-15"
+  ],
+  "quoted_external_references": [],
+  "raw_html_sha256": "d8c4483cd351b76cb6aec394812b9c571828c60c52fe3e1c842bcf0e780249b1",
+  "raw_pdf_sha256": null,
+  "normalized_text_sha256": null,
+  "raw_html_path": "bronze/osfi/html/final_current/corporate-governance-guideline-2018.html",
+  "normalized_md_path": "silver/osfi/md/final_current/corporate-governance-guideline-2018.md",
+  "canonical_json_path": "silver/osfi/json/final_current/corporate-governance-guideline-2018.json",
+  "content_source": "HTML",
+  "parser_version": "osfi-parser-v2.1.0",
+  "normalizer_version": "osfi-normalizer-v1.4.0",
+  "quality_score": 1.0,
+  "quality_flags": [],
+  "download_timestamp": "2026-03-11T00:00:00Z",
+  "enriched_timestamp": "2026-03-23T09:53:50.886515Z",
+  "sections": [
+    {
+      "heading": "",
+      "heading_level": 2,
+      "full_text": "  - Final Corporate Governance Guideline",
+      "content": [
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Final Corporate Governance Guideline"
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "I. Purpose and Scope of the Guideline",
+      "heading_level": 2,
+      "full_text": "This guideline communicates OSFI's expectations with respect to corporate governance of federally regulated financial institutions (FRFIs). It applies to all FRFIs other than the branch operations of foreign banks and foreign insurance companies. Branches do not have a Board of Directors and, accordingly, this guideline does not apply to branch operations. OSFI looks to Branch Management to oversee operations in Canada, including matters of corporate governance. Branch Management should refer to <a href=\"/node/617\">Guideline E-4</a>, as appropriate.\nOSFI's corporate governance expectations are principles-based and recognize that a FRFI's corporate governance practices may depend on its size; ownership structure; nature, scope and complexity of operations; strategy; and risk profile.\nThis guideline complements:\n  - Relevant provisions of the Bank Act , the Insurance Companies Act , the Trust and Loan Companies Act , the Cooperative Credit Associations Act and associated regulations; and,\n  - OSFI's Supervisory Framework and Assessment Criteria The terms \"Senior Management\" and \"Operational Management\" are used throughout this guideline, and are defined in OSFI's Supervisory Framework. For the purpose of this guideline, however, the Oversight Functions include: Financial; Risk Management; Compliance; Internal Audit; and Actuarial.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "This guideline communicates OSFI's expectations with respect to corporate governance of federally regulated financial institutions (FRFIs). It applies to all FRFIs other than the branch operations of foreign banks and foreign insurance companies. Branches do not have a Board of Directors and, accordingly, this guideline does not apply to branch operations. OSFI looks to Branch Management to oversee operations in Canada, including matters of corporate governance. Branch Management should refer to <a href=\"/node/617\">Guideline E-4</a>, as appropriate."
+        },
+        {
+          "type": "paragraph",
+          "text": "OSFI's corporate governance expectations are principles-based and recognize that a FRFI's corporate governance practices may depend on its size; ownership structure; nature, scope and complexity of operations; strategy; and risk profile."
+        },
+        {
+          "type": "paragraph",
+          "text": "This guideline complements:"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Relevant provisions of the Bank Act , the Insurance Companies Act , the Trust and Loan Companies Act , the Cooperative Credit Associations Act and associated regulations; and,",
+            "OSFI's Supervisory Framework and Assessment Criteria The terms \"Senior Management\" and \"Operational Management\" are used throughout this guideline, and are defined in OSFI's Supervisory Framework. For the purpose of this guideline, however, the Oversight Functions include: Financial; Risk Management; Compliance; Internal Audit; and Actuarial."
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "Corporate Governance for Financial Institutions",
+      "heading_level": 3,
+      "full_text": "Corporate governance is a set of relationships between a company's management, its Board of Directors (Board), its shareholders, and other stakeholders. It also provides the structure through which the objectives of the company are set, and through which the means of attaining those objectives and monitoring performance are determined.\nThe quality of FRFI corporate governance practices is an important factor in maintaining the confidence of depositors and policyholders, as well as overall market confidence. This guideline, therefore, draws attention to specific areas of corporate governance that are especially important for financial institutions (e.g., risk governance), owing to the unique nature and circumstances of financial institutions and risks assumed relative to other corporations. Refer to <a href=\"#toc_AnnA\">Annex A</a> for a description of the special nature of financial institutions.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Corporate governance is a set of relationships between a company's management, its Board of Directors (Board), its shareholders, and other stakeholders. It also provides the structure through which the objectives of the company are set, and through which the means of attaining those objectives and monitoring performance are determined."
+        },
+        {
+          "type": "paragraph",
+          "text": "The quality of FRFI corporate governance practices is an important factor in maintaining the confidence of depositors and policyholders, as well as overall market confidence. This guideline, therefore, draws attention to specific areas of corporate governance that are especially important for financial institutions (e.g., risk governance), owing to the unique nature and circumstances of financial institutions and risks assumed relative to other corporations. Refer to <a href=\"#toc_AnnA\">Annex A</a> for a description of the special nature of financial institutions."
+        }
+      ]
+    },
+    {
+      "heading": "II. The Board of Directors",
+      "heading_level": 2,
+      "full_text": "The Board is responsible for the FRFI's business plan, strategy, and risk appetite and culture. The Board oversees the FRFI's Senior Management and internal controls.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "The Board is responsible for the FRFI's business plan, strategy, and risk appetite and culture. The Board oversees the FRFI's Senior Management and internal controls."
+        }
+      ]
+    },
+    {
+      "heading": "The Role of the Board",
+      "heading_level": 3,
+      "full_text": "In addition to the roles and responsibilities of the Board outlined in federal legislation, the Board should discharge, at a minimum, the following essential duties in relation to the FRFI:",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "In addition to the roles and responsibilities of the Board outlined in federal legislation, the Board should discharge, at a minimum, the following essential duties in relation to the FRFI:"
+        }
+      ]
+    },
+    {
+      "heading": "Strategy",
+      "heading_level": 5,
+      "full_text": "  - Short-term and long-term business plan and strategy;\n  - Significant strategic initiatives (e.g., mergers and acquisitions);",
+      "content": [
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Short-term and long-term business plan and strategy;",
+            "Significant strategic initiatives (e.g., mergers and acquisitions);"
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "Risk Management and Oversight",
+      "heading_level": 5,
+      "full_text": "  - Risk Appetite Framework; Refer to <a href=\"#toc_AnnB\">Annex B</a> for a description of the Risk Appetite Framework.\n  - Internal Control Framework;\n  - Significant policies, plans and strategic initiatives related to the management of, or that materially impact, capital and liquidity (e.g., internal capital targets, share issuance);\n  - Codes of ethics and conduct;",
+      "content": [
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Risk Appetite Framework; Refer to <a href=\"#toc_AnnB\">Annex B</a> for a description of the Risk Appetite Framework.",
+            "Internal Control Framework;",
+            "Significant policies, plans and strategic initiatives related to the management of, or that materially impact, capital and liquidity (e.g., internal capital targets, share issuance);",
+            "Codes of ethics and conduct;"
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "Board, Senior Management and Oversight Functions",
+      "heading_level": 5,
+      "full_text": "  - Appointment, performance review, and compensation of the CEO and other key members of Senior Management, including the heads of the Oversight Functions;\n  - Succession plans with respect to the Board, CEO and other key members of Senior Management, including the heads of the Oversight Functions;\n  - Mandate, resources and budgets for the Oversight Functions;",
+      "content": [
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Appointment, performance review, and compensation of the CEO and other key members of Senior Management, including the heads of the Oversight Functions;",
+            "Succession plans with respect to the Board, CEO and other key members of Senior Management, including the heads of the Oversight Functions;",
+            "Mandate, resources and budgets for the Oversight Functions;"
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "Audit Plans",
+      "heading_level": 5,
+      "full_text": "  - External audit plan, including audit fees and the scope of the audit engagement; and\n  - Internal audit plan.\nThe duties above are the primary responsibilities of the Board, and should be the main focus of the Board's attention and activities. The Board is not responsible for the ongoing and detailed operationalization of its decisions; this is the responsibility of Senior Management.",
+      "content": [
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "External audit plan, including audit fees and the scope of the audit engagement; and",
+            "Internal audit plan."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "The duties above are the primary responsibilities of the Board, and should be the main focus of the Board's attention and activities. The Board is not responsible for the ongoing and detailed operationalization of its decisions; this is the responsibility of Senior Management."
+        }
+      ]
+    },
+    {
+      "heading": "Operational and Business Policies",
+      "heading_level": 5,
+      "full_text": "  - Significant operational, business, risk and crisis management policies of the FRFI, including those in respect of credit, market, operational, insurance, regulatory compliance and strategic risks, and their effectiveness; and\n  - Compensation policy for all human resources that is consistent with the Financial Stability Board (FSB) Principles for Sound Compensation Principles for Sound Compensation Practices , Financial Stability Board (FSB), 2009. ;",
+      "content": [
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Significant operational, business, risk and crisis management policies of the FRFI, including those in respect of credit, market, operational, insurance, regulatory compliance and strategic risks, and their effectiveness; and",
+            "Compensation policy for all human resources that is consistent with the Financial Stability Board (FSB) Principles for Sound Compensation Principles for Sound Compensation Practices , Financial Stability Board (FSB), 2009. ;"
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "Business Performance and Effectiveness of Risk Management",
+      "heading_level": 5,
+      "full_text": "  - Performance of the FRFI relative to the Board-approved business plan and strategy;\n  - Effectiveness of the Risk Appetite Framework;\n  - Effectiveness of the Internal Control Framework;\n  - Effectiveness of the Oversight Functions; and\n  - Effectiveness of significant policies and plans related to management of capital and liquidity (e.g., stress testing, ICAAP/ORSA report).\nThe duties above are the responsibility of Senior Management. The Board has the discretion to decide the extent and nature of its input, and to provide challenge, advice and guidance on these matters and others.\nThe Board should be satisfied that the decisions and actions of Senior Management are consistent with the Board-approved business plan, strategy and risk appetite of the FRFI, and that the corresponding internal controls are sound.",
+      "content": [
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Performance of the FRFI relative to the Board-approved business plan and strategy;",
+            "Effectiveness of the Risk Appetite Framework;",
+            "Effectiveness of the Internal Control Framework;",
+            "Effectiveness of the Oversight Functions; and",
+            "Effectiveness of significant policies and plans related to management of capital and liquidity (e.g., stress testing, ICAAP/ORSA report)."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "The duties above are the responsibility of Senior Management. The Board has the discretion to decide the extent and nature of its input, and to provide challenge, advice and guidance on these matters and others."
+        },
+        {
+          "type": "paragraph",
+          "text": "The Board should be satisfied that the decisions and actions of Senior Management are consistent with the Board-approved business plan, strategy and risk appetite of the FRFI, and that the corresponding internal controls are sound."
+        }
+      ]
+    },
+    {
+      "heading": "The Board and Senior Management",
+      "heading_level": 3,
+      "full_text": "2. Senior Management is responsible for implementing the Board's decisions and directing the operations of the FRFI.\nSenior Management is composed of the Chief Executive Officer (CEO) and individuals who are directly accountable to the CEO. This can include the heads of the Oversight Functions, such as the Chief Financial Officer (CFO), Chief Risk Officer (CRO), Chief Compliance Officer (CCO), Chief Internal Auditor (CIA), and Chief Actuary (CA), as well as the heads of major business platforms or units.\nSenior Management is responsible for implementing the Board's decisions and directing the operations of the FRFI within the authority delegated to them by the Board, and in compliance with applicable laws and regulations.\nIn order to fulfil its responsibilities, the Board relies on Senior Management to provide sound advice on the organizational objectives, plans, strategy, structure and significant policies of the FRFI. Senior Management should set out information, options, potential trade-offs, and recommendations to the Board in a manner that enables the Board to focus on key issues and make informed decisions in a timely manner.\nThe Board should, in turn, understand the decisions, plans and policies being implemented by Senior Management and their potential impact on the FRFI.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "2. Senior Management is responsible for implementing the Board's decisions and directing the operations of the FRFI."
+        },
+        {
+          "type": "paragraph",
+          "text": "Senior Management is composed of the Chief Executive Officer (CEO) and individuals who are directly accountable to the CEO. This can include the heads of the Oversight Functions, such as the Chief Financial Officer (CFO), Chief Risk Officer (CRO), Chief Compliance Officer (CCO), Chief Internal Auditor (CIA), and Chief Actuary (CA), as well as the heads of major business platforms or units."
+        },
+        {
+          "type": "paragraph",
+          "text": "Senior Management is responsible for implementing the Board's decisions and directing the operations of the FRFI within the authority delegated to them by the Board, and in compliance with applicable laws and regulations."
+        },
+        {
+          "type": "paragraph",
+          "text": "In order to fulfil its responsibilities, the Board relies on Senior Management to provide sound advice on the organizational objectives, plans, strategy, structure and significant policies of the FRFI. Senior Management should set out information, options, potential trade-offs, and recommendations to the Board in a manner that enables the Board to focus on key issues and make informed decisions in a timely manner."
+        },
+        {
+          "type": "paragraph",
+          "text": "The Board should, in turn, understand the decisions, plans and policies being implemented by Senior Management and their potential impact on the FRFI."
+        }
+      ]
+    },
+    {
+      "heading": "The Board and the Oversight Functions",
+      "heading_level": 3,
+      "full_text": "The Oversight Functions provide objective assessments to the directors to allow them to fulfill their responsibilities. The Oversight Functions identify, measure, and report on the FRFI's risks, assess the effectiveness of the FRFI's risk management and internal controls, and determine whether the FRFI's operations, results and risk exposures are consistent with the FRFI's risk appetite.\nThe heads of the Oversight Functions should have sufficient stature and authority within the organization, and should be independent from operational management. The heads of the Oversight Functions should have unfettered access and a functional reporting line to the Board or the appropriate Board committee.\nThe Board, with the support of Senior Management, should regularly assess the effectiveness of the FRFI's Oversight Functions.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "The Oversight Functions provide objective assessments to the directors to allow them to fulfill their responsibilities. The Oversight Functions identify, measure, and report on the FRFI's risks, assess the effectiveness of the FRFI's risk management and internal controls, and determine whether the FRFI's operations, results and risk exposures are consistent with the FRFI's risk appetite."
+        },
+        {
+          "type": "paragraph",
+          "text": "The heads of the Oversight Functions should have sufficient stature and authority within the organization, and should be independent from operational management. The heads of the Oversight Functions should have unfettered access and a functional reporting line to the Board or the appropriate Board committee."
+        },
+        {
+          "type": "paragraph",
+          "text": "The Board, with the support of Senior Management, should regularly assess the effectiveness of the FRFI's Oversight Functions."
+        }
+      ]
+    },
+    {
+      "heading": "Boards of Subsidiaries or with FRFI Subsidiaries",
+      "heading_level": 3,
+      "full_text": "A FRFI that is part of a larger corporate group (another FRFI or company in Canada, or another company abroad) may be subject to or may adopt certain policies of the parent. In this situation, the subsidiary Board should be satisfied that these policies are appropriate for the FRFI's business plan, strategy and risk appetite, and comply with specific Canadian regulatory requirements.\nIf the parent is another FRFI, the parent Board should exercise adequate oversight of the activities of the subsidiary FRFI to be satisfied that the parent Board can meet its enterprise-wide oversight responsibilities applicable to FRFIs under this guideline.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "A FRFI that is part of a larger corporate group (another FRFI or company in Canada, or another company abroad) may be subject to or may adopt certain policies of the parent. In this situation, the subsidiary Board should be satisfied that these policies are appropriate for the FRFI's business plan, strategy and risk appetite, and comply with specific Canadian regulatory requirements."
+        },
+        {
+          "type": "paragraph",
+          "text": "If the parent is another FRFI, the parent Board should exercise adequate oversight of the activities of the subsidiary FRFI to be satisfied that the parent Board can meet its enterprise-wide oversight responsibilities applicable to FRFIs under this guideline."
+        }
+      ]
+    },
+    {
+      "heading": "Board Effectiveness",
+      "heading_level": 3,
+      "full_text": "3. An effective Board should be independent and provide objective oversight of, thoughtful guidance, advice and constructive challenge to, Senior Management.\nThe hallmarks of an effective Board include demonstrated sound judgment, initiative, proactiveness, responsiveness and operational excellence. Board members should strive to facilitate open communication, collaboration and appropriate debate in the decision-making process.\nThe Board should regularly assess its practices, and those of the Board committees, and should pursue strategies to enhance its overall effectiveness.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "3. An effective Board should be independent and provide objective oversight of, thoughtful guidance, advice and constructive challenge to, Senior Management."
+        },
+        {
+          "type": "paragraph",
+          "text": "The hallmarks of an effective Board include demonstrated sound judgment, initiative, proactiveness, responsiveness and operational excellence. Board members should strive to facilitate open communication, collaboration and appropriate debate in the decision-making process."
+        },
+        {
+          "type": "paragraph",
+          "text": "The Board should regularly assess its practices, and those of the Board committees, and should pursue strategies to enhance its overall effectiveness."
+        }
+      ]
+    },
+    {
+      "heading": "Board Composition",
+      "heading_level": 4,
+      "full_text": "The Board should be diverse and, collectively, bring a balance of expertise, skills, experience, competencies and perspectives, taking into consideration the FRFI's strategy, risk profile, culture and overall operations. The contributions of individual directors will reflect their particular expertise, skills, experience and competencies.\nRelevant financial industry and risk management expertise are key competencies for the Board. There should be appropriate representation of these skills at the Board and Board committees levels.\nThe Board should have a skills and competency evaluation process that is integrated with the overall Board succession or Board renewal plans, and that pays particular attention to the positions of the Chair of the Board and Chairs of the Board committees. Diversity should also be a factor in these plans.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "The Board should be diverse and, collectively, bring a balance of expertise, skills, experience, competencies and perspectives, taking into consideration the FRFI's strategy, risk profile, culture and overall operations. The contributions of individual directors will reflect their particular expertise, skills, experience and competencies."
+        },
+        {
+          "type": "paragraph",
+          "text": "Relevant financial industry and risk management expertise are key competencies for the Board. There should be appropriate representation of these skills at the Board and Board committees levels."
+        },
+        {
+          "type": "paragraph",
+          "text": "The Board should have a skills and competency evaluation process that is integrated with the overall Board succession or Board renewal plans, and that pays particular attention to the positions of the Chair of the Board and Chairs of the Board committees. Diversity should also be a factor in these plans."
+        }
+      ]
+    },
+    {
+      "heading": "Board Independence",
+      "heading_level": 4,
+      "full_text": "The Board, collectively, should be independent from Senior Management and the operations of the FRFI. The notion of \"independent\", as it applies in this guideline, is much broader than the notion of \"non-affiliated\", as defined in the federal financial institution statutes. It has been described and elaborated upon in various legal and international documents (e.g., securities law, international standards, and reports). Achieving independence can involve various Board structures and processes. Regardless of the approach, in all situations, OSFI views the separation of the Chair and CEO as critical (see next section). It is important that the Board's behaviour and decision-making processes are independent, objective and effective, taking into account the particular circumstances of the FRFI.\nThe Board's ability to act independently of Senior Management can be demonstrated through practices such as regularly scheduled Board and Board committee meetings that include sessions without Senior Management present.\nTo promote independence of thinking, the Board should have a director independence policy that considers, among other factors, the specific shareholder/ownership structure of the FRFI and director tenure. The recruitment process for new directors and the development of a director profile (both responsibilities of the Board) should emphasize the independence of Board members from Senior Management.\nBoard and Board Committee Chairs\n4. The role of the Board Chair should be separate from the CEO, as this is critical in maintaining the Board's independence and its ability to execute its mandate effectively.\nEffective Boards and Board committees require a Chair that is experienced, skillful and exhibits leadership that encourages open discussion and appropriate debate.\nThe Chair of the Board and the chairs of Board committees should have frequent dialogue with, and a strong level of influence among, other Board members and Senior Management, as well as access to all FRFI information and staff. Given the critical nature of the role, the Chair should also foster direct and on-going dialogue with regulators.\nBoard and Board committee chairs should be independent, non-executive A non-executive director is a member of the Board who does not have management responsibilities within the FRFI. directors.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "The Board, collectively, should be independent from Senior Management and the operations of the FRFI. The notion of \"independent\", as it applies in this guideline, is much broader than the notion of \"non-affiliated\", as defined in the federal financial institution statutes. It has been described and elaborated upon in various legal and international documents (e.g., securities law, international standards, and reports). Achieving independence can involve various Board structures and processes. Regardless of the approach, in all situations, OSFI views the separation of the Chair and CEO as critical (see next section). It is important that the Board's behaviour and decision-making processes are independent, objective and effective, taking into account the particular circumstances of the FRFI."
+        },
+        {
+          "type": "paragraph",
+          "text": "The Board's ability to act independently of Senior Management can be demonstrated through practices such as regularly scheduled Board and Board committee meetings that include sessions without Senior Management present."
+        },
+        {
+          "type": "paragraph",
+          "text": "To promote independence of thinking, the Board should have a director independence policy that considers, among other factors, the specific shareholder/ownership structure of the FRFI and director tenure. The recruitment process for new directors and the development of a director profile (both responsibilities of the Board) should emphasize the independence of Board members from Senior Management."
+        },
+        {
+          "type": "paragraph",
+          "text": "Board and Board Committee Chairs"
+        },
+        {
+          "type": "paragraph",
+          "text": "4. The role of the Board Chair should be separate from the CEO, as this is critical in maintaining the Board's independence and its ability to execute its mandate effectively."
+        },
+        {
+          "type": "paragraph",
+          "text": "Effective Boards and Board committees require a Chair that is experienced, skillful and exhibits leadership that encourages open discussion and appropriate debate."
+        },
+        {
+          "type": "paragraph",
+          "text": "The Chair of the Board and the chairs of Board committees should have frequent dialogue with, and a strong level of influence among, other Board members and Senior Management, as well as access to all FRFI information and staff. Given the critical nature of the role, the Chair should also foster direct and on-going dialogue with regulators."
+        },
+        {
+          "type": "paragraph",
+          "text": "Board and Board committee chairs should be independent, non-executive A non-executive director is a member of the Board who does not have management responsibilities within the FRFI. directors."
+        }
+      ]
+    },
+    {
+      "heading": "III. Risk Governance",
+      "heading_level": 2,
+      "full_text": "5. Consistent with their specific roles and responsibilities and through their behaviours, actions and words, the Board and Senior Management should promote a risk culture that stresses integrity and effective risk management throughout the FRFI.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "5. Consistent with their specific roles and responsibilities and through their behaviours, actions and words, the Board and Senior Management should promote a risk culture that stresses integrity and effective risk management throughout the FRFI."
+        }
+      ]
+    },
+    {
+      "heading": "General",
+      "heading_level": 3,
+      "full_text": "Risk taking is a necessary part of a FRFI's business. Accordingly, business strategies incorporate decisions regarding the risks the FRFI is willing to undertake and how it will manage and mitigate those risks.\nRisk governance is a distinct and crucial element of the FRFI's corporate governance. Risks may arise from direct exposures taken by the FRFI, subsidiaries, affiliates or counterparties, or indirectly through activities that create risks to the FRFI's reputation. FRFIs should be in a position to identify the significant risks they face, assess their potential impact and have policies and controls in place to manage them effectively.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Risk taking is a necessary part of a FRFI's business. Accordingly, business strategies incorporate decisions regarding the risks the FRFI is willing to undertake and how it will manage and mitigate those risks."
+        },
+        {
+          "type": "paragraph",
+          "text": "Risk governance is a distinct and crucial element of the FRFI's corporate governance. Risks may arise from direct exposures taken by the FRFI, subsidiaries, affiliates or counterparties, or indirectly through activities that create risks to the FRFI's reputation. FRFIs should be in a position to identify the significant risks they face, assess their potential impact and have policies and controls in place to manage them effectively."
+        }
+      ]
+    },
+    {
+      "heading": "Risk Appetite Framework",
+      "heading_level": 3,
+      "full_text": "6. The FRFI should have a Risk Appetite Framework that guides the risk-taking activities of the FRFI.\nThe FRFI should develop a Risk Appetite Framework that takes into account its risk profile. It should be enterprise-wide and tailored to the FRFI's domestic and international business activities and operations. On an on-going basis, the FRFI should be satisfied that the Risk Appetite Framework remains appropriate relative to the risk profile of the FRFI, its long-term strategic plan and its operating environment.\nThe Risk Appetite Framework should set basic goals, benchmarks, parameters and limits (e.g., level of losses) as to the amount of risk the FRFI is willing to accept, taking into account various financial, operational and macroeconomic factors. It should consider the material risks to the FRFI, as well as the institution's reputation vis-à-vis policyholders, depositors, investors and customers.\nThe Risk Appetite Framework should be forward-looking and consistent with the FRFI's business model, overall philosophy, short-term and long-term strategy and corresponding risk mitigation. It is intended to provide boundaries on the on-going operations of the FRFI with respect to asset class and liability choices, activities and participation in markets that are not consistent with the stated risk appetite of the institution. Refer to <a href=\"#toc_AnnB\">Annex B </a>for further details.\nThe establishment of controls and a process to ensure their effectiveness are critical elements of the Risk Appetite Framework, as they help to ensure that the FRFI stays within the risk boundaries set by the Board.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "6. The FRFI should have a Risk Appetite Framework that guides the risk-taking activities of the FRFI."
+        },
+        {
+          "type": "paragraph",
+          "text": "The FRFI should develop a Risk Appetite Framework that takes into account its risk profile. It should be enterprise-wide and tailored to the FRFI's domestic and international business activities and operations. On an on-going basis, the FRFI should be satisfied that the Risk Appetite Framework remains appropriate relative to the risk profile of the FRFI, its long-term strategic plan and its operating environment."
+        },
+        {
+          "type": "paragraph",
+          "text": "The Risk Appetite Framework should set basic goals, benchmarks, parameters and limits (e.g., level of losses) as to the amount of risk the FRFI is willing to accept, taking into account various financial, operational and macroeconomic factors. It should consider the material risks to the FRFI, as well as the institution's reputation vis-à-vis policyholders, depositors, investors and customers."
+        },
+        {
+          "type": "paragraph",
+          "text": "The Risk Appetite Framework should be forward-looking and consistent with the FRFI's business model, overall philosophy, short-term and long-term strategy and corresponding risk mitigation. It is intended to provide boundaries on the on-going operations of the FRFI with respect to asset class and liability choices, activities and participation in markets that are not consistent with the stated risk appetite of the institution. Refer to <a href=\"#toc_AnnB\">Annex B </a>for further details."
+        },
+        {
+          "type": "paragraph",
+          "text": "The establishment of controls and a process to ensure their effectiveness are critical elements of the Risk Appetite Framework, as they help to ensure that the FRFI stays within the risk boundaries set by the Board."
+        }
+      ]
+    },
+    {
+      "heading": "Oversight of Risk",
+      "heading_level": 3,
+      "full_text": "Risk management systems and practices will differ, depending on the scope and size of the FRFI and the nature of its risk exposures. To manage risks effectively, the Board and Senior Management must understand the risks attendant to the FRFI's business model, including each business line and product, and how they relate to the FRFI's strategy and Risk Appetite Framework.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Risk management systems and practices will differ, depending on the scope and size of the FRFI and the nature of its risk exposures. To manage risks effectively, the Board and Senior Management must understand the risks attendant to the FRFI's business model, including each business line and product, and how they relate to the FRFI's strategy and Risk Appetite Framework."
+        }
+      ]
+    },
+    {
+      "heading": "Board Risk Committee",
+      "heading_level": 4,
+      "full_text": "7. The Board should establish a Board Risk Committee For small, less complex FRFIs, in place of establishing a separate Risk Committee, the Board should be satisfied that it has the collective skills, time and information (i.e., appropriate reporting) to provide effective oversight of risk management on an enterprise-wide basis. to oversee risk management on an enterprise-wide basis.\nGuided by the FRFI's Risk Appetite Framework, the Risk Committee should have an understanding of the types of risks to which the FRFI may be exposed, and the techniques and systems used to identify, measure, monitor, report on and mitigate those risks.\nThe Risk Committee should have a clear mandate. All Committee members, including the Chair, should be non-executives of the FRFI.\nAs part of its duty to oversee risk management of the FRFI, the Risk Committee should seek assurances from the CRO (or equivalent) that the risk management function of the FRFI is independent from operational management, is adequately resourced, and has appropriate status and visibility throughout the organization.\nThe Risk Committee should receive timely and accurate reports on significant risks of the FRFI and exposures relative to the FRFI's risk appetite (including approved risk limits). It should provide input on material changes to the FRFI's strategy and corresponding risk appetite. As well, the Risk Committee should be satisfied with the manner in which material exceptions to risk policies and controls are identified, measured, monitored, and controlled, as well as how exceptions/breaches are addressed.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "7. The Board should establish a Board Risk Committee For small, less complex FRFIs, in place of establishing a separate Risk Committee, the Board should be satisfied that it has the collective skills, time and information (i.e., appropriate reporting) to provide effective oversight of risk management on an enterprise-wide basis. to oversee risk management on an enterprise-wide basis."
+        },
+        {
+          "type": "paragraph",
+          "text": "Guided by the FRFI's Risk Appetite Framework, the Risk Committee should have an understanding of the types of risks to which the FRFI may be exposed, and the techniques and systems used to identify, measure, monitor, report on and mitigate those risks."
+        },
+        {
+          "type": "paragraph",
+          "text": "The Risk Committee should have a clear mandate. All Committee members, including the Chair, should be non-executives of the FRFI."
+        },
+        {
+          "type": "paragraph",
+          "text": "As part of its duty to oversee risk management of the FRFI, the Risk Committee should seek assurances from the CRO (or equivalent) that the risk management function of the FRFI is independent from operational management, is adequately resourced, and has appropriate status and visibility throughout the organization."
+        },
+        {
+          "type": "paragraph",
+          "text": "The Risk Committee should receive timely and accurate reports on significant risks of the FRFI and exposures relative to the FRFI's risk appetite (including approved risk limits). It should provide input on material changes to the FRFI's strategy and corresponding risk appetite. As well, the Risk Committee should be satisfied with the manner in which material exceptions to risk policies and controls are identified, measured, monitored, and controlled, as well as how exceptions/breaches are addressed."
+        }
+      ]
+    },
+    {
+      "heading": "Chief Risk Officer",
+      "heading_level": 4,
+      "full_text": "8. The FRFI should have a senior officer (CRO or equivalent For small, less complex FRFIs, the CRO role can be held by another executive of the FRFI (i.e., the executive has dual roles). Some FRFIs may not have a CRO position per se , but nonetheless can clearly identify an individual within the FRFI that is accountable to the Board and Senior Management for the same functions. In these cases, the dual role must not compromise the independence required of the CRO. ) who is responsible for the oversight of all risks across the firm.\nThe CRO is the head of the FRFI's risk management function. The CRO and the risk management function are responsible for identifying, measuring, monitoring and reporting on the risks of the FRFI on an enterprise-wide and disaggregated level, independently of the business lines or operational management.\nThe CRO should have sufficient stature and authority within the organization, and should be independent from operational management. The CRO should have unfettered access and a functional reporting line to the Board or the Risk Committee.\nThe CRO and risk management function should not be directly involved in revenue-generation or the management and financial performance of any business line or product of the FRFI. As well, the CRO's compensation should not be linked to the performance (e.g., revenue generation) of specific business lines of the FRFI.\nWhile the CRO and the risk management function should influence the FRFI's risk-taking activities (e.g., to ensure that the FRFI's strategy or business initiative is operating within the stated risk appetite of the FRFI), the on-going assessment of risk-taking activities by the CRO and risk management function should remain objective.\nThe CRO should provide regular reports to the Board, the Risk Committee and Senior Management in a manner and format that allows them to understand the risks being assumed by the FRFI. The CRO should provide an objective view to the Risk Committee or the Board, as appropriate, on whether the FRFI is operating within the Risk Appetite Framework. The CRO should meet with the Risk Committee or the Board on a regular basis, with and without the CEO or other members of Senior Management present.\nThe CRO and risk management function should have processes and controls in place to assess the accuracy of any risk information or analysis provided by business lines in order to provide objective reporting to the Board, the Risk Committee and Senior Management.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "8. The FRFI should have a senior officer (CRO or equivalent For small, less complex FRFIs, the CRO role can be held by another executive of the FRFI (i.e., the executive has dual roles). Some FRFIs may not have a CRO position per se , but nonetheless can clearly identify an individual within the FRFI that is accountable to the Board and Senior Management for the same functions. In these cases, the dual role must not compromise the independence required of the CRO. ) who is responsible for the oversight of all risks across the firm."
+        },
+        {
+          "type": "paragraph",
+          "text": "The CRO is the head of the FRFI's risk management function. The CRO and the risk management function are responsible for identifying, measuring, monitoring and reporting on the risks of the FRFI on an enterprise-wide and disaggregated level, independently of the business lines or operational management."
+        },
+        {
+          "type": "paragraph",
+          "text": "The CRO should have sufficient stature and authority within the organization, and should be independent from operational management. The CRO should have unfettered access and a functional reporting line to the Board or the Risk Committee."
+        },
+        {
+          "type": "paragraph",
+          "text": "The CRO and risk management function should not be directly involved in revenue-generation or the management and financial performance of any business line or product of the FRFI. As well, the CRO's compensation should not be linked to the performance (e.g., revenue generation) of specific business lines of the FRFI."
+        },
+        {
+          "type": "paragraph",
+          "text": "While the CRO and the risk management function should influence the FRFI's risk-taking activities (e.g., to ensure that the FRFI's strategy or business initiative is operating within the stated risk appetite of the FRFI), the on-going assessment of risk-taking activities by the CRO and risk management function should remain objective."
+        },
+        {
+          "type": "paragraph",
+          "text": "The CRO should provide regular reports to the Board, the Risk Committee and Senior Management in a manner and format that allows them to understand the risks being assumed by the FRFI. The CRO should provide an objective view to the Risk Committee or the Board, as appropriate, on whether the FRFI is operating within the Risk Appetite Framework. The CRO should meet with the Risk Committee or the Board on a regular basis, with and without the CEO or other members of Senior Management present."
+        },
+        {
+          "type": "paragraph",
+          "text": "The CRO and risk management function should have processes and controls in place to assess the accuracy of any risk information or analysis provided by business lines in order to provide objective reporting to the Board, the Risk Committee and Senior Management."
+        }
+      ]
+    },
+    {
+      "heading": "IV. The Role of the Audit Committee",
+      "heading_level": 2,
+      "full_text": "Federal legislation requires that each FRFI establish an Audit Committee comprised of non-employee directors, a majority of whom are not \"affiliated\" with the institution. As defined in the federal legislation and the Affiliated Persons Regulations associated with each financial institution's governing statute.\nThe statutory duties of the Audit Committee, as described in federal legislation, include reviewing the annual statements of the FRFI, evaluating and approving internal control procedures for the institution, and meeting with the Chief Internal Auditor and/or the Appointed Actuary The role of the Appointed Actuary is outlined in OSFI's Guideline E-15, <cite> <a href=\"/node/604\">Appointed Actuary: Legal Requirements, Qualifications and Peer Review</a>. to discuss the effectiveness of the institution's internal controls and the adequacy of practices for reporting and determining financial reserves. FRFIs should ensure that they are in compliance with the relevant securities requirements in respect of the Audit Committee in the relevant jurisdictions.\nThe Audit Committee should approve the FRFI's audit plans (internal and external). Audit plans should be risk-based and address all the relevant activities over a measurable cycle. Where part or all of the internal audit function is outsourced, the Audit Committee should still be responsible for overseeing the performance of the FRFI's internal audit function as a whole.\nThe Audit Committee, not Senior Management, should recommend to the shareholders the appointment and removal of the external auditor. It should also agree to the scope and terms of the audit engagement, and review and recommend for approval by the Board the engagement letter and remuneration of the external auditor. Annually, the Audit Committee should report to the Board on the effectiveness of the external auditor.\nThe Audit Committee should discuss with Senior Management and the external auditor the overall results of the audit, the annual and quarterly financial statements and related documents, the audit report, the quality of the financial statements and any related concerns raised by the external auditor.\nThe Audit Committee should be satisfied that the financial statements present fairly the financial position, the results of operations and the cash flows of the FRFI. The Audit Committee should meet with the external auditor, the CIA and other heads of the Oversight Functions, as appropriate, with and without the CEO or other members of Senior Management present.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Federal legislation requires that each FRFI establish an Audit Committee comprised of non-employee directors, a majority of whom are not \"affiliated\" with the institution. As defined in the federal legislation and the Affiliated Persons Regulations associated with each financial institution's governing statute."
+        },
+        {
+          "type": "paragraph",
+          "text": "The statutory duties of the Audit Committee, as described in federal legislation, include reviewing the annual statements of the FRFI, evaluating and approving internal control procedures for the institution, and meeting with the Chief Internal Auditor and/or the Appointed Actuary The role of the Appointed Actuary is outlined in OSFI's Guideline E-15, <cite> <a href=\"/node/604\">Appointed Actuary: Legal Requirements, Qualifications and Peer Review</a>. to discuss the effectiveness of the institution's internal controls and the adequacy of practices for reporting and determining financial reserves. FRFIs should ensure that they are in compliance with the relevant securities requirements in respect of the Audit Committee in the relevant jurisdictions."
+        },
+        {
+          "type": "paragraph",
+          "text": "The Audit Committee should approve the FRFI's audit plans (internal and external). Audit plans should be risk-based and address all the relevant activities over a measurable cycle. Where part or all of the internal audit function is outsourced, the Audit Committee should still be responsible for overseeing the performance of the FRFI's internal audit function as a whole."
+        },
+        {
+          "type": "paragraph",
+          "text": "The Audit Committee, not Senior Management, should recommend to the shareholders the appointment and removal of the external auditor. It should also agree to the scope and terms of the audit engagement, and review and recommend for approval by the Board the engagement letter and remuneration of the external auditor. Annually, the Audit Committee should report to the Board on the effectiveness of the external auditor."
+        },
+        {
+          "type": "paragraph",
+          "text": "The Audit Committee should discuss with Senior Management and the external auditor the overall results of the audit, the annual and quarterly financial statements and related documents, the audit report, the quality of the financial statements and any related concerns raised by the external auditor."
+        },
+        {
+          "type": "paragraph",
+          "text": "The Audit Committee should be satisfied that the financial statements present fairly the financial position, the results of operations and the cash flows of the FRFI. The Audit Committee should meet with the external auditor, the CIA and other heads of the Oversight Functions, as appropriate, with and without the CEO or other members of Senior Management present."
+        }
+      ]
+    },
+    {
+      "heading": "The Role of Corporate Governance in OSFI's Supervisory Process",
+      "heading_level": 3,
+      "full_text": "Effective corporate governance is an essential element in the safe and sound functioning of FRFIs. The Board and Senior Management are designated as key Oversight Functions in OSFI's Supervisory Framework .\nEffective oversight of the business and affairs of an institution by its Board and Senior Management is essential to the maintenance of an efficient and cost-effective supervisory system. It helps protect depositors and policyholders, and allows OSFI to use the work of the FRFI's internal processes and functions, thereby reducing the amount of supervisory resources needed for OSFI to meet its mandate.\nIn addition, in situations where a FRFI is experiencing problems, or where significant corrective action is necessary, the important role of the Board is heightened and OSFI requires significant Board involvement in seeking solutions and overseeing the implementation of corrective actions.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Effective corporate governance is an essential element in the safe and sound functioning of FRFIs. The Board and Senior Management are designated as key Oversight Functions in OSFI's Supervisory Framework ."
+        },
+        {
+          "type": "paragraph",
+          "text": "Effective oversight of the business and affairs of an institution by its Board and Senior Management is essential to the maintenance of an efficient and cost-effective supervisory system. It helps protect depositors and policyholders, and allows OSFI to use the work of the FRFI's internal processes and functions, thereby reducing the amount of supervisory resources needed for OSFI to meet its mandate."
+        },
+        {
+          "type": "paragraph",
+          "text": "In addition, in situations where a FRFI is experiencing problems, or where significant corrective action is necessary, the important role of the Board is heightened and OSFI requires significant Board involvement in seeking solutions and overseeing the implementation of corrective actions."
+        }
+      ]
+    },
+    {
+      "heading": "OSFI's Supervisory Assessment",
+      "heading_level": 3,
+      "full_text": "OSFI supervises FRFIs to assess their financial condition and monitor compliance with the applicable federal legislation. Supervision is carried out within a framework that is risk-focused. Refer to OSFI's Supervisory Framework . OSFI has developed a comprehensive set of assessment criteria, key among which is the quality of oversight and control provided by the Board and Senior Management.\nOSFI conducts supervisory work and monitors the performance of FRFIs to assess safety and soundness, the quality of control and governance, and regulatory compliance. The Board and Senior Management are ultimately accountable for the safety and soundness of the FRFI, as well as its compliance with federal legislation. As such, OSFI's reports and findings can provide useful input to the Board's own oversight of the FRFI. Open communication between the Board and regulators helps promote the mutual trust and confidence essential to the efficiency of OSFI's principles-based approach to supervision. Accordingly, OSFI expects to be promptly notified of substantive issues affecting the FRFI.\nThe Board should understand the regulatory environment within which the FRFI and its subsidiaries operate. It should be informed of the results of supervisory work by OSFI and other regulators, and should follow-up with Senior Management accordingly.\nThe Board should consider regulatory findings in its on-going evaluation of Senior Management and oversight function performance, recognizing that primary responsibility for identifying weaknesses rests with the Board and Senior Management.\nOSFI will undertake a number of approaches, including discussions with the Board, Board committees, Senior Management and Oversight Functions, as well as the review of Board and Board committee material, in order to assess the effectiveness of the FRFI's corporate governance. OSFI will look to gain insight into the discussions and deliberations at the Board and Committee level, including those with and without Senior Management. This may include understanding the Board's behaviour and assessing the objectivity, degree of challenge and independence in the decision making process.\nWhere separate Oversight Functions do not exist, OSFI will look to other functions, processes or controls to assess the independent oversight provided.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "OSFI supervises FRFIs to assess their financial condition and monitor compliance with the applicable federal legislation. Supervision is carried out within a framework that is risk-focused. Refer to OSFI's Supervisory Framework . OSFI has developed a comprehensive set of assessment criteria, key among which is the quality of oversight and control provided by the Board and Senior Management."
+        },
+        {
+          "type": "paragraph",
+          "text": "OSFI conducts supervisory work and monitors the performance of FRFIs to assess safety and soundness, the quality of control and governance, and regulatory compliance. The Board and Senior Management are ultimately accountable for the safety and soundness of the FRFI, as well as its compliance with federal legislation. As such, OSFI's reports and findings can provide useful input to the Board's own oversight of the FRFI. Open communication between the Board and regulators helps promote the mutual trust and confidence essential to the efficiency of OSFI's principles-based approach to supervision. Accordingly, OSFI expects to be promptly notified of substantive issues affecting the FRFI."
+        },
+        {
+          "type": "paragraph",
+          "text": "The Board should understand the regulatory environment within which the FRFI and its subsidiaries operate. It should be informed of the results of supervisory work by OSFI and other regulators, and should follow-up with Senior Management accordingly."
+        },
+        {
+          "type": "paragraph",
+          "text": "The Board should consider regulatory findings in its on-going evaluation of Senior Management and oversight function performance, recognizing that primary responsibility for identifying weaknesses rests with the Board and Senior Management."
+        },
+        {
+          "type": "paragraph",
+          "text": "OSFI will undertake a number of approaches, including discussions with the Board, Board committees, Senior Management and Oversight Functions, as well as the review of Board and Board committee material, in order to assess the effectiveness of the FRFI's corporate governance. OSFI will look to gain insight into the discussions and deliberations at the Board and Committee level, including those with and without Senior Management. This may include understanding the Board's behaviour and assessing the objectivity, degree of challenge and independence in the decision making process."
+        },
+        {
+          "type": "paragraph",
+          "text": "Where separate Oversight Functions do not exist, OSFI will look to other functions, processes or controls to assess the independent oversight provided."
+        }
+      ]
+    },
+    {
+      "heading": "Changes to the Board or Senior Management",
+      "heading_level": 3,
+      "full_text": "OSFI recognizes that FRFIs make independent decisions regarding the nomination of Board members or appointment of Senior Management in the course of conducting their day-to-day business.\nAs part of OSFI's on-going supervisory process, however, FRFIs should notify OSFI, as early as possible in the process, of any potential changes to the membership of the Board and Senior Management, and any circumstances that may adversely affect the suitability of Board members and Senior Management.\nThe process and criteria used by the FRFI in the selection process for Board and/or Senior Management members should be transparent to OSFI. Information regarding the qualifications of candidates of the Board and Senior Management should be provided to OSFI.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "OSFI recognizes that FRFIs make independent decisions regarding the nomination of Board members or appointment of Senior Management in the course of conducting their day-to-day business."
+        },
+        {
+          "type": "paragraph",
+          "text": "As part of OSFI's on-going supervisory process, however, FRFIs should notify OSFI, as early as possible in the process, of any potential changes to the membership of the Board and Senior Management, and any circumstances that may adversely affect the suitability of Board members and Senior Management."
+        },
+        {
+          "type": "paragraph",
+          "text": "The process and criteria used by the FRFI in the selection process for Board and/or Senior Management members should be transparent to OSFI. Information regarding the qualifications of candidates of the Board and Senior Management should be provided to OSFI."
+        }
+      ]
+    },
+    {
+      "heading": "Annex A – The Special Nature of Financial Institutions",
+      "heading_level": 2,
+      "full_text": "A number of factors set financial institutions apart from other business firms, and has led them to be subject to generally higher levels of regulation, including:\n  - The effectiveness of the economy depends significantly on how well its financial services sector functions. Relative to non-financial businesses, the failure of a financial institution can have a greater impact on members of the public who may have placed a substantial portion of their life savings with the institution and who may be relying on that institution for day-to-day financial needs. There is also potential in some circumstances for system-wide impacts from failures or material impacts in selected markets, given the interconnectedness of the financial system. Safety and soundness concerns are, therefore, of particular importance for financial institutions.\n  - Financial institutions may have high ratios of debt-to-equity (leverage), making them more vulnerable to unexpected adverse events.\n  - Financial institutions can experience severe liquidity problems if their customers or counterparties lose confidence in their safety and soundness.\n  - Financial institutions may accept funds from the public and often deal in long-term financial commitments, which are predicated on a high degree of confidence in the long-term stability and soundness of the institutions making these commitments.\n  - The value of many financial institutions' assets and liabilities can be volatile and may be difficult to price accurately. Similarly, financial institutions may issue and trade in complex financial instruments, which can be difficult to evaluate properly and can materially and rapidly affect the risk profile of an institution.\n  - Financial institutions can have large mismatches between the term of their assets and liabilities. This can result in material funding or investment risks.\nThese characteristics create unique challenges for the governance of financial institutions and underscore the importance of effective risk management systems and rigorous internal controls. They point to the need for knowledgeable, independent oversight exercised by or on behalf of the Board, along with the additional assurance of regulatory oversight, to provide assurance to markets on the reliability of reporting and disclosure. Also, as a consequence of being a regulated industry, the governance processes of financial institutions are subject to review and may be influenced by the views of OSFI and other regulatory bodies.\nFinally, many financial institutions have complex organizational structures with a large number of entities (some of which may not be regulated) used to deliver different financial products and services. For these organizations, the relationship between the parent company and its subsidiaries merits special consideration and the effective governance of subsidiaries should be a high priority for the Board and Senior Management.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "A number of factors set financial institutions apart from other business firms, and has led them to be subject to generally higher levels of regulation, including:"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "The effectiveness of the economy depends significantly on how well its financial services sector functions. Relative to non-financial businesses, the failure of a financial institution can have a greater impact on members of the public who may have placed a substantial portion of their life savings with the institution and who may be relying on that institution for day-to-day financial needs. There is also potential in some circumstances for system-wide impacts from failures or material impacts in selected markets, given the interconnectedness of the financial system. Safety and soundness concerns are, therefore, of particular importance for financial institutions.",
+            "Financial institutions may have high ratios of debt-to-equity (leverage), making them more vulnerable to unexpected adverse events.",
+            "Financial institutions can experience severe liquidity problems if their customers or counterparties lose confidence in their safety and soundness.",
+            "Financial institutions may accept funds from the public and often deal in long-term financial commitments, which are predicated on a high degree of confidence in the long-term stability and soundness of the institutions making these commitments.",
+            "The value of many financial institutions' assets and liabilities can be volatile and may be difficult to price accurately. Similarly, financial institutions may issue and trade in complex financial instruments, which can be difficult to evaluate properly and can materially and rapidly affect the risk profile of an institution.",
+            "Financial institutions can have large mismatches between the term of their assets and liabilities. This can result in material funding or investment risks."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "These characteristics create unique challenges for the governance of financial institutions and underscore the importance of effective risk management systems and rigorous internal controls. They point to the need for knowledgeable, independent oversight exercised by or on behalf of the Board, along with the additional assurance of regulatory oversight, to provide assurance to markets on the reliability of reporting and disclosure. Also, as a consequence of being a regulated industry, the governance processes of financial institutions are subject to review and may be influenced by the views of OSFI and other regulatory bodies."
+        },
+        {
+          "type": "paragraph",
+          "text": "Finally, many financial institutions have complex organizational structures with a large number of entities (some of which may not be regulated) used to deliver different financial products and services. For these organizations, the relationship between the parent company and its subsidiaries merits special consideration and the effective governance of subsidiaries should be a high priority for the Board and Senior Management."
+        }
+      ]
+    },
+    {
+      "heading": "Annex B – Risk Appetite Framework",
+      "heading_level": 2,
+      "full_text": "The Risk Appetite Framework should contain a risk appetite statement and risk limits, as well as an outline of the roles and responsibilities of those overseeing the implementation of the Risk Appetite Framework. The Risk Appetite Framework is an integral part of the FRFI's overall enterprise-risk management framework.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "The Risk Appetite Framework should contain a risk appetite statement and risk limits, as well as an outline of the roles and responsibilities of those overseeing the implementation of the Risk Appetite Framework. The Risk Appetite Framework is an integral part of the FRFI's overall enterprise-risk management framework."
+        }
+      ]
+    },
+    {
+      "heading": "Risk Appetite Statement",
+      "heading_level": 3,
+      "full_text": "The risk appetite statement reflects the aggregate level and type of risk that the FRFI is willing to accept in order to achieve its business objectives. Key features of the risk appetite statement are:\n  - It should be linked to the FRFI's short-term and long-term strategic, capital and financial plans, as well as compensation programs.\n  - It includes qualitative and quantitative measures that can be aggregated and disaggregated. Qualitative measure may include: Significant risks the FRFI wants to take and why; Significant risks the FRFI wants to avoid and why; Attitude towards regulatory compliance; and Underlying assumptions and risks. Quantitative measures may include: Measures of loss or negative events (such as earnings, capital or liquidity, earnings per share at risk or volatility) that the FRFI is willing to accept.\n  - It should be forward-looking.\n  - It should consider normal and stressed scenarios.\n  - It should aim to be within the FRFI's risk capacity (i.e., regulatory constraints).\n  - Qualitative measure may include: Significant risks the FRFI wants to take and why; Significant risks the FRFI wants to avoid and why; Attitude towards regulatory compliance; and Underlying assumptions and risks.\n  - Quantitative measures may include: Measures of loss or negative events (such as earnings, capital or liquidity, earnings per share at risk or volatility) that the FRFI is willing to accept.\n  - Significant risks the FRFI wants to take and why;\n  - Significant risks the FRFI wants to avoid and why;\n  - Attitude towards regulatory compliance; and\n  - Underlying assumptions and risks.\n  - Measures of loss or negative events (such as earnings, capital or liquidity, earnings per share at risk or volatility) that the FRFI is willing to accept.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "The risk appetite statement reflects the aggregate level and type of risk that the FRFI is willing to accept in order to achieve its business objectives. Key features of the risk appetite statement are:"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "It should be linked to the FRFI's short-term and long-term strategic, capital and financial plans, as well as compensation programs.",
+            "It includes qualitative and quantitative measures that can be aggregated and disaggregated. Qualitative measure may include: Significant risks the FRFI wants to take and why; Significant risks the FRFI wants to avoid and why; Attitude towards regulatory compliance; and Underlying assumptions and risks. Quantitative measures may include: Measures of loss or negative events (such as earnings, capital or liquidity, earnings per share at risk or volatility) that the FRFI is willing to accept.",
+            "It should be forward-looking.",
+            "It should consider normal and stressed scenarios.",
+            "It should aim to be within the FRFI's risk capacity (i.e., regulatory constraints)."
+          ]
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Qualitative measure may include: Significant risks the FRFI wants to take and why; Significant risks the FRFI wants to avoid and why; Attitude towards regulatory compliance; and Underlying assumptions and risks.",
+            "Quantitative measures may include: Measures of loss or negative events (such as earnings, capital or liquidity, earnings per share at risk or volatility) that the FRFI is willing to accept."
+          ]
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Significant risks the FRFI wants to take and why;",
+            "Significant risks the FRFI wants to avoid and why;",
+            "Attitude towards regulatory compliance; and",
+            "Underlying assumptions and risks."
+          ]
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Measures of loss or negative events (such as earnings, capital or liquidity, earnings per share at risk or volatility) that the FRFI is willing to accept."
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "Risk Limits",
+      "heading_level": 3,
+      "full_text": "Risk limits are the allocation of the FRFI's risk appetite statement to:\n  - Specific risk categories (e.g., credit, market, insurance, liquidity, operational);\n  - The business unit or platform level (e.g., retail, capital markets);\n  - Lines of business or product level (e.g., concentration limits); and\n  - More granular levels, as appropriate.\nRisk limits are often expressed in quantitative terms, and are specific, measurable, frequency-based and reportable.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Risk limits are the allocation of the FRFI's risk appetite statement to:"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Specific risk categories (e.g., credit, market, insurance, liquidity, operational);",
+            "The business unit or platform level (e.g., retail, capital markets);",
+            "Lines of business or product level (e.g., concentration limits); and",
+            "More granular levels, as appropriate."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Risk limits are often expressed in quantitative terms, and are specific, measurable, frequency-based and reportable."
+        }
+      ]
+    },
+    {
+      "heading": "Implementation of the Risk Appetite Framework",
+      "heading_level": 3,
+      "full_text": "Once approved by the Board, the Risk Appetite Framework should be implemented by Senior Management throughout the organization as an integral part of the overall enterprise risk management framework of the FRFI. The Risk Appetite Framework should align with the organization's strategy, its financial and capital plans, its business unit strategies and day-to-day operations, as well as its risk management policies (e.g., risk limits, risk selection/underwriting guidelines and criteria, etc.) and compensation programs.\nWhere the Risk Appetite Framework sets aggregate limits that will be shared among different units, the basis on which such limits will be shared should be clearly identified and communicated.\nEffective control, monitoring and reporting systems and procedures should be developed to ensure on-going operational compliance with the Risk Appetite Framework, including the following:\n  - The CRO (or equivalent) should ensure that aggregate risk limits are consistent with the FRFI's risk appetite statement.\n  - The CRO (or equivalent) should include in regular reports to the Board or Risk Committee, and Senior Management, an assessment against the risk appetite statement and risk limits.\n  - Internal Audit should routinely assess compliance with the Risk Appetite Framework on an enterprise-wide basis and in its review of units within the FRFI.\nThe Board and Senior Management should receive regular reports on the effectiveness of, and compliance with, the Risk Appetite Framework. These reports should include a comparison of actual results versus stated Risk Appetite Framework measures. Where breaches are identified, action plans should exist and be communicated to the Board. The Risk Appetite Framework should be an integral part of the Board's discussions and decision-making processes.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Once approved by the Board, the Risk Appetite Framework should be implemented by Senior Management throughout the organization as an integral part of the overall enterprise risk management framework of the FRFI. The Risk Appetite Framework should align with the organization's strategy, its financial and capital plans, its business unit strategies and day-to-day operations, as well as its risk management policies (e.g., risk limits, risk selection/underwriting guidelines and criteria, etc.) and compensation programs."
+        },
+        {
+          "type": "paragraph",
+          "text": "Where the Risk Appetite Framework sets aggregate limits that will be shared among different units, the basis on which such limits will be shared should be clearly identified and communicated."
+        },
+        {
+          "type": "paragraph",
+          "text": "Effective control, monitoring and reporting systems and procedures should be developed to ensure on-going operational compliance with the Risk Appetite Framework, including the following:"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "The CRO (or equivalent) should ensure that aggregate risk limits are consistent with the FRFI's risk appetite statement.",
+            "The CRO (or equivalent) should include in regular reports to the Board or Risk Committee, and Senior Management, an assessment against the risk appetite statement and risk limits.",
+            "Internal Audit should routinely assess compliance with the Risk Appetite Framework on an enterprise-wide basis and in its review of units within the FRFI."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "The Board and Senior Management should receive regular reports on the effectiveness of, and compliance with, the Risk Appetite Framework. These reports should include a comparison of actual results versus stated Risk Appetite Framework measures. Where breaches are identified, action plans should exist and be communicated to the Board. The Risk Appetite Framework should be an integral part of the Board's discussions and decision-making processes."
+        }
+      ]
+    }
+  ],
+  "title_normalized": "corporate governance guideline 2018",
+  "publication_type_normalized": "guideline",
+  "category_normalized": "sound_business_and_financial_practices",
+  "sector_normalized": [
+    "banks",
+    "life_insurance",
+    "pc_insurance",
+    "trust_and_loan_companies"
+  ],
+  "guideline_number_normalized": "",
+  "applies_to_banks": true,
+  "applies_to_trust_loan": true,
+  "applies_to_life_insurance": true,
+  "applies_to_pc_insurance": true,
+  "applies_to_foreign_bank": false,
+  "applies_to_foreign_insurance": false,
+  "applies_to_cooperative": false,
+  "applies_to_bank_holding": false,
+  "effective_date_sort_key": "2018-09-30",
+  "status_sort_key": 1,
+  "authority_sort_key": 100,
+  "bm25_text": "Corporate Governance – Guideline (2018) Guideline Sound Business and Financial Practices Banks Life Insurance and Fraternal Companies Property and Casualty Companies Trust and Loan Companies I. Purpose and Scope of the Guideline Corporate Governance for Financial Institutions II. The Board of Directors The Role of the Board Strategy Risk Management and Oversight Board, Senior Management and Oversight Functions Audit Plans Operational and Business Policies Business Performance and Effectiveness of Risk Management The Board and Senior Management The Board and the Oversight Functions Boards of Subsidiaries or with FRFI Subsidiaries Board Effectiveness Board Composition Board Independence III. Risk Governance General Risk Appetite Framework Oversight of Risk Board Risk Committee Chief Risk Officer IV. The Role of the Audit Committee The Role of Corporate Governance in OSFI's Supervisory Process OSFI's Supervisory Assessment Changes to the Board or Senior Management Annex A – The Special Nature of Financial Institutions Annex B – Risk Appetite Framework Risk Appetite Statement Risk Limits Implementation of the Risk Appetite Framework",
+  "vector_text_prefix": "[OSFI Guideline  | Sound Business and Financial Practices | Banks / Life Insurance and Fraternal Companies / Property and Casualty Companies | FINAL_CURRENT | Effective 2018-09-30]",
+  "h1_title": "Corporate Governance – Guideline (2018)",
+  "regulator": "OSFI",
+  "regulator_acronym": "OSFI",
+  "jurisdiction": "Canada",
+  "short_title": "",
+  "source_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/corporate-governance-guideline-2018"
+}

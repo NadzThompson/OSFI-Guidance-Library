@@ -1,0 +1,453 @@
+{
+  "source_system": "osfi_guidance_library",
+  "library_row_title": "Foreign Entities Operating in Canada on a Branch Basis – Guideline (2021)",
+  "library_row_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/foreign-entities-operating-canada-branch-basis-guideline-2021",
+  "listing_date_raw": "July 31, 2021",
+  "listing_date_iso": "2021-07-31",
+  "listing_publication_type": "Guideline",
+  "listing_category": "Sound Business and Financial Practices",
+  "listing_sector": [
+    "Foreign Bank Branches",
+    "Foreign Insurance Branches",
+    "Life Insurance and Fraternal Companies",
+    "Property and Casualty Companies"
+  ],
+  "crawl_timestamp": "2026-03-11T00:00:00Z",
+  "detail_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/foreign-entities-operating-canada-branch-basis-guideline-2021",
+  "canonical_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/foreign-entities-operating-canada-branch-basis-guideline-2021",
+  "slug": "foreign-entities-operating-canada-branch-basis-guideline-2021",
+  "title": "Foreign Entities Operating in Canada on a Branch Basis – Guideline (2021)",
+  "publication_type": "Guideline",
+  "category": "Sound Business and Financial Practices",
+  "document_date_raw": "July 31, 2021",
+  "document_date_iso": "2021-07-31",
+  "sector": [
+    "Foreign Bank Branches",
+    "Foreign Insurance Branches",
+    "Life Insurance and Fraternal Companies",
+    "Property and Casualty Companies"
+  ],
+  "effective_date_text": "",
+  "guideline_number": "",
+  "date_modified_raw": "2021-07-31T12:00:00Z",
+  "generate_pdf_url": "https://www.osfi-bsif.gc.ca/en/print/pdf/node/617",
+  "pdf_node_id": 617,
+  "direct_pdf_url": null,
+  "has_table_of_contents": true,
+  "toc_entries": [],
+  "has_related_documents": false,
+  "related_document_links_raw": [],
+  "consultation_status_text": null,
+  "consultation_status_refers_to_version": null,
+  "page_language": "en",
+  "word_count_raw_body": 1914,
+  "doc_id": "osfi.foreign-entities-operating-canada-branch-basis-gui.2021.package",
+  "doc_family_id": "osfi.foreign-entities-operating-canada-branch-basis-gui",
+  "version_id": "2021",
+  "version_label": "Foreign Entities Operating in Canada on a Branch Basis – Gui",
+  "version_sort_key": "2021-07",
+  "parent_doc_id": null,
+  "child_doc_ids": [],
+  "is_package_page": true,
+  "is_chapter_page": false,
+  "chapter_number": null,
+  "chapter_title": null,
+  "document_order_within_family": 0,
+  "supersedes_doc_id": null,
+  "superseded_by_doc_id": null,
+  "current_version_flag": true,
+  "status": "final_current",
+  "include_in_primary_corpus": true,
+  "include_in_support_corpus": false,
+  "include_in_context_corpus": false,
+  "effective_date_start": "2021-07-31",
+  "effective_date_end": null,
+  "effective_date_fye_split": false,
+  "effective_date_oct_fye": null,
+  "effective_date_dec_fye": null,
+  "is_future_effective": false,
+  "is_rescinded": false,
+  "is_draft_or_consultation": false,
+  "rescission_date": null,
+  "consultation_closing_date": null,
+  "as_of_applicability": "2026-03-23",
+  "rule_applied": "rule_5_final_current",
+  "authority_class": "primary_normative",
+  "authority_level": 100,
+  "nova_tier": 1,
+  "prudential_weight": 1.0,
+  "is_primary_normative": true,
+  "is_supporting_interpretive": false,
+  "is_context_only": false,
+  "document_class": "package_guideline",
+  "guidance_type_normalized": "guideline",
+  "section_headings": [
+    {
+      "level": 2,
+      "text": "I. Purpose and Scope of the Guideline",
+      "id": "h2-0"
+    },
+    {
+      "level": 2,
+      "text": "II. Branch Management",
+      "id": "h2-1"
+    },
+    {
+      "level": 3,
+      "text": "A. Arrangements with the Foreign Entity's Home Office",
+      "id": "h3-2"
+    },
+    {
+      "level": 3,
+      "text": "B. Record Keeping",
+      "id": "h3-3"
+    },
+    {
+      "level": 2,
+      "text": "IV. Supervision of Branches",
+      "id": "h2-4"
+    },
+    {
+      "level": 3,
+      "text": "A. OSFI's Supervisory Assessment",
+      "id": "h3-5"
+    },
+    {
+      "level": 3,
+      "text": "B. Changes to Members of Branch Management",
+      "id": "h3-6"
+    },
+    {
+      "level": 3,
+      "text": "C. Legislative Requirements and Supervisory Expectations",
+      "id": "h3-7"
+    },
+    {
+      "level": 2,
+      "text": "Footnotes",
+      "id": "h2-8"
+    }
+  ],
+  "heading_path": [
+    "Foreign Entities Operating in Canada on a Branch Basis – Guideline (2021)"
+  ],
+  "toc_depth": 3,
+  "has_appendices": false,
+  "appendix_ids": [],
+  "has_tables": false,
+  "table_count": 0,
+  "has_footnotes": true,
+  "footnote_count": 1,
+  "inline_cross_references": [
+    "Guideline B-10 Outsourcing of Business Activities"
+  ],
+  "quoted_external_references": [],
+  "raw_html_sha256": "7be37e20261bc8a6c29382a64d97fb65f5d2ca41320c14b8b6f372678737c645",
+  "raw_pdf_sha256": null,
+  "normalized_text_sha256": null,
+  "raw_html_path": "bronze/osfi/html/final_current/foreign-entities-operating-canada-branch-basis-guideline-2021.html",
+  "normalized_md_path": "silver/osfi/md/final_current/foreign-entities-operating-canada-branch-basis-guideline-2021.md",
+  "canonical_json_path": "silver/osfi/json/final_current/foreign-entities-operating-canada-branch-basis-guideline-2021.json",
+  "content_source": "HTML",
+  "parser_version": "osfi-parser-v2.1.0",
+  "normalizer_version": "osfi-normalizer-v1.4.0",
+  "quality_score": 1.0,
+  "quality_flags": [],
+  "download_timestamp": "2026-03-11T00:00:00Z",
+  "enriched_timestamp": "2026-03-23T09:53:51.906088Z",
+  "sections": [
+    {
+      "heading": "",
+      "heading_level": 2,
+      "full_text": "  - Final Guideline E-4 – Letter (2021)",
+      "content": [
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Final Guideline E-4 – Letter (2021)"
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "I. Purpose and Scope of the Guideline",
+      "heading_level": 2,
+      "full_text": "This guideline communicates OSFI's expectations with respect to foreign entities operating in Canada on a branch basis (Branches) Footnote 1 .\nA Branch is not a separate legal entity; rather, the Canadian branch is an extension or presence of the foreign entity in Canada. OSFI is not the solvency regulator of the foreign entity as a whole; OSFI supervises the foreign entity's business in Canada, including compliance with the requirements of the Bank Act (BA) and the Insurance Companies Act (ICA), and applicable OSFI guidance Footnote 2 .\nOSFI evaluates Branch operations in accordance with the statutory regimes set out in the BA and ICA, and against the expectations set out in this guideline and other applicable OSFI guidance.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "This guideline communicates OSFI's expectations with respect to foreign entities operating in Canada on a branch basis (Branches) Footnote 1 ."
+        },
+        {
+          "type": "paragraph",
+          "text": "A Branch is not a separate legal entity; rather, the Canadian branch is an extension or presence of the foreign entity in Canada. OSFI is not the solvency regulator of the foreign entity as a whole; OSFI supervises the foreign entity's business in Canada, including compliance with the requirements of the Bank Act (BA) and the Insurance Companies Act (ICA), and applicable OSFI guidance Footnote 2 ."
+        },
+        {
+          "type": "paragraph",
+          "text": "OSFI evaluates Branch operations in accordance with the statutory regimes set out in the BA and ICA, and against the expectations set out in this guideline and other applicable OSFI guidance."
+        }
+      ]
+    },
+    {
+      "heading": "II. Branch Management",
+      "heading_level": 2,
+      "full_text": "Branch Management is composed of individuals who have the authority and responsibility of overseeing the business in Canada for, or on behalf of, the foreign entity. This may include the chief agent of a foreign insurance Branch or the principal officer of a foreign bank Branch, and senior officers of the foreign entity located in or outside Canada Footnote 3 . OSFI expects the composition of Branch Management to be commensurate with the overall size and complexity of the foreign entity's federally regulated business in Canada.\nWith respect to the foreign entity's business in Canada, OSFI expects Branch Management to be responsible for the effective adaptation, implementation and oversight of the foreign entity's:\n  - Business objectives, strategies and plans;\n  - Risk management policies and procedures, and related risk management controls Footnote 4 ;\n  - Policies and procedures to manage the assets and liabilities recorded on the Branch's books and related accounts; and\n  - Independent assessments of the adequacy and effectiveness of the controls referenced above Footnote 5 .\nIn order to effectively conduct the above activities, Branch Management is expected to be knowledgeable of all applicable Canadian legislation, regulations, guidelines and any other supervisory or regulatory matters related to the foreign entity's federally regulated business in Canada carried on through the Branch. Branch Management should also receive sufficiently comprehensive and frequent reports to satisfy these expectations.\nOSFI expects Branch Management to have a comprehensive, in-depth understanding of the foreign entity's federally regulated business in Canada carried on through the Branch. OSFI expects Branch Management to be responsible for, and have the necessary authority to carry out, the overall management of that business in Canada. In conducting its oversight activities, Branch Management should be satisfied that strategies, business plans, and policies are appropriate for the business in Canada and comply with relevant Canadian regulatory requirements.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Branch Management is composed of individuals who have the authority and responsibility of overseeing the business in Canada for, or on behalf of, the foreign entity. This may include the chief agent of a foreign insurance Branch or the principal officer of a foreign bank Branch, and senior officers of the foreign entity located in or outside Canada Footnote 3 . OSFI expects the composition of Branch Management to be commensurate with the overall size and complexity of the foreign entity's federally regulated business in Canada."
+        },
+        {
+          "type": "paragraph",
+          "text": "With respect to the foreign entity's business in Canada, OSFI expects Branch Management to be responsible for the effective adaptation, implementation and oversight of the foreign entity's:"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Business objectives, strategies and plans;",
+            "Risk management policies and procedures, and related risk management controls Footnote 4 ;",
+            "Policies and procedures to manage the assets and liabilities recorded on the Branch's books and related accounts; and",
+            "Independent assessments of the adequacy and effectiveness of the controls referenced above Footnote 5 ."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "In order to effectively conduct the above activities, Branch Management is expected to be knowledgeable of all applicable Canadian legislation, regulations, guidelines and any other supervisory or regulatory matters related to the foreign entity's federally regulated business in Canada carried on through the Branch. Branch Management should also receive sufficiently comprehensive and frequent reports to satisfy these expectations."
+        },
+        {
+          "type": "paragraph",
+          "text": "OSFI expects Branch Management to have a comprehensive, in-depth understanding of the foreign entity's federally regulated business in Canada carried on through the Branch. OSFI expects Branch Management to be responsible for, and have the necessary authority to carry out, the overall management of that business in Canada. In conducting its oversight activities, Branch Management should be satisfied that strategies, business plans, and policies are appropriate for the business in Canada and comply with relevant Canadian regulatory requirements."
+        }
+      ]
+    },
+    {
+      "heading": "A. Arrangements with the Foreign Entity's Home Office",
+      "heading_level": 3,
+      "full_text": "In situations where the foreign entity's home office performs material functions on behalf of the Branch, either directly or through its own outsourcing arrangements, OSFI expects Branch Management to document such arrangements Footnote 6 .\nIn particular, any arrangements that involve the flow of funds between the foreign entity's home office and its Branch should be clearly documented. The details of such arrangements should be provided to OSFI. Branch Management should provide OSFI with 10 businessdays advance notice of any proposed fund transfer(s), or series of proposed fund transfers, to the foreign entity's home office that materially deviate from the documented process provided to OSFI.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "In situations where the foreign entity's home office performs material functions on behalf of the Branch, either directly or through its own outsourcing arrangements, OSFI expects Branch Management to document such arrangements Footnote 6 ."
+        },
+        {
+          "type": "paragraph",
+          "text": "In particular, any arrangements that involve the flow of funds between the foreign entity's home office and its Branch should be clearly documented. The details of such arrangements should be provided to OSFI. Branch Management should provide OSFI with 10 businessdays advance notice of any proposed fund transfer(s), or series of proposed fund transfers, to the foreign entity's home office that materially deviate from the documented process provided to OSFI."
+        }
+      ]
+    },
+    {
+      "heading": "B. Record Keeping",
+      "heading_level": 3,
+      "full_text": "The ICA and BA contain requirements with respect to certain records that Branches must prepare and maintain regarding their business in Canada (the Records).\nOSFI expects the Records to be updated and accurate as at the end of each business day Footnote 7 , and that the Records will be sufficiently detailed to enable:\n  - OSFI to conduct an examination and inquiry into the business of the Branch;\n  - OSFI to manage the Branch's assets, prior to the appointment of a liquidator, should the Superintendent take control of the Branch's assets in Canada; and\n  - The liquidator to conduct an effective liquidation of the Branch's assets in Canada.\nElectronic Records must be capable of being reproduced in intelligible written form within a reasonable period of time. OSFI expects electronic Records to be accessible and intelligible without incurring additional costs and using readily available commercial applications. For certain types of information, such as reinsurance arrangements or files on more complex activities, reproduced electronic Records may not be sufficient for OSFI's review and the executed copy may need to be available, upon OSFI's request.\nBranches under the BA are required to keep copies of the Records at the principal office in Canada of the authorized foreign bank, or at any other place in Canada that the principal officer thinks fit. Branches under the ICA are required to keep copies of the Records at the chief agency of the foreign company in Canada. If the Records are in electronic form, complete copies must be kept on a computer server physically located at the places stipulated in the BA and ICA Footnote 8 .\nCertain Branches under the BA and ICA are exempted from the requirement to keep copies of the Records at the above noted places in Canada. In those circumstances, the Branch must provide OSFI with immediate, direct, complete and ongoing access to the Records that are stored outside Canada Footnote 9 .",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "The ICA and BA contain requirements with respect to certain records that Branches must prepare and maintain regarding their business in Canada (the Records)."
+        },
+        {
+          "type": "paragraph",
+          "text": "OSFI expects the Records to be updated and accurate as at the end of each business day Footnote 7 , and that the Records will be sufficiently detailed to enable:"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "OSFI to conduct an examination and inquiry into the business of the Branch;",
+            "OSFI to manage the Branch's assets, prior to the appointment of a liquidator, should the Superintendent take control of the Branch's assets in Canada; and",
+            "The liquidator to conduct an effective liquidation of the Branch's assets in Canada."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Electronic Records must be capable of being reproduced in intelligible written form within a reasonable period of time. OSFI expects electronic Records to be accessible and intelligible without incurring additional costs and using readily available commercial applications. For certain types of information, such as reinsurance arrangements or files on more complex activities, reproduced electronic Records may not be sufficient for OSFI's review and the executed copy may need to be available, upon OSFI's request."
+        },
+        {
+          "type": "paragraph",
+          "text": "Branches under the BA are required to keep copies of the Records at the principal office in Canada of the authorized foreign bank, or at any other place in Canada that the principal officer thinks fit. Branches under the ICA are required to keep copies of the Records at the chief agency of the foreign company in Canada. If the Records are in electronic form, complete copies must be kept on a computer server physically located at the places stipulated in the BA and ICA Footnote 8 ."
+        },
+        {
+          "type": "paragraph",
+          "text": "Certain Branches under the BA and ICA are exempted from the requirement to keep copies of the Records at the above noted places in Canada. In those circumstances, the Branch must provide OSFI with immediate, direct, complete and ongoing access to the Records that are stored outside Canada Footnote 9 ."
+        }
+      ]
+    },
+    {
+      "heading": "IV. Supervision of Branches",
+      "heading_level": 2,
+      "full_text": "The home country regulator of the foreign entity is the primary regulator. OSFI's supervisory role is limited to the foreign entity's federally regulated business in Canada.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "The home country regulator of the foreign entity is the primary regulator. OSFI's supervisory role is limited to the foreign entity's federally regulated business in Canada."
+        }
+      ]
+    },
+    {
+      "heading": "A. OSFI's Supervisory Assessment",
+      "heading_level": 3,
+      "full_text": "OSFI supervises the foreign entity's business in Canada, including compliance with the requirements of the BA and ICA, and applicable OSFI guidance. OSFI will undertake a number of activities, including discussions with Branch Management, in order to assess the adequacy of the management and oversight of the foreign entity's federally regulated business in Canada.\nThe foreign entity, through its designated Branch Management, is ultimately accountable to OSFI for its federally regulated business in Canada, as well as its compliance with Canadian federal legislative and regulatory requirements. OSFI expects Branch Management to be knowledgeable of the results of OSFI's supervisory work and to develop and oversee an appropriate response to any supervisory expectations.\nOpen communication between Branch Management and OSFI, on an ongoing basis, helps promote the mutual trust and confidence essential for OSFI's approach to supervision to be effective. Accordingly, OSFI expects to be promptly notified of substantive issues and changes affecting the management and operations of the Branch.\nOSFI expects Branch Management to respond to all communications and requests for information from OSFI in a timely and thorough manner.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "OSFI supervises the foreign entity's business in Canada, including compliance with the requirements of the BA and ICA, and applicable OSFI guidance. OSFI will undertake a number of activities, including discussions with Branch Management, in order to assess the adequacy of the management and oversight of the foreign entity's federally regulated business in Canada."
+        },
+        {
+          "type": "paragraph",
+          "text": "The foreign entity, through its designated Branch Management, is ultimately accountable to OSFI for its federally regulated business in Canada, as well as its compliance with Canadian federal legislative and regulatory requirements. OSFI expects Branch Management to be knowledgeable of the results of OSFI's supervisory work and to develop and oversee an appropriate response to any supervisory expectations."
+        },
+        {
+          "type": "paragraph",
+          "text": "Open communication between Branch Management and OSFI, on an ongoing basis, helps promote the mutual trust and confidence essential for OSFI's approach to supervision to be effective. Accordingly, OSFI expects to be promptly notified of substantive issues and changes affecting the management and operations of the Branch."
+        },
+        {
+          "type": "paragraph",
+          "text": "OSFI expects Branch Management to respond to all communications and requests for information from OSFI in a timely and thorough manner."
+        }
+      ]
+    },
+    {
+      "heading": "B. Changes to Members of Branch Management",
+      "heading_level": 3,
+      "full_text": "OSFI expects the foreign entity to notify OSFI, as early as possible in the process, of any potential changes to the members of Branch Management, and any circumstances that may adversely affect their suitability.\nInformation regarding the qualifications of Branch Management should be provided to OSFI.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "OSFI expects the foreign entity to notify OSFI, as early as possible in the process, of any potential changes to the members of Branch Management, and any circumstances that may adversely affect their suitability."
+        },
+        {
+          "type": "paragraph",
+          "text": "Information regarding the qualifications of Branch Management should be provided to OSFI."
+        }
+      ]
+    },
+    {
+      "heading": "C. Legislative Requirements and Supervisory Expectations",
+      "heading_level": 3,
+      "full_text": "OSFI expects all foreign entities operating in Canada on a Branch basis to, at all times, remain in compliance with the legislative requirements of the BA and ICA, and the supervisory and regulatory expectations set out in this Guideline, and all other applicable OSFI guidance.\nWhere these requirements and expectations are not, in OSFI's view, being satisfied by the foreign entity, OSFI may apply additional supervisory and regulatory measures to the foreign entity in respect of its Branch.\n[Note: Footnotes Footnote 1 For greater certainty, the terms \"foreign entity\" and \"foreign entities\" refer to both banks that carry on business in Canada, and foreign entities that insure in Canada risks, on a branch basis under Part XII.1 of the BA and Part XIII of the ICA, respectively. Return to footnote 1 referrer Footnote 2 This guideline complements legislative and regulatory requirements in the BA and ICA, and the expectations set out in other relevant OSFI guidance documents (e.g., guidelines, advisories, rulings), applicable to Branches. Return to footnote 2 referrer Footnote 3 The ICA and the BA contain requirements with regards to the appointment of a chief agent or principal officer, respectively, through a power of attorney. Through this appointment, the chief agent or principal officer, as the case may be, must be the foreign entity's legal agent in Canada for the receipt of notices from the Superintendent and Minister, as well as any other legal documents. Return to footnote 3 referrer Footnote 4 The policies and procedures should include, among other elements, appropriate goals, benchmarks, parameters and limits as to the amount of risk related to the business in Canada that the foreign entity is willing to accept. Return to footnote 4 referrer Footnote 5 Independent assessment may be obtained from individuals or groups designated with that role, such as internal audit or risk management (either at the Branch or the foreign entity's home office), or qualified third parties. Branch Management should be cognizant of any assessments conducted by the foreign entity's home office relevant to the Canadian business and any resulting implications. Return to footnote 5 referrer Footnote 6 This documentation should incorporate the contract for services elements outlined in Guideline B-10 Outsourcing of Business Activities, Functions and Processes . Return to footnote 6 referrer Footnote 7 Records that change less frequently than daily remain accurate until they change. Accordingly, Records should be updated daily or at the frequency with which they change. Return to footnote 7 referrer Footnote 8 Please see ss. 597(2) of the BA, and ss. 647(3) of the ICA. Return to footnote 8 referrer Footnote 9 Please see ss. 597(2.1) and s. 598 of the BA, and ss. 647(4) of the ICA. Return to footnote 9 referrer]",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "OSFI expects all foreign entities operating in Canada on a Branch basis to, at all times, remain in compliance with the legislative requirements of the BA and ICA, and the supervisory and regulatory expectations set out in this Guideline, and all other applicable OSFI guidance."
+        },
+        {
+          "type": "paragraph",
+          "text": "Where these requirements and expectations are not, in OSFI's view, being satisfied by the foreign entity, OSFI may apply additional supervisory and regulatory measures to the foreign entity in respect of its Branch."
+        },
+        {
+          "type": "footnote",
+          "text": "Footnotes Footnote 1 For greater certainty, the terms \"foreign entity\" and \"foreign entities\" refer to both banks that carry on business in Canada, and foreign entities that insure in Canada risks, on a branch basis under Part XII.1 of the BA and Part XIII of the ICA, respectively. Return to footnote 1 referrer Footnote 2 This guideline complements legislative and regulatory requirements in the BA and ICA, and the expectations set out in other relevant OSFI guidance documents (e.g., guidelines, advisories, rulings), applicable to Branches. Return to footnote 2 referrer Footnote 3 The ICA and the BA contain requirements with regards to the appointment of a chief agent or principal officer, respectively, through a power of attorney. Through this appointment, the chief agent or principal officer, as the case may be, must be the foreign entity's legal agent in Canada for the receipt of notices from the Superintendent and Minister, as well as any other legal documents. Return to footnote 3 referrer Footnote 4 The policies and procedures should include, among other elements, appropriate goals, benchmarks, parameters and limits as to the amount of risk related to the business in Canada that the foreign entity is willing to accept. Return to footnote 4 referrer Footnote 5 Independent assessment may be obtained from individuals or groups designated with that role, such as internal audit or risk management (either at the Branch or the foreign entity's home office), or qualified third parties. Branch Management should be cognizant of any assessments conducted by the foreign entity's home office relevant to the Canadian business and any resulting implications. Return to footnote 5 referrer Footnote 6 This documentation should incorporate the contract for services elements outlined in Guideline B-10 Outsourcing of Business Activities, Functions and Processes . Return to footnote 6 referrer Footnote 7 Records that change less frequently than daily remain accurate until they change. Accordingly, Records should be updated daily or at the frequency with which they change. Return to footnote 7 referrer Footnote 8 Please see ss. 597(2) of the BA, and ss. 647(3) of the ICA. Return to footnote 8 referrer Footnote 9 Please see ss. 597(2.1) and s. 598 of the BA, and ss. 647(4) of the ICA. Return to footnote 9 referrer"
+        }
+      ]
+    },
+    {
+      "heading": "Footnotes",
+      "heading_level": 2,
+      "full_text": "For greater certainty, the terms \"foreign entity\" and \"foreign entities\" refer to both banks that carry on business in Canada, and foreign entities that insure in Canada risks, on a branch basis under Part XII.1 of the BA and Part XIII of the ICA, respectively.\nReturn to footnote 1 referrer\nThis guideline complements legislative and regulatory requirements in the BA and ICA, and the expectations set out in other relevant OSFI guidance documents (e.g., guidelines, advisories, rulings), applicable to Branches.\nReturn to footnote 2 referrer\nThe ICA and the BA contain requirements with regards to the appointment of a chief agent or principal officer, respectively, through a power of attorney. Through this appointment, the chief agent or principal officer, as the case may be, must be the foreign entity's legal agent in Canada for the receipt of notices from the Superintendent and Minister, as well as any other legal documents.\nReturn to footnote 3 referrer\nThe policies and procedures should include, among other elements, appropriate goals, benchmarks, parameters and limits as to the amount of risk related to the business in Canada that the foreign entity is willing to accept.\nReturn to footnote 4 referrer\nIndependent assessment may be obtained from individuals or groups designated with that role, such as internal audit or risk management (either at the Branch or the foreign entity's home office), or qualified third parties. Branch Management should be cognizant of any assessments conducted by the foreign entity's home office relevant to the Canadian business and any resulting implications.\nReturn to footnote 5 referrer\nThis documentation should incorporate the contract for services elements outlined in Guideline B-10 Outsourcing of Business Activities, Functions and Processes .\nReturn to footnote 6 referrer\nRecords that change less frequently than daily remain accurate until they change. Accordingly, Records should be updated daily or at the frequency with which they change.\nReturn to footnote 7 referrer\nPlease see ss. 597(2) of the BA, and ss. 647(3) of the ICA.\nReturn to footnote 8 referrer\nPlease see ss. 597(2.1) and s. 598 of the BA, and ss. 647(4) of the ICA.\nReturn to footnote 9 referrer",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "For greater certainty, the terms \"foreign entity\" and \"foreign entities\" refer to both banks that carry on business in Canada, and foreign entities that insure in Canada risks, on a branch basis under Part XII.1 of the BA and Part XIII of the ICA, respectively."
+        },
+        {
+          "type": "paragraph",
+          "text": "Return to footnote 1 referrer"
+        },
+        {
+          "type": "paragraph",
+          "text": "This guideline complements legislative and regulatory requirements in the BA and ICA, and the expectations set out in other relevant OSFI guidance documents (e.g., guidelines, advisories, rulings), applicable to Branches."
+        },
+        {
+          "type": "paragraph",
+          "text": "Return to footnote 2 referrer"
+        },
+        {
+          "type": "paragraph",
+          "text": "The ICA and the BA contain requirements with regards to the appointment of a chief agent or principal officer, respectively, through a power of attorney. Through this appointment, the chief agent or principal officer, as the case may be, must be the foreign entity's legal agent in Canada for the receipt of notices from the Superintendent and Minister, as well as any other legal documents."
+        },
+        {
+          "type": "paragraph",
+          "text": "Return to footnote 3 referrer"
+        },
+        {
+          "type": "paragraph",
+          "text": "The policies and procedures should include, among other elements, appropriate goals, benchmarks, parameters and limits as to the amount of risk related to the business in Canada that the foreign entity is willing to accept."
+        },
+        {
+          "type": "paragraph",
+          "text": "Return to footnote 4 referrer"
+        },
+        {
+          "type": "paragraph",
+          "text": "Independent assessment may be obtained from individuals or groups designated with that role, such as internal audit or risk management (either at the Branch or the foreign entity's home office), or qualified third parties. Branch Management should be cognizant of any assessments conducted by the foreign entity's home office relevant to the Canadian business and any resulting implications."
+        },
+        {
+          "type": "paragraph",
+          "text": "Return to footnote 5 referrer"
+        },
+        {
+          "type": "paragraph",
+          "text": "This documentation should incorporate the contract for services elements outlined in Guideline B-10 Outsourcing of Business Activities, Functions and Processes ."
+        },
+        {
+          "type": "paragraph",
+          "text": "Return to footnote 6 referrer"
+        },
+        {
+          "type": "paragraph",
+          "text": "Records that change less frequently than daily remain accurate until they change. Accordingly, Records should be updated daily or at the frequency with which they change."
+        },
+        {
+          "type": "paragraph",
+          "text": "Return to footnote 7 referrer"
+        },
+        {
+          "type": "paragraph",
+          "text": "Please see ss. 597(2) of the BA, and ss. 647(3) of the ICA."
+        },
+        {
+          "type": "paragraph",
+          "text": "Return to footnote 8 referrer"
+        },
+        {
+          "type": "paragraph",
+          "text": "Please see ss. 597(2.1) and s. 598 of the BA, and ss. 647(4) of the ICA."
+        },
+        {
+          "type": "paragraph",
+          "text": "Return to footnote 9 referrer"
+        }
+      ]
+    }
+  ],
+  "title_normalized": "foreign entities operating in canada on a branch basis guideline 2021",
+  "publication_type_normalized": "guideline",
+  "category_normalized": "sound_business_and_financial_practices",
+  "sector_normalized": [
+    "foreign_bank_branches",
+    "foreign_insurance_branches",
+    "life_insurance",
+    "pc_insurance"
+  ],
+  "guideline_number_normalized": "",
+  "applies_to_banks": false,
+  "applies_to_trust_loan": false,
+  "applies_to_life_insurance": true,
+  "applies_to_pc_insurance": true,
+  "applies_to_foreign_bank": true,
+  "applies_to_foreign_insurance": true,
+  "applies_to_cooperative": false,
+  "applies_to_bank_holding": false,
+  "effective_date_sort_key": "2021-07-31",
+  "status_sort_key": 1,
+  "authority_sort_key": 100,
+  "bm25_text": "Foreign Entities Operating in Canada on a Branch Basis – Guideline (2021) Guideline Sound Business and Financial Practices Foreign Bank Branches Foreign Insurance Branches Life Insurance and Fraternal Companies Property and Casualty Companies I. Purpose and Scope of the Guideline II. Branch Management A. Arrangements with the Foreign Entity's Home Office B. Record Keeping IV. Supervision of Branches A. OSFI's Supervisory Assessment B. Changes to Members of Branch Management C. Legislative Requirements and Supervisory Expectations Footnotes",
+  "vector_text_prefix": "[OSFI Guideline  | Sound Business and Financial Practices | Foreign Bank Branches / Foreign Insurance Branches / Life Insurance and Fraternal Companies | FINAL_CURRENT | Effective 2021-07-31]",
+  "h1_title": "Foreign Entities Operating in Canada on a Branch Basis – Guideline (2021)",
+  "regulator": "OSFI",
+  "regulator_acronym": "OSFI",
+  "jurisdiction": "Canada",
+  "short_title": "",
+  "source_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/foreign-entities-operating-canada-branch-basis-guideline-2021"
+}

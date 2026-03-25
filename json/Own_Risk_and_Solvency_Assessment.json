@@ -1,0 +1,896 @@
+{
+  "source_system": "osfi_guidance_library",
+  "library_row_title": "Own Risk and Solvency Assessment",
+  "library_row_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/own-risk-solvency-assessment",
+  "listing_date_raw": "December 31, 2017",
+  "listing_date_iso": "2017-12-31",
+  "listing_publication_type": "Guideline",
+  "listing_category": "Sound Business and Financial Practices",
+  "listing_sector": [
+    "Life Insurance and Fraternal Companies",
+    "Property and Casualty Companies"
+  ],
+  "crawl_timestamp": "2026-03-11T00:00:00Z",
+  "detail_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/own-risk-solvency-assessment",
+  "canonical_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/own-risk-solvency-assessment",
+  "slug": "own-risk-solvency-assessment",
+  "title": "Own Risk and Solvency Assessment",
+  "publication_type": "Guideline",
+  "category": "Sound Business and Financial Practices",
+  "document_date_raw": "December 31, 2017",
+  "document_date_iso": "2017-12-31",
+  "sector": [
+    "Life Insurance and Fraternal Companies",
+    "Property and Casualty Companies"
+  ],
+  "effective_date_text": "",
+  "guideline_number": "",
+  "date_modified_raw": "2017-12-31T12:00:00Z",
+  "generate_pdf_url": null,
+  "pdf_node_id": null,
+  "direct_pdf_url": null,
+  "has_table_of_contents": true,
+  "toc_entries": [],
+  "has_related_documents": true,
+  "related_document_links_raw": [
+    {
+      "title": "Minimum Capital Test – Guideline",
+      "url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/minimum-capital-test-guideline-2024"
+    },
+    {
+      "title": "Mortgage Insurer Capital Adequacy Test – Guideline",
+      "url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/mortgage-insurer-capital-adequacy-test-guideline-2025"
+    },
+    {
+      "title": "Life Insurance Capital Adequacy Test – Guideline",
+      "url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/life-insurance-capital-adequacy-test-guideline-2025"
+    },
+    {
+      "title": "Regulatory Capital and Internal Capital Targets",
+      "url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/regulatory-capital-internal-capital-targets-2025"
+    },
+    {
+      "title": "Key Metrics Report – Life insurers – Instructions",
+      "url": "https://www.osfi-bsif.gc.ca/en/data-forms/reporting-returns/filing-financial-returns/financial-reporting-instructions/key-metrics-report-life-insurers-instructions-2025"
+    },
+    {
+      "title": "Key Metrics Report – P&C insurers – Instructions",
+      "url": "https://www.osfi-bsif.gc.ca/en/data-forms/reporting-returns/filing-financial-returns/financial-reporting-instructions/key-metrics-report-pc-insurers"
+    }
+  ],
+  "consultation_status_text": null,
+  "consultation_status_refers_to_version": null,
+  "page_language": "en",
+  "word_count_raw_body": 5228,
+  "doc_id": "osfi.own-risk-solvency-assessment.standalone",
+  "doc_family_id": "osfi.own-risk-solvency-assessment",
+  "version_id": "",
+  "version_label": "Own Risk and Solvency Assessment",
+  "version_sort_key": "",
+  "parent_doc_id": null,
+  "child_doc_ids": [],
+  "is_package_page": false,
+  "is_chapter_page": false,
+  "chapter_number": null,
+  "chapter_title": null,
+  "document_order_within_family": 0,
+  "supersedes_doc_id": null,
+  "superseded_by_doc_id": null,
+  "current_version_flag": true,
+  "status": "final_current",
+  "include_in_primary_corpus": true,
+  "include_in_support_corpus": false,
+  "include_in_context_corpus": false,
+  "effective_date_start": "2017-12-31",
+  "effective_date_end": null,
+  "effective_date_fye_split": false,
+  "effective_date_oct_fye": null,
+  "effective_date_dec_fye": null,
+  "is_future_effective": false,
+  "is_rescinded": false,
+  "is_draft_or_consultation": false,
+  "rescission_date": null,
+  "consultation_closing_date": null,
+  "as_of_applicability": "2026-03-23",
+  "rule_applied": "rule_5_final_current",
+  "authority_class": "primary_normative",
+  "authority_level": 100,
+  "nova_tier": 1,
+  "prudential_weight": 1.0,
+  "is_primary_normative": true,
+  "is_supporting_interpretive": false,
+  "is_context_only": false,
+  "document_class": "standalone_guideline",
+  "guidance_type_normalized": "guideline",
+  "section_headings": [
+    {
+      "level": 2,
+      "text": "I. Introduction",
+      "id": "h2-0"
+    },
+    {
+      "level": 2,
+      "text": "II. Scope",
+      "id": "h2-1"
+    },
+    {
+      "level": 2,
+      "text": "III. ORSA and Enterprise Risk Management",
+      "id": "h2-2"
+    },
+    {
+      "level": 2,
+      "text": "IV. Key Elements",
+      "id": "h2-3"
+    },
+    {
+      "level": 3,
+      "text": "Comprehensive Identification and Assessment of Risks",
+      "id": "h3-4"
+    },
+    {
+      "level": 3,
+      "text": "Relating Risk to Capital",
+      "id": "h3-5"
+    },
+    {
+      "level": 4,
+      "text": "Nature, Scale and Complexity",
+      "id": "h4-6"
+    },
+    {
+      "level": 4,
+      "text": "Determining Own Capital Needs",
+      "id": "h4-7"
+    },
+    {
+      "level": 4,
+      "text": "Setting Internal Targets",
+      "id": "h4-8"
+    },
+    {
+      "level": 4,
+      "text": "Integration with Other Business Processes",
+      "id": "h4-9"
+    },
+    {
+      "level": 3,
+      "text": "Oversight",
+      "id": "h3-10"
+    },
+    {
+      "level": 3,
+      "text": "Monitoring and Reporting",
+      "id": "h3-11"
+    },
+    {
+      "level": 3,
+      "text": "Internal Controls and Objective Review",
+      "id": "h3-12"
+    },
+    {
+      "level": 2,
+      "text": "V. Interaction of the ORSA with the Supervisory Review",
+      "id": "h2-13"
+    },
+    {
+      "level": 2,
+      "text": "Appendix – Supplementary Risk Considerations",
+      "id": "h2-14"
+    },
+    {
+      "level": 4,
+      "text": "Emerging/Evolving risks",
+      "id": "h4-15"
+    },
+    {
+      "level": 4,
+      "text": "Risk transfer/Mitigation activities",
+      "id": "h4-16"
+    },
+    {
+      "level": 4,
+      "text": "Cross border activities",
+      "id": "h4-17"
+    },
+    {
+      "level": 3,
+      "text": "Relating Risk to Capital (Determining Own Capital Needs)",
+      "id": "h3-18"
+    },
+    {
+      "level": 4,
+      "text": "Aggregation/Diversification Adjustment",
+      "id": "h4-19"
+    },
+    {
+      "level": 4,
+      "text": "Concentrations, Dependencies and Interactions of Risks",
+      "id": "h4-20"
+    },
+    {
+      "level": 2,
+      "text": "Footnotes",
+      "id": "h2-21"
+    }
+  ],
+  "heading_path": [
+    "Own Risk and Solvency Assessment"
+  ],
+  "toc_depth": 4,
+  "has_appendices": true,
+  "appendix_ids": [],
+  "has_tables": false,
+  "table_count": 0,
+  "has_footnotes": true,
+  "footnote_count": 1,
+  "inline_cross_references": [
+    "Guideline B-3: Sound Reinsurance Practices and Procedures",
+    "Guideline E-18: Stress Testing",
+    "Guideline A-4",
+    "Guideline A-4: Regulatory Capital and Internal Capital Targets outlines O",
+    "Guideline A-4: Regulatory Capital and Internal Capital Targets"
+  ],
+  "quoted_external_references": [],
+  "raw_html_sha256": "2f612036eb570b37a8c5a3448dae04a36144ec08c3fb4a2e91afe16c4c689108",
+  "raw_pdf_sha256": null,
+  "normalized_text_sha256": null,
+  "raw_html_path": "bronze/osfi/html/final_current/own-risk-solvency-assessment.html",
+  "normalized_md_path": "silver/osfi/md/final_current/own-risk-solvency-assessment.md",
+  "canonical_json_path": "silver/osfi/json/final_current/own-risk-solvency-assessment.json",
+  "content_source": "HTML",
+  "parser_version": "osfi-parser-v2.1.0",
+  "normalizer_version": "osfi-normalizer-v1.4.0",
+  "quality_score": 1.0,
+  "quality_flags": [],
+  "download_timestamp": "2026-03-11T00:00:00Z",
+  "enriched_timestamp": "2026-03-23T09:53:58.353067Z",
+  "sections": [
+    {
+      "heading": "",
+      "heading_level": 2,
+      "full_text": "  - Minimum Capital Test – Guideline\n  - Mortgage Insurer Capital Adequacy Test – Guideline\n  - Life Insurance Capital Adequacy Test – Guideline\n  - Regulatory Capital and Internal Capital Targets\n  - Key Metrics Report – Life insurers – Instructions\n  - Key Metrics Report – P&C insurers – Instructions\nThis guideline sets out OSFI's expectations with respect to the Own Risk and Solvency Assessment (ORSA) of federally regulated insurers (insurer) Footnote 1 .\nThe ORSA should reflect an insurer's own risk and solvency assessment. OSFI expects an insurer to have processes in place to conduct an ORSA that is proportionate to the nature, scale and complexity of its business and risk profile.",
+      "content": [
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Minimum Capital Test – Guideline",
+            "Mortgage Insurer Capital Adequacy Test – Guideline",
+            "Life Insurance Capital Adequacy Test – Guideline",
+            "Regulatory Capital and Internal Capital Targets",
+            "Key Metrics Report – Life insurers – Instructions",
+            "Key Metrics Report – P&C insurers – Instructions"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "This guideline sets out OSFI's expectations with respect to the Own Risk and Solvency Assessment (ORSA) of federally regulated insurers (insurer) Footnote 1 ."
+        },
+        {
+          "type": "paragraph",
+          "text": "The ORSA should reflect an insurer's own risk and solvency assessment. OSFI expects an insurer to have processes in place to conduct an ORSA that is proportionate to the nature, scale and complexity of its business and risk profile."
+        }
+      ]
+    },
+    {
+      "heading": "I. Introduction",
+      "heading_level": 2,
+      "full_text": "This guideline outlines OSFI's expectations with respect to an insurer's own assessment of its risks, capital Footnote 2 needs and solvency position, and for setting Internal Targets Footnote 3 , based on an insurer's Own Risk and Solvency Assessment (ORSA).\nThe ORSA should serve as a tool to enhance an insurer's understanding of the interrelationships between its risk profile and capital needs. The ORSA should consider all reasonably foreseeable and relevant material risks, be forward-looking and be congruent with an insurer's business and strategic planning.\nAs the ORSA is a dynamic forward-looking process, stress and scenario testing should be an important component used in an insurer's determination of its own capital needs and as it sets and evaluates the adequacy of its Internal Targets and operating capital level throughout the business cycle.\nThis guideline addresses the scope of the ORSA, its relation to enterprise risk management, the role of Senior Management Footnote 4 and other participants in performing, monitoring, reporting or reviewing the ORSA, and other key elements of the assessment process.\nOSFI may review the company's ORSA including related documentation and reports. OSFI does not approve an insurer's ORSA.\nFor further guidance and considerations about the identification, assessment, management and other aspects of risk, insurers may also consult other OSFI guidelines such as: Guidelines B-2: Large Exposure Limits , Investment Concentration Limit for Property and Casualty Insurance Companies and Guideline B-3: Sound Reinsurance Practices and Procedures.\nFor further guidance and considerations about stress and scenario testing, insurers may also consult sources such as OSFI's Guideline E 18: Stress Testing and actuarial standards of practice with respect to an insurer's Financial Condition Testing (FCT).",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "This guideline outlines OSFI's expectations with respect to an insurer's own assessment of its risks, capital Footnote 2 needs and solvency position, and for setting Internal Targets Footnote 3 , based on an insurer's Own Risk and Solvency Assessment (ORSA)."
+        },
+        {
+          "type": "paragraph",
+          "text": "The ORSA should serve as a tool to enhance an insurer's understanding of the interrelationships between its risk profile and capital needs. The ORSA should consider all reasonably foreseeable and relevant material risks, be forward-looking and be congruent with an insurer's business and strategic planning."
+        },
+        {
+          "type": "paragraph",
+          "text": "As the ORSA is a dynamic forward-looking process, stress and scenario testing should be an important component used in an insurer's determination of its own capital needs and as it sets and evaluates the adequacy of its Internal Targets and operating capital level throughout the business cycle."
+        },
+        {
+          "type": "paragraph",
+          "text": "This guideline addresses the scope of the ORSA, its relation to enterprise risk management, the role of Senior Management Footnote 4 and other participants in performing, monitoring, reporting or reviewing the ORSA, and other key elements of the assessment process."
+        },
+        {
+          "type": "paragraph",
+          "text": "OSFI may review the company's ORSA including related documentation and reports. OSFI does not approve an insurer's ORSA."
+        },
+        {
+          "type": "paragraph",
+          "text": "For further guidance and considerations about the identification, assessment, management and other aspects of risk, insurers may also consult other OSFI guidelines such as: Guidelines B-2: Large Exposure Limits , Investment Concentration Limit for Property and Casualty Insurance Companies and Guideline B-3: Sound Reinsurance Practices and Procedures."
+        },
+        {
+          "type": "paragraph",
+          "text": "For further guidance and considerations about stress and scenario testing, insurers may also consult sources such as OSFI's Guideline E 18: Stress Testing and actuarial standards of practice with respect to an insurer's Financial Condition Testing (FCT)."
+        }
+      ]
+    },
+    {
+      "heading": "II. Scope",
+      "heading_level": 2,
+      "full_text": "OSFI expects the ORSA to be tailored to and cover the consolidated operations of an insurer. An insurer's capital assessment should consider the risks of its domestic and foreign operations as well as group risks. It should also consider the availability of capital and assets in each jurisdiction for on-going viability and for the protection of policyholders and creditors of each insurance entity.\nThe ORSA can be prepared either on an individual insurer basis or on a group basis (Group ORSA). Where the Group ORSA includes, in addition to the consolidated operations of an individual insurer, the operations of other related insurers or the operations of its parent or home office, it should give adequate consideration to the business and risk profile of the individual insurer and the particular circumstances of the relevant markets in which it operates (e.g. by using relevant subsets of group data and modified methodologies, tools and/or assumptions) to yield own capital needs and Internal Targets that are appropriate for the individual insurer. The components of the Group ORSA that are used in or otherwise support an individual insurer's ORSA should be consistent with the expectations of this guideline.\nWhen an insurer's business and risk profiles or circumstances are not adequately reflected in a Group ORSA, or its own capital needs and Internal Targets are not adequately determined or supported using a Group ORSA, OSFI expects the insurer to have a separate ORSA that covers only the consolidated operations of the insurer and not the operations of its parent, home office or other related insurers.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "OSFI expects the ORSA to be tailored to and cover the consolidated operations of an insurer. An insurer's capital assessment should consider the risks of its domestic and foreign operations as well as group risks. It should also consider the availability of capital and assets in each jurisdiction for on-going viability and for the protection of policyholders and creditors of each insurance entity."
+        },
+        {
+          "type": "paragraph",
+          "text": "The ORSA can be prepared either on an individual insurer basis or on a group basis (Group ORSA). Where the Group ORSA includes, in addition to the consolidated operations of an individual insurer, the operations of other related insurers or the operations of its parent or home office, it should give adequate consideration to the business and risk profile of the individual insurer and the particular circumstances of the relevant markets in which it operates (e.g. by using relevant subsets of group data and modified methodologies, tools and/or assumptions) to yield own capital needs and Internal Targets that are appropriate for the individual insurer. The components of the Group ORSA that are used in or otherwise support an individual insurer's ORSA should be consistent with the expectations of this guideline."
+        },
+        {
+          "type": "paragraph",
+          "text": "When an insurer's business and risk profiles or circumstances are not adequately reflected in a Group ORSA, or its own capital needs and Internal Targets are not adequately determined or supported using a Group ORSA, OSFI expects the insurer to have a separate ORSA that covers only the consolidated operations of the insurer and not the operations of its parent, home office or other related insurers."
+        }
+      ]
+    },
+    {
+      "heading": "III. ORSA and Enterprise Risk Management",
+      "heading_level": 2,
+      "full_text": "In conducting its ORSA, an insurer should determine its own capital needs and establish its Internal Targets based on an internal assessment of all material risks, including the results of the enterprise risk management process Footnote 5 . The existence of a robust enterprise risk management framework enhances the ability of an insurer to effectively reflect risks in its ORSA.\nEnterprise risk management, along with related controls and governance mechanisms, and the ORSA should be well integrated so that the information, analysis and results from both processes are consistent. The same is true for other processes that either feed into the ORSA or are impacted by ORSA results.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "In conducting its ORSA, an insurer should determine its own capital needs and establish its Internal Targets based on an internal assessment of all material risks, including the results of the enterprise risk management process Footnote 5 . The existence of a robust enterprise risk management framework enhances the ability of an insurer to effectively reflect risks in its ORSA."
+        },
+        {
+          "type": "paragraph",
+          "text": "Enterprise risk management, along with related controls and governance mechanisms, and the ORSA should be well integrated so that the information, analysis and results from both processes are consistent. The same is true for other processes that either feed into the ORSA or are impacted by ORSA results."
+        }
+      ]
+    },
+    {
+      "heading": "IV. Key Elements",
+      "heading_level": 2,
+      "full_text": "The ORSA should contain, at a minimum, certain key elements and considerations, including:\n  1. Comprehensive Identification and Assessment of Risks\n  2. Relating Risk to Capital\n  3. Oversight\n  4. Monitoring and Reporting\n  5. Internal Controls and Objective Review\nThere is no single correct approach to an ORSA, and one approach will not fit all insurers. Therefore, these key elements and considerations are broadly stated and it is understood that the manner with which some of these elements are integrated in an insurer's ORSA may vary by company.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "The ORSA should contain, at a minimum, certain key elements and considerations, including:"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "Comprehensive Identification and Assessment of Risks",
+            "Relating Risk to Capital",
+            "Oversight",
+            "Monitoring and Reporting",
+            "Internal Controls and Objective Review"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "There is no single correct approach to an ORSA, and one approach will not fit all insurers. Therefore, these key elements and considerations are broadly stated and it is understood that the manner with which some of these elements are integrated in an insurer's ORSA may vary by company."
+        }
+      ]
+    },
+    {
+      "heading": "Comprehensive Identification and Assessment of Risks",
+      "heading_level": 3,
+      "full_text": "An insurer's ORSA should identify, define and assess the materiality of all known, reasonably foreseeable, emerging and other relevant risks that may have an impact on an insurer's ability to continue operations, in both normal and stressed situations. An insurer's identified risks are expected to evolve as its business activities and environment evolve.\nThe assessment should include all material risks, whether these are explicitly captured in the regulatory capital framework or not, as well as risks that are not easily quantifiable.\nSome risks can be broken down into other more discrete risks and may take different forms depending on the nature of the business and activities of an insurer. The ORSA should give proper consideration to non-material risks that, when combined with other non-material risks, become material. For example, risk categorisation or break down should not produce a lower assessment of own capital needs that would otherwise result if related risks were combined or aggregated.\nInsurers should document underlying assumptions, processes and key considerations with regard to the drivers, the assessment, measurement and mitigants in place for each risk. The appendix Supplementary Risk Considerations includes other risk identification and assessment considerations.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "An insurer's ORSA should identify, define and assess the materiality of all known, reasonably foreseeable, emerging and other relevant risks that may have an impact on an insurer's ability to continue operations, in both normal and stressed situations. An insurer's identified risks are expected to evolve as its business activities and environment evolve."
+        },
+        {
+          "type": "paragraph",
+          "text": "The assessment should include all material risks, whether these are explicitly captured in the regulatory capital framework or not, as well as risks that are not easily quantifiable."
+        },
+        {
+          "type": "paragraph",
+          "text": "Some risks can be broken down into other more discrete risks and may take different forms depending on the nature of the business and activities of an insurer. The ORSA should give proper consideration to non-material risks that, when combined with other non-material risks, become material. For example, risk categorisation or break down should not produce a lower assessment of own capital needs that would otherwise result if related risks were combined or aggregated."
+        },
+        {
+          "type": "paragraph",
+          "text": "Insurers should document underlying assumptions, processes and key considerations with regard to the drivers, the assessment, measurement and mitigants in place for each risk. The appendix Supplementary Risk Considerations includes other risk identification and assessment considerations."
+        }
+      ]
+    },
+    {
+      "heading": "Relating Risk to Capital",
+      "heading_level": 3,
+      "full_text": "As part of its ORSA, an insurer is expected to set Internal Targets. These should normally be determined without undue reliance on regulatory capital measures.\nBefore an insurer gives consideration to external constraints, Internal Targets should be, first and foremost, based on an insurer's assessment of its own capital needs. For example, Internal Targets should normally not be determined by simply adding a margin on the Supervisory Targets. However, as stress and scenario testing should be an integral part of an insurer's process for determining its Internal Targets, consideration of the results of these tests may cause an insurer to add explicit capital cushions/buffers to complement its initial assessment of own capital needs and set its Internal Targets so it can withstand a specified level of losses without falling below the Supervisory Targets Footnote 6 .",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "As part of its ORSA, an insurer is expected to set Internal Targets. These should normally be determined without undue reliance on regulatory capital measures."
+        },
+        {
+          "type": "paragraph",
+          "text": "Before an insurer gives consideration to external constraints, Internal Targets should be, first and foremost, based on an insurer's assessment of its own capital needs. For example, Internal Targets should normally not be determined by simply adding a margin on the Supervisory Targets. However, as stress and scenario testing should be an integral part of an insurer's process for determining its Internal Targets, consideration of the results of these tests may cause an insurer to add explicit capital cushions/buffers to complement its initial assessment of own capital needs and set its Internal Targets so it can withstand a specified level of losses without falling below the Supervisory Targets Footnote 6 ."
+        }
+      ]
+    },
+    {
+      "heading": "Nature, Scale and Complexity",
+      "heading_level": 4,
+      "full_text": "The ORSA is an internal assessment process, tailored to an insurer's own view of its risk profile and appetite, and reflective of the nature, scale and complexity of the insurer.\nInsurers are expected to use more sophisticated methods to estimate the amount of own capital needed for material complex risks they take on or are exposed to. For less material and less complex risks, or for those that are not readily quantifiable, insurers may opt for simpler quantitative analysis (e.g. generally accepted prudent factors or extremely severe but plausible deterministic stress scenarios) combined with well documented qualitative considerations, and incorporate these amounts into their overall assessment of capital adequacy.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "The ORSA is an internal assessment process, tailored to an insurer's own view of its risk profile and appetite, and reflective of the nature, scale and complexity of the insurer."
+        },
+        {
+          "type": "paragraph",
+          "text": "Insurers are expected to use more sophisticated methods to estimate the amount of own capital needed for material complex risks they take on or are exposed to. For less material and less complex risks, or for those that are not readily quantifiable, insurers may opt for simpler quantitative analysis (e.g. generally accepted prudent factors or extremely severe but plausible deterministic stress scenarios) combined with well documented qualitative considerations, and incorporate these amounts into their overall assessment of capital adequacy."
+        }
+      ]
+    },
+    {
+      "heading": "Determining Own Capital Needs",
+      "heading_level": 4,
+      "full_text": "In conducting an ORSA, insurers should determine whether or not, for each risk, an explicit amount (quantity) of capital should be held and how the results for each risk should be aggregated. In doing so, insurers' own capital assessments will reflect their choice of data sets, distributions, measures, confidence levels, time horizons, valuation approaches, financial tools and methodologies, appropriate to their unique profile.\nThe approaches and tools used should be calibrated to determine the total amount of capital needed to cover extremely severe losses. Aggregated, these losses should represent the insurer's total quantity of capital that it needs to absorb the losses and be left with an equal amount of assets and liabilities.\nInsurers are expected to consider publications and professional and other research materials dealing with quantification of risks and risk mitigants such as:\n  - Regulators, consulting firms, professional and other associations, academia, credit rating agencies and other purveyors of research, data, models and publications relating to the measurement of risks and risk mitigants;\n  - Empirical data, evidence and studies of the different and varying manifestations of historical and potential new risks in different markets for similar and dissimilar business activities and products;\n  - Developments in the insurance, financial and other markets and their potential impact on the continued appropriateness of current measurement tools, data and assumptions used by the insurer;\n  - Benchmarking exercises with respect to risk measurement and mitigation tools and their results, whether in the insurance sector or in other sectors where similar risks exist.\nWhen giving consideration to various methodologies, tools or resulting factors, insurers should consider, among other things, that these may be calibrated using a confidence level/time horizon that is different from what the insurer desires, calibrated at an unspecified confidence level/time horizon or designed for a different purpose (e.g. scenario and stress testing can be used to gain a better understanding of risks and identify potential management actions that an insurer can take or its ability to continue to meet regulatory requirements during a stressful event). In these cases, the insurer should make adjustments to the methodology, tool or resulting factor so that the ORSA results are appropriate for determining its own capital needs.\nWhen discrete methods (e.g. sensitivity testing, statistical analysis) are used for determining own capital needs with respect to individual risks, the assessment may not identify or measure dependencies or inter-relations that cause some risks to be greater in the presence of other stresses to other risks. To complement the assessment of individual risks, other tools (e.g. stochastic models or multi-dimensional deterministic scenarios of extremely severe but plausible past, potential or theoretical events) may be used to uncover potential impacts that are due to concentrations, dependencies and interactions between risks. The appendix Supplementary Risk Considerations includes other considerations for relating risks to own capital needs.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "In conducting an ORSA, insurers should determine whether or not, for each risk, an explicit amount (quantity) of capital should be held and how the results for each risk should be aggregated. In doing so, insurers' own capital assessments will reflect their choice of data sets, distributions, measures, confidence levels, time horizons, valuation approaches, financial tools and methodologies, appropriate to their unique profile."
+        },
+        {
+          "type": "paragraph",
+          "text": "The approaches and tools used should be calibrated to determine the total amount of capital needed to cover extremely severe losses. Aggregated, these losses should represent the insurer's total quantity of capital that it needs to absorb the losses and be left with an equal amount of assets and liabilities."
+        },
+        {
+          "type": "paragraph",
+          "text": "Insurers are expected to consider publications and professional and other research materials dealing with quantification of risks and risk mitigants such as:"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Regulators, consulting firms, professional and other associations, academia, credit rating agencies and other purveyors of research, data, models and publications relating to the measurement of risks and risk mitigants;",
+            "Empirical data, evidence and studies of the different and varying manifestations of historical and potential new risks in different markets for similar and dissimilar business activities and products;",
+            "Developments in the insurance, financial and other markets and their potential impact on the continued appropriateness of current measurement tools, data and assumptions used by the insurer;",
+            "Benchmarking exercises with respect to risk measurement and mitigation tools and their results, whether in the insurance sector or in other sectors where similar risks exist."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "When giving consideration to various methodologies, tools or resulting factors, insurers should consider, among other things, that these may be calibrated using a confidence level/time horizon that is different from what the insurer desires, calibrated at an unspecified confidence level/time horizon or designed for a different purpose (e.g. scenario and stress testing can be used to gain a better understanding of risks and identify potential management actions that an insurer can take or its ability to continue to meet regulatory requirements during a stressful event). In these cases, the insurer should make adjustments to the methodology, tool or resulting factor so that the ORSA results are appropriate for determining its own capital needs."
+        },
+        {
+          "type": "paragraph",
+          "text": "When discrete methods (e.g. sensitivity testing, statistical analysis) are used for determining own capital needs with respect to individual risks, the assessment may not identify or measure dependencies or inter-relations that cause some risks to be greater in the presence of other stresses to other risks. To complement the assessment of individual risks, other tools (e.g. stochastic models or multi-dimensional deterministic scenarios of extremely severe but plausible past, potential or theoretical events) may be used to uncover potential impacts that are due to concentrations, dependencies and interactions between risks. The appendix Supplementary Risk Considerations includes other considerations for relating risks to own capital needs."
+        }
+      ]
+    },
+    {
+      "heading": "Setting Internal Targets",
+      "heading_level": 4,
+      "full_text": "Once an insurer has determined its own capital needs, these initial results should be assessed to determine if they are appropriate in relation to external or third party capital expectations Footnote 7 , including OSFI's expectation that Internal Targets exceed Supervisory Targets Footnote 8 .\nIn setting Internal Targets, an insurer should assess the adequacy of its Capital Resources for supporting its current risk profile, and enabling it to continue its current operations Footnote 9 in the normal course, under varying degrees of stress and under a wind-up scenario.\nTherefore, in addition to the process described above to determine an insurer's own capital needs, an insurer should also consider the impact of a range or series of adverse scenarios (e.g. an economic downturn) of varying nature or severity and its ability to avoid supervisory interventions (i.e. not fall below its Supervisory Targets) or continue as a going concern (i.e. not fall below the Minimums Footnote 10 ). The results of stress testing per OSFI's Guideline E-18: Stress Testing , along with other single and combined forward-looking stress and reverse stress tests, including an insurer's Financial Condition Testing (FCT) scenarios, can be directly incorporated, referenced or otherwise used in the ORSA for setting an insurer's Internal Targets.\nAs outlined in OSFI's Guideline A-4, while all insurers are expected to determine an Internal Target of total capital, life insurers are expected to also determine an Internal Target of core capital. Core capital should serve to reduce the likelihood of insolvency, both in normal times and during periods when the insurer is under stress. When setting a core capital Internal Target, a life insurer should consider its target capital composition/mix and its assessment of the characteristics and quality of Capital Resources.\nWith respect to Canadian branches of foreign insurers, the determination and assessment of the composition of the margin of assets over liabilities may not include all of the same considerations that are relevant for determining and assessing the quality of capital instruments needed or issued by insurers if the branch does not raise capital within Canada. However, the ORSA should include many of the same considerations with respect to the quality of the assets vested in trust in Canada and other assets under the control of the Chief Agent in Canada that support the liabilities in Canada and how these are recognized and valued for capital adequacy purposes.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Once an insurer has determined its own capital needs, these initial results should be assessed to determine if they are appropriate in relation to external or third party capital expectations Footnote 7 , including OSFI's expectation that Internal Targets exceed Supervisory Targets Footnote 8 ."
+        },
+        {
+          "type": "paragraph",
+          "text": "In setting Internal Targets, an insurer should assess the adequacy of its Capital Resources for supporting its current risk profile, and enabling it to continue its current operations Footnote 9 in the normal course, under varying degrees of stress and under a wind-up scenario."
+        },
+        {
+          "type": "paragraph",
+          "text": "Therefore, in addition to the process described above to determine an insurer's own capital needs, an insurer should also consider the impact of a range or series of adverse scenarios (e.g. an economic downturn) of varying nature or severity and its ability to avoid supervisory interventions (i.e. not fall below its Supervisory Targets) or continue as a going concern (i.e. not fall below the Minimums Footnote 10 ). The results of stress testing per OSFI's Guideline E-18: Stress Testing , along with other single and combined forward-looking stress and reverse stress tests, including an insurer's Financial Condition Testing (FCT) scenarios, can be directly incorporated, referenced or otherwise used in the ORSA for setting an insurer's Internal Targets."
+        },
+        {
+          "type": "paragraph",
+          "text": "As outlined in OSFI's Guideline A-4, while all insurers are expected to determine an Internal Target of total capital, life insurers are expected to also determine an Internal Target of core capital. Core capital should serve to reduce the likelihood of insolvency, both in normal times and during periods when the insurer is under stress. When setting a core capital Internal Target, a life insurer should consider its target capital composition/mix and its assessment of the characteristics and quality of Capital Resources."
+        },
+        {
+          "type": "paragraph",
+          "text": "With respect to Canadian branches of foreign insurers, the determination and assessment of the composition of the margin of assets over liabilities may not include all of the same considerations that are relevant for determining and assessing the quality of capital instruments needed or issued by insurers if the branch does not raise capital within Canada. However, the ORSA should include many of the same considerations with respect to the quality of the assets vested in trust in Canada and other assets under the control of the Chief Agent in Canada that support the liabilities in Canada and how these are recognized and valued for capital adequacy purposes."
+        }
+      ]
+    },
+    {
+      "heading": "Integration with Other Business Processes",
+      "heading_level": 4,
+      "full_text": "The ORSA is a forward-looking process. It should be consistent with an insurer's strategic and business planning and should contemplate the potential adverse capital impacts over an insurer's planning horizon (e.g. 3 to 5 years). An insurer's ORSA process should be consistent with and linked to the enterprise risk management and other management processes. For example, quantifiable estimates of risks that are used for ORSA purposes should be consistent with or feed into the decision making process and, where appropriate, have other business uses.\nThe assessment of adequacy of capital should also consider the capital needed to support an insurer's longer term business strategies and, in particular, new business and planned growth. Considering this, an insurer should determine an appropriate level or range of capitalization at which it operates, set above its Internal Targets. In determining an operating level, an insurer should consider the impact of future planned, foreseen and likely potential changes to its risk profile due to changes in its operations, its business strategy or its operating environment. For example, it should consider a series of varying adverse scenarios and, at a certain operating level, assess the insurer's ability to continue operating and not fall below its Internal Targets. It should also evaluate whether long-run Internal Targets are consistent with short-run goals, and adjust its operating levels as appropriate; recognizing that accommodating additional capital needs or additional risk mitigants can require significant lead time.\nIn this context, an insurer should relate its capital needs to, for example, potential changes in risks, anticipated growth, acquisitions and divestments, potential group needs and limits on fungibility/transfer of capital, plans to access external sources of capital and the level of capital desired to enable the insurer to take identified potential countervailing actions against a stress event at an acceptable cost.\nAll material risks, including those that are difficult to quantify in the ORSA, should be subject to internal controls. An insurer should identify relevant countervailing measures and actions that could be taken to improve its solvency position, should it be negatively impacted by economic downturns or other stress events. These may include, for example, raising additional capital, slowing or ceasing new business, entering into reinsurance arrangements, implementing changes to product pricing and/or changes to business mix.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "The ORSA is a forward-looking process. It should be consistent with an insurer's strategic and business planning and should contemplate the potential adverse capital impacts over an insurer's planning horizon (e.g. 3 to 5 years). An insurer's ORSA process should be consistent with and linked to the enterprise risk management and other management processes. For example, quantifiable estimates of risks that are used for ORSA purposes should be consistent with or feed into the decision making process and, where appropriate, have other business uses."
+        },
+        {
+          "type": "paragraph",
+          "text": "The assessment of adequacy of capital should also consider the capital needed to support an insurer's longer term business strategies and, in particular, new business and planned growth. Considering this, an insurer should determine an appropriate level or range of capitalization at which it operates, set above its Internal Targets. In determining an operating level, an insurer should consider the impact of future planned, foreseen and likely potential changes to its risk profile due to changes in its operations, its business strategy or its operating environment. For example, it should consider a series of varying adverse scenarios and, at a certain operating level, assess the insurer's ability to continue operating and not fall below its Internal Targets. It should also evaluate whether long-run Internal Targets are consistent with short-run goals, and adjust its operating levels as appropriate; recognizing that accommodating additional capital needs or additional risk mitigants can require significant lead time."
+        },
+        {
+          "type": "paragraph",
+          "text": "In this context, an insurer should relate its capital needs to, for example, potential changes in risks, anticipated growth, acquisitions and divestments, potential group needs and limits on fungibility/transfer of capital, plans to access external sources of capital and the level of capital desired to enable the insurer to take identified potential countervailing actions against a stress event at an acceptable cost."
+        },
+        {
+          "type": "paragraph",
+          "text": "All material risks, including those that are difficult to quantify in the ORSA, should be subject to internal controls. An insurer should identify relevant countervailing measures and actions that could be taken to improve its solvency position, should it be negatively impacted by economic downturns or other stress events. These may include, for example, raising additional capital, slowing or ceasing new business, entering into reinsurance arrangements, implementing changes to product pricing and/or changes to business mix."
+        }
+      ]
+    },
+    {
+      "heading": "Oversight",
+      "heading_level": 3,
+      "full_text": "A sound risk management and oversight process should assist an insurer in performing an effective assessment of its own capital needs, in determining its Internal Targets and in assessing the adequacy of its current and likely future solvency position. In this context, the establishment of appropriate policies, procedures, systems, controls and personnel for identifying, analysing, assessing, monitoring and measuring its risk exposures can improve the quality and effectiveness of the ORSA.\nSenior Management should have a good understanding of the nature and significance of the risk exposures of the insurer, the related risk mitigants, risk management tools/techniques and oversight processes and how these relate to adequate levels of capital. Senior Management should review the appropriateness of the formality and sophistication of the methods used to quantify risks and risk mitigants as well as the risk management and reporting processes vis-à-vis the Risk Appetite Framework Footnote 11 and the general risk profile and business plans of the insurer.\nThe ORSA should assist the insurer in its risk assessment, risk management and planning by exploring and assessing potential threats to an insurer's capital and solvency positions. For example, the results of stress scenario tests should be used to identify actions that could be taken either to lessen the likelihood of such threats occurring or to mitigate the impact of an adverse scenario, should one actually occur.\nPlease refer to OSFI’s Corporate Governance Guideline for OSFI’s expectations of insurer Boards of Directors in regards to operational, business, risk and crisis management policies.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "A sound risk management and oversight process should assist an insurer in performing an effective assessment of its own capital needs, in determining its Internal Targets and in assessing the adequacy of its current and likely future solvency position. In this context, the establishment of appropriate policies, procedures, systems, controls and personnel for identifying, analysing, assessing, monitoring and measuring its risk exposures can improve the quality and effectiveness of the ORSA."
+        },
+        {
+          "type": "paragraph",
+          "text": "Senior Management should have a good understanding of the nature and significance of the risk exposures of the insurer, the related risk mitigants, risk management tools/techniques and oversight processes and how these relate to adequate levels of capital. Senior Management should review the appropriateness of the formality and sophistication of the methods used to quantify risks and risk mitigants as well as the risk management and reporting processes vis-à-vis the Risk Appetite Framework Footnote 11 and the general risk profile and business plans of the insurer."
+        },
+        {
+          "type": "paragraph",
+          "text": "The ORSA should assist the insurer in its risk assessment, risk management and planning by exploring and assessing potential threats to an insurer's capital and solvency positions. For example, the results of stress scenario tests should be used to identify actions that could be taken either to lessen the likelihood of such threats occurring or to mitigate the impact of an adverse scenario, should one actually occur."
+        },
+        {
+          "type": "paragraph",
+          "text": "Please refer to OSFI’s Corporate Governance Guideline for OSFI’s expectations of insurer Boards of Directors in regards to operational, business, risk and crisis management policies."
+        }
+      ]
+    },
+    {
+      "heading": "Monitoring and Reporting",
+      "heading_level": 3,
+      "full_text": "The ORSA should be performed on a regular basis so that it continues to provide relevant information for an insurer's management processes. It should be clearly and formally documented in a report at least annually and more often if circumstances warrant, for example when there are changes to the insurer's risk profile or risk appetite.\nThe ORSA report should contain sufficient information about the process, underlying principles, methodologies, key assumptions, key sensitivity information and overall results relative to the risk appetite, strategic and operational plans and capital management framework of the insurer. The report should be used by the insurer to assess the appropriateness of the ORSA, including the overall results and the quality/composition of its capital, and confirm the insurer's Internal Targets.\nAn insurer's Senior Management should receive regular and timely reports on the insurer's risks and capital. These reports should allow Senior Management to:\n  - Evaluate the level and trend of material risks and their potential effect on capital;\n  - Evaluate the sensitivity and reasonableness of assumptions used in the risk and capital assessment and measurement process;\n  - Determine that the insurer holds sufficient capital in relation to established capital adequacy targets and goals (both internal and regulatory/external);\n  - Evaluate the adequacy of capital using stresses and scenarios;\n  - Assess future capital needs (e.g. dividend plans, issuance/retirement of capital instruments and capital fungibility constraints) and make any adjustments to the insurer's strategic, capital and other plans, as necessary;\nThe monitoring and reporting process should take into account the current and forecasted business environments and should, consistent with the risk and capital adequacy assessment, be adjusted when appropriate so that capital remains adequate during periods when the insurer is under stress and through entire business cycles.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "The ORSA should be performed on a regular basis so that it continues to provide relevant information for an insurer's management processes. It should be clearly and formally documented in a report at least annually and more often if circumstances warrant, for example when there are changes to the insurer's risk profile or risk appetite."
+        },
+        {
+          "type": "paragraph",
+          "text": "The ORSA report should contain sufficient information about the process, underlying principles, methodologies, key assumptions, key sensitivity information and overall results relative to the risk appetite, strategic and operational plans and capital management framework of the insurer. The report should be used by the insurer to assess the appropriateness of the ORSA, including the overall results and the quality/composition of its capital, and confirm the insurer's Internal Targets."
+        },
+        {
+          "type": "paragraph",
+          "text": "An insurer's Senior Management should receive regular and timely reports on the insurer's risks and capital. These reports should allow Senior Management to:"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Evaluate the level and trend of material risks and their potential effect on capital;",
+            "Evaluate the sensitivity and reasonableness of assumptions used in the risk and capital assessment and measurement process;",
+            "Determine that the insurer holds sufficient capital in relation to established capital adequacy targets and goals (both internal and regulatory/external);",
+            "Evaluate the adequacy of capital using stresses and scenarios;",
+            "Assess future capital needs (e.g. dividend plans, issuance/retirement of capital instruments and capital fungibility constraints) and make any adjustments to the insurer's strategic, capital and other plans, as necessary;"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "The monitoring and reporting process should take into account the current and forecasted business environments and should, consistent with the risk and capital adequacy assessment, be adjusted when appropriate so that capital remains adequate during periods when the insurer is under stress and through entire business cycles."
+        }
+      ]
+    },
+    {
+      "heading": "Internal Controls and Objective Review",
+      "heading_level": 3,
+      "full_text": "An insurer's internal control structure is essential to the quality of its ORSA. An insurer's Senior Management reviews the insurer's method for monitoring and reporting on compliance with internal policies as well as the system for assessing risks and for relating risks to the insurer's own capital needs. Senior Management should satisfy itself that the insurer's system of internal controls continues to be adequate for well-ordered and prudent conduct of business, including the quality of its ORSA process.\nAn insurer should conduct regular reviews of its ORSA process for integrity, accuracy, and reasonableness. Areas that should be reviewed include, among others:\n  - Comprehensiveness and appropriateness of an insurer's assessment process, given the insurer's nature, scale and complexity, the soundness of the controls underpinning it, and OSFI's expectations with respect to the ORSA process;\n  - Governance mechanisms related to the assessment and review by the insurer of group processes used in its operations, where the insurer uses a group ORSA;\n  - Process for identification of risks, large exposures, risk concentrations, dependencies and interactions;\n  - Appropriateness of the methodologies, distributions and measures and accuracy and completeness of financial and quantitative data inputs;\n  - Reasonableness and validity of the ORSA results, including the embedded assumptions and inputs from stress tests, scenarios, models and other methodologies and tools used in the assessment process;\n  - Reasonableness of the individual risk and other components and overall ORSA results;\n  - Consistency of the ORSA results with an insurer's risk limits and risk appetite;\n  - Appropriateness of the documentation that supports the ORSA and the contents of the ORSA report;\n  - Effectiveness of information systems that support the ORSA;\n  - Consistency and linkages of the ORSA process and results with the risk management, strategic, business and capital planning processes.\nThe ORSA, including the ORSA report, should be subject to periodic objective reviews. The objective review may be conducted by an internal or external auditor, by a skilled and experienced internal or external resource or by a skilled and experienced individual, who reports directly to or is a member of the Board.\nAn objective reviewer should not be responsible for nor have been actively involved in the part of the ORSA that it reviews. For example, where the internal auditor is not otherwise involved in the process, the ORSA may be included in the internal audit plan so that it is covered within the audit cycle Footnote 12 .",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "An insurer's internal control structure is essential to the quality of its ORSA. An insurer's Senior Management reviews the insurer's method for monitoring and reporting on compliance with internal policies as well as the system for assessing risks and for relating risks to the insurer's own capital needs. Senior Management should satisfy itself that the insurer's system of internal controls continues to be adequate for well-ordered and prudent conduct of business, including the quality of its ORSA process."
+        },
+        {
+          "type": "paragraph",
+          "text": "An insurer should conduct regular reviews of its ORSA process for integrity, accuracy, and reasonableness. Areas that should be reviewed include, among others:"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Comprehensiveness and appropriateness of an insurer's assessment process, given the insurer's nature, scale and complexity, the soundness of the controls underpinning it, and OSFI's expectations with respect to the ORSA process;",
+            "Governance mechanisms related to the assessment and review by the insurer of group processes used in its operations, where the insurer uses a group ORSA;",
+            "Process for identification of risks, large exposures, risk concentrations, dependencies and interactions;",
+            "Appropriateness of the methodologies, distributions and measures and accuracy and completeness of financial and quantitative data inputs;",
+            "Reasonableness and validity of the ORSA results, including the embedded assumptions and inputs from stress tests, scenarios, models and other methodologies and tools used in the assessment process;",
+            "Reasonableness of the individual risk and other components and overall ORSA results;",
+            "Consistency of the ORSA results with an insurer's risk limits and risk appetite;",
+            "Appropriateness of the documentation that supports the ORSA and the contents of the ORSA report;",
+            "Effectiveness of information systems that support the ORSA;",
+            "Consistency and linkages of the ORSA process and results with the risk management, strategic, business and capital planning processes."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "The ORSA, including the ORSA report, should be subject to periodic objective reviews. The objective review may be conducted by an internal or external auditor, by a skilled and experienced internal or external resource or by a skilled and experienced individual, who reports directly to or is a member of the Board."
+        },
+        {
+          "type": "paragraph",
+          "text": "An objective reviewer should not be responsible for nor have been actively involved in the part of the ORSA that it reviews. For example, where the internal auditor is not otherwise involved in the process, the ORSA may be included in the internal audit plan so that it is covered within the audit cycle Footnote 12 ."
+        }
+      ]
+    },
+    {
+      "heading": "V. Interaction of the ORSA with the Supervisory Review",
+      "heading_level": 2,
+      "full_text": "OSFI assesses capital adequacy at multiple levels. An insurer should have sufficient capital to meet Minimum and Supervisory Target regulatory capital, as well as sufficient capital to support its risk profile.\nOSFI may review the ORSA and, upon request, the ORSA report (and/or other supporting documentation) in its assessment of the risk profile of an insurer to determine whether the ORSA is consistent with OSFI's understanding and assessment of the insurer's risk appetite and risk profile.\nThe depth and frequency of supervisory review of an insurer's ORSA will be proportional to the nature, scale and complexity of its activities, and the risks assumed by an insurer.\nThe supervisory review of the ORSA is not intended to prescribe how an insurer should perform, use or report on its ORSA. Rather, the review allows for dialogue on OSFI's assessment of an insurer's ORSA including:\n  - The approach/methodology, assumptions, data and other considerations (e.g. level of confidence and rationale) supporting internal estimates of risks that are also explicitly captured in the regulatory capital guidelines;\n  - Risks not fully captured (e.g. concentration, contagion and aggregation of risks) and/or not explicitly captured (e.g. reputation and strategic risk) by regulatory capital guidelines;\n  - External factors, where not already considered in the previous points, including stress testing, impact of economic cycles and other external risks;\n  - The level and quality of the insurer's capital, and the quality of the assessment by the insurer using a range of stress scenarios included or referenced in the ORSA;\n  - Limitations of the insurer's ORSA;\n  - Other regulatory requirements and expectations or market considerations;\n  - Identification of best practices and potential gaps arising from a cross-sector review of ORSA;\n  - How and to whom ORSA related information is communicated and how ORSA issues or limitations are shared with users and appropriately elevated to relevant parties within the insurer.\nIn addition to quantitative efforts, OSFI understands and expects that expert judgement will be necessary to operationalize an insurer's assessment and measurement of risks and to integrate those results into the overall assessment of own capital needs and the determination of Internal Targets. The ORSA is a process and a tool that OSFI expects will be used to support insurers risk and capital assessment, on-going management, governance and other decision making activities; therefore, both the quantitative and the qualitative aspects of the ORSA are equally important.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "OSFI assesses capital adequacy at multiple levels. An insurer should have sufficient capital to meet Minimum and Supervisory Target regulatory capital, as well as sufficient capital to support its risk profile."
+        },
+        {
+          "type": "paragraph",
+          "text": "OSFI may review the ORSA and, upon request, the ORSA report (and/or other supporting documentation) in its assessment of the risk profile of an insurer to determine whether the ORSA is consistent with OSFI's understanding and assessment of the insurer's risk appetite and risk profile."
+        },
+        {
+          "type": "paragraph",
+          "text": "The depth and frequency of supervisory review of an insurer's ORSA will be proportional to the nature, scale and complexity of its activities, and the risks assumed by an insurer."
+        },
+        {
+          "type": "paragraph",
+          "text": "The supervisory review of the ORSA is not intended to prescribe how an insurer should perform, use or report on its ORSA. Rather, the review allows for dialogue on OSFI's assessment of an insurer's ORSA including:"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "The approach/methodology, assumptions, data and other considerations (e.g. level of confidence and rationale) supporting internal estimates of risks that are also explicitly captured in the regulatory capital guidelines;",
+            "Risks not fully captured (e.g. concentration, contagion and aggregation of risks) and/or not explicitly captured (e.g. reputation and strategic risk) by regulatory capital guidelines;",
+            "External factors, where not already considered in the previous points, including stress testing, impact of economic cycles and other external risks;",
+            "The level and quality of the insurer's capital, and the quality of the assessment by the insurer using a range of stress scenarios included or referenced in the ORSA;",
+            "Limitations of the insurer's ORSA;",
+            "Other regulatory requirements and expectations or market considerations;",
+            "Identification of best practices and potential gaps arising from a cross-sector review of ORSA;",
+            "How and to whom ORSA related information is communicated and how ORSA issues or limitations are shared with users and appropriately elevated to relevant parties within the insurer."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "In addition to quantitative efforts, OSFI understands and expects that expert judgement will be necessary to operationalize an insurer's assessment and measurement of risks and to integrate those results into the overall assessment of own capital needs and the determination of Internal Targets. The ORSA is a process and a tool that OSFI expects will be used to support insurers risk and capital assessment, on-going management, governance and other decision making activities; therefore, both the quantitative and the qualitative aspects of the ORSA are equally important."
+        }
+      ]
+    },
+    {
+      "heading": "Appendix – Supplementary Risk Considerations",
+      "heading_level": 2,
+      "full_text": "The risk considerations contained within this appendix do not constitute an exhaustive list of exposures and factors that insurers should consider for purposes of the ORSA and for establishing Internal Targets. Rather, they provide some examples that may be relevant for a particular insurer and that may be used when exploring and assessing risks in the context of the ORSA.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "The risk considerations contained within this appendix do not constitute an exhaustive list of exposures and factors that insurers should consider for purposes of the ORSA and for establishing Internal Targets. Rather, they provide some examples that may be relevant for a particular insurer and that may be used when exploring and assessing risks in the context of the ORSA."
+        }
+      ]
+    },
+    {
+      "heading": "Emerging/Evolving risks",
+      "heading_level": 4,
+      "full_text": "Certain risks may be identified based on possible new developments or emerging trends in the internal or external environment. While some may have been reviewed and found to be non-material, others may not have yet been defined or evaluated. Also, risks that were once considered immaterial may become material as the insurer's environment changes.\nThe ORSA should consider how risks may evolve and what measurement and management techniques are required for monitoring purposes.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Certain risks may be identified based on possible new developments or emerging trends in the internal or external environment. While some may have been reviewed and found to be non-material, others may not have yet been defined or evaluated. Also, risks that were once considered immaterial may become material as the insurer's environment changes."
+        },
+        {
+          "type": "paragraph",
+          "text": "The ORSA should consider how risks may evolve and what measurement and management techniques are required for monitoring purposes."
+        }
+      ]
+    },
+    {
+      "heading": "Risk transfer/Mitigation activities",
+      "heading_level": 4,
+      "full_text": "Insurers should be cognizant of any risks that may exist within certain risk transfer or risk mitigation activities (such as reinsurance, hedging or securitization transactions), and how these would behave under stress conditions. Resulting new or additional risks such as credit/counterparty and operational risk should be taken into consideration.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Insurers should be cognizant of any risks that may exist within certain risk transfer or risk mitigation activities (such as reinsurance, hedging or securitization transactions), and how these would behave under stress conditions. Resulting new or additional risks such as credit/counterparty and operational risk should be taken into consideration."
+        }
+      ]
+    },
+    {
+      "heading": "Cross border activities",
+      "heading_level": 4,
+      "full_text": "Insurers that operate in multiple jurisdictions or otherwise engage in cross border investments and transactions with foreign counterparties may be subject to increased risk including: country risk, concentration risk, foreign currency risk (market risk) as well as regulatory, legal, compliance and operational risks. Laws and regulators' actions in foreign jurisdictions could make it much more difficult to realize on assets and security in the event of a default.\nAn insurer's ORSA should consider these types of activities and assess the controls, capital or assets needed in support of the regulatory, legal and compliance risks associated with concentrations in cross border activities. If an insurer has operations in foreign jurisdictions where restrictions on fungibility or access to capital apply (or could apply), where there is potential ring-fencing of funds, or where minimum/target regulatory capital requirements exceed levels in Canada, this should also be clearly identified and taken into account in setting both group-wide capital needs and Internal Targets for individual insurers.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Insurers that operate in multiple jurisdictions or otherwise engage in cross border investments and transactions with foreign counterparties may be subject to increased risk including: country risk, concentration risk, foreign currency risk (market risk) as well as regulatory, legal, compliance and operational risks. Laws and regulators' actions in foreign jurisdictions could make it much more difficult to realize on assets and security in the event of a default."
+        },
+        {
+          "type": "paragraph",
+          "text": "An insurer's ORSA should consider these types of activities and assess the controls, capital or assets needed in support of the regulatory, legal and compliance risks associated with concentrations in cross border activities. If an insurer has operations in foreign jurisdictions where restrictions on fungibility or access to capital apply (or could apply), where there is potential ring-fencing of funds, or where minimum/target regulatory capital requirements exceed levels in Canada, this should also be clearly identified and taken into account in setting both group-wide capital needs and Internal Targets for individual insurers."
+        }
+      ]
+    },
+    {
+      "heading": "Relating Risk to Capital (Determining Own Capital Needs)",
+      "heading_level": 3,
+      "full_text": "This guideline does not provide a list of available approaches, methodologies or tools. As a result ORSA practices across insurers are likely to vary. For example, some insurers may:\n  - consider that their assessment of a material complex risk or set of risks would be best performed through the use of sophisticated internal models;\n  - determine that developing complex internal models for a material complex risk, although desirable, is not feasible and, as a result, select somewhat simpler, less refined approaches and compensate with more prudent assumptions that nonetheless yield reasonable estimates of own capital needs;\n  - expend considerable effort to develop an advanced methodology to assess a specific complex risk which they believe will give them a competitive advantage in the market and allow for improved capital allocation;\n  - choose to rely heavily on qualitative considerations, including expert judgement, for risks that are difficult to quantify and for which measurement results vary significantly depending on the approach and method used;\n  - develop complex methodologies to aggregate results and estimate the capital needs for concentrations, dependencies and risk interactions along with prudent benefits of diversification;\n  - choose a simple aggregation approach producing cruder results that achieve little or no diversification benefits.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "This guideline does not provide a list of available approaches, methodologies or tools. As a result ORSA practices across insurers are likely to vary. For example, some insurers may:"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "consider that their assessment of a material complex risk or set of risks would be best performed through the use of sophisticated internal models;",
+            "determine that developing complex internal models for a material complex risk, although desirable, is not feasible and, as a result, select somewhat simpler, less refined approaches and compensate with more prudent assumptions that nonetheless yield reasonable estimates of own capital needs;",
+            "expend considerable effort to develop an advanced methodology to assess a specific complex risk which they believe will give them a competitive advantage in the market and allow for improved capital allocation;",
+            "choose to rely heavily on qualitative considerations, including expert judgement, for risks that are difficult to quantify and for which measurement results vary significantly depending on the approach and method used;",
+            "develop complex methodologies to aggregate results and estimate the capital needs for concentrations, dependencies and risk interactions along with prudent benefits of diversification;",
+            "choose a simple aggregation approach producing cruder results that achieve little or no diversification benefits."
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "Aggregation/Diversification Adjustment",
+      "heading_level": 4,
+      "full_text": "Where risk aggregation/diversification adjustment benefits are applied in an insurer's ORSA, they should be validated and calibrated by the insurer on a regular basis. Insurers should be prudent in their assessment of aggregation/diversification benefits and should consider whether such benefits exist in periods of stress. When giving consideration to the benefits of diversification, equal consideration should be given to the potential concentrations, dependencies and interactions of risks that may cause the total impact to be greater than the sum of the impact of the risks considered individually.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Where risk aggregation/diversification adjustment benefits are applied in an insurer's ORSA, they should be validated and calibrated by the insurer on a regular basis. Insurers should be prudent in their assessment of aggregation/diversification benefits and should consider whether such benefits exist in periods of stress. When giving consideration to the benefits of diversification, equal consideration should be given to the potential concentrations, dependencies and interactions of risks that may cause the total impact to be greater than the sum of the impact of the risks considered individually."
+        }
+      ]
+    },
+    {
+      "heading": "Concentrations, Dependencies and Interactions of Risks",
+      "heading_level": 4,
+      "full_text": "Situations in which risk concentrations, dependencies and interactions can arise include, among others, exposures to:\n  - one or many severe or extremely severe events/scenarios and their knock-on effects;\n  - a series of many small events/scenarios or individual claims and their knock-on effects;\n  - a common cause across many underwriting years (e.g. asbestos, pollution, etc.);\n  - one or very few reinsurers or other counterparties, or connections between counterparties;\n  - one or very few products/lines of business or sources of business/assets;\n  - geographical regions.\nRisk concentrations, dependencies and interactions can arise through a combination of exposures across these and other broad categories. An insurer should have an understanding of its insurance, market, credit and other risk concentrations, dependencies and interactions resulting from exposures within and across its different business lines.\n[Note: Footnotes Footnote 1 Insurer refers to federally regulated insurers including Canadian branches of foreign life and property and casualty companies, fraternal benefit societies, regulated insurance holding companies and non-operating insurance companies. Return to footnote 1 referrer Footnote 2 With respect to Canadian branches of foreign insurers, the term \"capital\" in this guideline includes the parallel concept of \"margin of assets over liabilities\". Return to footnote 2 referrer Footnote 3 Guideline A-4: Regulatory Capital and Internal Capital Targets outlines OSFI's expectations with respect to Internal Targets. Return to footnote 3 referrer Footnote 4 For foreign company branches, OSFI looks to Branch Management to oversee operations in Canada. Return to footnote 4 referrer Footnote 5 For further guidance on enterprise risk management, refer to OSFI's sound business and financial practices guideline: Corporate Governance . Return to footnote 5 referrer Footnote 6 Supervisory Target capital levels are not applicable to regulated insurance holding companies and non-operating insurance companies. Return to footnote 6 referrer Footnote 7 For example: securities, insurance or other regulators and credit rating agencies. Return to footnote 7 referrer Footnote 8 As outlined in Guideline A-4: Regulatory Capital and Internal Capital Targets . Return to footnote 8 referrer Footnote 9 In determining capital needed to support an insurer's current risk profile and for continuing its current operations, it is expected that an insurer would, for example, assume that its current capital needs include any amount required to support short-term insurance contract renewals at the current business level. Return to footnote 9 referrer Footnote 10 As defined in Guideline A-4: Regulatory Capital and Internal Capital Targets . Return to footnote 10 referrer Footnote 11 Refer to OSFI's Corporate Governance Guideline for additional guidance in this area. Return to footnote 11 referrer Footnote 12 OSFI may request that a report by an objective reviewer be prepared and made available at a specific date so it can be included in a planned review of an insurer's ORSA. Return to footnote 12 referrer]",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Situations in which risk concentrations, dependencies and interactions can arise include, among others, exposures to:"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "one or many severe or extremely severe events/scenarios and their knock-on effects;",
+            "a series of many small events/scenarios or individual claims and their knock-on effects;",
+            "a common cause across many underwriting years (e.g. asbestos, pollution, etc.);",
+            "one or very few reinsurers or other counterparties, or connections between counterparties;",
+            "one or very few products/lines of business or sources of business/assets;",
+            "geographical regions."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Risk concentrations, dependencies and interactions can arise through a combination of exposures across these and other broad categories. An insurer should have an understanding of its insurance, market, credit and other risk concentrations, dependencies and interactions resulting from exposures within and across its different business lines."
+        },
+        {
+          "type": "footnote",
+          "text": "Footnotes Footnote 1 Insurer refers to federally regulated insurers including Canadian branches of foreign life and property and casualty companies, fraternal benefit societies, regulated insurance holding companies and non-operating insurance companies. Return to footnote 1 referrer Footnote 2 With respect to Canadian branches of foreign insurers, the term \"capital\" in this guideline includes the parallel concept of \"margin of assets over liabilities\". Return to footnote 2 referrer Footnote 3 Guideline A-4: Regulatory Capital and Internal Capital Targets outlines OSFI's expectations with respect to Internal Targets. Return to footnote 3 referrer Footnote 4 For foreign company branches, OSFI looks to Branch Management to oversee operations in Canada. Return to footnote 4 referrer Footnote 5 For further guidance on enterprise risk management, refer to OSFI's sound business and financial practices guideline: Corporate Governance . Return to footnote 5 referrer Footnote 6 Supervisory Target capital levels are not applicable to regulated insurance holding companies and non-operating insurance companies. Return to footnote 6 referrer Footnote 7 For example: securities, insurance or other regulators and credit rating agencies. Return to footnote 7 referrer Footnote 8 As outlined in Guideline A-4: Regulatory Capital and Internal Capital Targets . Return to footnote 8 referrer Footnote 9 In determining capital needed to support an insurer's current risk profile and for continuing its current operations, it is expected that an insurer would, for example, assume that its current capital needs include any amount required to support short-term insurance contract renewals at the current business level. Return to footnote 9 referrer Footnote 10 As defined in Guideline A-4: Regulatory Capital and Internal Capital Targets . Return to footnote 10 referrer Footnote 11 Refer to OSFI's Corporate Governance Guideline for additional guidance in this area. Return to footnote 11 referrer Footnote 12 OSFI may request that a report by an objective reviewer be prepared and made available at a specific date so it can be included in a planned review of an insurer's ORSA. Return to footnote 12 referrer"
+        }
+      ]
+    },
+    {
+      "heading": "Footnotes",
+      "heading_level": 2,
+      "full_text": "Insurer refers to federally regulated insurers including Canadian branches of foreign life and property and casualty companies, fraternal benefit societies, regulated insurance holding companies and non-operating insurance companies.\nReturn to footnote 1 referrer\nWith respect to Canadian branches of foreign insurers, the term \"capital\" in this guideline includes the parallel concept of \"margin of assets over liabilities\".\nReturn to footnote 2 referrer\nGuideline A-4: Regulatory Capital and Internal Capital Targets outlines OSFI's expectations with respect to Internal Targets.\nReturn to footnote 3 referrer\nFor foreign company branches, OSFI looks to Branch Management to oversee operations in Canada.\nReturn to footnote 4 referrer\nFor further guidance on enterprise risk management, refer to OSFI's sound business and financial practices guideline: Corporate Governance .\nReturn to footnote 5 referrer\nSupervisory Target capital levels are not applicable to regulated insurance holding companies and non-operating insurance companies.\nReturn to footnote 6 referrer\nFor example: securities, insurance or other regulators and credit rating agencies.\nReturn to footnote 7 referrer\nAs outlined in Guideline A-4: Regulatory Capital and Internal Capital Targets .\nReturn to footnote 8 referrer\nIn determining capital needed to support an insurer's current risk profile and for continuing its current operations, it is expected that an insurer would, for example, assume that its current capital needs include any amount required to support short-term insurance contract renewals at the current business level.\nReturn to footnote 9 referrer\nAs defined in Guideline A-4: Regulatory Capital and Internal Capital Targets .\nReturn to footnote 10 referrer\nRefer to OSFI's Corporate Governance Guideline for additional guidance in this area.\nReturn to footnote 11 referrer\nOSFI may request that a report by an objective reviewer be prepared and made available at a specific date so it can be included in a planned review of an insurer's ORSA.\nReturn to footnote 12 referrer",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Insurer refers to federally regulated insurers including Canadian branches of foreign life and property and casualty companies, fraternal benefit societies, regulated insurance holding companies and non-operating insurance companies."
+        },
+        {
+          "type": "paragraph",
+          "text": "Return to footnote 1 referrer"
+        },
+        {
+          "type": "paragraph",
+          "text": "With respect to Canadian branches of foreign insurers, the term \"capital\" in this guideline includes the parallel concept of \"margin of assets over liabilities\"."
+        },
+        {
+          "type": "paragraph",
+          "text": "Return to footnote 2 referrer"
+        },
+        {
+          "type": "paragraph",
+          "text": "Guideline A-4: Regulatory Capital and Internal Capital Targets outlines OSFI's expectations with respect to Internal Targets."
+        },
+        {
+          "type": "paragraph",
+          "text": "Return to footnote 3 referrer"
+        },
+        {
+          "type": "paragraph",
+          "text": "For foreign company branches, OSFI looks to Branch Management to oversee operations in Canada."
+        },
+        {
+          "type": "paragraph",
+          "text": "Return to footnote 4 referrer"
+        },
+        {
+          "type": "paragraph",
+          "text": "For further guidance on enterprise risk management, refer to OSFI's sound business and financial practices guideline: Corporate Governance ."
+        },
+        {
+          "type": "paragraph",
+          "text": "Return to footnote 5 referrer"
+        },
+        {
+          "type": "paragraph",
+          "text": "Supervisory Target capital levels are not applicable to regulated insurance holding companies and non-operating insurance companies."
+        },
+        {
+          "type": "paragraph",
+          "text": "Return to footnote 6 referrer"
+        },
+        {
+          "type": "paragraph",
+          "text": "For example: securities, insurance or other regulators and credit rating agencies."
+        },
+        {
+          "type": "paragraph",
+          "text": "Return to footnote 7 referrer"
+        },
+        {
+          "type": "paragraph",
+          "text": "As outlined in Guideline A-4: Regulatory Capital and Internal Capital Targets ."
+        },
+        {
+          "type": "paragraph",
+          "text": "Return to footnote 8 referrer"
+        },
+        {
+          "type": "paragraph",
+          "text": "In determining capital needed to support an insurer's current risk profile and for continuing its current operations, it is expected that an insurer would, for example, assume that its current capital needs include any amount required to support short-term insurance contract renewals at the current business level."
+        },
+        {
+          "type": "paragraph",
+          "text": "Return to footnote 9 referrer"
+        },
+        {
+          "type": "paragraph",
+          "text": "As defined in Guideline A-4: Regulatory Capital and Internal Capital Targets ."
+        },
+        {
+          "type": "paragraph",
+          "text": "Return to footnote 10 referrer"
+        },
+        {
+          "type": "paragraph",
+          "text": "Refer to OSFI's Corporate Governance Guideline for additional guidance in this area."
+        },
+        {
+          "type": "paragraph",
+          "text": "Return to footnote 11 referrer"
+        },
+        {
+          "type": "paragraph",
+          "text": "OSFI may request that a report by an objective reviewer be prepared and made available at a specific date so it can be included in a planned review of an insurer's ORSA."
+        },
+        {
+          "type": "paragraph",
+          "text": "Return to footnote 12 referrer"
+        }
+      ]
+    }
+  ],
+  "title_normalized": "own risk and solvency assessment",
+  "publication_type_normalized": "guideline",
+  "category_normalized": "sound_business_and_financial_practices",
+  "sector_normalized": [
+    "life_insurance",
+    "pc_insurance"
+  ],
+  "guideline_number_normalized": "",
+  "applies_to_banks": false,
+  "applies_to_trust_loan": false,
+  "applies_to_life_insurance": true,
+  "applies_to_pc_insurance": true,
+  "applies_to_foreign_bank": false,
+  "applies_to_foreign_insurance": false,
+  "applies_to_cooperative": false,
+  "applies_to_bank_holding": false,
+  "effective_date_sort_key": "2017-12-31",
+  "status_sort_key": 1,
+  "authority_sort_key": 100,
+  "bm25_text": "Own Risk and Solvency Assessment Guideline Sound Business and Financial Practices Life Insurance and Fraternal Companies Property and Casualty Companies I. Introduction II. Scope III. ORSA and Enterprise Risk Management IV. Key Elements Comprehensive Identification and Assessment of Risks Relating Risk to Capital Nature, Scale and Complexity Determining Own Capital Needs Setting Internal Targets Integration with Other Business Processes Oversight Monitoring and Reporting Internal Controls and Objective Review V. Interaction of the ORSA with the Supervisory Review Appendix – Supplementary Risk Considerations Emerging/Evolving risks Risk transfer/Mitigation activities Cross border activities Relating Risk to Capital (Determining Own Capital Needs) Aggregation/Diversification Adjustment Concentrations, Dependencies and Interactions of Risks Footnotes",
+  "vector_text_prefix": "[OSFI Guideline  | Sound Business and Financial Practices | Life Insurance and Fraternal Companies / Property and Casualty Companies | FINAL_CURRENT | Effective 2017-12-31]",
+  "h1_title": "Own Risk and Solvency Assessment",
+  "regulator": "OSFI",
+  "regulator_acronym": "OSFI",
+  "jurisdiction": "Canada",
+  "short_title": "",
+  "source_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/own-risk-solvency-assessment"
+}

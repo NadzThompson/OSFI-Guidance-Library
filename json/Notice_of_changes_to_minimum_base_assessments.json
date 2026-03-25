@@ -1,0 +1,243 @@
+{
+  "source_system": "osfi_guidance_library",
+  "library_row_title": "Notice of changes to minimum base assessments",
+  "library_row_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/notice-changes-minimum-base-assessments",
+  "listing_date_raw": "March 21, 2025",
+  "listing_date_iso": "2025-03-21",
+  "listing_publication_type": "Letter",
+  "listing_category": "",
+  "listing_sector": [
+    "Banks",
+    "Foreign Bank Branches",
+    "Life Insurance and Fraternal Companies",
+    "Property and Casualty Companies",
+    "Trust and Loan Companies"
+  ],
+  "crawl_timestamp": "2026-03-11T00:00:00Z",
+  "detail_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/notice-changes-minimum-base-assessments",
+  "canonical_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/notice-changes-minimum-base-assessments",
+  "slug": "notice-changes-minimum-base-assessments",
+  "title": "Notice of changes to minimum base assessments",
+  "publication_type": "Letter",
+  "category": "",
+  "document_date_raw": "March 21, 2025",
+  "document_date_iso": "2025-03-21",
+  "sector": [
+    "Banks",
+    "Foreign Bank Branches",
+    "Life Insurance and Fraternal Companies",
+    "Property and Casualty Companies",
+    "Trust and Loan Companies"
+  ],
+  "effective_date_text": "",
+  "guideline_number": "",
+  "date_modified_raw": "2025-03-21T12:00:00Z",
+  "generate_pdf_url": "https://www.osfi-bsif.gc.ca/en/print/pdf/node/297",
+  "pdf_node_id": 297,
+  "direct_pdf_url": null,
+  "has_table_of_contents": true,
+  "toc_entries": [],
+  "has_related_documents": false,
+  "related_document_links_raw": [],
+  "consultation_status_text": null,
+  "consultation_status_refers_to_version": null,
+  "page_language": "en",
+  "word_count_raw_body": 401,
+  "doc_id": "osfi.notice-changes-minimum-base-assessments.transmittal",
+  "doc_family_id": "osfi.notice-changes-minimum-base-assessments",
+  "version_id": "",
+  "version_label": "Notice of changes to minimum base assessments",
+  "version_sort_key": "",
+  "parent_doc_id": null,
+  "child_doc_ids": [],
+  "is_package_page": false,
+  "is_chapter_page": false,
+  "chapter_number": null,
+  "chapter_title": null,
+  "document_order_within_family": 0,
+  "supersedes_doc_id": null,
+  "superseded_by_doc_id": null,
+  "current_version_flag": true,
+  "status": "final_current",
+  "include_in_primary_corpus": false,
+  "include_in_support_corpus": true,
+  "include_in_context_corpus": false,
+  "effective_date_start": "2025-03-21",
+  "effective_date_end": null,
+  "effective_date_fye_split": false,
+  "effective_date_oct_fye": null,
+  "effective_date_dec_fye": null,
+  "is_future_effective": false,
+  "is_rescinded": false,
+  "is_draft_or_consultation": false,
+  "rescission_date": null,
+  "consultation_closing_date": null,
+  "as_of_applicability": "2026-03-23",
+  "rule_applied": "rule_5_final_current",
+  "authority_class": "official_support",
+  "authority_level": 60,
+  "nova_tier": 2,
+  "prudential_weight": 0.7,
+  "is_primary_normative": false,
+  "is_supporting_interpretive": true,
+  "is_context_only": false,
+  "document_class": "transmittal_letter",
+  "guidance_type_normalized": "letter",
+  "section_headings": [
+    {
+      "level": 2,
+      "text": "Footnotes",
+      "id": "h2-0"
+    }
+  ],
+  "heading_path": [
+    "Notice of changes to minimum base assessments"
+  ],
+  "toc_depth": 2,
+  "has_appendices": false,
+  "appendix_ids": [],
+  "has_tables": true,
+  "table_count": 1,
+  "has_footnotes": true,
+  "footnote_count": 1,
+  "inline_cross_references": [],
+  "quoted_external_references": [],
+  "raw_html_sha256": "ad9222afa443384b72a59ef06397d32aa9382b7cd4d733874e92ea0a973301f7",
+  "raw_pdf_sha256": null,
+  "normalized_text_sha256": null,
+  "raw_html_path": "bronze/osfi/html/final_current/notice-changes-minimum-base-assessments.html",
+  "normalized_md_path": "silver/osfi/md/final_current/notice-changes-minimum-base-assessments.md",
+  "canonical_json_path": "silver/osfi/json/final_current/notice-changes-minimum-base-assessments.json",
+  "content_source": "HTML",
+  "parser_version": "osfi-parser-v2.1.0",
+  "normalizer_version": "osfi-normalizer-v1.4.0",
+  "quality_score": 0.5,
+  "quality_flags": [
+    "thin_body_text"
+  ],
+  "download_timestamp": "2026-03-11T00:00:00Z",
+  "enriched_timestamp": "2026-03-23T09:53:57.280773Z",
+  "sections": [
+    {
+      "heading": "",
+      "heading_level": 2,
+      "full_text": "To: All federally regulated financial institutions\nPursuant to Section 3(2) of the Assessment of Financial Institutions Regulations, 2017 , the minimum base assessments applicable to federally regulated financial institutions will be adjusted as follows for the 2025/26 fiscal year (April 1, 2025 – March 31, 2026):\nInstitution type | 2025/26 minimum assessment | 2024/25 minimum assessment\na society or a foreign fraternal benefit society | $2,510 | $2,450\nan authorized foreign bank that is subject to the restrictions and requirements referred to in subsection 524(2) of the Bank Act ; a trust and loan company whose activities are restricted to carrying on any of the fiduciary activities referred to in section 412 of the Trust and Loan Companies Act and any ancillary activities; a cooperative credit association; a company, a provincial company or a foreign company to which the Insurance Companies Act applies | $18,800 | $18,360\na bank; an authorized foreign bank that is not subject to the restrictions and requirements referred to in subsection 524(2) of the Bank Act ; a trust and loan company not referred to in c) above; a retail association. | $37,590 | $36,720\n  1. a society or a foreign fraternal benefit society\n  1. an authorized foreign bank that is subject to the restrictions and requirements referred to in subsection 524(2) of the Bank Act ;\n  2. a trust and loan company whose activities are restricted to carrying on any of the fiduciary activities referred to in section 412 of the Trust and Loan Companies Act and any ancillary activities;\n  3. a cooperative credit association;\n  4. a company, a provincial company or a foreign company to which the Insurance Companies Act applies\n  1. a bank;\n  2. an authorized foreign bank that is not subject to the restrictions and requirements referred to in subsection 524(2) of the Bank Act ;\n  3. a trust and loan company not referred to in c) above;\n  4. a retail association.\nThe adjustments are due to the change in the Consumer Price Index Footnote 1 from 2023 to 2024. Any questions on the change can be directed to Melvin Green, Senior Manager, Financial Reporting and Systems ( melvin.green@osfi-bsif.gc.ca or (613) 614-2134).\n[Note: Footnotes Footnote 1 As published by Statistics Canada, under the authority of the Statistics Act . Return to footnote 1 referrer]",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "To: All federally regulated financial institutions"
+        },
+        {
+          "type": "paragraph",
+          "text": "Pursuant to Section 3(2) of the Assessment of Financial Institutions Regulations, 2017 , the minimum base assessments applicable to federally regulated financial institutions will be adjusted as follows for the 2025/26 fiscal year (April 1, 2025 – March 31, 2026):"
+        },
+        {
+          "type": "table",
+          "caption": "",
+          "rows": [
+            [
+              "Institution type",
+              "2025/26 minimum assessment",
+              "2024/25 minimum assessment"
+            ],
+            [
+              "a society or a foreign fraternal benefit society",
+              "$2,510",
+              "$2,450"
+            ],
+            [
+              "an authorized foreign bank that is subject to the restrictions and requirements referred to in subsection 524(2) of the Bank Act ; a trust and loan company whose activities are restricted to carrying on any of the fiduciary activities referred to in section 412 of the Trust and Loan Companies Act and any ancillary activities; a cooperative credit association; a company, a provincial company or a foreign company to which the Insurance Companies Act applies",
+              "$18,800",
+              "$18,360"
+            ],
+            [
+              "a bank; an authorized foreign bank that is not subject to the restrictions and requirements referred to in subsection 524(2) of the Bank Act ; a trust and loan company not referred to in c) above; a retail association.",
+              "$37,590",
+              "$36,720"
+            ]
+          ]
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "a society or a foreign fraternal benefit society"
+          ]
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "an authorized foreign bank that is subject to the restrictions and requirements referred to in subsection 524(2) of the Bank Act ;",
+            "a trust and loan company whose activities are restricted to carrying on any of the fiduciary activities referred to in section 412 of the Trust and Loan Companies Act and any ancillary activities;",
+            "a cooperative credit association;",
+            "a company, a provincial company or a foreign company to which the Insurance Companies Act applies"
+          ]
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "a bank;",
+            "an authorized foreign bank that is not subject to the restrictions and requirements referred to in subsection 524(2) of the Bank Act ;",
+            "a trust and loan company not referred to in c) above;",
+            "a retail association."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "The adjustments are due to the change in the Consumer Price Index Footnote 1 from 2023 to 2024. Any questions on the change can be directed to Melvin Green, Senior Manager, Financial Reporting and Systems ( melvin.green@osfi-bsif.gc.ca or (613) 614-2134)."
+        },
+        {
+          "type": "footnote",
+          "text": "Footnotes Footnote 1 As published by Statistics Canada, under the authority of the Statistics Act . Return to footnote 1 referrer"
+        }
+      ]
+    },
+    {
+      "heading": "Footnotes",
+      "heading_level": 2,
+      "full_text": "As published by Statistics Canada, under the authority of the Statistics Act .\nReturn to footnote 1 referrer",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "As published by Statistics Canada, under the authority of the Statistics Act ."
+        },
+        {
+          "type": "paragraph",
+          "text": "Return to footnote 1 referrer"
+        }
+      ]
+    }
+  ],
+  "title_normalized": "notice of changes to minimum base assessments",
+  "publication_type_normalized": "letter",
+  "category_normalized": "",
+  "sector_normalized": [
+    "banks",
+    "foreign_bank_branches",
+    "life_insurance",
+    "pc_insurance",
+    "trust_and_loan_companies"
+  ],
+  "guideline_number_normalized": "",
+  "applies_to_banks": true,
+  "applies_to_trust_loan": true,
+  "applies_to_life_insurance": true,
+  "applies_to_pc_insurance": true,
+  "applies_to_foreign_bank": true,
+  "applies_to_foreign_insurance": false,
+  "applies_to_cooperative": false,
+  "applies_to_bank_holding": false,
+  "effective_date_sort_key": "2025-03-21",
+  "status_sort_key": 1,
+  "authority_sort_key": 60,
+  "bm25_text": "Notice of changes to minimum base assessments Letter Banks Foreign Bank Branches Life Insurance and Fraternal Companies Property and Casualty Companies Trust and Loan Companies Footnotes",
+  "vector_text_prefix": "[OSFI Letter  |  | Banks / Foreign Bank Branches / Life Insurance and Fraternal Companies | FINAL_CURRENT | Effective 2025-03-21]",
+  "h1_title": "Notice of changes to minimum base assessments",
+  "regulator": "OSFI",
+  "regulator_acronym": "OSFI",
+  "jurisdiction": "Canada",
+  "short_title": "",
+  "source_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/notice-changes-minimum-base-assessments"
+}

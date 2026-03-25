@@ -1,0 +1,269 @@
+{
+  "source_system": "osfi_guidance_library",
+  "library_row_title": "Mortgage Insurance",
+  "library_row_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/mortgage-insurance",
+  "listing_date_raw": "June 30, 2010",
+  "listing_date_iso": "2010-06-30",
+  "listing_publication_type": "Implementation note",
+  "listing_category": "",
+  "listing_sector": [
+    "Banks",
+    "Life Insurance and Fraternal Companies",
+    "Property and Casualty Companies",
+    "Trust and Loan Companies"
+  ],
+  "crawl_timestamp": "2026-03-11T00:00:00Z",
+  "detail_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/mortgage-insurance",
+  "canonical_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/mortgage-insurance",
+  "slug": "mortgage-insurance",
+  "title": "Mortgage Insurance",
+  "publication_type": "Implementation note",
+  "category": "",
+  "document_date_raw": "June 30, 2010",
+  "document_date_iso": "2010-06-30",
+  "sector": [
+    "Banks",
+    "Life Insurance and Fraternal Companies",
+    "Property and Casualty Companies",
+    "Trust and Loan Companies"
+  ],
+  "effective_date_text": "",
+  "guideline_number": "",
+  "date_modified_raw": "2010-06-30T12:00:00Z",
+  "generate_pdf_url": "https://www.osfi-bsif.gc.ca/en/print/pdf/node/437",
+  "pdf_node_id": 437,
+  "direct_pdf_url": null,
+  "has_table_of_contents": true,
+  "toc_entries": [],
+  "has_related_documents": true,
+  "related_document_links_raw": [
+    {
+      "title": "Residential mortgage underwriting practices and procedures – Guideline (2017)",
+      "url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/residential-mortgage-underwriting-practices-procedures-guideline-2017"
+    }
+  ],
+  "consultation_status_text": null,
+  "consultation_status_refers_to_version": null,
+  "page_language": "en",
+  "word_count_raw_body": 1526,
+  "doc_id": "osfi.mortgage-insurance.implementation",
+  "doc_family_id": "osfi.mortgage-insurance",
+  "version_id": "",
+  "version_label": "Mortgage Insurance",
+  "version_sort_key": "",
+  "parent_doc_id": null,
+  "child_doc_ids": [],
+  "is_package_page": false,
+  "is_chapter_page": false,
+  "chapter_number": null,
+  "chapter_title": null,
+  "document_order_within_family": 0,
+  "supersedes_doc_id": null,
+  "superseded_by_doc_id": null,
+  "current_version_flag": true,
+  "status": "final_current",
+  "include_in_primary_corpus": true,
+  "include_in_support_corpus": false,
+  "include_in_context_corpus": false,
+  "effective_date_start": "2010-06-30",
+  "effective_date_end": null,
+  "effective_date_fye_split": false,
+  "effective_date_oct_fye": null,
+  "effective_date_dec_fye": null,
+  "is_future_effective": false,
+  "is_rescinded": false,
+  "is_draft_or_consultation": false,
+  "rescission_date": null,
+  "consultation_closing_date": null,
+  "as_of_applicability": "2026-03-23",
+  "rule_applied": "rule_5_final_current",
+  "authority_class": "primary_normative",
+  "authority_level": 90,
+  "nova_tier": 1,
+  "prudential_weight": 1.0,
+  "is_primary_normative": true,
+  "is_supporting_interpretive": false,
+  "is_context_only": false,
+  "document_class": "implementation_note",
+  "guidance_type_normalized": "implementation_note",
+  "section_headings": [
+    {
+      "level": 2,
+      "text": "Introduction",
+      "id": "h2-0"
+    },
+    {
+      "level": 2,
+      "text": "Background",
+      "id": "h2-1"
+    },
+    {
+      "level": 2,
+      "text": "Determination of the Actual Cost of Mortgage Insurance",
+      "id": "h2-2"
+    }
+  ],
+  "heading_path": [
+    "Mortgage Insurance"
+  ],
+  "toc_depth": 2,
+  "has_appendices": false,
+  "appendix_ids": [],
+  "has_tables": false,
+  "table_count": 0,
+  "has_footnotes": false,
+  "footnote_count": 0,
+  "inline_cross_references": [],
+  "quoted_external_references": [],
+  "raw_html_sha256": "620c6f2bec39f27606e3d3b657fb7eb2e9f0cb4bf7db4ff79fcd262d87d8fba3",
+  "raw_pdf_sha256": null,
+  "normalized_text_sha256": null,
+  "raw_html_path": "bronze/osfi/html/final_current/mortgage-insurance.html",
+  "normalized_md_path": "silver/osfi/md/final_current/mortgage-insurance.md",
+  "canonical_json_path": "silver/osfi/json/final_current/mortgage-insurance.json",
+  "content_source": "HTML",
+  "parser_version": "osfi-parser-v2.1.0",
+  "normalizer_version": "osfi-normalizer-v1.4.0",
+  "quality_score": 1.0,
+  "quality_flags": [],
+  "download_timestamp": "2026-03-11T00:00:00Z",
+  "enriched_timestamp": "2026-03-23T09:53:57.019380Z",
+  "sections": [
+    {
+      "heading": "",
+      "heading_level": 2,
+      "full_text": "  - Residential mortgage underwriting practices and procedures – Guideline (2017)",
+      "content": [
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Residential mortgage underwriting practices and procedures – Guideline (2017)"
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "Introduction",
+      "heading_level": 2,
+      "full_text": "This Implementation Note, which applies to federally-regulated financial institutions (FRFIs For the purposes of this Implementation Note, a FRFI is defined as a bank, an authorized foreign bank, or a federally regulated trust and loan company, retail association, life insurance company, property and casualty insurance company, or fraternal benefit society. ) in their dealings with a mortgage insurer as part of obtaining mortgage insurance Defined as an insurance policy or a guarantee against default on a residential mortgage, i.e., a loan made in Canada on the security of residential property that has four or less residential units. in the course of lending on the security of a residential property, provides guidance on factors FRFIs should consider in determining, for the purposes of the legislation Legislative references include: Bank Act sections 418.1 and 552; Cooperative Credit Associations Act section 382.2; Insurance Companies Act sections 469.1 and 542.061; and Trust and Loan Companies Act section 418.1 and Regulations Mortgage Insurance Business (Banks, Authorized Foreign Banks, Trust and Loan Companies, Retail Associations, Canadian Insurance Companies and Canadian Societies) Regulations. , whether arrangements between FRFIs and mortgage insurers need to be included in the determination of the actual cost of the mortgage insurance.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "This Implementation Note, which applies to federally-regulated financial institutions (FRFIs For the purposes of this Implementation Note, a FRFI is defined as a bank, an authorized foreign bank, or a federally regulated trust and loan company, retail association, life insurance company, property and casualty insurance company, or fraternal benefit society. ) in their dealings with a mortgage insurer as part of obtaining mortgage insurance Defined as an insurance policy or a guarantee against default on a residential mortgage, i.e., a loan made in Canada on the security of residential property that has four or less residential units. in the course of lending on the security of a residential property, provides guidance on factors FRFIs should consider in determining, for the purposes of the legislation Legislative references include: Bank Act sections 418.1 and 552; Cooperative Credit Associations Act section 382.2; Insurance Companies Act sections 469.1 and 542.061; and Trust and Loan Companies Act section 418.1 and Regulations Mortgage Insurance Business (Banks, Authorized Foreign Banks, Trust and Loan Companies, Retail Associations, Canadian Insurance Companies and Canadian Societies) Regulations. , whether arrangements between FRFIs and mortgage insurers need to be included in the determination of the actual cost of the mortgage insurance."
+        }
+      ]
+    },
+    {
+      "heading": "Background",
+      "heading_level": 2,
+      "full_text": "Under their governing statutes, FRFIs are generally restricted from lending more than 80% of the value of a residential property unless they insure the loan against default with a mortgage insurer. The usual market practice for high-ratio mortgages is for FRFIs to charge borrowers for insurance premiums on insured mortgages, and to choose which insurer provides the coverage.\nThe Regulations, which come into force on July 1, 2010, are designed to ensure that borrowers do not pay a price for mortgage insurance that exceeds the true cost to the lender. The Regulations establish how the actual cost of mortgage insurance is to be determined, and outline permitted exceptions for the purpose of the calculation.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Under their governing statutes, FRFIs are generally restricted from lending more than 80% of the value of a residential property unless they insure the loan against default with a mortgage insurer. The usual market practice for high-ratio mortgages is for FRFIs to charge borrowers for insurance premiums on insured mortgages, and to choose which insurer provides the coverage."
+        },
+        {
+          "type": "paragraph",
+          "text": "The Regulations, which come into force on July 1, 2010, are designed to ensure that borrowers do not pay a price for mortgage insurance that exceeds the true cost to the lender. The Regulations establish how the actual cost of mortgage insurance is to be determined, and outline permitted exceptions for the purpose of the calculation."
+        }
+      ]
+    },
+    {
+      "heading": "Determination of the Actual Cost of Mortgage Insurance",
+      "heading_level": 2,
+      "full_text": "OSFI expects that all FRFIs offering insured mortgages will establish policies and procedures with respect to their calculation of the actual cost of mortgage insurance, where the institution charges borrowers an amount for the insurance. Such policies and procedures should be available upon request by OSFI. The following factors should be taken into consideration when a FRFI is determining the actual cost of mortgage insurance.\n  1. In establishing whether a direct or indirect payment or benefit received by a FRFI from an insurer should be considered in the determination of actual cost, FRFIs should address the following: Is there an arrangement between the institution and the insurer? (see paragraph 2) Is the arrangement related to the insurance relationship between the institution and the insurer? (see paragraph 3) Is the payment or benefit received as a result of a claim under an insurance contract? Is the payment or benefit received for the provision of a product or service that the institution also provides to the general public? Is the arrangement necessary for the provision of mortgage insurance? (see paragraph 4) Is the arrangement undertaken on terms and conditions that might reasonably be expected to apply to a similar transaction in an open market under conditions requisite to a fair transaction between parties? (see paragraph 5)\n  2. The Regulations do not define the term “arrangement”. In determining if an arrangement exists between a FRFI and an insurer, a FRFI should consider both explicit (e.g. formal agreements) and implicit (e.g. based on expectations) arrangements to receive payments or benefits. While each arrangement must be assessed on the basis of its own features, in determining if an arrangement is permitted or prohibited under the regulations, a FRFI should consider the material aspects of that arrangement.\n  3. There are a variety of arrangements that may not be related to mortgage insurance interactions (e.g. banking services). In determining whether or not an arrangement is related to mortgage insurance, a FRFI should consider the material aspects of the arrangement. For example, arrangements that are tied to the mortgage insurance business relationship (e.g. guaranteed percent of mortgage business) would be considered related to the issuance of mortgage insurance.\n  4. The Regulations do not define the term “necessary”. Beyond the underwriting function, in determining if an arrangement is necessary for the provision of mortgage insurance, a FRFI should consider if the arrangement is intended to provide a benefit to the party who ultimately pays for the coverage (generally the borrower) (e.g. mortgage fraud detection training, new services to enhance the efficiency of the mortgage insurance interaction, system updates to implement new product offerings). A FRFI should not consider the term “necessary” to include the recovery or allocation of costs that it would have otherwise incurred if the mortgage was not being insured (including costs associated with entering the business relationship with the mortgage insurer).\n  5. In determining if an arrangement is undertaken on the terms and conditions that might reasonably be expected to apply to a similar transaction in an open market under conditions requisite to a fair transaction between parties, FRFIs should consider, among other things, what they pay to obtain the same product or service for their own benefit. For example, a mortgage insurer should not be asked to pay more for information provided by a FRFI than the amount the FRFI incurred to obtain the information.\n  6. FRFIs should establish criteria to determine whether a payment or benefit has been received from the insurer (as referred to in section 5 of the Regulations) or a flow-through payment has been made by the insurer on behalf of the FRFI (e.g., reimbursement for incurred costs). In making such a determination, a FRFI should consider whether a prohibited arrangement exists between itself and the insurer by reviewing the material aspects of that arrangement.\nIn establishing whether a direct or indirect payment or benefit received by a FRFI from an insurer should be considered in the determination of actual cost, FRFIs should address the following:\n  1. Is there an arrangement between the institution and the insurer? (see paragraph 2)\n  2. Is the arrangement related to the insurance relationship between the institution and the insurer? (see paragraph 3)\n  3. Is the payment or benefit received as a result of a claim under an insurance contract?\n  4. Is the payment or benefit received for the provision of a product or service that the institution also provides to the general public?\n  5. Is the arrangement necessary for the provision of mortgage insurance? (see paragraph 4)\n  6. Is the arrangement undertaken on terms and conditions that might reasonably be expected to apply to a similar transaction in an open market under conditions requisite to a fair transaction between parties? (see paragraph 5)\nThe Regulations do not define the term “arrangement”. In determining if an arrangement exists between a FRFI and an insurer, a FRFI should consider both explicit (e.g. formal agreements) and implicit (e.g. based on expectations) arrangements to receive payments or benefits.\nWhile each arrangement must be assessed on the basis of its own features, in determining if an arrangement is permitted or prohibited under the regulations, a FRFI should consider the material aspects of that arrangement.\nThere are a variety of arrangements that may not be related to mortgage insurance interactions (e.g. banking services). In determining whether or not an arrangement is related to mortgage insurance, a FRFI should consider the material aspects of the arrangement. For example, arrangements that are tied to the mortgage insurance business relationship (e.g. guaranteed percent of mortgage business) would be considered related to the issuance of mortgage insurance.\nThe Regulations do not define the term “necessary”. Beyond the underwriting function, in determining if an arrangement is necessary for the provision of mortgage insurance, a FRFI should consider if the arrangement is intended to provide a benefit to the party who ultimately pays for the coverage (generally the borrower) (e.g. mortgage fraud detection training, new services to enhance the efficiency of the mortgage insurance interaction, system updates to implement new product offerings).\nA FRFI should not consider the term “necessary” to include the recovery or allocation of costs that it would have otherwise incurred if the mortgage was not being insured (including costs associated with entering the business relationship with the mortgage insurer).\nIn determining if an arrangement is undertaken on the terms and conditions that might reasonably be expected to apply to a similar transaction in an open market under conditions requisite to a fair transaction between parties, FRFIs should consider, among other things, what they pay to obtain the same product or service for their own benefit. For example, a mortgage insurer should not be asked to pay more for information provided by a FRFI than the amount the FRFI incurred to obtain the information.\nFRFIs should establish criteria to determine whether a payment or benefit has been received from the insurer (as referred to in section 5 of the Regulations) or a flow-through payment has been made by the insurer on behalf of the FRFI (e.g., reimbursement for incurred costs). In making such a determination, a FRFI should consider whether a prohibited arrangement exists between itself and the insurer by reviewing the material aspects of that arrangement.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "OSFI expects that all FRFIs offering insured mortgages will establish policies and procedures with respect to their calculation of the actual cost of mortgage insurance, where the institution charges borrowers an amount for the insurance. Such policies and procedures should be available upon request by OSFI. The following factors should be taken into consideration when a FRFI is determining the actual cost of mortgage insurance."
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "In establishing whether a direct or indirect payment or benefit received by a FRFI from an insurer should be considered in the determination of actual cost, FRFIs should address the following: Is there an arrangement between the institution and the insurer? (see paragraph 2) Is the arrangement related to the insurance relationship between the institution and the insurer? (see paragraph 3) Is the payment or benefit received as a result of a claim under an insurance contract? Is the payment or benefit received for the provision of a product or service that the institution also provides to the general public? Is the arrangement necessary for the provision of mortgage insurance? (see paragraph 4) Is the arrangement undertaken on terms and conditions that might reasonably be expected to apply to a similar transaction in an open market under conditions requisite to a fair transaction between parties? (see paragraph 5)",
+            "The Regulations do not define the term “arrangement”. In determining if an arrangement exists between a FRFI and an insurer, a FRFI should consider both explicit (e.g. formal agreements) and implicit (e.g. based on expectations) arrangements to receive payments or benefits. While each arrangement must be assessed on the basis of its own features, in determining if an arrangement is permitted or prohibited under the regulations, a FRFI should consider the material aspects of that arrangement.",
+            "There are a variety of arrangements that may not be related to mortgage insurance interactions (e.g. banking services). In determining whether or not an arrangement is related to mortgage insurance, a FRFI should consider the material aspects of the arrangement. For example, arrangements that are tied to the mortgage insurance business relationship (e.g. guaranteed percent of mortgage business) would be considered related to the issuance of mortgage insurance.",
+            "The Regulations do not define the term “necessary”. Beyond the underwriting function, in determining if an arrangement is necessary for the provision of mortgage insurance, a FRFI should consider if the arrangement is intended to provide a benefit to the party who ultimately pays for the coverage (generally the borrower) (e.g. mortgage fraud detection training, new services to enhance the efficiency of the mortgage insurance interaction, system updates to implement new product offerings). A FRFI should not consider the term “necessary” to include the recovery or allocation of costs that it would have otherwise incurred if the mortgage was not being insured (including costs associated with entering the business relationship with the mortgage insurer).",
+            "In determining if an arrangement is undertaken on the terms and conditions that might reasonably be expected to apply to a similar transaction in an open market under conditions requisite to a fair transaction between parties, FRFIs should consider, among other things, what they pay to obtain the same product or service for their own benefit. For example, a mortgage insurer should not be asked to pay more for information provided by a FRFI than the amount the FRFI incurred to obtain the information.",
+            "FRFIs should establish criteria to determine whether a payment or benefit has been received from the insurer (as referred to in section 5 of the Regulations) or a flow-through payment has been made by the insurer on behalf of the FRFI (e.g., reimbursement for incurred costs). In making such a determination, a FRFI should consider whether a prohibited arrangement exists between itself and the insurer by reviewing the material aspects of that arrangement."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "In establishing whether a direct or indirect payment or benefit received by a FRFI from an insurer should be considered in the determination of actual cost, FRFIs should address the following:"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "Is there an arrangement between the institution and the insurer? (see paragraph 2)",
+            "Is the arrangement related to the insurance relationship between the institution and the insurer? (see paragraph 3)",
+            "Is the payment or benefit received as a result of a claim under an insurance contract?",
+            "Is the payment or benefit received for the provision of a product or service that the institution also provides to the general public?",
+            "Is the arrangement necessary for the provision of mortgage insurance? (see paragraph 4)",
+            "Is the arrangement undertaken on terms and conditions that might reasonably be expected to apply to a similar transaction in an open market under conditions requisite to a fair transaction between parties? (see paragraph 5)"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "The Regulations do not define the term “arrangement”. In determining if an arrangement exists between a FRFI and an insurer, a FRFI should consider both explicit (e.g. formal agreements) and implicit (e.g. based on expectations) arrangements to receive payments or benefits."
+        },
+        {
+          "type": "paragraph",
+          "text": "While each arrangement must be assessed on the basis of its own features, in determining if an arrangement is permitted or prohibited under the regulations, a FRFI should consider the material aspects of that arrangement."
+        },
+        {
+          "type": "paragraph",
+          "text": "There are a variety of arrangements that may not be related to mortgage insurance interactions (e.g. banking services). In determining whether or not an arrangement is related to mortgage insurance, a FRFI should consider the material aspects of the arrangement. For example, arrangements that are tied to the mortgage insurance business relationship (e.g. guaranteed percent of mortgage business) would be considered related to the issuance of mortgage insurance."
+        },
+        {
+          "type": "paragraph",
+          "text": "The Regulations do not define the term “necessary”. Beyond the underwriting function, in determining if an arrangement is necessary for the provision of mortgage insurance, a FRFI should consider if the arrangement is intended to provide a benefit to the party who ultimately pays for the coverage (generally the borrower) (e.g. mortgage fraud detection training, new services to enhance the efficiency of the mortgage insurance interaction, system updates to implement new product offerings)."
+        },
+        {
+          "type": "paragraph",
+          "text": "A FRFI should not consider the term “necessary” to include the recovery or allocation of costs that it would have otherwise incurred if the mortgage was not being insured (including costs associated with entering the business relationship with the mortgage insurer)."
+        },
+        {
+          "type": "paragraph",
+          "text": "In determining if an arrangement is undertaken on the terms and conditions that might reasonably be expected to apply to a similar transaction in an open market under conditions requisite to a fair transaction between parties, FRFIs should consider, among other things, what they pay to obtain the same product or service for their own benefit. For example, a mortgage insurer should not be asked to pay more for information provided by a FRFI than the amount the FRFI incurred to obtain the information."
+        },
+        {
+          "type": "paragraph",
+          "text": "FRFIs should establish criteria to determine whether a payment or benefit has been received from the insurer (as referred to in section 5 of the Regulations) or a flow-through payment has been made by the insurer on behalf of the FRFI (e.g., reimbursement for incurred costs). In making such a determination, a FRFI should consider whether a prohibited arrangement exists between itself and the insurer by reviewing the material aspects of that arrangement."
+        }
+      ]
+    }
+  ],
+  "title_normalized": "mortgage insurance",
+  "publication_type_normalized": "implementation_note",
+  "category_normalized": "",
+  "sector_normalized": [
+    "banks",
+    "life_insurance",
+    "pc_insurance",
+    "trust_and_loan_companies"
+  ],
+  "guideline_number_normalized": "",
+  "applies_to_banks": true,
+  "applies_to_trust_loan": true,
+  "applies_to_life_insurance": true,
+  "applies_to_pc_insurance": true,
+  "applies_to_foreign_bank": false,
+  "applies_to_foreign_insurance": false,
+  "applies_to_cooperative": false,
+  "applies_to_bank_holding": false,
+  "effective_date_sort_key": "2010-06-30",
+  "status_sort_key": 1,
+  "authority_sort_key": 90,
+  "bm25_text": "Mortgage Insurance Implementation note Banks Life Insurance and Fraternal Companies Property and Casualty Companies Trust and Loan Companies Introduction Background Determination of the Actual Cost of Mortgage Insurance",
+  "vector_text_prefix": "[OSFI Implementation note  |  | Banks / Life Insurance and Fraternal Companies / Property and Casualty Companies | FINAL_CURRENT | Effective 2010-06-30]",
+  "h1_title": "Mortgage Insurance",
+  "regulator": "OSFI",
+  "regulator_acronym": "OSFI",
+  "jurisdiction": "Canada",
+  "short_title": "",
+  "source_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/mortgage-insurance"
+}

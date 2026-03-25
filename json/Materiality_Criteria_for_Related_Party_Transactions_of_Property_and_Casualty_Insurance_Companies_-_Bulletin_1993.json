@@ -1,0 +1,242 @@
+{
+  "source_system": "osfi_guidance_library",
+  "library_row_title": "Materiality Criteria for Related Party Transactions of Property and Casualty Insurance Companies - Bulletin (1993)",
+  "library_row_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/materiality-criteria-related-party-transactions-property-casualty-insurance-companies-bulletin-1993",
+  "listing_date_raw": "December 31, 1993",
+  "listing_date_iso": "1993-12-31",
+  "listing_publication_type": "Bulletin",
+  "listing_category": "Prudential Limits and Restrictions",
+  "listing_sector": [
+    "Property and Casualty Companies"
+  ],
+  "crawl_timestamp": "2026-03-11T00:00:00Z",
+  "detail_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/materiality-criteria-related-party-transactions-property-casualty-insurance-companies-bulletin-1993",
+  "canonical_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/materiality-criteria-related-party-transactions-property-casualty-insurance-companies-bulletin-1993",
+  "slug": "materiality-criteria-related-party-transactions-property-casualty-insurance-companies-bulletin-1993",
+  "title": "Materiality Criteria for Related Party Transactions of Property and Casualty Insurance Companies - Bulletin (1993)",
+  "publication_type": "Bulletin",
+  "category": "Prudential Limits and Restrictions",
+  "document_date_raw": "December 31, 1993",
+  "document_date_iso": "1993-12-31",
+  "sector": [
+    "Property and Casualty Companies"
+  ],
+  "effective_date_text": "",
+  "guideline_number": "",
+  "date_modified_raw": "1993-12-31T12:00:00Z",
+  "generate_pdf_url": "https://www.osfi-bsif.gc.ca/en/print/pdf/node/621",
+  "pdf_node_id": 621,
+  "direct_pdf_url": null,
+  "has_table_of_contents": true,
+  "toc_entries": [],
+  "has_related_documents": false,
+  "related_document_links_raw": [],
+  "consultation_status_text": null,
+  "consultation_status_refers_to_version": null,
+  "page_language": "en",
+  "word_count_raw_body": 1204,
+  "doc_id": "osfi.materiality-criteria-related-party-transactions-pr.1993.bulletin",
+  "doc_family_id": "osfi.materiality-criteria-related-party-transactions-pr",
+  "version_id": "1993",
+  "version_label": "Materiality Criteria for Related Party Transactions of Prope",
+  "version_sort_key": "1993-12",
+  "parent_doc_id": null,
+  "child_doc_ids": [],
+  "is_package_page": false,
+  "is_chapter_page": false,
+  "chapter_number": null,
+  "chapter_title": null,
+  "document_order_within_family": 0,
+  "supersedes_doc_id": null,
+  "superseded_by_doc_id": null,
+  "current_version_flag": true,
+  "status": "final_current",
+  "include_in_primary_corpus": false,
+  "include_in_support_corpus": true,
+  "include_in_context_corpus": false,
+  "effective_date_start": "1993-12-31",
+  "effective_date_end": null,
+  "effective_date_fye_split": false,
+  "effective_date_oct_fye": null,
+  "effective_date_dec_fye": null,
+  "is_future_effective": false,
+  "is_rescinded": false,
+  "is_draft_or_consultation": false,
+  "rescission_date": null,
+  "consultation_closing_date": null,
+  "as_of_applicability": "2026-03-23",
+  "rule_applied": "rule_5_final_current",
+  "authority_class": "official_interpretive",
+  "authority_level": 70,
+  "nova_tier": 2,
+  "prudential_weight": 0.7,
+  "is_primary_normative": false,
+  "is_supporting_interpretive": true,
+  "is_context_only": false,
+  "document_class": "bulletin",
+  "guidance_type_normalized": "bulletin",
+  "section_headings": [
+    {
+      "level": 2,
+      "text": "Materiality Criteria",
+      "id": "h2-0"
+    }
+  ],
+  "heading_path": [
+    "Materiality Criteria for Related Party Transactions of Property and Casualty Insurance Companies - Bulletin (1993)"
+  ],
+  "toc_depth": 2,
+  "has_appendices": false,
+  "appendix_ids": [],
+  "has_tables": false,
+  "table_count": 0,
+  "has_footnotes": false,
+  "footnote_count": 0,
+  "inline_cross_references": [],
+  "quoted_external_references": [],
+  "raw_html_sha256": "0bf1109595e6f38cc3ac55fd1f2d9d338b0ce23af457dc8093ad00bc09a8c2d1",
+  "raw_pdf_sha256": null,
+  "normalized_text_sha256": null,
+  "raw_html_path": "bronze/osfi/html/final_current/materiality-criteria-related-party-transactions-property-casualty-insurance-companies-bulletin-1993.html",
+  "normalized_md_path": "silver/osfi/md/final_current/materiality-criteria-related-party-transactions-property-casualty-insurance-companies-bulletin-1993.md",
+  "canonical_json_path": "silver/osfi/json/final_current/materiality-criteria-related-party-transactions-property-casualty-insurance-companies-bulletin-1993.json",
+  "content_source": "HTML",
+  "parser_version": "osfi-parser-v2.1.0",
+  "normalizer_version": "osfi-normalizer-v1.4.0",
+  "quality_score": 1.0,
+  "quality_flags": [],
+  "download_timestamp": "2026-03-11T00:00:00Z",
+  "enriched_timestamp": "2026-03-23T09:53:56.377016Z",
+  "sections": [
+    {
+      "heading": "",
+      "heading_level": 2,
+      "full_text": "This bulletin establishes for property and casualty insurance companies the criteria for determining whether a transaction with a related party is nominal or immaterial to the property and casualty insurance company.\nPart XI of the Insurance Companies Act (the Act) defines the related parties of insurance companies and sets out rules for undertaking transactions with these related parties. The overriding directive is that except as provided in that Part, transactions with related parties are prohibited, both directly and indirectly. Part XI subsequently identifies a number of situations where related party transactions are permitted, one of these being \"nominal or immaterial value transactions\".\nSection 522 of the Act provides that a company may enter into a transaction with a related party of the company if the value of the transaction is nominal or immaterial to the company when measured by criteria that have been established by the conduct review committee of the company and approved in writing by the Superintendent. The question then becomes how does one determine what is nominal or immaterial to the company.\nIn an effort to establish a uniform standard for all property and casualty insurers, the Office obtained the views of the Insurance Bureau of Canada. The outcome of this process is the materiality criteria set out in this bulletin.\nIt is the intent of the materiality criteria to allow companies to undertake necessary transactions with related parties in a timely manner, while simultaneously providing safeguards against improprieties. Accordingly, aggregate limits are linked to the company's capital, and transactions that are \"nominal or immaterial\" based on these criteria do not have to be individually approved by the company's conduct review committee.\nTwo issues that arose during OSFI’s consideration of this matter are the questions of what constitutes a transaction and whether it should be valued on a \"gross\" or a \"net\" basis. OSFI is of the view that the term \"transaction\" should be viewed on a very broad basis, and that virtually any act or agreement in which more than one person is concerned and by which the relations between the persons is altered constitutes a transaction. Further, the Office considers that all transactions must be valued on a \"gross\" basis and it is inappropriate for a company to measure a transaction against the materiality criteria on the basis of the transaction's \"net\" impact on the company. Accordingly, for example, the sale of a $10 million building to a related party for consideration of another building valued at $9.9 million and cash of $100,000 constitutes a $10 million transaction. OSFI does not subscribe to the view that this transaction has no net impact on the company and hence, is immaterial to the company.\nCompanies that adopt materiality criteria at least as stringent as those set out in this bulletin are deemed to have the Superintendent's approval in writing. Companies wishing to establish different materiality criteria must submit them to OSFI and obtain the Superintendent's approval in writing. In reviewing requests for other materiality criteria, the Office will require supporting justifications, including details of anticipated transactions that would otherwise require, at a minimum, approval of the company's conduct review committee.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "This bulletin establishes for property and casualty insurance companies the criteria for determining whether a transaction with a related party is nominal or immaterial to the property and casualty insurance company."
+        },
+        {
+          "type": "paragraph",
+          "text": "Part XI of the Insurance Companies Act (the Act) defines the related parties of insurance companies and sets out rules for undertaking transactions with these related parties. The overriding directive is that except as provided in that Part, transactions with related parties are prohibited, both directly and indirectly. Part XI subsequently identifies a number of situations where related party transactions are permitted, one of these being \"nominal or immaterial value transactions\"."
+        },
+        {
+          "type": "paragraph",
+          "text": "Section 522 of the Act provides that a company may enter into a transaction with a related party of the company if the value of the transaction is nominal or immaterial to the company when measured by criteria that have been established by the conduct review committee of the company and approved in writing by the Superintendent. The question then becomes how does one determine what is nominal or immaterial to the company."
+        },
+        {
+          "type": "paragraph",
+          "text": "In an effort to establish a uniform standard for all property and casualty insurers, the Office obtained the views of the Insurance Bureau of Canada. The outcome of this process is the materiality criteria set out in this bulletin."
+        },
+        {
+          "type": "paragraph",
+          "text": "It is the intent of the materiality criteria to allow companies to undertake necessary transactions with related parties in a timely manner, while simultaneously providing safeguards against improprieties. Accordingly, aggregate limits are linked to the company's capital, and transactions that are \"nominal or immaterial\" based on these criteria do not have to be individually approved by the company's conduct review committee."
+        },
+        {
+          "type": "paragraph",
+          "text": "Two issues that arose during OSFI’s consideration of this matter are the questions of what constitutes a transaction and whether it should be valued on a \"gross\" or a \"net\" basis. OSFI is of the view that the term \"transaction\" should be viewed on a very broad basis, and that virtually any act or agreement in which more than one person is concerned and by which the relations between the persons is altered constitutes a transaction. Further, the Office considers that all transactions must be valued on a \"gross\" basis and it is inappropriate for a company to measure a transaction against the materiality criteria on the basis of the transaction's \"net\" impact on the company. Accordingly, for example, the sale of a $10 million building to a related party for consideration of another building valued at $9.9 million and cash of $100,000 constitutes a $10 million transaction. OSFI does not subscribe to the view that this transaction has no net impact on the company and hence, is immaterial to the company."
+        },
+        {
+          "type": "paragraph",
+          "text": "Companies that adopt materiality criteria at least as stringent as those set out in this bulletin are deemed to have the Superintendent's approval in writing. Companies wishing to establish different materiality criteria must submit them to OSFI and obtain the Superintendent's approval in writing. In reviewing requests for other materiality criteria, the Office will require supporting justifications, including details of anticipated transactions that would otherwise require, at a minimum, approval of the company's conduct review committee."
+        }
+      ]
+    },
+    {
+      "heading": "Materiality Criteria",
+      "heading_level": 2,
+      "full_text": "  1. The value of a personal-lines insurance policy issued to a related party is immaterial to the company.\n  2. The value of a non-personal-lines insurance policy issued to a related party is immaterial to the company if the net per-risk retention on the policy, plus the net per-risk retention on other policies issued to the same related party, in total, is less than 1 per cent of the company's capital.\n  3. The value of a reinsurance-assumed or a reinsurance-ceded arrangement with a related party is immaterial to the company, with the exception of reinsurance assumed or ceded to which the provisions of section 254 of the Act apply. It is recognized that reinsurance ceded to a related party that is not a company or a foreign company must be approved by the Superintendent pursuant to subsection 523(2) of the Act.\n  4. The value of any other transaction with a related party is immaterial to the company if: in the case of a loan to a related party, the loan plus the outstanding balance of all other loans made to the same related party, in total, is less than 1/10 of 1 per cent of the company's capital; or in the case of any other transaction, the value of the transaction plus the value of all other immaterial transactions made with the same related party during the fiscal year, in total, is less than 1/10 of 1 per cent of the company's capital.\nThe value of a personal-lines insurance policy issued to a related party is immaterial to the company.\nThe value of a non-personal-lines insurance policy issued to a related party is immaterial to the company if the net per-risk retention on the policy, plus the net per-risk retention on other policies issued to the same related party, in total, is less than 1 per cent of the company's capital.\nThe value of a reinsurance-assumed or a reinsurance-ceded arrangement with a related party is immaterial to the company, with the exception of reinsurance assumed or ceded to which the provisions of section 254 of the Act apply. It is recognized that reinsurance ceded to a related party that is not a company or a foreign company must be approved by the Superintendent pursuant to subsection 523(2) of the Act.\nThe value of any other transaction with a related party is immaterial to the company if:\n  1. in the case of a loan to a related party, the loan plus the outstanding balance of all other loans made to the same related party, in total, is less than 1/10 of 1 per cent of the company's capital; or\n  2. in the case of any other transaction, the value of the transaction plus the value of all other immaterial transactions made with the same related party during the fiscal year, in total, is less than 1/10 of 1 per cent of the company's capital.\nin the case of a loan to a related party, the loan plus the outstanding balance of all other loans made to the same related party, in total, is less than 1/10 of 1 per cent of the company's capital; or\nin the case of any other transaction, the value of the transaction plus the value of all other immaterial transactions made with the same related party during the fiscal year, in total, is less than 1/10 of 1 per cent of the company's capital.\nFor the purposes of determining the dollar amount of the criteria applicable to a particular company:\n  1. for a domestic property and casualty company, \"capital\" equals the fiscal year opening balance of total assets less total liabilities less reserves required; and\n  2. for a foreign property and casualty branch, \"capital\" equals the fiscal year opening balance of assets in Canada less total liabilities less reserves required.\nfor a domestic property and casualty company, \"capital\" equals the fiscal year opening balance of total assets less total liabilities less reserves required; and\nfor a foreign property and casualty branch, \"capital\" equals the fiscal year opening balance of assets in Canada less total liabilities less reserves required.",
+      "content": [
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "The value of a personal-lines insurance policy issued to a related party is immaterial to the company.",
+            "The value of a non-personal-lines insurance policy issued to a related party is immaterial to the company if the net per-risk retention on the policy, plus the net per-risk retention on other policies issued to the same related party, in total, is less than 1 per cent of the company's capital.",
+            "The value of a reinsurance-assumed or a reinsurance-ceded arrangement with a related party is immaterial to the company, with the exception of reinsurance assumed or ceded to which the provisions of section 254 of the Act apply. It is recognized that reinsurance ceded to a related party that is not a company or a foreign company must be approved by the Superintendent pursuant to subsection 523(2) of the Act.",
+            "The value of any other transaction with a related party is immaterial to the company if: in the case of a loan to a related party, the loan plus the outstanding balance of all other loans made to the same related party, in total, is less than 1/10 of 1 per cent of the company's capital; or in the case of any other transaction, the value of the transaction plus the value of all other immaterial transactions made with the same related party during the fiscal year, in total, is less than 1/10 of 1 per cent of the company's capital."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "The value of a personal-lines insurance policy issued to a related party is immaterial to the company."
+        },
+        {
+          "type": "paragraph",
+          "text": "The value of a non-personal-lines insurance policy issued to a related party is immaterial to the company if the net per-risk retention on the policy, plus the net per-risk retention on other policies issued to the same related party, in total, is less than 1 per cent of the company's capital."
+        },
+        {
+          "type": "paragraph",
+          "text": "The value of a reinsurance-assumed or a reinsurance-ceded arrangement with a related party is immaterial to the company, with the exception of reinsurance assumed or ceded to which the provisions of section 254 of the Act apply. It is recognized that reinsurance ceded to a related party that is not a company or a foreign company must be approved by the Superintendent pursuant to subsection 523(2) of the Act."
+        },
+        {
+          "type": "paragraph",
+          "text": "The value of any other transaction with a related party is immaterial to the company if:"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "in the case of a loan to a related party, the loan plus the outstanding balance of all other loans made to the same related party, in total, is less than 1/10 of 1 per cent of the company's capital; or",
+            "in the case of any other transaction, the value of the transaction plus the value of all other immaterial transactions made with the same related party during the fiscal year, in total, is less than 1/10 of 1 per cent of the company's capital."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "in the case of a loan to a related party, the loan plus the outstanding balance of all other loans made to the same related party, in total, is less than 1/10 of 1 per cent of the company's capital; or"
+        },
+        {
+          "type": "paragraph",
+          "text": "in the case of any other transaction, the value of the transaction plus the value of all other immaterial transactions made with the same related party during the fiscal year, in total, is less than 1/10 of 1 per cent of the company's capital."
+        },
+        {
+          "type": "paragraph",
+          "text": "For the purposes of determining the dollar amount of the criteria applicable to a particular company:"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "for a domestic property and casualty company, \"capital\" equals the fiscal year opening balance of total assets less total liabilities less reserves required; and",
+            "for a foreign property and casualty branch, \"capital\" equals the fiscal year opening balance of assets in Canada less total liabilities less reserves required."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "for a domestic property and casualty company, \"capital\" equals the fiscal year opening balance of total assets less total liabilities less reserves required; and"
+        },
+        {
+          "type": "paragraph",
+          "text": "for a foreign property and casualty branch, \"capital\" equals the fiscal year opening balance of assets in Canada less total liabilities less reserves required."
+        }
+      ]
+    }
+  ],
+  "title_normalized": "materiality criteria for related party transactions of property and casualty insurance companies bulletin 1993",
+  "publication_type_normalized": "bulletin",
+  "category_normalized": "prudential_limits_and_restrictions",
+  "sector_normalized": [
+    "pc_insurance"
+  ],
+  "guideline_number_normalized": "",
+  "applies_to_banks": false,
+  "applies_to_trust_loan": false,
+  "applies_to_life_insurance": false,
+  "applies_to_pc_insurance": true,
+  "applies_to_foreign_bank": false,
+  "applies_to_foreign_insurance": false,
+  "applies_to_cooperative": false,
+  "applies_to_bank_holding": false,
+  "effective_date_sort_key": "1993-12-31",
+  "status_sort_key": 1,
+  "authority_sort_key": 70,
+  "bm25_text": "Materiality Criteria for Related Party Transactions of Property and Casualty Insurance Companies - Bulletin (1993) Bulletin Prudential Limits and Restrictions Property and Casualty Companies Materiality Criteria",
+  "vector_text_prefix": "[OSFI Bulletin  | Prudential Limits and Restrictions | Property and Casualty Companies | FINAL_CURRENT | Effective 1993-12-31]",
+  "h1_title": "Materiality Criteria for Related Party Transactions of Property and Casualty Insurance Companies - Bulletin (1993)",
+  "regulator": "OSFI",
+  "regulator_acronym": "OSFI",
+  "jurisdiction": "Canada",
+  "short_title": "",
+  "source_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/materiality-criteria-related-party-transactions-property-casualty-insurance-companies-bulletin-1993"
+}

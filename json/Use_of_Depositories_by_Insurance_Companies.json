@@ -1,0 +1,321 @@
+{
+  "source_system": "osfi_guidance_library",
+  "library_row_title": "Use of Depositories by Insurance Companies",
+  "library_row_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/use-depositories-insurance-companies",
+  "listing_date_raw": "December 31, 1996",
+  "listing_date_iso": "1996-12-31",
+  "listing_publication_type": "Bulletin",
+  "listing_category": "Sound Business and Financial Practices",
+  "listing_sector": [
+    "Life Insurance and Fraternal Companies",
+    "Property and Casualty Companies"
+  ],
+  "crawl_timestamp": "2026-03-11T00:00:00Z",
+  "detail_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/use-depositories-insurance-companies",
+  "canonical_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/use-depositories-insurance-companies",
+  "slug": "use-depositories-insurance-companies",
+  "title": "Use of Depositories by Insurance Companies",
+  "publication_type": "Bulletin",
+  "category": "Sound Business and Financial Practices",
+  "document_date_raw": "December 31, 1996",
+  "document_date_iso": "1996-12-31",
+  "sector": [
+    "Life Insurance and Fraternal Companies",
+    "Property and Casualty Companies"
+  ],
+  "effective_date_text": "",
+  "guideline_number": "",
+  "date_modified_raw": "1996-12-31T12:00:00Z",
+  "generate_pdf_url": "https://www.osfi-bsif.gc.ca/en/print/pdf/node/600",
+  "pdf_node_id": 600,
+  "direct_pdf_url": null,
+  "has_table_of_contents": true,
+  "toc_entries": [],
+  "has_related_documents": false,
+  "related_document_links_raw": [],
+  "consultation_status_text": null,
+  "consultation_status_refers_to_version": null,
+  "page_language": "en",
+  "word_count_raw_body": 881,
+  "doc_id": "osfi.use-depositories-insurance-companies.bulletin",
+  "doc_family_id": "osfi.use-depositories-insurance-companies",
+  "version_id": "",
+  "version_label": "Use of Depositories by Insurance Companies",
+  "version_sort_key": "",
+  "parent_doc_id": null,
+  "child_doc_ids": [],
+  "is_package_page": false,
+  "is_chapter_page": false,
+  "chapter_number": null,
+  "chapter_title": null,
+  "document_order_within_family": 0,
+  "supersedes_doc_id": null,
+  "superseded_by_doc_id": null,
+  "current_version_flag": true,
+  "status": "final_current",
+  "include_in_primary_corpus": false,
+  "include_in_support_corpus": true,
+  "include_in_context_corpus": false,
+  "effective_date_start": "1996-12-31",
+  "effective_date_end": null,
+  "effective_date_fye_split": false,
+  "effective_date_oct_fye": null,
+  "effective_date_dec_fye": null,
+  "is_future_effective": false,
+  "is_rescinded": false,
+  "is_draft_or_consultation": false,
+  "rescission_date": null,
+  "consultation_closing_date": null,
+  "as_of_applicability": "2026-03-23",
+  "rule_applied": "rule_5_final_current",
+  "authority_class": "official_interpretive",
+  "authority_level": 70,
+  "nova_tier": 2,
+  "prudential_weight": 0.7,
+  "is_primary_normative": false,
+  "is_supporting_interpretive": true,
+  "is_context_only": false,
+  "document_class": "bulletin",
+  "guidance_type_normalized": "bulletin",
+  "section_headings": [
+    {
+      "level": 2,
+      "text": "Canadian Companies",
+      "id": "h2-0"
+    },
+    {
+      "level": 2,
+      "text": "Foreign Companies",
+      "id": "h2-1"
+    },
+    {
+      "level": 2,
+      "text": "Summary",
+      "id": "h2-2"
+    }
+  ],
+  "heading_path": [
+    "Use of Depositories by Insurance Companies"
+  ],
+  "toc_depth": 2,
+  "has_appendices": false,
+  "appendix_ids": [],
+  "has_tables": true,
+  "table_count": 1,
+  "has_footnotes": false,
+  "footnote_count": 0,
+  "inline_cross_references": [],
+  "quoted_external_references": [],
+  "raw_html_sha256": "bf8a550429d5dcedf3bb63ccf8c141bce8714d94000eb237b72e160ef16fff45",
+  "raw_pdf_sha256": null,
+  "normalized_text_sha256": null,
+  "raw_html_path": "bronze/osfi/html/final_current/use-depositories-insurance-companies.html",
+  "normalized_md_path": "silver/osfi/md/final_current/use-depositories-insurance-companies.md",
+  "canonical_json_path": "silver/osfi/json/final_current/use-depositories-insurance-companies.json",
+  "content_source": "HTML",
+  "parser_version": "osfi-parser-v2.1.0",
+  "normalizer_version": "osfi-normalizer-v1.4.0",
+  "quality_score": 1.0,
+  "quality_flags": [],
+  "download_timestamp": "2026-03-11T00:00:00Z",
+  "enriched_timestamp": "2026-03-23T09:54:01.275514Z",
+  "sections": [
+    {
+      "heading": "",
+      "heading_level": 2,
+      "full_text": "This bulletin outlines safekeeping requirements for assets of Canadian and foreign insurers under the Insurance Companies Act (the Act), including the use of foreign depositories. For Canadian companies, the authority on the use of foreign depositories rests in the Protection of Assets (Insurance Companies) Regulations , made pursuant to Section 703(g) of the Act. Safekeeping requirements for foreign companies are set out in Section 611 of the Act.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "This bulletin outlines safekeeping requirements for assets of Canadian and foreign insurers under the Insurance Companies Act (the Act), including the use of foreign depositories. For Canadian companies, the authority on the use of foreign depositories rests in the Protection of Assets (Insurance Companies) Regulations , made pursuant to Section 703(g) of the Act. Safekeeping requirements for foreign companies are set out in Section 611 of the Act."
+        }
+      ]
+    },
+    {
+      "heading": "Canadian Companies",
+      "heading_level": 2,
+      "full_text": "The Protection of Assets (Insurance Companies) Regulations (the Regulations) set out the safekeeping requirements for Canadian companies. Subsection 6 prescribes safekeeping requirements for assets:\n(1) Subject to subsection (2) and section 7, a company shall ensure that every security is kept securely, in a manner that prevents unauthorized access to the security, in the custody of:\n  1. the company; or\n  2. an entity that is authorized to act as a custodian of securities or as a depository or clearing agency for securities by a law of the jurisdiction in which the entity is carrying on business.\n(2) Subsection (1) does not apply in respect of a security that is:\n  1. under the control of the government of a jurisdiction in which the company is carrying on business;\n  2. pledged as collateral for the indebtedness or potential indebtedness of the company;\n  3. loaned to a person pursuant to a written agreement; or d) in transit.\nSection 7 further stipulates that the company must enter into a written custodial agreement before placing its assets in safekeeping with a duly authorized custodian, depository or clearing house for securities:\nA company shall not place a security in the custody of an entity referred to in paragraph 6(1)(b) unless the company has entered into a written custodial agreement with that entity.\nA Canadian insurance company may maintain securities in a foreign depository as long as the company has a written custodial agreement with the foreign depository.\nA Canadian insurance company may maintain securities in a foreign depository through its custodian as long as the Canadian company has a written custodial agreement with its custodian, which in turn has a written agreement with the depository.\nSection 8 of the Regulations prescribes safekeeping requirements for net proceeds of securities transactions:\nA company shall, on a daily basis, deposit any net amount received by the company as a result of any security transaction in an account kept by the company:\n  1. in the company;\n  2. with a financial institution that is authorized to accept deposits by a law of the jurisdiction where the financial institution is carrying on business;\n  3. with a trust company that is authorized to hold money in trust by a law of the jurisdiction where the trust company carries on business;\n  4. with the government of the jurisdiction in which the company is carrying on business, or with an agency thereof that is authorized to act as a custodian of securities; or\n  5. with The Canadian Depository for Securities Limited (CDS).\nA company cannot keep cash proceeds of a securities transaction in a foreign depository. As long as the company maintains an account as described above and receives any net amount in that account on a daily basis, the requirements of section 8 would be satisfied.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "The Protection of Assets (Insurance Companies) Regulations (the Regulations) set out the safekeeping requirements for Canadian companies. Subsection 6 prescribes safekeeping requirements for assets:"
+        },
+        {
+          "type": "paragraph",
+          "text": "(1) Subject to subsection (2) and section 7, a company shall ensure that every security is kept securely, in a manner that prevents unauthorized access to the security, in the custody of:"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "the company; or",
+            "an entity that is authorized to act as a custodian of securities or as a depository or clearing agency for securities by a law of the jurisdiction in which the entity is carrying on business."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "(2) Subsection (1) does not apply in respect of a security that is:"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "under the control of the government of a jurisdiction in which the company is carrying on business;",
+            "pledged as collateral for the indebtedness or potential indebtedness of the company;",
+            "loaned to a person pursuant to a written agreement; or d) in transit."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Section 7 further stipulates that the company must enter into a written custodial agreement before placing its assets in safekeeping with a duly authorized custodian, depository or clearing house for securities:"
+        },
+        {
+          "type": "paragraph",
+          "text": "A company shall not place a security in the custody of an entity referred to in paragraph 6(1)(b) unless the company has entered into a written custodial agreement with that entity."
+        },
+        {
+          "type": "paragraph",
+          "text": "A Canadian insurance company may maintain securities in a foreign depository as long as the company has a written custodial agreement with the foreign depository."
+        },
+        {
+          "type": "paragraph",
+          "text": "A Canadian insurance company may maintain securities in a foreign depository through its custodian as long as the Canadian company has a written custodial agreement with its custodian, which in turn has a written agreement with the depository."
+        },
+        {
+          "type": "paragraph",
+          "text": "Section 8 of the Regulations prescribes safekeeping requirements for net proceeds of securities transactions:"
+        },
+        {
+          "type": "paragraph",
+          "text": "A company shall, on a daily basis, deposit any net amount received by the company as a result of any security transaction in an account kept by the company:"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "in the company;",
+            "with a financial institution that is authorized to accept deposits by a law of the jurisdiction where the financial institution is carrying on business;",
+            "with a trust company that is authorized to hold money in trust by a law of the jurisdiction where the trust company carries on business;",
+            "with the government of the jurisdiction in which the company is carrying on business, or with an agency thereof that is authorized to act as a custodian of securities; or",
+            "with The Canadian Depository for Securities Limited (CDS)."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "A company cannot keep cash proceeds of a securities transaction in a foreign depository. As long as the company maintains an account as described above and receives any net amount in that account on a daily basis, the requirements of section 8 would be satisfied."
+        }
+      ]
+    },
+    {
+      "heading": "Foreign Companies",
+      "heading_level": 2,
+      "full_text": "Foreign companies are subject to Part XIII of the Insurance Companies Act . By virtue of their structure, foreign companies are subject to a different regulatory regime than Canadian companies.\nSubsection 611(1) in Part XIII of the Act prescribes that:\n611\n(1) The assets that a foreign company is required to maintain in Canada pursuant to sections 608 and 609 and the regulations made pursuant to section 610 shall be vested in trust in a Canadian financial institution chosen by the foreign company and approved by the Superintendent.\nSubsection 2(1) of the Act defines \"assets in Canada\" as assets vested in trust for a foreign company under Part XIII of the Act.\nSubsection 611(3) of the Act requires that:\n611\nA trust deed must be approved by the Superintendent before it is entered into.\nSection 10 of OSFI's Standard Form Trust Agreement permits the trustee to deposit, subject to the written approval of the Superintendent, any of the assets vested in trust with the CDS. The Trust Agreement does not permit the trustee to vest in trust assets with foreign depositories. The Superintendent does not approve trust agreements that differ materially from the Standard Form Trust Agreement.\nOSFI maintains a prohibition on the use of foreign depositories by foreign companies for prudential reasons. OSFI requires legal certainty that it has undisputed and timely access to assets held in depositories when required. OSFI must be able to repatriate and realize upon those assets without having to face legal and other challenges which may conspire to delay or reduce the amounts ultimately available to Canadian policyholders.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Foreign companies are subject to Part XIII of the Insurance Companies Act . By virtue of their structure, foreign companies are subject to a different regulatory regime than Canadian companies."
+        },
+        {
+          "type": "paragraph",
+          "text": "Subsection 611(1) in Part XIII of the Act prescribes that:"
+        },
+        {
+          "type": "paragraph",
+          "text": "611"
+        },
+        {
+          "type": "paragraph",
+          "text": "(1) The assets that a foreign company is required to maintain in Canada pursuant to sections 608 and 609 and the regulations made pursuant to section 610 shall be vested in trust in a Canadian financial institution chosen by the foreign company and approved by the Superintendent."
+        },
+        {
+          "type": "paragraph",
+          "text": "Subsection 2(1) of the Act defines \"assets in Canada\" as assets vested in trust for a foreign company under Part XIII of the Act."
+        },
+        {
+          "type": "paragraph",
+          "text": "Subsection 611(3) of the Act requires that:"
+        },
+        {
+          "type": "paragraph",
+          "text": "611"
+        },
+        {
+          "type": "paragraph",
+          "text": "A trust deed must be approved by the Superintendent before it is entered into."
+        },
+        {
+          "type": "paragraph",
+          "text": "Section 10 of OSFI's Standard Form Trust Agreement permits the trustee to deposit, subject to the written approval of the Superintendent, any of the assets vested in trust with the CDS. The Trust Agreement does not permit the trustee to vest in trust assets with foreign depositories. The Superintendent does not approve trust agreements that differ materially from the Standard Form Trust Agreement."
+        },
+        {
+          "type": "paragraph",
+          "text": "OSFI maintains a prohibition on the use of foreign depositories by foreign companies for prudential reasons. OSFI requires legal certainty that it has undisputed and timely access to assets held in depositories when required. OSFI must be able to repatriate and realize upon those assets without having to face legal and other challenges which may conspire to delay or reduce the amounts ultimately available to Canadian policyholders."
+        }
+      ]
+    },
+    {
+      "heading": "Summary",
+      "heading_level": 2,
+      "full_text": " | Canadian Companies | Foreign Companies\nRelevant Legislation | The Protection of Assets (Insurance Companies) Regulations , Sections 6, 7, 8 | ICA, Section 611\nCanadian Depository for Securities Limited | may use directly or through custodian | trustee may use, subject to written approval of the Superintendent\nForeign Depositories | may use directly or through custodian for securities (s. 6) not permitted for proceeds of securities transactions (s. 8) | not permitted by OSFI for prudential reasons\nnot permitted for proceeds of securities transactions (s. 8)",
+      "content": [
+        {
+          "type": "table",
+          "caption": "",
+          "rows": [
+            [
+              "",
+              "Canadian Companies",
+              "Foreign Companies"
+            ],
+            [
+              "Relevant Legislation",
+              "The Protection of Assets (Insurance Companies) Regulations , Sections 6, 7, 8",
+              "ICA, Section 611"
+            ],
+            [
+              "Canadian Depository for Securities Limited",
+              "may use directly or through custodian",
+              "trustee may use, subject to written approval of the Superintendent"
+            ],
+            [
+              "Foreign Depositories",
+              "may use directly or through custodian for securities (s. 6) not permitted for proceeds of securities transactions (s. 8)",
+              "not permitted by OSFI for prudential reasons"
+            ]
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "not permitted for proceeds of securities transactions (s. 8)"
+        }
+      ]
+    }
+  ],
+  "title_normalized": "use of depositories by insurance companies",
+  "publication_type_normalized": "bulletin",
+  "category_normalized": "sound_business_and_financial_practices",
+  "sector_normalized": [
+    "life_insurance",
+    "pc_insurance"
+  ],
+  "guideline_number_normalized": "",
+  "applies_to_banks": false,
+  "applies_to_trust_loan": false,
+  "applies_to_life_insurance": true,
+  "applies_to_pc_insurance": true,
+  "applies_to_foreign_bank": false,
+  "applies_to_foreign_insurance": false,
+  "applies_to_cooperative": false,
+  "applies_to_bank_holding": false,
+  "effective_date_sort_key": "1996-12-31",
+  "status_sort_key": 1,
+  "authority_sort_key": 70,
+  "bm25_text": "Use of Depositories by Insurance Companies Bulletin Sound Business and Financial Practices Life Insurance and Fraternal Companies Property and Casualty Companies Canadian Companies Foreign Companies Summary",
+  "vector_text_prefix": "[OSFI Bulletin  | Sound Business and Financial Practices | Life Insurance and Fraternal Companies / Property and Casualty Companies | FINAL_CURRENT | Effective 1996-12-31]",
+  "h1_title": "Use of Depositories by Insurance Companies",
+  "regulator": "OSFI",
+  "regulator_acronym": "OSFI",
+  "jurisdiction": "Canada",
+  "short_title": "",
+  "source_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/use-depositories-insurance-companies"
+}

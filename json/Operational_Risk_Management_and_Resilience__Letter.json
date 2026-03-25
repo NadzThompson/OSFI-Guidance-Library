@@ -1,0 +1,390 @@
+{
+  "source_system": "osfi_guidance_library",
+  "library_row_title": "Operational Risk Management and Resilience — Letter",
+  "library_row_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/operational-risk-management-resilience-letter",
+  "listing_date_raw": "August 22, 2024",
+  "listing_date_iso": "2024-08-22",
+  "listing_publication_type": "Letter",
+  "listing_category": "Sound Business and Financial Practices",
+  "listing_sector": [
+    "Banks",
+    "Cooperative Credit Associations",
+    "Foreign Bank Branches",
+    "Life Insurance and Fraternal Companies",
+    "Property and Casualty Companies",
+    "Trust and Loan Companies"
+  ],
+  "crawl_timestamp": "2026-03-11T00:00:00Z",
+  "detail_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/operational-risk-management-resilience-letter",
+  "canonical_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/operational-risk-management-resilience-letter",
+  "slug": "operational-risk-management-resilience-letter",
+  "title": "Operational Risk Management and Resilience — Letter",
+  "publication_type": "Letter",
+  "category": "Sound Business and Financial Practices",
+  "document_date_raw": "August 22, 2024",
+  "document_date_iso": "2024-08-22",
+  "sector": [
+    "Banks",
+    "Cooperative Credit Associations",
+    "Foreign Bank Branches",
+    "Life Insurance and Fraternal Companies",
+    "Property and Casualty Companies",
+    "Trust and Loan Companies"
+  ],
+  "effective_date_text": "",
+  "guideline_number": "",
+  "date_modified_raw": "2024-08-22T12:00:00Z",
+  "generate_pdf_url": "https://www.osfi-bsif.gc.ca/en/print/pdf/node/2333",
+  "pdf_node_id": 2333,
+  "direct_pdf_url": null,
+  "has_table_of_contents": true,
+  "toc_entries": [],
+  "has_related_documents": true,
+  "related_document_links_raw": [
+    {
+      "title": "Backgrounder: Guideline E-21, Operational Risk and Resilience",
+      "url": "https://www.osfi-bsif.gc.ca/en/news/backgrounder-guideline-e-21-operational-risk-resilience"
+    },
+    {
+      "title": "Operational Risk Management and Resilience – Guideline",
+      "url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/operational-risk-management-resilience-guideline"
+    }
+  ],
+  "consultation_status_text": null,
+  "consultation_status_refers_to_version": null,
+  "page_language": "en",
+  "word_count_raw_body": 862,
+  "doc_id": "osfi.operational-risk-management-resilience.transmittal",
+  "doc_family_id": "osfi.operational-risk-management-resilience",
+  "version_id": "",
+  "version_label": "Operational Risk Management and Resilience — Letter",
+  "version_sort_key": "",
+  "parent_doc_id": null,
+  "child_doc_ids": [],
+  "is_package_page": false,
+  "is_chapter_page": false,
+  "chapter_number": null,
+  "chapter_title": null,
+  "document_order_within_family": 0,
+  "supersedes_doc_id": null,
+  "superseded_by_doc_id": null,
+  "current_version_flag": true,
+  "status": "final_current",
+  "include_in_primary_corpus": false,
+  "include_in_support_corpus": true,
+  "include_in_context_corpus": false,
+  "effective_date_start": "2024-08-22",
+  "effective_date_end": null,
+  "effective_date_fye_split": false,
+  "effective_date_oct_fye": null,
+  "effective_date_dec_fye": null,
+  "is_future_effective": false,
+  "is_rescinded": false,
+  "is_draft_or_consultation": false,
+  "rescission_date": null,
+  "consultation_closing_date": null,
+  "as_of_applicability": "2026-03-23",
+  "rule_applied": "rule_5_final_current",
+  "authority_class": "official_support",
+  "authority_level": 60,
+  "nova_tier": 2,
+  "prudential_weight": 0.7,
+  "is_primary_normative": false,
+  "is_supporting_interpretive": true,
+  "is_context_only": false,
+  "document_class": "transmittal_letter",
+  "guidance_type_normalized": "letter",
+  "section_headings": [
+    {
+      "level": 2,
+      "text": "What does the guideline do?",
+      "id": "h2-0"
+    },
+    {
+      "level": 2,
+      "text": "What should you do?",
+      "id": "h2-1"
+    },
+    {
+      "level": 3,
+      "text": "Guideline Structure and Terminology",
+      "id": "h3-2"
+    },
+    {
+      "level": 3,
+      "text": "Scenario Testing and Analysis",
+      "id": "h3-3"
+    },
+    {
+      "level": 3,
+      "text": "Change Management",
+      "id": "h3-4"
+    },
+    {
+      "level": 3,
+      "text": "Phased Implementation",
+      "id": "h3-5"
+    }
+  ],
+  "heading_path": [
+    "Operational Risk Management and Resilience — Letter"
+  ],
+  "toc_depth": 3,
+  "has_appendices": false,
+  "appendix_ids": [],
+  "has_tables": false,
+  "table_count": 0,
+  "has_footnotes": false,
+  "footnote_count": 0,
+  "inline_cross_references": [
+    "Guideline E-21: Operational Risk Management and Resilience"
+  ],
+  "quoted_external_references": [],
+  "raw_html_sha256": "74495208b417ea716fd5e3af0cbf28796a660b92c683c8624a07f7a4cee114c3",
+  "raw_pdf_sha256": null,
+  "normalized_text_sha256": null,
+  "raw_html_path": "bronze/osfi/html/final_current/operational-risk-management-resilience-letter.html",
+  "normalized_md_path": "silver/osfi/md/final_current/operational-risk-management-resilience-letter.md",
+  "canonical_json_path": "silver/osfi/json/final_current/operational-risk-management-resilience-letter.json",
+  "content_source": "HTML",
+  "parser_version": "osfi-parser-v2.1.0",
+  "normalizer_version": "osfi-normalizer-v1.4.0",
+  "quality_score": 1.0,
+  "quality_flags": [],
+  "download_timestamp": "2026-03-11T00:00:00Z",
+  "enriched_timestamp": "2026-03-23T09:53:58.246761Z",
+  "sections": [
+    {
+      "heading": "",
+      "heading_level": 2,
+      "full_text": "  - Backgrounder: Guideline E-21, Operational Risk and Resilience\n  - Operational Risk Management and Resilience – Guideline\nToday, OSFI released final Guideline E-21: Operational Risk Management and Resilience. It concludes an extended consultation on operational risk management and resilience that began in July 2021.\nThe final guideline is revised with simplified language to make it clearer and better streamlined. The expectations are, in substance, the same as in the consultation draft, other than some changes based on feedback (see below).",
+      "content": [
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Backgrounder: Guideline E-21, Operational Risk and Resilience",
+            "Operational Risk Management and Resilience – Guideline"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Today, OSFI released final Guideline E-21: Operational Risk Management and Resilience. It concludes an extended consultation on operational risk management and resilience that began in July 2021."
+        },
+        {
+          "type": "paragraph",
+          "text": "The final guideline is revised with simplified language to make it clearer and better streamlined. The expectations are, in substance, the same as in the consultation draft, other than some changes based on feedback (see below)."
+        }
+      ]
+    },
+    {
+      "heading": "What does the guideline do?",
+      "heading_level": 2,
+      "full_text": "  - Enhances expectations for operational risk management.\n  - Sets new expectations for operational resilience, a vital component of our supervisory framework.\n  - Sets new expectations for business continuity risk management, crisis management, change management, and data risk management, which strengthen operational resilience.\nFinancial institutions are familiar with our expectations related to operational risk management, which have been in place since 2016 and therefore sections 1 and 2 are effective immediately. Other new expectations deal with concepts many financial institutions generally are experienced in managing.",
+      "content": [
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Enhances expectations for operational risk management.",
+            "Sets new expectations for operational resilience, a vital component of our supervisory framework.",
+            "Sets new expectations for business continuity risk management, crisis management, change management, and data risk management, which strengthen operational resilience."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Financial institutions are familiar with our expectations related to operational risk management, which have been in place since 2016 and therefore sections 1 and 2 are effective immediately. Other new expectations deal with concepts many financial institutions generally are experienced in managing."
+        }
+      ]
+    },
+    {
+      "heading": "What should you do?",
+      "heading_level": 2,
+      "full_text": "  - By September 1, 2025 Full adherence to section 4 . Although the expectations in this section are new, they cover risk categories already addressed by the 2016 guideline on Operational Risk Management. Therefore, institutions should have remediated any gaps by this date.\n  - By September 1, 2026 Full adherence to this guideline . While we recognize that operational resilience programs will mature over time, institutions should have completed identification, mapping and setting tolerances for disruption of their critical operations. Furthermore, institutions should also have developed their scenario testing methodology and begun the testing process so that by September 1, 2027, testing has been completed for all critical operations.\nBy September 1, 2025\n  - Full adherence to section 4 . Although the expectations in this section are new, they cover risk categories already addressed by the 2016 guideline on Operational Risk Management. Therefore, institutions should have remediated any gaps by this date.\nFull adherence to section 4 . Although the expectations in this section are new, they cover risk categories already addressed by the 2016 guideline on Operational Risk Management. Therefore, institutions should have remediated any gaps by this date.\nBy September 1, 2026\n  - Full adherence to this guideline . While we recognize that operational resilience programs will mature over time, institutions should have completed identification, mapping and setting tolerances for disruption of their critical operations. Furthermore, institutions should also have developed their scenario testing methodology and begun the testing process so that by September 1, 2027, testing has been completed for all critical operations.\nFull adherence to this guideline . While we recognize that operational resilience programs will mature over time, institutions should have completed identification, mapping and setting tolerances for disruption of their critical operations. Furthermore, institutions should also have developed their scenario testing methodology and begun the testing process so that by September 1, 2027, testing has been completed for all critical operations.\nDuring the transition period, we plan to selectively conduct supervisory work to assess institutions' progress in implementing their operational resilience programs. We will also continue to assess whether institutions have effective operational risk management practices.",
+      "content": [
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "By September 1, 2025 Full adherence to section 4 . Although the expectations in this section are new, they cover risk categories already addressed by the 2016 guideline on Operational Risk Management. Therefore, institutions should have remediated any gaps by this date.",
+            "By September 1, 2026 Full adherence to this guideline . While we recognize that operational resilience programs will mature over time, institutions should have completed identification, mapping and setting tolerances for disruption of their critical operations. Furthermore, institutions should also have developed their scenario testing methodology and begun the testing process so that by September 1, 2027, testing has been completed for all critical operations."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "By September 1, 2025"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Full adherence to section 4 . Although the expectations in this section are new, they cover risk categories already addressed by the 2016 guideline on Operational Risk Management. Therefore, institutions should have remediated any gaps by this date."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Full adherence to section 4 . Although the expectations in this section are new, they cover risk categories already addressed by the 2016 guideline on Operational Risk Management. Therefore, institutions should have remediated any gaps by this date."
+        },
+        {
+          "type": "paragraph",
+          "text": "By September 1, 2026"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Full adherence to this guideline . While we recognize that operational resilience programs will mature over time, institutions should have completed identification, mapping and setting tolerances for disruption of their critical operations. Furthermore, institutions should also have developed their scenario testing methodology and begun the testing process so that by September 1, 2027, testing has been completed for all critical operations."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Full adherence to this guideline . While we recognize that operational resilience programs will mature over time, institutions should have completed identification, mapping and setting tolerances for disruption of their critical operations. Furthermore, institutions should also have developed their scenario testing methodology and begun the testing process so that by September 1, 2027, testing has been completed for all critical operations."
+        },
+        {
+          "type": "paragraph",
+          "text": "During the transition period, we plan to selectively conduct supervisory work to assess institutions' progress in implementing their operational resilience programs. We will also continue to assess whether institutions have effective operational risk management practices."
+        }
+      ]
+    },
+    {
+      "heading": "Guideline Structure and Terminology",
+      "heading_level": 3,
+      "full_text": "Feedback : Reorient the guideline with operational risk management preceding operational resilience to make it more intuitive to understand.\nResponse : The guideline was reoriented this way and revised with simplified language to make it clearer and easier to understand.\nFeedback : Clarify meaning of “business and central functions” and “risk management and compliance.”\nResponse : These terms are clarified, and explained in our Supervisory Framework:\n  - The business and central functions own and manage risks.\n  - The risk management and compliance functions oversee and challenge risk decisions and practices.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Feedback : Reorient the guideline with operational risk management preceding operational resilience to make it more intuitive to understand."
+        },
+        {
+          "type": "paragraph",
+          "text": "Response : The guideline was reoriented this way and revised with simplified language to make it clearer and easier to understand."
+        },
+        {
+          "type": "paragraph",
+          "text": "Feedback : Clarify meaning of “business and central functions” and “risk management and compliance.”"
+        },
+        {
+          "type": "paragraph",
+          "text": "Response : These terms are clarified, and explained in our Supervisory Framework:"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "The business and central functions own and manage risks.",
+            "The risk management and compliance functions oversee and challenge risk decisions and practices."
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "Scenario Testing and Analysis",
+      "heading_level": 3,
+      "full_text": "Feedback : Clarify that the list of operational risk management tools is not exhaustive, particularly that scenario analysis is still relevant to operational risk management.\nResponse : Clarified that:\n  - The list of operational risk management tools is not exhaustive.\n  - Scenario analysis is still relevant and focuses on identifying and assessing the impact, controls, and mitigating actions of operational risks at the business unit level and enterprise wide.\n  - Scenario testing goes further to test whether critical operations can remain within tolerances for disruption on an end-to-end basis, across multiple business lines, in severe but plausible circumstances.\nFeedback: Frequency of scenario-testing should be risk-based rather than annual.\nResponse: Clarified that scenario-testing should align with risk and criticality but when significant changes in the risk environment arise, it should take place outside the regular cycle.\nFeedback: Third-party participation in scenario-testing may not always be available.\nResponse : Clarified that critical third parties should be involved in scenario-testing on a best-effort basis.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Feedback : Clarify that the list of operational risk management tools is not exhaustive, particularly that scenario analysis is still relevant to operational risk management."
+        },
+        {
+          "type": "paragraph",
+          "text": "Response : Clarified that:"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "The list of operational risk management tools is not exhaustive.",
+            "Scenario analysis is still relevant and focuses on identifying and assessing the impact, controls, and mitigating actions of operational risks at the business unit level and enterprise wide.",
+            "Scenario testing goes further to test whether critical operations can remain within tolerances for disruption on an end-to-end basis, across multiple business lines, in severe but plausible circumstances."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Feedback: Frequency of scenario-testing should be risk-based rather than annual."
+        },
+        {
+          "type": "paragraph",
+          "text": "Response: Clarified that scenario-testing should align with risk and criticality but when significant changes in the risk environment arise, it should take place outside the regular cycle."
+        },
+        {
+          "type": "paragraph",
+          "text": "Feedback: Third-party participation in scenario-testing may not always be available."
+        },
+        {
+          "type": "paragraph",
+          "text": "Response : Clarified that critical third parties should be involved in scenario-testing on a best-effort basis."
+        }
+      ]
+    },
+    {
+      "heading": "Change Management",
+      "heading_level": 3,
+      "full_text": "Feedback : Provide flexibility to scale change management activities to the type of change initiated.\nResponse : Change management activities should apply to significant changes.\nFeedback: Apply the change management section to the operational risks introduced by change, not to change management practices themselves.\nResponse: We disagree. Poorly executed change can lead to disruption. We clarified that processes should govern the risks introduced by change and the change management practices themselves.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Feedback : Provide flexibility to scale change management activities to the type of change initiated."
+        },
+        {
+          "type": "paragraph",
+          "text": "Response : Change management activities should apply to significant changes."
+        },
+        {
+          "type": "paragraph",
+          "text": "Feedback: Apply the change management section to the operational risks introduced by change, not to change management practices themselves."
+        },
+        {
+          "type": "paragraph",
+          "text": "Response: We disagree. Poorly executed change can lead to disruption. We clarified that processes should govern the risks introduced by change and the change management practices themselves."
+        }
+      ]
+    },
+    {
+      "heading": "Phased Implementation",
+      "heading_level": 3,
+      "full_text": "Feedback: The guideline should be subject to phased implementation.\nResponse : The expectations in the guideline are subject to the phased implementation set out above.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Feedback: The guideline should be subject to phased implementation."
+        },
+        {
+          "type": "paragraph",
+          "text": "Response : The expectations in the guideline are subject to the phased implementation set out above."
+        }
+      ]
+    }
+  ],
+  "title_normalized": "operational risk management and resilience letter",
+  "publication_type_normalized": "letter",
+  "category_normalized": "sound_business_and_financial_practices",
+  "sector_normalized": [
+    "banks",
+    "cooperative_credit",
+    "foreign_bank_branches",
+    "life_insurance",
+    "pc_insurance",
+    "trust_and_loan_companies"
+  ],
+  "guideline_number_normalized": "",
+  "applies_to_banks": true,
+  "applies_to_trust_loan": true,
+  "applies_to_life_insurance": true,
+  "applies_to_pc_insurance": true,
+  "applies_to_foreign_bank": true,
+  "applies_to_foreign_insurance": false,
+  "applies_to_cooperative": true,
+  "applies_to_bank_holding": false,
+  "effective_date_sort_key": "2024-08-22",
+  "status_sort_key": 1,
+  "authority_sort_key": 60,
+  "bm25_text": "Operational Risk Management and Resilience — Letter Letter Sound Business and Financial Practices Banks Cooperative Credit Associations Foreign Bank Branches Life Insurance and Fraternal Companies Property and Casualty Companies Trust and Loan Companies What does the guideline do? What should you do? Guideline Structure and Terminology Scenario Testing and Analysis Change Management Phased Implementation",
+  "vector_text_prefix": "[OSFI Letter  | Sound Business and Financial Practices | Banks / Cooperative Credit Associations / Foreign Bank Branches | FINAL_CURRENT | Effective 2024-08-22]",
+  "h1_title": "Operational Risk Management and Resilience — Letter",
+  "regulator": "OSFI",
+  "regulator_acronym": "OSFI",
+  "jurisdiction": "Canada",
+  "short_title": "",
+  "source_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/operational-risk-management-resilience-letter"
+}

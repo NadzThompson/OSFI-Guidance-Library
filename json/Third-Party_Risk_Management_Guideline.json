@@ -1,0 +1,1726 @@
+{
+  "source_system": "osfi_guidance_library",
+  "library_row_title": "Third-Party Risk Management Guideline",
+  "library_row_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/third-party-risk-management-guideline",
+  "listing_date_raw": "April 30, 2023",
+  "listing_date_iso": "2023-04-30",
+  "listing_publication_type": "Guideline",
+  "listing_category": "Sound Business and Financial Practices",
+  "listing_sector": [
+    "Banks",
+    "Foreign Bank Branches",
+    "Foreign Insurance Branches",
+    "Life Insurance and Fraternal Companies",
+    "Property and Casualty Companies",
+    "Trust and Loan Companies"
+  ],
+  "crawl_timestamp": "2026-03-11T00:00:00Z",
+  "detail_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/third-party-risk-management-guideline",
+  "canonical_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/third-party-risk-management-guideline",
+  "slug": "third-party-risk-management-guideline",
+  "title": "Third-Party Risk Management Guideline",
+  "publication_type": "Guideline",
+  "category": "Sound Business and Financial Practices",
+  "document_date_raw": "April 30, 2023",
+  "document_date_iso": "2023-04-30",
+  "sector": [
+    "Banks",
+    "Foreign Bank Branches",
+    "Foreign Insurance Branches",
+    "Life Insurance and Fraternal Companies",
+    "Property and Casualty Companies",
+    "Trust and Loan Companies"
+  ],
+  "effective_date_text": "",
+  "guideline_number": "",
+  "date_modified_raw": "2023-04-30T12:00:00Z",
+  "generate_pdf_url": "https://www.osfi-bsif.gc.ca/en/print/pdf/node/567",
+  "pdf_node_id": 567,
+  "direct_pdf_url": null,
+  "has_table_of_contents": true,
+  "toc_entries": [],
+  "has_related_documents": false,
+  "related_document_links_raw": [],
+  "consultation_status_text": null,
+  "consultation_status_refers_to_version": null,
+  "page_language": "en",
+  "word_count_raw_body": 8409,
+  "doc_id": "osfi.b10.package",
+  "doc_family_id": "osfi.b10",
+  "version_id": "",
+  "version_label": "Third-Party Risk Management Guideline",
+  "version_sort_key": "",
+  "parent_doc_id": null,
+  "child_doc_ids": [],
+  "is_package_page": true,
+  "is_chapter_page": false,
+  "chapter_number": null,
+  "chapter_title": null,
+  "document_order_within_family": 0,
+  "supersedes_doc_id": null,
+  "superseded_by_doc_id": null,
+  "current_version_flag": true,
+  "status": "final_current",
+  "include_in_primary_corpus": true,
+  "include_in_support_corpus": false,
+  "include_in_context_corpus": false,
+  "effective_date_start": "2023-04-30",
+  "effective_date_end": null,
+  "effective_date_fye_split": false,
+  "effective_date_oct_fye": null,
+  "effective_date_dec_fye": null,
+  "is_future_effective": false,
+  "is_rescinded": false,
+  "is_draft_or_consultation": false,
+  "rescission_date": null,
+  "consultation_closing_date": null,
+  "as_of_applicability": "2026-03-23",
+  "rule_applied": "rule_5_final_current",
+  "authority_class": "primary_normative",
+  "authority_level": 100,
+  "nova_tier": 1,
+  "prudential_weight": 1.0,
+  "is_primary_normative": true,
+  "is_supporting_interpretive": false,
+  "is_context_only": false,
+  "document_class": "package_guideline",
+  "guidance_type_normalized": "guideline",
+  "section_headings": [
+    {
+      "level": 2,
+      "text": "A. Overview",
+      "id": "h2-0"
+    },
+    {
+      "level": 3,
+      "text": "A1. Purpose and scope",
+      "id": "h3-1"
+    },
+    {
+      "level": 3,
+      "text": "A2. Application of the Guideline",
+      "id": "h3-2"
+    },
+    {
+      "level": 3,
+      "text": "A3. Definitions",
+      "id": "h3-3"
+    },
+    {
+      "level": 3,
+      "text": "A4. Outcomes",
+      "id": "h3-4"
+    },
+    {
+      "level": 3,
+      "text": "A5. Related guidance",
+      "id": "h3-5"
+    },
+    {
+      "level": 2,
+      "text": "1. Governance",
+      "id": "h2-6"
+    },
+    {
+      "level": 4,
+      "text": "1.1.1 The FRFI retains accountability for services outsourced to a third party and manages risk arising from all third-party arrangements",
+      "id": "h4-7"
+    },
+    {
+      "level": 3,
+      "text": "1.2 Third-Party Risk Management Framework (TPRMF)",
+      "id": "h3-8"
+    },
+    {
+      "level": 4,
+      "text": "1.2.1 The TPRMF is enterprise-wide and governs the lifecycle of third-party arrangements",
+      "id": "h4-9"
+    },
+    {
+      "level": 4,
+      "text": "1.2.2 The TPRMF establishes accountabilities, policies and processes for identifying, monitoring and managing third party risk, including, as appropriate",
+      "id": "h4-10"
+    },
+    {
+      "level": 2,
+      "text": "2. Management of third-party risk",
+      "id": "h2-11"
+    },
+    {
+      "level": 4,
+      "text": "2.1.1 Risk assessment criteria are comprehensive and scalable",
+      "id": "h4-12"
+    },
+    {
+      "level": 4,
+      "text": "2.1.2 Level of risk of third-party arrangements are assessed",
+      "id": "h4-13"
+    },
+    {
+      "level": 4,
+      "text": "2.1.3 Rigor of risk management activities matches the level of risk and criticality",
+      "id": "h4-14"
+    },
+    {
+      "level": 3,
+      "text": "2.2 Risk identification and assessment",
+      "id": "h3-15"
+    },
+    {
+      "level": 5,
+      "text": "2.2.1.1 Risk and criticality of the arrangement are assessed throughout its lifecycle",
+      "id": "h5-16"
+    },
+    {
+      "level": 4,
+      "text": "2.2.2 Due diligence",
+      "id": "h4-17"
+    },
+    {
+      "level": 5,
+      "text": "2.2.2.1 A due diligence process is established",
+      "id": "h5-18"
+    },
+    {
+      "level": 5,
+      "text": "2.2.2.2 Due diligence is performed proportionate to level of risk and criticality",
+      "id": "h5-19"
+    },
+    {
+      "level": 5,
+      "text": "2.2.2.3 Out-of-Canada arrangements are considered",
+      "id": "h5-20"
+    },
+    {
+      "level": 5,
+      "text": "2.2.3.1 Concentration risk is assessed",
+      "id": "h5-21"
+    },
+    {
+      "level": 4,
+      "text": "2.2.4 Subcontracting risk",
+      "id": "h4-22"
+    },
+    {
+      "level": 5,
+      "text": "2.2.4.1 Risks introduced by subcontracting practices are identified and understood",
+      "id": "h5-23"
+    },
+    {
+      "level": 5,
+      "text": "2.2.4.2 Monitor and manage subcontracting risks",
+      "id": "h5-24"
+    },
+    {
+      "level": 3,
+      "text": "2.3 Risk management and mitigation",
+      "id": "h3-25"
+    },
+    {
+      "level": 4,
+      "text": "2.3.1. Written agreements / contracting",
+      "id": "h4-26"
+    },
+    {
+      "level": 5,
+      "text": "2.3.1.1 Clear responsibilities are set out in the agreement",
+      "id": "h5-27"
+    },
+    {
+      "level": 5,
+      "text": "2.3.1.2 The third party is expected to comply with FRFI’s provisions",
+      "id": "h5-28"
+    },
+    {
+      "level": 4,
+      "text": "2.3.2 Data security and controls (including data location)",
+      "id": "h4-29"
+    },
+    {
+      "level": 5,
+      "text": "2.3.2.1 Responsibilities for security of records and data are established",
+      "id": "h5-30"
+    },
+    {
+      "level": 5,
+      "text": "2.3.2.2 Record keeping requirements",
+      "id": "h5-31"
+    },
+    {
+      "level": 4,
+      "text": "2.3.3 Information rights and audit",
+      "id": "h4-32"
+    },
+    {
+      "level": 5,
+      "text": "2.3.3.1 The third party provides the FRFI with information and reporting",
+      "id": "h5-33"
+    },
+    {
+      "level": 5,
+      "text": "2.3.3.2 The third party reports events that could materially impact the FRFI",
+      "id": "h5-34"
+    },
+    {
+      "level": 5,
+      "text": "2.3.3.3 Service performance and controls are evaluated, and audit rights established, as appropriate",
+      "id": "h5-35"
+    },
+    {
+      "level": 4,
+      "text": "2.3.4 Business continuity planning and testing",
+      "id": "h4-36"
+    },
+    {
+      "level": 5,
+      "text": "2.3.4.1 Business continuity and recovery capabilities are established and tested",
+      "id": "h5-37"
+    },
+    {
+      "level": 5,
+      "text": "2.3.5.1 Contingency and exit strategies are developed to ensure continuity of critical services",
+      "id": "h5-38"
+    },
+    {
+      "level": 3,
+      "text": "2.4 Monitoring and reporting",
+      "id": "h3-39"
+    },
+    {
+      "level": 5,
+      "text": "2.4.1.1 The FRFI monitors its third-party arrangement(s)",
+      "id": "h5-40"
+    },
+    {
+      "level": 5,
+      "text": "2.4.1.2 Metrics confirm residual risk remains within risk appetite",
+      "id": "h5-41"
+    },
+    {
+      "level": 4,
+      "text": "2.4.2 Incident management and reporting",
+      "id": "h4-42"
+    },
+    {
+      "level": 5,
+      "text": "2.4.2.1 The third-party has clearly defined incident management processes",
+      "id": "h5-43"
+    },
+    {
+      "level": 5,
+      "text": "2.4.2.2 Incident reporting and notification requirements of the third party support FRFI compliance with OSFI’s incident reporting requirements",
+      "id": "h5-44"
+    },
+    {
+      "level": 5,
+      "text": "2.4.2.3 Internal incident management process is established",
+      "id": "h5-45"
+    },
+    {
+      "level": 5,
+      "text": "2.4.2.4 Incidents are investigated, analysed and results are shared",
+      "id": "h5-46"
+    },
+    {
+      "level": 2,
+      "text": "3. Special arrangements",
+      "id": "h2-47"
+    },
+    {
+      "level": 3,
+      "text": "3.1 Standardized contracts",
+      "id": "h3-48"
+    },
+    {
+      "level": 4,
+      "text": "3.1.1 Risks of third parties with standardized contracts are managed",
+      "id": "h4-49"
+    },
+    {
+      "level": 4,
+      "text": "3.2.1 Third parties with no written contracts still carry risks",
+      "id": "h4-50"
+    },
+    {
+      "level": 3,
+      "text": "3.3 Third-party arrangements with the external auditor",
+      "id": "h3-51"
+    },
+    {
+      "level": 4,
+      "text": "3.3.1 External auditors comply with auditor independence standards when providing third-party services",
+      "id": "h4-52"
+    },
+    {
+      "level": 4,
+      "text": "3.3.2 The FRFI does not obtain actuarial or internal audit services from its external auditor unless certain conditions apply",
+      "id": "h4-53"
+    },
+    {
+      "level": 2,
+      "text": "4. Technology and cyber risk in third-party arrangements",
+      "id": "h2-54"
+    },
+    {
+      "level": 3,
+      "text": "4.1 Clear roles and responsibilities are established for technology and cyber controls",
+      "id": "h3-55"
+    },
+    {
+      "level": 3,
+      "text": "4.2 Third parties comply with the FRFI’s technology and cyber standards",
+      "id": "h3-56"
+    },
+    {
+      "level": 3,
+      "text": "4.3 Cloud-specific requirements are established",
+      "id": "h3-57"
+    },
+    {
+      "level": 3,
+      "text": "4.4 Cloud portability is considered",
+      "id": "h3-58"
+    },
+    {
+      "level": 2,
+      "text": "Annex 1 – Examples of due diligence consideration",
+      "id": "h2-59"
+    },
+    {
+      "level": 2,
+      "text": "Annex 2 – Provisions for third-party agreements",
+      "id": "h2-60"
+    }
+  ],
+  "heading_path": [
+    "Third-Party Risk Management Guideline"
+  ],
+  "toc_depth": 5,
+  "has_appendices": false,
+  "appendix_ids": [],
+  "has_tables": false,
+  "table_count": 0,
+  "has_footnotes": false,
+  "footnote_count": 0,
+  "inline_cross_references": [
+    "Guideline E-4 on Foreign Entities Operating in Canada on a Branch Basis",
+    "Guideline E-21 on Operational Risk Management",
+    "Guideline B-13 on Technology and Cyber Risk Management",
+    "Guideline B-13 - Technology and Cyber Risk Management</a> for OSFI’s expec",
+    "Guideline B-13: Technology and Cyber Risk Management and"
+  ],
+  "quoted_external_references": [],
+  "raw_html_sha256": "992546d214387cdeaeb76c3836ca8c818e826101f56b5ba20414cf0623020af1",
+  "raw_pdf_sha256": null,
+  "normalized_text_sha256": null,
+  "raw_html_path": "bronze/osfi/html/final_current/third-party-risk-management-guideline.html",
+  "normalized_md_path": "silver/osfi/md/final_current/third-party-risk-management-guideline.md",
+  "canonical_json_path": "silver/osfi/json/final_current/third-party-risk-management-guideline.json",
+  "content_source": "HTML",
+  "parser_version": "osfi-parser-v2.1.0",
+  "normalizer_version": "osfi-normalizer-v1.4.0",
+  "quality_score": 1.0,
+  "quality_flags": [],
+  "download_timestamp": "2026-03-11T00:00:00Z",
+  "enriched_timestamp": "2026-03-23T09:54:00.879290Z",
+  "sections": [
+    {
+      "heading": "",
+      "heading_level": 2,
+      "full_text": "  - Consequential amendments to Guidelines B-10 and B-13 related to foreign branches\n  - OSFI announces new guideline to manage third-party risk\n  - OSFI response to draft guideline B-10 consultation feedback – Third-party Risk Management\n  - Third-party Risk Management guideline - Summary response to consultation feedback",
+      "content": [
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Consequential amendments to Guidelines B-10 and B-13 related to foreign branches",
+            "OSFI announces new guideline to manage third-party risk",
+            "OSFI response to draft guideline B-10 consultation feedback – Third-party Risk Management",
+            "Third-party Risk Management guideline - Summary response to consultation feedback"
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "A. Overview",
+      "heading_level": 2,
+      "full_text": "Federally regulated financial institutions (FRFIs) engage in business and strategic arrangements with external parties—entities or individuals—to perform business activities, functions, and services or obtain goods in support of their own operations or their business strategy.\nExternal arrangements, or third-party arrangements, can be beneficial to the FRFI by introducing efficiencies, driving innovation, managing shifting operational needs, and improving services. However, risks can arise from third-party arrangements that can threaten the FRFI’s operational and financial resilience.\nOSFI expects the FRFI to manage the risks related to all third-party arrangements and emphasizes that the FRFI retains accountability for business activities, functions and services outsourced to a third party.\nTo that end, FRFIs are required to provide OSFI, upon request, information related to their business and strategic arrangements with third parties, risk management, and control environments, to support supervisory monitoring and review work. In accordance with supervisory information requirements set out in the <a href=\"https://laws-lois.justice.gc.ca/eng/acts/B-1.01\" rel=\"external\"> <cite>Bank Act</cite></a>, the <a href=\"https://laws-lois.justice.gc.ca/eng/acts/I-11.8\" rel=\"external\"> <cite>Insurance Companies Act</cite></a>, and the <a href=\"https://laws-lois.justice.gc.ca/eng/acts/T-19.8\" rel=\"external\"> <cite>Trust and Loan Companies Act</cite></a>. OSFI expects to be promptly notified of substantive issues affecting the FRFI’s ability to deliver critical operations due to a third-party arrangement.\nIn all cases, OSFI’s supervisory powers should not be constrained, irrespective of whether an activity is conducted in-house, outsourced, or otherwise obtained from a third party.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Federally regulated financial institutions (FRFIs) engage in business and strategic arrangements with external parties—entities or individuals—to perform business activities, functions, and services or obtain goods in support of their own operations or their business strategy."
+        },
+        {
+          "type": "paragraph",
+          "text": "External arrangements, or third-party arrangements, can be beneficial to the FRFI by introducing efficiencies, driving innovation, managing shifting operational needs, and improving services. However, risks can arise from third-party arrangements that can threaten the FRFI’s operational and financial resilience."
+        },
+        {
+          "type": "paragraph",
+          "text": "OSFI expects the FRFI to manage the risks related to all third-party arrangements and emphasizes that the FRFI retains accountability for business activities, functions and services outsourced to a third party."
+        },
+        {
+          "type": "paragraph",
+          "text": "To that end, FRFIs are required to provide OSFI, upon request, information related to their business and strategic arrangements with third parties, risk management, and control environments, to support supervisory monitoring and review work. In accordance with supervisory information requirements set out in the <a href=\"https://laws-lois.justice.gc.ca/eng/acts/B-1.01\" rel=\"external\"> <cite>Bank Act</cite></a>, the <a href=\"https://laws-lois.justice.gc.ca/eng/acts/I-11.8\" rel=\"external\"> <cite>Insurance Companies Act</cite></a>, and the <a href=\"https://laws-lois.justice.gc.ca/eng/acts/T-19.8\" rel=\"external\"> <cite>Trust and Loan Companies Act</cite></a>. OSFI expects to be promptly notified of substantive issues affecting the FRFI’s ability to deliver critical operations due to a third-party arrangement."
+        },
+        {
+          "type": "paragraph",
+          "text": "In all cases, OSFI’s supervisory powers should not be constrained, irrespective of whether an activity is conducted in-house, outsourced, or otherwise obtained from a third party."
+        }
+      ]
+    },
+    {
+      "heading": "A1. Purpose and scope",
+      "heading_level": 3,
+      "full_text": "This Guideline sets out OSFI’s expectations for managing risks associated with third-party arrangements. It is applicable to all federally regulated financial institutions, including foreign bank branches and foreign insurance company branches, to the extent it is consistent with applicable requirements and legal obligations related to their business in Canada. Foreign bank branches refers to foreign banks authorized to conduct business in Canada on a branch basis under Part XII.1 of the Bank Act . Foreign insurance company branches refers to foreign entities that are authorized to insure in Canada risks on a branch basis under Part XIII of the Insurance Companies Act . Expectations for branches are set out in Guideline E-4 on Foreign Entities Operating in Canada on a Branch Basis .",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "This Guideline sets out OSFI’s expectations for managing risks associated with third-party arrangements. It is applicable to all federally regulated financial institutions, including foreign bank branches and foreign insurance company branches, to the extent it is consistent with applicable requirements and legal obligations related to their business in Canada. Foreign bank branches refers to foreign banks authorized to conduct business in Canada on a branch basis under Part XII.1 of the Bank Act . Foreign insurance company branches refers to foreign entities that are authorized to insure in Canada risks on a branch basis under Part XIII of the Insurance Companies Act . Expectations for branches are set out in Guideline E-4 on Foreign Entities Operating in Canada on a Branch Basis ."
+        }
+      ]
+    },
+    {
+      "heading": "A2. Application of the Guideline",
+      "heading_level": 3,
+      "full_text": "FRFI third-party arrangements have a variety of forms, which include but are not limited to, critical services for the FRFI, minor support arrangements, and strategic arrangements where no service is actually being provided. OSFI expects FRFIs to consider risk and criticality when examining third-party arrangements to determine the intensity with which to apply the expectations set out in this Guideline. For example, an exit or contingency plan may not be needed for a low-risk arrangement, nor will subcontracting risk be a significant factor in managing every third-party arrangement. Similarly, a legal review may not be necessary for a low-risk, short-term arrangement.\nFundamental to applying this Guideline in a prudent manner is identifying the type and level of risk arising from each third-party arrangement (including subcontracting arrangements), such that the FRFI can manage each third-party arrangement with the appropriate level of intensity.\nTherefore, OSFI expects the FRFI to understand the risk and criticality of all its third-party arrangements and apply this Guideline in a manner that is proportionate to both:\n  - the risk and criticality of each third-party arrangement; and\n  - the size, nature, scope, complexity of operations and risk profile of the FRFI.\nOSFI acknowledges that not all contracts with third parties will be negotiable, and for certain third-party arrangements there may be no contracts. Section 3.1 has been added in recognition of these situations. While the opportunity to manage third-party risk through terms of a contract may be limited in such cases, OSFI nonetheless expects the FRFI to manage risk, as appropriate, through monitoring, business continuity measures, contingency planning, and other resiliency mechanisms.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "FRFI third-party arrangements have a variety of forms, which include but are not limited to, critical services for the FRFI, minor support arrangements, and strategic arrangements where no service is actually being provided. OSFI expects FRFIs to consider risk and criticality when examining third-party arrangements to determine the intensity with which to apply the expectations set out in this Guideline. For example, an exit or contingency plan may not be needed for a low-risk arrangement, nor will subcontracting risk be a significant factor in managing every third-party arrangement. Similarly, a legal review may not be necessary for a low-risk, short-term arrangement."
+        },
+        {
+          "type": "paragraph",
+          "text": "Fundamental to applying this Guideline in a prudent manner is identifying the type and level of risk arising from each third-party arrangement (including subcontracting arrangements), such that the FRFI can manage each third-party arrangement with the appropriate level of intensity."
+        },
+        {
+          "type": "paragraph",
+          "text": "Therefore, OSFI expects the FRFI to understand the risk and criticality of all its third-party arrangements and apply this Guideline in a manner that is proportionate to both:"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "the risk and criticality of each third-party arrangement; and",
+            "the size, nature, scope, complexity of operations and risk profile of the FRFI."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "OSFI acknowledges that not all contracts with third parties will be negotiable, and for certain third-party arrangements there may be no contracts. Section 3.1 has been added in recognition of these situations. While the opportunity to manage third-party risk through terms of a contract may be limited in such cases, OSFI nonetheless expects the FRFI to manage risk, as appropriate, through monitoring, business continuity measures, contingency planning, and other resiliency mechanisms."
+        }
+      ]
+    },
+    {
+      "heading": "A3. Definitions",
+      "heading_level": 3,
+      "full_text": "‘Cloud portability’ as defined by the US National Institute of Standards and Technology (NIST) is “the ability for data to be moved from one cloud system to another or for applications to be ported and run on different cloud systems at an acceptable cost.” NIST 500-291, version 2: NIST Cloud Computing Standards Roadmap.\n‘Concentration risk’ has two forms. Institution-specific concentration risk is the risk of loss or harm to the FRFI resulting from overreliance on a single third party, subcontractor or geography for multiple activities. Systemic concentration risk is the risk arising from concentration in the provision of services by one third party or geography to multiple FRFIs. In the case of systemic concentration risk, FRFIs should seek to understand this risk to the greatest extent possible.\n‘Contingency plan’ is a series of actions for the FRFI to take to maintain critical operations in the event of an unplanned disruption at a critical third-party.\n‘Criticality’ denotes importance to the FRFI’s operations, strategy, financial condition or reputation. It emphasizes the impact of a risk event, irrespective of the likelihood of such risk event occurring. The criticality of an arrangement is an important input in the assessment of an arrangement’s risk. Critical third-party arrangements provide goods, business activities, functions and services to FRFIs which, if disrupted, could put at risk the continued operation of the FRFI, its safety and soundness or its role in the financial system, and thereby jeopardize its operational resilience. Please see: <a data-entity-substitution=\"canonical\" data-entity-type=\"node\" data-entity-uuid=\"91dc6b7b-4147-486a-b255-5f7fda112d43\" href=\"/node/2332#toc-id-5\">OSFI’s Operational Resilience Key Definitions</a>.\n‘Critical operations’ are the services, products or functions of a FRFI which if disrupted, could put at risk the continued operation of the FRFI, its safety and soundness, or its role in the financial system.\n‘Exit plan’ is a series of actions for the FRFI to take in the event of a planned (i.e. non-stressed) or unplanned (i.e. stressed) exit from a third-party arrangement, along with triggers for invoking the plan in either event. Please see section 2.3.5 for further details.\n‘Risk acceptance’ refers to a decision to accept an identified risk and not take any, or further, mitigating actions.\n‘Subcontractor’ is an entity within the third party’s contracting, external arrangements or supply chain.\n‘Subcontracting risk’ stems from the third-party’s own business or strategic arrangements with entity(ies) or individuals, by contract or otherwise.\n‘ Third-party arrangement’ refers to any type of business or strategic arrangement between the FRFI(s) and an entity(ies) or individuals, by contract or otherwise, save for arrangements with FRFI customers (e.g., depositors and policyholders) and employment contracts, which are excluded from this definition.\nThird-party arrangements include, among other things:\n  - outsourced activities, functions, and services that would otherwise be undertaken by the FRFI itself;\n  - use of independent professional consultants;\n  - brokers (e.g., mortgage, insurance, deposit brokers);\n  - utilities (e.g., power sources, telecommunications);\n  - financial market infrastructures (e.g., payments systems, clearing and settlement systems, other FRFIs in cases where the FRFI does not have direct access to financial market infrastructures); For clarity, the third-party risk management expectations set out in this Guideline are not intended to replace or substitute for, but rather to serve in addition to, appropriate counterparty credit risk and market risk management activities applied in respect of financial market infrastructures.\n  - services provided by parent holding companies, affiliates, and subsidiaries, or through joint ventures and partnerships; and\n  - other relationships involving the provision of goods and services or the storage, use or exchange of data (such as cloud service providers, managed service providers, technology companies that deliver financial services). OSFI recognizes that a federally endorsed framework will be developed to govern consumer-directed data mobility within the financial sector. This guideline is not intended to impede the establishment or operations of such a framework. Once the framework is designed, OSFI may provide relevant guidance as appropriate.\n‘Third-party risk’ is the risk to the FRFI due to a third party failing to provide goods, business activities, functions and services, protect data or systems, or otherwise exposing the FRFI to negative outcomes. Third-party risk scenarios could include, but would not be limited to:\n  - insolvency of the third party;\n  - operational disruption at the third party due to people, inadequate or failed processes and systems, or from external events (e.g., cyber incidents);\n  - political, geographic, legal, environmental, or other risks impeding the third party from providing services according to its arrangement with the FRFI;\n  - insolvency or operational disruption at a subcontractor;\n  - risks arising from interconnections between multiple third parties and multiple FRFIs;\n  - corruption of FRFI data or FRFI data breaches; In cases where data is being exchanged between the FRFI and a third party or where the third party has access to FRFI systems, data corruption and breaches may occur at the third party, the FRFI location or while the data is in transit. and\n  - loss of data by the third party.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "‘Cloud portability’ as defined by the US National Institute of Standards and Technology (NIST) is “the ability for data to be moved from one cloud system to another or for applications to be ported and run on different cloud systems at an acceptable cost.” NIST 500-291, version 2: NIST Cloud Computing Standards Roadmap."
+        },
+        {
+          "type": "paragraph",
+          "text": "‘Concentration risk’ has two forms. Institution-specific concentration risk is the risk of loss or harm to the FRFI resulting from overreliance on a single third party, subcontractor or geography for multiple activities. Systemic concentration risk is the risk arising from concentration in the provision of services by one third party or geography to multiple FRFIs. In the case of systemic concentration risk, FRFIs should seek to understand this risk to the greatest extent possible."
+        },
+        {
+          "type": "paragraph",
+          "text": "‘Contingency plan’ is a series of actions for the FRFI to take to maintain critical operations in the event of an unplanned disruption at a critical third-party."
+        },
+        {
+          "type": "paragraph",
+          "text": "‘Criticality’ denotes importance to the FRFI’s operations, strategy, financial condition or reputation. It emphasizes the impact of a risk event, irrespective of the likelihood of such risk event occurring. The criticality of an arrangement is an important input in the assessment of an arrangement’s risk. Critical third-party arrangements provide goods, business activities, functions and services to FRFIs which, if disrupted, could put at risk the continued operation of the FRFI, its safety and soundness or its role in the financial system, and thereby jeopardize its operational resilience. Please see: <a data-entity-substitution=\"canonical\" data-entity-type=\"node\" data-entity-uuid=\"91dc6b7b-4147-486a-b255-5f7fda112d43\" href=\"/node/2332#toc-id-5\">OSFI’s Operational Resilience Key Definitions</a>."
+        },
+        {
+          "type": "paragraph",
+          "text": "‘Critical operations’ are the services, products or functions of a FRFI which if disrupted, could put at risk the continued operation of the FRFI, its safety and soundness, or its role in the financial system."
+        },
+        {
+          "type": "paragraph",
+          "text": "‘Exit plan’ is a series of actions for the FRFI to take in the event of a planned (i.e. non-stressed) or unplanned (i.e. stressed) exit from a third-party arrangement, along with triggers for invoking the plan in either event. Please see section 2.3.5 for further details."
+        },
+        {
+          "type": "paragraph",
+          "text": "‘Risk acceptance’ refers to a decision to accept an identified risk and not take any, or further, mitigating actions."
+        },
+        {
+          "type": "paragraph",
+          "text": "‘Subcontractor’ is an entity within the third party’s contracting, external arrangements or supply chain."
+        },
+        {
+          "type": "paragraph",
+          "text": "‘Subcontracting risk’ stems from the third-party’s own business or strategic arrangements with entity(ies) or individuals, by contract or otherwise."
+        },
+        {
+          "type": "paragraph",
+          "text": "‘ Third-party arrangement’ refers to any type of business or strategic arrangement between the FRFI(s) and an entity(ies) or individuals, by contract or otherwise, save for arrangements with FRFI customers (e.g., depositors and policyholders) and employment contracts, which are excluded from this definition."
+        },
+        {
+          "type": "paragraph",
+          "text": "Third-party arrangements include, among other things:"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "outsourced activities, functions, and services that would otherwise be undertaken by the FRFI itself;",
+            "use of independent professional consultants;",
+            "brokers (e.g., mortgage, insurance, deposit brokers);",
+            "utilities (e.g., power sources, telecommunications);",
+            "financial market infrastructures (e.g., payments systems, clearing and settlement systems, other FRFIs in cases where the FRFI does not have direct access to financial market infrastructures); For clarity, the third-party risk management expectations set out in this Guideline are not intended to replace or substitute for, but rather to serve in addition to, appropriate counterparty credit risk and market risk management activities applied in respect of financial market infrastructures.",
+            "services provided by parent holding companies, affiliates, and subsidiaries, or through joint ventures and partnerships; and",
+            "other relationships involving the provision of goods and services or the storage, use or exchange of data (such as cloud service providers, managed service providers, technology companies that deliver financial services). OSFI recognizes that a federally endorsed framework will be developed to govern consumer-directed data mobility within the financial sector. This guideline is not intended to impede the establishment or operations of such a framework. Once the framework is designed, OSFI may provide relevant guidance as appropriate."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "‘Third-party risk’ is the risk to the FRFI due to a third party failing to provide goods, business activities, functions and services, protect data or systems, or otherwise exposing the FRFI to negative outcomes. Third-party risk scenarios could include, but would not be limited to:"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "insolvency of the third party;",
+            "operational disruption at the third party due to people, inadequate or failed processes and systems, or from external events (e.g., cyber incidents);",
+            "political, geographic, legal, environmental, or other risks impeding the third party from providing services according to its arrangement with the FRFI;",
+            "insolvency or operational disruption at a subcontractor;",
+            "risks arising from interconnections between multiple third parties and multiple FRFIs;",
+            "corruption of FRFI data or FRFI data breaches; In cases where data is being exchanged between the FRFI and a third party or where the third party has access to FRFI systems, data corruption and breaches may occur at the third party, the FRFI location or while the data is in transit. and",
+            "loss of data by the third party."
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "A4. Outcomes",
+      "heading_level": 3,
+      "full_text": "This Guideline presents six expected outcomes for FRFIs to achieve through effective third-party risk management. These outcomes contribute to the FRFI’s operational and financial resilience and help safeguard its reputation.\n  1. Governance and accountability structures are clear with comprehensive risk management strategies and frameworks in place.\n  2. Risks posed by third parties are identified and assessed.\n  3. Risks posed by third parties are managed and mitigated within the FRFI’s risk appetite framework.\n  4. Third party performance is monitored and assessed, and risks and incidents are proactively addressed.\n  5. The FRFI’s third-party risk management program allows the FRFI to identify and manage a range of third-party relationships on an ongoing basis.\n  6. Technology and cyber operations carried out by third parties are transparent, reliable and secure.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "This Guideline presents six expected outcomes for FRFIs to achieve through effective third-party risk management. These outcomes contribute to the FRFI’s operational and financial resilience and help safeguard its reputation."
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "Governance and accountability structures are clear with comprehensive risk management strategies and frameworks in place.",
+            "Risks posed by third parties are identified and assessed.",
+            "Risks posed by third parties are managed and mitigated within the FRFI’s risk appetite framework.",
+            "Third party performance is monitored and assessed, and risks and incidents are proactively addressed.",
+            "The FRFI’s third-party risk management program allows the FRFI to identify and manage a range of third-party relationships on an ongoing basis.",
+            "Technology and cyber operations carried out by third parties are transparent, reliable and secure."
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "A5. Related guidance",
+      "heading_level": 3,
+      "full_text": "This Guideline should be read in conjunction with applicable legislation and relevant OSFI guidance, including but not limited to, Guideline E-21 on Operational Risk Management, Guideline B-13 on Technology and Cyber Risk Management, and the Corporate Governance Guideline.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "This Guideline should be read in conjunction with applicable legislation and relevant OSFI guidance, including but not limited to, Guideline E-21 on Operational Risk Management, Guideline B-13 on Technology and Cyber Risk Management, and the Corporate Governance Guideline."
+        }
+      ]
+    },
+    {
+      "heading": "1. Governance",
+      "heading_level": 2,
+      "full_text": "Outcome: Governance and accountability structures are clear with comprehensive risk strategies and frameworks in place.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Outcome: Governance and accountability structures are clear with comprehensive risk strategies and frameworks in place."
+        }
+      ]
+    },
+    {
+      "heading": "1.1.1 The FRFI retains accountability for services outsourced to a third party and manages risk arising from all third-party arrangements",
+      "heading_level": 4,
+      "full_text": "The FRFI has the flexibility to arrange its operations in a way that achieves its business and strategic objectives. However, the FRFI retains accountability for business activities, functions, and services outsourced to third parties, for data exchanged with third parties or data to which third-parties have access, and for managing risk arising from third-party arrangements.\nThe FRFI’s Senior Management should be satisfied that business activities, functions, and services performed by third parties are done in a safe and sound manner, and in compliance with applicable legislative and regulatory requirements and the FRFI’s own internal policies, standards, and processes. The FRFI’s senior management should also be satisfied that third-party arrangements are in alignment with the FRFI’s risk appetite and managed proportionate to the level of criticality and risk.\nPlease refer to OSFI’s Corporate Governance Guideline for OSFI’s expectations of FRFI Boards of Directors in regard to business strategy, risk appetite and operational, business, risk and crisis management policies.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "The FRFI has the flexibility to arrange its operations in a way that achieves its business and strategic objectives. However, the FRFI retains accountability for business activities, functions, and services outsourced to third parties, for data exchanged with third parties or data to which third-parties have access, and for managing risk arising from third-party arrangements."
+        },
+        {
+          "type": "paragraph",
+          "text": "The FRFI’s Senior Management should be satisfied that business activities, functions, and services performed by third parties are done in a safe and sound manner, and in compliance with applicable legislative and regulatory requirements and the FRFI’s own internal policies, standards, and processes. The FRFI’s senior management should also be satisfied that third-party arrangements are in alignment with the FRFI’s risk appetite and managed proportionate to the level of criticality and risk."
+        },
+        {
+          "type": "paragraph",
+          "text": "Please refer to OSFI’s Corporate Governance Guideline for OSFI’s expectations of FRFI Boards of Directors in regard to business strategy, risk appetite and operational, business, risk and crisis management policies."
+        }
+      ]
+    },
+    {
+      "heading": "1.2 Third-Party Risk Management Framework (TPRMF)",
+      "heading_level": 3,
+      "full_text": "Principle 2: The FRFI should establish a TPRMF that sets out clear accountabilities, responsibilities, policies, and processes for identifying, managing, mitigating, monitoring and reporting on risks relating to the use of third parties.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Principle 2: The FRFI should establish a TPRMF that sets out clear accountabilities, responsibilities, policies, and processes for identifying, managing, mitigating, monitoring and reporting on risks relating to the use of third parties."
+        }
+      ]
+    },
+    {
+      "heading": "1.2.1 The TPRMF is enterprise-wide and governs the lifecycle of third-party arrangements",
+      "heading_level": 4,
+      "full_text": "The FRFI should establish a TPRMF that provides an enterprise-wide view of its exposures to third parties. The TPRMF should reflect the FRFI’s risk appetite and be consistent with its risk management frameworks.\nThe TPRMF should be developed to span the lifecycle of a third-party arrangement, from sourcing and due diligence of a third-party provider to potential exit from the third-party arrangement. The TPRMF should set out how the FRFI will identify and assess; manage and mitigate; and monitor and report on third-party risk.\nOSFI expects the FRFI to review and update its TPRMF on a regular basis to ensure it is relevant and appropriate and to make continuous improvements based on implementation, effectiveness and other lessons learned (e.g., past incidents).",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "The FRFI should establish a TPRMF that provides an enterprise-wide view of its exposures to third parties. The TPRMF should reflect the FRFI’s risk appetite and be consistent with its risk management frameworks."
+        },
+        {
+          "type": "paragraph",
+          "text": "The TPRMF should be developed to span the lifecycle of a third-party arrangement, from sourcing and due diligence of a third-party provider to potential exit from the third-party arrangement. The TPRMF should set out how the FRFI will identify and assess; manage and mitigate; and monitor and report on third-party risk."
+        },
+        {
+          "type": "paragraph",
+          "text": "OSFI expects the FRFI to review and update its TPRMF on a regular basis to ensure it is relevant and appropriate and to make continuous improvements based on implementation, effectiveness and other lessons learned (e.g., past incidents)."
+        }
+      ]
+    },
+    {
+      "heading": "1.2.2 The TPRMF establishes accountabilities, policies and processes for identifying, monitoring and managing third party risk, including, as appropriate",
+      "heading_level": 4,
+      "full_text": "  - accountability for third-party risk management, including for oversight functions;\n  - clear roles and responsibilities for overseeing and managing third-party arrangements and associated risk management processes;\n  - third-party risk appetite and measurement (e.g., limits, thresholds and key risk indicators);\n  - methodology for assessing the level of risk and criticality of third-party arrangements;\n  - policies to govern third-party risk, which are approved, regularly reviewed and consistently implemented enterprise-wide;\n  - processes and systems for identifying, assessing, managing, monitoring, measuring, and reporting on an inventory of third parties delineated by level of risk and criticality; third-party compliance with contractual provisions and/or service level agreements, including processes for managing exceptions and incidents; third-party risks introduced by individual arrangements (including, among others, technology, cyber, information security, concentration, business continuity, strategic and financial risks); and aggregation of third-party risk exposures and trends to inform the FRFI’s current and emerging risk profile.\n  - an inventory of third parties delineated by level of risk and criticality;\n  - third-party compliance with contractual provisions and/or service level agreements, including processes for managing exceptions and incidents;\n  - third-party risks introduced by individual arrangements (including, among others, technology, cyber, information security, concentration, business continuity, strategic and financial risks); and\n  - aggregation of third-party risk exposures and trends to inform the FRFI’s current and emerging risk profile.",
+      "content": [
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "accountability for third-party risk management, including for oversight functions;",
+            "clear roles and responsibilities for overseeing and managing third-party arrangements and associated risk management processes;",
+            "third-party risk appetite and measurement (e.g., limits, thresholds and key risk indicators);",
+            "methodology for assessing the level of risk and criticality of third-party arrangements;",
+            "policies to govern third-party risk, which are approved, regularly reviewed and consistently implemented enterprise-wide;",
+            "processes and systems for identifying, assessing, managing, monitoring, measuring, and reporting on an inventory of third parties delineated by level of risk and criticality; third-party compliance with contractual provisions and/or service level agreements, including processes for managing exceptions and incidents; third-party risks introduced by individual arrangements (including, among others, technology, cyber, information security, concentration, business continuity, strategic and financial risks); and aggregation of third-party risk exposures and trends to inform the FRFI’s current and emerging risk profile."
+          ]
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "an inventory of third parties delineated by level of risk and criticality;",
+            "third-party compliance with contractual provisions and/or service level agreements, including processes for managing exceptions and incidents;",
+            "third-party risks introduced by individual arrangements (including, among others, technology, cyber, information security, concentration, business continuity, strategic and financial risks); and",
+            "aggregation of third-party risk exposures and trends to inform the FRFI’s current and emerging risk profile."
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "2. Management of third-party risk",
+      "heading_level": 2,
+      "full_text": "OSFI expects the FRFI to manage third-party risks in a manner that is proportionate to the level of risk and complexity of the FRFI’s third-party ecosystem. OSFI expects the FRFI to assess its third-party arrangements regularly, with higher-risk and more critical arrangements subjected to more frequent and rigorous assessment and more robust risk management.\nFor critical third-party arrangements and those that pose a high risk to the FRFI, OSFI expects that all expectations set out in Section 2 be considered minimum expectations.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "OSFI expects the FRFI to manage third-party risks in a manner that is proportionate to the level of risk and complexity of the FRFI’s third-party ecosystem. OSFI expects the FRFI to assess its third-party arrangements regularly, with higher-risk and more critical arrangements subjected to more frequent and rigorous assessment and more robust risk management."
+        },
+        {
+          "type": "paragraph",
+          "text": "For critical third-party arrangements and those that pose a high risk to the FRFI, OSFI expects that all expectations set out in Section 2 be considered minimum expectations."
+        }
+      ]
+    },
+    {
+      "heading": "2.1.1 Risk assessment criteria are comprehensive and scalable",
+      "heading_level": 4,
+      "full_text": "The FRFI’s criteria to assess the risks of third-party arrangements should be comprehensive to accurately determine the risk of each arrangement. Assessment criteria should also be reviewed periodically to ensure that they remain current for the risk landscape.\nCriticality is an important input to the assessment of risk, and can be used to scale risk assessments. In determining the level of criticality, the FRFI should consider as deemed appropriate:\n  - the severity of loss or harm to the FRFI if the third party or subcontractor fails to meet expectations, due to insolvency or operational disruption;\n  - substitutability of the third party, including the portability and timeliness of a transfer of services;\n  - the degree to which the third party or subcontractor supports a critical operation of a FRFI; and\n  - the impact on business operations if the FRFI needed to exit the third-party arrangement and transition to another service provider or bring the business activity in-house.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "The FRFI’s criteria to assess the risks of third-party arrangements should be comprehensive to accurately determine the risk of each arrangement. Assessment criteria should also be reviewed periodically to ensure that they remain current for the risk landscape."
+        },
+        {
+          "type": "paragraph",
+          "text": "Criticality is an important input to the assessment of risk, and can be used to scale risk assessments. In determining the level of criticality, the FRFI should consider as deemed appropriate:"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "the severity of loss or harm to the FRFI if the third party or subcontractor fails to meet expectations, due to insolvency or operational disruption;",
+            "substitutability of the third party, including the portability and timeliness of a transfer of services;",
+            "the degree to which the third party or subcontractor supports a critical operation of a FRFI; and",
+            "the impact on business operations if the FRFI needed to exit the third-party arrangement and transition to another service provider or bring the business activity in-house."
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "2.1.2 Level of risk of third-party arrangements are assessed",
+      "heading_level": 4,
+      "full_text": "In determining the level of risk, the FRFI should consider, as deemed appropriate:\n  - the probability of the third party or subcontractor failing to meet expectations, due to insolvency or operational disruption;\n  - the ability of the FRFI to assess controls at the third party and continue to meet regulatory and legal requirements in respect of activities performed by the third party, particularly in the case of disruptions;\n  - the financial health of the third party and the “step-in” risk, whereby the FRFI is required to provide financial support to the third party;\n  - the third party’s use of subcontractors and the complexity of the supply chain;\n  - the degree of the FRFI’s reliance on third parties with elevated concentration risk;\n  - the information management, data, cyber security and privacy practices of the third party and its subcontractors; and\n  - any other relevant financial and non-financial risks associated with the use of the third party.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "In determining the level of risk, the FRFI should consider, as deemed appropriate:"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "the probability of the third party or subcontractor failing to meet expectations, due to insolvency or operational disruption;",
+            "the ability of the FRFI to assess controls at the third party and continue to meet regulatory and legal requirements in respect of activities performed by the third party, particularly in the case of disruptions;",
+            "the financial health of the third party and the “step-in” risk, whereby the FRFI is required to provide financial support to the third party;",
+            "the third party’s use of subcontractors and the complexity of the supply chain;",
+            "the degree of the FRFI’s reliance on third parties with elevated concentration risk;",
+            "the information management, data, cyber security and privacy practices of the third party and its subcontractors; and",
+            "any other relevant financial and non-financial risks associated with the use of the third party."
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "2.1.3 Rigor of risk management activities matches the level of risk and criticality",
+      "heading_level": 4,
+      "full_text": "The robustness and frequency of the FRFI’s third-party risk management activities (e.g., risk assessment, mitigation, monitoring, measuring, and reporting) should be proportionate to the level of risk and criticality associated with the third-party arrangement.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "The robustness and frequency of the FRFI’s third-party risk management activities (e.g., risk assessment, mitigation, monitoring, measuring, and reporting) should be proportionate to the level of risk and criticality associated with the third-party arrangement."
+        }
+      ]
+    },
+    {
+      "heading": "2.2 Risk identification and assessment",
+      "heading_level": 3,
+      "full_text": "Outcome: Risks posed by third parties are identified and assessed.\nPrinciple 3: The FRFI should identify and assess the risks of a third-party arrangement before entering the arrangement and periodically thereafter. Risk assessments should be proportionate to the criticality of an arrangement. Specifically, the FRFI should conduct risk assessments to decide on third-party selection; (re)assess the risk and criticality of the arrangement; and plan for adequate risk mitigation and oversight.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Outcome: Risks posed by third parties are identified and assessed."
+        },
+        {
+          "type": "paragraph",
+          "text": "Principle 3: The FRFI should identify and assess the risks of a third-party arrangement before entering the arrangement and periodically thereafter. Risk assessments should be proportionate to the criticality of an arrangement. Specifically, the FRFI should conduct risk assessments to decide on third-party selection; (re)assess the risk and criticality of the arrangement; and plan for adequate risk mitigation and oversight."
+        }
+      ]
+    },
+    {
+      "heading": "2.2.1.1 Risk and criticality of the arrangement are assessed throughout its lifecycle",
+      "heading_level": 5,
+      "full_text": "The FRFI should conduct assessments of each third-party arrangement to determine the risk and criticality of the arrangement, considering both risks created and reduced by the arrangement (for example, using suppliers in various jurisdictions would reduce geographic concentration risk but also increase geopolitical and legal risks), as well as risk mitigants. Where a third party is subject to government regulation or supervision, the FRFI may take this into consideration as part of its risk assessment.\nThe FRFI should conduct risk assessments:\n  - prior to entering into the third-party arrangement (see Section 2.2.2);\n  - regularly throughout the lifecycle of the arrangement, including renewal, at a frequency and scope proportionate to the level of criticality; and\n  - whenever there is material change in the arrangement or third party (including disruption at the third party or in the service provided).\nSuch risk assessments should, at minimum:\n  - determine whether the arrangement aligns with the FRFI’s risk appetite for third-party risk and other relevant risks;\n  - document the criticality of the arrangement;\n  - establish the level of risk; and\n  - develop a plan, with appropriate intensity of monitoring and mitigating actions, to manage the arrangement within the FRFI’s risk appetite.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "The FRFI should conduct assessments of each third-party arrangement to determine the risk and criticality of the arrangement, considering both risks created and reduced by the arrangement (for example, using suppliers in various jurisdictions would reduce geographic concentration risk but also increase geopolitical and legal risks), as well as risk mitigants. Where a third party is subject to government regulation or supervision, the FRFI may take this into consideration as part of its risk assessment."
+        },
+        {
+          "type": "paragraph",
+          "text": "The FRFI should conduct risk assessments:"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "prior to entering into the third-party arrangement (see Section 2.2.2);",
+            "regularly throughout the lifecycle of the arrangement, including renewal, at a frequency and scope proportionate to the level of criticality; and",
+            "whenever there is material change in the arrangement or third party (including disruption at the third party or in the service provided)."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Such risk assessments should, at minimum:"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "determine whether the arrangement aligns with the FRFI’s risk appetite for third-party risk and other relevant risks;",
+            "document the criticality of the arrangement;",
+            "establish the level of risk; and",
+            "develop a plan, with appropriate intensity of monitoring and mitigating actions, to manage the arrangement within the FRFI’s risk appetite."
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "2.2.2 Due diligence",
+      "heading_level": 4,
+      "full_text": "Principle 4: The FRFI should undertake due diligence prior to entering contracts or other forms of arrangement with a third party, and on an ongoing basis proportionate to the level of risk and criticality of the arrangement.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Principle 4: The FRFI should undertake due diligence prior to entering contracts or other forms of arrangement with a third party, and on an ongoing basis proportionate to the level of risk and criticality of the arrangement."
+        }
+      ]
+    },
+    {
+      "heading": "2.2.2.1 A due diligence process is established",
+      "heading_level": 5,
+      "full_text": "The FRFI should establish due diligence processes for third-party arrangements to apply initially and on an ongoing basis, including documented risk escalation, approval and acceptance processes.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "The FRFI should establish due diligence processes for third-party arrangements to apply initially and on an ongoing basis, including documented risk escalation, approval and acceptance processes."
+        }
+      ]
+    },
+    {
+      "heading": "2.2.2.2 Due diligence is performed proportionate to level of risk and criticality",
+      "heading_level": 5,
+      "full_text": "The FRFI should conduct due diligence proportionate to the level of risk and criticality of each third-party arrangement:\n  - prior to entering into the arrangement;\n  - as part of the contract renewal process; and\n  - periodically on an ongoing basis proportionate to the level of risk and criticality or whenever there are material changes to the third-party arrangement, such as the nature of the arrangement or its criticality.\nDue diligence should consider all relevant qualitative (i.e., operational) and quantitative (i.e., financial) factors related to the third-party arrangement. A non-exhaustive list of factors to consider in respect of high-risk and critical arrangements is set out in Annex 1 of this Guideline.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "The FRFI should conduct due diligence proportionate to the level of risk and criticality of each third-party arrangement:"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "prior to entering into the arrangement;",
+            "as part of the contract renewal process; and",
+            "periodically on an ongoing basis proportionate to the level of risk and criticality or whenever there are material changes to the third-party arrangement, such as the nature of the arrangement or its criticality."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Due diligence should consider all relevant qualitative (i.e., operational) and quantitative (i.e., financial) factors related to the third-party arrangement. A non-exhaustive list of factors to consider in respect of high-risk and critical arrangements is set out in Annex 1 of this Guideline."
+        }
+      ]
+    },
+    {
+      "heading": "2.2.2.3 Out-of-Canada arrangements are considered",
+      "heading_level": 5,
+      "full_text": "When considering third-party arrangements with a geographic presence outside of Canada (or subcontractors with a geographic presence outside of Canada) the FRFI should review the legal requirements of relevant jurisdictions, as well as the political, legal, security, economic, environmental, social, and other risks that may impede the ability of the third party to provide services.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "When considering third-party arrangements with a geographic presence outside of Canada (or subcontractors with a geographic presence outside of Canada) the FRFI should review the legal requirements of relevant jurisdictions, as well as the political, legal, security, economic, environmental, social, and other risks that may impede the ability of the third party to provide services."
+        }
+      ]
+    },
+    {
+      "heading": "2.2.3.1 Concentration risk is assessed",
+      "heading_level": 5,
+      "full_text": "To determine the appropriate level of mitigation, the FRFI should assess concentration risk both prior to entering a contract or agreement and on an ongoing basis. Processes established should take reasonable steps to assess concentration risk over multiple dimensions including geography, supplier, and subcontractor. Throughout the process, concentration should be considered within the FRFI’s business functions/units and legal entities, and across the FRFI’s entire organization. To the greatest extent possible, FRFIs should also assess systemic concentration risk.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "To determine the appropriate level of mitigation, the FRFI should assess concentration risk both prior to entering a contract or agreement and on an ongoing basis. Processes established should take reasonable steps to assess concentration risk over multiple dimensions including geography, supplier, and subcontractor. Throughout the process, concentration should be considered within the FRFI’s business functions/units and legal entities, and across the FRFI’s entire organization. To the greatest extent possible, FRFIs should also assess systemic concentration risk."
+        }
+      ]
+    },
+    {
+      "heading": "2.2.4 Subcontracting risk",
+      "heading_level": 4,
+      "full_text": "Principle 5: The FRFI is responsible for identifying, monitoring and managing risk arising from subcontracting arrangements undertaken by its third parties.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Principle 5: The FRFI is responsible for identifying, monitoring and managing risk arising from subcontracting arrangements undertaken by its third parties."
+        }
+      ]
+    },
+    {
+      "heading": "2.2.4.1 Risks introduced by subcontracting practices are identified and understood",
+      "heading_level": 5,
+      "full_text": "The FRFI should assess risks arising from third-party subcontractors that could impact the FRFI.\nPrior to entering a third-party arrangement the FRFI should identify and understand the third party’s subcontracting practices, including:\n  - number and criticality of subcontractors;\n  - the adequacy and performance of the third party’s own third-party risk management program, including assurance that significant performance, legal and regulatory requirements are aligned with the contract entered into with the FRFI; and\n  - impact of subcontracting arrangements on the FRFI’s own concentration risk (refer to 2.2.3 above).",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "The FRFI should assess risks arising from third-party subcontractors that could impact the FRFI."
+        },
+        {
+          "type": "paragraph",
+          "text": "Prior to entering a third-party arrangement the FRFI should identify and understand the third party’s subcontracting practices, including:"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "number and criticality of subcontractors;",
+            "the adequacy and performance of the third party’s own third-party risk management program, including assurance that significant performance, legal and regulatory requirements are aligned with the contract entered into with the FRFI; and",
+            "impact of subcontracting arrangements on the FRFI’s own concentration risk (refer to 2.2.3 above)."
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "2.2.4.2 Monitor and manage subcontracting risks",
+      "heading_level": 5,
+      "full_text": "The FRFI should ensure that they will receive appropriate ongoing updates and reporting on the third party’s use of subcontractors so the FRFI can appropriately manage subcontracting risk. Depending on the level of risk and the criticality of services provided by the third party, the FRFI can achieve this by contractual provisions:\n  - prohibiting the use of subcontractors for certain functions;\n  - requiring that the FRFI be informed, in writing and on a timely basis, when a subcontractor is retained, or substituted, to carry out some of the functions contracted for the third party to perform;\n  - reserving a right of the FRFI to refuse a subcontractor; and\n  - allowing the FRFI to commission or conduct an audit of subcontractors.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "The FRFI should ensure that they will receive appropriate ongoing updates and reporting on the third party’s use of subcontractors so the FRFI can appropriately manage subcontracting risk. Depending on the level of risk and the criticality of services provided by the third party, the FRFI can achieve this by contractual provisions:"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "prohibiting the use of subcontractors for certain functions;",
+            "requiring that the FRFI be informed, in writing and on a timely basis, when a subcontractor is retained, or substituted, to carry out some of the functions contracted for the third party to perform;",
+            "reserving a right of the FRFI to refuse a subcontractor; and",
+            "allowing the FRFI to commission or conduct an audit of subcontractors."
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "2.3 Risk management and mitigation",
+      "heading_level": 3,
+      "full_text": "Outcome: Risks posed by third parties are managed and mitigated within the FRFI’s Risk Appetite Framework.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Outcome: Risks posed by third parties are managed and mitigated within the FRFI’s Risk Appetite Framework."
+        }
+      ]
+    },
+    {
+      "heading": "2.3.1. Written agreements / contracting",
+      "heading_level": 4,
+      "full_text": "Principle 6: The FRFI should enter into written arrangements that set out the rights and responsibilities of each party.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Principle 6: The FRFI should enter into written arrangements that set out the rights and responsibilities of each party."
+        }
+      ]
+    },
+    {
+      "heading": "2.3.1.1 Clear responsibilities are set out in the agreement",
+      "heading_level": 5,
+      "full_text": "OSFI expects third-party arrangements to be supported by a written contract or other agreement (e.g., service level agreement) that sets out the rights and responsibilities of each party and which has been reviewed by the FRFI’s legal counsel. OSFI recognizes that there are certain third-party arrangements for which a customized contract may not be feasible, or for which a formal contract or agreement may not exist. Please see Section 3 of this Guideline for OSFI expectations related to such third-party arrangements.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "OSFI expects third-party arrangements to be supported by a written contract or other agreement (e.g., service level agreement) that sets out the rights and responsibilities of each party and which has been reviewed by the FRFI’s legal counsel. OSFI recognizes that there are certain third-party arrangements for which a customized contract may not be feasible, or for which a formal contract or agreement may not exist. Please see Section 3 of this Guideline for OSFI expectations related to such third-party arrangements."
+        }
+      ]
+    },
+    {
+      "heading": "2.3.1.2 The third party is expected to comply with FRFI’s provisions",
+      "heading_level": 5,
+      "full_text": "To manage the risks associated with each third-party arrangement, the FRFI should structure its written agreement with the third party in a manner that allows it to meet the expectations set out in this Guideline. OSFI expects the FRFI to include in written agreements for high-risk and critical arrangements the provisions that are set out in Annex 2 of this Guideline. Except for those contracts where Section 3 applies.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "To manage the risks associated with each third-party arrangement, the FRFI should structure its written agreement with the third party in a manner that allows it to meet the expectations set out in this Guideline. OSFI expects the FRFI to include in written agreements for high-risk and critical arrangements the provisions that are set out in Annex 2 of this Guideline. Except for those contracts where Section 3 applies."
+        }
+      ]
+    },
+    {
+      "heading": "2.3.2 Data security and controls (including data location)",
+      "heading_level": 4,
+      "full_text": "Principle 7: Throughout the duration of the third-party arrangement, the FRFI and third party should establish and maintain appropriate measures to protect the confidentiality, integrity and availability of records and data.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Principle 7: Throughout the duration of the third-party arrangement, the FRFI and third party should establish and maintain appropriate measures to protect the confidentiality, integrity and availability of records and data."
+        }
+      ]
+    },
+    {
+      "heading": "2.3.2.1 Responsibilities for security of records and data are established",
+      "heading_level": 5,
+      "full_text": "Third-party agreements are expected to set out each party’s responsibilities for the confidentiality, availability and integrity of records and data. Agreements should establish, among other things:\n  - the scope of the records and data to be protected;\n  - availability of the records and timely access to data by the FRFI and OSFI, upon request;\n  - controls and monitoring over the third party’s use of the FRFI’s systems and information;\n  - clear responsibilities of each party in managing data security;\n  - which party is liable for any losses that might result from a security breach; and\n  - notification requirements if there is a breach of security.\nAs appropriate, these agreements should also specify that the FRFI’s data and records be isolated from those of other clients at all times, including during the transfer process and under adverse conditions (e.g., disruption of services). Based on the level of risk, data and records should be subject to the equivalent standard of protection at the third party that they would be at the FRFI.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Third-party agreements are expected to set out each party’s responsibilities for the confidentiality, availability and integrity of records and data. Agreements should establish, among other things:"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "the scope of the records and data to be protected;",
+            "availability of the records and timely access to data by the FRFI and OSFI, upon request;",
+            "controls and monitoring over the third party’s use of the FRFI’s systems and information;",
+            "clear responsibilities of each party in managing data security;",
+            "which party is liable for any losses that might result from a security breach; and",
+            "notification requirements if there is a breach of security."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "As appropriate, these agreements should also specify that the FRFI’s data and records be isolated from those of other clients at all times, including during the transfer process and under adverse conditions (e.g., disruption of services). Based on the level of risk, data and records should be subject to the equivalent standard of protection at the third party that they would be at the FRFI."
+        }
+      ]
+    },
+    {
+      "heading": "2.3.2.2 Record keeping requirements",
+      "heading_level": 5,
+      "full_text": "The Bank Act , Insurance Companies Act , and the Trust and Loan Companies Act (collectively, the FRFI Statutes), contain requirements with respect to certain records that FRFIs must prepare and maintain (the Records). Please see s. 238 of the Bank Act , s. 261 of the Insurance Companies Act , and s. 243 of the Trust and Loan Companies Act . OSFI expects the Records to be updated and accurate as at the end of each business day (Records that change less frequently than daily remain accurate until they change), and that the Records will be sufficiently detailed to enable:\n  - OSFI to conduct an examination and inquiry into the business and affairs of the FRFI;\n  - OSFI to manage the FRFI’s assets, prior to the appointment of a liquidator, should the Superintendent take control of the FRFI’s assets; and\n  - The liquidator to conduct an effective liquidation of the FRFI’s assets.\nElectronic Records must be capable of being reproduced in intelligible written form within a reasonable period of time. OSFI expects electronic Records to be accessible and intelligible without incurring additional costs and by using readily available commercial applications. For certain types of information, such as reinsurance arrangements or files on more complex activities, reproduced electronic records may not be sufficient for OSFI's review and the executed copy may need to be available, upon OSFI's request.\nThe FRFI Statutes require FRFIs to keep copies of the Records at its head office, or at such other place in Canada as the directors of the FRFI think fit. If the Records are in electronic form, complete copies must be kept on a computer server(s) physically located at the places stipulated in the FRFI Statutes. Please see ss. 239(1) of the Bank Act , ss. 262(1) of the Insurance Companies Act , and ss. 244(1) of the Trust and Loan Companies Act .\nCertain FRFIs are exempted from the requirement to keep copies of the Records at the above noted places in Canada. In those circumstances, the FRFI must provide OSFI with immediate, direct, complete and ongoing access to the Records that are stored outside Canada. Please see ss. 239(3.1) of the Bank Act , ss. 262(3.1) of the Insurance Companies Act , and ss. 244(3.1) of the Trust and Loan Companies Act .",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "The Bank Act , Insurance Companies Act , and the Trust and Loan Companies Act (collectively, the FRFI Statutes), contain requirements with respect to certain records that FRFIs must prepare and maintain (the Records). Please see s. 238 of the Bank Act , s. 261 of the Insurance Companies Act , and s. 243 of the Trust and Loan Companies Act . OSFI expects the Records to be updated and accurate as at the end of each business day (Records that change less frequently than daily remain accurate until they change), and that the Records will be sufficiently detailed to enable:"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "OSFI to conduct an examination and inquiry into the business and affairs of the FRFI;",
+            "OSFI to manage the FRFI’s assets, prior to the appointment of a liquidator, should the Superintendent take control of the FRFI’s assets; and",
+            "The liquidator to conduct an effective liquidation of the FRFI’s assets."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Electronic Records must be capable of being reproduced in intelligible written form within a reasonable period of time. OSFI expects electronic Records to be accessible and intelligible without incurring additional costs and by using readily available commercial applications. For certain types of information, such as reinsurance arrangements or files on more complex activities, reproduced electronic records may not be sufficient for OSFI's review and the executed copy may need to be available, upon OSFI's request."
+        },
+        {
+          "type": "paragraph",
+          "text": "The FRFI Statutes require FRFIs to keep copies of the Records at its head office, or at such other place in Canada as the directors of the FRFI think fit. If the Records are in electronic form, complete copies must be kept on a computer server(s) physically located at the places stipulated in the FRFI Statutes. Please see ss. 239(1) of the Bank Act , ss. 262(1) of the Insurance Companies Act , and ss. 244(1) of the Trust and Loan Companies Act ."
+        },
+        {
+          "type": "paragraph",
+          "text": "Certain FRFIs are exempted from the requirement to keep copies of the Records at the above noted places in Canada. In those circumstances, the FRFI must provide OSFI with immediate, direct, complete and ongoing access to the Records that are stored outside Canada. Please see ss. 239(3.1) of the Bank Act , ss. 262(3.1) of the Insurance Companies Act , and ss. 244(3.1) of the Trust and Loan Companies Act ."
+        }
+      ]
+    },
+    {
+      "heading": "2.3.3 Information rights and audit",
+      "heading_level": 4,
+      "full_text": "Principle 8: The FRFI’s third-party arrangements should allow the FRFI timely access to accurate and comprehensive information to assist it in overseeing third-party performance and risks. The FRFI should also have the right to conduct or commission an independent audit of a third party.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Principle 8: The FRFI’s third-party arrangements should allow the FRFI timely access to accurate and comprehensive information to assist it in overseeing third-party performance and risks. The FRFI should also have the right to conduct or commission an independent audit of a third party."
+        }
+      ]
+    },
+    {
+      "heading": "2.3.3.1 The third party provides the FRFI with information and reporting",
+      "heading_level": 5,
+      "full_text": "The third-party agreement should specify the type and frequency of information to be reported to the FRFI by the third party. This should include reports that allow the FRFI to assess whether performance measures are being met and any other information required for the FRFI’s monitoring program, including risk measures (see Section 2.4).",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "The third-party agreement should specify the type and frequency of information to be reported to the FRFI by the third party. This should include reports that allow the FRFI to assess whether performance measures are being met and any other information required for the FRFI’s monitoring program, including risk measures (see Section 2.4)."
+        }
+      ]
+    },
+    {
+      "heading": "2.3.3.2 The third party reports events that could materially impact the FRFI",
+      "heading_level": 5,
+      "full_text": "The agreement should include requirements and procedures for the third party to report events in a timely manner to the FRFI that may materially affect the risks and delivery of the service.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "The agreement should include requirements and procedures for the third party to report events in a timely manner to the FRFI that may materially affect the risks and delivery of the service."
+        }
+      ]
+    },
+    {
+      "heading": "2.3.3.3 Service performance and controls are evaluated, and audit rights established, as appropriate",
+      "heading_level": 5,
+      "full_text": "The agreement should give the FRFI and OSFI the right to evaluate the risk management practices related to the service provided. Specifically, the FRFI and OSFI should be able to evaluate the risks arising from the arrangement or appoint independent auditors to evaluate the risk management practices related to service provided and the risks arising from the relationship on the FRFI’s or on OSFI’s behalf. The FRFI and OSFI should also be able to access audit reports in respect of the service being performed for the FRFI.\nThe FRFI should employ a range of audit and information gathering methods (e.g., independent reports provided by third parties, individually performed or pooled audits).",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "The agreement should give the FRFI and OSFI the right to evaluate the risk management practices related to the service provided. Specifically, the FRFI and OSFI should be able to evaluate the risks arising from the arrangement or appoint independent auditors to evaluate the risk management practices related to service provided and the risks arising from the relationship on the FRFI’s or on OSFI’s behalf. The FRFI and OSFI should also be able to access audit reports in respect of the service being performed for the FRFI."
+        },
+        {
+          "type": "paragraph",
+          "text": "The FRFI should employ a range of audit and information gathering methods (e.g., independent reports provided by third parties, individually performed or pooled audits)."
+        }
+      ]
+    },
+    {
+      "heading": "2.3.4 Business continuity planning and testing",
+      "heading_level": 4,
+      "full_text": "Principle 9: The FRFI’s agreement with the third party should encompass the ability to deliver operations through disruption, including the maintenance, testing, and activation of business continuity and disaster recovery plans. The FRFI should have contingency plans for its critical third-party arrangements.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Principle 9: The FRFI’s agreement with the third party should encompass the ability to deliver operations through disruption, including the maintenance, testing, and activation of business continuity and disaster recovery plans. The FRFI should have contingency plans for its critical third-party arrangements."
+        }
+      ]
+    },
+    {
+      "heading": "2.3.4.1 Business continuity and recovery capabilities are established and tested",
+      "heading_level": 5,
+      "full_text": "Third-party agreements should require the third party, at minimum, to:\n  - outline the third party’s measures for ensuring continuity of services in the event of disruption;\n  - test regularly the third party’s business continuity and disaster recovery programs as they pertain to services provided to the FRFI;\n  - notify the FRFI of test results; and\n  - address any material deficiencies.\nAmong other things, the FRFI’s business continuity and disaster recovery plans should:\n  - address severe but plausible situations (either temporary or permanent), including prolonged disruptions and multiple simultaneous disruptions, where the third party could fail to continue providing service;\n  - document backup systems and redundancy capabilities that are commensurate with the criticality of the service provided; and\n  - ensure the FRFI has in its possession, or can readily access, all necessary records to allow the FRFI to sustain business operations, meet statutory obligations, and provide all information as may be required by OSFI, in the event of disruption to third-party services. Please see Sections 2.3.2.1 and 2.3.2.2 of this Guideline.\nAs applicable, joint design and testing of business continuity plans and disaster recovery plans should be considered between the third party and the FRFI, commensurate with the criticality of the service.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Third-party agreements should require the third party, at minimum, to:"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "outline the third party’s measures for ensuring continuity of services in the event of disruption;",
+            "test regularly the third party’s business continuity and disaster recovery programs as they pertain to services provided to the FRFI;",
+            "notify the FRFI of test results; and",
+            "address any material deficiencies."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Among other things, the FRFI’s business continuity and disaster recovery plans should:"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "address severe but plausible situations (either temporary or permanent), including prolonged disruptions and multiple simultaneous disruptions, where the third party could fail to continue providing service;",
+            "document backup systems and redundancy capabilities that are commensurate with the criticality of the service provided; and",
+            "ensure the FRFI has in its possession, or can readily access, all necessary records to allow the FRFI to sustain business operations, meet statutory obligations, and provide all information as may be required by OSFI, in the event of disruption to third-party services. Please see Sections 2.3.2.1 and 2.3.2.2 of this Guideline."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "As applicable, joint design and testing of business continuity plans and disaster recovery plans should be considered between the third party and the FRFI, commensurate with the criticality of the service."
+        }
+      ]
+    },
+    {
+      "heading": "2.3.5.1 Contingency and exit strategies are developed to ensure continuity of critical services",
+      "heading_level": 5,
+      "full_text": "The FRFI should establish contingency and exit plans proportionate to the level of risk and criticality of individual third-party arrangements to ensure continuity of the FRFI’s operations through normal and stressed times. FRFIs should include the following elements in their documented plans for arrangements deemed high-risk or critical, and consider including them in their plans for arrangements deemed to have lower risk or criticality:\n  - triggers for invoking exit/contingency plans;\n  - activities to perform to maintain critical operations during disruptions or when exiting because of unplanned circumstances, such as failure or insolvency of the service provider (a “playbook” for stressed exit);\n  - activities to perform when exiting through a planned and managed exit due to commercial, performance, or strategic reasons (a “playbook” for non-stressed exit);\n  - reference to contractual provisions that could impact exit, such as notification requirements and provisions obliging the third party to provide services over a prescribed period of time following notification of termination;\n  - sufficient detail (e.g., alternative options or providers, supported by timelines, costs, resourcing, revenue impacts, and interim workarounds) so as to allow rapid execution; and\n  - documented plans for responding to severe but plausible scenarios, including prolonged and multiple disruptions.\nContingency plans and exit strategies should be reviewed regularly, and more frequently in the event of material changes to the third-party arrangements.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "The FRFI should establish contingency and exit plans proportionate to the level of risk and criticality of individual third-party arrangements to ensure continuity of the FRFI’s operations through normal and stressed times. FRFIs should include the following elements in their documented plans for arrangements deemed high-risk or critical, and consider including them in their plans for arrangements deemed to have lower risk or criticality:"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "triggers for invoking exit/contingency plans;",
+            "activities to perform to maintain critical operations during disruptions or when exiting because of unplanned circumstances, such as failure or insolvency of the service provider (a “playbook” for stressed exit);",
+            "activities to perform when exiting through a planned and managed exit due to commercial, performance, or strategic reasons (a “playbook” for non-stressed exit);",
+            "reference to contractual provisions that could impact exit, such as notification requirements and provisions obliging the third party to provide services over a prescribed period of time following notification of termination;",
+            "sufficient detail (e.g., alternative options or providers, supported by timelines, costs, resourcing, revenue impacts, and interim workarounds) so as to allow rapid execution; and",
+            "documented plans for responding to severe but plausible scenarios, including prolonged and multiple disruptions."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Contingency plans and exit strategies should be reviewed regularly, and more frequently in the event of material changes to the third-party arrangements."
+        }
+      ]
+    },
+    {
+      "heading": "2.4 Monitoring and reporting",
+      "heading_level": 3,
+      "full_text": "Outcome: Third-party performance is monitored and assessed, and risks and incidents are proactively addressed.\nPrinciple 10: The FRFI should monitor its third-party arrangements to verify the third party’s ability to continue to meet its obligations and effectively manage risks.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Outcome: Third-party performance is monitored and assessed, and risks and incidents are proactively addressed."
+        },
+        {
+          "type": "paragraph",
+          "text": "Principle 10: The FRFI should monitor its third-party arrangements to verify the third party’s ability to continue to meet its obligations and effectively manage risks."
+        }
+      ]
+    },
+    {
+      "heading": "2.4.1.1 The FRFI monitors its third-party arrangement(s)",
+      "heading_level": 5,
+      "full_text": "The FRFI should monitor its third-party arrangement(s) to ensure that the service is being delivered in accordance with the terms of the agreement, and that the third party remains financially sound.\nMonitoring should also cover regular oversight of current and emerging risks and risk acceptances and compliance of the third-party arrangement with the FRFI’s risk policies and procedures and OSFI’s expectations. Monitoring should be conducted at the individual arrangement level, as well as at an aggregate business unit, segment, platform, and enterprise level. The extent and frequency of monitoring should be proportionate to the level of risk and criticality of the third-party arrangement.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "The FRFI should monitor its third-party arrangement(s) to ensure that the service is being delivered in accordance with the terms of the agreement, and that the third party remains financially sound."
+        },
+        {
+          "type": "paragraph",
+          "text": "Monitoring should also cover regular oversight of current and emerging risks and risk acceptances and compliance of the third-party arrangement with the FRFI’s risk policies and procedures and OSFI’s expectations. Monitoring should be conducted at the individual arrangement level, as well as at an aggregate business unit, segment, platform, and enterprise level. The extent and frequency of monitoring should be proportionate to the level of risk and criticality of the third-party arrangement."
+        }
+      ]
+    },
+    {
+      "heading": "2.4.1.2 Metrics confirm residual risk remains within risk appetite",
+      "heading_level": 5,
+      "full_text": "The FRFI should establish processes to confirm regularly that the residual risk of their third-party arrangements, individually and in aggregate, remains within the FRFI’s risk appetite. To facilitate this outcome, the FRFI should establish and report metrics and associated thresholds to alert Senior Management when a threshold is being approached as well as triggers for invoking the FRFI’s escalation process.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "The FRFI should establish processes to confirm regularly that the residual risk of their third-party arrangements, individually and in aggregate, remains within the FRFI’s risk appetite. To facilitate this outcome, the FRFI should establish and report metrics and associated thresholds to alert Senior Management when a threshold is being approached as well as triggers for invoking the FRFI’s escalation process."
+        }
+      ]
+    },
+    {
+      "heading": "2.4.2 Incident management and reporting",
+      "heading_level": 4,
+      "full_text": "Principle 11: Both the FRFI and its third-party should have documented processes in place to effectively identify, investigate, escalate, track, and remediate incidents to maintain risk levels within the FRFI’s risk appetite.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Principle 11: Both the FRFI and its third-party should have documented processes in place to effectively identify, investigate, escalate, track, and remediate incidents to maintain risk levels within the FRFI’s risk appetite."
+        }
+      ]
+    },
+    {
+      "heading": "2.4.2.1 The third-party has clearly defined incident management processes",
+      "heading_level": 5,
+      "full_text": "As part of an effective third-party risk management program, the FRFI should ensure that its third parties have clearly defined and documented processes for identifying, investigating, escalating, remediating and notifying the FRFI in a timely manner of incidents — including subcontractor incidents — that could directly or indirectly impact the third party’s ability to deliver the contracted goods, business activities, functions and services.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "As part of an effective third-party risk management program, the FRFI should ensure that its third parties have clearly defined and documented processes for identifying, investigating, escalating, remediating and notifying the FRFI in a timely manner of incidents — including subcontractor incidents — that could directly or indirectly impact the third party’s ability to deliver the contracted goods, business activities, functions and services."
+        }
+      ]
+    },
+    {
+      "heading": "2.4.2.2 Incident reporting and notification requirements of the third party support FRFI compliance with OSFI’s incident reporting requirements",
+      "heading_level": 5,
+      "full_text": "The FRFI should ensure that its written agreements with third parties contain adequate provisions to enable the FRFI to comply with its reporting requirements under OSFI’s Technology and Cyber Security Incident Reporting Advisory . Such provisions could include, among other things, requirements to promptly notify the FRFI of technology and cybersecurity incidents (at the third party or the subcontractor) including providing information on each incident in line with the Advisory.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "The FRFI should ensure that its written agreements with third parties contain adequate provisions to enable the FRFI to comply with its reporting requirements under OSFI’s Technology and Cyber Security Incident Reporting Advisory . Such provisions could include, among other things, requirements to promptly notify the FRFI of technology and cybersecurity incidents (at the third party or the subcontractor) including providing information on each incident in line with the Advisory."
+        }
+      ]
+    },
+    {
+      "heading": "2.4.2.3 Internal incident management process is established",
+      "heading_level": 5,
+      "full_text": "The FRFI should also have clearly defined internal processes for effectively managing and escalating third-party incidents and for subsequently tracking remediation. The processes established should clearly define accountabilities at all levels of the FRFI and triggers for escalation within the FRFI.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "The FRFI should also have clearly defined internal processes for effectively managing and escalating third-party incidents and for subsequently tracking remediation. The processes established should clearly define accountabilities at all levels of the FRFI and triggers for escalation within the FRFI."
+        }
+      ]
+    },
+    {
+      "heading": "2.4.2.4 Incidents are investigated, analysed and results are shared",
+      "heading_level": 5,
+      "full_text": "To ensure that remediation actions are sufficient, the FRFI should request that the third party perform root cause analysis and share the results for any incidents, commensurate with the severity/potential impact of the incident on the FRFI. The FRFI should also perform its own root cause analysis, as appropriate. Remediation actions should be monitored by the FRFI.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "To ensure that remediation actions are sufficient, the FRFI should request that the third party perform root cause analysis and share the results for any incidents, commensurate with the severity/potential impact of the incident on the FRFI. The FRFI should also perform its own root cause analysis, as appropriate. Remediation actions should be monitored by the FRFI."
+        }
+      ]
+    },
+    {
+      "heading": "3. Special arrangements",
+      "heading_level": 2,
+      "full_text": "Outcome: The FRFI’s third-party risk management program allows the FRFI to identify and manage a range of third-party relationships on an ongoing basis.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Outcome: The FRFI’s third-party risk management program allows the FRFI to identify and manage a range of third-party relationships on an ongoing basis."
+        }
+      ]
+    },
+    {
+      "heading": "3.1 Standardized contracts",
+      "heading_level": 3,
+      "full_text": "Standardized contracts are those mandated by third parties with pre-defined terms and conditions, with a limited ability for the FRFI to negotiate and tailor its own contract terms and conditions. Examples include contracts with utilities, internet providers, financial market infrastructures and others.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Standardized contracts are those mandated by third parties with pre-defined terms and conditions, with a limited ability for the FRFI to negotiate and tailor its own contract terms and conditions. Examples include contracts with utilities, internet providers, financial market infrastructures and others."
+        }
+      ]
+    },
+    {
+      "heading": "3.1.1 Risks of third parties with standardized contracts are managed",
+      "heading_level": 4,
+      "full_text": "Where standardized contracts must be used, OSFI expects the FRFI’s third-party risk management program to address the relationship. The FRFI’s risk assessment should consider inherent risks, mitigating controls and other factors to arrive at the final risk rating for these arrangements and, where applicable, formally accept risks presented by standardized contracts.\nAmong the mitigating actions and controls that the FRFI may consider are the development of redundancies, workarounds, business continuity measures, and other resiliency mechanisms.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Where standardized contracts must be used, OSFI expects the FRFI’s third-party risk management program to address the relationship. The FRFI’s risk assessment should consider inherent risks, mitigating controls and other factors to arrive at the final risk rating for these arrangements and, where applicable, formally accept risks presented by standardized contracts."
+        },
+        {
+          "type": "paragraph",
+          "text": "Among the mitigating actions and controls that the FRFI may consider are the development of redundancies, workarounds, business continuity measures, and other resiliency mechanisms."
+        }
+      ]
+    },
+    {
+      "heading": "3.2.1 Third parties with no written contracts still carry risks",
+      "heading_level": 4,
+      "full_text": "The absence of a written arrangement, formal contract or agreement The preference is always to have the arrangement documented in a contract; however, OSFI recognizes that there may be situations where obtaining a contract is challenging. does not imply the absence of a third-party arrangement and third-party risk. While the FRFI may not have direct relationships with all third parties they interact with, OSFI expects the FRFI’s third-party risk management program to address these relationships.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "The absence of a written arrangement, formal contract or agreement The preference is always to have the arrangement documented in a contract; however, OSFI recognizes that there may be situations where obtaining a contract is challenging. does not imply the absence of a third-party arrangement and third-party risk. While the FRFI may not have direct relationships with all third parties they interact with, OSFI expects the FRFI’s third-party risk management program to address these relationships."
+        }
+      ]
+    },
+    {
+      "heading": "3.3 Third-party arrangements with the external auditor",
+      "heading_level": 3,
+      "full_text": "Arrangements with the external auditor can give rise to conflicts of interest.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Arrangements with the external auditor can give rise to conflicts of interest."
+        }
+      ]
+    },
+    {
+      "heading": "3.3.1 External auditors comply with auditor independence standards when providing third-party services",
+      "heading_level": 4,
+      "full_text": "Prior to obtaining management consulting services from its external auditor, the FRFI should assure itself that its external auditor would be in compliance with the relevant auditor independence standards of the Canadian accounting profession, as well as any other applicable auditor independence requirements, in respect of such services to be performed by the external auditor.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Prior to obtaining management consulting services from its external auditor, the FRFI should assure itself that its external auditor would be in compliance with the relevant auditor independence standards of the Canadian accounting profession, as well as any other applicable auditor independence requirements, in respect of such services to be performed by the external auditor."
+        }
+      ]
+    },
+    {
+      "heading": "3.3.2 The FRFI does not obtain actuarial or internal audit services from its external auditor unless certain conditions apply",
+      "heading_level": 4,
+      "full_text": "Unless it is reasonable to conclude that the results of the service will not be subject to audit procedures during an audit of the FRFI’s financial statements, the FRFI should not obtain the following services from its external auditor:\n  - Any actuarial service. For this purpose, actuarial services relate to the determination of an amount to be recorded in the financial statements of the FRFI or work normally undertaken by its appointed actuary. They do not include services that involve assisting the FRFI in understanding the methods, models, assumptions and inputs used, and advising management on the appropriate actuarial methods and assumptions that will be used. Consistent with Guideline E-15 (Appointed Actuary: Legal Requirements, Qualifications and Peer Review), the FRFI may use an actuary working in the company's external auditor firm for the external review of the appointed actuary's work and reports.\n  - Any internal audit service related to the internal accounting controls, financial systems, or financial statements of the FRFI. This does not prohibit the external auditor from providing a non-recurring service to evaluate a discrete item or program, if the service is not, in substance, the outsourcing of an internal audit function.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Unless it is reasonable to conclude that the results of the service will not be subject to audit procedures during an audit of the FRFI’s financial statements, the FRFI should not obtain the following services from its external auditor:"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Any actuarial service. For this purpose, actuarial services relate to the determination of an amount to be recorded in the financial statements of the FRFI or work normally undertaken by its appointed actuary. They do not include services that involve assisting the FRFI in understanding the methods, models, assumptions and inputs used, and advising management on the appropriate actuarial methods and assumptions that will be used. Consistent with Guideline E-15 (Appointed Actuary: Legal Requirements, Qualifications and Peer Review), the FRFI may use an actuary working in the company's external auditor firm for the external review of the appointed actuary's work and reports.",
+            "Any internal audit service related to the internal accounting controls, financial systems, or financial statements of the FRFI. This does not prohibit the external auditor from providing a non-recurring service to evaluate a discrete item or program, if the service is not, in substance, the outsourcing of an internal audit function."
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "4. Technology and cyber risk in third-party arrangements",
+      "heading_level": 2,
+      "full_text": "Outcome: Technology and cyber operations carried out by third parties are transparent, reliable and secure.\nOSFI recognizes that technology and cyber risks in third-party arrangements present elevated vulnerabilities to the FRFI. In addition to the expectations articulated earlier in this guideline, the FRFI should consider additional controls to manage technology and cyber risks stemming from its third-party arrangements.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Outcome: Technology and cyber operations carried out by third parties are transparent, reliable and secure."
+        },
+        {
+          "type": "paragraph",
+          "text": "OSFI recognizes that technology and cyber risks in third-party arrangements present elevated vulnerabilities to the FRFI. In addition to the expectations articulated earlier in this guideline, the FRFI should consider additional controls to manage technology and cyber risks stemming from its third-party arrangements."
+        }
+      ]
+    },
+    {
+      "heading": "4.1 Clear roles and responsibilities are established for technology and cyber controls",
+      "heading_level": 3,
+      "full_text": "As set out earlier in this guideline, and emphasized in Annex 2, establishing clear roles and responsibilities between the FRFI and the third party is essential to managing risk, ensuring accountability, and limiting ambiguity between the parties. When setting responsibilities for technology and cyber controls, the FRFI should consider the risk and criticality of its arrangement. Where necessary, the FRFI should establish more granular descriptions of the roles, responsibilities, and procedures that apply to each party when managing the configuration of technology assets.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "As set out earlier in this guideline, and emphasized in Annex 2, establishing clear roles and responsibilities between the FRFI and the third party is essential to managing risk, ensuring accountability, and limiting ambiguity between the parties. When setting responsibilities for technology and cyber controls, the FRFI should consider the risk and criticality of its arrangement. Where necessary, the FRFI should establish more granular descriptions of the roles, responsibilities, and procedures that apply to each party when managing the configuration of technology assets."
+        }
+      ]
+    },
+    {
+      "heading": "4.2 Third parties comply with the FRFI’s technology and cyber standards",
+      "heading_level": 3,
+      "full_text": "Where necessitated by risk and/or criticality, the FRFI should establish processes to ensure that third parties with elevated levels of technology and cyber risk comply with FRFI standards—or recognized industry standards—for mitigating risk, notably in the areas of access management, and data security and protection. Refer to <a data-entity-substitution=\"canonical\" data-entity-type=\"node\" data-entity-uuid=\"15204ecd-627e-4910-9164-f4a1e3b305e5\" href=\"/node/570\">Guideline B-13 - Technology and Cyber Risk Management</a> for OSFI’s expectations on FRFI technology and cyber risk management.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Where necessitated by risk and/or criticality, the FRFI should establish processes to ensure that third parties with elevated levels of technology and cyber risk comply with FRFI standards—or recognized industry standards—for mitigating risk, notably in the areas of access management, and data security and protection. Refer to <a data-entity-substitution=\"canonical\" data-entity-type=\"node\" data-entity-uuid=\"15204ecd-627e-4910-9164-f4a1e3b305e5\" href=\"/node/570\">Guideline B-13 - Technology and Cyber Risk Management</a> for OSFI’s expectations on FRFI technology and cyber risk management."
+        }
+      ]
+    },
+    {
+      "heading": "4.3 Cloud-specific requirements are established",
+      "heading_level": 3,
+      "full_text": "The FRFI should develop cloud-specific requirements to ensure that cloud adoption occurs in a planned and strategic manner. These specific requirements should optimize interoperability while remaining consistent with the FRFI’s stated risk appetite. They should also augment existing FRFI controls and standards, notably in the areas of data protection, key management, and container management.\nThese requirements should be accompanied by robust cloud governance to provide proper oversight and monitoring of compliance with the FRFI’s risk management practices and alignment to the broader technology strategy.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "The FRFI should develop cloud-specific requirements to ensure that cloud adoption occurs in a planned and strategic manner. These specific requirements should optimize interoperability while remaining consistent with the FRFI’s stated risk appetite. They should also augment existing FRFI controls and standards, notably in the areas of data protection, key management, and container management."
+        },
+        {
+          "type": "paragraph",
+          "text": "These requirements should be accompanied by robust cloud governance to provide proper oversight and monitoring of compliance with the FRFI’s risk management practices and alignment to the broader technology strategy."
+        }
+      ]
+    },
+    {
+      "heading": "4.4 Cloud portability is considered",
+      "heading_level": 3,
+      "full_text": "In addition to planning appropriate exit strategies (see Section 2.3.5), the FRFI should also consider portability when entering an arrangement with a cloud service provider and as part of the design and implementation process in cloud adoption. As part of the consideration, FRFI should assess benefits and risks of portability and mitigants in the absence of portability.\nThe FRFI should consider strategies (e.g., multi-cloud design) to build resilience and mitigate cloud service provider concentration risk (see Section 2.2.3).",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "In addition to planning appropriate exit strategies (see Section 2.3.5), the FRFI should also consider portability when entering an arrangement with a cloud service provider and as part of the design and implementation process in cloud adoption. As part of the consideration, FRFI should assess benefits and risks of portability and mitigants in the absence of portability."
+        },
+        {
+          "type": "paragraph",
+          "text": "The FRFI should consider strategies (e.g., multi-cloud design) to build resilience and mitigate cloud service provider concentration risk (see Section 2.2.3)."
+        }
+      ]
+    },
+    {
+      "heading": "Annex 1 – Examples of due diligence consideration",
+      "heading_level": 2,
+      "full_text": "Before entering an arrangement with a third party—whether written or not—and on an ongoing basis thereafter, the FRFI should perform due diligence proportionate to the risk and criticality of the third-party arrangement. In respect of its high-risk and critical arrangements at minimum, the FRFI should perform due diligence that consists of the following non-exhaustive factors:\n  1. Experience, technical competence, and capacity of the third party to implement and support the activities it is being engaged to provide, including, where applicable, the experience, technical competence, and capacity of subcontractors;\n  2. Financial strength of the third party to deliver successfully on the third-party arrangement;\n  3. Compliance with applicable laws, rules, regulations and regulatory guidance within Canada and other relevant jurisdictions;\n  4. Reputation risk associated with the third-party relationship or its services, including existence of any recent or pending litigation, investigation or complaints against the third party;\n  5. Strength of the third party’s risk management programs, processes, and internal controls as well as the reporting environment (the FRFI should determine if there is alignment with the FRFI’s risk management processes and controls);\n  6. The third party’s capacity to: manage technology and cyber risks in accordance with the expectations outlined in OSFI’s Guideline B-13: Technology and Cyber Risk Management and provide the FRFI with sufficient and timely information to comply with its reporting requirements under OSFI’s Technology and Cyber Security Incident Reporting Advisory ;\n  7. Strength of the third party’s information security programs including their alignment with the FRFI’s programs;\n  8. The third party’s capacity to provide critical services through disruption by examining its business continuity and disaster recovery plans, including the quality of such plans and the frequency and results of testing;\n  9. The third party’s reliance on, and capacity to, manage subcontractors;\n  10. Impact of the third-party arrangement, including its subcontractors, on concentration risk;\n  11. Geographic location of the third party’s operations and that of its subcontractors;\n  12. Ability and ease of substituting the third party with another third party and impact of such substitution on the FRFI’s operations;\n  13. Portability of applications/services provided by a third party to another third party or the FRFI;\n  14. Third party’s insurance coverage;\n  15. Third party’s values and business objectives, code of conduct and related policies, culture, and their alignment with those of the FRFI; and\n  16. Political or legal risks related to the jurisdiction of the third party, or the jurisdictions of subcontractors.\nExperience, technical competence, and capacity of the third party to implement and support the activities it is being engaged to provide, including, where applicable, the experience, technical competence, and capacity of subcontractors;\nFinancial strength of the third party to deliver successfully on the third-party arrangement;\nCompliance with applicable laws, rules, regulations and regulatory guidance within Canada and other relevant jurisdictions;\nReputation risk associated with the third-party relationship or its services, including existence of any recent or pending litigation, investigation or complaints against the third party;\nStrength of the third party’s risk management programs, processes, and internal controls as well as the reporting environment (the FRFI should determine if there is alignment with the FRFI’s risk management processes and controls);\nThe third party’s capacity to:\n  - manage technology and cyber risks in accordance with the expectations outlined in OSFI’s Guideline B-13: Technology and Cyber Risk Management and\n  - provide the FRFI with sufficient and timely information to comply with its reporting requirements under OSFI’s Technology and Cyber Security Incident Reporting Advisory ;\nmanage technology and cyber risks in accordance with the expectations outlined in OSFI’s Guideline B-13: Technology and Cyber Risk Management and\nprovide the FRFI with sufficient and timely information to comply with its reporting requirements under OSFI’s Technology and Cyber Security Incident Reporting Advisory ;\nStrength of the third party’s information security programs including their alignment with the FRFI’s programs;\nThe third party’s capacity to provide critical services through disruption by examining its business continuity and disaster recovery plans, including the quality of such plans and the frequency and results of testing;\nThe third party’s reliance on, and capacity to, manage subcontractors;\nImpact of the third-party arrangement, including its subcontractors, on concentration risk;\nGeographic location of the third party’s operations and that of its subcontractors;\nAbility and ease of substituting the third party with another third party and impact of such substitution on the FRFI’s operations;\nPortability of applications/services provided by a third party to another third party or the FRFI;\nThird party’s insurance coverage;\nThird party’s values and business objectives, code of conduct and related policies, culture, and their alignment with those of the FRFI; and\nPolitical or legal risks related to the jurisdiction of the third party, or the jurisdictions of subcontractors.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Before entering an arrangement with a third party—whether written or not—and on an ongoing basis thereafter, the FRFI should perform due diligence proportionate to the risk and criticality of the third-party arrangement. In respect of its high-risk and critical arrangements at minimum, the FRFI should perform due diligence that consists of the following non-exhaustive factors:"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "Experience, technical competence, and capacity of the third party to implement and support the activities it is being engaged to provide, including, where applicable, the experience, technical competence, and capacity of subcontractors;",
+            "Financial strength of the third party to deliver successfully on the third-party arrangement;",
+            "Compliance with applicable laws, rules, regulations and regulatory guidance within Canada and other relevant jurisdictions;",
+            "Reputation risk associated with the third-party relationship or its services, including existence of any recent or pending litigation, investigation or complaints against the third party;",
+            "Strength of the third party’s risk management programs, processes, and internal controls as well as the reporting environment (the FRFI should determine if there is alignment with the FRFI’s risk management processes and controls);",
+            "The third party’s capacity to: manage technology and cyber risks in accordance with the expectations outlined in OSFI’s Guideline B-13: Technology and Cyber Risk Management and provide the FRFI with sufficient and timely information to comply with its reporting requirements under OSFI’s Technology and Cyber Security Incident Reporting Advisory ;",
+            "Strength of the third party’s information security programs including their alignment with the FRFI’s programs;",
+            "The third party’s capacity to provide critical services through disruption by examining its business continuity and disaster recovery plans, including the quality of such plans and the frequency and results of testing;",
+            "The third party’s reliance on, and capacity to, manage subcontractors;",
+            "Impact of the third-party arrangement, including its subcontractors, on concentration risk;",
+            "Geographic location of the third party’s operations and that of its subcontractors;",
+            "Ability and ease of substituting the third party with another third party and impact of such substitution on the FRFI’s operations;",
+            "Portability of applications/services provided by a third party to another third party or the FRFI;",
+            "Third party’s insurance coverage;",
+            "Third party’s values and business objectives, code of conduct and related policies, culture, and their alignment with those of the FRFI; and",
+            "Political or legal risks related to the jurisdiction of the third party, or the jurisdictions of subcontractors."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Experience, technical competence, and capacity of the third party to implement and support the activities it is being engaged to provide, including, where applicable, the experience, technical competence, and capacity of subcontractors;"
+        },
+        {
+          "type": "paragraph",
+          "text": "Financial strength of the third party to deliver successfully on the third-party arrangement;"
+        },
+        {
+          "type": "paragraph",
+          "text": "Compliance with applicable laws, rules, regulations and regulatory guidance within Canada and other relevant jurisdictions;"
+        },
+        {
+          "type": "paragraph",
+          "text": "Reputation risk associated with the third-party relationship or its services, including existence of any recent or pending litigation, investigation or complaints against the third party;"
+        },
+        {
+          "type": "paragraph",
+          "text": "Strength of the third party’s risk management programs, processes, and internal controls as well as the reporting environment (the FRFI should determine if there is alignment with the FRFI’s risk management processes and controls);"
+        },
+        {
+          "type": "paragraph",
+          "text": "The third party’s capacity to:"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "manage technology and cyber risks in accordance with the expectations outlined in OSFI’s Guideline B-13: Technology and Cyber Risk Management and",
+            "provide the FRFI with sufficient and timely information to comply with its reporting requirements under OSFI’s Technology and Cyber Security Incident Reporting Advisory ;"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "manage technology and cyber risks in accordance with the expectations outlined in OSFI’s Guideline B-13: Technology and Cyber Risk Management and"
+        },
+        {
+          "type": "paragraph",
+          "text": "provide the FRFI with sufficient and timely information to comply with its reporting requirements under OSFI’s Technology and Cyber Security Incident Reporting Advisory ;"
+        },
+        {
+          "type": "paragraph",
+          "text": "Strength of the third party’s information security programs including their alignment with the FRFI’s programs;"
+        },
+        {
+          "type": "paragraph",
+          "text": "The third party’s capacity to provide critical services through disruption by examining its business continuity and disaster recovery plans, including the quality of such plans and the frequency and results of testing;"
+        },
+        {
+          "type": "paragraph",
+          "text": "The third party’s reliance on, and capacity to, manage subcontractors;"
+        },
+        {
+          "type": "paragraph",
+          "text": "Impact of the third-party arrangement, including its subcontractors, on concentration risk;"
+        },
+        {
+          "type": "paragraph",
+          "text": "Geographic location of the third party’s operations and that of its subcontractors;"
+        },
+        {
+          "type": "paragraph",
+          "text": "Ability and ease of substituting the third party with another third party and impact of such substitution on the FRFI’s operations;"
+        },
+        {
+          "type": "paragraph",
+          "text": "Portability of applications/services provided by a third party to another third party or the FRFI;"
+        },
+        {
+          "type": "paragraph",
+          "text": "Third party’s insurance coverage;"
+        },
+        {
+          "type": "paragraph",
+          "text": "Third party’s values and business objectives, code of conduct and related policies, culture, and their alignment with those of the FRFI; and"
+        },
+        {
+          "type": "paragraph",
+          "text": "Political or legal risks related to the jurisdiction of the third party, or the jurisdictions of subcontractors."
+        }
+      ]
+    },
+    {
+      "heading": "Annex 2 – Provisions for third-party agreements",
+      "heading_level": 2,
+      "full_text": "This annex provides a non-exhaustive list of provisions that FRFIs should include in high-risk and critical third-party agreements. Consideration should be given to adding these provisions to agreements with other third parties as appropriate, proportionate to the risk and criticality posed by the third party.\n  1. Nature and scope of the arrangement: The agreement should specify the nature and scope of the arrangement, including provisions that address the frequency, content and format of services, duration of the agreement, and physical location of the services being provided.\n  2. Roles and responsibilities: The agreement should clearly establish the roles and responsibilities of the FRFI and the third-party and subcontractors, including for managing technology and cyber risks and controls.\n  3. Use of subcontractors: The agreement should establish parameters on the use of subcontractors and require the third-party to notify the FRFI of any subcontracting of services. The FRFI should have the ability to conduct due diligence, in order to evaluate the impacts from the change in service.\n  4. Pricing: The agreement should set out the basis for calculating fees relating to the services being provided.\n  5. Performance measures: The agreement should establish performance measures that allow each party to determine whether the commitments set out in the agreement are being fulfilled.\n  6. Ownership and access: The agreement should identify and establish ownership of all assets (intellectual and physical) related to third-party arrangements, including assets generated or purchased pursuant to the arrangement. The agreement should also specify whether and how the third party has the right to use the FRFI’s assets (e.g., data, hardware and software, system documentation or intellectual property), including authorized users, and the FRFI’s right of access to those assets.\n  7. Security of records and data: The agreements should govern the confidentiality, integrity, security, and availability of records and data.\n  8. Notifications to the FRFI: The agreement should require the third party to notify the FRFI of: incidents/events (at the third party or a subcontractor) that impact or could impact services provided, the FRFI’s customers/data or the FRFI’s reputation; technology and cyber security incidents (at the third party or a subcontractor) to enable the FRFI to comply with its reporting requirements under OSFI’s Technology and Cyber Security Incident Reporting Advisory ; changes in ownership of the third party; significant organizational/operational changes; material non-compliance with regulatory requirements (i.e. regulatory enforcement) or litigation.\n  9. Dispute resolution: The agreement should incorporate a protocol for resolving disputes. The agreement should also specify whether the third party must continue providing the service during a dispute and the resolution period, as well as the jurisdiction, governing law(s), and rules under which the dispute will be settled.\n  10. Regulatory compliance: The agreement should enable the FRFI to comply with all applicable legislative and regulatory requirements, including, but not limited to, location of records and privacy of client information.\n  11. Business continuity and recovery: The agreement should require the third party to outline measures for ensuring continuity of services in the event of disruption including testing and reporting expectations and mitigation requirements, as well as requirements of the third party to monitor and manage technology and cyber security risk.\n  12. Default and termination: The agreement should specify what constitutes a default, or right to terminate, identify remedies, and allow for opportunities to cure defaults or terminate the agreement. Appropriate notice should be required for termination of the service and, where applicable, the FRFI’s assets should be returned in a timely fashion. Any data and records should be returned to the FRFI in a format that allows the FRFI to sustain business operations without unreasonable expense. The agreement should not contain any terms that inhibit OSFI, or any other resolution authority or financial compensation scheme, from carrying out their mandate in times of stress or resolution. For example, the agreement should, among other things, remain valid and enforceable in resolution provided there is no default in payment obligations.\n  13. Insurance: The agreement should require the third party to obtain and maintain appropriate insurance and disclose the general terms and conditions of the insurance coverage. The agreement should also require the third party to notify the FRFI in the event of significant changes in insurance coverage.\n  14. Prudent risk management: The agreement should include any additional provisions necessary for the FRFI to prudently manage its risks in compliance with this Guideline.\nNature and scope of the arrangement: The agreement should specify the nature and scope of the arrangement, including provisions that address the frequency, content and format of services, duration of the agreement, and physical location of the services being provided.\nRoles and responsibilities: The agreement should clearly establish the roles and responsibilities of the FRFI and the third-party and subcontractors, including for managing technology and cyber risks and controls.\nUse of subcontractors: The agreement should establish parameters on the use of subcontractors and require the third-party to notify the FRFI of any subcontracting of services. The FRFI should have the ability to conduct due diligence, in order to evaluate the impacts from the change in service.\nPricing: The agreement should set out the basis for calculating fees relating to the services being provided.\nPerformance measures: The agreement should establish performance measures that allow each party to determine whether the commitments set out in the agreement are being fulfilled.\nOwnership and access: The agreement should identify and establish ownership of all assets (intellectual and physical) related to third-party arrangements, including assets generated or purchased pursuant to the arrangement. The agreement should also specify whether and how the third party has the right to use the FRFI’s assets (e.g., data, hardware and software, system documentation or intellectual property), including authorized users, and the FRFI’s right of access to those assets.\nSecurity of records and data: The agreements should govern the confidentiality, integrity, security, and availability of records and data.\nNotifications to the FRFI: The agreement should require the third party to notify the FRFI of:\n  1. incidents/events (at the third party or a subcontractor) that impact or could impact services provided, the FRFI’s customers/data or the FRFI’s reputation;\n  2. technology and cyber security incidents (at the third party or a subcontractor) to enable the FRFI to comply with its reporting requirements under OSFI’s Technology and Cyber Security Incident Reporting Advisory ;\n  3. changes in ownership of the third party;\n  4. significant organizational/operational changes;\n  5. material non-compliance with regulatory requirements (i.e. regulatory enforcement) or litigation.\nincidents/events (at the third party or a subcontractor) that impact or could impact services provided, the FRFI’s customers/data or the FRFI’s reputation;\ntechnology and cyber security incidents (at the third party or a subcontractor) to enable the FRFI to comply with its reporting requirements under OSFI’s Technology and Cyber Security Incident Reporting Advisory ;\nchanges in ownership of the third party;\nsignificant organizational/operational changes;\nmaterial non-compliance with regulatory requirements (i.e. regulatory enforcement) or litigation.\nDispute resolution: The agreement should incorporate a protocol for resolving disputes. The agreement should also specify whether the third party must continue providing the service during a dispute and the resolution period, as well as the jurisdiction, governing law(s), and rules under which the dispute will be settled.\nRegulatory compliance: The agreement should enable the FRFI to comply with all applicable legislative and regulatory requirements, including, but not limited to, location of records and privacy of client information.\nBusiness continuity and recovery: The agreement should require the third party to outline measures for ensuring continuity of services in the event of disruption including testing and reporting expectations and mitigation requirements, as well as requirements of the third party to monitor and manage technology and cyber security risk.\nDefault and termination: The agreement should specify what constitutes a default, or right to terminate, identify remedies, and allow for opportunities to cure defaults or terminate the agreement. Appropriate notice should be required for termination of the service and, where applicable, the FRFI’s assets should be returned in a timely fashion. Any data and records should be returned to the FRFI in a format that allows the FRFI to sustain business operations without unreasonable expense.\nThe agreement should not contain any terms that inhibit OSFI, or any other resolution authority or financial compensation scheme, from carrying out their mandate in times of stress or resolution. For example, the agreement should, among other things, remain valid and enforceable in resolution provided there is no default in payment obligations.\nInsurance: The agreement should require the third party to obtain and maintain appropriate insurance and disclose the general terms and conditions of the insurance coverage. The agreement should also require the third party to notify the FRFI in the event of significant changes in insurance coverage.\nPrudent risk management: The agreement should include any additional provisions necessary for the FRFI to prudently manage its risks in compliance with this Guideline.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "This annex provides a non-exhaustive list of provisions that FRFIs should include in high-risk and critical third-party agreements. Consideration should be given to adding these provisions to agreements with other third parties as appropriate, proportionate to the risk and criticality posed by the third party."
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "Nature and scope of the arrangement: The agreement should specify the nature and scope of the arrangement, including provisions that address the frequency, content and format of services, duration of the agreement, and physical location of the services being provided.",
+            "Roles and responsibilities: The agreement should clearly establish the roles and responsibilities of the FRFI and the third-party and subcontractors, including for managing technology and cyber risks and controls.",
+            "Use of subcontractors: The agreement should establish parameters on the use of subcontractors and require the third-party to notify the FRFI of any subcontracting of services. The FRFI should have the ability to conduct due diligence, in order to evaluate the impacts from the change in service.",
+            "Pricing: The agreement should set out the basis for calculating fees relating to the services being provided.",
+            "Performance measures: The agreement should establish performance measures that allow each party to determine whether the commitments set out in the agreement are being fulfilled.",
+            "Ownership and access: The agreement should identify and establish ownership of all assets (intellectual and physical) related to third-party arrangements, including assets generated or purchased pursuant to the arrangement. The agreement should also specify whether and how the third party has the right to use the FRFI’s assets (e.g., data, hardware and software, system documentation or intellectual property), including authorized users, and the FRFI’s right of access to those assets.",
+            "Security of records and data: The agreements should govern the confidentiality, integrity, security, and availability of records and data.",
+            "Notifications to the FRFI: The agreement should require the third party to notify the FRFI of: incidents/events (at the third party or a subcontractor) that impact or could impact services provided, the FRFI’s customers/data or the FRFI’s reputation; technology and cyber security incidents (at the third party or a subcontractor) to enable the FRFI to comply with its reporting requirements under OSFI’s Technology and Cyber Security Incident Reporting Advisory ; changes in ownership of the third party; significant organizational/operational changes; material non-compliance with regulatory requirements (i.e. regulatory enforcement) or litigation.",
+            "Dispute resolution: The agreement should incorporate a protocol for resolving disputes. The agreement should also specify whether the third party must continue providing the service during a dispute and the resolution period, as well as the jurisdiction, governing law(s), and rules under which the dispute will be settled.",
+            "Regulatory compliance: The agreement should enable the FRFI to comply with all applicable legislative and regulatory requirements, including, but not limited to, location of records and privacy of client information.",
+            "Business continuity and recovery: The agreement should require the third party to outline measures for ensuring continuity of services in the event of disruption including testing and reporting expectations and mitigation requirements, as well as requirements of the third party to monitor and manage technology and cyber security risk.",
+            "Default and termination: The agreement should specify what constitutes a default, or right to terminate, identify remedies, and allow for opportunities to cure defaults or terminate the agreement. Appropriate notice should be required for termination of the service and, where applicable, the FRFI’s assets should be returned in a timely fashion. Any data and records should be returned to the FRFI in a format that allows the FRFI to sustain business operations without unreasonable expense. The agreement should not contain any terms that inhibit OSFI, or any other resolution authority or financial compensation scheme, from carrying out their mandate in times of stress or resolution. For example, the agreement should, among other things, remain valid and enforceable in resolution provided there is no default in payment obligations.",
+            "Insurance: The agreement should require the third party to obtain and maintain appropriate insurance and disclose the general terms and conditions of the insurance coverage. The agreement should also require the third party to notify the FRFI in the event of significant changes in insurance coverage.",
+            "Prudent risk management: The agreement should include any additional provisions necessary for the FRFI to prudently manage its risks in compliance with this Guideline."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Nature and scope of the arrangement: The agreement should specify the nature and scope of the arrangement, including provisions that address the frequency, content and format of services, duration of the agreement, and physical location of the services being provided."
+        },
+        {
+          "type": "paragraph",
+          "text": "Roles and responsibilities: The agreement should clearly establish the roles and responsibilities of the FRFI and the third-party and subcontractors, including for managing technology and cyber risks and controls."
+        },
+        {
+          "type": "paragraph",
+          "text": "Use of subcontractors: The agreement should establish parameters on the use of subcontractors and require the third-party to notify the FRFI of any subcontracting of services. The FRFI should have the ability to conduct due diligence, in order to evaluate the impacts from the change in service."
+        },
+        {
+          "type": "paragraph",
+          "text": "Pricing: The agreement should set out the basis for calculating fees relating to the services being provided."
+        },
+        {
+          "type": "paragraph",
+          "text": "Performance measures: The agreement should establish performance measures that allow each party to determine whether the commitments set out in the agreement are being fulfilled."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ownership and access: The agreement should identify and establish ownership of all assets (intellectual and physical) related to third-party arrangements, including assets generated or purchased pursuant to the arrangement. The agreement should also specify whether and how the third party has the right to use the FRFI’s assets (e.g., data, hardware and software, system documentation or intellectual property), including authorized users, and the FRFI’s right of access to those assets."
+        },
+        {
+          "type": "paragraph",
+          "text": "Security of records and data: The agreements should govern the confidentiality, integrity, security, and availability of records and data."
+        },
+        {
+          "type": "paragraph",
+          "text": "Notifications to the FRFI: The agreement should require the third party to notify the FRFI of:"
+        },
+        {
+          "type": "list",
+          "ordered": true,
+          "items": [
+            "incidents/events (at the third party or a subcontractor) that impact or could impact services provided, the FRFI’s customers/data or the FRFI’s reputation;",
+            "technology and cyber security incidents (at the third party or a subcontractor) to enable the FRFI to comply with its reporting requirements under OSFI’s Technology and Cyber Security Incident Reporting Advisory ;",
+            "changes in ownership of the third party;",
+            "significant organizational/operational changes;",
+            "material non-compliance with regulatory requirements (i.e. regulatory enforcement) or litigation."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "incidents/events (at the third party or a subcontractor) that impact or could impact services provided, the FRFI’s customers/data or the FRFI’s reputation;"
+        },
+        {
+          "type": "paragraph",
+          "text": "technology and cyber security incidents (at the third party or a subcontractor) to enable the FRFI to comply with its reporting requirements under OSFI’s Technology and Cyber Security Incident Reporting Advisory ;"
+        },
+        {
+          "type": "paragraph",
+          "text": "changes in ownership of the third party;"
+        },
+        {
+          "type": "paragraph",
+          "text": "significant organizational/operational changes;"
+        },
+        {
+          "type": "paragraph",
+          "text": "material non-compliance with regulatory requirements (i.e. regulatory enforcement) or litigation."
+        },
+        {
+          "type": "paragraph",
+          "text": "Dispute resolution: The agreement should incorporate a protocol for resolving disputes. The agreement should also specify whether the third party must continue providing the service during a dispute and the resolution period, as well as the jurisdiction, governing law(s), and rules under which the dispute will be settled."
+        },
+        {
+          "type": "paragraph",
+          "text": "Regulatory compliance: The agreement should enable the FRFI to comply with all applicable legislative and regulatory requirements, including, but not limited to, location of records and privacy of client information."
+        },
+        {
+          "type": "paragraph",
+          "text": "Business continuity and recovery: The agreement should require the third party to outline measures for ensuring continuity of services in the event of disruption including testing and reporting expectations and mitigation requirements, as well as requirements of the third party to monitor and manage technology and cyber security risk."
+        },
+        {
+          "type": "paragraph",
+          "text": "Default and termination: The agreement should specify what constitutes a default, or right to terminate, identify remedies, and allow for opportunities to cure defaults or terminate the agreement. Appropriate notice should be required for termination of the service and, where applicable, the FRFI’s assets should be returned in a timely fashion. Any data and records should be returned to the FRFI in a format that allows the FRFI to sustain business operations without unreasonable expense."
+        },
+        {
+          "type": "paragraph",
+          "text": "The agreement should not contain any terms that inhibit OSFI, or any other resolution authority or financial compensation scheme, from carrying out their mandate in times of stress or resolution. For example, the agreement should, among other things, remain valid and enforceable in resolution provided there is no default in payment obligations."
+        },
+        {
+          "type": "paragraph",
+          "text": "Insurance: The agreement should require the third party to obtain and maintain appropriate insurance and disclose the general terms and conditions of the insurance coverage. The agreement should also require the third party to notify the FRFI in the event of significant changes in insurance coverage."
+        },
+        {
+          "type": "paragraph",
+          "text": "Prudent risk management: The agreement should include any additional provisions necessary for the FRFI to prudently manage its risks in compliance with this Guideline."
+        }
+      ]
+    }
+  ],
+  "title_normalized": "thirdparty risk management guideline",
+  "publication_type_normalized": "guideline",
+  "category_normalized": "sound_business_and_financial_practices",
+  "sector_normalized": [
+    "banks",
+    "foreign_bank_branches",
+    "foreign_insurance_branches",
+    "life_insurance",
+    "pc_insurance",
+    "trust_and_loan_companies"
+  ],
+  "guideline_number_normalized": "",
+  "applies_to_banks": true,
+  "applies_to_trust_loan": true,
+  "applies_to_life_insurance": true,
+  "applies_to_pc_insurance": true,
+  "applies_to_foreign_bank": true,
+  "applies_to_foreign_insurance": true,
+  "applies_to_cooperative": false,
+  "applies_to_bank_holding": false,
+  "effective_date_sort_key": "2023-04-30",
+  "status_sort_key": 1,
+  "authority_sort_key": 100,
+  "bm25_text": "Third-Party Risk Management Guideline Guideline Sound Business and Financial Practices Banks Foreign Bank Branches Foreign Insurance Branches Life Insurance and Fraternal Companies Property and Casualty Companies Trust and Loan Companies A. Overview A1. Purpose and scope A2. Application of the Guideline A3. Definitions A4. Outcomes A5. Related guidance 1. Governance 1.1.1 The FRFI retains accountability for services outsourced to a third party and manages risk arising from all third-party arrangements 1.2 Third-Party Risk Management Framework (TPRMF) 1.2.1 The TPRMF is enterprise-wide and governs the lifecycle of third-party arrangements 1.2.2 The TPRMF establishes accountabilities, policies and processes for identifying, monitoring and managing third party risk, including, as appropriate 2. Management of third-party risk 2.1.1 Risk assessment criteria are comprehensive and scalable 2.1.2 Level of risk of third-party arrangements are assessed 2.1.3 Rigor of risk management activities matches the level of risk and criticality 2.2 Risk identification and assessment 2.2.1.1 Risk and criticality of the arrangement are assessed throughout its lifecycle 2.2.2 Due diligence 2.2.2.1 A due diligence process is established 2.2.2.2 Due diligence is performed proportionate to level of risk and criticality 2.2.2.3 Out-of-Canada arrangements are considered 2.2.3.1 Concentration risk is assessed 2.2.4 Subcontracting risk 2.2.4.1 Risks introduced by subcontracting practices are identified and understood 2.2.4.2 Monitor and manage subcontracting risks 2.3 Risk management and mitigation 2.3.1. Written agreements / contracting 2.3.1.1 Clear responsibilities are set out in the agreement 2.3.1.2 The third party is expected to comply with FRFI’s provisions 2.3.2 Data security and controls (including data location) 2.3.2.1 Responsibilities for security of records and data are established 2.3.2.2 Record keeping requirements 2.3.3 Information rights and audit 2.3.3.1 The third party provide",
+  "vector_text_prefix": "[OSFI Guideline  | Sound Business and Financial Practices | Banks / Foreign Bank Branches / Foreign Insurance Branches | FINAL_CURRENT | Effective 2023-04-30]",
+  "h1_title": "Third-Party Risk Management Guideline",
+  "regulator": "OSFI",
+  "regulator_acronym": "OSFI",
+  "jurisdiction": "Canada",
+  "short_title": "",
+  "source_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/third-party-risk-management-guideline"
+}

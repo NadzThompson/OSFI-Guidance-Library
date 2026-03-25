@@ -1,0 +1,207 @@
+{
+  "source_system": "osfi_guidance_library",
+  "library_row_title": "Changes to the Foreign Bank Branch Deposit Requirement (Guideline A-10)",
+  "library_row_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/changes-foreign-bank-branch-deposit-requirement-guideline-10",
+  "listing_date_raw": "December 4, 2019",
+  "listing_date_iso": "2019-12-04",
+  "listing_publication_type": "Letter",
+  "listing_category": "Capital Adequacy Requirements",
+  "listing_sector": [
+    "Foreign Bank Branches"
+  ],
+  "crawl_timestamp": "2026-03-11T00:00:00Z",
+  "detail_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/changes-foreign-bank-branch-deposit-requirement-guideline-10",
+  "canonical_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/changes-foreign-bank-branch-deposit-requirement-guideline-10",
+  "slug": "changes-foreign-bank-branch-deposit-requirement-guideline-10",
+  "title": "Changes to the Foreign Bank Branch Deposit Requirement (Guideline A-10)",
+  "publication_type": "Letter",
+  "category": "Capital Adequacy Requirements",
+  "document_date_raw": "December 4, 2019",
+  "document_date_iso": "2019-12-04",
+  "sector": [
+    "Foreign Bank Branches"
+  ],
+  "effective_date_text": "",
+  "guideline_number": "A-10",
+  "date_modified_raw": "2019-12-04T12:00:00Z",
+  "generate_pdf_url": "https://www.osfi-bsif.gc.ca/en/print/pdf/node/334",
+  "pdf_node_id": 334,
+  "direct_pdf_url": null,
+  "has_table_of_contents": true,
+  "toc_entries": [],
+  "has_related_documents": false,
+  "related_document_links_raw": [],
+  "consultation_status_text": null,
+  "consultation_status_refers_to_version": null,
+  "page_language": "en",
+  "word_count_raw_body": 325,
+  "doc_id": "osfi.a1.transmittal",
+  "doc_family_id": "osfi.a1",
+  "version_id": "",
+  "version_label": "Changes to the Foreign Bank Branch Deposit Requirement (Guid",
+  "version_sort_key": "",
+  "parent_doc_id": null,
+  "child_doc_ids": [],
+  "is_package_page": false,
+  "is_chapter_page": false,
+  "chapter_number": null,
+  "chapter_title": null,
+  "document_order_within_family": 0,
+  "supersedes_doc_id": null,
+  "superseded_by_doc_id": null,
+  "current_version_flag": true,
+  "status": "final_current",
+  "include_in_primary_corpus": false,
+  "include_in_support_corpus": true,
+  "include_in_context_corpus": false,
+  "effective_date_start": "2019-12-04",
+  "effective_date_end": null,
+  "effective_date_fye_split": false,
+  "effective_date_oct_fye": null,
+  "effective_date_dec_fye": null,
+  "is_future_effective": false,
+  "is_rescinded": false,
+  "is_draft_or_consultation": false,
+  "rescission_date": null,
+  "consultation_closing_date": null,
+  "as_of_applicability": "2026-03-23",
+  "rule_applied": "rule_5_final_current",
+  "authority_class": "official_support",
+  "authority_level": 60,
+  "nova_tier": 2,
+  "prudential_weight": 0.7,
+  "is_primary_normative": false,
+  "is_supporting_interpretive": true,
+  "is_context_only": false,
+  "document_class": "transmittal_letter",
+  "guidance_type_normalized": "letter",
+  "section_headings": [],
+  "heading_path": [
+    "Changes to the Foreign Bank Branch Deposit Requirement (Guideline A-10)"
+  ],
+  "toc_depth": 0,
+  "has_appendices": false,
+  "appendix_ids": [],
+  "has_tables": true,
+  "table_count": 1,
+  "has_footnotes": false,
+  "footnote_count": 0,
+  "inline_cross_references": [
+    "Guideline A-10 applicable to Foreign Bank Branches for implementation on J"
+  ],
+  "quoted_external_references": [],
+  "raw_html_sha256": "0c692c8d281d2cbfc68e10498452149bce953477ffe182fa89f7a80d1583fa21",
+  "raw_pdf_sha256": null,
+  "normalized_text_sha256": null,
+  "raw_html_path": "bronze/osfi/html/final_current/changes-foreign-bank-branch-deposit-requirement-guideline-10.html",
+  "normalized_md_path": "silver/osfi/md/final_current/changes-foreign-bank-branch-deposit-requirement-guideline-10.md",
+  "canonical_json_path": "silver/osfi/json/final_current/changes-foreign-bank-branch-deposit-requirement-guideline-10.json",
+  "content_source": "HTML",
+  "parser_version": "osfi-parser-v2.1.0",
+  "normalizer_version": "osfi-normalizer-v1.4.0",
+  "quality_score": 0.5,
+  "quality_flags": [
+    "thin_body_text"
+  ],
+  "download_timestamp": "2026-03-11T00:00:00Z",
+  "enriched_timestamp": "2026-03-23T09:53:50.604946Z",
+  "sections": [
+    {
+      "heading": "",
+      "heading_level": 2,
+      "full_text": "  - Foreign Bank Branch Deposit Requirement\n  - Foreign Bank Branch Deposit Requirement Guideline (Guideline A-10)\nTo: Foreign Bank Branches (FBBs)\nOSFI is releasing the final version of Guideline A-10 applicable to Foreign Bank Branches for implementation on January 1, 2020. The guideline addresses OSFI's expectations regarding the minimum deposit, to be held in trust, which authorized foreign banks must maintain in respect of their business in Canada.\nRevisions include changing the guideline's title to Foreign Bank Branch Deposit Requirement from Capital Equivalency Deposit , updates and simplifications, and changes to the deposit ratio calculation: off-balance sheet liabilities will no longer be included while accrued expenses will now be included in the calculation.\nThe attached table in Annex 1 summarizes comments received during the consultation process and provides an explanation of how the comments have been addressed. We thank those who participated in the process.\nQuestions concerning these changes can be sent to Paul Melaschenko, Capital Division by email at paul.melaschenko@osfi-bsif.gc.ca .\nYours truly,\nBen Gully Assistant Superintendent Regulation Sector\nAnnex 1: Summary of Comments Received and OSFI Response\nComment | OSFI Response\nClarifying the meaning of \"Due to Head Office\"\nA definition of \"Due to Head Office\" should be included in the final Guideline and/or further clarification on the related line items should be provided in the Reporting Manual for the K3 return. | OSFI has chosen to address this matter through changes to the K3 return reporting manual.\nValuation of assets in accordance with the definition in the Bank Act\nAssets are to be valued in accordance with the definition in the Bank Act for reporting on the Asset Withdrawal Request Form and Declaration (Appendix II) and the Foreign Bank Branch Deposit Report (Appendix III). Consideration should be given to adding a reference to the relevant section of the Bank Act in Appendix II. | A reference to the relevant section of the Bank Act has been added in Appendix II of Guideline A-10.",
+      "content": [
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Foreign Bank Branch Deposit Requirement",
+            "Foreign Bank Branch Deposit Requirement Guideline (Guideline A-10)"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "To: Foreign Bank Branches (FBBs)"
+        },
+        {
+          "type": "paragraph",
+          "text": "OSFI is releasing the final version of Guideline A-10 applicable to Foreign Bank Branches for implementation on January 1, 2020. The guideline addresses OSFI's expectations regarding the minimum deposit, to be held in trust, which authorized foreign banks must maintain in respect of their business in Canada."
+        },
+        {
+          "type": "paragraph",
+          "text": "Revisions include changing the guideline's title to Foreign Bank Branch Deposit Requirement from Capital Equivalency Deposit , updates and simplifications, and changes to the deposit ratio calculation: off-balance sheet liabilities will no longer be included while accrued expenses will now be included in the calculation."
+        },
+        {
+          "type": "paragraph",
+          "text": "The attached table in Annex 1 summarizes comments received during the consultation process and provides an explanation of how the comments have been addressed. We thank those who participated in the process."
+        },
+        {
+          "type": "paragraph",
+          "text": "Questions concerning these changes can be sent to Paul Melaschenko, Capital Division by email at paul.melaschenko@osfi-bsif.gc.ca ."
+        },
+        {
+          "type": "paragraph",
+          "text": "Yours truly,"
+        },
+        {
+          "type": "paragraph",
+          "text": "Ben Gully Assistant Superintendent Regulation Sector"
+        },
+        {
+          "type": "paragraph",
+          "text": "Annex 1: Summary of Comments Received and OSFI Response"
+        },
+        {
+          "type": "table",
+          "caption": "",
+          "rows": [
+            [
+              "Comment",
+              "OSFI Response"
+            ],
+            [
+              "Clarifying the meaning of \"Due to Head Office\""
+            ],
+            [
+              "A definition of \"Due to Head Office\" should be included in the final Guideline and/or further clarification on the related line items should be provided in the Reporting Manual for the K3 return.",
+              "OSFI has chosen to address this matter through changes to the K3 return reporting manual."
+            ],
+            [
+              "Valuation of assets in accordance with the definition in the Bank Act"
+            ],
+            [
+              "Assets are to be valued in accordance with the definition in the Bank Act for reporting on the Asset Withdrawal Request Form and Declaration (Appendix II) and the Foreign Bank Branch Deposit Report (Appendix III). Consideration should be given to adding a reference to the relevant section of the Bank Act in Appendix II.",
+              "A reference to the relevant section of the Bank Act has been added in Appendix II of Guideline A-10."
+            ]
+          ]
+        }
+      ]
+    }
+  ],
+  "title_normalized": "changes to the foreign bank branch deposit requirement guideline a10",
+  "publication_type_normalized": "letter",
+  "category_normalized": "capital_adequacy_requirements",
+  "sector_normalized": [
+    "foreign_bank_branches"
+  ],
+  "guideline_number_normalized": "A10",
+  "applies_to_banks": false,
+  "applies_to_trust_loan": false,
+  "applies_to_life_insurance": false,
+  "applies_to_pc_insurance": false,
+  "applies_to_foreign_bank": true,
+  "applies_to_foreign_insurance": false,
+  "applies_to_cooperative": false,
+  "applies_to_bank_holding": false,
+  "effective_date_sort_key": "2019-12-04",
+  "status_sort_key": 1,
+  "authority_sort_key": 60,
+  "bm25_text": "Changes to the Foreign Bank Branch Deposit Requirement (Guideline A-10) A-10 Letter Capital Adequacy Requirements Foreign Bank Branches",
+  "vector_text_prefix": "[OSFI Letter A-10 | Capital Adequacy Requirements | Foreign Bank Branches | FINAL_CURRENT | Effective 2019-12-04]",
+  "h1_title": "Changes to the Foreign Bank Branch Deposit Requirement (Guideline A-10)",
+  "regulator": "OSFI",
+  "regulator_acronym": "OSFI",
+  "jurisdiction": "Canada",
+  "short_title": "A-10",
+  "source_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/changes-foreign-bank-branch-deposit-requirement-guideline-10"
+}

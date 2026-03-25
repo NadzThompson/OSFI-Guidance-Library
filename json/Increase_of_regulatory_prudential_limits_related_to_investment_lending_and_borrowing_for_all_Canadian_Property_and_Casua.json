@@ -1,0 +1,331 @@
+{
+  "source_system": "osfi_guidance_library",
+  "library_row_title": "Increase of regulatory prudential limits related to investment, lending and borrowing for all Canadian Property and Casualty Federally Regulated Insurance Companies",
+  "library_row_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/increase-regulatory-prudential-limits-related-investment-lending-borrowing-all-canadian-property",
+  "listing_date_raw": "December 31, 2022",
+  "listing_date_iso": "2022-12-31",
+  "listing_publication_type": "Regulatory and legislative advisory",
+  "listing_category": "Regulatory and legislative",
+  "listing_sector": [
+    "Insurance Companies Act"
+  ],
+  "crawl_timestamp": "2026-03-11T00:00:00Z",
+  "detail_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/increase-regulatory-prudential-limits-related-investment-lending-borrowing-all-canadian-property",
+  "canonical_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/increase-regulatory-prudential-limits-related-investment-lending-borrowing-all-canadian-property",
+  "slug": "increase-regulatory-prudential-limits-related-investment-lending-borrowing-all-canadian-property",
+  "title": "Increase of regulatory prudential limits related to investment, lending and borrowing for all Canadian Property and Casualty Federally Regulated Insurance Companies",
+  "publication_type": "Regulatory and legislative advisory",
+  "category": "Regulatory and legislative",
+  "document_date_raw": "December 31, 2022",
+  "document_date_iso": "2022-12-31",
+  "sector": [
+    "Insurance Companies Act"
+  ],
+  "effective_date_text": "",
+  "guideline_number": "",
+  "date_modified_raw": "2022-12-31T12:00:00Z",
+  "generate_pdf_url": "https://www.osfi-bsif.gc.ca/en/print/pdf/node/529",
+  "pdf_node_id": 529,
+  "direct_pdf_url": null,
+  "has_table_of_contents": true,
+  "toc_entries": [],
+  "has_related_documents": false,
+  "related_document_links_raw": [],
+  "consultation_status_text": null,
+  "consultation_status_refers_to_version": null,
+  "page_language": "en",
+  "word_count_raw_body": 1265,
+  "doc_id": "osfi.increase-regulatory-prudential-limits-related-inve.advisory",
+  "doc_family_id": "osfi.increase-regulatory-prudential-limits-related-inve",
+  "version_id": "",
+  "version_label": "Increase of regulatory prudential limits related to investme",
+  "version_sort_key": "",
+  "parent_doc_id": null,
+  "child_doc_ids": [],
+  "is_package_page": false,
+  "is_chapter_page": false,
+  "chapter_number": null,
+  "chapter_title": null,
+  "document_order_within_family": 0,
+  "supersedes_doc_id": null,
+  "superseded_by_doc_id": null,
+  "current_version_flag": true,
+  "status": "final_current",
+  "include_in_primary_corpus": true,
+  "include_in_support_corpus": false,
+  "include_in_context_corpus": false,
+  "effective_date_start": "2022-12-31",
+  "effective_date_end": null,
+  "effective_date_fye_split": false,
+  "effective_date_oct_fye": null,
+  "effective_date_dec_fye": null,
+  "is_future_effective": false,
+  "is_rescinded": false,
+  "is_draft_or_consultation": false,
+  "rescission_date": null,
+  "consultation_closing_date": null,
+  "as_of_applicability": "2026-03-23",
+  "rule_applied": "rule_5_final_current",
+  "authority_class": "primary_normative",
+  "authority_level": 100,
+  "nova_tier": 1,
+  "prudential_weight": 1.0,
+  "is_primary_normative": true,
+  "is_supporting_interpretive": false,
+  "is_context_only": false,
+  "document_class": "advisory",
+  "guidance_type_normalized": "regulatory_and_legislative_advisory",
+  "section_headings": [
+    {
+      "level": 2,
+      "text": "Introduction",
+      "id": "h2-0"
+    },
+    {
+      "level": 2,
+      "text": "Background",
+      "id": "h2-1"
+    },
+    {
+      "level": 2,
+      "text": "Legislative references",
+      "id": "h2-2"
+    },
+    {
+      "level": 2,
+      "text": "Prudential considerations",
+      "id": "h2-3"
+    },
+    {
+      "level": 3,
+      "text": "Definition",
+      "id": "h3-4"
+    },
+    {
+      "level": 3,
+      "text": "Specification",
+      "id": "h3-5"
+    },
+    {
+      "level": 3,
+      "text": "Cessation of effect",
+      "id": "h3-6"
+    },
+    {
+      "level": 3,
+      "text": "Coming into force",
+      "id": "h3-7"
+    }
+  ],
+  "heading_path": [
+    "Increase of regulatory prudential limits related to investment, lending and borrowing for all Canadian Property and Casualty Federally Regulated Insurance Companies"
+  ],
+  "toc_depth": 3,
+  "has_appendices": false,
+  "appendix_ids": [],
+  "has_tables": false,
+  "table_count": 0,
+  "has_footnotes": false,
+  "footnote_count": 0,
+  "inline_cross_references": [],
+  "quoted_external_references": [],
+  "raw_html_sha256": "697b4835a2b37e6991585a62fc7379f2c49afd879adafe3e95352afb8190d73e",
+  "raw_pdf_sha256": null,
+  "normalized_text_sha256": null,
+  "raw_html_path": "bronze/osfi/html/final_current/increase-regulatory-prudential-limits-related-investment-lending-borrowing-all-canadian-property.html",
+  "normalized_md_path": "silver/osfi/md/final_current/increase-regulatory-prudential-limits-related-investment-lending-borrowing-all-canadian-property.md",
+  "canonical_json_path": "silver/osfi/json/final_current/increase-regulatory-prudential-limits-related-investment-lending-borrowing-all-canadian-property.json",
+  "content_source": "HTML",
+  "parser_version": "osfi-parser-v2.1.0",
+  "normalizer_version": "osfi-normalizer-v1.4.0",
+  "quality_score": 1.0,
+  "quality_flags": [],
+  "download_timestamp": "2026-03-11T00:00:00Z",
+  "enriched_timestamp": "2026-03-23T09:53:52.318425Z",
+  "sections": [
+    {
+      "heading": "",
+      "heading_level": 2,
+      "full_text": "  - OSFI temporarily adjusts regulatory prudential limits related to investments, commercial lending and borrowing for certain insurance companies",
+      "content": [
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "OSFI temporarily adjusts regulatory prudential limits related to investments, commercial lending and borrowing for certain insurance companies"
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "Introduction",
+      "heading_level": 2,
+      "full_text": "As a result of a change to the accounting principles referred to in subsection 331(4) of the Insurance Companies Act (the Act), the Superintendent of Financial Institutions (the Superintendent) considers, that certain amounts under regulations made under the Act are not appropriate, given prudential considerations the Superintendent considers relevant. Therefore, the Superintendent has made the Specification of Certain Amounts under subsection 1016.61(1) of the Act, to temporarily increase regulatory prudential limits for investment, lending and borrowing by 25 per cent.\nThe Specification of Certain Amounts is set out below and applies to Canadian Property and Casualty (P&C) Federally Regulated Insurance Companies (FRIs).",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "As a result of a change to the accounting principles referred to in subsection 331(4) of the Insurance Companies Act (the Act), the Superintendent of Financial Institutions (the Superintendent) considers, that certain amounts under regulations made under the Act are not appropriate, given prudential considerations the Superintendent considers relevant. Therefore, the Superintendent has made the Specification of Certain Amounts under subsection 1016.61(1) of the Act, to temporarily increase regulatory prudential limits for investment, lending and borrowing by 25 per cent."
+        },
+        {
+          "type": "paragraph",
+          "text": "The Specification of Certain Amounts is set out below and applies to Canadian Property and Casualty (P&C) Federally Regulated Insurance Companies (FRIs)."
+        }
+      ]
+    },
+    {
+      "heading": "Background",
+      "heading_level": 2,
+      "full_text": "In the case of FRIs, the Act stipulates that “financial statements shall, except as otherwise specified by the Superintendent, be prepared in accordance with generally accepted accounting principles, the primary source of which is the Handbook of the Chartered Professional Accountants of Canada”. Generally, Accepted Accounting Principles for FRIs is effectively International Financial Reporting Standards (IFRS) as issued by the International Accounting Standards Board. The IFRS 17 insurance contracts accounting standard replaces the wide variety of standards and practices currently applied to insurance contracts in different countries. It increases transparency in financial information for insurance companies because it provides one set of consistent reporting principles that allow for better international comparisons between insurance industries. Such transparency will give investors and analysts more confidence in understanding the insurance industry.\nThe Office of the Superintendent of Financial Institutions (OSFI) has established prudential expectations and has set out regulatory prudential limits to oversee and supervise Canadian P&C FRIs’ investments, loans and debt activities and concentration risks. The prudential role of these limits is to contain risks in an asset class that may be subject to elevated risk of uncertainty and volatility. All Canadian P&C FRIs are required to apply a prudent person approach and must comply with those limits as set out in the applicable legislation.\nIn preparation for IFRS 17, OSFI launched an industry-focused Quantitative Impact Study (QIS3) in 2021 to gather data to help inform final calibrations, phase-ins and transitional adjustments. In June 2021, OSFI asked the property and casualty insurance industry to complete year-end 2020 Balance Sheet, Income Statement and Capital amounts under IFRS 17 and IFRS 4 in order to observe the IFRS 17 impact on the Minimum Capital Test Guideline and review the changes to the financial statements on transition. The data from this study revealed that total assets for Canadian P&C FRIs are expected to decline on average about 20 per cent upon transition to IFRS 17 due to a decline in asset balances for various accounts such as insurance related receivables, deferred policy acquisition expenses and other recoverables on unpaid claims. The application of IFRS 17 in 2023 is expected to result in a decline in the value of total assets and liabilities where the Canadian P&C FRI has grossed up transactions under IFRS 4. Equity remains unchanged as a result of the removal of the gross up with the introduction of IFRS 17. As a result of this accounting change, some Canadian P&C FRIs will become non-compliant with one or more of the regulatory prudential limits related to investments, commercial lending or borrowing. The increase of the regulatory prudential limits of 25 per cent adjust for the 20 per cent decline in total asset balances and it is based on the results of the study.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "In the case of FRIs, the Act stipulates that “financial statements shall, except as otherwise specified by the Superintendent, be prepared in accordance with generally accepted accounting principles, the primary source of which is the Handbook of the Chartered Professional Accountants of Canada”. Generally, Accepted Accounting Principles for FRIs is effectively International Financial Reporting Standards (IFRS) as issued by the International Accounting Standards Board. The IFRS 17 insurance contracts accounting standard replaces the wide variety of standards and practices currently applied to insurance contracts in different countries. It increases transparency in financial information for insurance companies because it provides one set of consistent reporting principles that allow for better international comparisons between insurance industries. Such transparency will give investors and analysts more confidence in understanding the insurance industry."
+        },
+        {
+          "type": "paragraph",
+          "text": "The Office of the Superintendent of Financial Institutions (OSFI) has established prudential expectations and has set out regulatory prudential limits to oversee and supervise Canadian P&C FRIs’ investments, loans and debt activities and concentration risks. The prudential role of these limits is to contain risks in an asset class that may be subject to elevated risk of uncertainty and volatility. All Canadian P&C FRIs are required to apply a prudent person approach and must comply with those limits as set out in the applicable legislation."
+        },
+        {
+          "type": "paragraph",
+          "text": "In preparation for IFRS 17, OSFI launched an industry-focused Quantitative Impact Study (QIS3) in 2021 to gather data to help inform final calibrations, phase-ins and transitional adjustments. In June 2021, OSFI asked the property and casualty insurance industry to complete year-end 2020 Balance Sheet, Income Statement and Capital amounts under IFRS 17 and IFRS 4 in order to observe the IFRS 17 impact on the Minimum Capital Test Guideline and review the changes to the financial statements on transition. The data from this study revealed that total assets for Canadian P&C FRIs are expected to decline on average about 20 per cent upon transition to IFRS 17 due to a decline in asset balances for various accounts such as insurance related receivables, deferred policy acquisition expenses and other recoverables on unpaid claims. The application of IFRS 17 in 2023 is expected to result in a decline in the value of total assets and liabilities where the Canadian P&C FRI has grossed up transactions under IFRS 4. Equity remains unchanged as a result of the removal of the gross up with the introduction of IFRS 17. As a result of this accounting change, some Canadian P&C FRIs will become non-compliant with one or more of the regulatory prudential limits related to investments, commercial lending or borrowing. The increase of the regulatory prudential limits of 25 per cent adjust for the 20 per cent decline in total asset balances and it is based on the results of the study."
+        }
+      ]
+    },
+    {
+      "heading": "Legislative references",
+      "heading_level": 2,
+      "full_text": "Subsection 331(4) of the Act provides that financial statements referred to in subsection (1), paragraph 3(b) and subsection 331(1) shall, except as otherwise specified by the Superintendent, be prepared in accordance with generally accepted accounting principles, the primary source of which is the Handbook of the Chartered Professional Accountants of Canada.\nParagraph 1016.61(1) of the Act provides that as a result of a change to the accounting principles referred to in subsection 331(4) the Superintendent considers, given any prudential considerations that he or she considers relevant, that any amount, calculation or valuation under the Act or the regulations is not appropriate, the Superintendent may specify the amount that is to be used or the calculation or valuation that is to be performed.\nParagraph 1016.61(2) of the Act provides that the Superintendent shall cause a notice of the specification to be published in the Canada Gazette within 60 days after the day on which the specification has effect.\nParagraph 1016.61(3) of the Act provides that the specification ceases to have effect on the day indicated in the notice, which may be no later than five years after the day on which specification is made.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Subsection 331(4) of the Act provides that financial statements referred to in subsection (1), paragraph 3(b) and subsection 331(1) shall, except as otherwise specified by the Superintendent, be prepared in accordance with generally accepted accounting principles, the primary source of which is the Handbook of the Chartered Professional Accountants of Canada."
+        },
+        {
+          "type": "paragraph",
+          "text": "Paragraph 1016.61(1) of the Act provides that as a result of a change to the accounting principles referred to in subsection 331(4) the Superintendent considers, given any prudential considerations that he or she considers relevant, that any amount, calculation or valuation under the Act or the regulations is not appropriate, the Superintendent may specify the amount that is to be used or the calculation or valuation that is to be performed."
+        },
+        {
+          "type": "paragraph",
+          "text": "Paragraph 1016.61(2) of the Act provides that the Superintendent shall cause a notice of the specification to be published in the Canada Gazette within 60 days after the day on which the specification has effect."
+        },
+        {
+          "type": "paragraph",
+          "text": "Paragraph 1016.61(3) of the Act provides that the specification ceases to have effect on the day indicated in the notice, which may be no later than five years after the day on which specification is made."
+        }
+      ]
+    },
+    {
+      "heading": "Prudential considerations",
+      "heading_level": 2,
+      "full_text": "The risk exposure of the assets subject to the limits on December 31, 2022 remains unchanged on January 1, 2023.\nA transition period of two years will allow affected Canadian P&C FRIs to divest assets in an orderly manner and to comply with the investment, commercial lending and borrowing limits set out in the Regulations. The orderly transition will preserve value for policyholders and creditors.\nThe alternative to a specification is for the Superintendent to consider the appropriate confidential supervisory action depending on the size of the breach and the company’s plan to come into compliance with the regulation. As this accounting change will impact several Canadian P&C FRIs transparency and clarity in OSFI’s supervisory approach is warranted by using a specification.\nThe two-year period is a reasonable time frame for any of the impacted Canadian P&C FRIs to take actions to become compliant with the original limits. Canadian P&C FRIs will not be exposed to additional prudential risk should their relative exposure increase temporarily or as they conduct an orderly wind-down of their exposure. Based on the data analysis projections from the study, Canadian P&C FRIs currently in compliance with the Minimum Capital Test Guideline are expected to remain compliant under the new limits. Although they will be allowed to increase the limits under the specification, the Superintendent does not have prudential concerns if this occurs.\nProviding reasonable time for the property and casualty insurance industry to get onside is prudent and supports a robust implementation of the new standard.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "The risk exposure of the assets subject to the limits on December 31, 2022 remains unchanged on January 1, 2023."
+        },
+        {
+          "type": "paragraph",
+          "text": "A transition period of two years will allow affected Canadian P&C FRIs to divest assets in an orderly manner and to comply with the investment, commercial lending and borrowing limits set out in the Regulations. The orderly transition will preserve value for policyholders and creditors."
+        },
+        {
+          "type": "paragraph",
+          "text": "The alternative to a specification is for the Superintendent to consider the appropriate confidential supervisory action depending on the size of the breach and the company’s plan to come into compliance with the regulation. As this accounting change will impact several Canadian P&C FRIs transparency and clarity in OSFI’s supervisory approach is warranted by using a specification."
+        },
+        {
+          "type": "paragraph",
+          "text": "The two-year period is a reasonable time frame for any of the impacted Canadian P&C FRIs to take actions to become compliant with the original limits. Canadian P&C FRIs will not be exposed to additional prudential risk should their relative exposure increase temporarily or as they conduct an orderly wind-down of their exposure. Based on the data analysis projections from the study, Canadian P&C FRIs currently in compliance with the Minimum Capital Test Guideline are expected to remain compliant under the new limits. Although they will be allowed to increase the limits under the specification, the Superintendent does not have prudential concerns if this occurs."
+        },
+        {
+          "type": "paragraph",
+          "text": "Providing reasonable time for the property and casualty insurance industry to get onside is prudent and supports a robust implementation of the new standard."
+        }
+      ]
+    },
+    {
+      "heading": "Definition",
+      "heading_level": 3,
+      "full_text": "In this Specification, Act means the Insurance Companies Act .",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "In this Specification, Act means the Insurance Companies Act ."
+        }
+      ]
+    },
+    {
+      "heading": "Specification",
+      "heading_level": 3,
+      "full_text": "Instead of the percentage prescribed by section 7 of the Borrowing (Property and Casualty Companies and Marine Companies) Regulations , 2.5 per cent of the total assets of the company is to be used for the purpose of section 476 of the Act.\nInstead of the percentage prescribed by section 5 of the Commercial Loan (Insurance Companies, Societies, Insurance Holding Companies and Foreign Companies) Regulations , 6.25% is to be used for the purpose of section 505 of the Act.\nInstead of the amount set out in paragraph 5(1)(b) of the Investment Limits (Insurance Companies) Regulations , if the company is a property and casualty company 12.5% of its total assets is to be used for the purpose of section 506 of the Act.\nInstead of the amount set out in paragraph 5(2)(b) of the Investment Limits (Insurance Companies) Regulations , if the company is a property and casualty company 31.25% of its total assets is to be used for the purpose of section 507 of the Act.\nInstead of the amount set out in paragraph 5(3)(b) of the Investment Limits (Insurance Companies) Regulations , if the company is a property and casualty company 43.75% of its total assets is to be used for the purpose of section 508 of the Act.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Instead of the percentage prescribed by section 7 of the Borrowing (Property and Casualty Companies and Marine Companies) Regulations , 2.5 per cent of the total assets of the company is to be used for the purpose of section 476 of the Act."
+        },
+        {
+          "type": "paragraph",
+          "text": "Instead of the percentage prescribed by section 5 of the Commercial Loan (Insurance Companies, Societies, Insurance Holding Companies and Foreign Companies) Regulations , 6.25% is to be used for the purpose of section 505 of the Act."
+        },
+        {
+          "type": "paragraph",
+          "text": "Instead of the amount set out in paragraph 5(1)(b) of the Investment Limits (Insurance Companies) Regulations , if the company is a property and casualty company 12.5% of its total assets is to be used for the purpose of section 506 of the Act."
+        },
+        {
+          "type": "paragraph",
+          "text": "Instead of the amount set out in paragraph 5(2)(b) of the Investment Limits (Insurance Companies) Regulations , if the company is a property and casualty company 31.25% of its total assets is to be used for the purpose of section 507 of the Act."
+        },
+        {
+          "type": "paragraph",
+          "text": "Instead of the amount set out in paragraph 5(3)(b) of the Investment Limits (Insurance Companies) Regulations , if the company is a property and casualty company 43.75% of its total assets is to be used for the purpose of section 508 of the Act."
+        }
+      ]
+    },
+    {
+      "heading": "Cessation of effect",
+      "heading_level": 3,
+      "full_text": "This Specification ceases to have effect on December 31, 2024.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "This Specification ceases to have effect on December 31, 2024."
+        }
+      ]
+    },
+    {
+      "heading": "Coming into force",
+      "heading_level": 3,
+      "full_text": "This Specification comes into force on January 1, 2023.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "This Specification comes into force on January 1, 2023."
+        }
+      ]
+    }
+  ],
+  "title_normalized": "increase of regulatory prudential limits related to investment lending and borrowing for all canadian property and casualty federally regulated insurance companies",
+  "publication_type_normalized": "regulatory_and_legislative_advisory",
+  "category_normalized": "regulatory_and_legislative",
+  "sector_normalized": [
+    "insurance_companies_act"
+  ],
+  "guideline_number_normalized": "",
+  "applies_to_banks": false,
+  "applies_to_trust_loan": false,
+  "applies_to_life_insurance": false,
+  "applies_to_pc_insurance": false,
+  "applies_to_foreign_bank": false,
+  "applies_to_foreign_insurance": false,
+  "applies_to_cooperative": false,
+  "applies_to_bank_holding": false,
+  "effective_date_sort_key": "2022-12-31",
+  "status_sort_key": 1,
+  "authority_sort_key": 100,
+  "bm25_text": "Increase of regulatory prudential limits related to investment, lending and borrowing for all Canadian Property and Casualty Federally Regulated Insurance Companies Regulatory and legislative advisory Regulatory and legislative Insurance Companies Act Introduction Background Legislative references Prudential considerations Definition Specification Cessation of effect Coming into force",
+  "vector_text_prefix": "[OSFI Regulatory and legislative advisory  | Regulatory and legislative | Insurance Companies Act | FINAL_CURRENT | Effective 2022-12-31]",
+  "h1_title": "Increase of regulatory prudential limits related to investment, lending and borrowing for all Canadian Property and Casualty Federally Regulated Insurance Companies",
+  "regulator": "OSFI",
+  "regulator_acronym": "OSFI",
+  "jurisdiction": "Canada",
+  "short_title": "",
+  "source_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/increase-regulatory-prudential-limits-related-investment-lending-borrowing-all-canadian-property"
+}

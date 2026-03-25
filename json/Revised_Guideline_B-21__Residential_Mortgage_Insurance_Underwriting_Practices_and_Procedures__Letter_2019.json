@@ -1,0 +1,190 @@
+{
+  "source_system": "osfi_guidance_library",
+  "library_row_title": "Revised Guideline B-21 – Residential Mortgage Insurance Underwriting Practices and Procedures – Letter (2019)",
+  "library_row_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/revised-guideline-b-21-residential-mortgage-insurance-underwriting-practices-procedures-letter-2019",
+  "listing_date_raw": "March 1, 2019",
+  "listing_date_iso": "2019-03-01",
+  "listing_publication_type": "Letter",
+  "listing_category": "Sound Business and Financial Practices",
+  "listing_sector": [
+    "Property and Casualty Companies"
+  ],
+  "crawl_timestamp": "2026-03-11T00:00:00Z",
+  "detail_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/revised-guideline-b-21-residential-mortgage-insurance-underwriting-practices-procedures-letter-2019",
+  "canonical_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/revised-guideline-b-21-residential-mortgage-insurance-underwriting-practices-procedures-letter-2019",
+  "slug": "revised-guideline-b-21-residential-mortgage-insurance-underwriting-practices-procedures-letter-2019",
+  "title": "Revised Guideline B-21 – Residential Mortgage Insurance Underwriting Practices and Procedures – Letter (2019)",
+  "publication_type": "Letter",
+  "category": "Sound Business and Financial Practices",
+  "document_date_raw": "March 1, 2019",
+  "document_date_iso": "2019-03-01",
+  "sector": [
+    "Property and Casualty Companies"
+  ],
+  "effective_date_text": "",
+  "guideline_number": "B-21",
+  "date_modified_raw": "2019-03-01T12:00:00Z",
+  "generate_pdf_url": "https://www.osfi-bsif.gc.ca/en/print/pdf/node/341",
+  "pdf_node_id": 341,
+  "direct_pdf_url": null,
+  "has_table_of_contents": true,
+  "toc_entries": [],
+  "has_related_documents": true,
+  "related_document_links_raw": [
+    {
+      "title": "Residential mortgage underwriting practices and procedures – Guideline (2017)",
+      "url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/residential-mortgage-underwriting-practices-procedures-guideline-2017"
+    },
+    {
+      "title": "Corporate Governance – Guideline (2018)",
+      "url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/corporate-governance-guideline-2018"
+    }
+  ],
+  "consultation_status_text": null,
+  "consultation_status_refers_to_version": null,
+  "page_language": "en",
+  "word_count_raw_body": 148,
+  "doc_id": "osfi.b2.2019.transmittal",
+  "doc_family_id": "osfi.b2",
+  "version_id": "2019",
+  "version_label": "B-21 (2019)",
+  "version_sort_key": "2019-03",
+  "parent_doc_id": null,
+  "child_doc_ids": [],
+  "is_package_page": false,
+  "is_chapter_page": false,
+  "chapter_number": null,
+  "chapter_title": null,
+  "document_order_within_family": 0,
+  "supersedes_doc_id": null,
+  "superseded_by_doc_id": null,
+  "current_version_flag": true,
+  "status": "final_current",
+  "include_in_primary_corpus": false,
+  "include_in_support_corpus": true,
+  "include_in_context_corpus": false,
+  "effective_date_start": "2019-03-01",
+  "effective_date_end": null,
+  "effective_date_fye_split": false,
+  "effective_date_oct_fye": null,
+  "effective_date_dec_fye": null,
+  "is_future_effective": false,
+  "is_rescinded": false,
+  "is_draft_or_consultation": false,
+  "rescission_date": null,
+  "consultation_closing_date": null,
+  "as_of_applicability": "2026-03-23",
+  "rule_applied": "rule_5_final_current",
+  "authority_class": "official_support",
+  "authority_level": 60,
+  "nova_tier": 2,
+  "prudential_weight": 0.7,
+  "is_primary_normative": false,
+  "is_supporting_interpretive": true,
+  "is_context_only": false,
+  "document_class": "transmittal_letter",
+  "guidance_type_normalized": "letter",
+  "section_headings": [],
+  "heading_path": [
+    "Revised Guideline B-21 – Residential Mortgage Insurance Underwriting Practices and Procedures – Letter (2019)"
+  ],
+  "toc_depth": 0,
+  "has_appendices": false,
+  "appendix_ids": [],
+  "has_tables": false,
+  "table_count": 0,
+  "has_footnotes": false,
+  "footnote_count": 0,
+  "inline_cross_references": [
+    "Guideline B-21 – Residential Mortgage Insurance Underwriting Practices and",
+    "Guideline B-20 – Residential Mortgage Underwriting Practices and Procedure",
+    "Guideline B-21 for consequential amendments",
+    "Guideline B-21 align its language with that of Guideline B-20 in the areas"
+  ],
+  "quoted_external_references": [],
+  "raw_html_sha256": "fa189c13cd420f88d78f556a2ea8e2a49b90f807f4098f280f5e3bd20daebb68",
+  "raw_pdf_sha256": null,
+  "normalized_text_sha256": null,
+  "raw_html_path": "bronze/osfi/html/final_current/revised-guideline-b-21-residential-mortgage-insurance-underwriting-practices-procedures-letter-2019.html",
+  "normalized_md_path": "silver/osfi/md/final_current/revised-guideline-b-21-residential-mortgage-insurance-underwriting-practices-procedures-letter-2019.md",
+  "canonical_json_path": "silver/osfi/json/final_current/revised-guideline-b-21-residential-mortgage-insurance-underwriting-practices-procedures-letter-2019.json",
+  "content_source": "HTML",
+  "parser_version": "osfi-parser-v2.1.0",
+  "normalizer_version": "osfi-normalizer-v1.4.0",
+  "quality_score": 0.5,
+  "quality_flags": [
+    "thin_body_text"
+  ],
+  "download_timestamp": "2026-03-11T00:00:00Z",
+  "enriched_timestamp": "2026-03-23T09:53:59.338909Z",
+  "sections": [
+    {
+      "heading": "",
+      "heading_level": 2,
+      "full_text": "  - Residential Mortgage Insurance Underwriting Practices and Procedures – Guideline (2019)\n  - Residential mortgage underwriting practices and procedures – Guideline (2017)\n  - Corporate Governance – Guideline (2018)\nAudiences: Federally Regulated Mortgage Insurers (FRMIs)\nOSFI is issuing a revised version of Guideline B-21 – Residential Mortgage Insurance Underwriting Practices and Procedures . The guideline sets out OSFI’s expectations for prudent residential mortgage insurance underwriting and related activities.\nWhen OSFI published an updated version of Guideline B-20 – Residential Mortgage Underwriting Practices and Procedures , it announced that it would assess Guideline B-21 for consequential amendments. The resulting updates to Guideline B-21 align its language with that of Guideline B-20 in the areas of income verification, property valuation, and fraud detection and prevention.\nQuestions on the guideline may be directed to Vlasios Melessanakis, Director, Prudential Policy at vlasios.melessanakis@osfi-bsif.gc.ca or by telephone at (613) 998-5478.\nCarolyn Rogers Assistant Superintendent Regulation Sector",
+      "content": [
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Residential Mortgage Insurance Underwriting Practices and Procedures – Guideline (2019)"
+          ]
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Residential mortgage underwriting practices and procedures – Guideline (2017)",
+            "Corporate Governance – Guideline (2018)"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Audiences: Federally Regulated Mortgage Insurers (FRMIs)"
+        },
+        {
+          "type": "paragraph",
+          "text": "OSFI is issuing a revised version of Guideline B-21 – Residential Mortgage Insurance Underwriting Practices and Procedures . The guideline sets out OSFI’s expectations for prudent residential mortgage insurance underwriting and related activities."
+        },
+        {
+          "type": "paragraph",
+          "text": "When OSFI published an updated version of Guideline B-20 – Residential Mortgage Underwriting Practices and Procedures , it announced that it would assess Guideline B-21 for consequential amendments. The resulting updates to Guideline B-21 align its language with that of Guideline B-20 in the areas of income verification, property valuation, and fraud detection and prevention."
+        },
+        {
+          "type": "paragraph",
+          "text": "Questions on the guideline may be directed to Vlasios Melessanakis, Director, Prudential Policy at vlasios.melessanakis@osfi-bsif.gc.ca or by telephone at (613) 998-5478."
+        },
+        {
+          "type": "paragraph",
+          "text": "Carolyn Rogers Assistant Superintendent Regulation Sector"
+        }
+      ]
+    }
+  ],
+  "title_normalized": "revised guideline b21 residential mortgage insurance underwriting practices and procedures letter 2019",
+  "publication_type_normalized": "letter",
+  "category_normalized": "sound_business_and_financial_practices",
+  "sector_normalized": [
+    "pc_insurance"
+  ],
+  "guideline_number_normalized": "B21",
+  "applies_to_banks": false,
+  "applies_to_trust_loan": false,
+  "applies_to_life_insurance": false,
+  "applies_to_pc_insurance": true,
+  "applies_to_foreign_bank": false,
+  "applies_to_foreign_insurance": false,
+  "applies_to_cooperative": false,
+  "applies_to_bank_holding": false,
+  "effective_date_sort_key": "2019-03-01",
+  "status_sort_key": 1,
+  "authority_sort_key": 60,
+  "bm25_text": "Revised Guideline B-21 – Residential Mortgage Insurance Underwriting Practices and Procedures – Letter (2019) B-21 Letter Sound Business and Financial Practices Property and Casualty Companies",
+  "vector_text_prefix": "[OSFI Letter B-21 | Sound Business and Financial Practices | Property and Casualty Companies | FINAL_CURRENT | Effective 2019-03-01]",
+  "h1_title": "Revised Guideline B-21 – Residential Mortgage Insurance Underwriting Practices and Procedures – Letter (2019)",
+  "regulator": "OSFI",
+  "regulator_acronym": "OSFI",
+  "jurisdiction": "Canada",
+  "short_title": "B-21",
+  "source_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/revised-guideline-b-21-residential-mortgage-insurance-underwriting-practices-procedures-letter-2019"
+}

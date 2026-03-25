@@ -1,0 +1,466 @@
+{
+  "source_system": "osfi_guidance_library",
+  "library_row_title": "Assurance on Capital, Leverage and Liquidity Returns – Guideline at a glance (2022)",
+  "library_row_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/assurance-capital-leverage-liquidity-returns-guideline-glance-2022",
+  "listing_date_raw": "November 30, 2022",
+  "listing_date_iso": "2022-11-30",
+  "listing_publication_type": "Guideline at a glance",
+  "listing_category": "Accounting and Disclosure",
+  "listing_sector": [
+    "Banks",
+    "Life Insurance and Fraternal Companies",
+    "Property and Casualty Companies",
+    "Trust and Loan Companies"
+  ],
+  "crawl_timestamp": "2026-03-11T00:00:00Z",
+  "detail_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/assurance-capital-leverage-liquidity-returns-guideline-glance-2022",
+  "canonical_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/assurance-capital-leverage-liquidity-returns-guideline-glance-2022",
+  "slug": "assurance-capital-leverage-liquidity-returns-guideline-glance-2022",
+  "title": "Assurance on Capital, Leverage and Liquidity Returns – Guideline at a glance (2022)",
+  "publication_type": "Guideline at a glance",
+  "category": "Accounting and Disclosure",
+  "document_date_raw": "November 30, 2022",
+  "document_date_iso": "2022-11-30",
+  "sector": [
+    "Banks",
+    "Life Insurance and Fraternal Companies",
+    "Property and Casualty Companies",
+    "Trust and Loan Companies"
+  ],
+  "effective_date_text": "",
+  "guideline_number": "",
+  "date_modified_raw": "2022-11-30T12:00:00Z",
+  "generate_pdf_url": "https://www.osfi-bsif.gc.ca/en/print/pdf/node/639",
+  "pdf_node_id": 639,
+  "direct_pdf_url": null,
+  "has_table_of_contents": true,
+  "toc_entries": [],
+  "has_related_documents": false,
+  "related_document_links_raw": [],
+  "consultation_status_text": null,
+  "consultation_status_refers_to_version": null,
+  "page_language": "en",
+  "word_count_raw_body": 1493,
+  "doc_id": "osfi.assurance-capital-leverage-liquidity-returns-guide.2022.backgrounder",
+  "doc_family_id": "osfi.assurance-capital-leverage-liquidity-returns-guide",
+  "version_id": "2022",
+  "version_label": "Assurance on Capital, Leverage and Liquidity Returns – Guide",
+  "version_sort_key": "2022-11",
+  "parent_doc_id": null,
+  "child_doc_ids": [],
+  "is_package_page": false,
+  "is_chapter_page": false,
+  "chapter_number": null,
+  "chapter_title": null,
+  "document_order_within_family": 0,
+  "supersedes_doc_id": null,
+  "superseded_by_doc_id": null,
+  "current_version_flag": true,
+  "status": "final_current",
+  "include_in_primary_corpus": false,
+  "include_in_support_corpus": true,
+  "include_in_context_corpus": false,
+  "effective_date_start": "2022-11-30",
+  "effective_date_end": null,
+  "effective_date_fye_split": false,
+  "effective_date_oct_fye": null,
+  "effective_date_dec_fye": null,
+  "is_future_effective": false,
+  "is_rescinded": false,
+  "is_draft_or_consultation": false,
+  "rescission_date": null,
+  "consultation_closing_date": null,
+  "as_of_applicability": "2026-03-23",
+  "rule_applied": "rule_5_final_current",
+  "authority_class": "contextual_summary",
+  "authority_level": 40,
+  "nova_tier": 2,
+  "prudential_weight": 0.4,
+  "is_primary_normative": false,
+  "is_supporting_interpretive": false,
+  "is_context_only": true,
+  "document_class": "backgrounder",
+  "guidance_type_normalized": "guideline_at_a_glance",
+  "section_headings": [
+    {
+      "level": 2,
+      "text": "Summary of Assurance Expectations for Federally Regulated Insurers",
+      "id": "h2-0"
+    },
+    {
+      "level": 2,
+      "text": "Summary of Assurance Expectations for Deposit-Taking Institutions",
+      "id": "h2-1"
+    }
+  ],
+  "heading_path": [
+    "Assurance on Capital, Leverage and Liquidity Returns – Guideline at a glance (2022)"
+  ],
+  "toc_depth": 2,
+  "has_appendices": false,
+  "appendix_ids": [],
+  "has_tables": true,
+  "table_count": 6,
+  "has_footnotes": false,
+  "footnote_count": 0,
+  "inline_cross_references": [],
+  "quoted_external_references": [],
+  "raw_html_sha256": "8c861f1c30c2e9d022823d1f4a51f5cf776506dc9272c614a130e47628d225d8",
+  "raw_pdf_sha256": null,
+  "normalized_text_sha256": null,
+  "raw_html_path": "bronze/osfi/html/final_current/assurance-capital-leverage-liquidity-returns-guideline-glance-2022.html",
+  "normalized_md_path": "silver/osfi/md/final_current/assurance-capital-leverage-liquidity-returns-guideline-glance-2022.md",
+  "canonical_json_path": "silver/osfi/json/final_current/assurance-capital-leverage-liquidity-returns-guideline-glance-2022.json",
+  "content_source": "HTML",
+  "parser_version": "osfi-parser-v2.1.0",
+  "normalizer_version": "osfi-normalizer-v1.4.0",
+  "quality_score": 1.0,
+  "quality_flags": [],
+  "download_timestamp": "2026-03-11T00:00:00Z",
+  "enriched_timestamp": "2026-03-23T09:53:46.830831Z",
+  "sections": [
+    {
+      "heading": "",
+      "heading_level": 2,
+      "full_text": "  - Assurance on Capital, Leverage and Liquidity Returns - Guideline (2022)",
+      "content": [
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Assurance on Capital, Leverage and Liquidity Returns - Guideline (2022)"
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "Summary of Assurance Expectations for Federally Regulated Insurers",
+      "heading_level": 2,
+      "full_text": "Table: Table 1 – External Audit\nIndustry | Regulatory Return / Schedule | Filing Requirement | Frequency\nLife Insurer | LICAT Schedule 10.100 / LIMAT Schedule 120.000 | Within 90 days of fiscal year-end Table 1 - External Audit footnote 1 | Annual at year-end reporting date beginning fiscal 2025\nP&C Insurer | MCT / BAAT Schedule 10.00 | Within 90 days of fiscal year-end Table 1 - External Audit footnote 1 | Annual at year-end reporting date beginning fiscal 2025\nMortgage Insurer | MICAT Schedule 10.10 | Within 90 days of fiscal year-end | Annual at year-end reporting date beginning fiscal 2025\nTable 1 – External Audit footnotes Table 1 – External Audit footnote 1 Foreign Life/P&C entities may retain their May 31 filing schedules for the LIMAT/BAAT. Return to Table 1 – External Audit footnote 1 referrer\nTable 1 – External Audit footnotes Table 1 – External Audit footnote 1 Foreign Life/P&C entities may retain their May 31 filing schedules for the LIMAT/BAAT. Return to Table 1 – External Audit footnote 1 referrer\nTable 1 – External Audit footnotes\nForeign Life/P&C entities may retain their May 31 filing schedules for the LIMAT/BAAT.\nReturn to Table 1 – External Audit footnote 1 referrer\nTable: Table 2 – Senior Management Attestation and Review Table 2 - Senior Management Attestation and Review footnote 1\nIndustry | Regulatory Return / Schedule | Filing Requirement | Frequency\nLife Insurer | LICAT / LIMAT COVER Schedule | According to quarterly filing requirements | Quarterly beginning fiscal 2024\nP&C Insurer | MCT / BAAT COVER Schedule | According to quarterly filing requirements | Quarterly beginning fiscal 2024\nMortgage Insurer | MICAT COVER Schedule | According to quarterly filing requirements | Quarterly beginning fiscal 2024\nTable 2 - Senior Management Attestation and Review footnotes Table 2 - Senior Management Attestation and Review footnote 1 On an annual basis, management attestation submissions are to be accompanied with the FRFI’s summary of unadjusted errors impacting the calculation of regulatory ratios. Return to Table 2 - Senior Management Attestation and Review footnote 1 referrer\nTable 2 - Senior Management Attestation and Review footnotes Table 2 - Senior Management Attestation and Review footnote 1 On an annual basis, management attestation submissions are to be accompanied with the FRFI’s summary of unadjusted errors impacting the calculation of regulatory ratios. Return to Table 2 - Senior Management Attestation and Review footnote 1 referrer\nTable 2 - Senior Management Attestation and Review footnotes\nOn an annual basis, management attestation submissions are to be accompanied with the FRFI’s summary of unadjusted errors impacting the calculation of regulatory ratios.\nReturn to Table 2 - Senior Management Attestation and Review footnote 1 referrer\nTable: Table 3 – Internal Audit\nIndustry | Regulatory Return | Filing Requirement | Frequency\nLife Insurer | LICAT / LIMAT | Within 90 days of fiscal year-end | Effective beginning fiscal 2023 - Minimum once every three years based on FRI’s frequency of review\nP&C Insurer | MCT / BAAT | Within 90 days of fiscal year-end | Effective beginning fiscal 2023 - Minimum once every three years based on FRI’s frequency of review\nMortgage Insurer | MICAT | Within 90 days of fiscal year-end | Effective beginning fiscal 2023 - Minimum once every three years based on FRI’s frequency of review",
+      "content": [
+        {
+          "type": "table",
+          "caption": "Table 1 – External Audit",
+          "rows": [
+            [
+              "Industry",
+              "Regulatory Return / Schedule",
+              "Filing Requirement",
+              "Frequency"
+            ],
+            [
+              "Life Insurer",
+              "LICAT Schedule 10.100 / LIMAT Schedule 120.000",
+              "Within 90 days of fiscal year-end Table 1 - External Audit footnote 1",
+              "Annual at year-end reporting date beginning fiscal 2025"
+            ],
+            [
+              "P&C Insurer",
+              "MCT / BAAT Schedule 10.00",
+              "Within 90 days of fiscal year-end Table 1 - External Audit footnote 1",
+              "Annual at year-end reporting date beginning fiscal 2025"
+            ],
+            [
+              "Mortgage Insurer",
+              "MICAT Schedule 10.10",
+              "Within 90 days of fiscal year-end",
+              "Annual at year-end reporting date beginning fiscal 2025"
+            ],
+            [
+              "Table 1 – External Audit footnotes Table 1 – External Audit footnote 1 Foreign Life/P&C entities may retain their May 31 filing schedules for the LIMAT/BAAT. Return to Table 1 – External Audit footnote 1 referrer"
+            ]
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Table 1 – External Audit footnotes Table 1 – External Audit footnote 1 Foreign Life/P&C entities may retain their May 31 filing schedules for the LIMAT/BAAT. Return to Table 1 – External Audit footnote 1 referrer"
+        },
+        {
+          "type": "paragraph",
+          "text": "Table 1 – External Audit footnotes"
+        },
+        {
+          "type": "paragraph",
+          "text": "Foreign Life/P&C entities may retain their May 31 filing schedules for the LIMAT/BAAT."
+        },
+        {
+          "type": "paragraph",
+          "text": "Return to Table 1 – External Audit footnote 1 referrer"
+        },
+        {
+          "type": "table",
+          "caption": "Table 2 – Senior Management Attestation and Review Table 2 - Senior Management Attestation and Review footnote 1",
+          "rows": [
+            [
+              "Industry",
+              "Regulatory Return / Schedule",
+              "Filing Requirement",
+              "Frequency"
+            ],
+            [
+              "Life Insurer",
+              "LICAT / LIMAT COVER Schedule",
+              "According to quarterly filing requirements",
+              "Quarterly beginning fiscal 2024"
+            ],
+            [
+              "P&C Insurer",
+              "MCT / BAAT COVER Schedule",
+              "According to quarterly filing requirements",
+              "Quarterly beginning fiscal 2024"
+            ],
+            [
+              "Mortgage Insurer",
+              "MICAT COVER Schedule",
+              "According to quarterly filing requirements",
+              "Quarterly beginning fiscal 2024"
+            ],
+            [
+              "Table 2 - Senior Management Attestation and Review footnotes Table 2 - Senior Management Attestation and Review footnote 1 On an annual basis, management attestation submissions are to be accompanied with the FRFI’s summary of unadjusted errors impacting the calculation of regulatory ratios. Return to Table 2 - Senior Management Attestation and Review footnote 1 referrer"
+            ]
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Table 2 - Senior Management Attestation and Review footnotes Table 2 - Senior Management Attestation and Review footnote 1 On an annual basis, management attestation submissions are to be accompanied with the FRFI’s summary of unadjusted errors impacting the calculation of regulatory ratios. Return to Table 2 - Senior Management Attestation and Review footnote 1 referrer"
+        },
+        {
+          "type": "paragraph",
+          "text": "Table 2 - Senior Management Attestation and Review footnotes"
+        },
+        {
+          "type": "paragraph",
+          "text": "On an annual basis, management attestation submissions are to be accompanied with the FRFI’s summary of unadjusted errors impacting the calculation of regulatory ratios."
+        },
+        {
+          "type": "paragraph",
+          "text": "Return to Table 2 - Senior Management Attestation and Review footnote 1 referrer"
+        },
+        {
+          "type": "table",
+          "caption": "Table 3 – Internal Audit",
+          "rows": [
+            [
+              "Industry",
+              "Regulatory Return",
+              "Filing Requirement",
+              "Frequency"
+            ],
+            [
+              "Life Insurer",
+              "LICAT / LIMAT",
+              "Within 90 days of fiscal year-end",
+              "Effective beginning fiscal 2023 - Minimum once every three years based on FRI’s frequency of review"
+            ],
+            [
+              "P&C Insurer",
+              "MCT / BAAT",
+              "Within 90 days of fiscal year-end",
+              "Effective beginning fiscal 2023 - Minimum once every three years based on FRI’s frequency of review"
+            ],
+            [
+              "Mortgage Insurer",
+              "MICAT",
+              "Within 90 days of fiscal year-end",
+              "Effective beginning fiscal 2023 - Minimum once every three years based on FRI’s frequency of review"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "Summary of Assurance Expectations for Deposit-Taking Institutions",
+      "heading_level": 2,
+      "full_text": "Table: Table 1 – External Audit\nIndustry | Regulatory Return / Schedule | Filing Requirement | Frequency\nD-SIB | BCAR Schedule 10.010 LRR Leverage & TLAC Leverage Ratios Schedule LCR Table 1 – External Audit footnote 1 , NSFR Table 1 – External Audit footnote 2 | Within 90 days of fiscal year-end | Annual at year-end reporting date beginning fiscal 2025\nSMSB Category I | BCAR Schedule 10.010 LRR Leverage & TLAC Leverage Ratios Schedule LCR Table 1 – External Audit 1 , NSFR Table 1 – External Audit footnote 2 | Within 90 days of fiscal year-end | Annual at year-end reporting date beginning fiscal 2025\nSMSB Category II | BCAR Schedule 10.010 LRR Leverage & TLAC Leverage Ratios Schedule LCR Table 1 – External Audit 1 | Within 90 days of fiscal year-end | Biennial at year-end reporting date beginning fiscal 2025\nSMSB Category III | BCAR Schedule 10.011 | Within 90 days of fiscal year-end | Biennial at year-end reporting date beginning fiscal 2025\nTable 1 – External Audit footnotes Table 1 – External Audit footnote 1 To better capture potential currency mismatches, LCR should be evaluated in significant currencies for the purposes of OSFI’s assurance requirements. Return to Table 1 – External Audit footnote 1 referrer Table 1 – External Audit footnote 2 For SMSBs, assurance on NSFR is only required of Category I SMSBs with significant reliance on wholesale funding. Return to Table 1 – External Audit footnote 2 referrer\nTable 1 – External Audit footnotes Table 1 – External Audit footnote 1 To better capture potential currency mismatches, LCR should be evaluated in significant currencies for the purposes of OSFI’s assurance requirements. Return to Table 1 – External Audit footnote 1 referrer Table 1 – External Audit footnote 2 For SMSBs, assurance on NSFR is only required of Category I SMSBs with significant reliance on wholesale funding. Return to Table 1 – External Audit footnote 2 referrer\nTable 1 – External Audit footnotes\nTo better capture potential currency mismatches, LCR should be evaluated in significant currencies for the purposes of OSFI’s assurance requirements.\nReturn to Table 1 – External Audit footnote 1 referrer\nFor SMSBs, assurance on NSFR is only required of Category I SMSBs with significant reliance on wholesale funding.\nReturn to Table 1 – External Audit footnote 2 referrer\nTable: Table 2 – Senior Management Attestation and Review Table 2 - Senior Management footnote 1\nIndustry | Regulatory Return / Schedule | Filing Requirement | Frequency\nD-SIB | BCAR Cover Schedule (new) / LRR Cover Schedule (new) / LCR Cover Schedule (new) / Comprehensive NCCF Cover Schedule (new) / NSFR Cover Schedule (new) | According to quarterly filing requirements | Effective beginning fiscal 2024\nSMSB Category I | BCAR Cover Schedule (new) / LRR Cover Schedule (new) / LCR Cover Schedule (new) / Comprehensive NCCF Cover Schedule (new) / NSFR Cover Schedule (new) | According to quarterly filing requirements | Effective beginning fiscal 2024\nSMSB Category II | BCAR Cover Schedule (new) / LRR Cover Schedule (new) / LCR Cover Schedule (new) / Streamlined NCCF Cover Schedule (new) | According to quarterly filing requirements | Effective beginning fiscal 2024 Table 2 - Senior Management footnote 2\nSMSB Category III | BCAR Cover Schedule (new) / OCFS Cover Schedule (new) | According to quarterly filing requirements | Effective beginning fiscal 2024 Table 2 - Senior Management footnote 2\nTable 2 - Senior Management Attestation and Review footnotes Table 2 - Senior Management footnote 1 On an annual basis, management attestation submissions are to be accompanied with the FRFI’s summary of any unadjusted errors impacting the calculation of regulatory ratios. Return to Table 2 - Senior Management footnote 1 referrer Table 2 - Senior Management footnote 2 Category II and III SMSBs may review and attest biennially. Return to Table 2 - Senior Management footnote 2 referrer\nTable 2 - Senior Management Attestation and Review footnotes Table 2 - Senior Management footnote 1 On an annual basis, management attestation submissions are to be accompanied with the FRFI’s summary of any unadjusted errors impacting the calculation of regulatory ratios. Return to Table 2 - Senior Management footnote 1 referrer Table 2 - Senior Management footnote 2 Category II and III SMSBs may review and attest biennially. Return to Table 2 - Senior Management footnote 2 referrer\nTable 2 - Senior Management Attestation and Review footnotes\nOn an annual basis, management attestation submissions are to be accompanied with the FRFI’s summary of any unadjusted errors impacting the calculation of regulatory ratios.\nReturn to Table 2 - Senior Management footnote 1 referrer\nReturn to Table 2 - Senior Management footnote 2 referrer\nTable: Table 3 – Internal Audit\nIndustry | Regulatory Return | Filing Requirement | Frequency\nD-SIB | BCAR / LRR / LCR / NSFR / Comprehensive NCCF | Within 90 days of fiscal year-end | Effective beginning fiscal 2023 - Minimum once every three years based on DTI’s frequency of review\nSMSB Category I | BCAR / LRR / LCR / NSFR / Comprehensive NCCF | Within 90 days of fiscal year-end | Effective beginning fiscal 2023 - Minimum once every three years based on DTI’s frequency of review\nSMSB Category II | BCAR / LRR / LCR / Streamlined NCCF | Within 90 days of fiscal year-end | Effective beginning fiscal 2023 - Minimum once every three years based on DTI’s frequency of review\nSMSB Category III | BCAR / OCFS | Within 90 days of fiscal year-end | Effective beginning fiscal 2023 - Minimum once every three years based on DTI’s frequency of review",
+      "content": [
+        {
+          "type": "table",
+          "caption": "Table 1 – External Audit",
+          "rows": [
+            [
+              "Industry",
+              "Regulatory Return / Schedule",
+              "Filing Requirement",
+              "Frequency"
+            ],
+            [
+              "D-SIB",
+              "BCAR Schedule 10.010 LRR Leverage & TLAC Leverage Ratios Schedule LCR Table 1 – External Audit footnote 1 , NSFR Table 1 – External Audit footnote 2",
+              "Within 90 days of fiscal year-end",
+              "Annual at year-end reporting date beginning fiscal 2025"
+            ],
+            [
+              "SMSB Category I",
+              "BCAR Schedule 10.010 LRR Leverage & TLAC Leverage Ratios Schedule LCR Table 1 – External Audit 1 , NSFR Table 1 – External Audit footnote 2",
+              "Within 90 days of fiscal year-end",
+              "Annual at year-end reporting date beginning fiscal 2025"
+            ],
+            [
+              "SMSB Category II",
+              "BCAR Schedule 10.010 LRR Leverage & TLAC Leverage Ratios Schedule LCR Table 1 – External Audit 1",
+              "Within 90 days of fiscal year-end",
+              "Biennial at year-end reporting date beginning fiscal 2025"
+            ],
+            [
+              "SMSB Category III",
+              "BCAR Schedule 10.011",
+              "Within 90 days of fiscal year-end",
+              "Biennial at year-end reporting date beginning fiscal 2025"
+            ],
+            [
+              "Table 1 – External Audit footnotes Table 1 – External Audit footnote 1 To better capture potential currency mismatches, LCR should be evaluated in significant currencies for the purposes of OSFI’s assurance requirements. Return to Table 1 – External Audit footnote 1 referrer Table 1 – External Audit footnote 2 For SMSBs, assurance on NSFR is only required of Category I SMSBs with significant reliance on wholesale funding. Return to Table 1 – External Audit footnote 2 referrer"
+            ]
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Table 1 – External Audit footnotes Table 1 – External Audit footnote 1 To better capture potential currency mismatches, LCR should be evaluated in significant currencies for the purposes of OSFI’s assurance requirements. Return to Table 1 – External Audit footnote 1 referrer Table 1 – External Audit footnote 2 For SMSBs, assurance on NSFR is only required of Category I SMSBs with significant reliance on wholesale funding. Return to Table 1 – External Audit footnote 2 referrer"
+        },
+        {
+          "type": "paragraph",
+          "text": "Table 1 – External Audit footnotes"
+        },
+        {
+          "type": "paragraph",
+          "text": "To better capture potential currency mismatches, LCR should be evaluated in significant currencies for the purposes of OSFI’s assurance requirements."
+        },
+        {
+          "type": "paragraph",
+          "text": "Return to Table 1 – External Audit footnote 1 referrer"
+        },
+        {
+          "type": "paragraph",
+          "text": "For SMSBs, assurance on NSFR is only required of Category I SMSBs with significant reliance on wholesale funding."
+        },
+        {
+          "type": "paragraph",
+          "text": "Return to Table 1 – External Audit footnote 2 referrer"
+        },
+        {
+          "type": "table",
+          "caption": "Table 2 – Senior Management Attestation and Review Table 2 - Senior Management footnote 1",
+          "rows": [
+            [
+              "Industry",
+              "Regulatory Return / Schedule",
+              "Filing Requirement",
+              "Frequency"
+            ],
+            [
+              "D-SIB",
+              "BCAR Cover Schedule (new) / LRR Cover Schedule (new) / LCR Cover Schedule (new) / Comprehensive NCCF Cover Schedule (new) / NSFR Cover Schedule (new)",
+              "According to quarterly filing requirements",
+              "Effective beginning fiscal 2024"
+            ],
+            [
+              "SMSB Category I",
+              "BCAR Cover Schedule (new) / LRR Cover Schedule (new) / LCR Cover Schedule (new) / Comprehensive NCCF Cover Schedule (new) / NSFR Cover Schedule (new)",
+              "According to quarterly filing requirements",
+              "Effective beginning fiscal 2024"
+            ],
+            [
+              "SMSB Category II",
+              "BCAR Cover Schedule (new) / LRR Cover Schedule (new) / LCR Cover Schedule (new) / Streamlined NCCF Cover Schedule (new)",
+              "According to quarterly filing requirements",
+              "Effective beginning fiscal 2024 Table 2 - Senior Management footnote 2"
+            ],
+            [
+              "SMSB Category III",
+              "BCAR Cover Schedule (new) / OCFS Cover Schedule (new)",
+              "According to quarterly filing requirements",
+              "Effective beginning fiscal 2024 Table 2 - Senior Management footnote 2"
+            ],
+            [
+              "Table 2 - Senior Management Attestation and Review footnotes Table 2 - Senior Management footnote 1 On an annual basis, management attestation submissions are to be accompanied with the FRFI’s summary of any unadjusted errors impacting the calculation of regulatory ratios. Return to Table 2 - Senior Management footnote 1 referrer Table 2 - Senior Management footnote 2 Category II and III SMSBs may review and attest biennially. Return to Table 2 - Senior Management footnote 2 referrer"
+            ]
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Table 2 - Senior Management Attestation and Review footnotes Table 2 - Senior Management footnote 1 On an annual basis, management attestation submissions are to be accompanied with the FRFI’s summary of any unadjusted errors impacting the calculation of regulatory ratios. Return to Table 2 - Senior Management footnote 1 referrer Table 2 - Senior Management footnote 2 Category II and III SMSBs may review and attest biennially. Return to Table 2 - Senior Management footnote 2 referrer"
+        },
+        {
+          "type": "paragraph",
+          "text": "Table 2 - Senior Management Attestation and Review footnotes"
+        },
+        {
+          "type": "paragraph",
+          "text": "On an annual basis, management attestation submissions are to be accompanied with the FRFI’s summary of any unadjusted errors impacting the calculation of regulatory ratios."
+        },
+        {
+          "type": "paragraph",
+          "text": "Return to Table 2 - Senior Management footnote 1 referrer"
+        },
+        {
+          "type": "paragraph",
+          "text": "Return to Table 2 - Senior Management footnote 2 referrer"
+        },
+        {
+          "type": "table",
+          "caption": "Table 3 – Internal Audit",
+          "rows": [
+            [
+              "Industry",
+              "Regulatory Return",
+              "Filing Requirement",
+              "Frequency"
+            ],
+            [
+              "D-SIB",
+              "BCAR / LRR / LCR / NSFR / Comprehensive NCCF",
+              "Within 90 days of fiscal year-end",
+              "Effective beginning fiscal 2023 - Minimum once every three years based on DTI’s frequency of review"
+            ],
+            [
+              "SMSB Category I",
+              "BCAR / LRR / LCR / NSFR / Comprehensive NCCF",
+              "Within 90 days of fiscal year-end",
+              "Effective beginning fiscal 2023 - Minimum once every three years based on DTI’s frequency of review"
+            ],
+            [
+              "SMSB Category II",
+              "BCAR / LRR / LCR / Streamlined NCCF",
+              "Within 90 days of fiscal year-end",
+              "Effective beginning fiscal 2023 - Minimum once every three years based on DTI’s frequency of review"
+            ],
+            [
+              "SMSB Category III",
+              "BCAR / OCFS",
+              "Within 90 days of fiscal year-end",
+              "Effective beginning fiscal 2023 - Minimum once every three years based on DTI’s frequency of review"
+            ]
+          ]
+        }
+      ]
+    }
+  ],
+  "title_normalized": "assurance on capital leverage and liquidity returns guideline at a glance 2022",
+  "publication_type_normalized": "guideline_at_a_glance",
+  "category_normalized": "accounting_and_disclosure",
+  "sector_normalized": [
+    "banks",
+    "life_insurance",
+    "pc_insurance",
+    "trust_and_loan_companies"
+  ],
+  "guideline_number_normalized": "",
+  "applies_to_banks": true,
+  "applies_to_trust_loan": true,
+  "applies_to_life_insurance": true,
+  "applies_to_pc_insurance": true,
+  "applies_to_foreign_bank": false,
+  "applies_to_foreign_insurance": false,
+  "applies_to_cooperative": false,
+  "applies_to_bank_holding": false,
+  "effective_date_sort_key": "2022-11-30",
+  "status_sort_key": 1,
+  "authority_sort_key": 40,
+  "bm25_text": "Assurance on Capital, Leverage and Liquidity Returns – Guideline at a glance (2022) Guideline at a glance Accounting and Disclosure Banks Life Insurance and Fraternal Companies Property and Casualty Companies Trust and Loan Companies Summary of Assurance Expectations for Federally Regulated Insurers Summary of Assurance Expectations for Deposit-Taking Institutions",
+  "vector_text_prefix": "[OSFI Guideline at a glance  | Accounting and Disclosure | Banks / Life Insurance and Fraternal Companies / Property and Casualty Companies | FINAL_CURRENT | Effective 2022-11-30]",
+  "h1_title": "Assurance on Capital, Leverage and Liquidity Returns – Guideline at a glance (2022)",
+  "regulator": "OSFI",
+  "regulator_acronym": "OSFI",
+  "jurisdiction": "Canada",
+  "short_title": "",
+  "source_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/assurance-capital-leverage-liquidity-returns-guideline-glance-2022"
+}

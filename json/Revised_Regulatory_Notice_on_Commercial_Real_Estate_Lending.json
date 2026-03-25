@@ -1,0 +1,536 @@
+{
+  "source_system": "osfi_guidance_library",
+  "library_row_title": "Revised Regulatory Notice on Commercial Real Estate Lending",
+  "library_row_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/commercial-real-estate-risk-management",
+  "listing_date_raw": "November 21, 2024",
+  "listing_date_iso": "2024-11-21",
+  "listing_publication_type": "Regulatory notice",
+  "listing_category": "Sound Business and Financial Practices",
+  "listing_sector": [],
+  "crawl_timestamp": "2026-03-11T00:00:00Z",
+  "detail_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/commercial-real-estate-risk-management",
+  "canonical_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/commercial-real-estate-risk-management",
+  "slug": "commercial-real-estate-risk-management",
+  "title": "Revised Regulatory Notice on Commercial Real Estate Lending",
+  "publication_type": "Regulatory notice",
+  "category": "Sound Business and Financial Practices",
+  "document_date_raw": "November 21, 2024",
+  "document_date_iso": "2024-11-21",
+  "sector": [],
+  "effective_date_text": "",
+  "guideline_number": "",
+  "date_modified_raw": "2024-11-21T12:00:00Z",
+  "generate_pdf_url": null,
+  "pdf_node_id": null,
+  "direct_pdf_url": null,
+  "has_table_of_contents": true,
+  "toc_entries": [],
+  "has_related_documents": true,
+  "related_document_links_raw": [
+    {
+      "title": "Revised Regulatory Notice on Commercial Real Estate Lending - Backgrounder",
+      "url": "https://www.osfi-bsif.gc.ca/en/news/backgrounder-revised-regulatory-notice-commercial-real-estate-lending"
+    }
+  ],
+  "consultation_status_text": null,
+  "consultation_status_refers_to_version": null,
+  "page_language": "en",
+  "word_count_raw_body": 2112,
+  "doc_id": "osfi.commercial-real-estate-risk-management.regulatory",
+  "doc_family_id": "osfi.commercial-real-estate-risk-management",
+  "version_id": "",
+  "version_label": "Revised Regulatory Notice on Commercial Real Estate Lending",
+  "version_sort_key": "",
+  "parent_doc_id": null,
+  "child_doc_ids": [],
+  "is_package_page": false,
+  "is_chapter_page": false,
+  "chapter_number": null,
+  "chapter_title": null,
+  "document_order_within_family": 0,
+  "supersedes_doc_id": null,
+  "superseded_by_doc_id": null,
+  "current_version_flag": true,
+  "status": "final_current",
+  "include_in_primary_corpus": true,
+  "include_in_support_corpus": false,
+  "include_in_context_corpus": false,
+  "effective_date_start": "2024-11-21",
+  "effective_date_end": null,
+  "effective_date_fye_split": false,
+  "effective_date_oct_fye": null,
+  "effective_date_dec_fye": null,
+  "is_future_effective": false,
+  "is_rescinded": false,
+  "is_draft_or_consultation": false,
+  "rescission_date": null,
+  "consultation_closing_date": null,
+  "as_of_applicability": "2026-03-23",
+  "rule_applied": "rule_5_final_current",
+  "authority_class": "primary_normative",
+  "authority_level": 100,
+  "nova_tier": 1,
+  "prudential_weight": 1.0,
+  "is_primary_normative": true,
+  "is_supporting_interpretive": false,
+  "is_context_only": false,
+  "document_class": "regulatory_notice",
+  "guidance_type_normalized": "regulatory_notice",
+  "section_headings": [
+    {
+      "level": 2,
+      "text": "1. Background",
+      "id": "h2-0"
+    },
+    {
+      "level": 2,
+      "text": "2. Purpose and scope",
+      "id": "h2-1"
+    },
+    {
+      "level": 2,
+      "text": "3. Definition",
+      "id": "h2-2"
+    },
+    {
+      "level": 2,
+      "text": "4. Governance and risk management",
+      "id": "h2-3"
+    },
+    {
+      "level": 3,
+      "text": "5.1. Detailed underwriting criteria and exception processes",
+      "id": "h3-4"
+    },
+    {
+      "level": 3,
+      "text": "5.2 Debt service capacity (DSC) assessments",
+      "id": "h3-5"
+    },
+    {
+      "level": 3,
+      "text": "5.3 Borrower collateral valuations",
+      "id": "h3-6"
+    },
+    {
+      "level": 3,
+      "text": "5.4 Sponsor and guarantor assessments",
+      "id": "h3-7"
+    },
+    {
+      "level": 3,
+      "text": "5.5 Multi- and co-lender arrangements",
+      "id": "h3-8"
+    },
+    {
+      "level": 3,
+      "text": "5.6 Borrower sensitivity analysis",
+      "id": "h3-9"
+    },
+    {
+      "level": 3,
+      "text": "5.7 Prudent account management",
+      "id": "h3-10"
+    },
+    {
+      "level": 3,
+      "text": "6.1 Effective portfolio and risk reporting systems",
+      "id": "h3-11"
+    },
+    {
+      "level": 3,
+      "text": "6.2 Diversification policy and concentration limits",
+      "id": "h3-12"
+    },
+    {
+      "level": 3,
+      "text": "6.3 Market monitoring and analysis",
+      "id": "h3-13"
+    },
+    {
+      "level": 3,
+      "text": "6.4 Portfolio stress testing",
+      "id": "h3-14"
+    },
+    {
+      "level": 3,
+      "text": "6.5 Funding and liquidity",
+      "id": "h3-15"
+    },
+    {
+      "level": 3,
+      "text": "6.6 Adequacy of credit loss provisioning",
+      "id": "h3-16"
+    },
+    {
+      "level": 2,
+      "text": "7. Forbearance",
+      "id": "h2-17"
+    },
+    {
+      "level": 3,
+      "text": "7.1 Prudent application of forbearance",
+      "id": "h3-18"
+    },
+    {
+      "level": 3,
+      "text": "7.2 Forbearance policies and risk appetite",
+      "id": "h3-19"
+    },
+    {
+      "level": 3,
+      "text": "7.3 Interaction of forbearance with provisioning and capital",
+      "id": "h3-20"
+    }
+  ],
+  "heading_path": [
+    "Revised Regulatory Notice on Commercial Real Estate Lending"
+  ],
+  "toc_depth": 3,
+  "has_appendices": false,
+  "appendix_ids": [],
+  "has_tables": false,
+  "table_count": 0,
+  "has_footnotes": false,
+  "footnote_count": 0,
+  "inline_cross_references": [],
+  "quoted_external_references": [],
+  "raw_html_sha256": "43d818322d0bc2a198f5a1285e94803ad6545a44c1a6bf38c8e56407de065179",
+  "raw_pdf_sha256": null,
+  "normalized_text_sha256": null,
+  "raw_html_path": "bronze/osfi/html/final_current/commercial-real-estate-risk-management.html",
+  "normalized_md_path": "silver/osfi/md/final_current/commercial-real-estate-risk-management.md",
+  "canonical_json_path": "silver/osfi/json/final_current/commercial-real-estate-risk-management.json",
+  "content_source": "HTML",
+  "parser_version": "osfi-parser-v2.1.0",
+  "normalizer_version": "osfi-normalizer-v1.4.0",
+  "quality_score": 1.0,
+  "quality_flags": [],
+  "download_timestamp": "2026-03-11T00:00:00Z",
+  "enriched_timestamp": "2026-03-23T09:53:59.480421Z",
+  "sections": [
+    {
+      "heading": "",
+      "heading_level": 2,
+      "full_text": "  - Revised Regulatory Notice on Commercial Real Estate Lending - Backgrounder",
+      "content": [
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Revised Regulatory Notice on Commercial Real Estate Lending - Backgrounder"
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "1. Background",
+      "heading_level": 2,
+      "full_text": "Commercial real estate (CRE) is highly cyclical with the potential for significant losses, especially when risks are not effectively managed. In the current rapidly evolving risk environment, inflation and elevated interest rates have increased the potential for a rise in the number of borrower defaults. As discussed in OSFI’s 2024-25 Annual Risk Outlook , we are conducting enhanced monitoring of CRE lending at federally regulated financial institutions (institutions), and this Regulatory Notice is intended to both respond to and provide support for this ongoing supervisory work.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Commercial real estate (CRE) is highly cyclical with the potential for significant losses, especially when risks are not effectively managed. In the current rapidly evolving risk environment, inflation and elevated interest rates have increased the potential for a rise in the number of borrower defaults. As discussed in OSFI’s 2024-25 Annual Risk Outlook , we are conducting enhanced monitoring of CRE lending at federally regulated financial institutions (institutions), and this Regulatory Notice is intended to both respond to and provide support for this ongoing supervisory work."
+        }
+      ]
+    },
+    {
+      "heading": "2. Purpose and scope",
+      "heading_level": 2,
+      "full_text": "This revised Regulatory Notice applies to all institutions active in CRE lending in Canada. It is interim regulatory guidance that responds to the heightened risk environment by reinforcing and clarifying expectations regarding sound risk management of CRE lending, including governance, underwriting, account management, and portfolio management. This interim guidance highlights key areas of focus for OSFI that have been identified through ongoing supervisory work and does not provide an exhaustive list of our expectations.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "This revised Regulatory Notice applies to all institutions active in CRE lending in Canada. It is interim regulatory guidance that responds to the heightened risk environment by reinforcing and clarifying expectations regarding sound risk management of CRE lending, including governance, underwriting, account management, and portfolio management. This interim guidance highlights key areas of focus for OSFI that have been identified through ongoing supervisory work and does not provide an exhaustive list of our expectations."
+        }
+      ]
+    },
+    {
+      "heading": "3. Definition",
+      "heading_level": 2,
+      "full_text": "For the purposes of interpreting this Notice, CRE lending encompasses a broad asset class including but not limited to loans secured by income-producing real estate used for business purposes (e.g., shopping malls, office buildings), loans provided for the acquisition, development and construction of such real estate, loans for residential real estate with 5 or more units where repayment depends on sale or rental income (e.g., apartment buildings), real estate held for lease to third parties, and non-residential real estate occupied by its owner or a related party.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "For the purposes of interpreting this Notice, CRE lending encompasses a broad asset class including but not limited to loans secured by income-producing real estate used for business purposes (e.g., shopping malls, office buildings), loans provided for the acquisition, development and construction of such real estate, loans for residential real estate with 5 or more units where repayment depends on sale or rental income (e.g., apartment buildings), real estate held for lease to third parties, and non-residential real estate occupied by its owner or a related party."
+        }
+      ]
+    },
+    {
+      "heading": "4. Governance and risk management",
+      "heading_level": 2,
+      "full_text": "The risk appetite framework should establish limits regarding the level and type of risk an institution is willing to accept to achieve its business objectives with respect to CRE. It should be forward-looking and consider both normal and stressed scenarios. The risk appetite framework should form the basis of the institution’s policies and procedures for CRE lending and portfolio management.\nPlease refer to OSFI’s Corporate Governance Guideline for expectations of boards of directors regarding the business plan, strategy, risk appetite, culture, and the oversight of senior management and internal controls.\nSenior management is responsible for developing, implementing, and sustaining the institution’s policies and procedures for CRE. These policies and procedures should reflect the size, scope, nature, and complexity of the institution’s CRE portfolio and lending activity, and they should address the key principles of effective risk management, which are covered in more detail below (e.g., underwriting criteria, loan documentation, account management processes, economic monitoring, stress testing and sensitivity analysis, and data management and reporting systems).\nCRE lending policies and procedures should be aligned with the institution’s enterprise-wide strategy and, in turn, linked to the enterprise risk management program. The institution should be able to identify, measure, monitor, and manage the risks connected to its CRE lending activity and its portfolio of CRE loan assets. On an ongoing basis, the institution should review its CRE lending policies and procedures to ensure they remain appropriate relative to its risk profile, long-term strategic plan, and the evolution of the risk environment.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "The risk appetite framework should establish limits regarding the level and type of risk an institution is willing to accept to achieve its business objectives with respect to CRE. It should be forward-looking and consider both normal and stressed scenarios. The risk appetite framework should form the basis of the institution’s policies and procedures for CRE lending and portfolio management."
+        },
+        {
+          "type": "paragraph",
+          "text": "Please refer to OSFI’s Corporate Governance Guideline for expectations of boards of directors regarding the business plan, strategy, risk appetite, culture, and the oversight of senior management and internal controls."
+        },
+        {
+          "type": "paragraph",
+          "text": "Senior management is responsible for developing, implementing, and sustaining the institution’s policies and procedures for CRE. These policies and procedures should reflect the size, scope, nature, and complexity of the institution’s CRE portfolio and lending activity, and they should address the key principles of effective risk management, which are covered in more detail below (e.g., underwriting criteria, loan documentation, account management processes, economic monitoring, stress testing and sensitivity analysis, and data management and reporting systems)."
+        },
+        {
+          "type": "paragraph",
+          "text": "CRE lending policies and procedures should be aligned with the institution’s enterprise-wide strategy and, in turn, linked to the enterprise risk management program. The institution should be able to identify, measure, monitor, and manage the risks connected to its CRE lending activity and its portfolio of CRE loan assets. On an ongoing basis, the institution should review its CRE lending policies and procedures to ensure they remain appropriate relative to its risk profile, long-term strategic plan, and the evolution of the risk environment."
+        }
+      ]
+    },
+    {
+      "heading": "5.1. Detailed underwriting criteria and exception processes",
+      "heading_level": 3,
+      "full_text": "Institutions should have documented and detailed underwriting criteria with clear, prudent, and measurable limits for the approval of individual CRE loans, based on the type of loan or property, including the maximum loan amount, term length, amortization schedules, and loan-to-value (LTV) ratios. These limits should be accompanied by processes for identifying, escalating, approving and reporting exceptions.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Institutions should have documented and detailed underwriting criteria with clear, prudent, and measurable limits for the approval of individual CRE loans, based on the type of loan or property, including the maximum loan amount, term length, amortization schedules, and loan-to-value (LTV) ratios. These limits should be accompanied by processes for identifying, escalating, approving and reporting exceptions."
+        }
+      ]
+    },
+    {
+      "heading": "5.2 Debt service capacity (DSC) assessments",
+      "heading_level": 3,
+      "full_text": "OSFI expects institutions to have processes to rigorously assess the borrower’s ability and demonstrated willingness to service debt obligations, including the evaluation of the borrower’s net operating income (NOI), global financial condition (e.g., material long-term expenses, debt obligations to other lenders), equity at risk (e.g., unencumbered investment in the underlying collateral) and track record operating similar properties or completing similar projects.\nThese assessments should reflect both the current and future capacity of the borrower to service debt obligations. Forward-looking assessments should consider significant year-to-year variations of NOI. Any adjustments made to future earnings (e.g., “add backs”) should be carefully evaluated using the institution’s documented underwriting criteria.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "OSFI expects institutions to have processes to rigorously assess the borrower’s ability and demonstrated willingness to service debt obligations, including the evaluation of the borrower’s net operating income (NOI), global financial condition (e.g., material long-term expenses, debt obligations to other lenders), equity at risk (e.g., unencumbered investment in the underlying collateral) and track record operating similar properties or completing similar projects."
+        },
+        {
+          "type": "paragraph",
+          "text": "These assessments should reflect both the current and future capacity of the borrower to service debt obligations. Forward-looking assessments should consider significant year-to-year variations of NOI. Any adjustments made to future earnings (e.g., “add backs”) should be carefully evaluated using the institution’s documented underwriting criteria."
+        }
+      ]
+    },
+    {
+      "heading": "5.3 Borrower collateral valuations",
+      "heading_level": 3,
+      "full_text": "Rigorous initial and ongoing valuation risk assessments of the underlying collateral are crucial for prudent CRE lending. Ongoing reviews should ensure that institutions critically assess the borrower’s current circumstances (e.g., capitalization rates, lease rates, tenancy, revenue and expenses), the status of projects (e.g., land development, building construction), and prevailing economic conditions (e.g., rates of employment, consumer spending, demographics and household formation). Collateral provides a source of recourse in the event the borrower and guarantor are unable to meet their obligations. As a result, where current information implies a meaningful decline in property valuation, adjustments to the collateral value and LTV ratio should be made as part of the ongoing credit risk assessment.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Rigorous initial and ongoing valuation risk assessments of the underlying collateral are crucial for prudent CRE lending. Ongoing reviews should ensure that institutions critically assess the borrower’s current circumstances (e.g., capitalization rates, lease rates, tenancy, revenue and expenses), the status of projects (e.g., land development, building construction), and prevailing economic conditions (e.g., rates of employment, consumer spending, demographics and household formation). Collateral provides a source of recourse in the event the borrower and guarantor are unable to meet their obligations. As a result, where current information implies a meaningful decline in property valuation, adjustments to the collateral value and LTV ratio should be made as part of the ongoing credit risk assessment."
+        }
+      ]
+    },
+    {
+      "heading": "5.4 Sponsor and guarantor assessments",
+      "heading_level": 3,
+      "full_text": "Institutions should have an established process to review a loan sponsor or guarantor’s financial strength and level of commitment, including the assessment of liquidity, net worth, contingent liabilities and support for other projects. It is also important to evaluate the demonstrated willingness of the guarantor to provide support based on an evaluation of their track record supporting other loans. In general, the thoroughness of the assessment should be commensurate with the level of reliance placed on the guarantor.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Institutions should have an established process to review a loan sponsor or guarantor’s financial strength and level of commitment, including the assessment of liquidity, net worth, contingent liabilities and support for other projects. It is also important to evaluate the demonstrated willingness of the guarantor to provide support based on an evaluation of their track record supporting other loans. In general, the thoroughness of the assessment should be commensurate with the level of reliance placed on the guarantor."
+        }
+      ]
+    },
+    {
+      "heading": "5.5 Multi- and co-lender arrangements",
+      "heading_level": 3,
+      "full_text": "Multi-lender and other co-lending arrangements for CRE loans (e.g., participation agreements) can present additional risk based on legal, operational, and structural complexities (e.g., non-standardized contracts, layering of subordinated debt arrangements). OSFI expects the institution to undertake its own due diligence and to have sound underwriting criteria, policy limits, risk management expertise, monitoring, and processes for evaluating and managing the risks associated with such arrangements, including hidden leverage.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Multi-lender and other co-lending arrangements for CRE loans (e.g., participation agreements) can present additional risk based on legal, operational, and structural complexities (e.g., non-standardized contracts, layering of subordinated debt arrangements). OSFI expects the institution to undertake its own due diligence and to have sound underwriting criteria, policy limits, risk management expertise, monitoring, and processes for evaluating and managing the risks associated with such arrangements, including hidden leverage."
+        }
+      ]
+    },
+    {
+      "heading": "5.6 Borrower sensitivity analysis",
+      "heading_level": 3,
+      "full_text": "Through the annual borrower review process, or more frequently if warranted, institutions should conduct sensitivity analysis on individual accounts to assess how cyclical economic trends and severe but plausible stress events may impact loan performance and borrower risk. In general, the thoroughness of sensitivity analysis should be commensurate with the institution’s exposure and the vulnerability of borrowers to market conditions.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Through the annual borrower review process, or more frequently if warranted, institutions should conduct sensitivity analysis on individual accounts to assess how cyclical economic trends and severe but plausible stress events may impact loan performance and borrower risk. In general, the thoroughness of sensitivity analysis should be commensurate with the institution’s exposure and the vulnerability of borrowers to market conditions."
+        }
+      ]
+    },
+    {
+      "heading": "5.7 Prudent account management",
+      "heading_level": 3,
+      "full_text": "Documentation should be kept current through an annual borrower review process, or more frequently if warranted. OSFI expects institutions to have processes for obtaining the documentation necessary to verify their assessment of the borrower’s financial condition, willingness to pay, guarantor’s strength, and collateral value. Institutions should regularly obtain relevant, current and up-to-date documentation about the financial condition of borrowers (e.g., NOI, tenancy, rent rolls, sustainability of cash flow); the liquidity, contingent liabilities and net worth of guarantors; the status of projects; multi-lender arrangements; and the value of underlying collateral.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Documentation should be kept current through an annual borrower review process, or more frequently if warranted. OSFI expects institutions to have processes for obtaining the documentation necessary to verify their assessment of the borrower’s financial condition, willingness to pay, guarantor’s strength, and collateral value. Institutions should regularly obtain relevant, current and up-to-date documentation about the financial condition of borrowers (e.g., NOI, tenancy, rent rolls, sustainability of cash flow); the liquidity, contingent liabilities and net worth of guarantors; the status of projects; multi-lender arrangements; and the value of underlying collateral."
+        }
+      ]
+    },
+    {
+      "heading": "6.1 Effective portfolio and risk reporting systems",
+      "heading_level": 3,
+      "full_text": "OSFI expects institutions to have portfolio data and risk reporting systems that are sufficient to identify, measure, monitor, report, and manage CRE risk. This includes reliable, accurate, and meaningful information on CRE loan portfolio characteristics and credit metrics relevant to the institution’s lending strategy, underwriting standards, and risk tolerances.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "OSFI expects institutions to have portfolio data and risk reporting systems that are sufficient to identify, measure, monitor, report, and manage CRE risk. This includes reliable, accurate, and meaningful information on CRE loan portfolio characteristics and credit metrics relevant to the institution’s lending strategy, underwriting standards, and risk tolerances."
+        }
+      ]
+    },
+    {
+      "heading": "6.2 Diversification policy and concentration limits",
+      "heading_level": 3,
+      "full_text": "Institutions with concentrations of CRE loans can suffer considerable distress during challenging market conditions. As such, CRE loan diversification policies are critical for effective portfolio management. It should include concentration limits across CRE loan assets that share similar characteristics or sensitivities to economic trends, such as the class of property, type of loan, risk rating, segment and sub-segment, and geographic location. OSFI expects the institution to identify correlated risk exposures and to mitigate the potential impact by proactively managing levels of concentration within policy limits.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Institutions with concentrations of CRE loans can suffer considerable distress during challenging market conditions. As such, CRE loan diversification policies are critical for effective portfolio management. It should include concentration limits across CRE loan assets that share similar characteristics or sensitivities to economic trends, such as the class of property, type of loan, risk rating, segment and sub-segment, and geographic location. OSFI expects the institution to identify correlated risk exposures and to mitigate the potential impact by proactively managing levels of concentration within policy limits."
+        }
+      ]
+    },
+    {
+      "heading": "6.3 Market monitoring and analysis",
+      "heading_level": 3,
+      "full_text": "OSFI expects CRE segments, geographies, and markets to be monitored with sufficient granularity to permit identifying areas of concern. Monitoring market developments is a critical element of portfolio management. This monitoring should also inform portfolio stress testing and sensitivity analysis. The level of monitoring should be appropriate to the institution’s exposure to loan product type, property type or geographic area. Monitoring intensity should be dynamic relative to macroeconomic trends and local market conditions (e.g., heightened monitoring of the office segment in certain geographies may be warranted in the current risk environment).",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "OSFI expects CRE segments, geographies, and markets to be monitored with sufficient granularity to permit identifying areas of concern. Monitoring market developments is a critical element of portfolio management. This monitoring should also inform portfolio stress testing and sensitivity analysis. The level of monitoring should be appropriate to the institution’s exposure to loan product type, property type or geographic area. Monitoring intensity should be dynamic relative to macroeconomic trends and local market conditions (e.g., heightened monitoring of the office segment in certain geographies may be warranted in the current risk environment)."
+        }
+      ]
+    },
+    {
+      "heading": "6.4 Portfolio stress testing",
+      "heading_level": 3,
+      "full_text": "Stress testing is important for understanding how market conditions may impact CRE loans, particularly sub-segments of elevated risk or portfolio concentrations. OSFI expects institutions to have stress testing frameworks that are robust and fit for purpose, given the evolving risk environment. This includes having robust mechanisms for ensuring high-quality data inputs, appropriate postures of conservatism, and early identification of risks.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Stress testing is important for understanding how market conditions may impact CRE loans, particularly sub-segments of elevated risk or portfolio concentrations. OSFI expects institutions to have stress testing frameworks that are robust and fit for purpose, given the evolving risk environment. This includes having robust mechanisms for ensuring high-quality data inputs, appropriate postures of conservatism, and early identification of risks."
+        }
+      ]
+    },
+    {
+      "heading": "6.5 Funding and liquidity",
+      "heading_level": 3,
+      "full_text": "Institutions should comprehensively analyze funding and liquidity risks with respect to CRE lending, including the potential for secondary effects. Considerations should reflect the current risk environment and potential stresses on the institution’s portfolio of CRE loan assets (e.g., loan maturity risk, drawbacks on credit facilities, and securitization implications).",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Institutions should comprehensively analyze funding and liquidity risks with respect to CRE lending, including the potential for secondary effects. Considerations should reflect the current risk environment and potential stresses on the institution’s portfolio of CRE loan assets (e.g., loan maturity risk, drawbacks on credit facilities, and securitization implications)."
+        }
+      ]
+    },
+    {
+      "heading": "6.6 Adequacy of credit loss provisioning",
+      "heading_level": 3,
+      "full_text": "OSFI expects institutions to provision with rigour, including timely recognition and adequate provisioning against CRE loan losses. This should also include a detailed assessment of the evidence for a significant increase in credit risk (SICR) if warranted by the risk environment. In assessing SICR under the IFRS 9 Standard and OSFI’s IFRS 9 Guideline, the institution should use reasonable and supportable forward-looking information available without undue cost, such as interest rate forecasts and vacancy expectations.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "OSFI expects institutions to provision with rigour, including timely recognition and adequate provisioning against CRE loan losses. This should also include a detailed assessment of the evidence for a significant increase in credit risk (SICR) if warranted by the risk environment. In assessing SICR under the IFRS 9 Standard and OSFI’s IFRS 9 Guideline, the institution should use reasonable and supportable forward-looking information available without undue cost, such as interest rate forecasts and vacancy expectations."
+        }
+      ]
+    },
+    {
+      "heading": "7. Forbearance",
+      "heading_level": 2,
+      "full_text": "Forbearance refers to concessions granted to a borrower for reasons of temporary financial difficulty that would not otherwise be considered by the lender on market terms, including:\n  - reducing the interest rate or payment amount;\n  - permitting interest-only payments over a defined period or conversion of an amortizing loan to interest only;\n  - lengthening of loan maturity or amortization period; and\n  - full or partial payment deferral, including capitalization of interest and arrears in products not typically capitalized.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Forbearance refers to concessions granted to a borrower for reasons of temporary financial difficulty that would not otherwise be considered by the lender on market terms, including:"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "reducing the interest rate or payment amount;",
+            "permitting interest-only payments over a defined period or conversion of an amortizing loan to interest only;",
+            "lengthening of loan maturity or amortization period; and",
+            "full or partial payment deferral, including capitalization of interest and arrears in products not typically capitalized."
+          ]
+        }
+      ]
+    },
+    {
+      "heading": "7.1 Prudent application of forbearance",
+      "heading_level": 3,
+      "full_text": "OSFI recognizes the importance of institutions working constructively with CRE borrowers experiencing financial difficulty. The prudent application of forbearance can allow CRE borrowers to continue to make loan payments during temporary difficulties. When considering forbearance measures, institutions should refresh the risk rating of the borrower and assess their financial situation and likelihood to repay the loan within a reasonable period. Before granting concessions, institutions should consider key financial information to determine whether the borrower’s financial difficulty is temporary or permanent, including debt serviceability ratios and current loan-to-value.\nThe unsound application of forbearance can increase credit risk and the potential for losses. It may also impact the institution’s risk profile. When institutions grant concessions without adequately assessing the financial circumstances of individual borrowers, it can mask deteriorating financial positions. Institutions should avoid using forbearance to delay taking actions that would recognize and mitigate credit risk, such as appropriately classifying problem loans, increasing provisions or pursuing workout arrangements and foreclosure.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "OSFI recognizes the importance of institutions working constructively with CRE borrowers experiencing financial difficulty. The prudent application of forbearance can allow CRE borrowers to continue to make loan payments during temporary difficulties. When considering forbearance measures, institutions should refresh the risk rating of the borrower and assess their financial situation and likelihood to repay the loan within a reasonable period. Before granting concessions, institutions should consider key financial information to determine whether the borrower’s financial difficulty is temporary or permanent, including debt serviceability ratios and current loan-to-value."
+        },
+        {
+          "type": "paragraph",
+          "text": "The unsound application of forbearance can increase credit risk and the potential for losses. It may also impact the institution’s risk profile. When institutions grant concessions without adequately assessing the financial circumstances of individual borrowers, it can mask deteriorating financial positions. Institutions should avoid using forbearance to delay taking actions that would recognize and mitigate credit risk, such as appropriately classifying problem loans, increasing provisions or pursuing workout arrangements and foreclosure."
+        }
+      ]
+    },
+    {
+      "heading": "7.2 Forbearance policies and risk appetite",
+      "heading_level": 3,
+      "full_text": "Senior management should establish policies and practices that promote the sound application of forbearance. This includes clear and prudent limits to ensure concessions remain aligned with the institution’s risk appetite and its enterprise-wide risk management program. An institution’s forbearance policies and practices should include at minimum:\n  - definition of forbearance;\n  - description of forbearance measures available and related qualifying criteria;\n  - assessment criteria for granting concessions, including updated collateral valuation, interest-rate sensitivity analysis, review of capital expenditures and construction costs (as applicable);\n  - process for granting forbearance, including approval authorities;\n  - risk appetite limits, early warning indicators, and documented thresholds that are regularly reviewed, monitored and reported; and\n  - appropriate links to the institution’s accounting policies.\nInstitutions should monitor and report on forbearance activities to ensure they remain within the board-approved risk appetite framework. Robust monitoring, ensuring availability of critical credit quality data elements, and reporting should also facilitate timely action to address problem loans and the deployment of risk mitigation actions.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Senior management should establish policies and practices that promote the sound application of forbearance. This includes clear and prudent limits to ensure concessions remain aligned with the institution’s risk appetite and its enterprise-wide risk management program. An institution’s forbearance policies and practices should include at minimum:"
+        },
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "definition of forbearance;",
+            "description of forbearance measures available and related qualifying criteria;",
+            "assessment criteria for granting concessions, including updated collateral valuation, interest-rate sensitivity analysis, review of capital expenditures and construction costs (as applicable);",
+            "process for granting forbearance, including approval authorities;",
+            "risk appetite limits, early warning indicators, and documented thresholds that are regularly reviewed, monitored and reported; and",
+            "appropriate links to the institution’s accounting policies."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Institutions should monitor and report on forbearance activities to ensure they remain within the board-approved risk appetite framework. Robust monitoring, ensuring availability of critical credit quality data elements, and reporting should also facilitate timely action to address problem loans and the deployment of risk mitigation actions."
+        }
+      ]
+    },
+    {
+      "heading": "7.3 Interaction of forbearance with provisioning and capital",
+      "heading_level": 3,
+      "full_text": "Institutions should develop clear accounting policies and internal controls to identify, recognize and measure the financial impact of forbearance, including the identification of SICR. Granting concessions should not result in an immediate decrease in credit risk. Typically, the borrower must demonstrate consistently satisfactory payment performance over a reasonable period before the credit risk is considered to have decreased.\nCollateral valuation is a crucial driver and key component for calculating loss given default (LGD) and provisions. When considering forbearance, adjustments to valuations should be made as part of the credit risk assessment where current information indicates a meaningful decline in the property’s value. IFRS 9 requires expected credit losses to be measured in a way that reflects an unbiased and probability weighted amount by evaluating a range of outcomes, incorporating all reasonable and supportable information. For secured lending exposures, LGD estimates should consider, at a minimum, the forecasts of future collateral valuations and the time to realization of collateral.\nInstitutions should evaluate forborne exposures to ensure appropriate capital treatment, including whether concessions meet the definition of defaulted exposure under OSFI’s Capital Adequacy Requirements Under both the standardized and internal ratings-based approaches, it is considered a default event for capital purposes if granting concessions is likely to result in a diminished financial obligation or if it is determined the borrower is unlikely to pay their credit obligations in full without recourse to realizing security.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Institutions should develop clear accounting policies and internal controls to identify, recognize and measure the financial impact of forbearance, including the identification of SICR. Granting concessions should not result in an immediate decrease in credit risk. Typically, the borrower must demonstrate consistently satisfactory payment performance over a reasonable period before the credit risk is considered to have decreased."
+        },
+        {
+          "type": "paragraph",
+          "text": "Collateral valuation is a crucial driver and key component for calculating loss given default (LGD) and provisions. When considering forbearance, adjustments to valuations should be made as part of the credit risk assessment where current information indicates a meaningful decline in the property’s value. IFRS 9 requires expected credit losses to be measured in a way that reflects an unbiased and probability weighted amount by evaluating a range of outcomes, incorporating all reasonable and supportable information. For secured lending exposures, LGD estimates should consider, at a minimum, the forecasts of future collateral valuations and the time to realization of collateral."
+        },
+        {
+          "type": "paragraph",
+          "text": "Institutions should evaluate forborne exposures to ensure appropriate capital treatment, including whether concessions meet the definition of defaulted exposure under OSFI’s Capital Adequacy Requirements Under both the standardized and internal ratings-based approaches, it is considered a default event for capital purposes if granting concessions is likely to result in a diminished financial obligation or if it is determined the borrower is unlikely to pay their credit obligations in full without recourse to realizing security."
+        }
+      ]
+    }
+  ],
+  "title_normalized": "revised regulatory notice on commercial real estate lending",
+  "publication_type_normalized": "regulatory_notice",
+  "category_normalized": "sound_business_and_financial_practices",
+  "sector_normalized": [],
+  "guideline_number_normalized": "",
+  "applies_to_banks": false,
+  "applies_to_trust_loan": false,
+  "applies_to_life_insurance": false,
+  "applies_to_pc_insurance": false,
+  "applies_to_foreign_bank": false,
+  "applies_to_foreign_insurance": false,
+  "applies_to_cooperative": false,
+  "applies_to_bank_holding": false,
+  "effective_date_sort_key": "2024-11-21",
+  "status_sort_key": 1,
+  "authority_sort_key": 100,
+  "bm25_text": "Revised Regulatory Notice on Commercial Real Estate Lending Regulatory notice Sound Business and Financial Practices 1. Background 2. Purpose and scope 3. Definition 4. Governance and risk management 5.1. Detailed underwriting criteria and exception processes 5.2 Debt service capacity (DSC) assessments 5.3 Borrower collateral valuations 5.4 Sponsor and guarantor assessments 5.5 Multi- and co-lender arrangements 5.6 Borrower sensitivity analysis 5.7 Prudent account management 6.1 Effective portfolio and risk reporting systems 6.2 Diversification policy and concentration limits 6.3 Market monitoring and analysis 6.4 Portfolio stress testing 6.5 Funding and liquidity 6.6 Adequacy of credit loss provisioning 7. Forbearance 7.1 Prudent application of forbearance 7.2 Forbearance policies and risk appetite 7.3 Interaction of forbearance with provisioning and capital",
+  "vector_text_prefix": "[OSFI Regulatory notice  | Sound Business and Financial Practices |  | FINAL_CURRENT | Effective 2024-11-21]",
+  "h1_title": "Revised Regulatory Notice on Commercial Real Estate Lending",
+  "regulator": "OSFI",
+  "regulator_acronym": "OSFI",
+  "jurisdiction": "Canada",
+  "short_title": "",
+  "source_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/commercial-real-estate-risk-management"
+}

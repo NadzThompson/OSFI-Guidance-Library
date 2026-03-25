@@ -1,0 +1,176 @@
+{
+  "source_system": "osfi_guidance_library",
+  "library_row_title": "Regulatory Notice on Adjustments to the Life Insurance Capital Adequacy Test Guideline (2025) – Letter",
+  "library_row_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/regulatory-notice-adjustments-life-insurance-capital-adequacy-test-guideline-2025-letter",
+  "listing_date_raw": "May 22, 2025",
+  "listing_date_iso": "2025-05-22",
+  "listing_publication_type": "Letter",
+  "listing_category": "Capital Adequacy Requirements",
+  "listing_sector": [
+    "Foreign Insurance Branches",
+    "Life Insurance and Fraternal Companies"
+  ],
+  "crawl_timestamp": "2026-03-11T00:00:00Z",
+  "detail_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/regulatory-notice-adjustments-life-insurance-capital-adequacy-test-guideline-2025-letter",
+  "canonical_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/regulatory-notice-adjustments-life-insurance-capital-adequacy-test-guideline-2025-letter",
+  "slug": "regulatory-notice-adjustments-life-insurance-capital-adequacy-test-guideline-2025-letter",
+  "title": "Regulatory Notice on Adjustments to the Life Insurance Capital Adequacy Test Guideline (2025) – Letter",
+  "publication_type": "Letter",
+  "category": "Capital Adequacy Requirements",
+  "document_date_raw": "May 22, 2025",
+  "document_date_iso": "2025-05-22",
+  "sector": [
+    "Foreign Insurance Branches",
+    "Life Insurance and Fraternal Companies"
+  ],
+  "effective_date_text": "",
+  "guideline_number": "",
+  "date_modified_raw": "2025-05-22T12:00:00Z",
+  "generate_pdf_url": null,
+  "pdf_node_id": null,
+  "direct_pdf_url": null,
+  "has_table_of_contents": true,
+  "toc_entries": [],
+  "has_related_documents": true,
+  "related_document_links_raw": [
+    {
+      "title": "Regulatory Notice on Adjustments to the Life Insurance Capital Adequacy Test Gui",
+      "url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/regulatory-notice-adjustments-life-insurance-capital-adequacy-test-guideline-2025"
+    }
+  ],
+  "consultation_status_text": null,
+  "consultation_status_refers_to_version": null,
+  "page_language": "en",
+  "word_count_raw_body": 117,
+  "doc_id": "osfi.licat.2025.transmittal",
+  "doc_family_id": "osfi.licat",
+  "version_id": "2025",
+  "version_label": "Regulatory Notice on Adjustments to the Life Insurance Capit",
+  "version_sort_key": "2025-05",
+  "parent_doc_id": null,
+  "child_doc_ids": [],
+  "is_package_page": false,
+  "is_chapter_page": false,
+  "chapter_number": null,
+  "chapter_title": null,
+  "document_order_within_family": 0,
+  "supersedes_doc_id": null,
+  "superseded_by_doc_id": null,
+  "current_version_flag": true,
+  "status": "final_current",
+  "include_in_primary_corpus": false,
+  "include_in_support_corpus": true,
+  "include_in_context_corpus": false,
+  "effective_date_start": "2025-05-22",
+  "effective_date_end": null,
+  "effective_date_fye_split": false,
+  "effective_date_oct_fye": null,
+  "effective_date_dec_fye": null,
+  "is_future_effective": false,
+  "is_rescinded": false,
+  "is_draft_or_consultation": false,
+  "rescission_date": null,
+  "consultation_closing_date": null,
+  "as_of_applicability": "2026-03-23",
+  "rule_applied": "rule_5_final_current",
+  "authority_class": "official_support",
+  "authority_level": 60,
+  "nova_tier": 2,
+  "prudential_weight": 0.7,
+  "is_primary_normative": false,
+  "is_supporting_interpretive": true,
+  "is_context_only": false,
+  "document_class": "transmittal_letter",
+  "guidance_type_normalized": "letter",
+  "section_headings": [],
+  "heading_path": [
+    "Regulatory Notice on Adjustments to the Life Insurance Capital Adequacy Test Guideline (2025) – Letter"
+  ],
+  "toc_depth": 0,
+  "has_appendices": false,
+  "appendix_ids": [],
+  "has_tables": false,
+  "table_count": 0,
+  "has_footnotes": false,
+  "footnote_count": 0,
+  "inline_cross_references": [],
+  "quoted_external_references": [],
+  "raw_html_sha256": "72a0b9f3216022ca3a0dd326e86f3322326d1845ca9ffa5a5d06bce4eb2f2528",
+  "raw_pdf_sha256": null,
+  "normalized_text_sha256": null,
+  "raw_html_path": "bronze/osfi/html/final_current/regulatory-notice-adjustments-life-insurance-capital-adequacy-test-guideline-2025-letter.html",
+  "normalized_md_path": "silver/osfi/md/final_current/regulatory-notice-adjustments-life-insurance-capital-adequacy-test-guideline-2025-letter.md",
+  "canonical_json_path": "silver/osfi/json/final_current/regulatory-notice-adjustments-life-insurance-capital-adequacy-test-guideline-2025-letter.json",
+  "content_source": "HTML",
+  "parser_version": "osfi-parser-v2.1.0",
+  "normalizer_version": "osfi-normalizer-v1.4.0",
+  "quality_score": 0.5,
+  "quality_flags": [
+    "thin_body_text"
+  ],
+  "download_timestamp": "2026-03-11T00:00:00Z",
+  "enriched_timestamp": "2026-03-23T09:53:58.891815Z",
+  "sections": [
+    {
+      "heading": "",
+      "heading_level": 2,
+      "full_text": "  - Regulatory Notice on Adjustments to the Life Insurance Capital Adequacy Test Guideline (2025)\nToday, we are publishing a regulatory notice that outlines adjustments to the 2025 Life Insurance Capital Adequacy Test (LICAT) guideline to provide timely and clear guidance to insurers.\nThe adjustments are related to the capital treatment of certain stop-loss reinsurance arrangements and unregistered reinsurance of segregated fund guarantees and are effective immediately.\nOSFI will host an Industry Day on June 6, 2025 to provide more details to stakeholders.\nShould you have any questions, please contact Regis Dahany, Managing Director, Insurance Capital and Liquidity Standards Division by email at regis.dahany@osfi-bsif.gc.ca or use the mailbox LICAT-TSAV@osfi-bsif.gc.ca .\nSincerely, Amar Munipalle Executive Director, Risk Advisory Hub",
+      "content": [
+        {
+          "type": "list",
+          "ordered": false,
+          "items": [
+            "Regulatory Notice on Adjustments to the Life Insurance Capital Adequacy Test Guideline (2025)"
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Today, we are publishing a regulatory notice that outlines adjustments to the 2025 Life Insurance Capital Adequacy Test (LICAT) guideline to provide timely and clear guidance to insurers."
+        },
+        {
+          "type": "paragraph",
+          "text": "The adjustments are related to the capital treatment of certain stop-loss reinsurance arrangements and unregistered reinsurance of segregated fund guarantees and are effective immediately."
+        },
+        {
+          "type": "paragraph",
+          "text": "OSFI will host an Industry Day on June 6, 2025 to provide more details to stakeholders."
+        },
+        {
+          "type": "paragraph",
+          "text": "Should you have any questions, please contact Regis Dahany, Managing Director, Insurance Capital and Liquidity Standards Division by email at regis.dahany@osfi-bsif.gc.ca or use the mailbox LICAT-TSAV@osfi-bsif.gc.ca ."
+        },
+        {
+          "type": "paragraph",
+          "text": "Sincerely, Amar Munipalle Executive Director, Risk Advisory Hub"
+        }
+      ]
+    }
+  ],
+  "title_normalized": "regulatory notice on adjustments to the life insurance capital adequacy test guideline 2025 letter",
+  "publication_type_normalized": "letter",
+  "category_normalized": "capital_adequacy_requirements",
+  "sector_normalized": [
+    "foreign_insurance_branches",
+    "life_insurance"
+  ],
+  "guideline_number_normalized": "",
+  "applies_to_banks": false,
+  "applies_to_trust_loan": false,
+  "applies_to_life_insurance": true,
+  "applies_to_pc_insurance": false,
+  "applies_to_foreign_bank": false,
+  "applies_to_foreign_insurance": true,
+  "applies_to_cooperative": false,
+  "applies_to_bank_holding": false,
+  "effective_date_sort_key": "2025-05-22",
+  "status_sort_key": 1,
+  "authority_sort_key": 60,
+  "bm25_text": "Regulatory Notice on Adjustments to the Life Insurance Capital Adequacy Test Guideline (2025) – Letter Letter Capital Adequacy Requirements Foreign Insurance Branches Life Insurance and Fraternal Companies",
+  "vector_text_prefix": "[OSFI Letter  | Capital Adequacy Requirements | Foreign Insurance Branches / Life Insurance and Fraternal Companies | FINAL_CURRENT | Effective 2025-05-22]",
+  "h1_title": "Regulatory Notice on Adjustments to the Life Insurance Capital Adequacy Test Guideline (2025) – Letter",
+  "regulator": "OSFI",
+  "regulator_acronym": "OSFI",
+  "jurisdiction": "Canada",
+  "short_title": "",
+  "source_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/regulatory-notice-adjustments-life-insurance-capital-adequacy-test-guideline-2025-letter"
+}

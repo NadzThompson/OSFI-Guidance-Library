@@ -1,0 +1,350 @@
+{
+  "source_system": "osfi_guidance_library",
+  "library_row_title": "Building Federally Regulated Financial Institution Awareness and Capability to Manage Climate-Related Financial Risks",
+  "library_row_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/building-federally-regulated-financial-institution-awareness-capability-manage-climate-related",
+  "listing_date_raw": "January 14, 2022",
+  "listing_date_iso": "2022-01-14",
+  "listing_publication_type": "Letter",
+  "listing_category": "",
+  "listing_sector": [
+    "Banks",
+    "Foreign Bank Branches",
+    "Life Insurance and Fraternal Companies",
+    "Property and Casualty Companies",
+    "Trust and Loan Companies"
+  ],
+  "crawl_timestamp": "2026-03-11T00:00:00Z",
+  "detail_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/building-federally-regulated-financial-institution-awareness-capability-manage-climate-related",
+  "canonical_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/building-federally-regulated-financial-institution-awareness-capability-manage-climate-related",
+  "slug": "building-federally-regulated-financial-institution-awareness-capability-manage-climate-related",
+  "title": "Building Federally Regulated Financial Institution Awareness and Capability to Manage Climate-Related Financial Risks",
+  "publication_type": "Letter",
+  "category": "",
+  "document_date_raw": "January 14, 2022",
+  "document_date_iso": "2022-01-14",
+  "sector": [
+    "Banks",
+    "Foreign Bank Branches",
+    "Life Insurance and Fraternal Companies",
+    "Property and Casualty Companies",
+    "Trust and Loan Companies"
+  ],
+  "effective_date_text": "",
+  "guideline_number": "",
+  "date_modified_raw": "2022-01-14T12:00:00Z",
+  "generate_pdf_url": "https://www.osfi-bsif.gc.ca/en/print/pdf/node/439",
+  "pdf_node_id": 439,
+  "direct_pdf_url": "https://www.osfi-bsif.gc.ca/sites/default/files/documents/clmt-rsk_en.pdf",
+  "has_table_of_contents": true,
+  "toc_entries": [],
+  "has_related_documents": false,
+  "related_document_links_raw": [],
+  "consultation_status_text": null,
+  "consultation_status_refers_to_version": null,
+  "page_language": "en",
+  "word_count_raw_body": 922,
+  "doc_id": "osfi.building-federally-regulated-financial-institution.transmittal",
+  "doc_family_id": "osfi.building-federally-regulated-financial-institution",
+  "version_id": "",
+  "version_label": "Building Federally Regulated Financial Institution Awareness",
+  "version_sort_key": "",
+  "parent_doc_id": null,
+  "child_doc_ids": [],
+  "is_package_page": false,
+  "is_chapter_page": false,
+  "chapter_number": null,
+  "chapter_title": null,
+  "document_order_within_family": 0,
+  "supersedes_doc_id": null,
+  "superseded_by_doc_id": null,
+  "current_version_flag": true,
+  "status": "final_current",
+  "include_in_primary_corpus": false,
+  "include_in_support_corpus": true,
+  "include_in_context_corpus": false,
+  "effective_date_start": "2022-01-14",
+  "effective_date_end": null,
+  "effective_date_fye_split": false,
+  "effective_date_oct_fye": null,
+  "effective_date_dec_fye": null,
+  "is_future_effective": false,
+  "is_rescinded": false,
+  "is_draft_or_consultation": false,
+  "rescission_date": null,
+  "consultation_closing_date": null,
+  "as_of_applicability": "2026-03-23",
+  "rule_applied": "rule_5_final_current",
+  "authority_class": "official_support",
+  "authority_level": 60,
+  "nova_tier": 2,
+  "prudential_weight": 0.7,
+  "is_primary_normative": false,
+  "is_supporting_interpretive": true,
+  "is_context_only": false,
+  "document_class": "transmittal_letter",
+  "guidance_type_normalized": "letter",
+  "section_headings": [
+    {
+      "level": 2,
+      "text": "Building FRFI awareness and capability to promote resilience",
+      "id": "h2-0"
+    },
+    {
+      "level": 3,
+      "text": "1. Climate risk management guidance",
+      "id": "h3-1"
+    },
+    {
+      "level": 3,
+      "text": "2. Climate data and analytics",
+      "id": "h3-2"
+    },
+    {
+      "level": 3,
+      "text": "3. Scenario analysis for climate-related financial risks",
+      "id": "h3-3"
+    },
+    {
+      "level": 3,
+      "text": "4. Climate-related capital and liquidity considerations",
+      "id": "h3-4"
+    },
+    {
+      "level": 3,
+      "text": "5. Climate-related financial disclosures",
+      "id": "h3-5"
+    },
+    {
+      "level": 3,
+      "text": "6. Stakeholder engagement",
+      "id": "h3-6"
+    },
+    {
+      "level": 3,
+      "text": "7. Expanding OSFI’s own capability",
+      "id": "h3-7"
+    }
+  ],
+  "heading_path": [
+    "Building Federally Regulated Financial Institution Awareness and Capability to Manage Climate-Related Financial Risks"
+  ],
+  "toc_depth": 3,
+  "has_appendices": false,
+  "appendix_ids": [],
+  "has_tables": true,
+  "table_count": 1,
+  "has_footnotes": false,
+  "footnote_count": 0,
+  "inline_cross_references": [],
+  "quoted_external_references": [],
+  "raw_html_sha256": "14423f50bcd54dbd4b0232d8735d1c3c1659014ee88315502784b2c2fa92663e",
+  "raw_pdf_sha256": null,
+  "normalized_text_sha256": null,
+  "raw_html_path": "bronze/osfi/html/final_current/building-federally-regulated-financial-institution-awareness-capability-manage-climate-related.html",
+  "normalized_md_path": "silver/osfi/md/final_current/building-federally-regulated-financial-institution-awareness-capability-manage-climate-related.md",
+  "canonical_json_path": "silver/osfi/json/final_current/building-federally-regulated-financial-institution-awareness-capability-manage-climate-related.json",
+  "content_source": "HTML",
+  "parser_version": "osfi-parser-v2.1.0",
+  "normalizer_version": "osfi-normalizer-v1.4.0",
+  "quality_score": 1.0,
+  "quality_flags": [],
+  "download_timestamp": "2026-03-11T00:00:00Z",
+  "enriched_timestamp": "2026-03-23T09:53:46.880666Z",
+  "sections": [
+    {
+      "heading": "",
+      "heading_level": 2,
+      "full_text": "To: All Federally Regulated Financial Institutions (FRFIs)\nClimate-related financial risks affect all sectors of the financial services industry and the global economy. As evidenced by responses to OSFI’s 2021 discussion paper on climate-related financial risks and the results of the 2021 Bank of Canada-OSFI joint pilot project on transition risk scenarios , many federally regulated financial institutions (FRFIs) are in the early stages of incorporating climate-related factors into their risk decision-making and capital management.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "To: All Federally Regulated Financial Institutions (FRFIs)"
+        },
+        {
+          "type": "paragraph",
+          "text": "Climate-related financial risks affect all sectors of the financial services industry and the global economy. As evidenced by responses to OSFI’s 2021 discussion paper on climate-related financial risks and the results of the 2021 Bank of Canada-OSFI joint pilot project on transition risk scenarios , many federally regulated financial institutions (FRFIs) are in the early stages of incorporating climate-related factors into their risk decision-making and capital management."
+        }
+      ]
+    },
+    {
+      "heading": "Building FRFI awareness and capability to promote resilience",
+      "heading_level": 2,
+      "full_text": "OSFI’s principal objective is to support FRFIs in their efforts to build awareness and capability in managing climate-related financial risks. Improving FRFI readiness to manage climate-related financial risks enhances the safety and soundness of these institutions and strengthens public confidence in Canada’s financial system. Outlined below are seven initiatives OSFI will focus on to meet this objective.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "OSFI’s principal objective is to support FRFIs in their efforts to build awareness and capability in managing climate-related financial risks. Improving FRFI readiness to manage climate-related financial risks enhances the safety and soundness of these institutions and strengthens public confidence in Canada’s financial system. Outlined below are seven initiatives OSFI will focus on to meet this objective."
+        }
+      ]
+    },
+    {
+      "heading": "1. Climate risk management guidance",
+      "heading_level": 3,
+      "full_text": "OSFI plans to release a draft guideline on FRFI climate risk management for consultation later this year. As communicated in <a href=\"/en/guidance/guidance-library/osfi-summarizes-responses-its-climate-risk-discussion-paper\">October 2021</a>, for federally regulated pension plans (FRPPs) OSFI will continue collaborating with the Canadian Association of Pension Supervisory Authorities (CAPSA) to develop guidance on integrating Environmental, Social and Governance (ESG) factors in pension fund investment and risk management. OSFI will assess the need for additional FRPP guidance thereafter.\nThe draft guideline will outline OSFI’s risk management expectations for FRFIs on climate-related financial risks to achieve the following five prudential outcomes:\n1. Awareness | Climate-related financial risks and their impact are understood throughout the FRFI\n2. Governance and strategy | Climate-related financial risks are embedded in the FRFI’s overall strategy and risk appetite, and integrated into the FRFI’s risk governance regime including appropriate management and oversight In line with OSFI’s <a href=\"/en/guidance/guidance-library/corporate-governance\">Corporate Governance Guideline</a> that sets out expectations of the Board of Directors, including areas such as Senior Management compensation.\n3. Risk management | Material climate-related financial risks are integrated into the FRFI’s enterprise risk management processes and managed accordingly\n4. Financial resilience | The FRFI remains adequately capitalized and liquid through severe yet plausible climate risk scenarios over extended time horizons\n5. Operational resilience | The FRFI continues to deliver critical operations through disruption due to climate-related disasters\nClimate-related financial risks and their impact are understood throughout the FRFI\nClimate-related financial risks are embedded in the FRFI’s overall strategy and risk appetite, and integrated into the FRFI’s risk governance regime including appropriate management and oversight In line with OSFI’s <a href=\"/en/guidance/guidance-library/corporate-governance\">Corporate Governance Guideline</a> that sets out expectations of the Board of Directors, including areas such as Senior Management compensation.\nMaterial climate-related financial risks are integrated into the FRFI’s enterprise risk management processes and managed accordingly\nThe FRFI remains adequately capitalized and liquid through severe yet plausible climate risk scenarios over extended time horizons\nThe FRFI continues to deliver critical operations through disruption due to climate-related disasters",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "OSFI plans to release a draft guideline on FRFI climate risk management for consultation later this year. As communicated in <a href=\"/en/guidance/guidance-library/osfi-summarizes-responses-its-climate-risk-discussion-paper\">October 2021</a>, for federally regulated pension plans (FRPPs) OSFI will continue collaborating with the Canadian Association of Pension Supervisory Authorities (CAPSA) to develop guidance on integrating Environmental, Social and Governance (ESG) factors in pension fund investment and risk management. OSFI will assess the need for additional FRPP guidance thereafter."
+        },
+        {
+          "type": "paragraph",
+          "text": "The draft guideline will outline OSFI’s risk management expectations for FRFIs on climate-related financial risks to achieve the following five prudential outcomes:"
+        },
+        {
+          "type": "table",
+          "caption": "",
+          "rows": [
+            [
+              "1. Awareness",
+              "Climate-related financial risks and their impact are understood throughout the FRFI"
+            ],
+            [
+              "2. Governance and strategy",
+              "Climate-related financial risks are embedded in the FRFI’s overall strategy and risk appetite, and integrated into the FRFI’s risk governance regime including appropriate management and oversight In line with OSFI’s <a href=\"/en/guidance/guidance-library/corporate-governance\">Corporate Governance Guideline</a> that sets out expectations of the Board of Directors, including areas such as Senior Management compensation."
+            ],
+            [
+              "3. Risk management",
+              "Material climate-related financial risks are integrated into the FRFI’s enterprise risk management processes and managed accordingly"
+            ],
+            [
+              "4. Financial resilience",
+              "The FRFI remains adequately capitalized and liquid through severe yet plausible climate risk scenarios over extended time horizons"
+            ],
+            [
+              "5. Operational resilience",
+              "The FRFI continues to deliver critical operations through disruption due to climate-related disasters"
+            ]
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Climate-related financial risks and their impact are understood throughout the FRFI"
+        },
+        {
+          "type": "paragraph",
+          "text": "Climate-related financial risks are embedded in the FRFI’s overall strategy and risk appetite, and integrated into the FRFI’s risk governance regime including appropriate management and oversight In line with OSFI’s <a href=\"/en/guidance/guidance-library/corporate-governance\">Corporate Governance Guideline</a> that sets out expectations of the Board of Directors, including areas such as Senior Management compensation."
+        },
+        {
+          "type": "paragraph",
+          "text": "Material climate-related financial risks are integrated into the FRFI’s enterprise risk management processes and managed accordingly"
+        },
+        {
+          "type": "paragraph",
+          "text": "The FRFI remains adequately capitalized and liquid through severe yet plausible climate risk scenarios over extended time horizons"
+        },
+        {
+          "type": "paragraph",
+          "text": "The FRFI continues to deliver critical operations through disruption due to climate-related disasters"
+        }
+      ]
+    },
+    {
+      "heading": "2. Climate data and analytics",
+      "heading_level": 3,
+      "full_text": "The availability of decision-useful data and analytical capabilities are important inputs to improve the measurement and assessment of the risks posed by climate change. Consequently, OSFI plans to complete its analysis of data gaps in its regulatory returns and assess the availability of additional climate related quantitative and qualitative data to advance its climate risk analytics capabilities later this year.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "The availability of decision-useful data and analytical capabilities are important inputs to improve the measurement and assessment of the risks posed by climate change. Consequently, OSFI plans to complete its analysis of data gaps in its regulatory returns and assess the availability of additional climate related quantitative and qualitative data to advance its climate risk analytics capabilities later this year."
+        }
+      ]
+    },
+    {
+      "heading": "3. Scenario analysis for climate-related financial risks",
+      "heading_level": 3,
+      "full_text": "Building FRFI awareness of, and capability to measure, their potential vulnerability to climate-related financial risks continues to be a key priority. Accordingly, OSFI expects to build on the 2021 Bank of Canada-OSFI joint pilot project on transition risk scenarios to develop, over time, more standardized climate scenario analysis and stress testing exercises for FRFIs to assess the impacts of both physical and transition risks.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Building FRFI awareness of, and capability to measure, their potential vulnerability to climate-related financial risks continues to be a key priority. Accordingly, OSFI expects to build on the 2021 Bank of Canada-OSFI joint pilot project on transition risk scenarios to develop, over time, more standardized climate scenario analysis and stress testing exercises for FRFIs to assess the impacts of both physical and transition risks."
+        }
+      ]
+    },
+    {
+      "heading": "4. Climate-related capital and liquidity considerations",
+      "heading_level": 3,
+      "full_text": "OSFI continues to assess whether its regulatory capital framework needs to reflect the unique features of climate-related financial risks.\nThrough its ongoing supervisory activities, OSFI will reinforce its expectation that FRFIs evaluate and measure their capital available to protect against material risks, including climate-related financial risks, and reflect their assessments in the banks’ Internal Capital Adequacy Assessment Process (ICAAP) or the insurers’ Own Risk and Solvency Assessment (ORSA). OSFI will also reinforce its expectation that FRFIs consider the implications of both physical and transition risks on their liquidity buffers.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "OSFI continues to assess whether its regulatory capital framework needs to reflect the unique features of climate-related financial risks."
+        },
+        {
+          "type": "paragraph",
+          "text": "Through its ongoing supervisory activities, OSFI will reinforce its expectation that FRFIs evaluate and measure their capital available to protect against material risks, including climate-related financial risks, and reflect their assessments in the banks’ Internal Capital Adequacy Assessment Process (ICAAP) or the insurers’ Own Risk and Solvency Assessment (ORSA). OSFI will also reinforce its expectation that FRFIs consider the implications of both physical and transition risks on their liquidity buffers."
+        }
+      ]
+    },
+    {
+      "heading": "5. Climate-related financial disclosures",
+      "heading_level": 3,
+      "full_text": "OSFI recognizes that transparency and disclosures regarding the risks faced by an individual FRFI will promote sound risk management through market discipline.\nAs OSFI continues to consider climate-related financial disclosures within the scope of its mandate, it will also monitor the progress of domestic and international initiatives to standardize such disclosures. Further, OSFI will assess market readiness for mandatory climate-related financial disclosures aligned with the Financial Stability Board’s Taskforce for Climate-related Financial Disclosures recommendations. OSFI will consider barriers, opportunities and overall market impact related to broad adoption, especially for the smaller, non-publicly traded FRFIs.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "OSFI recognizes that transparency and disclosures regarding the risks faced by an individual FRFI will promote sound risk management through market discipline."
+        },
+        {
+          "type": "paragraph",
+          "text": "As OSFI continues to consider climate-related financial disclosures within the scope of its mandate, it will also monitor the progress of domestic and international initiatives to standardize such disclosures. Further, OSFI will assess market readiness for mandatory climate-related financial disclosures aligned with the Financial Stability Board’s Taskforce for Climate-related Financial Disclosures recommendations. OSFI will consider barriers, opportunities and overall market impact related to broad adoption, especially for the smaller, non-publicly traded FRFIs."
+        }
+      ]
+    },
+    {
+      "heading": "6. Stakeholder engagement",
+      "heading_level": 3,
+      "full_text": "Climate risk analytics, valuation, and management are in relative early stages of development but are quickly evolving. The pace of these developments underscores the importance of global collaboration and coordination, and diverse expertise.\nAs part of OSFI’s plan to address climate-related financial risks, it will actively look for opportunities to broaden its stakeholder engagement this year. Our engagement focus will be within and outside the financial industry, domestically and internationally, to collaborate, coordinate, and share insights on a range of best practices. OSFI will keep stakeholders informed and engaged on these initiatives. OSFI also encourages stakeholders to subscribe to OSFI’s email notifications for future updates.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Climate risk analytics, valuation, and management are in relative early stages of development but are quickly evolving. The pace of these developments underscores the importance of global collaboration and coordination, and diverse expertise."
+        },
+        {
+          "type": "paragraph",
+          "text": "As part of OSFI’s plan to address climate-related financial risks, it will actively look for opportunities to broaden its stakeholder engagement this year. Our engagement focus will be within and outside the financial industry, domestically and internationally, to collaborate, coordinate, and share insights on a range of best practices. OSFI will keep stakeholders informed and engaged on these initiatives. OSFI also encourages stakeholders to subscribe to OSFI’s email notifications for future updates."
+        }
+      ]
+    },
+    {
+      "heading": "7. Expanding OSFI’s own capability",
+      "heading_level": 3,
+      "full_text": "OSFI continues to expand its capability in the regulation and supervision of climate-related financial risks, consistent with the priorities set out in its Blueprint for transformation . OSFI’s newly-created “Climate Risk Hub” will continue to deepen OSFI’s expertise and enable it to more effectively supervise FRFIs’ management of climate-related financial risks.",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "OSFI continues to expand its capability in the regulation and supervision of climate-related financial risks, consistent with the priorities set out in its Blueprint for transformation . OSFI’s newly-created “Climate Risk Hub” will continue to deepen OSFI’s expertise and enable it to more effectively supervise FRFIs’ management of climate-related financial risks."
+        }
+      ]
+    }
+  ],
+  "title_normalized": "building federally regulated financial institution awareness and capability to manage climaterelated financial risks",
+  "publication_type_normalized": "letter",
+  "category_normalized": "",
+  "sector_normalized": [
+    "banks",
+    "foreign_bank_branches",
+    "life_insurance",
+    "pc_insurance",
+    "trust_and_loan_companies"
+  ],
+  "guideline_number_normalized": "",
+  "applies_to_banks": true,
+  "applies_to_trust_loan": true,
+  "applies_to_life_insurance": true,
+  "applies_to_pc_insurance": true,
+  "applies_to_foreign_bank": true,
+  "applies_to_foreign_insurance": false,
+  "applies_to_cooperative": false,
+  "applies_to_bank_holding": false,
+  "effective_date_sort_key": "2022-01-14",
+  "status_sort_key": 1,
+  "authority_sort_key": 60,
+  "bm25_text": "Building Federally Regulated Financial Institution Awareness and Capability to Manage Climate-Related Financial Risks Letter Banks Foreign Bank Branches Life Insurance and Fraternal Companies Property and Casualty Companies Trust and Loan Companies Building FRFI awareness and capability to promote resilience 1. Climate risk management guidance 2. Climate data and analytics 3. Scenario analysis for climate-related financial risks 4. Climate-related capital and liquidity considerations 5. Climate-related financial disclosures 6. Stakeholder engagement 7. Expanding OSFI’s own capability",
+  "vector_text_prefix": "[OSFI Letter  |  | Banks / Foreign Bank Branches / Life Insurance and Fraternal Companies | FINAL_CURRENT | Effective 2022-01-14]",
+  "h1_title": "Building Federally Regulated Financial Institution Awareness and Capability to Manage Climate-Related Financial Risks",
+  "regulator": "OSFI",
+  "regulator_acronym": "OSFI",
+  "jurisdiction": "Canada",
+  "short_title": "",
+  "source_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/building-federally-regulated-financial-institution-awareness-capability-manage-climate-related"
+}
