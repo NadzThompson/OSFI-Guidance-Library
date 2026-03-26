@@ -991,6 +991,8 @@
   "regulator": "OSFI",
   "regulator_acronym": "OSFI",
   "jurisdiction": "Canada",
-  "short_title": "",
-  "source_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/corporate-governance-guideline-2018"
+  "short_title": "Corporate Governance – Guideline (2018)",
+  "source_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/corporate-governance-guideline-2018",
+  "citation_anchor": "#osfi.corporate_governance.2018.package",
+  "section_path": "OSFI > package_guideline"
 }

@@ -43,7 +43,7 @@
   "doc_family_id": "osfi.revised-osfi-capital-ruling-limited-recourse-capit",
   "version_id": "",
   "version_label": "Revised OSFI Capital Ruling for Limited Recourse Capital Not",
-  "version_sort_key": "",
+  "version_sort_key": "2022-12",
   "parent_doc_id": null,
   "child_doc_ids": [],
   "is_package_page": false,
@@ -177,6 +177,8 @@
   "regulator": "OSFI",
   "regulator_acronym": "OSFI",
   "jurisdiction": "Canada",
-  "short_title": "",
-  "source_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/revised-osfi-capital-ruling-limited-recourse-capital-notes"
+  "short_title": "Revised OSFI Capital Ruling for Limited Recourse Capital",
+  "source_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/revised-osfi-capital-ruling-limited-recourse-capital-notes",
+  "citation_anchor": "#osfi.revised-osfi-capital-ruling-limited-recourse-capit.transmittal",
+  "section_path": "OSFI > transmittal_letter"
 }

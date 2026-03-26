@@ -187,6 +187,8 @@
   "regulator": "OSFI",
   "regulator_acronym": "OSFI",
   "jurisdiction": "Canada",
-  "short_title": "",
-  "source_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/2026-memorandum-earthquake-exposure-data"
+  "short_title": "2026 Memorandum",
+  "source_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/2026-memorandum-earthquake-exposure-data",
+  "citation_anchor": "#osfi.memorandum-earthquake-exposure-data.2026.transmittal",
+  "section_path": "OSFI > transmittal_letter"
 }

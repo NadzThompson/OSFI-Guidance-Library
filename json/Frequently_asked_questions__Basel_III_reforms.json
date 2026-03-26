@@ -16,7 +16,9 @@
   "category": "",
   "document_date_raw": "2023-10-20",
   "document_date_iso": "2023-10-20",
-  "sector": [],
+  "sector": [
+    "Cross-Sector"
+  ],
   "effective_date_text": "",
   "guideline_number": "",
   "date_modified_raw": "2023-10-20",
@@ -35,7 +37,7 @@
   "doc_family_id": "osfi.frequently-asked-questions-basel-iii-reforms",
   "version_id": "",
   "version_label": "Frequently asked questions – Basel III reforms",
-  "version_sort_key": "",
+  "version_sort_key": "2023-10",
   "parent_doc_id": null,
   "child_doc_ids": [],
   "is_package_page": false,
@@ -321,6 +323,8 @@
   "regulator": "OSFI",
   "regulator_acronym": "OSFI",
   "jurisdiction": "Canada",
-  "short_title": "",
-  "source_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/frequently-asked-questions-basel-iii-reforms"
+  "short_title": "Frequently asked questions – Basel III reforms",
+  "source_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/frequently-asked-questions-basel-iii-reforms",
+  "citation_anchor": "#osfi.frequently-asked-questions-basel-iii-reforms.interpretive",
+  "section_path": "OSFI > interpretive_faq"
 }

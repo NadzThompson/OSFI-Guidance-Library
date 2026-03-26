@@ -43,7 +43,7 @@
   "doc_family_id": "osfi.risk-quantification-irb-institutions",
   "version_id": "",
   "version_label": "Risk Quantification at IRB Institutions",
-  "version_sort_key": "",
+  "version_sort_key": "2006-01",
   "parent_doc_id": null,
   "child_doc_ids": [],
   "is_package_page": false,
@@ -478,6 +478,8 @@
   "regulator": "OSFI",
   "regulator_acronym": "OSFI",
   "jurisdiction": "Canada",
-  "short_title": "",
-  "source_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/risk-quantification-irb-institutions"
+  "short_title": "Risk Quantification at IRB Institutions",
+  "source_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/risk-quantification-irb-institutions",
+  "citation_anchor": "#osfi.risk-quantification-irb-institutions.implementation",
+  "section_path": "OSFI > implementation_note"
 }

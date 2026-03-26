@@ -1486,5 +1486,7 @@
   "regulator_acronym": "OSFI",
   "jurisdiction": "Canada",
   "short_title": "LAR",
-  "source_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/liquidity-adequacy-requirements-lar-2025-chapter-4-net-cumulative-cash-flow"
+  "source_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/liquidity-adequacy-requirements-lar-2025-chapter-4-net-cumulative-cash-flow",
+  "citation_anchor": "#osfi.lar.2025.chapter4.chapter",
+  "section_path": "OSFI > chapter_guideline > LAR"
 }

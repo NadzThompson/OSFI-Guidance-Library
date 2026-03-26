@@ -558,6 +558,8 @@
   "regulator": "OSFI",
   "regulator_acronym": "OSFI",
   "jurisdiction": "Canada",
-  "short_title": "",
-  "source_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/background-checks-directors-senior-management-fres-guideline-2008"
+  "short_title": "Background Checks on Directors and Senior Management of",
+  "source_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/background-checks-directors-senior-management-fres-guideline-2008",
+  "citation_anchor": "#osfi.background-checks-directors-senior-management-fres.2008.package",
+  "section_path": "OSFI > package_guideline"
 }

@@ -44,7 +44,7 @@
   "doc_family_id": "osfi.tlac",
   "version_id": "",
   "version_label": "Parental Stand-Alone (Solo) TLAC Framework for Domestic Syst",
-  "version_sort_key": "",
+  "version_sort_key": "2023-11",
   "parent_doc_id": null,
   "child_doc_ids": [],
   "is_package_page": false,
@@ -733,5 +733,7 @@
   "regulator_acronym": "OSFI",
   "jurisdiction": "Canada",
   "short_title": "TLAC",
-  "source_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/parental-stand-alone-solo-tlac-framework-domestic-systemically-important-banks-sibs"
+  "source_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/parental-stand-alone-solo-tlac-framework-domestic-systemically-important-banks-sibs",
+  "citation_anchor": "#osfi.tlac.standalone",
+  "section_path": "OSFI > standalone_guideline > TLAC"
 }

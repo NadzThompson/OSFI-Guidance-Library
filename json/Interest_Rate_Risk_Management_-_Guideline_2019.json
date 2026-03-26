@@ -24,7 +24,7 @@
     "Trust and Loan Companies"
   ],
   "effective_date_text": "",
-  "guideline_number": "",
+  "guideline_number": "B-6",
   "date_modified_raw": "2019-05-31T12:00:00Z",
   "generate_pdf_url": null,
   "pdf_node_id": null,
@@ -1846,6 +1846,8 @@
   "regulator": "OSFI",
   "regulator_acronym": "OSFI",
   "jurisdiction": "Canada",
-  "short_title": "",
-  "source_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/interest-rate-risk-management-guideline-2019"
+  "short_title": "Interest Rate Risk Management",
+  "source_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/interest-rate-risk-management-guideline-2019",
+  "citation_anchor": "#osfi.b6.2019.package",
+  "section_path": "OSFI > package_guideline"
 }

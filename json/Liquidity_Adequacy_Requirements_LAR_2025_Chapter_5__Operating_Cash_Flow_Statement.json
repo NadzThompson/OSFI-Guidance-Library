@@ -436,5 +436,7 @@
   "regulator_acronym": "OSFI",
   "jurisdiction": "Canada",
   "short_title": "LAR",
-  "source_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/liquidity-adequacy-requirements-lar-2025-chapter-5-operating-cash-flow-statement"
+  "source_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/liquidity-adequacy-requirements-lar-2025-chapter-5-operating-cash-flow-statement",
+  "citation_anchor": "#osfi.lar.2025.chapter5.chapter",
+  "section_path": "OSFI > chapter_guideline > LAR"
 }

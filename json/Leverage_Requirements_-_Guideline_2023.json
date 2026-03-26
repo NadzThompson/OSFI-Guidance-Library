@@ -1106,6 +1106,8 @@
   "regulator": "OSFI",
   "regulator_acronym": "OSFI",
   "jurisdiction": "Canada",
-  "short_title": "",
-  "source_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/leverage-requirements-guideline-2023"
+  "short_title": "Leverage Requirements",
+  "source_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/leverage-requirements-guideline-2023",
+  "citation_anchor": "#osfi.leverage.2023.package",
+  "section_path": "OSFI > package_guideline"
 }

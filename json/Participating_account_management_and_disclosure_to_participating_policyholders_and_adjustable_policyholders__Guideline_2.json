@@ -1532,6 +1532,8 @@
   "regulator": "OSFI",
   "regulator_acronym": "OSFI",
   "jurisdiction": "Canada",
-  "short_title": "",
-  "source_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/participating-account-management-disclosure-participating-policyholders-adjustable-policyholders"
+  "short_title": "Participating account management and disclosure to",
+  "source_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/participating-account-management-disclosure-participating-policyholders-adjustable-policyholders",
+  "citation_anchor": "#osfi.participating-account-management-disclosure-partic.2023.standalone",
+  "section_path": "OSFI > standalone_guideline"
 }

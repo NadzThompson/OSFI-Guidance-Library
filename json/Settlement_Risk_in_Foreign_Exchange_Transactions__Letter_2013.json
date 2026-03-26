@@ -170,6 +170,8 @@
   "regulator": "OSFI",
   "regulator_acronym": "OSFI",
   "jurisdiction": "Canada",
-  "short_title": "",
-  "source_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/settlement-risk-foreign-exchange-transactions-letter-2013"
+  "short_title": "Settlement Risk in Foreign Exchange Transactions – Letter",
+  "source_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/settlement-risk-foreign-exchange-transactions-letter-2013",
+  "citation_anchor": "#osfi.settlement-risk-foreign-exchange-transactions.2013.transmittal",
+  "section_path": "OSFI > transmittal_letter"
 }

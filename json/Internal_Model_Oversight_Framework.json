@@ -16,7 +16,9 @@
   "category": "Sound Business and Financial Practices",
   "document_date_raw": "June 21, 2019",
   "document_date_iso": "2019-06-21",
-  "sector": [],
+  "sector": [
+    "Cross-Sector"
+  ],
   "effective_date_text": "",
   "guideline_number": "",
   "date_modified_raw": "2019-06-21T12:00:00Z",
@@ -35,7 +37,7 @@
   "doc_family_id": "osfi.internal-model-oversight-framework",
   "version_id": "",
   "version_label": "Internal Model Oversight Framework",
-  "version_sort_key": "",
+  "version_sort_key": "2019-06",
   "parent_doc_id": null,
   "child_doc_ids": [],
   "is_package_page": false,
@@ -174,6 +176,8 @@
   "regulator": "OSFI",
   "regulator_acronym": "OSFI",
   "jurisdiction": "Canada",
-  "short_title": "",
-  "source_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/internal-model-oversight-framework"
+  "short_title": "Internal Model Oversight Framework",
+  "source_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/internal-model-oversight-framework",
+  "citation_anchor": "#osfi.internal-model-oversight-framework.transmittal",
+  "section_path": "OSFI > transmittal_letter"
 }

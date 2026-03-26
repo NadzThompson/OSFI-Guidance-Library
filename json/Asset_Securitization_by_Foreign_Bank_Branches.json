@@ -39,7 +39,7 @@
   "doc_family_id": "osfi.asset-securitization-foreign-bank-branches",
   "version_id": "",
   "version_label": "Asset Securitization by Foreign Bank Branches",
-  "version_sort_key": "",
+  "version_sort_key": "2000-01",
   "parent_doc_id": null,
   "child_doc_ids": [],
   "is_package_page": false,
@@ -580,6 +580,8 @@
   "regulator": "OSFI",
   "regulator_acronym": "OSFI",
   "jurisdiction": "Canada",
-  "short_title": "",
-  "source_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/asset-securitization-foreign-bank-branches"
+  "short_title": "Asset Securitization by Foreign Bank Branches",
+  "source_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/asset-securitization-foreign-bank-branches",
+  "citation_anchor": "#osfi.asset-securitization-foreign-bank-branches.standalone",
+  "section_path": "OSFI > standalone_guideline"
 }

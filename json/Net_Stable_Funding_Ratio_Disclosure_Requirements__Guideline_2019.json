@@ -1124,6 +1124,8 @@
   "regulator": "OSFI",
   "regulator_acronym": "OSFI",
   "jurisdiction": "Canada",
-  "short_title": "",
-  "source_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/net-stable-funding-ratio-disclosure-requirements-guideline-2019"
+  "short_title": "Net Stable Funding Ratio Disclosure Requirements –",
+  "source_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/net-stable-funding-ratio-disclosure-requirements-guideline-2019",
+  "citation_anchor": "#osfi.net-stable-funding-ratio-disclosure-requirements-g.2019.package",
+  "section_path": "OSFI > package_guideline"
 }

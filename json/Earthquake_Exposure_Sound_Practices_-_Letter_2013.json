@@ -508,6 +508,8 @@
   "regulator": "OSFI",
   "regulator_acronym": "OSFI",
   "jurisdiction": "Canada",
-  "short_title": "",
-  "source_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/earthquake-exposure-sound-practices-letter-2013"
+  "short_title": "Earthquake Exposure Sound Practices",
+  "source_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/earthquake-exposure-sound-practices-letter-2013",
+  "citation_anchor": "#osfi.earthquake-exposure-sound-practices.2013.transmittal",
+  "section_path": "OSFI > transmittal_letter"
 }

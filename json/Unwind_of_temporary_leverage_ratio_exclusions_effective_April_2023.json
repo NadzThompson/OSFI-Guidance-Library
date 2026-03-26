@@ -162,6 +162,8 @@
   "regulator": "OSFI",
   "regulator_acronym": "OSFI",
   "jurisdiction": "Canada",
-  "short_title": "",
-  "source_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/unwind-temporary-leverage-ratio-exclusions-effective-april-2023"
+  "short_title": "Unwind of temporary leverage ratio exclusions, effective",
+  "source_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/unwind-temporary-leverage-ratio-exclusions-effective-april-2023",
+  "citation_anchor": "#osfi.unwind-temporary-leverage-ratio-exclusions-effecti.2023.transmittal",
+  "section_path": "OSFI > transmittal_letter"
 }

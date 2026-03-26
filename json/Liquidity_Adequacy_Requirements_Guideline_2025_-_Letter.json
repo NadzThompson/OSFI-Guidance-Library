@@ -193,6 +193,8 @@
   "regulator": "OSFI",
   "regulator_acronym": "OSFI",
   "jurisdiction": "Canada",
-  "short_title": "",
-  "source_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/liquidity-adequacy-requirements-guideline-2025-letter"
+  "short_title": "Liquidity Adequacy Requirements Guideline (2025)",
+  "source_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/liquidity-adequacy-requirements-guideline-2025-letter",
+  "citation_anchor": "#osfi.liquidity-adequacy-requirements-guideline.2025.transmittal",
+  "section_path": "OSFI > transmittal_letter"
 }

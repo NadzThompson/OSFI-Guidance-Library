@@ -1280,5 +1280,7 @@
   "regulator_acronym": "OSFI",
   "jurisdiction": "Canada",
   "short_title": "E-23",
-  "source_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/guideline-e-23-model-risk-management-2027"
+  "source_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/guideline-e-23-model-risk-management-2027",
+  "citation_anchor": "#osfi.e23.2027.standalone",
+  "section_path": "OSFI > standalone_guideline > E-23"
 }

@@ -545,6 +545,8 @@
   "regulator": "OSFI",
   "regulator_acronym": "OSFI",
   "jurisdiction": "Canada",
-  "short_title": "",
-  "source_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/derivatives-sound-practices-letter-2015"
+  "short_title": "Derivatives Sound Practices – Letter (2015)",
+  "source_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/derivatives-sound-practices-letter-2015",
+  "citation_anchor": "#osfi.derivatives-sound-practices.2015.transmittal",
+  "section_path": "OSFI > transmittal_letter"
 }

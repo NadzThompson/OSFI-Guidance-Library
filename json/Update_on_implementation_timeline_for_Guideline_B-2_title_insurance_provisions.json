@@ -44,7 +44,7 @@
   "doc_family_id": "osfi.b2",
   "version_id": "",
   "version_label": "Update on implementation timeline for Guideline B-2 title in",
-  "version_sort_key": "",
+  "version_sort_key": "2024-12",
   "parent_doc_id": null,
   "child_doc_ids": [],
   "is_package_page": false,
@@ -172,5 +172,7 @@
   "regulator_acronym": "OSFI",
   "jurisdiction": "Canada",
   "short_title": "B-2",
-  "source_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/update-implementation-timeline-guideline-b-2-title-insurance-provisions"
+  "source_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/update-implementation-timeline-guideline-b-2-title-insurance-provisions",
+  "citation_anchor": "#osfi.b2.transmittal",
+  "section_path": "OSFI > transmittal_letter > B-2"
 }

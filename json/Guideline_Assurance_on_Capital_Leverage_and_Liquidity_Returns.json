@@ -45,7 +45,7 @@
   "doc_family_id": "osfi.guideline-assurance-capital-leverage-liquidity-ret",
   "version_id": "",
   "version_label": "Guideline: Assurance on Capital, Leverage and Liquidity Retu",
-  "version_sort_key": "",
+  "version_sort_key": "2022-11",
   "parent_doc_id": null,
   "child_doc_ids": [],
   "is_package_page": false,
@@ -375,6 +375,8 @@
   "regulator": "OSFI",
   "regulator_acronym": "OSFI",
   "jurisdiction": "Canada",
-  "short_title": "",
-  "source_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/guideline-assurance-capital-leverage-liquidity-returns"
+  "short_title": "Guideline: Assurance on Capital, Leverage and Liquidity",
+  "source_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/guideline-assurance-capital-leverage-liquidity-returns",
+  "citation_anchor": "#osfi.guideline-assurance-capital-leverage-liquidity-ret.transmittal",
+  "section_path": "OSFI > transmittal_letter"
 }

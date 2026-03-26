@@ -1885,5 +1885,7 @@
   "regulator_acronym": "OSFI",
   "jurisdiction": "Canada",
   "short_title": "CAR",
-  "source_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/capital-adequacy-requirements-car-2026-chapter-3-operational-risk"
+  "source_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/capital-adequacy-requirements-car-2026-chapter-3-operational-risk",
+  "citation_anchor": "#osfi.car.2026.chapter3.chapter",
+  "section_path": "OSFI > chapter_guideline > CAR"
 }

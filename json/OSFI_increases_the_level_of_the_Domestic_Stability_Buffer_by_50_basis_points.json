@@ -16,7 +16,9 @@
   "category": "",
   "document_date_raw": "June 20, 2023",
   "document_date_iso": "2023-06-20",
-  "sector": [],
+  "sector": [
+    "Cross-Sector"
+  ],
   "effective_date_text": "",
   "guideline_number": "",
   "date_modified_raw": "2023-06-20T12:00:00Z",
@@ -52,7 +54,7 @@
   "doc_family_id": "osfi.dsb",
   "version_id": "",
   "version_label": "OSFI increases the level of the Domestic Stability Buffer by",
-  "version_sort_key": "",
+  "version_sort_key": "2023-06",
   "parent_doc_id": null,
   "child_doc_ids": [],
   "is_package_page": false,
@@ -218,6 +220,8 @@
   "regulator": "OSFI",
   "regulator_acronym": "OSFI",
   "jurisdiction": "Canada",
-  "short_title": "",
-  "source_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/osfi-increases-level-domestic-stability-buffer-50-basis-points"
+  "short_title": "OSFI increases the level of the Domestic Stability Buffer",
+  "source_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/osfi-increases-level-domestic-stability-buffer-50-basis-points",
+  "citation_anchor": "#osfi.dsb.transmittal",
+  "section_path": "OSFI > transmittal_letter"
 }

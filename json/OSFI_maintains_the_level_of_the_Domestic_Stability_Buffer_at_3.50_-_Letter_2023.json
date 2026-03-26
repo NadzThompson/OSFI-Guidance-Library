@@ -16,7 +16,9 @@
   "category": "Capital Adequacy Requirements",
   "document_date_raw": "December 8, 2023",
   "document_date_iso": "2023-12-08",
-  "sector": [],
+  "sector": [
+    "Cross-Sector"
+  ],
   "effective_date_text": "",
   "guideline_number": "",
   "date_modified_raw": "2023-12-08T12:00:00Z",
@@ -177,6 +179,8 @@
   "regulator": "OSFI",
   "regulator_acronym": "OSFI",
   "jurisdiction": "Canada",
-  "short_title": "",
-  "source_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/osfi-maintains-level-domestic-stability-buffer-350-letter-2023"
+  "short_title": "OSFI maintains the level of the Domestic Stability Buffer",
+  "source_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/osfi-maintains-level-domestic-stability-buffer-350-letter-2023",
+  "citation_anchor": "#osfi.dsb.2023.transmittal",
+  "section_path": "OSFI > transmittal_letter"
 }

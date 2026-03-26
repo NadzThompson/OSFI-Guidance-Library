@@ -41,7 +41,7 @@
   "doc_family_id": "osfi.car",
   "version_id": "",
   "version_label": "Modification to the Capital Floor Transition schedule in Cha",
-  "version_sort_key": "",
+  "version_sort_key": "2024-07",
   "parent_doc_id": null,
   "child_doc_ids": [],
   "is_package_page": false,
@@ -242,5 +242,7 @@
   "regulator_acronym": "OSFI",
   "jurisdiction": "Canada",
   "short_title": "CAR",
-  "source_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/modification-capital-floor-transition-schedule-chapter-1-capital-adequacy-requirements-car-guideline"
+  "source_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/modification-capital-floor-transition-schedule-chapter-1-capital-adequacy-requirements-car-guideline",
+  "citation_anchor": "#osfi.car.chapter1.chapter",
+  "section_path": "OSFI > chapter_guideline > CAR"
 }

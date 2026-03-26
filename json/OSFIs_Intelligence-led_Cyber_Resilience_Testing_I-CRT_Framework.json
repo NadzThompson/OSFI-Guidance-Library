@@ -47,7 +47,7 @@
   "doc_family_id": "osfi.osfis-intelligence-led-cyber-resilience-testing-cr",
   "version_id": "",
   "version_label": "OSFI’s Intelligence-led Cyber Resilience Testing (I-CRT) Fra",
-  "version_sort_key": "",
+  "version_sort_key": "2023-04",
   "parent_doc_id": null,
   "child_doc_ids": [],
   "is_package_page": false,
@@ -2102,6 +2102,8 @@
   "regulator": "OSFI",
   "regulator_acronym": "OSFI",
   "jurisdiction": "Canada",
-  "short_title": "",
-  "source_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/osfis-intelligence-led-cyber-resilience-testing-crt-framework"
+  "short_title": "OSFI’s Intelligence-led Cyber Resilience Testing (I-CRT)",
+  "source_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/osfis-intelligence-led-cyber-resilience-testing-crt-framework",
+  "citation_anchor": "#osfi.osfis-intelligence-led-cyber-resilience-testing-cr.advisory",
+  "section_path": "OSFI > advisory"
 }

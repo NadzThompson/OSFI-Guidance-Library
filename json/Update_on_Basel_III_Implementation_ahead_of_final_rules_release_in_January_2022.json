@@ -1554,6 +1554,8 @@
   "regulator": "OSFI",
   "regulator_acronym": "OSFI",
   "jurisdiction": "Canada",
-  "short_title": "",
-  "source_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/update-basel-iii-implementation-ahead-final-rules-release-january-2022"
+  "short_title": "Update on Basel III Implementation ahead of final rules",
+  "source_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/update-basel-iii-implementation-ahead-final-rules-release-january-2022",
+  "citation_anchor": "#osfi.update-basel-iii-implementation-ahead-final-rules-.2022.transmittal",
+  "section_path": "OSFI > transmittal_letter"
 }

@@ -248,6 +248,8 @@
   "regulator": "OSFI",
   "regulator_acronym": "OSFI",
   "jurisdiction": "Canada",
-  "short_title": "",
-  "source_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/regulatory-notice-adjustments-life-insurance-capital-adequacy-test-guideline-2025"
+  "short_title": "Regulatory Notice on Adjustments to the Life Insurance",
+  "source_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/regulatory-notice-adjustments-life-insurance-capital-adequacy-test-guideline-2025",
+  "citation_anchor": "#osfi.licat.2025.package",
+  "section_path": "OSFI > package_guideline"
 }

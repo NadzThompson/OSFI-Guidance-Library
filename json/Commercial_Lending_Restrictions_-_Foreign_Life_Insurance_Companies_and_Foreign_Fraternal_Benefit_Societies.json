@@ -39,7 +39,7 @@
   "doc_family_id": "osfi.commercial-lending-restrictions-foreign-life-insur",
   "version_id": "",
   "version_label": "Commercial Lending Restrictions - Foreign Life Insurance Com",
-  "version_sort_key": "",
+  "version_sort_key": "1993-09",
   "parent_doc_id": null,
   "child_doc_ids": [],
   "is_package_page": false,
@@ -248,6 +248,8 @@
   "regulator": "OSFI",
   "regulator_acronym": "OSFI",
   "jurisdiction": "Canada",
-  "short_title": "",
-  "source_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/commercial-lending-restrictions-foreign-life-insurance-companies-foreign-fraternal-benefit-societies"
+  "short_title": "Commercial Lending Restrictions",
+  "source_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/commercial-lending-restrictions-foreign-life-insurance-companies-foreign-fraternal-benefit-societies",
+  "citation_anchor": "#osfi.commercial-lending-restrictions-foreign-life-insur.standalone",
+  "section_path": "OSFI > standalone_guideline"
 }

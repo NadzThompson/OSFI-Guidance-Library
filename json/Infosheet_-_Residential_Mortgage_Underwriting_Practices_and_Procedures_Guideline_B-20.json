@@ -56,7 +56,7 @@
   "doc_family_id": "osfi.b20",
   "version_id": "",
   "version_label": "Infosheet - Residential Mortgage Underwriting Practices and ",
-  "version_sort_key": "",
+  "version_sort_key": "2023-01",
   "parent_doc_id": null,
   "child_doc_ids": [],
   "is_package_page": false,
@@ -4069,5 +4069,7 @@
   "regulator_acronym": "OSFI",
   "jurisdiction": "Canada",
   "short_title": "B-20",
-  "source_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/infosheet-residential-mortgage-underwriting-practices-procedures-guideline-b-20"
+  "source_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/infosheet-residential-mortgage-underwriting-practices-procedures-guideline-b-20",
+  "citation_anchor": "#osfi.b20.standalone",
+  "section_path": "OSFI > standalone_guideline > B-20"
 }

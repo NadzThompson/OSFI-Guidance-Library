@@ -1906,6 +1906,8 @@
   "regulator": "OSFI",
   "regulator_acronym": "OSFI",
   "jurisdiction": "Canada",
-  "short_title": "",
-  "source_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/large-exposure-limits-domestic-systemically-important-banks-guideline-2019"
+  "short_title": "Large Exposure Limits for Domestic Systemically Important",
+  "source_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/large-exposure-limits-domestic-systemically-important-banks-guideline-2019",
+  "citation_anchor": "#osfi.large_exposure.2019.package",
+  "section_path": "OSFI > package_guideline"
 }

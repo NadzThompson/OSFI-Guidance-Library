@@ -62,7 +62,16 @@
   "chapter_number": 1,
   "chapter_title": "Overview",
   "document_order_within_family": 1,
-  "supersedes_doc_id": "osfi.lar.2025.chapter7.chapter",
+  "supersedes_doc_id": [
+    "osfi.lar.2025.package",
+    "osfi.lar.2025.chapter1.chapter",
+    "osfi.lar.2025.chapter2.chapter",
+    "osfi.lar.2025.chapter3.chapter",
+    "osfi.lar.2025.chapter4.chapter",
+    "osfi.lar.2025.chapter5.chapter",
+    "osfi.lar.2025.chapter6.chapter",
+    "osfi.lar.2025.chapter7.chapter"
+  ],
   "superseded_by_doc_id": null,
   "current_version_flag": true,
   "status": "final_future_effective",
@@ -573,5 +582,7 @@
   "regulator_acronym": "OSFI",
   "jurisdiction": "Canada",
   "short_title": "LAR",
-  "source_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/liquidity-adequacy-requirements-lar-2026-chapter-1-overview"
+  "source_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/liquidity-adequacy-requirements-lar-2026-chapter-1-overview",
+  "citation_anchor": "#osfi.lar.2026.chapter1.chapter",
+  "section_path": "OSFI > chapter_guideline > LAR"
 }

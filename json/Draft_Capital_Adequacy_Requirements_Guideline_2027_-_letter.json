@@ -386,6 +386,8 @@
   "regulator": "OSFI",
   "regulator_acronym": "OSFI",
   "jurisdiction": "Canada",
-  "short_title": "",
-  "source_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/draft-capital-adequacy-requirements-guideline-2027-letter"
+  "short_title": "Draft Capital Adequacy Requirements Guideline (2027)",
+  "source_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/draft-capital-adequacy-requirements-guideline-2027-letter",
+  "citation_anchor": "#osfi.draft-capital-adequacy-requirements-guideline.2027.transmittal",
+  "section_path": "OSFI > transmittal_letter"
 }

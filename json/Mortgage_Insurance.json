@@ -50,7 +50,7 @@
   "doc_family_id": "osfi.mortgage-insurance",
   "version_id": "",
   "version_label": "Mortgage Insurance",
-  "version_sort_key": "",
+  "version_sort_key": "2010-06",
   "parent_doc_id": null,
   "child_doc_ids": [],
   "is_package_page": false,
@@ -264,6 +264,8 @@
   "regulator": "OSFI",
   "regulator_acronym": "OSFI",
   "jurisdiction": "Canada",
-  "short_title": "",
-  "source_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/mortgage-insurance"
+  "short_title": "Mortgage Insurance",
+  "source_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/mortgage-insurance",
+  "citation_anchor": "#osfi.mortgage-insurance.implementation",
+  "section_path": "OSFI > implementation_note"
 }

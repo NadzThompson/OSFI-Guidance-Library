@@ -16,7 +16,9 @@
   "category": "",
   "document_date_raw": "December 2, 2009",
   "document_date_iso": "2009-12-02",
-  "sector": [],
+  "sector": [
+    "Cross-Sector"
+  ],
   "effective_date_text": "",
   "guideline_number": "",
   "date_modified_raw": "2009-12-02T12:00:00Z",
@@ -206,6 +208,8 @@
   "regulator": "OSFI",
   "regulator_acronym": "OSFI",
   "jurisdiction": "Canada",
-  "short_title": "",
-  "source_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/stress-testing-letter-2009"
+  "short_title": "Stress Testing",
+  "source_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/stress-testing-letter-2009",
+  "citation_anchor": "#osfi.stress-testing.2009.transmittal",
+  "section_path": "OSFI > transmittal_letter"
 }

@@ -45,7 +45,7 @@
   "doc_family_id": "osfi.b15",
   "version_id": "",
   "version_label": "Deferral of the public consultation on Guideline B-15 disclo",
-  "version_sort_key": "",
+  "version_sort_key": "2026-01",
   "parent_doc_id": null,
   "child_doc_ids": [],
   "is_package_page": false,
@@ -160,5 +160,7 @@
   "regulator_acronym": "OSFI",
   "jurisdiction": "Canada",
   "short_title": "B-15",
-  "source_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/deferral-public-consultation-guideline-b-15-disclosure-expectation-financed-emissions-related"
+  "source_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/deferral-public-consultation-guideline-b-15-disclosure-expectation-financed-emissions-related",
+  "citation_anchor": "#osfi.b15.transmittal",
+  "section_path": "OSFI > transmittal_letter > B-15"
 }

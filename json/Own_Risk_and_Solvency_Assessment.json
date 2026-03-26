@@ -66,7 +66,7 @@
   "doc_family_id": "osfi.own-risk-solvency-assessment",
   "version_id": "",
   "version_label": "Own Risk and Solvency Assessment",
-  "version_sort_key": "",
+  "version_sort_key": "2017-12",
   "parent_doc_id": null,
   "child_doc_ids": [],
   "is_package_page": false,
@@ -891,6 +891,8 @@
   "regulator": "OSFI",
   "regulator_acronym": "OSFI",
   "jurisdiction": "Canada",
-  "short_title": "",
-  "source_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/own-risk-solvency-assessment"
+  "short_title": "Own Risk and Solvency Assessment",
+  "source_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/own-risk-solvency-assessment",
+  "citation_anchor": "#osfi.own-risk-solvency-assessment.standalone",
+  "section_path": "OSFI > standalone_guideline"
 }

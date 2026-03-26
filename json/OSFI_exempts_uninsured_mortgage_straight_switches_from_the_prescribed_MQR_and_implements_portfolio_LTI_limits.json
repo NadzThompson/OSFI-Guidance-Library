@@ -60,7 +60,7 @@
   "doc_family_id": "osfi.osfi-exempts-uninsured-mortgage-straight-switches-",
   "version_id": "",
   "version_label": "OSFI exempts uninsured mortgage straight switches from the p",
-  "version_sort_key": "",
+  "version_sort_key": "2024-11",
   "parent_doc_id": null,
   "child_doc_ids": [],
   "is_package_page": false,
@@ -240,6 +240,8 @@
   "regulator": "OSFI",
   "regulator_acronym": "OSFI",
   "jurisdiction": "Canada",
-  "short_title": "",
-  "source_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/osfi-exempts-uninsured-mortgage-straight-switches-prescribed-mqr-implements-portfolio-lti-limits"
+  "short_title": "OSFI exempts uninsured mortgage straight switches from the",
+  "source_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/osfi-exempts-uninsured-mortgage-straight-switches-prescribed-mqr-implements-portfolio-lti-limits",
+  "citation_anchor": "#osfi.osfi-exempts-uninsured-mortgage-straight-switches-.transmittal",
+  "section_path": "OSFI > transmittal_letter"
 }

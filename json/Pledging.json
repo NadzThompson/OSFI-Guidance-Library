@@ -45,7 +45,7 @@
   "doc_family_id": "osfi.pledging",
   "version_id": "",
   "version_label": "Pledging",
-  "version_sort_key": "",
+  "version_sort_key": "2003-05",
   "parent_doc_id": null,
   "child_doc_ids": [],
   "is_package_page": false,
@@ -305,6 +305,8 @@
   "regulator": "OSFI",
   "regulator_acronym": "OSFI",
   "jurisdiction": "Canada",
-  "short_title": "",
-  "source_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/pledging"
+  "short_title": "Pledging",
+  "source_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/pledging",
+  "citation_anchor": "#osfi.pledging.standalone",
+  "section_path": "OSFI > standalone_guideline"
 }

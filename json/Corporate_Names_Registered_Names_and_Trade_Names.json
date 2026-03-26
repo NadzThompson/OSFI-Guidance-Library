@@ -43,7 +43,7 @@
   "doc_family_id": "osfi.corporate-names-registered-names-trade-names",
   "version_id": "",
   "version_label": "Corporate Names, Registered Names and Trade Names",
-  "version_sort_key": "",
+  "version_sort_key": "2020-01",
   "parent_doc_id": null,
   "child_doc_ids": [],
   "is_package_page": false,
@@ -512,6 +512,8 @@
   "regulator": "OSFI",
   "regulator_acronym": "OSFI",
   "jurisdiction": "Canada",
-  "short_title": "",
-  "source_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/corporate-names-registered-names-trade-names"
+  "short_title": "Corporate Names, Registered Names and Trade Names",
+  "source_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/corporate-names-registered-names-trade-names",
+  "citation_anchor": "#osfi.corporate-names-registered-names-trade-names.advisory",
+  "section_path": "OSFI > advisory"
 }

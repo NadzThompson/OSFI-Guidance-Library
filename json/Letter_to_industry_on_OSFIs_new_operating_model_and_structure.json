@@ -16,7 +16,9 @@
   "category": "",
   "document_date_raw": "June 2, 2025",
   "document_date_iso": "2025-06-02",
-  "sector": [],
+  "sector": [
+    "Cross-Sector"
+  ],
   "effective_date_text": "",
   "guideline_number": "",
   "date_modified_raw": "2025-06-02T12:00:00Z",
@@ -35,7 +37,7 @@
   "doc_family_id": "osfi.letter-industry-osfis-new-operating-model-structur",
   "version_id": "",
   "version_label": "Letter to industry on OSFI’s new operating model and structu",
-  "version_sort_key": "",
+  "version_sort_key": "2025-06",
   "parent_doc_id": null,
   "child_doc_ids": [],
   "is_package_page": false,
@@ -186,6 +188,8 @@
   "regulator": "OSFI",
   "regulator_acronym": "OSFI",
   "jurisdiction": "Canada",
-  "short_title": "",
-  "source_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/letter-industry-osfis-new-operating-model-structure"
+  "short_title": "Letter to industry on OSFI’s new operating model and",
+  "source_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/letter-industry-osfis-new-operating-model-structure",
+  "citation_anchor": "#osfi.letter-industry-osfis-new-operating-model-structur.transmittal",
+  "section_path": "OSFI > transmittal_letter"
 }

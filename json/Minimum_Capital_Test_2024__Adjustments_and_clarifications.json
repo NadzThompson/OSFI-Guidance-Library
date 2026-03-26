@@ -301,6 +301,8 @@
   "regulator": "OSFI",
   "regulator_acronym": "OSFI",
   "jurisdiction": "Canada",
-  "short_title": "",
-  "source_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/minimum-capital-test-2024-adjustments-clarifications"
+  "short_title": "Minimum Capital Test 2024 – Adjustments and clarifications",
+  "source_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/minimum-capital-test-2024-adjustments-clarifications",
+  "citation_anchor": "#osfi.mct.2024.standalone",
+  "section_path": "OSFI > standalone_guideline"
 }

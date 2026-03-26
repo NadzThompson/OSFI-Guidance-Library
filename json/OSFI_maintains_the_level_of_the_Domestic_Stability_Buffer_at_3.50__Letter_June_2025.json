@@ -199,6 +199,8 @@
   "regulator": "OSFI",
   "regulator_acronym": "OSFI",
   "jurisdiction": "Canada",
-  "short_title": "",
-  "source_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/osfi-maintains-level-domestic-stability-buffer-350-letter-june-2025"
+  "short_title": "OSFI maintains the level of the Domestic Stability Buffer",
+  "source_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/osfi-maintains-level-domestic-stability-buffer-350-letter-june-2025",
+  "citation_anchor": "#osfi.dsb.2025.transmittal",
+  "section_path": "OSFI > transmittal_letter"
 }

@@ -1264,6 +1264,8 @@
   "regulator": "OSFI",
   "regulator_acronym": "OSFI",
   "jurisdiction": "Canada",
-  "short_title": "",
-  "source_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/derivatives-sound-practices-guideline-2014"
+  "short_title": "Derivatives Sound Practices – Guideline (2014)",
+  "source_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/derivatives-sound-practices-guideline-2014",
+  "citation_anchor": "#osfi.derivatives-sound-practices-guideline.2014.package",
+  "section_path": "OSFI > package_guideline"
 }

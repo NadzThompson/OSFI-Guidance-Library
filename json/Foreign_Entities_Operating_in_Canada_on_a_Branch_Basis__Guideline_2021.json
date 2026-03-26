@@ -448,6 +448,8 @@
   "regulator": "OSFI",
   "regulator_acronym": "OSFI",
   "jurisdiction": "Canada",
-  "short_title": "",
-  "source_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/foreign-entities-operating-canada-branch-basis-guideline-2021"
+  "short_title": "Foreign Entities Operating in Canada on a Branch Basis –",
+  "source_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/foreign-entities-operating-canada-branch-basis-guideline-2021",
+  "citation_anchor": "#osfi.foreign-entities-operating-canada-branch-basis-gui.2021.package",
+  "section_path": "OSFI > package_guideline"
 }

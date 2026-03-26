@@ -16,7 +16,9 @@
   "category": "Sound Business and Financial Practices",
   "document_date_raw": "April 24, 2023",
   "document_date_iso": "2023-04-24",
-  "sector": [],
+  "sector": [
+    "Cross-Sector"
+  ],
   "effective_date_text": "",
   "guideline_number": "B-10",
   "date_modified_raw": "2023-04-24T12:00:00Z",
@@ -35,7 +37,7 @@
   "doc_family_id": "osfi.b10",
   "version_id": "",
   "version_label": "OSFI response to draft guideline B-10 consultation feedback ",
-  "version_sort_key": "",
+  "version_sort_key": "2023-04",
   "parent_doc_id": null,
   "child_doc_ids": [],
   "is_package_page": false,
@@ -190,5 +192,7 @@
   "regulator_acronym": "OSFI",
   "jurisdiction": "Canada",
   "short_title": "B-10",
-  "source_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/osfi-response-draft-guideline-b-10-consultation-feedback-third-party-risk-management"
+  "source_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/osfi-response-draft-guideline-b-10-consultation-feedback-third-party-risk-management",
+  "citation_anchor": "#osfi.b10.transmittal",
+  "section_path": "OSFI > transmittal_letter > B-10"
 }

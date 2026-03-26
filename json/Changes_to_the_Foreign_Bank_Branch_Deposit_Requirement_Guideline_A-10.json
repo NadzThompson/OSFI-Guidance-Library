@@ -39,7 +39,7 @@
   "doc_family_id": "osfi.a1",
   "version_id": "",
   "version_label": "Changes to the Foreign Bank Branch Deposit Requirement (Guid",
-  "version_sort_key": "",
+  "version_sort_key": "2019-12",
   "parent_doc_id": null,
   "child_doc_ids": [],
   "is_package_page": false,
@@ -203,5 +203,7 @@
   "regulator_acronym": "OSFI",
   "jurisdiction": "Canada",
   "short_title": "A-10",
-  "source_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/changes-foreign-bank-branch-deposit-requirement-guideline-10"
+  "source_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/changes-foreign-bank-branch-deposit-requirement-guideline-10",
+  "citation_anchor": "#osfi.a1.transmittal",
+  "section_path": "OSFI > transmittal_letter > A-10"
 }

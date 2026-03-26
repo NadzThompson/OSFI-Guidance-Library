@@ -3268,5 +3268,7 @@
   "regulator_acronym": "OSFI",
   "jurisdiction": "Canada",
   "short_title": "CAR",
-  "source_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/capital-adequacy-requirements-car-2026-chapter-8-credit-valuation-adjustment-cva-risk"
+  "source_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/capital-adequacy-requirements-car-2026-chapter-8-credit-valuation-adjustment-cva-risk",
+  "citation_anchor": "#osfi.car.2026.chapter8.chapter",
+  "section_path": "OSFI > chapter_guideline > CAR"
 }

@@ -41,7 +41,7 @@
   "doc_family_id": "osfi.update-development-new-approach-determining-regula",
   "version_id": "",
   "version_label": "Update on the Development of a New Approach for Determining ",
-  "version_sort_key": "",
+  "version_sort_key": "2021-11",
   "parent_doc_id": null,
   "child_doc_ids": [],
   "is_package_page": false,
@@ -265,6 +265,8 @@
   "regulator": "OSFI",
   "regulator_acronym": "OSFI",
   "jurisdiction": "Canada",
-  "short_title": "",
-  "source_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/update-development-new-approach-determining-regulatory-capital-requirements-segregated-fund"
+  "short_title": "Update on the Development of a New Approach for Determining",
+  "source_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/update-development-new-approach-determining-regulatory-capital-requirements-segregated-fund",
+  "citation_anchor": "#osfi.update-development-new-approach-determining-regula.transmittal",
+  "section_path": "OSFI > transmittal_letter"
 }

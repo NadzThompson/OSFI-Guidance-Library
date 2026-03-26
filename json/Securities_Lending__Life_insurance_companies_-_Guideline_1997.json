@@ -369,6 +369,8 @@
   "regulator": "OSFI",
   "regulator_acronym": "OSFI",
   "jurisdiction": "Canada",
-  "short_title": "",
-  "source_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/securities-lending-life-insurance-companies-guideline-1997"
+  "short_title": "Securities Lending – Life insurance companies",
+  "source_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/securities-lending-life-insurance-companies-guideline-1997",
+  "citation_anchor": "#osfi.securities-lending-life-insurance-companies-guidel.1997.package",
+  "section_path": "OSFI > package_guideline"
 }

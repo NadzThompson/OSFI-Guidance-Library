@@ -4023,5 +4023,7 @@
   "regulator_acronym": "OSFI",
   "jurisdiction": "Canada",
   "short_title": "CAR",
-  "source_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/capital-adequacy-requirements-car-2026-chapter-2-definition-capital"
+  "source_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/capital-adequacy-requirements-car-2026-chapter-2-definition-capital",
+  "citation_anchor": "#osfi.car.2026.chapter2.chapter",
+  "section_path": "OSFI > chapter_guideline > CAR"
 }

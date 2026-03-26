@@ -41,7 +41,7 @@
   "doc_family_id": "osfi.assessment-regulatory-capital-models-deposit-takin",
   "version_id": "",
   "version_label": "Assessment of Regulatory Capital Models for Deposit-Taking I",
-  "version_sort_key": "",
+  "version_sort_key": "2021-01",
   "parent_doc_id": null,
   "child_doc_ids": [],
   "is_package_page": false,
@@ -1060,6 +1060,8 @@
   "regulator": "OSFI",
   "regulator_acronym": "OSFI",
   "jurisdiction": "Canada",
-  "short_title": "",
-  "source_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/assessment-regulatory-capital-models-deposit-taking-institutions"
+  "short_title": "Assessment of Regulatory Capital Models for Deposit-Taking",
+  "source_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/assessment-regulatory-capital-models-deposit-taking-institutions",
+  "citation_anchor": "#osfi.assessment-regulatory-capital-models-deposit-takin.implementation",
+  "section_path": "OSFI > implementation_note"
 }

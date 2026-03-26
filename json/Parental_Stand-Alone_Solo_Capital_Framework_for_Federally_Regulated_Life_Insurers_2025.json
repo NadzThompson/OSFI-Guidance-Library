@@ -777,6 +777,8 @@
   "regulator": "OSFI",
   "regulator_acronym": "OSFI",
   "jurisdiction": "Canada",
-  "short_title": "",
-  "source_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/parental-stand-alone-solo-capital-framework-federally-regulated-life-insurers-2025"
+  "short_title": "Parental Stand-Alone (Solo) Capital Framework for Federally",
+  "source_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/parental-stand-alone-solo-capital-framework-federally-regulated-life-insurers-2025",
+  "citation_anchor": "#osfi.parental-stand-alone-solo-capital-framework-federa.2025.standalone",
+  "section_path": "OSFI > standalone_guideline"
 }

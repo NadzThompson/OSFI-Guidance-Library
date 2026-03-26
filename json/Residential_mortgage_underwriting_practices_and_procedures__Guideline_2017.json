@@ -30,7 +30,7 @@
     "Trust and Loan Companies"
   ],
   "effective_date_text": "",
-  "guideline_number": "",
+  "guideline_number": "B-20",
   "date_modified_raw": "2017-10-31T12:00:00Z",
   "generate_pdf_url": "https://www.osfi-bsif.gc.ca/en/print/pdf/node/574",
   "pdf_node_id": 574,
@@ -1280,6 +1280,8 @@
   "regulator": "OSFI",
   "regulator_acronym": "OSFI",
   "jurisdiction": "Canada",
-  "short_title": "",
-  "source_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/residential-mortgage-underwriting-practices-procedures-guideline-2017"
+  "short_title": "Residential mortgage underwriting practices and procedures",
+  "source_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/residential-mortgage-underwriting-practices-procedures-guideline-2017",
+  "citation_anchor": "#osfi.b20.2017.package",
+  "section_path": "OSFI > package_guideline"
 }

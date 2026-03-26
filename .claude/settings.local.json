@@ -3,7 +3,11 @@
     "allow": [
       "Bash(echo \"EXIT: $?\")",
       "Bash(git remote:*)",
-      "Bash(git add:*)"
+      "Bash(git add:*)",
+      "Bash(git commit:*)",
+      "Bash(gh api:*)",
+      "Bash(gh auth:*)",
+      "Bash(git pull:*)"
     ]
   }
 }

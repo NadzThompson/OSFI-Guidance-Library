@@ -1108,6 +1108,8 @@
   "regulator": "OSFI",
   "regulator_acronym": "OSFI",
   "jurisdiction": "Canada",
-  "short_title": "",
-  "source_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/residential-mortgage-insurance-underwriting-practices-procedures-guideline-2019"
+  "short_title": "Residential Mortgage Insurance Underwriting Practices and",
+  "source_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/residential-mortgage-insurance-underwriting-practices-procedures-guideline-2019",
+  "citation_anchor": "#osfi.residential-mortgage-insurance-underwriting-practi.2019.package",
+  "section_path": "OSFI > package_guideline"
 }

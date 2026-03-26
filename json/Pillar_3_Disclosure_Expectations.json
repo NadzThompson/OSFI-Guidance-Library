@@ -41,7 +41,7 @@
   "doc_family_id": "osfi.pillar3",
   "version_id": "",
   "version_label": "Pillar 3 Disclosure Expectations",
-  "version_sort_key": "",
+  "version_sort_key": "2025-02",
   "parent_doc_id": null,
   "child_doc_ids": [],
   "is_package_page": false,
@@ -155,6 +155,8 @@
   "regulator": "OSFI",
   "regulator_acronym": "OSFI",
   "jurisdiction": "Canada",
-  "short_title": "",
-  "source_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/pillar-3-disclosure-expectations"
+  "short_title": "Pillar 3 Disclosure Expectations",
+  "source_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/pillar-3-disclosure-expectations",
+  "citation_anchor": "#osfi.pillar3.standalone",
+  "section_path": "OSFI > standalone_guideline"
 }

@@ -39,7 +39,7 @@
   "doc_family_id": "osfi.increase-regulatory-prudential-limits-related-inve",
   "version_id": "",
   "version_label": "Increase of regulatory prudential limits related to investme",
-  "version_sort_key": "",
+  "version_sort_key": "2022-12",
   "parent_doc_id": null,
   "child_doc_ids": [],
   "is_package_page": false,
@@ -326,6 +326,8 @@
   "regulator": "OSFI",
   "regulator_acronym": "OSFI",
   "jurisdiction": "Canada",
-  "short_title": "",
-  "source_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/increase-regulatory-prudential-limits-related-investment-lending-borrowing-all-canadian-property"
+  "short_title": "Increase of regulatory prudential limits related to",
+  "source_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/increase-regulatory-prudential-limits-related-investment-lending-borrowing-all-canadian-property",
+  "citation_anchor": "#osfi.increase-regulatory-prudential-limits-related-inve.advisory",
+  "section_path": "OSFI > advisory"
 }

@@ -51,7 +51,7 @@
   "doc_family_id": "osfi.data-collection-modernization-initiative-progress-",
   "version_id": "",
   "version_label": "Data Collection Modernization Initiative Progress Update and",
-  "version_sort_key": "",
+  "version_sort_key": "2025-06",
   "parent_doc_id": null,
   "child_doc_ids": [],
   "is_package_page": false,
@@ -498,6 +498,8 @@
   "regulator": "OSFI",
   "regulator_acronym": "OSFI",
   "jurisdiction": "Canada",
-  "short_title": "",
-  "source_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/data-collection-modernization-initiative-progress-update-upcoming-priorities"
+  "short_title": "Data Collection Modernization Initiative Progress Update",
+  "source_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/data-collection-modernization-initiative-progress-update-upcoming-priorities",
+  "citation_anchor": "#osfi.data-collection-modernization-initiative-progress-.transmittal",
+  "section_path": "OSFI > transmittal_letter"
 }

@@ -237,6 +237,8 @@
   "regulator": "OSFI",
   "regulator_acronym": "OSFI",
   "jurisdiction": "Canada",
-  "short_title": "",
-  "source_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/materiality-criteria-related-party-transactions-property-casualty-insurance-companies-bulletin-1993"
+  "short_title": "Materiality Criteria for Related Party Transactions of",
+  "source_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/materiality-criteria-related-party-transactions-property-casualty-insurance-companies-bulletin-1993",
+  "citation_anchor": "#osfi.materiality-criteria-related-party-transactions-pr.1993.bulletin",
+  "section_path": "OSFI > bulletin"
 }

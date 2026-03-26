@@ -56,7 +56,7 @@
   "doc_family_id": "osfi.b20",
   "version_id": "",
   "version_label": "Final Revised Guideline B-20: Residential Mortgage Underwrit",
-  "version_sort_key": "",
+  "version_sort_key": "2017-10",
   "parent_doc_id": null,
   "child_doc_ids": [],
   "is_package_page": false,
@@ -418,5 +418,7 @@
   "regulator_acronym": "OSFI",
   "jurisdiction": "Canada",
   "short_title": "B-20",
-  "source_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/final-revised-guideline-b-20-residential-mortgage-underwriting-practices-procedures"
+  "source_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/final-revised-guideline-b-20-residential-mortgage-underwriting-practices-procedures",
+  "citation_anchor": "#osfi.b20.transmittal",
+  "section_path": "OSFI > transmittal_letter > B-20"
 }

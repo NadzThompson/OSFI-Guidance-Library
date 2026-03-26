@@ -845,6 +845,8 @@
   "regulator": "OSFI",
   "regulator_acronym": "OSFI",
   "jurisdiction": "Canada",
-  "short_title": "",
-  "source_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/appointed-actuary-legal-requirements-qualifications-peer-review-guideline-2023"
+  "short_title": "Appointed Actuary: Legal Requirements, Qualifications and",
+  "source_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/appointed-actuary-legal-requirements-qualifications-peer-review-guideline-2023",
+  "citation_anchor": "#osfi.appointed-actuary-legal-requirements-qualification.2023.package",
+  "section_path": "OSFI > package_guideline"
 }

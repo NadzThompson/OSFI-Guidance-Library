@@ -24,7 +24,7 @@
     "Trust and Loan Companies"
   ],
   "effective_date_text": "",
-  "guideline_number": "",
+  "guideline_number": "E-23",
   "date_modified_raw": "2017-09-30T12:00:00Z",
   "generate_pdf_url": "https://www.osfi-bsif.gc.ca/en/print/pdf/node/613",
   "pdf_node_id": 613,
@@ -688,6 +688,8 @@
   "regulator": "OSFI",
   "regulator_acronym": "OSFI",
   "jurisdiction": "Canada",
-  "short_title": "",
-  "source_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/enterprise-wide-model-risk-management-deposit-taking-institutions-guideline-2017"
+  "short_title": "Enterprise-Wide Model Risk Management for Deposit-Taking",
+  "source_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/enterprise-wide-model-risk-management-deposit-taking-institutions-guideline-2017",
+  "citation_anchor": "#osfi.e23.2017.package",
+  "section_path": "OSFI > package_guideline"
 }

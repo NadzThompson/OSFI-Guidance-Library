@@ -178,5 +178,7 @@
   "regulator_acronym": "OSFI",
   "jurisdiction": "Canada",
   "short_title": "MICAT",
-  "source_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/mortgage-insurer-capital-adequacy-test-micat-2025-letter"
+  "source_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/mortgage-insurer-capital-adequacy-test-micat-2025-letter",
+  "citation_anchor": "#osfi.micat.2025.transmittal",
+  "section_path": "OSFI > transmittal_letter > MICAT"
 }

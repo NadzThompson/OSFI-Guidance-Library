@@ -6157,6 +6157,8 @@
   "regulator": "OSFI",
   "regulator_acronym": "OSFI",
   "jurisdiction": "Canada",
-  "short_title": "",
-  "source_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/minimum-capital-test-guideline-2024"
+  "short_title": "Minimum Capital Test",
+  "source_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/minimum-capital-test-guideline-2024",
+  "citation_anchor": "#osfi.mct.2024.package",
+  "section_path": "OSFI > package_guideline"
 }

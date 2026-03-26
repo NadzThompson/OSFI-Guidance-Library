@@ -220,5 +220,7 @@
   "regulator_acronym": "OSFI",
   "jurisdiction": "Canada",
   "short_title": "LICAT",
-  "source_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/life-insurance-capital-adequacy-test-licat-2025-letter"
+  "source_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/life-insurance-capital-adequacy-test-licat-2025-letter",
+  "citation_anchor": "#osfi.licat.2025.transmittal",
+  "section_path": "OSFI > transmittal_letter > LICAT"
 }

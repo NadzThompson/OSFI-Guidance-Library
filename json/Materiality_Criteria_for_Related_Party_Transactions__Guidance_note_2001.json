@@ -249,6 +249,8 @@
   "regulator": "OSFI",
   "regulator_acronym": "OSFI",
   "jurisdiction": "Canada",
-  "short_title": "",
-  "source_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/materiality-criteria-related-party-transactions-guidance-note-2001"
+  "short_title": "Materiality Criteria for Related Party Transactions –",
+  "source_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/materiality-criteria-related-party-transactions-guidance-note-2001",
+  "citation_anchor": "#osfi.materiality-criteria-related-party-transactions-gu.2001.guidance",
+  "section_path": "OSFI > guidance_note"
 }

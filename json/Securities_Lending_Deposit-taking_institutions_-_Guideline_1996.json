@@ -375,6 +375,8 @@
   "regulator": "OSFI",
   "regulator_acronym": "OSFI",
   "jurisdiction": "Canada",
-  "short_title": "",
-  "source_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/securities-lending-deposit-taking-institutions-guideline-1996"
+  "short_title": "Securities Lending Deposit-taking institutions",
+  "source_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/securities-lending-deposit-taking-institutions-guideline-1996",
+  "citation_anchor": "#osfi.securities-lending-deposit-taking-institutions-gui.1996.package",
+  "section_path": "OSFI > package_guideline"
 }

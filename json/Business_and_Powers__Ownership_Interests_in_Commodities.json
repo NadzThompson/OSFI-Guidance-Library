@@ -45,7 +45,7 @@
   "doc_family_id": "osfi.business-powers-ownership-interests-commodities",
   "version_id": "",
   "version_label": "Business and Powers – Ownership Interests in Commodities",
-  "version_sort_key": "",
+  "version_sort_key": "2013-01",
   "parent_doc_id": null,
   "child_doc_ids": [],
   "is_package_page": false,
@@ -394,6 +394,8 @@
   "regulator": "OSFI",
   "regulator_acronym": "OSFI",
   "jurisdiction": "Canada",
-  "short_title": "",
-  "source_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/business-powers-ownership-interests-commodities"
+  "short_title": "Business and Powers – Ownership Interests in Commodities",
+  "source_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/business-powers-ownership-interests-commodities",
+  "citation_anchor": "#osfi.business-powers-ownership-interests-commodities.advisory",
+  "section_path": "OSFI > advisory"
 }

@@ -258,6 +258,8 @@
   "regulator": "OSFI",
   "regulator_acronym": "OSFI",
   "jurisdiction": "Canada",
-  "short_title": "",
-  "source_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/2025-annual-update-manual-reporting-forms-instructions-deposit-taking-institutions"
+  "short_title": "“2025 Annual update” to the Manual of Reporting Forms and",
+  "source_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/2025-annual-update-manual-reporting-forms-instructions-deposit-taking-institutions",
+  "citation_anchor": "#osfi.annual-update-manual-reporting-forms-instructions-.2025.transmittal",
+  "section_path": "OSFI > transmittal_letter"
 }

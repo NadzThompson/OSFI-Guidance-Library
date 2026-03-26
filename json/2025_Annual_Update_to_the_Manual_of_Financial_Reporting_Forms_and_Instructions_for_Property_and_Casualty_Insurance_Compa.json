@@ -272,6 +272,8 @@
   "regulator": "OSFI",
   "regulator_acronym": "OSFI",
   "jurisdiction": "Canada",
-  "short_title": "",
-  "source_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/2025-annual-update-manual-financial-reporting-forms-instructions-property-casualty-insurance"
+  "short_title": "“2025 Annual Update” to the Manual of Financial Reporting",
+  "source_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/2025-annual-update-manual-financial-reporting-forms-instructions-property-casualty-insurance",
+  "citation_anchor": "#osfi.annual-update-manual-financial-reporting-forms-ins.2025.transmittal",
+  "section_path": "OSFI > transmittal_letter"
 }

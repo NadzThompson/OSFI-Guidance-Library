@@ -1245,6 +1245,8 @@
   "regulator": "OSFI",
   "regulator_acronym": "OSFI",
   "jurisdiction": "Canada",
-  "short_title": "",
-  "source_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/margin-requirements-non-centrally-cleared-derivatives-guideline-2020"
+  "short_title": "Margin Requirements for Non-Centrally Cleared Derivatives –",
+  "source_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/margin-requirements-non-centrally-cleared-derivatives-guideline-2020",
+  "citation_anchor": "#osfi.margin-requirements-non-centrally-cleared-derivati.2020.package",
+  "section_path": "OSFI > package_guideline"
 }

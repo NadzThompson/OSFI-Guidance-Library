@@ -16,7 +16,9 @@
   "category": "",
   "document_date_raw": "December 17, 2021",
   "document_date_iso": "2021-12-17",
-  "sector": [],
+  "sector": [
+    "Cross-Sector"
+  ],
   "effective_date_text": "",
   "guideline_number": "",
   "date_modified_raw": "2021-12-17T12:00:00Z",
@@ -212,6 +214,8 @@
   "regulator": "OSFI",
   "regulator_acronym": "OSFI",
   "jurisdiction": "Canada",
-  "short_title": "",
-  "source_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/minimum-qualifying-rate-letter-2021"
+  "short_title": "Minimum Qualifying Rate",
+  "source_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/minimum-qualifying-rate-letter-2021",
+  "citation_anchor": "#osfi.minimum-qualifying-rate.2021.transmittal",
+  "section_path": "OSFI > transmittal_letter"
 }

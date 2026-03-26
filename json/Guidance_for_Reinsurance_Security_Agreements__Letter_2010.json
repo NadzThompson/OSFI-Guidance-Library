@@ -183,6 +183,8 @@
   "regulator": "OSFI",
   "regulator_acronym": "OSFI",
   "jurisdiction": "Canada",
-  "short_title": "",
-  "source_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/guidance-reinsurance-security-agreements-letter-2010"
+  "short_title": "Guidance for Reinsurance Security Agreements – Letter (2010)",
+  "source_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/guidance-reinsurance-security-agreements-letter-2010",
+  "citation_anchor": "#osfi.guidance-reinsurance-security-agreements.2010.transmittal",
+  "section_path": "OSFI > transmittal_letter"
 }

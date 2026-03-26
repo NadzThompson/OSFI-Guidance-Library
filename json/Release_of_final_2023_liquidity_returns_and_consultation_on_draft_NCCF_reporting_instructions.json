@@ -190,6 +190,8 @@
   "regulator": "OSFI",
   "regulator_acronym": "OSFI",
   "jurisdiction": "Canada",
-  "short_title": "",
-  "source_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/release-final-2023-liquidity-returns-consultation-draft-nccf-reporting-instructions"
+  "short_title": "Release of final 2023 liquidity returns and consultation on",
+  "source_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/release-final-2023-liquidity-returns-consultation-draft-nccf-reporting-instructions",
+  "citation_anchor": "#osfi.release-final-liquidity-returns-consultation-draft.2023.transmittal",
+  "section_path": "OSFI > transmittal_letter"
 }

@@ -192,5 +192,7 @@
   "regulator_acronym": "OSFI",
   "jurisdiction": "Canada",
   "short_title": "TLAC",
-  "source_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/total-loss-absorbing-capacity-tlac-disclosure-requirements-guideline-capital-disclosure-requirements"
+  "source_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/total-loss-absorbing-capacity-tlac-disclosure-requirements-guideline-capital-disclosure-requirements",
+  "citation_anchor": "#osfi.tlac.2018.transmittal",
+  "section_path": "OSFI > transmittal_letter > TLAC"
 }

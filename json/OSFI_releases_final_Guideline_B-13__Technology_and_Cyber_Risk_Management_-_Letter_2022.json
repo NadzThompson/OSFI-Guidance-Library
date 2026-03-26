@@ -180,5 +180,7 @@
   "regulator_acronym": "OSFI",
   "jurisdiction": "Canada",
   "short_title": "B-13",
-  "source_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/osfi-releases-final-guideline-b-13-technology-cyber-risk-management-letter-2022"
+  "source_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/osfi-releases-final-guideline-b-13-technology-cyber-risk-management-letter-2022",
+  "citation_anchor": "#osfi.b13.2022.transmittal",
+  "section_path": "OSFI > transmittal_letter > B-13"
 }

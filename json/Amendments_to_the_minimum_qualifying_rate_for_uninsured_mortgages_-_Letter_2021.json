@@ -296,6 +296,8 @@
   "regulator": "OSFI",
   "regulator_acronym": "OSFI",
   "jurisdiction": "Canada",
-  "short_title": "",
-  "source_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/amendments-minimum-qualifying-rate-uninsured-mortgages-letter-2021"
+  "short_title": "Amendments to the minimum qualifying rate for uninsured",
+  "source_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/amendments-minimum-qualifying-rate-uninsured-mortgages-letter-2021",
+  "citation_anchor": "#osfi.amendments-minimum-qualifying-rate-uninsured-mortg.2021.transmittal",
+  "section_path": "OSFI > transmittal_letter"
 }

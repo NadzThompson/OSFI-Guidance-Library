@@ -56,7 +56,7 @@
   "chapter_number": null,
   "chapter_title": null,
   "document_order_within_family": 0,
-  "supersedes_doc_id": null,
+  "supersedes_doc_id": "osfi.mct.2023.transmittal",
   "superseded_by_doc_id": null,
   "current_version_flag": false,
   "status": "draft_or_consultation",
@@ -204,5 +204,7 @@
   "regulator_acronym": "OSFI",
   "jurisdiction": "Canada",
   "short_title": "MCT",
-  "source_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/public-consultation-draft-minimum-capital-test-mct-2026"
+  "source_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/public-consultation-draft-minimum-capital-test-mct-2026",
+  "citation_anchor": "#osfi.mct.2026.transmittal",
+  "section_path": "OSFI > transmittal_letter > MCT"
 }

@@ -32,7 +32,7 @@
     "Trust and Loan Companies"
   ],
   "effective_date_text": "",
-  "guideline_number": "",
+  "guideline_number": "B-10",
   "date_modified_raw": "2023-04-30T12:00:00Z",
   "generate_pdf_url": "https://www.osfi-bsif.gc.ca/en/print/pdf/node/567",
   "pdf_node_id": 567,
@@ -49,7 +49,7 @@
   "doc_family_id": "osfi.b10",
   "version_id": "",
   "version_label": "Third-Party Risk Management Guideline",
-  "version_sort_key": "",
+  "version_sort_key": "2023-04",
   "parent_doc_id": null,
   "child_doc_ids": [],
   "is_package_page": true,
@@ -1721,6 +1721,8 @@
   "regulator": "OSFI",
   "regulator_acronym": "OSFI",
   "jurisdiction": "Canada",
-  "short_title": "",
-  "source_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/third-party-risk-management-guideline"
+  "short_title": "Third-Party Risk Management Guideline",
+  "source_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/third-party-risk-management-guideline",
+  "citation_anchor": "#osfi.b10.package",
+  "section_path": "OSFI > package_guideline"
 }

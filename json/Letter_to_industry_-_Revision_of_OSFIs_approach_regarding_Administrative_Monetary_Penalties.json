@@ -60,7 +60,7 @@
   "doc_family_id": "osfi.letter-industry-revision-osfis-approach-regarding-",
   "version_id": "",
   "version_label": "Letter to industry - Revision of OSFI’s approach regarding A",
-  "version_sort_key": "",
+  "version_sort_key": "2025-09",
   "parent_doc_id": null,
   "child_doc_ids": [],
   "is_package_page": false,
@@ -299,6 +299,8 @@
   "regulator": "OSFI",
   "regulator_acronym": "OSFI",
   "jurisdiction": "Canada",
-  "short_title": "",
-  "source_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/letter-industry-revision-osfis-approach-regarding-administrative-monetary-penalties"
+  "short_title": "Letter to industry",
+  "source_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/letter-industry-revision-osfis-approach-regarding-administrative-monetary-penalties",
+  "citation_anchor": "#osfi.letter-industry-revision-osfis-approach-regarding-.transmittal",
+  "section_path": "OSFI > transmittal_letter"
 }

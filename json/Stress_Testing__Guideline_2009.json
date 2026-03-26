@@ -666,6 +666,8 @@
   "regulator": "OSFI",
   "regulator_acronym": "OSFI",
   "jurisdiction": "Canada",
-  "short_title": "",
-  "source_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/stress-testing-guideline-2009"
+  "short_title": "Stress Testing – Guideline (2009)",
+  "source_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/stress-testing-guideline-2009",
+  "citation_anchor": "#osfi.stress-testing-guideline.2009.package",
+  "section_path": "OSFI > package_guideline"
 }

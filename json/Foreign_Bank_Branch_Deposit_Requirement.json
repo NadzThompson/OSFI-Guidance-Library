@@ -22,7 +22,7 @@
     "Foreign Bank Branches"
   ],
   "effective_date_text": "",
-  "guideline_number": "",
+  "guideline_number": "A-1",
   "date_modified_raw": "2019-12-31T12:00:00Z",
   "generate_pdf_url": "https://www.osfi-bsif.gc.ca/en/print/pdf/node/564",
   "pdf_node_id": 564,
@@ -39,7 +39,7 @@
   "doc_family_id": "osfi.a1",
   "version_id": "",
   "version_label": "Foreign Bank Branch Deposit Requirement",
-  "version_sort_key": "",
+  "version_sort_key": "2019-12",
   "parent_doc_id": null,
   "child_doc_ids": [],
   "is_package_page": false,
@@ -1634,6 +1634,8 @@
   "regulator": "OSFI",
   "regulator_acronym": "OSFI",
   "jurisdiction": "Canada",
-  "short_title": "",
-  "source_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/foreign-bank-branch-deposit-requirement"
+  "short_title": "Foreign Bank Branch Deposit Requirement",
+  "source_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/foreign-bank-branch-deposit-requirement",
+  "citation_anchor": "#osfi.a1.standalone",
+  "section_path": "OSFI > standalone_guideline"
 }

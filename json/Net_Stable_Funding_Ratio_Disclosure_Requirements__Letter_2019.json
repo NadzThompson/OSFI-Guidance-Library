@@ -264,6 +264,8 @@
   "regulator": "OSFI",
   "regulator_acronym": "OSFI",
   "jurisdiction": "Canada",
-  "short_title": "",
-  "source_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/net-stable-funding-ratio-disclosure-requirements-letter-2019"
+  "short_title": "Net Stable Funding Ratio Disclosure Requirements – Letter",
+  "source_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/net-stable-funding-ratio-disclosure-requirements-letter-2019",
+  "citation_anchor": "#osfi.net-stable-funding-ratio-disclosure-requirements.2019.transmittal",
+  "section_path": "OSFI > transmittal_letter"
 }

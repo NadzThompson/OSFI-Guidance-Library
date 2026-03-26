@@ -176,6 +176,8 @@
   "regulator": "OSFI",
   "regulator_acronym": "OSFI",
   "jurisdiction": "Canada",
-  "short_title": "",
-  "source_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/osfi-maintains-domestic-stability-buffer-level-250-letter-2022"
+  "short_title": "OSFI maintains the Domestic Stability Buffer level at 2.50%",
+  "source_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/osfi-maintains-domestic-stability-buffer-level-250-letter-2022",
+  "citation_anchor": "#osfi.dsb.2022.transmittal",
+  "section_path": "OSFI > transmittal_letter"
 }

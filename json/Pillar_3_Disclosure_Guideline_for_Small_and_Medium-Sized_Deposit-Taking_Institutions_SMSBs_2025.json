@@ -933,6 +933,8 @@
   "regulator": "OSFI",
   "regulator_acronym": "OSFI",
   "jurisdiction": "Canada",
-  "short_title": "",
-  "source_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/pillar-3-disclosure-guideline-small-medium-sized-deposit-taking-institutions-smsbs-2025"
+  "short_title": "Pillar 3 Disclosure Guideline for Small and Medium-Sized",
+  "source_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/pillar-3-disclosure-guideline-small-medium-sized-deposit-taking-institutions-smsbs-2025",
+  "citation_anchor": "#osfi.pillar3.2025.standalone",
+  "section_path": "OSFI > standalone_guideline"
 }

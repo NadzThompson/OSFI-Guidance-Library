@@ -60,7 +60,12 @@
   "chapter_number": null,
   "chapter_title": null,
   "document_order_within_family": 0,
-  "supersedes_doc_id": "osfi.dsb.2021.transmittal",
+  "supersedes_doc_id": [
+    "osfi.dsb.2021.transmittal",
+    "osfi.dsb.2022.transmittal",
+    "osfi.dsb.2023.transmittal",
+    "osfi.dsb.2024.transmittal"
+  ],
   "superseded_by_doc_id": null,
   "current_version_flag": true,
   "status": "final_current",
@@ -199,6 +204,8 @@
   "regulator": "OSFI",
   "regulator_acronym": "OSFI",
   "jurisdiction": "Canada",
-  "short_title": "",
-  "source_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/osfi-maintains-level-domestic-stability-buffer-35-letter-december-2025"
+  "short_title": "OSFI maintains the level of the Domestic Stability Buffer",
+  "source_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/osfi-maintains-level-domestic-stability-buffer-35-letter-december-2025",
+  "citation_anchor": "#osfi.dsb.2025.transmittal",
+  "section_path": "OSFI > transmittal_letter"
 }

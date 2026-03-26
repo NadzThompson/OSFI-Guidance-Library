@@ -780,6 +780,8 @@
   "regulator": "OSFI",
   "regulator_acronym": "OSFI",
   "jurisdiction": "Canada",
-  "short_title": "",
-  "source_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/internal-capital-adequacy-assessment-process-icaap-deposit-taking-institutions-guideline-2010"
+  "short_title": "Internal Capital Adequacy Assessment Process (ICAAP) for",
+  "source_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/internal-capital-adequacy-assessment-process-icaap-deposit-taking-institutions-guideline-2010",
+  "citation_anchor": "#osfi.icaap.2010.package",
+  "section_path": "OSFI > package_guideline"
 }

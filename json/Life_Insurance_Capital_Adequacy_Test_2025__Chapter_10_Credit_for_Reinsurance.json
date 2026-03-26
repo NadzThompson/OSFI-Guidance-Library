@@ -1282,6 +1282,8 @@
   "regulator": "OSFI",
   "regulator_acronym": "OSFI",
   "jurisdiction": "Canada",
-  "short_title": "",
-  "source_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/life-insurance-capital-adequacy-test-2025-chapter-10-credit-reinsurance"
+  "short_title": "Life Insurance Capital Adequacy Test (2025) – Chapter 10",
+  "source_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/life-insurance-capital-adequacy-test-2025-chapter-10-credit-reinsurance",
+  "citation_anchor": "#osfi.licat.2025.chapter10.chapter",
+  "section_path": "OSFI > chapter_guideline"
 }

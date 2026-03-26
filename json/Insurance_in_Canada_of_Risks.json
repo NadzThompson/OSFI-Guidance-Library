@@ -39,7 +39,7 @@
   "doc_family_id": "osfi.insurance-canada-risks",
   "version_id": "",
   "version_label": "Insurance in Canada of Risks",
-  "version_sort_key": "",
+  "version_sort_key": "2007-09",
   "parent_doc_id": null,
   "child_doc_ids": [],
   "is_package_page": false,
@@ -416,6 +416,8 @@
   "regulator": "OSFI",
   "regulator_acronym": "OSFI",
   "jurisdiction": "Canada",
-  "short_title": "",
-  "source_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/insurance-canada-risks"
+  "short_title": "Insurance in Canada of Risks",
+  "source_url": "https://www.osfi-bsif.gc.ca/en/guidance/guidance-library/insurance-canada-risks",
+  "citation_anchor": "#osfi.insurance-canada-risks.advisory",
+  "section_path": "OSFI > advisory"
 }
